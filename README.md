@@ -1,0 +1,2 @@
+# Whole
+"Whole" Thinking System
