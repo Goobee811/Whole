@@ -86,16 +86,24 @@ Nguyên lý về mối quan hệ giữa nguyên nhân và kết quả, và sự 
 
 → **Liên kết:** OPERATIONS (Reasoning Architectures), DYNAMICS (System Dynamics)
 
-#### **6. Cycles & Rhythms** - Chu Kỳ & Nhịp Điệu
+#### **6. Cycles & Rhythms** - Chu Kỳ & Nhịp Điệu [Nguyên Lý Phổ Quát]
 
-Nguyên lý về sự lặp lại của các mẫu hình theo thời gian, từ các chu kỳ nhỏ đến các kỷ nguyên lớn.
+Nguyên lý phổ quát về sự lặp lại của các mẫu hình theo thời gian, từ các chu kỳ vi mô (nhịp tim) đến vĩ mô (kỷ nguyên). Đây là QUY LUẬT TỰ NHIÊN xuất hiện ở mọi hệ thống - vật lý, sinh học, tâm lý, xã hội và vũ trụ.
 
-- **Repetition & Oscillation**: Sự lặp lại và dao động là bản chất của nhiều hệ thống tự nhiên và xã hội
-- **Spiral Development**: Các chu kỳ không chỉ lặp lại mà thường tiến hóa theo hình xoắn ốc, quay lại các chủ đề cũ ở một cấp độ cao hơn
-- **Phase Recognition**: Khả năng nhận diện hệ thống đang ở giai đoạn nào của một chu kỳ (ví dụ: tăng trưởng, đỉnh cao, suy thoái, tái sinh)
-- **Rhythmic Entrainment**: Hiện tượng các nhịp điệu độc lập có xu hướng đồng bộ hóa khi tương tác với nhau
+- **Repetition & Oscillation**: Sự lặp lại và dao động - BẢN CHẤT của tự nhiên
+- **Spiral Development**: Các chu kỳ tiến hóa xoắn ốc - NGUYÊN LÝ phát triển
+- **Phase Recognition**: Nhận diện giai đoạn - CÔNG CỤ định hướng
+- **Rhythmic Entrainment**: Đồng bộ hóa nhịp điệu - HIỆN TƯỢNG phổ quát
 
 → **Liên kết:** DYNAMICS (Transformation Dynamics), NAVIGATION (Timing Wisdom)
+
+→ **Biến thể cụ thể của nguyên lý này xuất hiện ở:**
+  - FOUNDATIONS #14 (Cycles within Cycles - lồng ghép đa tầng)
+  - FOUNDATIONS #15 (Spiral Development - tiến hóa xoắn ốc)
+  - DYNAMICS #27 (Oscillation - dao động cụ thể)
+  - DYNAMICS #45-46 (Recovery/Adaptation Cycles)
+  - NAVIGATION Chức năng 5 (Temporal Rhythm Coordination - ứng dụng)
+  - FOUNDATIONS Chức năng 5 (Natural Principles - chu kỳ tự nhiên)
 
 #### **7. Scale & Hierarchy** - Quy Mô & Phân Cấp
 
@@ -3560,18 +3568,7 @@ Một sự thay đổi nền tảng trong các giả định, khái niệm và t
 
 → **Liên kết:** FOUNDATIONS (Mental Models), [META] LAYER (Meta-Structures)
 
-#### **5. Cycles & Rhythms** - Chu Kỳ & Nhịp Điệu
-
-Sự lặp lại của các mẫu hình theo thời gian, từ các chu kỳ nhỏ đến các kỷ nguyên lớn.
-
-- **Repetition & Oscillation**: Sự lặp lại và dao động là bản chất của nhiều hệ thống tự nhiên và xã hội
-- **Spiral Development**: Các chu kỳ tiến hóa theo hình xoắn ốc, quay lại các chủ đề cũ ở cấp độ cao hơn
-- **Phase Recognition**: Khả năng nhận diện hệ thống đang ở giai đoạn nào của một chu kỳ
-- **Entrainment**: Hiện tượng các nhịp điệu độc lập đồng bộ hóa khi tương tác với nhau
-
-→ **Liên kết:** FOUNDATIONS (Cycles & Rhythms), NAVIGATION (Timing Wisdom)
-
-#### **6. Hormesis & Antifragility** - Hiệu Ứng Kích Thích & Phản Mong Manh
+#### **5. Hormesis & Antifragility** - Hiệu Ứng Kích Thích & Phản Mong Manh
 
 Nguyên lý một hệ thống trở nên mạnh mẽ hơn khi tiếp xúc với một lượng căng thẳng vừa phải.
 
@@ -4013,25 +4010,27 @@ Khả năng thay đổi có ý thức giữa các trạng thái nhận thức, c
 
 #### **45. Recovery Cycles** - Chu Kỳ Phục Hồi
 
-Các giai đoạn nghỉ ngơi và tái tạo cần thiết sau những giai đoạn căng thẳng hoặc nỗ lực cao.
+Các giai đoạn nghỉ ngơi và tái tạo cần thiết sau những giai đoạn căng thẳng hoặc nỗ lực cao. Đây là ỨNG DỤNG CỤ THỂ của nguyên lý Cycles & Rhythms (FOUNDATIONS #6) trong bối cảnh năng lượng và phục hồi.
 
 - **Rest & Restoration**: Nghỉ ngơi và phục hồi
 - **Energy Replenishment**: Bổ sung năng lượng
 - **Healing Rhythms**: Nhịp điệu chữa lành
 - **Regeneration Phases**: Các giai đoạn tái tạo
 
-→ **Liên kết:** DYNAMICS (Energy Management), VALIDATION (Sustainable Performance)
+→ **Gốc lý thuyết:** FOUNDATIONS #6 (Cycles & Rhythms - Nguyên lý phổ quát)
+→ **Ứng dụng:** DYNAMICS (Energy Management), VALIDATION (Sustainable Performance)
 
 #### **46. Adaptation Rhythms** - Nhịp Điệu Thích Ứng
 
-Các chu kỳ tự nhiên của việc thay đổi và thích nghi với điều kiện mới.
+Các chu kỳ tự nhiên của việc thay đổi và thích nghi với điều kiện mới. Đây là ỨNG DỤNG của Cycles & Rhythms (FOUNDATIONS #6) trong bối cảnh BIẾN ĐỔI và THÍCH ỨNG.
 
 - **Temporal Patterns**: Các mẫu hình theo thời gian
 - **Cyclic Adjustment**: Điều chỉnh theo chu kỳ
 - **Seasonal Adaptation**: Thích nghi theo mùa
 - **Periodic Change**: Thay đổi định kỳ
 
-→ **Liên kết:** NAVIGATION (Timing), FOUNDATIONS (Cycles & Rhythms)
+→ **Gốc lý thuyết:** FOUNDATIONS #6 (Cycles & Rhythms - Nguyên lý phổ quát)
+→ **Ứng dụng:** NAVIGATION (Timing), DYNAMICS (Adaptation)
 
 #### **47. Evolutionary Thinking** - Tư Duy Tiến Hóa
 
