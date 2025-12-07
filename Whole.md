@@ -1042,16 +1042,18 @@ Việc bắt chước các hình thức bên ngoài của một quá trình thà
 
 → **Liên kết:** OPERATIONS (Root Cause Analysis), VALIDATION (Falsification)
 
-#### **44. The Streetlight Effect** - Hiệu Ứng Đèn Đường
+#### **44. The Streetlight Effect - Hiệu Ứng Đèn Đường [Quy Luật Nhận Thức]**
 
-Một loại thiên kiến quan sát, trong đó mọi người chỉ tìm kiếm thứ gì đó ở nơi dễ tìm nhất.
+QUY LUẬT phổ quát về hành vi tìm kiếm thông tin của con người - xu hướng tự nhiên tìm kiếm ở nơi THUẬN TIỆN nhất thay vì nơi CÓ NHIỀU THÔNG TIN nhất. Đây là một PATTERN cơ bản của nhận thức con người, giống như "con người tìm chìa khóa dưới ánh đèn đường không phải vì đánh rơi ở đó, mà vì đó là nơi sáng nhất."
 
-- **Looking where the light is**: "Tìm kiếm ở nơi có ánh sáng"
-- **Data Availability Bias**: Thiên kiến về sự sẵn có của dữ liệu
-- **Limited Search Space**: Không gian tìm kiếm bị giới hạn
-- **Measurement Bias**: Thiên kiến đo lường; chúng ta có xu hướng nghiên cứu những gì dễ đo
+- **Looking where the light is**: Tìm kiếm theo THUẬN TIỆN thay vì HIỆU QUẢ
+- **Data Availability Bias**: Quy luật ưu tiên dữ liệu dễ thu thập
+- **Limited Search Space**: Xu hướng tự nhiên giới hạn không gian tìm kiếm
+- **Measurement Bias**: Quy luật "đo cái dễ đo" thay vì "đo cái quan trọng"
 
-→ **Liên kết:** VALIDATION (Blind Spot Analysis), CREATION (Exploring the Unknown)
+→ **Nguyên lý nền tảng:** Đây là CÁCH MÀ con người TỰ NHIÊN hoạt động
+→ **Xuất hiện ở domain khác:** VALIDATION #9 (áp dụng để tránh lỗi)
+→ **Liên kết:** CREATION (Exploring the Unknown - phá vỡ pattern này)
 
 #### **45. The Boiling Frog** - Con Ếch Luộc
 
@@ -19580,13 +19582,22 @@ Khuynh hướng tiếp tục một nỗ lực vì các nguồn lực đã đư�
 - **Rational Exit Failure**: Thất bại trong việc thoát ra một cách hợp lý.
 → **Liên kết:** OPERATIONS (Decision Frameworks), FOUNDATIONS (Mental Models)
 
-#### **9. The Streetlight Effect** - Hiệu Ứng Đèn Đường
-Một loại thiên kiến quan sát, trong đó mọi người chỉ tìm kiếm thứ gì đó ở nơi dễ tìm nhất.
-- **Looking where the light is**: "Tìm kiếm ở nơi có ánh sáng".
-- **Data Availability Bias**: Thiên kiến về sự sẵn có của dữ liệu.
-- **Limited Search Space**: Không gian tìm kiếm bị giới hạn.
-- **Measurement Bias**: Thiên kiến đo lường; chúng ta có xu hướng nghiên cứu những gì dễ đo.
-→ **Liên kết:** VALIDATION (Blind Spot Analysis), CREATION (Exploring the Unknown)
+#### **9. The Streetlight Effect - Hiệu Ứng Đèn Đường [Rủi Ro Kiểm Chứng]**
+
+RỦI RO nghiêm trọng trong kiểm chứng - khi chỉ tìm kiếm bằng chứng ở những nơi DỄ TIẾP CẬN thay vì những nơi QUAN TRỌNG NHẤT. Khác với quy luật nền tảng ở FOUNDATIONS, đây là về việc NHẬN DIỆN và PHÒNG NGỪA bias này trong quy trình quality assurance.
+
+- **Looking where the light is**: CẢNH BÁO - chỉ test những thứ dễ test
+- **Data Availability Bias**: RỦI RO - bỏ qua dữ liệu khó thu thập nhưng quan trọng
+- **Limited Search Space**: LỖI - không mở rộng phạm vi kiểm tra đầy đủ
+- **Measurement Bias**: NGUY HIỂM - đo sai thứ (dễ đo vs quan trọng)
+
+→ **Gốc lý thuyết:** FOUNDATIONS #44 (The Streetlight Effect - quy luật phổ quát)
+→ **Liên kết nội bộ:** Blind Spot Analysis (công cụ chống lại bias này)
+→ **Chiến lược đối phó:**
+  • Deliberately search the dark (chủ động tìm kiếm nơi khó khăn)
+  • Proxy metrics critique (phê phán các chỉ số thay thế)
+  • Comprehensive coverage mapping (lập bản đồ phủ sóng toàn diện)
+  • Unknown unknowns exploration (khám phá điều chưa biết)
 
 #### **10. The Boiling Frog** - Con Ếch Luộc
 Một ẩn dụ về việc không có khả năng hoặc không sẵn lòng phản ứng với các mối đe dọa lớn phát sinh từ từ thay vì đột ngột.
