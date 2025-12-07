@@ -1078,18 +1078,7 @@ hiện tượng này.
 → **Ứng dụng thực hành:** VALIDATION #10 (công cụ phát hiện rủi ro)
 → **Ví dụ lịch sử:** Sự sụp đổ của Kodak, Nokia; Biến đổi khí hậu
 
-#### **46. Occam's Broom** - Cây Chổi của Occam
-
-Việc che giấu các bằng chứng không phù hợp với giả thuyết của một người.
-
-- **Sweeping under the rug**: "Quét dưới thảm"
-- **Evidence Suppression**: Đàn áp bằng chứng
-- **Cherry-Picking Data**: Lựa chọn dữ liệu có lợi
-- **Confirmation Bias in Action**: Thiên kiến xác nhận trong hành động
-
-→ **Liên kết:** VALIDATION (Falsification), [META] LAYER (Cognitive Biases)
-
-#### **47. Platonicity** - Tính Platon
+#### **46. Platonicity** - Tính Platon
 
 Sai lầm của việc tập trung vào các mô hình trừu tượng, gọn gàng và bỏ qua sự lộn xộn, không thể dự đoán của thế giới thực.
 
@@ -19640,13 +19629,21 @@ vào các PHƯƠNG PHÁP THỰC HÀNH cụ thể trong quality assurance.
 → **Gốc lý thuyết:** FOUNDATIONS #45 (universal pattern)
 → **Kết hợp với:** VALIDATION #30 (Near-Miss Analysis), #28 (Blind Spot Analysis)
 
-#### **11. Occam's Broom** - Cây Chổi của Occam
-Việc che giấu các bằng chứng không phù hợp với giả thuyết của một người.
-- **Sweeping under the rug**: "Quét dưới thảm".
-- **Evidence Suppression**: Đàn áp bằng chứng.
-- **Cherry-Picking Data**: Lựa chọn dữ liệu có lợi.
-- **Confirmation Bias in Action**: Thiên kiến xác nhận trong hành động.
-→ **Liên kết:** VALIDATION (Falsification Principle), [META] LAYER (Bias Awareness)
+#### **11. Occam's Broom** - Cây Chổi của Occam [Anti-Pattern Cảnh Báo]
+
+**ANTI-PATTERN:** Việc có chủ đích che giấu, bỏ qua hoặc đàn áp các bằng chứng không phù hợp với giả thuyết mà một người muốn chứng minh. Đây là một **NGỤY BIỆN NGUY HIỂM** trong nghiên cứu và tư duy phê phán.
+
+• **Sweeping under the rug**: "Quét dưới thảm" - giấu bằng chứng bất lợi
+• **Evidence Suppression**: Đàn áp có hệ thống các dữ liệu mâu thuẫn
+• **Cherry-Picking Data**: Chọn lọc chỉ những dữ liệu ủng hộ giả thuyết
+• **Confirmation Bias in Action**: Biểu hiện tích cực của thiên kiến xác nhận
+
+⚠️ **Cảnh báo:** Đối lập trực tiếp với Falsification Principle và Scientific Method
+
+→ **Liên kết:** VALIDATION (Falsification Principle, Blind Spot Analysis)
+→ **Liên kết:** [META] LAYER (Cognitive Biases, Intellectual Honesty)
+→ **Đối lập:** OPERATIONS (Analytical Razors - Occam's Razor)
+→ **Phòng chống:** VALIDATION (Disconfirmation Seeking, Adversarial Testing)
 
 #### **12. Platonicity** - Tính Platon
 Sai lầm của việc tập trung vào các mô hình trừu tượng, gọn gàng và bỏ qua sự lộn xộn, không thể dự đoán của thế giới thực.
