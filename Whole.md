@@ -1055,16 +1055,28 @@ QUY LUẬT phổ quát về hành vi tìm kiếm thông tin của con người -
 → **Xuất hiện ở domain khác:** VALIDATION #9 (áp dụng để tránh lỗi)
 → **Liên kết:** CREATION (Exploring the Unknown - phá vỡ pattern này)
 
-#### **45. The Boiling Frog** - Con Ếch Luộc
+#### **45. The Boiling Frog - Con Ếch Luộc [Universal Pattern - Mẫu Hình Phổ Quát]**
 
-Một ẩn dụ về việc không có khả năng hoặc không sẵn lòng phản ứng với các mối đe dọa lớn phát sinh từ từ thay vì đột ngột.
+Một QUY LUẬT TÂM LÝ/HỆ THỐNG PHỔ QUÁT về việc con người và tổ chức
+có xu hướng không phản ứng với các mối đe dọa phát triển từ từ,
+do cơ chế thích nghi liên tục khiến mỗi bước nhỏ trở nên "bình thường".
+Đây là một NGUYÊN LÝ NỀN TẢNG giải thích cơ chế tâm lý sâu xa đằng sau
+hiện tượng này.
 
-- **Gradual Change Blindness**: Mù lòa trước sự thay đổi từ từ
-- **Normalization of Deviance**: Sự bình thường hóa của sự sai lệch
-- **Threshold of Perception**: Ngưỡng nhận thức
-- **Systemic Drift**: Sự trôi dạt của hệ thống
+**CƠ CHẾ TÂM LÝ-HỆ THỐNG:**
+• **Gradual Change Blindness**: NGUYÊN LÝ - Não bộ chỉ nhạy với thay đổi đột ngột
+• **Normalization of Deviance**: NGUYÊN LÝ - Tâm lý "làm quen" với bất thường
+• **Threshold of Perception**: NGUYÊN LÝ - Ngưỡng phát hiện thay đổi tối thiểu
+• **Systemic Drift**: NGUYÊN LÝ - Hệ thống trôi dạt mà không ai nhận ra
 
-→ **Liên kết:** DYNAMICS (System Dynamics), NAVIGATION (Leading Indicators)
+**CƠ SỞ KHOA HỌC:**
+→ Tâm lý học: Weber-Fechner Law (ngưỡng cảm nhận thay đổi)
+→ Sinh học: Homeostasis & Adaptation (cơ chế thích nghi)
+→ Xã hội học: Overton Window (cửa sổ chấp nhận xã hội trôi dần)
+
+→ **Liên kết nội bộ:** DYNAMICS (System Dynamics), NAVIGATION (Leading Indicators)
+→ **Ứng dụng thực hành:** VALIDATION #10 (công cụ phát hiện rủi ro)
+→ **Ví dụ lịch sử:** Sự sụp đổ của Kodak, Nokia; Biến đổi khí hậu
 
 #### **46. Occam's Broom** - Cây Chổi của Occam
 
@@ -19599,13 +19611,34 @@ RỦI RO nghiêm trọng trong kiểm chứng - khi chỉ tìm kiếm bằng ch�
   • Comprehensive coverage mapping (lập bản đồ phủ sóng toàn diện)
   • Unknown unknowns exploration (khám phá điều chưa biết)
 
-#### **10. The Boiling Frog** - Con Ếch Luộc
-Một ẩn dụ về việc không có khả năng hoặc không sẵn lòng phản ứng với các mối đe dọa lớn phát sinh từ từ thay vì đột ngột.
-- **Gradual Change Blindness**: Mù lòa trước sự thay đổi từ từ.
-- **Normalization of Deviance**: Sự bình thường hóa của sự sai lệch.
-- **Threshold of Perception**: Ngưỡng nhận thức.
-- **Systemic Drift**: Sự trôi dạt của hệ thống.
-→ **Liên kết:** DYNAMICS (System Dynamics), NAVIGATION (Leading Indicators)
+#### **10. The Boiling Frog - Con Ếch Luộc [Risk Detection Tool - Công Cụ Phát Hiện Rủi Ro]**
+
+Một CÔNG CỤ ĐÁNH GIÁ RỦI RO để phát hiện và ngăn chặn các mối đe dọa
+phát triển từ từ, áp dụng hiểu biết về universal pattern từ FOUNDATIONS
+vào các PHƯƠNG PHÁP THỰC HÀNH cụ thể trong quality assurance.
+
+**PHƯƠNG PHÁP PHÁT HIỆN (Detection Methods):**
+• **Gradual Change Monitoring**: CÔNG CỤ - Thiết lập hệ thống theo dõi xu hướng
+• **Deviation Flagging**: CÔNG CỤ - Cảnh báo khi chấp nhận "ngoại lệ" tăng dần
+• **Threshold Alerting**: CÔNG CỤ - Cài đặt alarm trước khi đạt điểm tới hạn
+• **Drift Tracking**: CÔNG CỤ - Dashboard hiển thị sự trôi dạt theo thời gian
+
+**CHIẾN LƯỢC PHÒNG NGỪA (Prevention Strategies):**
+1. **Baseline Documentation**: Ghi chép rõ ràng trạng thái ban đầu
+2. **Regular Calibration**: Hiệu chỉnh định kỳ với tiêu chuẩn gốc
+3. **Trend Analysis**: Phân tích xu hướng, không chỉ xem giá trị hiện tại
+4. **External Benchmarking**: So sánh với chuẩn mực bên ngoài
+5. **Historical Comparison**: Đặt hiện tại cạnh quá khứ xa (không phải gần nhất)
+
+**CÔNG CỤ KỸ THUẬT:**
+→ Leading Indicators Dashboard (KPI sớm cảnh báo)
+→ Control Charts với historical baseline
+→ Automated anomaly detection cho slow drift
+→ Periodic "reset to baseline" reviews
+
+→ **Liên kết nội bộ:** NAVIGATION (Leading Indicators), OPERATIONS (Statistical Process Control)
+→ **Gốc lý thuyết:** FOUNDATIONS #45 (universal pattern)
+→ **Kết hợp với:** VALIDATION #30 (Near-Miss Analysis), #28 (Blind Spot Analysis)
 
 #### **11. Occam's Broom** - Cây Chổi của Occam
 Việc che giấu các bằng chứng không phù hợp với giả thuyết của một người.
