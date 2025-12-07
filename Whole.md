@@ -129,8 +129,10 @@ Nguyên lý rằng các hệ thống được định hình và xác định b�
 - **Creative Constraints**: Các ràng buộc có thể thúc đẩy sự sáng tạo và đổi mới thay vì cản trở nó
 - **Boundary Permeability**: Ranh giới có thể thấm qua hoặc không, quyết định cách hệ thống tương tác với môi trường
 - **Limiting Factors**: Yếu tố giới hạn (ràng buộc) quyết định hiệu suất của toàn bộ hệ thống
+- **Resource Limitations**: Giới hạn tài nguyên - mọi hệ thống đều có sức chứa và ranh giới vật lý/sinh thái
+- **Carrying Capacity**: Sức chứa của hệ thống - giới hạn bền vững của tăng trưởng
 
-→ **Liên kết:** CREATION (Constraint-Based Creativity), OPERATIONS (Constraint Analysis)
+→ **Liên kết:** CREATION (Constraint-Based Creativity), OPERATIONS (Constraint Analysis), VALIDATION #16 (The Empty World Assumption - thiên kiến về việc bỏ qua các ràng buộc này khi đánh giá rủi ro)
 
 #### **9. Energy & Information** - Năng Lượng & Thông Tin
 
@@ -1039,17 +1041,6 @@ Việc bắt chước các hình thức bên ngoài của một quá trình thà
 - **Ritual without Reason**: Nghi lễ không có lý do
 
 → **Liên kết:** OPERATIONS (Root Cause Analysis), VALIDATION (Falsification)
-
-#### **43. The Empty World Assumption** - Giả Định Thế Giới Trống Rỗng
-
-Giả định (thường là sai) rằng các nguồn lực là vô hạn và không có sự cạnh tranh.
-
-- **Resource Limitation**: Sự giới hạn của tài nguyên
-- **Competitive Dynamics**: Động lực cạnh tranh
-- **Ecological Thinking**: Tư duy sinh thái; mọi thứ đều có giới hạn
-- **Sustainable Systems**: Sự cần thiết của các hệ thống bền vững
-
-→ **Liên kết:** DYNAMICS (System Dynamics), NAVIGATION (Strategic Wayfinding)
 
 #### **44. The Streetlight Effect** - Hiệu Ứng Đèn Đường
 
@@ -19646,12 +19637,44 @@ Thực hành có vẻ ngoài của nghiên cứu khoa học nghiêm ngặt nhưn
 → **Liên kết:** OPERATIONS (Root Cause Analysis), VALIDATION (Falsification Principle)
 
 #### **16. The Empty World Assumption** - Giả Định Thế Giới Trống Rỗng
-Giả định (thường là sai) rằng các nguồn lực là vô hạn và không có sự cạnh tranh.
-- **Resource Limitation**: Sự giới hạn của tài nguyên.
-- **Competitive Dynamics**: Động lực cạnh tranh.
-- **Ecological Thinking**: Tư duy sinh thái; mọi thứ đều có giới hạn.
-- **Sustainable Systems**: Sự cần thiết của các hệ thống bền vững.
-→ **Liên kết:** DYNAMICS (System Dynamics), NAVIGATION (Strategic Wayfinding)
+
+**THIÊN KIẾN NHẬN THỨC:** Giả định sai lầm (và nguy hiểm) rằng các nguồn lực là vô hạn và không có sự cạnh tranh - một trong những lỗi đánh giá rủi ro phổ biến nhất trong chiến lược và lập kế hoạch. Thiên kiến này dẫn đến việc đánh giá thấp rủi ro về khan hiếm, cạnh tranh và tính bền vững.
+
+**4 khía cạnh cốt lõi:**
+
+• **Resource Limitation Blindness** (Mù lòa trước giới hạn tài nguyên):
+  Không nhận ra rằng mọi hệ thống đều có giới hạn vật lý và sinh thái
+  → Implication: Cần đánh giá thực tế về khả năng cung cấp nguồn lực
+
+• **Competitive Dynamics Ignorance** (Bỏ qua động lực cạnh tranh):
+  Cho rằng không có đối thủ hoặc xung đột về nguồn lực
+  → Implication: Phân tích thị trường và đối thủ cạnh tranh là bắt buộc
+
+• **Sustainability Risk** (Rủi ro bền vững):
+  Thiếu tư duy dài hạn về tác động sinh thái và khả năng tái tạo
+  → Implication: Đánh giá tác động môi trường và khả năng duy trì
+
+• **Growth Assumption Trap** (Bẫy giả định tăng trưởng vô tận):
+  Tin rằng có thể mở rộng mà không gặp ràng buộc
+  → Implication: Lập kế hoạch cho các giới hạn tăng trưởng
+
+→ **Nguyên lý nền tảng:** Xem FOUNDATIONS #8 (Constraints & Boundaries) để hiểu về giới hạn tự nhiên của mọi hệ thống
+
+→ **Liên kết nội bộ:**
+  • DYNAMICS (System Dynamics) - hiểu về giới hạn tăng trưởng
+  • NAVIGATION (Strategic Wayfinding) - tính toán ràng buộc tài nguyên
+  • VALIDATION #10 (The Boiling Frog) - không nhận ra sự cạn kiệt dần
+
+→ **Các thiên kiến liên quan:**
+  • The Boiling Frog #10 - không nhận ra thay đổi từ từ
+  • Planning Fallacy #33 - đánh giá thấp chi phí và thời gian
+  • Overconfidence Effect #6 - tin quá mức vào khả năng kiểm soát
+
+→ **Ứng dụng thực tế:**
+  • Đánh giá rủi ro dự án (tài nguyên, nhân lực, thời gian)
+  • Chiến lược kinh doanh (cạnh tranh, thị trường bão hòa)
+  • Quy hoạch đô thị & môi trường (năng lượng, nước, không gian)
+  • Phát triển bền vững (carbon budget, tài nguyên tái tạo)
 
 #### **17. The Gell-Mann Amnesia Effect** - Hiệu Ứng Mất Trí Nhớ Gell-Mann
 
