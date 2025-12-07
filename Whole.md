@@ -53,16 +53,24 @@ Nguyên lý về sự tồn tại của các cặp đối lập và sự hợp n
 
 → **Liên kết:** TRANSCENDENCE (Paradox Mastery), DYNAMICS (Transformation Dynamics)
 
-#### **3. Emergence & Self-Organization** - Đột Sinh & Tự Tổ Chức
+#### **3. Emergence & Self-Organization** - Đột Sinh & Tự Tổ Chức [Nguyên Lý Phổ Quát]
 
-Nguyên lý về việc các thuộc tính và cấu trúc phức tạp mới tự phát sinh từ sự tương tác của các thành phần đơn giản.
+Một trong những nguyên lý CƠ BẢN NHẤT của vũ trụ - các cấu trúc phức tạp và
+trật tự tự động xuất hiện từ sự tương tác của các thành phần đơn giản, không
+cần sự điều khiển trung tâm. Đây là QUY LUẬT TỰ NHIÊN chi phối mọi thứ từ
+hình thành vũ trụ, sự sống, đến tổ chức xã hội.
 
-- **Bottom-Up Causation**: Trật tự và hành vi ở cấp độ vĩ mô được tạo ra từ các quy tắc ở cấp độ vi mô
-- **Irreducibility**: Các thuộc tính đột sinh không thể được suy ra hoàn toàn từ việc chỉ nghiên cứu các thành phần riêng lẻ
-- **Phase Transition**: Sự thay đổi trạng thái đột ngột của hệ thống khi một ngưỡng tới hạn bị vượt qua
-- **Spontaneous Order**: Trật tự xuất hiện mà không cần sự điều khiển hay kế hoạch từ bên ngoài
+• **Bottom-Up Causation**: Trật tự vĩ mô từ quy tắc vi mô - NGUYÊN LÝ PHÁT SINH
+• **Irreducibility**: Tổng thể > tổng các phần - NGUYÊN LÝ ĐỘT SINH
+• **Phase Transition**: Thay đổi trạng thái đột ngột - NGUYÊN LÝ BIẾN ĐỔI
+• **Spontaneous Order**: Trật tự tự phát - NGUYÊN LÝ TỰ TỔ CHỨC
 
-→ **Liên kết:** DYNAMICS (System Dynamics), AMPLIFICATION (Tipping Points)
+→ **Liên kết nội bộ:** DYNAMICS (System Dynamics), AMPLIFICATION (Tipping Points)
+→ **Xuất hiện ở các domain khác:**
+  • DYNAMICS #4 (quan sát quá trình tự tổ chức)
+  • CREATION #39 (ứng dụng cho thiết kế)
+  • AMPLIFICATION (Swarm Intelligence)
+  • INTEGRATION (Decentralized Systems)
 
 #### **4. Feedback Loops - Vòng Lặp Phản Hồi [Nguyên Lý Nền Tảng]**
 
@@ -3185,16 +3193,22 @@ Thuộc tính của các hệ thống có nhiều thành phần tương tác the
 
 → **Liên kết:** NAVIGATION (Complexity Navigation), OPERATIONS (Systems Thinking)
 
-#### **4. Self-Organization** - Tự Tổ Chức
+#### **4. Self-Organization** - Tự Tổ Chức [Quá Trình & Dynamics]
 
-Quá trình một hệ thống tự động tạo ra cấu trúc và trật tự từ sự tương tác cục bộ của các thành phần, không cần điều khiển trung tâm.
+Quá trình động lực học mà qua đó một hệ thống tự động tạo ra cấu trúc và
+trật tự từ sự tương tác cục bộ. Khác với nguyên lý nền tảng ở FOUNDATIONS,
+đây tập trung vào QUAN SÁT VÀ HIỂU quá trình tự tổ chức đang diễn ra trong
+thời gian thực - làm thế nào nó xảy ra, các giai đoạn, các patterns.
 
-- **Local Rules, Global Patterns**: Các quy tắc đơn giản ở cấp độ cục bộ tạo ra các mẫu hình phức tạp ở cấp độ toàn cục
-- **Distributed Control**: Không có trung tâm điều khiển - mọi phần đều góp phần vào trật tự chung
-- **Robustness**: Các hệ thống tự tổ chức thường rất bền vững trước nhiễu loạn
-- **Emergence Through Interaction**: Cấu trúc xuất hiện từ sự tương tác liên tục giữa các thành phần
+• **Local Rules, Global Patterns**: Quy tắc cục bộ → mẫu toàn cục (QUAN SÁT)
+• **Distributed Control**: Phi tập trung - bền vững (NHẬN DIỆN)
+• **Robustness**: Độ bền cao trước nhiễu loạn (ĐẶC ĐIỂM)
+• **Emergence Through Interaction**: Cấu trúc từ tương tác (CƠ CHẾ)
 
-→ **Liên kết:** AMPLIFICATION (Swarm Intelligence), INTEGRATION (Decentralized Systems)
+→ **Liên kết nội bộ:** AMPLIFICATION (Swarm Intelligence), INTEGRATION (Decentralized Systems)
+→ **Gốc lý thuyết:** FOUNDATIONS #3 (Emergence & Self-Organization - nguyên lý phổ quát)
+→ **Ứng dụng sáng tạo:** CREATION #39 (Self-Organization như công cụ thiết kế)
+→ **Khác biệt:** FOUNDATIONS giải thích "TẠI SAO", DYNAMICS mô tả "NHƯ THẾ NÀO"
 
 #### **5. Edge of Chaos** - Bờ Rìa Hỗn Loạn
 
@@ -11299,16 +11313,23 @@ Các tính chất mới xuất hiện không thể dự đoán từ các thành 
 
 → **Liên kết:** DYNAMICS (Emergence), INTEGRATION (Synthesis)
 
-#### **39. Self-Organization** - Tự Tổ Chức
+#### **39. Self-Organization** - Tự Tổ Chức [Công Cụ Thiết Kế]
 
-Khả năng tự sắp xếp thành cấu trúc có trật tự mà không cần điều khiển bên ngoài.
+Khả năng THIẾT KẾ các hệ thống có thể tự sắp xếp thành cấu trúc có trật tự
+mà không cần điều khiển bên ngoài. Khác với nguyên lý nền tảng ở FOUNDATIONS
+và quan sát dynamics ở DYNAMICS, đây là về NGHỆ THUẬT VÀ KỸ THUẬT tạo ra các
+điều kiện để tự tổ chức xảy ra - designing for emergence.
 
-- **Spontaneous Pattern**: Mẫu hình tự phát
-- **Autonomous Structure**: Cấu trúc tự chủ
-- **Bottom-Up Order**: Trật tự từ dưới lên
-- **Natural Organization**: Tổ chức tự nhiên
+• **Spontaneous Pattern**: Thiết kế cho mẫu hình tự phát (DESIGN PRINCIPLE)
+• **Autonomous Structure**: Tạo cấu trúc tự chủ (ARCHITECTURE)
+• **Bottom-Up Order**: Kỹ thuật trật tự từ dưới lên (METHODOLOGY)
+• **Natural Organization**: Bắt chước tổ chức tự nhiên (BIOMIMICRY)
 
-→ **Liên kết:** FOUNDATIONS (Complex Systems), DYNAMICS (Self-Organization)
+→ **Liên kết nội bộ:** FOUNDATIONS (Complex Systems), DYNAMICS (Self-Organization)
+→ **Gốc lý thuyết:** FOUNDATIONS #3 (nguyên lý phổ quát)
+→ **Học từ:** DYNAMICS #4 (quan sát quá trình thực tế)
+→ **Ứng dụng:** Generative art, swarm robotics, decentralized organizations
+→ **Khác biệt:** FOUNDATIONS = "GÌ", DYNAMICS = "SAO", CREATION = "LÀM"
 
 #### **40. Active Imagination & Dreams** - Trí Tưởng Tượng Chủ Động & Giấc Mơ
 
