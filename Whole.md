@@ -2939,14 +2939,55 @@ Sử dụng âm thanh cho mục đích tâm linh.
 
 #### **43. Mantra Composition** - Sáng Tác Mantra
 
-Tạo ra các câu tụng có sức mạnh.
+NGUYÊN LÝ và NGHỆ THUẬT tạo ra các công thức âm thanh thiêng liêng có sức
+mạnh biến đổi ý thức. Kết hợp trí tuệ cổ đại về rung động, sự lặp lại
+và cộng hưởng với kỹ thuật sáng tác âm nhạc hiện đại.
 
-- **Sound Power**: Sức mạnh âm thanh
-- **Repetitive Practice**: Thực hành lặp đi lặp lại
-- **Vibrational Formula**: Công thức rung động
-- **Sacred Syllables**: Âm tiết thiêng liêng
+**A. NỀN TẢNG LÝ THUYẾT (FOUNDATIONS perspective):**
+- **Sacred Sound Formula**: Công thức âm thanh thiêng liêng - nguyên lý về
+  cách âm tiết tác động lên ý thức
+- **Vibrational Formula**: Công thức rung động - khoa học về tần số và cộng hưởng
+- **Sacred Syllables**: Âm tiết thiêng liêng - truyền thống Bija mantra,
+  Om, Hu, etc.
+- **Sound-Consciousness Link**: Mối liên kết âm thanh-ý thức từ các truyền
+  thống Vedic, Buddhist, Sufi
 
-→ **Liên kết:** CREATION (Sound Art), TRANSCENDENCE (Mantra Practice)
+**B. THỰC HÀNH SÁNG TÁC (CREATION perspective):**
+- **Mantra Structure Design**: Thiết kế cấu trúc mantra (độ dài, nhịp điệu, âm điệu)
+- **Intention Encoding**: Mã hóa ý định vào âm thanh
+- **Repetition Optimization**: Tối ưu hóa số lần lặp và tốc độ
+- **Personal Mantra Creation**: Tạo ra mantra cá nhân hóa
+
+**C. CƠ CHẾ HOẠT ĐỘNG:**
+- **Sound Power**: Sức mạnh âm thanh qua rung động vật lý
+- **Repetitive Power**: Sức mạnh lặp lại tạo ra neuroplasticity
+- **Spiritual Resonance**: Cộng hưởng tâm linh qua attunement
+- **Consciousness Shifting**: Chuyển đổi trạng thái ý thức
+
+**D. ỨNG DỤNG:**
+- **Meditation Enhancement**: Tăng cường thiền định
+- **Healing Practices**: Các thực hành chữa lành
+- **Ritual Design**: Thiết kế nghi lễ
+- **Creative Process**: Kích hoạt quá trình sáng tạo
+
+→ **Liên kết nội bộ:**
+  - TRANSCENDENCE (Mantra Practice - thực hành)
+  - AMPLIFICATION (Repetition Power - khuếch đại qua lặp)
+  - DYNAMICS (Resonance & Attunement - cộng hưởng)
+  - INTEGRATION (Ritual & Ceremony - nghi lễ)
+
+→ **Truyền thống nguồn:**
+  - Vedic tradition (Om, Gayatri Mantra)
+  - Buddhist tradition (Om Mani Padme Hum)
+  - Sufi tradition (Dhikr, Hu)
+  - Christian tradition (Jesus Prayer, Gregorian Chant)
+  - Indigenous traditions (Sacred chants worldwide)
+
+→ **Khoa học hiện đại:**
+  - Neuroscience of repetition
+  - Sound healing research
+  - Vibrational medicine
+  - Psychoacoustics
 
 #### **44. Sacred Architecture** - Kiến Trúc Thiêng Liêng
 
@@ -12189,17 +12230,6 @@ Chuyển động có ý thức như một hình thức nghệ thuật và cầu 
 - **Kinetic Devotion**: Sùng kính vận động
 
 → **Liên kết:** DYNAMICS (Sacred Movement), TRANSCENDENCE (Prayer)
-
-#### **29. Mantra Composition** - Sáng Tác Mantra
-
-Tạo ra các mantra và công thức thiêng liêng.
-
-- **Sacred Sound Formula**: Công thức âm thanh thiêng liêng
-- **Repetitive Power**: Sức mạnh lặp lại
-- **Vibrational Code**: Mã rung động
-- **Spiritual Resonance**: Cộng hưởng tâm linh
-
-→ **Liên kết:** FOUNDATIONS (Mantra Tradition), AMPLIFICATION (Repetition Power)
 
 #### **30. Sound Sculpture** - Điêu Khắc Âm Thanh
 
