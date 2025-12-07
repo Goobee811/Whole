@@ -652,16 +652,22 @@ Tiếp cận một vấn đề bằng cách suy nghĩ ngược lại.
 
 → **Liên kết:** OPERATIONS (Reverse Thinking), CREATION (Problem Reframing)
 
-#### **10. Leverage** - Đòn Bẩy
+#### **10. Leverage - Đòn Bẩy [Định Luật Cơ Học Cơ Bản]**
 
-Nguyên lý sử dụng một nỗ lực nhỏ để tạo ra một kết quả lớn hơn nhiều thông qua một điểm tựa.
+Nguyên lý vật lý phổ quát của Archimedes: "Cho tôi một điểm tựa và tôi sẽ nâng cả Trái Đất". Đây là ĐỊNH LUẬT CƠ BẢN về cách một lực nhỏ có thể tạo ra tác động lớn thông qua việc sử dụng đúng cấu trúc cơ học.
 
-- **Fulcrum Point**: Điểm tựa; xác định điểm can thiệp có thể tạo ra tác động tối đa
-- **Asymmetric Output**: Đầu ra bất đối xứng; kết quả lớn hơn nhiều so với nỗ lực đầu vào
-- **Types of Leverage**: Các loại đòn bẩy (ví dụ: vốn, lao động, công nghệ, tri thức)
-- **High-Impact Application**: Áp dụng nỗ lực vào đúng điểm để tạo ra sự thay đổi hệ thống
+- **Mechanical Advantage**: Lợi thế cơ học - CÔNG THỨC F₁ × d₁ = F₂ × d₂
+- **Fulcrum Positioning**: Định vị điểm tựa - CÁC QUY LUẬT vật lý
+- **Force Multiplication**: Nhân lực - NGUYÊN LÝ bảo toàn năng lượng
+- **Universal Applicability**: Tính phổ quát - QUY LUẬT xuất hiện khắp nơi
 
-→ **Liên kết:** AMPLIFICATION (là cơ chế cốt lõi của sự khuếch đại), NAVIGATION (Leverage Points)
+→ **Liên kết nội bộ:** FOUNDATIONS (Physical Laws), OPERATIONS (Engineering)
+→ **Ứng dụng thực tiễn:**
+  • AMPLIFICATION #2 (Leverage - công cụ khuếch đại)
+  • NAVIGATION (Strategic Positioning - định vị chiến lược)
+  • OPERATIONS (Tool & Technology Leverage)
+
+🔬 **Bản chất**: Đây là QUY LUẬT TỰ NHIÊN - một chân lý toán học và vật lý không thể thay đổi, nền tảng cho mọi ứng dụng về đòn bẩy.
 
 #### **11. Margin of Safety** - Biên An Toàn
 
@@ -20501,15 +20507,25 @@ Nguyên tắc tăng trưởng tự củng cố theo thời gian, nơi lợi nhu�
 - **Universal Application**: Áp dụng cho tài chính, kiến thức, kỹ năng, và các mối quan hệ.  
     → **Liên kết:** DYNAMICS (Transformation Dynamics), FOUNDATIONS (Cycles & Rhythms).
 
-#### **2. Leverage** - Đòn Bẩy
+#### **2. Leverage - Đòn Bẩy [Công Cụ Khuếch Đại]**
 
-Việc sử dụng một lực nhỏ để di chuyển hoặc kiểm soát một lực lớn hơn nhiều.
+Nghệ thuật sử dụng một lực nhỏ để tạo ra tác động lớn - từ nguyên lý vật lý đến ứng dụng chiến lược trong kinh doanh, đầu tư và cuộc sống. Khác với nguyên lý cơ học ở FOUNDATIONS, đây là về CÔNG CỤ THỰC HÀNH để khuếch đại.
 
-- **Mechanical Advantage**: Lợi thế cơ học; nguyên lý vật lý của đòn bẩy.
-- **Capital Leverage**: Đòn bẩy vốn; sử dụng vốn vay để khuếch đại lợi nhuận (hoặc thua lỗ).
-- **Knowledge Leverage**: Đòn bẩy tri thức; một ý tưởng đúng có thể tạo ra giá trị khổng lồ.
-- **Network Leverage**: Đòn bẩy mạng lưới; sử dụng kết nối để khuếch đại ảnh hưởng.  
-    → **Liên kết:** FOUNDATIONS (Archimedes' Lever), NAVIGATION (Strategic Positioning).
+- **Mechanical Advantage**: Lợi thế cơ học - ỨNG DỤNG nguyên lý Archimedes
+- **Capital Leverage**: Đòn bẩy vốn - KHUẾCH ĐẠI lợi nhuận (và rủi ro)
+- **Knowledge Leverage**: Đòn bẩy tri thức - MỘT ý tưởng → giá trị khổng lồ
+- **Network Leverage**: Đòn bẩy mạng lưới - SỬ DỤNG kết nối để nhân rộng ảnh hưởng
+
+→ **Liên kết nội bộ:** NAVIGATION (Strategic Positioning)
+→ **Gốc lý thuyết:** FOUNDATIONS #10 (Leverage - định luật cơ học phổ quát)
+→ **Các hình thức leverage khác:**
+  • Code & Software Leverage (#8)
+  • Media & Content Leverage (#9)
+  • Capital Leverage (#10)
+  • Information Asymmetry (#11)
+  • Time Leverage (#16)
+
+🎯 **Bản chất**: Đây là CÔNG CỤ CHIẾN LƯỢC - cách ỨNG DỤNG nguyên lý cơ bản vào các lĩnh vực kinh doanh, tài chính, tri thức và mạng lưới.
 
 #### **3. 80/20 Principle (Pareto)** - Nguyên Tắc 80/20
 
