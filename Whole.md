@@ -1744,14 +1744,20 @@ Phương pháp tiếp cận tri thức dựa trên sự khiêm tốn, đối tho
 
 #### **5. Via Negativa** - Con Đường Phủ Định
 
-Nguyên lý đạt được trí tuệ bằng cách loại bỏ những gì sai lầm, thay vì thêm vào những gì được cho là đúng.
+NGUYÊN LÝ TRI THỨC LUẬN cơ bản: Đạt được hiểu biết chân thực bằng cách loại bỏ những gì SAI LẦM, thay vì cố gắng thêm vào những gì được cho là đúng. Đây là PHƯƠNG PHÁP TƯ DUY nền tảng xuất phát từ thần học phủ định (apophatic theology) - tiếp cận Thượng Đế bằng cách nói những gì Ngài KHÔNG PHẢI.
 
-- **Knowledge by Subtraction**: Kiến thức thu được bằng cách loại bỏ niềm tin sai lầm và sự nhiễu loạn
-- **Robustness**: Những gì tồn tại sau các nỗ lực phủ định thường mạnh mẽ và đáng tin cậy hơn
-- **Simplicity & Clarity**: Bằng cách loại bỏ những thứ không cần thiết, bản chất cốt lõi sẽ lộ ra
-- **Avoiding Harm**: Tập trung vào việc tránh làm điều ngu ngốc hơn là cố gắng trở nên cực kỳ thông minh
+- **Knowledge by Subtraction**: Tri thức qua LOẠI TRỪ - phép trừ thay vì cộng
+- **Robustness**: Những gì TỒN TẠI sau phủ định là vững chắc hơn
+- **Simplicity & Clarity**: Bản chất lộ ra qua việc BỚT ĐI
+- **Avoiding Harm**: Tránh ngu ngốc quan trọng hơn cố gắng thông minh
 
-→ **Liên kết:** OPERATIONS (Analytical Razors), VALIDATION (Falsification Testing)
+→ **Liên kết nội bộ:** OPERATIONS (Analytical Razors), FOUNDATIONS (First Principles)
+→ **Ứng dụng vượt thoát:** TRANSCENDENCE #6 (công cụ giải quyết nghịch lý)
+→ **Ứng dụng thực hành:**
+  • NAVIGATION #10 (Apophatic Navigation - điều hướng bằng tránh)
+  • VALIDATION #9 (Inversion Strategy - chiến lược đảo ngược)
+  • FOUNDATIONS #42 (Negative Space - không gian âm)
+  • CREATION #29 (Negative Space Thinking - tư duy không gian âm)
 
 #### **6. Zen Principles** - Nguyên Lý Thiền Tông
 
@@ -22801,16 +22807,21 @@ Con đường Phật giáo tránh các thái cực, tìm kiếm sự cân bằng
 
 ---
 
-#### **6. Via Negativa** - Con Đường Phủ Định
+#### **6. Via Negativa** - Con Đường Phủ Định [Trong Nghịch Lý]
 
-Phương pháp định nghĩa hoặc hiểu điều gì đó bằng cách nói những gì nó không phải, thay vì nói nó là gì.
+CÔNG CỤ VƯỢT THOÁT nghịch lý: Tiếp cận chân lý TỐI HẬU bằng cách nói những gì nó KHÔNG PHẢI, thay vì định nghĩa tích cực. Đây là NGHỆ THUẬT làm việc với nghịch lý qua phủ định - đặc biệt mạnh mẽ khi đối mặt với những gì VƯỢT TẦM HIỂU BIẾT khái niệm hóa.
 
-- **Definition by Negation**: Định nghĩa bằng phủ định; loại trừ các khả năng để tiết lộ bản chất.
-- **Removal over Addition**: Loại bỏ hơn là thêm vào; đôi khi giải pháp tốt nhất là bớt đi, không phải thêm vào.
-- **Apophatic Theology**: Thần học phủ định; tiếp cận Thượng Đế bằng cách nói những gì Ngài không phải.
-- **Subtraction as Solution**: Phép trừ là giải pháp; đơn giản hóa bằng cách loại bỏ.
+- **Path Through Negation**: Đường đến chân lý qua PHỦ ĐỊNH liên tục
+- **Apophatic Approach to Paradox**: Tiếp cận nghịch lý bằng "không thể nói"
+- **Liberation by Subtraction**: Giải thoát qua LOẠI BỎ chứ không thêm vào
+- **Mystery Preservation**: Giữ BÍ ẨN thay vì cưỡng ép giải thích
 
-→ **Liên kết:** OPERATIONS (Analytical Tools), FOUNDATIONS (First Principles).
+→ **Liên kết nội bộ:** TRANSCENDENCE (Paradox Resolution), TRANSCENDENCE (The Void)
+→ **Gốc lý thuyết:** FOUNDATIONS #5 (Via Negativa - nguyên lý nền tảng)
+→ **Các biến thể thực hành:**
+  • NAVIGATION #10 (Apophatic Navigation - ứng dụng trong định hướng)
+  • TRANSCENDENCE #4 (Negative Capability - khả năng ở trong không chắc chắn)
+  • TRANSCENDENCE #50-54 (Shadow & Hidden Patterns - mẫu hình ẩn)
 
 ---
 
