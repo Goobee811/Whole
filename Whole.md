@@ -4206,16 +4206,19 @@ Nhận thức về các giai đoạn và cấp độ phát triển khác nhau.
 
 ### **Nhóm Bổ Sung: Evolution & Design Systems (9 mục mới)**
 
-#### **49. Evolutionary Reasoning** - Suy Luận Tiến Hóa
+#### **49. Evolutionary Reasoning - Suy Luận Tiến Hóa [Nguyên Lý Biến Đổi]**
 
-Sử dụng các nguyên lý tiến hóa để giải quyết vấn đề và đưa ra quyết định.
+Sử dụng các nguyên lý TIẾN HÓA TỰ NHIÊN để hiểu sự biến đổi và chuyển hóa. Khác với công cụ phân tích ở OPERATIONS, đây là về ĐỘNG LỰC HỌC - làm thế nào hệ thống thực sự thay đổi, thích ứng và tiến hóa theo thời gian.
 
-- **Adaptive Logic**: Logic thích ứng
-- **Selection Thinking**: Tư duy chọn lọc
-- **Variation Analysis**: Phân tích biến dị
-- **Fitness Evaluation**: Đánh giá sự phù hợp
+- **Adaptive Logic**: Logic THÍCH ỨNG - tư duy tự điều chỉnh với ngữ cảnh
+- **Selection Thinking**: Tư duy CHỌN LỌC - hiểu áp lực môi trường
+- **Variation Analysis**: PHÂN TÍCH biến dị - từ đâu sự đa dạng xuất hiện
+- **Fitness Evaluation**: ĐÁNH GIÁ sự phù hợp - tiêu chí sống còn
 
-→ **Liên kết:** OPERATIONS (Problem Solving), VALIDATION (Testing)
+→ **Liên kết nội bộ:** DYNAMICS (Transformation Dynamics)
+→ **Công cụ hóa:** OPERATIONS #17 (thuật toán tiến hóa)
+→ **Nhìn vĩ mô:** TRANSCENDENCE #9 (mẫu hình tiến hóa cao hơn)
+→ **Ứng dụng:** CREATION (Evolutionary Innovation), VALIDATION (Selection Criteria)
 
 #### **50. Co-evolutionary Dynamics** - Động Lực Đồng Tiến Hóa
 
@@ -6978,16 +6981,19 @@ Sử dụng các ràng buộc để thu hẹp không gian giải pháp và tìm 
 
 → **Liên kết:** CREATION (Constraint-Based Creativity), NAVIGATION (Flow Optimization)
 
-#### **17. Evolutionary Reasoning** - Suy Luận Tiến Hóa
+#### **17. Evolutionary Reasoning - Suy Luận Tiến Hóa [Công Cụ Phân Tích]**
 
-Áp dụng mô hình biến dị và chọn lọc cho các ý tưởng hoặc giải pháp.
+Áp dụng mô hình tiến hóa sinh học vào suy luận logic và giải quyết vấn đề - sử dụng biến dị, chọn lọc, và thích ứng như CÁC CÔNG CỤ tư duy có cấu trúc. Đây là về KỸ THUẬT và THUẬT TOÁN, không phải về quá trình tự nhiên.
 
-- **Variation & Selection**: Tạo ra sự đa dạng và chọn lọc các biến thể tốt nhất.
-- **Fitness Landscapes**: Hình dung không gian vấn đề như một "cảnh quan thể lực" để tìm kiếm các đỉnh cao.
-- **Adaptation**: Hiểu các vấn đề và giải pháp như những thực thể thích ứng với môi trường.
-- **Co-evolutionary Dynamics**: Phân tích cách các giải pháp và vấn đề cùng tiến hóa với nhau.
+- **Variation & Selection**: TẠO RA nhiều giải pháp, CHỌN LỌC tốt nhất
+- **Fitness Landscapes**: HÌNH DUNG không gian vấn đề như địa hình để tối ưu
+- **Adaptation**: HIỂU vấn đề như thực thể thích ứng với ràng buộc
+- **Co-evolutionary Dynamics**: PHÂN TÍCH cách giải pháp và vấn đề cùng tiến hóa
 
-→ **Liên kết:** DYNAMICS (Evolution & Adaptation), CREATION (Genetic Algorithms)
+→ **Liên kết nội bộ:** CREATION (Genetic Algorithms)
+→ **Gốc lý thuyết:** DYNAMICS #49 (nguyên lý tiến hóa)
+→ **Tầm cao hơn:** TRANSCENDENCE #9 (nhìn mẫu hình tiến hóa vĩ mô)
+→ **Ứng dụng thực tiễn:** VALIDATION (Testing), CREATION (Evolutionary Design)
 
 #### **18. Systems Reasoning** - Suy Luận Hệ Thống
 
@@ -23403,16 +23409,19 @@ Khả năng nhảy vọt từ một trạng thái hiểu biết sang một trạ
 
 ---
 
-#### **9. Evolutionary Reasoning** - Suy Luận Tiến Hóa
+#### **9. Evolutionary Reasoning - Suy Luận Tiến Hóa [Tầm Nhìn Siêu Việt]**
 
-Tư duy về sự phát triển và thích ứng qua thời gian, nhìn thấy các mẫu hình tiến hóa trong hệ thống.
+Tư duy về TIẾN HÓA ở cấp độ SIÊU VIỆT - nhìn thấy các mẫu hình tiến hóa lớn, các giai đoạn phát triển, và sự xuất hiện của độ phức tạp mới. Khác với công cụ ở OPERATIONS hay nguyên lý ở DYNAMICS, đây là về TẦM NHÌN và CHIỀU SÂU.
 
-- **Adaptive Thinking**: Tư duy thích ứng; liên tục điều chỉnh theo bối cảnh thay đổi.
-- **Progressive Development**: Phát triển tiến bộ; mỗi giai đoạn xây dựng trên giai đoạn trước.
-- **Selection Pressure Awareness**: Nhận thức áp lực chọn lọc; hiểu những lực lượng hình thành sự tiến hóa.
-- **Emergent Complexity**: Sự phức tạp mới nổi; các thuộc tính mới xuất hiện ở mỗi cấp độ cao hơn.
+- **Adaptive Thinking**: Tư duy thích ứng - LIÊN TỤC điều chỉnh ở cấp độ cao
+- **Progressive Development**: NHÌN THẤY mỗi giai đoạn xây dựng trên giai đoạn trước
+- **Selection Pressure Awareness**: HIỂU các lực lượng vô hình hình thành tiến hóa
+- **Emergent Complexity**: NHẬN RA thuộc tính mới xuất hiện ở cấp độ cao hơn
 
-→ **Liên kết:** DYNAMICS (Evolution Patterns), NAVIGATION (Adaptive Strategy).
+→ **Liên kết nội bộ:** TRANSCENDENCE (Paradigm Shifts)
+→ **Nền tảng:** DYNAMICS #49 (nguyên lý tiến hóa cơ bản)
+→ **Công cụ:** OPERATIONS #17 (phương pháp áp dụng)
+→ **Bối cảnh:** NAVIGATION (Adaptive Strategy), FOUNDATIONS (Evolution #20)
 
 ---
 
