@@ -530,16 +530,23 @@ Một phương pháp tiếp cận để hiểu cách các thành phần trong m�
 
 → **Liên kết:** DYNAMICS, NAVIGATION
 
-#### **3. Network Thinking** - Tư Duy Mạng Lưới
+#### **3. Network Thinking - Tư Duy Mạng Lưới** [Nguyên Lý Nền Tảng]
 
-Mô hình tư duy xem xét thực tại như một tập hợp các nút (nodes) và các liên kết (links).
+ĐỊNH LUẬT PHỔ QUÁT về cấu trúc mạng lưới - một nguyên lý cơ bản chi phối cách các thực thể kết nối và tương tác trong tự nhiên, xã hội, và tư duy. Đây là KHUNG LÝ THUYẾT để hiểu bản chất của mọi hệ thống phức tạp.
 
-- **Nodes & Links**: Nhận diện các thực thể (nút) và các mối quan hệ (liên kết) giữa chúng
-- **Hubs & Centrality**: Xác định các nút trung tâm có ảnh hưởng lớn nhất trong mạng lưới
-- **Network Topology**: Hiểu các cấu trúc mạng khác nhau (ví dụ: tập trung, phi tập trung, phân tán)
-- **Network Effects**: Nhận thức rằng giá trị của mạng lưới tăng lên theo số lượng người tham gia
+- **Nodes & Links**: NGUYÊN TẮC CƠ BẢN - thực thể và mối quan hệ
+- **Hubs & Centrality**: ĐỊNH LUẬT tập trung quyền lực trong mạng
+- **Network Topology**: CÁC CẤU TRÚC PHỔ QUÁT của mạng lưới
+- **Network Effects**: QUY LUẬT giá trị tăng theo kết nối (Metcalfe's Law)
 
-→ **Liên kết:** AMPLIFICATION (Network Effects), INTEGRATION (Systemic Integration)
+→ **Liên kết nội bộ:** AMPLIFICATION (Network Effects), INTEGRATION (Systemic Integration)
+
+→ **Xuất hiện ở các domain khác:**
+  • INTEGRATION #33 (công cụ xây dựng mạch lạc)
+  • META #6 (lăng kính nhận dạng mẫu hình)
+  • AMPLIFICATION (Network Effects - ứng dụng trong khuếch đại)
+
+📚 Đây là LÝ THUYẾT TOÁN HỌC và QUY LUẬT TỰ NHIÊN - nền tảng cho mọi ứng dụng Network Thinking ở các domain khác.
 
 #### **4. Abstraction Ladder** - Thang Trừu Tượng
 
@@ -15757,16 +15764,24 @@ Khả năng tạo và duy trì sự mạch lạc trong các trường năng lư�
 
 ### **Nhóm Thinking Systems - Hệ Thống Tư Duy (6 mục mới)**
 
-#### **33. Network Thinking** - Tư Duy Mạng Lưới
+#### **33. Network Thinking - Tư Duy Mạng Lưới** [Công Cụ Tích Hợp]
 
-Nhìn mọi thứ như các node và mối quan hệ trong mạng lưới.
+PHƯƠNG PHÁP TƯ DUY nhìn mọi thứ như các node và mối quan hệ trong mạng lưới. Khác với nguyên lý lý thuyết ở FOUNDATIONS, đây là CÔNG CỤ THỰC HÀNH để xây dựng sự mạch lạc và tích hợp hệ thống thông qua việc lập bản đồ kết nối.
 
-- **Relational View**: Góc nhìn quan hệ; tập trung vào kết nối, không chỉ thực thể.
-- **Systemic Understanding**: Hiểu biết hệ thống; tác động lan truyền qua mạng lưới.
-- **Connection Mapping**: Lập bản đồ kết nối; trực quan hóa các mối quan hệ.
-- **Network Effects**: Hiệu ứng mạng lưới; giá trị tăng theo số lượng kết nối.
+- **Relational View**: TẬP TRUNG vào kết nối, không chỉ thực thể
+- **Systemic Understanding**: HIỂU cách tác động lan truyền qua mạng
+- **Connection Mapping**: LẬP BẢN ĐỒ trực quan các mối quan hệ
+- **Network Effects**: ỨNG DỤNG hiệu ứng mạng vào tích hợp
 
-→ **Liên kết:** AMPLIFICATION (Network Effects), FOUNDATIONS (Systems Thinking).
+→ **Liên kết nội bộ:** AMPLIFICATION (Network Effects)
+
+→ **Gốc lý thuyết:** FOUNDATIONS #3 (Network Thinking - nguyên lý phổ quát)
+
+→ **Meta-nhận thức:** META #6 (Network Thinking - công cụ nhận dạng mẫu hình)
+
+→ **Khuếch đại:** AMPLIFICATION (Network Effects - ứng dụng trong tăng trưởng)
+
+🔧 Đây là PHƯƠNG PHÁP LÀM VIỆC - cách áp dụng nguyên lý mạng lưới để xây dựng coherence và tích hợp knowledge từ nhiều nguồn.
 
 ---
 
@@ -26376,16 +26391,24 @@ Nhận ra các cấu trúc tự tương tự ở các quy mô khác nhau.
 
 → **Liên kết:** FOUNDATIONS (Fractals), DYNAMICS (Emergence).
 
-#### **6. Network Thinking** - Tư Duy Mạng Lưới
+#### **6. Network Thinking - Tư Duy Mạng Lưới** [Lăng Kính Meta-Nhận Thức]
 
-Nhìn thấy mọi thứ như các nút trong một mạng lưới các mối quan hệ.
+CÔNG CỤ META-NHẬN THỨC để nhìn thấy mọi thứ như mạng lưới các mẫu hình. Khác với nguyên lý ở FOUNDATIONS và công cụ tích hợp ở INTEGRATION, đây là về NHẬN DẠNG CẤU TRÚC MẠNG LƯỚI xuyên suốt các domain và các cấp độ tư duy.
 
-- **Node & Edge Recognition**: Nhận ra các nút và các cạnh nối.
-- **Hub Identification**: Xác định các trung tâm quan trọng.
-- **Network Topology**: Hình dạng tổng thể của mạng lưới.
-- **Flow Patterns**: Các mẫu hình dòng chảy trong mạng.
+- **Node & Edge Recognition**: PHÁT HIỆN các điểm và cạnh trong mẫu hình
+- **Hub Identification**: XÁC ĐỊNH các trung tâm quan trọng xuyên domain
+- **Network Topology**: NHẬN RA cấu trúc tổng thể của mạng tri thức
+- **Flow Patterns**: QUAN SÁT dòng chảy thông tin và năng lượng
 
-→ **Liên kết:** FOUNDATIONS (Network Theory), AMPLIFICATION (Network Effects).
+→ **Liên kết nội bộ:** AMPLIFICATION (Network Effects)
+
+→ **Gốc lý thuyết:** FOUNDATIONS #3 (Network Thinking - định luật phổ quát)
+
+→ **Công cụ thực hành:** INTEGRATION #33 (Network Thinking - phương pháp tích hợp)
+
+→ **Ứng dụng:** Nhận ra cấu trúc mạng trong MỌI KHÁI NIỆM và MỐI QUAN HỆ
+
+🔍 Đây là THẤU KÍNH META - dùng cấu trúc mạng lưới như công cụ để nhận dạng patterns và connections xuyên suốt toàn bộ framework.
 
 #### **7. Systems Archetypes** - Các Nguyên Mẫu Hệ Thống
 
