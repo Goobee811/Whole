@@ -3432,14 +3432,35 @@ Khả năng thay đổi trải nghiệm chủ quan về thời gian, làm chậm
 
 #### **24. Hyperfocus States** - Trạng Thái Siêu Tập Trung
 
-Trạng thái tập trung cực độ nơi tất cả chú ý được dồn vào một nhiệm vụ duy nhất.
+Trạng thái ý thức đặc biệt với mức độ tập trung cực độ - tất cả tài nguyên
+nhận thức được hướng vào một nhiệm vụ duy nhất với sự chú ý hoàn toàn và
+không gián đoạn. Đây là một dạng FLOW STATE ở mức độ cường độ cao nhất.
 
-- **Laser Focus**: Tập trung như tia laser
-- **Distraction Immunity**: Miễn nhiễm với sự xao lãng
-- **Deep Work Access**: Truy cập vào công việc sâu
-- **Intense Absorption**: Sự hấp thụ dữ dội
+- **Laser Focus**: Tập trung như tia laser - chỉ nhìn thấy mục tiêu
+- **Distraction Immunity**: Miễn nhiễm hoàn toàn với mọi sự xao lãng bên ngoài
+- **Deep Work Access**: Tự động kích hoạt khả năng làm việc sâu (Cal Newport)
+- **Intense Absorption**: Sự hấp thụ dữ dội - hòa nhập hoàn toàn với nhiệm vụ
+- **Time Distortion**: Mất cảm giác về thời gian (đặc điểm bổ sung)
+- **Peak Performance**: Hiệu suất đỉnh cao trong khi ở trạng thái này
 
-→ **Liên kết:** OPERATIONS (Focus Management), CREATION (Deep Creation)
+⚠️ **Lưu ý đặc biệt:**
+- Khác với Flow (cân bằng): Hyperfocus có thể quá mức, dẫn đến kiệt sức
+- Có thể xảy ra tự nhiên (ADHD) hoặc được kích hoạt có chủ đích
+- Rất hiệu quả cho công việc sáng tạo và giải quyết vấn đề phức tạp
+- Cần quản lý để tránh bỏ qua các nhu cầu cơ bản (ăn, nghỉ, ngủ)
+
+→ **Liên kết nội bộ:**
+  • DYNAMICS (Flow State) - Hyperfocus là flow cường độ cao
+  • OPERATIONS (Focus Management) - kỹ thuật đạt và duy trì
+  • CREATION (Deep Creation) - môi trường lý tưởng cho sáng tạo
+  • [META] LAYER (State Engineering) - thiết kế và trigger có chủ đích
+
+→ **Ứng dụng thực tiễn:**
+  • Lập trình (coding marathon)
+  • Viết lách sáng tạo
+  • Nghiên cứu khoa học
+  • Nghệ thuật và thiết kế
+  • Giải quyết vấn đề phức tạp
 
 #### **25. Instant Integration** - Tích Hợp Tức Thì
 
@@ -8971,16 +8992,17 @@ Các cấu trúc có hệ thống để học cách học hiệu quả hơn.
 
 → **Liên kết:** META (Meta-Learning), OPERATIONS (Learning Systems)
 
-#### **25. Hyperfocus States** - Trạng Thái Siêu Tập Trung
+#### **25. Interleaving Practice** - Thực Hành Xen Kẽ
 
-Trạng thái tập trung cực độ với sự chú ý hoàn toàn vào một nhiệm vụ.
+Kỹ thuật học tập bằng cách xen kẽ nhiều chủ đề hoặc kỹ năng khác nhau
+trong cùng một phiên học, thay vì học theo khối (blocked practice).
 
-- **Intense Concentration**: Tập trung mạnh mẽ.
-- **Flow Immersion**: Đắm chìm trong trạng thái flow.
-- **Distraction Elimination**: Loại bỏ hoàn toàn phiền nhiễu.
-- **Peak Performance**: Hiệu suất đỉnh cao.
+- **Mixed Practice**: Thực hành hỗn hợp nhiều loại bài tập
+- **Discrimination Enhancement**: Tăng khả năng phân biệt giữa các khái niệm
+- **Long-term Retention**: Cải thiện khả năng lưu giữ lâu dài
+- **Contextual Interference**: Tạo ra "nhiễu" có lợi cho học tập
 
-→ **Liên kết:** DYNAMICS (Flow State), OPERATIONS (Focus)
+→ **Liên kết:** DYNAMICS (Cognitive Flexibility), VALIDATION (Testing Effect)
 
 #### **26. Instant Integration** - Tích Hợp Tức Thời
 
