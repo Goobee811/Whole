@@ -2080,14 +2080,16 @@ Các nguyên lý chiến lược không chỉ áp dụng cho chiến tranh mà c
 
 #### **35. Tikkun Olam** - Sửa Chữa Thế Giới
 
-Một khái niệm trong Do Thái giáo về trách nhiệm của con người trong việc sửa chữa và cải thiện thế giới.
+Một khái niệm sâu sắc trong Do Thái giáo về trách nhiệm của con người trong việc sửa chữa và cải thiện thế giới. Đây là GIÁO LÝ TÂM LINH-ĐẠO ĐỨC về sứ mệnh con người, không chỉ là một phương pháp hay công cụ.
 
-- **Repairing the World**: Sửa chữa thế giới
-- **Partnership with Creation**: Quan hệ đối tác với Đấng Sáng Tạo
-- **Social Justice as Spiritual Practice**: Công bằng xã hội như một thực hành tâm linh
-- **Restoring Wholeness**: Phục hồi sự toàn vẹn
+- **Repairing the World**: Sửa chữa thế giới - trách nhiệm thiêng liêng
+- **Partnership with Creation**: Quan hệ đối tác với Đấng Sáng Tạo - con người như đồng tác giả của sáng tạo
+- **Social Justice as Spiritual Practice**: Công bằng xã hội như thực hành tâm linh - hành động vì công lý là con đường tu tập
+- **Restoring Wholeness**: Phục hồi sự toàn vẹn - chữa lành sự vỡ vụn
 
 → **Liên kết:** INTEGRATION (Systemic Integration), CREATION (Generative Systems)
+→ **Tác động khuếch đại:** Khi được sống, khái niệm này tự nhiên tạo ra AMPLIFICATION qua Sacred Activism (AMPLIFICATION #46), Community Art Practice (AMPLIFICATION #49), và Movement Building trong INTEGRATION
+→ **Khác biệt:** Đây là NGUYÊN TẮC SỐNG, không phải phương pháp khuếch đại
 
 #### **36. Sufi Wisdom** - Trí Tuệ Sufi
 
@@ -22562,15 +22564,17 @@ Truyền bá giáo lý và trí tuệ tâm linh.
 
 ### **Sacred Amplification (5 mục bổ sung)**
 
-#### **45. Tikkun Olam** - Sửa Chữa Thế Giới
+#### **45. Spiritual Movement Building** - Xây Dựng Phong Trào Tâm Linh
 
-Khái niệm Do Thái về trách nhiệm sửa chữa và cải thiện thế giới.
+Khuếch đại tác động xã hội thông qua việc xây dựng các phong trào được thúc đẩy bởi giá trị tâm linh và đạo đức. Đây là PHƯƠNG PHÁP để biến các giá trị thiêng liêng (như Tikkun Olam, Dharma, Sacred Activism) thành hành động tập thể quy mô lớn.
 
-- **Action-Oriented**: Hướng hành động.
-- **World Repair**: Sửa chữa thế giới.
-- **Social Justice**: Công bằng xã hội.
-- **Collective Responsibility**: Trách nhiệm tập thể.  
-    → **Liên kết:** FOUNDATIONS (Jewish Wisdom), INTEGRATION (Social Action).
+- **Values-Based Mobilization**: Huy động dựa trên giá trị - tập hợp người xung quanh mục đích thiêng liêng.
+- **Collective Sacred Action**: Hành động thiêng liêng tập thể - chuyển từ cá nhân sang phong trào.
+- **Movement Infrastructure**: Cơ sở hạ tầng phong trào - xây dựng hệ thống để duy trì động lực.
+- **Scaling Spiritual Impact**: Quy mô hóa tác động tâm linh - từ nhóm nhỏ đến xã hội rộng lớn.
+    → **Liên kết:** INTEGRATION (Social Movements), FOUNDATIONS (Values & Ethics).
+    → **Gốc giá trị:** Các giáo lý như Tikkun Olam (FOUNDATIONS #35), Karma Yoga, Sacred Activism.
+    → **Phương pháp:** Sacred Activism (#46), Community Art Practice (#49), Teaching & Transmission (FOUNDATIONS #39).
 
 #### **46. Sacred Activism** - Hành Động Thiêng Liêng
 
