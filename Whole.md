@@ -3477,16 +3477,21 @@ Khả năng tổng hợp và tích hợp thông tin một cách tức thời mà
 
 ### **Nhóm Bổ Sung: Collective Intelligence Systems (8 mục mới)**
 
-#### **26. Swarm Intelligence** - Trí Tuệ Bầy Đàn
+#### **26. Swarm Intelligence - Trí Tuệ Bầy Đàn [Hiện Tượng Đột Sinh]**
 
-Hành vi tập thể thông minh xuất hiện từ sự phối hợp của nhiều tác nhân đơn giản.
+Hiện tượng tự nhiên về việc trí tuệ tập thể phức tạp ĐỘT SINH từ sự phối hợp của nhiều tác nhân đơn giản theo các quy tắc cục bộ. Đây là NGUYÊN LÝ về cách hệ thống phức tạp tự tổ chức mà không cần lãnh đạo trung tâm.
 
-- **Decentralized Coordination**: Phối hợp phi tập trung
-- **Local Rules, Global Intelligence**: Quy tắc cục bộ tạo ra trí tuệ toàn cục
-- **Stigmergic Communication**: Giao tiếp gián tiếp qua môi trường
-- **Emergent Problem-Solving**: Giải quyết vấn đề đột sinh
+- **Decentralized Coordination**: Phối hợp phi tập trung - CƠ CHẾ tự tổ chức
+- **Local Rules, Global Intelligence**: Quy tắc cục bộ → trí tuệ toàn cục - NGUYÊN LÝ đột sinh
+- **Stigmergic Communication**: Giao tiếp qua môi trường - PHƯƠNG THỨC tự nhiên
+- **Emergent Problem-Solving**: Giải quyết vấn đề đột sinh - KẾT QUẢ tự nhiên
 
-→ **Liên kết:** AMPLIFICATION (Swarm Dynamics), INTEGRATION (Collective Intelligence)
+→ **Liên kết nội bộ:** DYNAMICS (Self-Organization), FOUNDATIONS (Emergence)
+→ **Ứng dụng thực hành:** INTEGRATION #9 (trong cộng tác con người)
+→ **Khuếch đại hiệu ứng:** AMPLIFICATION #43 (trong tăng trưởng theo cấp số nhân)
+→ **Thuật toán hóa:** OPERATIONS (Swarm Algorithms - nếu có)
+
+📌 **TIÊU ĐIỂM:** Nghiên cứu BẢN CHẤT và CƠ CHẾ của hiện tượng đột sinh
 
 #### **27. Hive Mind Phenomena** - Hiện Tượng Tâm Trí Tổ Ong
 
@@ -17022,16 +17027,21 @@ Làm việc cùng nhau qua các mạng lưới phân tán, thường được h�
 
 ---
 
-#### **9. Swarm Intelligence** - Trí Tuệ Bầy Đàn
+#### **9. Swarm Intelligence - Trí Tuệ Bầy Đàn [Trong Cộng Tác Con Người]**
 
-Hành vi tập thể của các hệ thống tự tổ chức, phi tập trung.
+Áp dụng các nguyên tắc từ hành vi bầy đàn tự nhiên vào TỔ CHỨC CON NGƯỜI và cộng tác nhóm. Khác với nguyên lý tự nhiên ở DYNAMICS, đây là về THỰC HÀNH - làm thế nào để con người cộng tác như một bầy đàn thông minh.
 
-- **Decentralized Coordination**: Phối hợp phi tập trung; không có người chỉ huy trung tâm.
-- **Simple Rules, Complex Behavior**: Các quy tắc đơn giản tạo ra hành vi phức tạp.
-- **Stigmergy**: Phối hợp gián tiếp thông qua môi trường (ví dụ: kiến để lại mùi).
-- **Emergent Intelligence**: Trí tuệ đột sinh từ các tương tác đơn giản.
+- **Decentralized Coordination**: Không có CEO bầy đàn - MÔ HÌNH tổ chức
+- **Simple Rules, Complex Behavior**: Quy tắc đơn giản → hành vi phức tạp - NGUYÊN TẮC thiết kế
+- **Stigmergy**: Phối hợp qua môi trường (wiki, tools) - CÔNG CỤ cộng tác
+- **Emergent Intelligence**: Nhóm thông minh hơn cá nhân - MỤC TIÊU cuối cùng
 
-→ **Liên kết:** AMPLIFICATION (Emergence), FOUNDATIONS (Complex Systems).
+→ **Liên kết nội bộ:** INTEGRATION (Collective Intelligence), COLLABORATION (Networked)
+→ **Gốc lý thuyết:** DYNAMICS #26 (Swarm Intelligence - hiện tượng tự nhiên)
+→ **Thuật toán:** OPERATIONS (Swarm Algorithms - nếu có)
+→ **Khuếch đại:** AMPLIFICATION #43 (scale up trí tuệ tập thể)
+
+📌 **TIÊU ĐIỂM:** ỨNG DỤNG nguyên tắc bầy đàn vào tổ chức và cộng tác
 
 ---
 
@@ -22096,15 +22106,21 @@ Quá trình biến tiềm năng thành hiện thực.
 - **Latent Activation**: Kích hoạt tiềm ẩn.  
     → **Liên kết:** CREATION (Manifestation), DYNAMICS (Actualization).
 
-#### **43. Swarm Intelligence** - Trí Tuệ Bầy Đàn
+#### **43. Swarm Intelligence - Trí Tuệ Bầy Đàn [Động Cơ Khuếch Đại]**
 
-Hành vi tập thể thông minh xuất hiện từ các tác nhân đơn giản.
+Sử dụng trí tuệ bầy đàn như ĐỘNG CƠ để khuếch đại năng lực giải quyết vấn đề theo cấp số nhân. Khác với hiện tượng tự nhiên (DYNAMICS) và ứng dụng cộng tác (INTEGRATION), đây là về KHUẾCH ĐẠI - làm sao để N cá nhân tạo ra >N² hiệu quả.
 
-- **Collective Behavior**: Hành vi tập thể.
-- **Distributed Problem-Solving**: Giải quyết vấn đề phân tán.
-- **Self-Organization**: Tự tổ chức.
-- **Emergent Coordination**: Phối hợp đột sinh.  
-    → **Liên kết:** INTEGRATION (Collective Intelligence), OPERATIONS (Swarm Algorithms).
+- **Collective Behavior**: Hành vi tập thể - NGUỒN NĂNG LƯỢNG khuếch đại
+- **Distributed Problem-Solving**: Giải quyết song song - CƠ CHẾ nhân rộng
+- **Self-Organization**: Tự tổ chức - LOẠI BỎ overhead quản lý
+- **Emergent Coordination**: Phối hợp đột sinh - HIỆU ỨNG phi tuyến
+
+→ **Liên kết nội bộ:** AMPLIFICATION (Collective Intelligence), NETWORK EFFECTS
+→ **Gốc lý thuyết:** DYNAMICS #26 (nguyên lý đột sinh tự nhiên)
+→ **Phương pháp thực hành:** INTEGRATION #9 (cộng tác swarm)
+→ **Mô hình toán học:** FOUNDATIONS (Power Laws, Scale-free Networks)
+
+📌 **TIÊU ĐIỂM:** KHUẾCH ĐẠI sức mạnh tập thể theo cấp số nhân
 
 #### **44. Collective Intelligence Surfing** - Lướt Trí Tuệ Tập Thể
 
