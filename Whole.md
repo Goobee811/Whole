@@ -2788,18 +2788,7 @@ Chuyển hóa thực phẩm qua vi sinh vật.
 
 ### **Nhóm Analytical Razors & Methods - Dao cạo và phương pháp phân tích**
 
-#### **28. Hanlon's Razor** - Dao Cạo Hanlon
-
-"Đừng quy cho ác ý những gì có thể giải thích bằng sự ngu ngốc."
-
-- **Attribution Judgment**: Phán đoán quy kết
-- **Assume Good Intent**: Giả định thiện ý
-- **Simplest Explanation**: Giải thích đơn giản nhất
-- **Avoid Conspiracy**: Tránh thuyết âm mưu
-
-→ **Liên kết:** VALIDATION (Bias Awareness), OPERATIONS (Critical Thinking)
-
-#### **29. Hitchens's Razor** - Dao Cạo Hitchens
+#### **28. Hitchens's Razor** - Dao Cạo Hitchens
 
 "Những gì được khẳng định mà không có bằng chứng có thể bị bác bỏ mà không cần bằng chứng."
 
@@ -2810,7 +2799,7 @@ Chuyển hóa thực phẩm qua vi sinh vật.
 
 → **Liên kết:** VALIDATION (Evidence-Based), OPERATIONS (Logical Reasoning)
 
-#### **30. Newton's Razor** - Dao Cạo Newton
+#### **29. Newton's Razor** - Dao Cạo Newton
 
 Không thêm nhiều nguyên nhân hơn cần thiết để giải thích các hiện tượng.
 
@@ -2821,7 +2810,7 @@ Không thêm nhiều nguyên nhân hơn cần thiết để giải thích các h
 
 → **Liên kết:** OPERATIONS (Scientific Method), FOUNDATIONS (First Principles)
 
-#### **31. Grice's Razor** - Dao Cạo Grice
+#### **30. Grice's Razor** - Dao Cạo Grice
 
 Trong giao tiếp, giả định người nói đang hợp tác và có ý nghĩa.
 
@@ -2832,7 +2821,7 @@ Trong giao tiếp, giả định người nói đang hợp tác và có ý nghĩ
 
 → **Liên kết:** INTEGRATION (Communication), OPERATIONS (Interpretation)
 
-#### **32. Knowledge Archaeology** - Khảo Cổ Tri Thức
+#### **31. Knowledge Archaeology** - Khảo Cổ Tri Thức
 
 Phục hồi tri thức cổ đại đã mất.
 
@@ -2843,7 +2832,7 @@ Phục hồi tri thức cổ đại đã mất.
 
 → **Liên kết:** FOUNDATIONS (Wisdom Traditions), [META] LAYER (Historical Understanding)
 
-#### **33. Anti-Knowledge Investigation** - Nghiên Cứu Phản-Tri Thức
+#### **32. Anti-Knowledge Investigation** - Nghiên Cứu Phản-Tri Thức
 
 Khám phá giới hạn và điều chúng ta không biết.
 
@@ -5010,18 +4999,7 @@ Không nên loại bỏ thứ gì cho đến khi hiểu tại sao nó tồn tạ
 
 → **Liên kết:** VALIDATION (Understanding Before Action), OPERATIONS (Change Management)
 
-#### **44. Hanlon's Razor** - Dao Cạo Hanlon
-
-"Đừng quy kết cho sự xấu xa những gì có thể được giải thích đầy đủ bằng sự ngu ngốc."
-
-- **Benign Interpretation**: Giải thích tốt bụng
-- **Malice vs. Incompetence**: Ác ý vs. bất tài
-- **Assumption Simplicity**: Giản dị trong giả định
-- **Error Attribution**: Quy kết sai lầm
-
-→ **Liên kết:** VALIDATION (Attribution), INTEGRATION (Understanding)
-
-#### **45. Occam's Razor** - Dao Cạo Occam
+#### **44. Occam's Razor** - Dao Cạo Occam
 
 Nguyên lý ưu tiên những giải thích đơn giản nhất khi đối mặt với nhiều lựa chọn có giá trị giải thích tương đương.
 
@@ -5032,7 +5010,7 @@ Nguyên lý ưu tiên những giải thích đơn giản nhất khi đối mặt
 
 → **Liên kết:** OPERATIONS (Problem Solving), VALIDATION (Theory Selection)
 
-#### **46. Shirky Principle** - Nguyên Tắc Shirky
+#### **45. Shirky Principle** - Nguyên Tắc Shirky
 
 "Các tổ chức sẽ cố gắng bảo tồn vấn đề mà chúng là giải pháp."
 
@@ -5043,7 +5021,7 @@ Nguyên lý ưu tiên những giải thích đơn giản nhất khi đối mặt
 
 → **Liên kết:** VALIDATION (Organizational Analysis), NAVIGATION (Strategy Review)
 
-#### **47. Conway's Law** - Định Luật Conway
+#### **46. Conway's Law** - Định Luật Conway
 
 "Các tổ chức thiết kế hệ thống phản ánh cấu trúc giao tiếp của chính họ."
 
@@ -5054,7 +5032,7 @@ Nguyên lý ưu tiên những giải thích đơn giản nhất khi đối mặt
 
 → **Liên kết:** OPERATIONS (System Design), INTEGRATION (Organizational Structure)
 
-#### **48. Hofstadter's Law** - Định Luật Hofstadter
+#### **47. Hofstadter's Law** - Định Luật Hofstadter
 
 "Luôn mất nhiều thời gian hơn bạn dự kiến, ngay cả khi bạn tính đến Định luật Hofstadter."
 
@@ -7434,14 +7412,24 @@ Các phương pháp và công cụ có cấu trúc để phân tích vấn đề
 
 #### **1. Analytical Razors** - Dao Cạo Phân Tích
 
-Một bộ các nguyên tắc giúp loại bỏ các giải thích không hợp lý.
+Một bộ nguyên tắc giúp loại bỏ các giải thích không hợp lý khi phân tích vấn đề. Đây là các CÔNG CỤ SUY LUẬN để xác định nguyên nhân đúng đắn nhất.
 
-- **Parsimony Principle (Occam's Razor)**: Ưu tiên giải thích đơn giản nhất với ít giả định nhất.
-- **Human Factor Principle (Hanlon's Razor)**: Đừng quy cho ác ý những gì có thể giải thích bằng sự bất cẩn.
-- **Evidence Principle (Hitchens's Razor)**: Những gì được khẳng định không có bằng chứng có thể bị bác bỏ mà không cần bằng chứng.
-- **Falsification Principle (Popper's Criterion)**: Một tuyên bố khoa học phải có khả năng bị chứng minh là sai.
+- **Occam's Razor (Parsimony Principle)**: Ưu tiên giải thích đơn giản nhất với ít giả định nhất.
 
-→ **Liên kết:** FOUNDATIONS (Via Negativa), VALIDATION (Adversarial Testing)
+- **Hanlon's Razor (Human Factor Principle)**: "Đừng quy cho ác ý những gì có thể giải thích bằng sự bất cẩn/ngu ngốc"
+  - **Attribution Judgment**: Phán đoán quy kết chính xác
+  - **Assume Good Intent**: Giả định thiện ý trước tiên
+  - **Simplest Human Explanation**: Giải thích đơn giản nhất về hành vi con người
+  - **Avoid Conspiracy Thinking**: Tránh thuyết âm mưu phức tạp không cần thiết
+
+  → Đặc biệt hữu ích khi phân tích lỗi trong hệ thống do con người vận hành
+  → Liên kết với Grey's Law (DYNAMICS #35): "Bất tài tiên tiến khó phân biệt với ác ý"
+
+- **Hitchens's Razor (Evidence Principle)**: Những gì khẳng định không có bằng chứng có thể bị bác bỏ mà không cần bằng chứng.
+
+- **Popper's Criterion (Falsification Principle)**: Tuyên bố khoa học phải có khả năng bị chứng minh là sai.
+
+→ **Liên kết:** FOUNDATIONS (Via Negativa), VALIDATION (Adversarial Testing), DYNAMICS (Grey's Law)
 
 #### **2. Root Cause Analysis (RCA)** - Phân Tích Nguyên Nhân Gốc
 
