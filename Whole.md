@@ -599,16 +599,18 @@ Mô hình tư duy cơ bản về việc nhận diện các mẫu hình tự lặ
 
 Fractal Thinking không chỉ là một công cụ để NHÌN fractals - mà chính BẢN THÂN NÓ được tổ chức theo cách fractal trong hệ thống tri thức.
 
-#### **6. Probabilistic Thinking** - Tư Duy Xác Suất
+#### **6. Probabilistic Thinking** - Tư Duy Xác Suất [Nguyên Lý Phổ Quát]
 
-Tư duy về thế giới như một tập hợp các khả năng với các xác suất khác nhau, thay vì các sự chắc chắn.
+**NGUYÊN LÝ PHỔ QUÁT**: Tư duy về thế giới như một tập hợp các khả năng với các xác suất khác nhau, thay vì các sự chắc chắn. Đây là **MÔ HÌNH NỀN TẢNG** về cách thực tại hoạt động theo bản chất.
 
-- **Bayesian Updating**: Cập nhật niềm tin của bạn khi có bằng chứng mới
-- **Expected Value**: Tính toán giá trị kỳ vọng của một quyết định (Xác suất x Kết quả)
-- **Fat Tails**: Nhận biết rằng các sự kiện cực đoan hiếm gặp có thể xảy ra thường xuyên hơn so với dự đoán của phân phối chuẩn
-- **Regression to the Mean**: Hiểu rằng các kết quả cực đoan có xu hướng quay trở lại mức trung bình theo thời gian
+- **Bayesian Updating**: **Cơ CHẾ TỰ NHIÊN** - Cập nhật niềm tin khi có bằng chứng mới theo cách tự nhiên của quá trình học tập
+- **Expected Value**: **QUY LUẬT** - Tính toán giá trị kỳ vọng của một quyết định (Xác suất × Kết quả)
+- **Fat Tails**: **HIỆN TƯỢNG TỰ NHIÊN** - Các sự kiện cực đoan xảy ra thường xuyên hơn dự đoán của phân phối chuẩn
+- **Regression to the Mean**: **NGUYÊN LÝ** - Kết quả cực đoan có xu hướng quay về trung bình theo thời gian
 
-→ **Liên kết:** OPERATIONS (Bayesian Thinking), VALIDATION (Prediction Accuracy)
+→ **Bản chất**: Nguyên lý tự nhiên của sự không chắc chắn
+→ **Ứng dụng thực hành**: OPERATIONS (Probabilistic Reasoning - công cụ suy luận), OPERATIONS (Risk-Based Decision Making - ra quyết định)
+→ **Liên kết**: VALIDATION (Prediction Accuracy), DYNAMICS (Uncertainty)
 
 #### **7. Map-Territory Distinction** - Phân Biệt Bản Đồ-Lãnh Thổ
 
@@ -6804,16 +6806,19 @@ Xác định và phân tích các mối quan hệ nguyên nhân-kết quả.
 
 → **Liên kết:** FOUNDATIONS (Causality), DYNAMICS (System Dynamics)
 
-#### **6. Probabilistic Reasoning** - Suy Luận Xác Suất
+#### **6. Probabilistic Reasoning** - Suy Luận Xác Suất [Công Cụ Phân Tích]
 
-Suy luận trong điều kiện không chắc chắn, sử dụng xác suất để định lượng niềm tin.
+**CÔNG CỤ SUY LUẬN**: Phương pháp suy luận trong điều kiện không chắc chắn, sử dụng xác suất để định lượng niềm tin. Khác với nguyên lý nền tảng ở FOUNDATIONS, đây là **KỸ THUẬT CỤ THỂ** để phân tích và lập luận.
 
-- **Bayesian Updating**: Cập nhật niềm tin dựa trên bằng chứng mới theo định lý Bayes.
-- **Prior & Posterior Probabilities**: Xác suất tiên nghiệm (trước bằng chứng) và xác suất hậu nghiệm (sau bằng chứng).
-- **Likelihood Ratio**: Tỷ lệ khả năng, đo lường mức độ bằng chứng hỗ trợ một giả thuyết so với giả thuyết khác.
-- **Uncertainty Quantification**: Lượng hóa và truyền đạt sự không chắc chắn một cách rõ ràng.
+- **Bayesian Updating**: **KỸ THUẬT** - Cập nhật niềm tin theo công thức Bayes dựa trên bằng chứng mới
+- **Prior & Posterior Probabilities**: **PHÂN TÍCH** - Xác suất tiên nghiệm (trước bằng chứng) và xác suất hậu nghiệm (sau bằng chứng)
+- **Likelihood Ratio**: **CÔNG CỤ** - Đo lường mức độ bằng chứng hỗ trợ một giả thuyết so với giả thuyết khác
+- **Uncertainty Quantification**: **KỸ NĂNG** - Lượng hóa và truyền đạt sự không chắc chắn một cách rõ ràng
 
-→ **Liên kết:** VALIDATION (Statistical Analysis), NAVIGATION (Risk Assessment)
+→ **Bản chất**: Kỹ thuật suy luận có cấu trúc
+→ **Gốc lý thuyết**: FOUNDATIONS (Probabilistic Thinking - nguyên lý phổ quát)
+→ **Ứng dụng ra quyết định**: OPERATIONS (Risk-Based Decision Making - trong quyết định thực tế)
+→ **Liên kết**: VALIDATION (Statistical Analysis), NAVIGATION (Risk Assessment)
 
 #### **7. Modal Reasoning** - Suy Luận Với Khả Thể
 
@@ -7046,18 +7051,7 @@ Suy luận về những gì có thể đã xảy ra nếu các điều kiện kh
 
 → **Liên kết:** NAVIGATION (Scenario Planning), META (Reflection)
 
-#### **28. Probabilistic Thinking** - Tư Duy Xác Suất
-
-Suy luận về xác suất, rủi ro và sự không chắc chắn.
-
-- **Expected Value Calculation**: Tính toán giá trị kỳ vọng của các quyết định.
-- **Risk Assessment**: Đánh giá xác suất và tác động của các rủi ro.
-- **Uncertainty Quantification**: Lượng hóa và suy luận trong điều kiện không chắc chắn.
-- **Bayesian Updating**: Cập nhật niềm tin dựa trên bằng chứng mới.
-
-→ **Liên kết:** OPERATIONS (Bayesian Thinking), VALIDATION (Statistical Analysis)
-
-#### **29. Non-Monotonic Reasoning** - Suy Luận Phi Đơn Điệu
+#### **28. Non-Monotonic Reasoning** - Suy Luận Phi Đơn Điệu
 
 Khả năng rút lại các kết luận khi có thông tin mới mâu thuẫn.
 
@@ -7068,7 +7062,7 @@ Khả năng rút lại các kết luận khi có thông tin mới mâu thuẫn.
 
 → **Liên kết:** DYNAMICS (Adaptation), VALIDATION (Falsification)
 
-#### **30. Argumentation Analysis** - Phân Tích Lập Luận
+#### **29. Argumentation Analysis** - Phân Tích Lập Luận
 
 Phân tích cấu trúc và sức mạnh của các lập luận.
 
@@ -7079,7 +7073,7 @@ Phân tích cấu trúc và sức mạnh của các lập luận.
 
 → **Liên kết:** VALIDATION (Adversarial Testing), OPERATIONS (Devil's Advocate)
 
-#### **31. Motivational Reasoning** - Suy Luận theo Động Lực
+#### **30. Motivational Reasoning** - Suy Luận theo Động Lực
 
 Nhận biết cách cảm xúc và động lực ảnh hưởng đến quá trình suy luận.
 
@@ -7090,7 +7084,7 @@ Nhận biết cách cảm xúc và động lực ảnh hưởng đến quá trì
 
 → **Liên kết:** META (Thinking about Biases), INTEGRATION (Shadow Work)
 
-#### **32. Distributed Reasoning** - Suy Luận Phân Tán
+#### **31. Distributed Reasoning** - Suy Luận Phân Tán
 
 Giải quyết vấn đề thông qua sự tương tác của nhiều tác nhân.
 
@@ -7101,7 +7095,7 @@ Giải quyết vấn đề thông qua sự tương tác của nhiều tác nhân
 
 → **Liên kết:** AMPLIFICATION (Collective Intelligence), INTEGRATION (Dialogue)
 
-#### **33. Meta-Cognitive Reasoning** - Suy Luận Meta-Nhận Thức
+#### **32. Meta-Cognitive Reasoning** - Suy Luận Meta-Nhận Thức
 
 Suy luận về chính các quy trình nhận thức của mình.
 
@@ -7112,7 +7106,7 @@ Suy luận về chính các quy trình nhận thức của mình.
 
 → **Liên kết:** META (Meta-Cognition), VALIDATION (Bias Detection)
 
-#### **34. Intuitive Reasoning** - Suy Luận Trực Giác
+#### **33. Intuitive Reasoning** - Suy Luận Trực Giác
 
 Suy luận nhanh chóng, tự động dựa trên kinh nghiệm và nhận thức mẫu hình.
 
@@ -7123,7 +7117,7 @@ Suy luận nhanh chóng, tự động dựa trên kinh nghiệm và nhận thứ
 
 → **Liên kết:** DYNAMICS (Fast Thinking), NAVIGATION (Rapid Assessment)
 
-#### **35. Deliberative Reasoning** - Suy Luận Cân Nhắc
+#### **34. Deliberative Reasoning** - Suy Luận Cân Nhắc
 
 Suy luận chậm, có ý thức và phân tích.
 
@@ -7134,7 +7128,7 @@ Suy luận chậm, có ý thức và phân tích.
 
 → **Liên kết:** OPERATIONS (Analytical Tools), VALIDATION (Critical Thinking)
 
-#### **36. Critical Reasoning** - Suy Luận Phê Phán
+#### **35. Critical Reasoning** - Suy Luận Phê Phán
 
 Đánh giá các lập luận và tuyên bố một cách khách quan và hoài nghi.
 
@@ -7145,7 +7139,7 @@ Suy luận chậm, có ý thức và phân tích.
 
 → **Liên kết:** VALIDATION (Adversarial Testing), FOUNDATIONS (Socratic Method)
 
-#### **37. Creative Reasoning** - Suy Luận Sáng Tạo
+#### **36. Creative Reasoning** - Suy Luận Sáng Tạo
 
 Tạo ra các ý tưởng, kết nối và giải pháp mới.
 
@@ -7156,7 +7150,7 @@ Tạo ra các ý tưởng, kết nối và giải pháp mới.
 
 → **Liên kết:** CREATION (Ideation), TRANSCENDENCE (Breakthrough)
 
-#### **38. Embodied Reasoning** - Suy Luận Hiện Thân
+#### **37. Embodied Reasoning** - Suy Luận Hiện Thân
 
 Suy luận dựa trên kinh nghiệm thể xác và nhận thức cảm giác.
 
@@ -7167,7 +7161,7 @@ Suy luận dựa trên kinh nghiệm thể xác và nhận thức cảm giác.
 
 → **Liên kết:** OPERATIONS (Practice), INTEGRATION (Somatic Awareness)
 
-#### **39. Emotional Reasoning** - Suy Luận Cảm Xúc
+#### **38. Emotional Reasoning** - Suy Luận Cảm Xúc
 
 Tích hợp cảm xúc vào quá trình suy luận và ra quyết định.
 
@@ -7178,7 +7172,7 @@ Tích hợp cảm xúc vào quá trình suy luận và ra quyết định.
 
 → **Liên kết:** DYNAMICS (Emotional Intelligence), INTEGRATION (Emotional Integration)
 
-#### **40. Social Reasoning** - Suy Luận Xã Hội
+#### **39. Social Reasoning** - Suy Luận Xã Hội
 
 Suy luận về người khác, ý định và tương tác xã hội của họ.
 
@@ -7189,7 +7183,7 @@ Suy luận về người khác, ý định và tương tác xã hội của họ
 
 → **Liên kết:** NAVIGATION (Social Navigation), INTEGRATION (Empathy)
 
-#### **41. Cross-Cultural Reasoning** - Suy Luận Xuyên Văn Hóa
+#### **40. Cross-Cultural Reasoning** - Suy Luận Xuyên Văn Hóa
 
 Suy luận hiệu quả qua các bối cảnh văn hóa khác nhau.
 
@@ -7200,7 +7194,7 @@ Suy luận hiệu quả qua các bối cảnh văn hóa khác nhau.
 
 → **Liên kết:** INTEGRATION (Cross-Cultural Synthesis), NAVIGATION (Global Mindset)
 
-#### **42. Transdisciplinary Reasoning** - Suy Luận Xuyên Ngành
+#### **41. Transdisciplinary Reasoning** - Suy Luận Xuyên Ngành
 
 Vượt ra ngoài các ranh giới và giả định của một ngành học duy nhất.
 
@@ -7211,7 +7205,7 @@ Vượt ra ngoài các ranh giới và giả định của một ngành học du
 
 → **Liên kết:** INTEGRATION (Cross-Paradigm Synthesis), CREATION (Innovation)
 
-#### **43. Meta-Reasoning** - Siêu Suy Luận
+#### **42. Meta-Reasoning** - Siêu Suy Luận
 
 Suy luận về chính các quy trình và kiến trúc suy luận.
 
@@ -7222,7 +7216,7 @@ Suy luận về chính các quy trình và kiến trúc suy luận.
 
 → **Liên kết:** META (tất cả các nhóm), OPERATIONS (Meta-Cognitive Control)
 
-#### **44. Wisdom-Based Reasoning (Phronesis)** - Suy Luận Dựa trên Trí Tuệ
+#### **43. Wisdom-Based Reasoning (Phronesis)** - Suy Luận Dựa trên Trí Tuệ
 
 Phán đoán nhạy bén với bối cảnh, tích hợp giá trị đạo đức.
 
@@ -7233,7 +7227,7 @@ Phán đoán nhạy bén với bối cảnh, tích hợp giá trị đạo đứ
 
 → **Liên kết:** FOUNDATIONS (Wisdom Traditions), TRANSCENDENCE (Living Wisdom)
 
-#### **45. Architectural Mastery** - Tinh Thông Kiến Trúc
+#### **44. Architectural Mastery** - Tinh Thông Kiến Trúc
 
 Chuyển đổi một cách trôi chảy giữa các kiến trúc suy luận khác nhau, thiết kế các kiến trúc tùy chỉnh.
 
@@ -9314,16 +9308,19 @@ Phân loại quyết định dựa trên tính đảo ngược và áp dụng c�
 
 → **Liên kết:** CREATION (Experimentation), VALIDATION (Testing)
 
-#### **17. Probabilistic Thinking** - Tư Duy Xác Suất
+#### **17. Risk-Based Decision Making** - Ra Quyết Định Dựa Trên Rủi Ro
 
-Suy luận về xác suất, rủi ro và sự không chắc chắn trong ra quyết định.
+**ỨNG DỤNG RA QUYẾT ĐỊNH**: Suy luận về xác suất, rủi ro và sự không chắc chắn trong bối cảnh **RA QUYẾT ĐỊNH CỤ THỂ**. Khác với công cụ suy luận thuần túy (Probabilistic Reasoning), đây tập trung vào **HÀNH ĐỘNG và LỰA CHỌN**.
 
-- **Expected Value Calculation**: Tính toán giá trị kỳ vọng của các quyết định.
-- **Risk Assessment**: Đánh giá xác suất xảy ra và tác động của các rủi ro.
-- **Uncertainty Quantification**: Lượng hóa và suy luận trong điều kiện không chắc chắn.
-- **Bayesian Updating**: Cập nhật niềm tin dựa trên bằng chứng mới.
+- **Expected Value Calculation**: **CÔNG CỤ QUYẾT ĐỊNH** - Tính toán giá trị kỳ vọng để chọn hành động tối ưu
+- **Risk Assessment**: **ĐÁNH GIÁ** - Đánh giá xác suất × tác động cho mỗi lựa chọn
+- **Uncertainty Quantification**: **QUẢN LÝ** - Định lượng không chắc chắn trong quyết định
+- **Bayesian Updating**: **CẬP NHẬT** - Điều chỉnh quyết định dựa trên thông tin mới
 
-→ **Liên kết:** OPERATIONS (Bayesian Thinking), VALIDATION (Statistical Analysis)
+→ **Bản chất**: Khung ra quyết định trong điều kiện không chắc chắn
+→ **Gốc lý thuyết**: FOUNDATIONS (Probabilistic Thinking - nguyên lý)
+→ **Công cụ phân tích**: OPERATIONS (Probabilistic Reasoning - kỹ thuật suy luận)
+→ **Liên kết**: NAVIGATION (Risk Management), VALIDATION (Decision Quality)
 
 #### **18. Recognition-Primed Decision (RPD) Model** - Mô Hình Quyết Định Dựa Trên Nhận Dạng
 
