@@ -623,16 +623,23 @@ Sự hiểu biết rằng mô hình của chúng ta về thế giới (bản đ�
 
 → **Liên kết:** VALIDATION (Ground Truth), [META] LAYER (Model of Models)
 
-#### **8. Second-Order Thinking** - Tư Duy Bậc Hai
+#### **8. Second-Order Thinking - Tư Duy Bậc Hai [Nguyên Lý Phổ Quát]**
 
-Suy nghĩ vượt ra ngoài các kết quả tức thời để xem xét các hệ quả lâu dài và các tác động dây chuyền.
+NGUYÊN LÝ TƯ DUY phổ quát về việc suy nghĩ vượt ra ngoài các kết quả tức thời để xem xét các hệ quả lâu dài và tác động dây chuyền. Đây là một PHƯƠNG PHÁP TƯ DUY CƠ BẢN áp dụng cho mọi lĩnh vực - từ ra quyết định, chiến lược, sáng tạo đến đạo đức.
 
-- **"And then what?"**: Liên tục đặt câu hỏi "Và sau đó thì sao?" để khám phá các hệ quả
-- **Ripple Effect Analysis**: Phân tích hiệu ứng gợn sóng của một quyết định
-- **Unintended Consequences**: Lường trước các hậu quả không mong muốn
-- **Long-Term Perspective**: Ưu tiên các kết quả bền vững dài hạn hơn là các lợi ích ngắn hạn
+- **First-Order Consequences**: Kết quả trực tiếp và rõ ràng
+- **Second- & Third-Order Consequences**: Hệ quả gián tiếp - "Và sau đó thì sao?"
+- **Long-Term Outcomes**: Đánh giá tác động dài hạn
+- **Unintended Consequences**: Lường trước hậu quả ngoài dự kiến
 
-→ **Liên kết:** DYNAMICS (System Dynamics), NAVIGATION (Strategic Wayfinding)
+→ **Liên kết nội bộ:** DYNAMICS (System Dynamics), NAVIGATION (Strategic Wayfinding)
+
+→ **Ứng dụng thực hành:**
+  • OPERATIONS #38 (Second-Order Thinking Analysis - quy trình phân tích)
+  • NAVIGATION #26 (Strategic Reasoning - trong chiến lược)
+  • Core Values & Ethics (Trách nhiệm với hệ quả)
+
+💡 **LƯU Ý**: Đây là NGUYÊN LÝ TƯ DUY nền tảng. Để xem QUY TRÌNH ÁP DỤNG cụ thể, tham khảo OPERATIONS #38 - Second-Order Thinking Analysis.
 
 #### **9. Inversion** - Đảo Ngược
 
@@ -7813,14 +7820,22 @@ Một công cụ meta để tự phân tích xu hướng của bộ não đưa r
 
 #### **38. Second-Order Thinking Analysis** - Phân Tích Tư Duy Bậc Hai
 
-Một quy trình có cấu trúc để phân tích các hệ quả tức thời và các hệ quả dây chuyền.
+Một QUY TRÌNH CÓ CẤU TRÚC để phân tích các hệ quả tức thời và các hệ quả dây chuyền. Đây là CÔNG CỤ ỨNG DỤNG nguyên lý Second-Order Thinking (FOUNDATIONS #8) vào ra quyết định thực tế.
 
-- **First-Order Consequence Listing**: Liệt kê tất cả các kết quả trực tiếp.
-- **"And then what?" Inquiry**: Lặp đi lặp lại câu hỏi để khám phá các hệ quả bậc hai, ba.
-- **Systemic Effect Mapping**: Lập bản đồ cách các hệ quả lan truyền trong hệ thống theo thời gian.
-- **Long-Term vs. Short-Term Trade-off**: Phân tích sự đánh đổi.
+- **First-Order Consequence Listing**: Liệt kê TẤT CẢ kết quả trực tiếp
+- **"And then what?" Inquiry**: Lặp đi lặp lại để khám phá hệ quả bậc hai, ba
+- **Systemic Effect Mapping**: Lập bản đồ LAN TRUYỀN qua hệ thống theo thời gian
+- **Long-Term vs. Short-Term Trade-off**: Phân tích sự đánh đổi
 
-→ **Liên kết:** DYNAMICS (System Dynamics), NAVIGATION (Strategic Wayfinding)
+→ **Liên kết nội bộ:** DYNAMICS (System Dynamics), NAVIGATION (Strategic Wayfinding)
+
+→ **Gốc lý thuyết:** FOUNDATIONS #8 (Second-Order Thinking - nguyên lý phổ quát)
+
+→ **Ứng dụng đạo đức:** Core Values & Ethics (Trách nhiệm với hệ quả)
+
+💡 **PHÂN BIỆT:**
+  • FOUNDATIONS #8 = Nguyên lý "là gì" (phương pháp tư duy)
+  • OPERATIONS #38 = Quy trình "làm thế nào" (công cụ phân tích)
 
 #### **39. Devil's Advocate** - Người Biện Hộ của Ma Quỷ
 
@@ -9209,18 +9224,7 @@ Thay vì hỏi làm thế nào để thành công, hãy hỏi làm thế nào đ
 
 → **Liên kết:** VALIDATION (Pre-mortem Analysis), FOUNDATIONS (Via Negativa)
 
-#### **9. Second-Order Thinking** - Tư Duy Bậc Hai
-
-Suy nghĩ vượt ra ngoài các kết quả tức thời để xem xét các hệ quả lâu dài và các tác động dây chuyền.
-
-- **First-Order Consequences**: Xem xét các kết quả ngay lập tức và rõ ràng của một hành động.
-- **Second- & Third-Order Consequences**: Đặt câu hỏi "Và sau đó thì sao?" để khám phá các hiệu ứng gợn sóng.
-- **Long-Term Outcomes**: Đánh giá các hệ quả dài hạn của quyết định.
-- **Unintended Consequences**: Lường trước các hậu quả không mong muốn hoặc ngoài dự kiến.
-
-→ **Liên kết:** DYNAMICS (System Dynamics), NAVIGATION (Strategic Wayfinding)
-
-#### **10. Circle of Competence** - Vòng Tròn Năng Lực
+#### **9. Circle of Competence** - Vòng Tròn Năng Lực
 
 Khung ra quyết định về việc chỉ nên hành động và quyết định trong các lĩnh vực mà mình có kiến thức và chuyên môn sâu sắc. Đây là một CÔNG CỤ THỰC HÀNH quan trọng để tránh sai lầm từ sự tự tin thái quá và Dunning-Kruger effect.
 
@@ -9263,7 +9267,7 @@ Khung ra quyết định về việc chỉ nên hành động và quyết địn
 → **Nguồn gốc khái niệm:** Warren Buffett & Charlie Munger (Value Investing)
 → **Ứng dụng chính:** Investment, Career, Business Strategy, Personal Development
 
-#### **11. Satisficing vs. Maximizing** - Thỏa Mãn vs. Tối Đa Hóa
+#### **10. Satisficing vs. Maximizing** - Thỏa Mãn vs. Tối Đa Hóa
 
 Hai phong cách ra quyết định khác nhau.
 
@@ -9274,7 +9278,7 @@ Hai phong cách ra quyết định khác nhau.
 
 → **Liên kết:** META (Cognitive Energy Management), OPERATIONS (Pareto Analysis)
 
-#### **12. Precautionary Principle** - Nguyên Tắc Phòng Ngừa
+#### **11. Precautionary Principle** - Nguyên Tắc Phòng Ngừa
 
 Khi một hành động có nguy cơ gây ra tác hại nghiêm trọng và không thể đảo ngược, nên hành động để phòng ngừa ngay cả khi chưa có bằng chứng khoa học đầy đủ.
 
@@ -9285,7 +9289,7 @@ Khi một hành động có nguy cơ gây ra tác hại nghiêm trọng và khô
 
 → **Liên kết:** VALIDATION (Risk Assessment), NAVIGATION (Long-Term Perspective)
 
-#### **13. RACI Matrix** - Ma Trận RACI
+#### **12. RACI Matrix** - Ma Trận RACI
 
 Một khung để làm rõ và phân công vai trò, trách nhiệm trong các dự án và quy trình ra quyết định.
 
@@ -9296,7 +9300,7 @@ Một khung để làm rõ và phân công vai trò, trách nhiệm trong các d
 
 → **Liên kết:** INTEGRATION (Collaboration), NAVIGATION (Accountability)
 
-#### **14. Regret Minimization Framework** - Khung Tối Thiểu Hóa Hối Tiếc
+#### **13. Regret Minimization Framework** - Khung Tối Thiểu Hóa Hối Tiếc
 
 Đưa ra quyết định bằng cách tưởng tượng bản thân trong tương lai và hỏi liệu bạn có hối tiếc nếu không thực hiện một hành động nhất định.
 
@@ -9307,7 +9311,7 @@ Một khung để làm rõ và phân công vai trò, trách nhiệm trong các d
 
 → **Liên kết:** NAVIGATION (Long-Term Thinking), META (Future Self)
 
-#### **15. Opportunity Cost Thinking** - Tư Duy Chi Phí Cơ Hội
+#### **14. Opportunity Cost Thinking** - Tư Duy Chi Phí Cơ Hội
 
 Nhận thức rằng mọi lựa chọn đều có chi phí cơ hội - giá trị của lựa chọn tốt nhất tiếp theo mà bạn đã từ bỏ.
 
@@ -9318,7 +9322,7 @@ Nhận thức rằng mọi lựa chọn đều có chi phí cơ hội - giá tr�
 
 → **Liên kết:** OPERATIONS (Cost-Benefit Analysis), NAVIGATION (Resource Management)
 
-#### **16. Reversible vs. Irreversible Decisions** - Quyết Định Có Thể Đảo Ngược vs. Không Thể Đảo Ngược
+#### **15. Reversible vs. Irreversible Decisions** - Quyết Định Có Thể Đảo Ngược vs. Không Thể Đảo Ngược
 
 Phân loại quyết định dựa trên tính đảo ngược và áp dụng các quy trình khác nhau.
 
@@ -9329,7 +9333,7 @@ Phân loại quyết định dựa trên tính đảo ngược và áp dụng c�
 
 → **Liên kết:** CREATION (Experimentation), VALIDATION (Testing)
 
-#### **17. Risk-Based Decision Making** - Ra Quyết Định Dựa Trên Rủi Ro
+#### **16. Risk-Based Decision Making** - Ra Quyết Định Dựa Trên Rủi Ro
 
 **ỨNG DỤNG RA QUYẾT ĐỊNH**: Suy luận về xác suất, rủi ro và sự không chắc chắn trong bối cảnh **RA QUYẾT ĐỊNH CỤ THỂ**. Khác với công cụ suy luận thuần túy (Probabilistic Reasoning), đây tập trung vào **HÀNH ĐỘNG và LỰA CHỌN**.
 
@@ -9343,7 +9347,7 @@ Phân loại quyết định dựa trên tính đảo ngược và áp dụng c�
 → **Công cụ phân tích**: OPERATIONS (Probabilistic Reasoning - kỹ thuật suy luận)
 → **Liên kết**: NAVIGATION (Risk Management), VALIDATION (Decision Quality)
 
-#### **18. Recognition-Primed Decision (RPD) Model** - Mô Hình Quyết Định Dựa Trên Nhận Dạng
+#### **17. Recognition-Primed Decision (RPD) Model** - Mô Hình Quyết Định Dựa Trên Nhận Dạng
 
 Mô tả cách các chuyên gia đưa ra quyết định nhanh chóng trong các tình huống phức tạp, áp lực cao.
 
@@ -9354,7 +9358,7 @@ Mô tả cách các chuyên gia đưa ra quyết định nhanh chóng trong các
 
 → **Liên kết:** NAVIGATION (Intuitive Wayfinding), FOUNDATIONS (Mental Models)
 
-#### **19. Value-Based Decision Making** - Ra Quyết Định Dựa Trên Giá Trị
+#### **18. Value-Based Decision Making** - Ra Quyết Định Dựa Trên Giá Trị
 
 Một quy trình lựa chọn các hành động phù hợp nhất với các giá trị cốt lõi và nguyên tắc.
 
@@ -9365,7 +9369,7 @@ Một quy trình lựa chọn các hành động phù hợp nhất với các gi
 
 → **Liên kết:** NAVIGATION (Guiding Principles), INTEGRATION (Personal Integration)
 
-#### **20. Algorithmic Decision Making** - Ra Quyết Định Theo Thuật Toán
+#### **19. Algorithmic Decision Making** - Ra Quyết Định Theo Thuật Toán
 
 Sử dụng một bộ quy tắc và quy trình rõ ràng, tường minh để đưa ra quyết định, giảm thiểu sự chủ quan.
 
@@ -9376,7 +9380,7 @@ Sử dụng một bộ quy tắc và quy trình rõ ràng, tường minh để �
 
 → **Liên kết:** AMPLIFICATION (Automation), META (Axiomatic System Building)
 
-#### **21. Delphi Method** - Phương Pháp Delphi
+#### **20. Delphi Method** - Phương Pháp Delphi
 
 Một kỹ thuật dự báo và ra quyết định có cấu trúc dựa trên một hội đồng các chuyên gia.
 
@@ -9387,7 +9391,7 @@ Một kỹ thuật dự báo và ra quyết định có cấu trúc dựa trên 
 
 → **Liên kết:** VALIDATION (Expert Consultation), AMPLIFICATION (Collective Intelligence)
 
-#### **22. Pugh Matrix** - Ma Trận Pugh
+#### **21. Pugh Matrix** - Ma Trận Pugh
 
 Một công cụ lựa chọn khái niệm có cấu trúc để so sánh nhiều phương án với một phương án cơ sở.
 
@@ -9398,7 +9402,7 @@ Một công cụ lựa chọn khái niệm có cấu trúc để so sánh nhiề
 
 → **Liên kết:** OPERATIONS (Multi-Criteria Decision Analysis), CREATION (Concept Selection)
 
-#### **23. Consequence Scanning** - Quét Hệ Quả
+#### **22. Consequence Scanning** - Quét Hệ Quả
 
 Một phương pháp chủ động xem xét các hệ quả tiềm tàng (cả tích cực và tiêu cực) của một sản phẩm hoặc quyết định.
 
@@ -9409,7 +9413,7 @@ Một phương pháp chủ động xem xét các hệ quả tiềm tàng (cả t
 
 → **Liên kết:** OPERATIONS (Second-Order Thinking), FOUNDATIONS (Ethical Principles)
 
-#### **24. Decision Journaling** - Viết Nhật Ký Quyết Định
+#### **23. Decision Journaling** - Viết Nhật Ký Quyết Định
 
 Thực hành ghi lại các quyết định quan trọng để học hỏi và cải thiện quy trình ra quyết định.
 
@@ -9420,7 +9424,7 @@ Thực hành ghi lại các quyết định quan trọng để học hỏi và c
 
 → **Liên kết:** META (Meta-Learning), VALIDATION (Feedback Systems)
 
-#### **25. The Master Decision Framework** - Khung Quyết Định Bậc Thầy
+#### **24. The Master Decision Framework** - Khung Quyết Định Bậc Thầy
 
 Siêu kỹ năng lựa chọn và kết hợp các khung ra quyết định khác nhau một cách phù hợp.
 
