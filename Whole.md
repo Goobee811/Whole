@@ -977,17 +977,6 @@ các giai đoạn ổn định dài BỊ GIÁN ĐOẠN bởi các thời kỳ th
 → **Ứng dụng biến hóa:** TRANSCENDENCE #16 (sử dụng mẫu hình này để chuyển hóa có chủ đích)
 → **Nhận diện giai đoạn:** VALIDATION (State Detection), NAVIGATION (Timing Strategy)
 
-#### **38. The Johari Window** - Cửa Sổ Johari
-
-Một mô hình để hiểu và đào tạo về sự tự nhận thức, cải thiện giao tiếp và hiểu biết giữa các cá nhân.
-
-- **Open Area**: Vùng mở (biết cho bản thân, biết cho người khác)
-- **Blind Spot**: Điểm mù (không biết cho bản thân, biết cho người khác)
-- **Hidden Area**: Vùng ẩn (biết cho bản thân, không biết cho người khác)
-- **Unknown Area**: Vùng không xác định (không biết cho bản thân, không biết cho người khác)
-
-→ **Liên kết:** INTEGRATION (Personal Integration), VALIDATION (360-Degree Feedback)
-
 #### **39. The Dunning-Kruger Effect** - Hiệu Ứng Dunning-Kruger
 
 Một thiên kiến nhận thức trong đó những người có năng lực thấp ở một lĩnh vực có xu hướng đánh giá quá cao năng lực của mình.
@@ -19702,13 +19691,36 @@ Một thiên kiến nhận thức quan trọng trong QUALITY ASSURANCE: Hiện t
   • #5 Hindsight Bias
   • #17 Gell-Mann Amnesia Effect ← (vị trí hiện tại)
 
-#### **18. The Johari Window** - Cửa Sổ Johari
-Một mô hình để hiểu và đào tạo về sự tự nhận thức, cải thiện giao tiếp và hiểu biết giữa các cá nhân.
-- **Open Area**: Vùng mở (biết cho bản thân, biết cho người khác).
-- **Blind Spot**: Điểm mù (không biết cho bản thân, biết cho người khác).
-- **Hidden Area**: Vùng ẩn (biết cho bản thân, không biết cho người khác).
-- **Unknown Area**: Vùng không xác định (không biết cho bản thân, không biết cho người khác).
-→ **Liên kết:** INTEGRATION (Personal Integration), VALIDATION (360-Degree Feedback)
+#### **18. The Johari Window** - Cửa Sổ Johari [Framework Nhận Thức Bản Thân]
+
+Công cụ framework 2x2 để đánh giá và cải thiện sự tự nhận thức trong giao tiếp và phát triển cá nhân. Được tạo ra bởi Joseph Luft và Harrington Ingham (1955) để giúp PHÁT HIỆN BLIND SPOTS và cải thiện chất lượng tương tác.
+
+**CÁC VÙNG NHẬN THỨC:**
+- **Open Area** (Vùng Mở): Biết cho bản thân + Biết cho người khác
+  → VALIDATED KNOWLEDGE - Tri thức đã được kiểm chứng qua cả 2 phía
+
+- **Blind Spot** (Điểm Mù): Không biết cho bản thân + Biết cho người khác
+  → VALIDATION GAP - Khoảng trống cần 360-degree feedback để lấp đầy
+
+- **Hidden Area** (Vùng Ẩn): Biết cho bản thân + Không biết cho người khác
+  → UNVALIDATED KNOWLEDGE - Cần chia sẻ để kiểm chứng
+
+- **Unknown Area** (Vùng Không Xác Định): Không biết + Không biết
+  → DISCOVERY SPACE - Không gian cho phát hiện mới
+
+**MỤC ĐÍCH KIỂM CHỨNG:**
+1. Risk Assessment: Giảm rủi ro từ blind spots và unknown unknowns
+2. Quality Assurance: Đảm bảo nhận thức chính xác về bản thân
+3. Gap Identification: Xác định các khoảng trống trong self-awareness
+4. Feedback Integration: Framework để tích hợp phản hồi từ nhiều nguồn
+
+→ **Liên kết nội bộ:**
+  • VALIDATION #13 (360-Degree Feedback - công cụ mở rộng Open Area)
+  • VALIDATION #28 (Blind Spot Analysis - phương pháp phát hiện điểm mù)
+  • [META] LAYER (Self-Awareness - nhận thức về nhận thức)
+  • INTEGRATION (Personal Integration - tích hợp các khía cạnh bản thân)
+
+→ **Lưu ý:** Đây là CÔNG CỤ THỰC HÀNH, không phải nguyên lý nền tảng.
 
 #### **19. The Dunning-Kruger Effect** - Hiệu Ứng Dunning-Kruger
 Một thiên kiến nhận thức trong đó những người có năng lực thấp ở một lĩnh vực có xu hướng đánh giá quá cao năng lực của mình.
