@@ -3350,14 +3350,16 @@ Hiện tượng trạng thái hiện tại của hệ thống phụ thuộc vào
 
 #### **17. Cascade Dynamics** - Động Lực Thác Nước
 
-Quá trình một sự kiện kích hoạt chuỗi sự kiện tiếp theo, mỗi sự kiện lại kích hoạt nhiều sự kiện hơn, tạo ra hiệu ứng lan truyền.
+Quá trình một sự kiện khởi đầu kích hoạt chuỗi sự kiện tiếp theo, trong đó mỗi sự kiện kích hoạt NHIỀU sự kiện hơn, tạo ra hiệu ứng lan truyền tầng thác qua nhiều cấp độ của hệ thống. Giống như hiệu ứng domino được khuếch đại - mỗi viên domino đổ hạ nhiều viên khác.
 
-- **Chain Reaction**: Phản ứng dây chuyền tự duy trì
-- **Amplification Through Stages**: Khuếch đại qua từng giai đoạn
-- **Multi-level Propagation**: Lan truyền qua nhiều cấp độ
-- **Information/Energy Cascade**: Thác thông tin hoặc năng lượng
+- **Chain Reaction**: Phản ứng dây chuyền tự duy trì và tự khuếch đại
+- **Amplification Through Stages**: Khuếch đại qua từng giai đoạn lan truyền
+- **Multi-level Propagation**: Lan truyền qua nhiều cấp độ và tầng lớp hệ thống
+- **Information/Energy Cascade**: Thác thông tin hoặc năng lượng từ trên xuống
+- **Avalanche Effects**: Hiệu ứng tuyết lở - khối lượng tăng theo cấp số nhân
+- **Systemic Spread**: Sự lan tỏa có tính hệ thống, ảnh hưởng toàn diện
 
-→ **Liên kết:** AMPLIFICATION (Viral Dynamics), VALIDATION (Risk Assessment)
+→ **Liên kết:** AMPLIFICATION (Viral Dynamics, Cascade Effects, Avalanche Dynamics), VALIDATION (Risk Assessment, Risk Management)
 
 #### **18. Metastable Switching** - Chuyển Đổi Bán Ổn Định
 
@@ -3567,18 +3569,7 @@ Các thành phần quan trọng mà sự tồn tại của chúng ảnh hưởng
 
 → **Liên kết:** OPERATIONS (Critical Path), NAVIGATION (Priority Identification)
 
-#### **36. Cascade Dynamics** - Động Lực Thác Nước
-
-Quá trình lan truyền liên tục qua các cấp độ của hệ thống, tạo ra hiệu ứng domino.
-
-- **Chain Reactions**: Phản ứng dây chuyền
-- **Multi-level Propagation**: Lan truyền đa cấp
-- **Avalanche Effects**: Hiệu ứng tuyết lở
-- **Systemic Spread**: Sự lan tỏa hệ thống
-
-→ **Liên kết:** AMPLIFICATION (Cascade Effects), VALIDATION (Risk Management)
-
-#### **37. Meta-Emergence** - Đột Sinh Bậc Cao
+#### **36. Meta-Emergence** - Đột Sinh Bậc Cao
 
 Sự xuất hiện của các thuộc tính đột sinh từ các thuộc tính đột sinh khác - đột sinh của đột sinh.
 
@@ -3589,7 +3580,7 @@ Sự xuất hiện của các thuộc tính đột sinh từ các thuộc tính 
 
 → **Liên kết:** [META] LAYER (Meta-Patterns), TRANSCENDENCE (Transcendent Properties)
 
-#### **38. Recombination Engine** - Động Cơ Tái Kết Hợp
+#### **37. Recombination Engine** - Động Cơ Tái Kết Hợp
 
 Cơ chế sáng tạo mới bằng cách kết hợp lại các yếu tố hiện có theo những cách mới.
 
@@ -3600,7 +3591,7 @@ Cơ chế sáng tạo mới bằng cách kết hợp lại các yếu tố hiệ
 
 → **Liên kết:** CREATION (Innovation Methods), INTEGRATION (Synthesis)
 
-#### **39. Generative Systems** - Hệ Thống Sinh Tạo
+#### **38. Generative Systems** - Hệ Thống Sinh Tạo
 
 Các hệ thống có khả năng liên tục tạo ra các sản phẩm, mẫu hình hoặc hành vi mới.
 
