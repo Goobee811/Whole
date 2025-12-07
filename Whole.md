@@ -1078,16 +1078,26 @@ hiện tượng này.
 → **Ứng dụng thực hành:** VALIDATION #10 (công cụ phát hiện rủi ro)
 → **Ví dụ lịch sử:** Sự sụp đổ của Kodak, Nokia; Biến đổi khí hậu
 
-#### **48. The Procrustean Bed** - Chiếc Giường của Procrustes
+#### **48. The Procrustean Bed - Chiếc Giường của Procrustes [Anti-Pattern]**
 
-Khuynh hướng ép buộc các ý tưởng, dữ liệu hoặc con người vào các khuôn khổ hoặc phạm trù có sẵn, thường bằng cách cắt xén hoặc kéo dài chúng.
+**NGUỒN GỐC:** Thần thoại Hy Lạp - Procrustes ép khách phải vừa với giường của hắn bằng cách kéo dài hoặc chặt chân họ.
 
-- **Forcing the Fit**: Ép buộc cho vừa
-- **Data Torturing**: "Tra tấn" dữ liệu cho đến khi nó "thú nhận"
-- **Category Tyranny**: Sự chuyên chế của các phạm trù
-- **Ignoring Contradictory Evidence**: Bỏ qua các bằng chứng mâu thuẫn
+**ĐỊNH NGHĨA:** Khuynh hướng ép buộc các ý tưởng, dữ liệu hoặc con người vào các khuôn khổ hoặc phạm trù có sẵn, thường bằng cách cắt xén hoặc kéo dài chúng để "cho vừa".
 
-→ **Liên kết:** OPERATIONS (Analytical Tools), VALIDATION (Confirmation Bias)
+• **Forcing the Fit**: Ép buộc thực tại phải khớp với lý thuyết
+• **Data Torturing**: "Tra tấn" dữ liệu cho đến khi nó "thú nhận" điều bạn muốn nghe
+• **Category Tyranny**: Sự chuyên chế của các phạm trù - hy sinh sự phong phú của thực tại vì tính gọn gàng
+• **Ignoring Contradictory Evidence**: Bỏ qua bằng chứng mâu thuẫn vì không vừa với mô hình
+
+→ **Liên kết nội bộ:**
+  • OPERATIONS (Analytical Tools) - tránh trong phân tích
+  • VALIDATION (Confirmation Bias) - biểu hiện của thiên kiến xác nhận
+
+⚠️ **ĐẶC BIỆT QUAN TRỌNG TRONG:**
+  • VALIDATION Domain - Chức năng 5 (Quality Assurance)
+  • Đây là một trong những **SAI LẦM CỐT LÕI** cần phát hiện và ngăn chặn trong mọi quy trình kiểm định
+
+**CẢNH BÁO:** Đây là một cognitive bias PHỔ QUÁT - xuất hiện ở mọi lĩnh vực từ khoa học, kinh doanh, đến đời sống cá nhân. Đặc biệt nguy hiểm vì nó tạo ra ảo tưởng về sự hiểu biết trong khi thực chất đang BÓP MÉO thực tại.
 
 ---
 
@@ -19698,13 +19708,32 @@ SAI LẦM NGUY HIỂM trong đánh giá rủi ro: áp dụng các mô hình xác
   • Phương pháp thay thế: NAVIGATION (Scenario Planning, Antifragility)
   • Phát hiện liên quan: Black Swan Blindness #23
 
-#### **14. The Procrustean Bed** - Chiếc Giường của Procrustes
-Khuynh hướng ép buộc các ý tưởng, dữ liệu hoặc con người vào các khuôn khổ hoặc phạm trù có sẵn, thường bằng cách cắt xén hoặc kéo dài chúng.
-- **Forcing the Fit**: Ép buộc cho vừa.
-- **Data Torturing**: "Tra tấn" dữ liệu cho đến khi nó "thú nhận".
-- **Category Tyranny**: Sự chuyên chế của các phạm trù.
-- **Ignoring Contradictory Evidence**: Bỏ qua các bằng chứng mâu thuẫn.
-→ **Liên kết:** OPERATIONS (Analytical Tools), VALIDATION (Confirmation Bias)
+#### **14. ~~The Procrustean Bed~~ → [Xem FOUNDATIONS #48]**
+
+⚡ **CRITICAL ANTI-PATTERN TO AVOID IN VALIDATION**
+
+Khái niệm "The Procrustean Bed" là một trong những **SAI LẦM CỐT LÕI** nhất mà mọi quy trình kiểm định cần phải phát hiện và ngăn chặn.
+
+**Định nghĩa đầy đủ:** → Xem [FOUNDATIONS #48]
+
+**Trong bối cảnh VALIDATION:**
+- Là **NGUỒN GỐC** của nhiều lỗi kiểm định nghiêm trọng
+- Dẫn đến "confirmation bias in action"
+- Thường đi kèm với "data torturing" và "cherry-picking"
+- Nguy hiểm nhất khi được hợp lý hóa bằng các thuật ngữ khoa học
+
+**Các dấu hiệu cảnh báo:**
+- "Dữ liệu chứng minh giả thuyết của tôi" (thay vì "tôi kiểm định giả thuyết")
+- Bỏ qua outliers vì "không phù hợp với mô hình"
+- Điều chỉnh phương pháp cho đến khi được kết quả mong muốn
+- "Giải thích" mọi dữ liệu mâu thuẫn thay vì xem xét lại giả thuyết
+
+**Phòng tránh:**
+→ Xem VALIDATION #1 (Confirmation Bias)
+→ Xem VALIDATION #11 (Occam's Broom)
+→ Xem VALIDATION #15 (Cargo Cult Science)
+
+**Liên kết:** FOUNDATIONS (Mental Models), OPERATIONS (Analytical Tools)
 
 #### **15. Cargo Cult Science** - Khoa Học Phong Tục Hàng Hóa
 Thực hành có vẻ ngoài của nghiên cứu khoa học nghiêm ngặt nhưng thiếu các yếu tố cốt lõi của phương pháp khoa học chân chính.
