@@ -64,16 +64,21 @@ Nguyên lý về việc các thuộc tính và cấu trúc phức tạp mới t�
 
 → **Liên kết:** DYNAMICS (System Dynamics), AMPLIFICATION (Tipping Points)
 
-#### **4. Feedback Loops** - Vòng Lặp Phản Hồi
+#### **4. Feedback Loops - Vòng Lặp Phản Hồi [Nguyên Lý Nền Tảng]**
 
-Nguyên lý về việc đầu ra của một hệ thống quay trở lại làm đầu vào, tạo ra sự tự điều chỉnh hoặc tăng trưởng.
+Nguyên lý phổ quát về việc đầu ra của một hệ thống quay trở lại làm đầu vào, tạo ra sự tự điều chỉnh hoặc tăng trưởng. Đây là QUY LUẬT TỰ NHIÊN cơ bản xuất hiện ở mọi hệ thống - từ sinh học, cơ học, đến tâm lý và xã hội.
 
-- **Reinforcing Loop (Positive)**: Vòng lặp củng cố, tạo ra tăng trưởng hoặc sụp đổ theo cấp số nhân
-- **Balancing Loop (Negative)**: Vòng lặp cân bằng, giúp hệ thống duy trì sự ổn định và hướng tới mục tiêu
-- **Loop Delay**: Độ trễ trong vòng phản hồi, thường là nguyên nhân của các dao động và hành vi ngoài dự kiến
-- **Loop Dominance**: Sự thay đổi về vòng lặp nào (củng cố hay cân bằng) đang chi phối hành vi của hệ thống
+- **Reinforcing Loop (Positive)**: Vòng lặp củng cố - NGUYÊN LÝ khuếch đại
+- **Balancing Loop (Negative)**: Vòng lặp cân bằng - NGUYÊN LÝ ổn định
+- **Loop Delay**: Độ trễ như NGUYÊN NHÂN dao động
+- **Loop Dominance**: NGUYÊN LÝ chi phối hành vi hệ thống
 
-→ **Liên kết:** VALIDATION (Feedback Systems), DYNAMICS (System Dynamics)
+→ **Liên kết nội bộ:** VALIDATION (Feedback Systems), DYNAMICS (System Dynamics)
+→ **Xuất hiện ở các domain khác:**
+  • OPERATIONS #37 (ứng dụng trong học tập)
+  • AMPLIFICATION #5 (công cụ khuếch đại)
+  • VALIDATION #14 (thiết kế kiến trúc)
+  • META #20, #38 (phản hồi về phản hồi)
 
 #### **5. Causality & Interdependence** - Nhân Quả & Tương Duyên
 
@@ -9024,16 +9029,19 @@ Phản ứng được kích hoạt khi đạt đến một ngưỡng nhất đ�
 
 → **Liên kết:** DYNAMICS (Threshold Effects), FOUNDATIONS (Non-Linearity)
 
-#### **37. Feedback Loops** - Vòng Lặp Phản Hồi
+#### **37. Feedback Loops - Vòng Lặp Phản Hồi [Trong Học Tập & Ký Ức]**
 
-Cơ chế phản hồi tuần hoàn củng cố hoặc điều chỉnh hành vi.
+Cơ chế phản hồi tuần hoàn trong học tập - đầu ra của quá trình học trở thành đầu vào cho chu kỳ học tiếp theo. Khác với nguyên lý nền tảng ở FOUNDATIONS, đây là CÔNG CỤ THỰC HÀNH để tự cải thiện và tự điều chỉnh trong học tập.
 
-- **Circular Causation**: Quan hệ nhân quả tuần hoàn.
-- **Self-Reinforcement**: Tự củng cố.
-- **Self-Correction**: Tự điều chỉnh.
-- **Recursive Processes**: Quá trình đệ quy.
+- **Circular Causation**: Nhân quả tuần hoàn - học từ kết quả
+- **Self-Reinforcement**: Tự củng cố - thành công → động lực → thành công
+- **Self-Correction**: Tự điều chỉnh - lỗi → học hỏi → cải thiện
+- **Recursive Processes**: Quá trình đệ quy - học cách học tốt hơn
 
-→ **Liên kết:** FOUNDATIONS (Feedback Loops), DYNAMICS (System Dynamics)
+→ **Liên kết nội bộ:** DYNAMICS (System Dynamics)
+→ **Gốc lý thuyết:** FOUNDATIONS #4 (Feedback Loops - nguyên lý nền tảng)
+→ **Khuếch đại tác động:** AMPLIFICATION #5 (trong tăng trưởng theo cấp số nhân)
+→ **Siêu nhận thức:** META #20, #38 (Meta-Feedback - phản hồi về phản hồi)
 
 #### **38. Meta-Feedback** - Siêu Phản Hồi
 
@@ -21259,15 +21267,19 @@ Hiện tượng chi phí hoặc thời gian để sản xuất một sản phẩ
 - **Organizational Learning**: Học tập tổ chức, kiến thức được mã hóa vào quy trình.  
     → **Liên kết:** OPERATIONS (Process Improvement), VALIDATION (Performance Tracking).
 
-#### **5. Feedback Loops** - Vòng Lặp Phản Hồi
+#### **5. Feedback Loops - Vòng Lặp Phản Hồi [Động Cơ Tăng Trưởng]**
 
-Các hệ thống trong đó đầu ra của một quá trình trở thành đầu vào cho chính quá trình đó.
+Sử dụng vòng phản hồi như ĐỘNG CƠ tạo ra tăng trưởng theo cấp số nhân. Khác với nguyên lý nền tảng ở FOUNDATIONS và ứng dụng học tập ở OPERATIONS, đây là về KHUẾCH ĐẠI - làm sao để feedback loops tự củng cố và bùng nổ.
 
-- **Positive Feedback**: Phản hồi tích cực, khuếch đại sự thay đổi ban đầu (vòng lặp tăng cường).
-- **Negative Feedback**: Phản hồi tiêu cực, làm giảm sự thay đổi ban đầu (vòng lặp cân bằng).
-- **Balancing vs. Reinforcing**: Cân bằng so với củng cố, hai loại vòng lặp cơ bản.
-- **Delay in Feedback**: Độ trễ trong phản hồi, có thể dẫn đến dao động hoặc bất ổn.  
-    → **Liên kết:** DYNAMICS (System Dynamics), VALIDATION (Feedback Systems).
+- **Positive Feedback**: Phản hồi tích cực - KÍCH HOẠT tầng thác tăng trưởng
+- **Negative Feedback**: Phản hồi tiêu cực - ĐIỀU TIẾT để tránh sụp đổ
+- **Balancing vs. Reinforcing**: NGHỆ THUẬT cân bằng hai loại vòng lặp
+- **Delay in Feedback**: Độ trễ có thể GÂY RA hoặc PHÁ HỦY tăng trưởng
+
+→ **Liên kết nội bộ:** DYNAMICS (System Dynamics), VALIDATION (Feedback Systems)
+→ **Gốc lý thuyết:** FOUNDATIONS #4 (Feedback Loops - nguyên lý phổ quát)
+→ **Ứng dụng thực hành:** OPERATIONS #37 (trong học tập)
+→ **Thiết kế hệ thống:** VALIDATION #14 (Feedback Loop Architecture)
 
 #### **6. Positive Reinforcement** - Củng Cố Tích Cực
 
