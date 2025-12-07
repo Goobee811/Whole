@@ -2867,16 +2867,18 @@ Trí tuệ vượt qua các giới hạn thông thường.
 
 → **Liên kết:** TRANSCENDENCE (Ultimate Wisdom), FOUNDATIONS (The Perennial Philosophy)
 
-#### **36. Collective Wisdom** - Trí Tuệ Tập Thể
+#### **36. Swarm Intelligence** - Trí Tuệ Bầy Đàn
 
-Trí tuệ nổi lên từ nhóm.
+Hiện tượng trí thông minh tập thể xuất hiện từ hành vi bầy đàn trong tự nhiên - các cá thể đơn giản tạo ra hành vi phức tạp ở cấp độ nhóm mà không cần chỉ huy trung tâm. Đây là NGUYÊN LÝ TỰ NHIÊN về collective intelligence.
 
-- **Group Intelligence**: Trí tuệ nhóm
-- **Emergent Understanding**: Hiểu biết đột sinh
-- **Swarm Cognition**: Nhận thức đàn
-- **Community Knowledge**: Tri thức cộng đồng
+- **Decentralized Coordination**: Phối hợp phi tập trung - không có lãnh đạo
+- **Simple Rules, Complex Behavior**: Quy tắc đơn giản → hành vi phức tạp
+- **Emergent Intelligence**: Trí thông minh đột sinh từ tương tác cục bộ
+- **Natural Algorithms**: Các thuật toán tự nhiên (kiến tìm đường, ong xây tổ)
 
-→ **Liên kết:** AMPLIFICATION (Collective Intelligence), INTEGRATION (Group Synthesis)
+→ **Liên kết nội bộ:** DYNAMICS (Self-Organization), CREATION (Biomimicry)
+→ **Ứng dụng con người:** INTEGRATION #21 (Collective Wisdom)
+→ **Khuếch đại:** AMPLIFICATION (Swarm Intelligence Integration)
 
 #### **37. Wisdom Crystallization** - Kết Tinh Trí Tuệ
 
@@ -17130,14 +17132,16 @@ Phối hợp công việc thông qua các mối quan hệ chất lượng cao đ
 
 #### **21. Collective Wisdom** - Trí Tuệ Tập Thể
 
-Sự xuất hiện của trí tuệ vượt qua bất kỳ cá nhân nào từ một nhóm.
+Sự xuất hiện của trí tuệ - bao gồm cả chiều sâu đạo đức, reflection và wisdom - vượt qua bất kỳ cá nhân nào từ một nhóm người. Khác với swarm intelligence trong tự nhiên (FOUNDATIONS #36), đây là về WISDOM - không chỉ intelligence - đòi hỏi consciousness và ethical reflection.
 
-- **Emergent Intelligence**: Trí tuệ đột sinh; nhóm thông minh hơn cá nhân thông minh nhất.
-- **Transcendent Understanding**: Hiểu biết vượt thoát; vượt xa những gì bất kỳ ai biết.
-- **Group Gnosis**: Tri thức nhóm; hiểu biết sâu sắc xuất hiện từ tập thể.
-- **Wisdom Circle**: Vòng tròn trí tuệ; không gian cho trí tuệ tập thể đột sinh.
+- **Emergent Intelligence**: Trí tuệ đột sinh; nhóm thông minh hơn cá nhân
+- **Transcendent Understanding**: Hiểu biết vượt thoát; wisdom domain
+- **Group Gnosis**: Tri thức nhóm; insight sâu sắc từ tập thể
+- **Wisdom Circle**: Vòng tròn trí tuệ; sacred space cho wisdom emergence
 
-→ **Liên kết:** TRANSCENDENCE (Wisdom Crystallization), COLLABORATION (Wisdom Councils).
+→ **Liên kết nội bộ:** TRANSCENDENCE (Wisdom Crystallization)
+→ **Gốc nguyên lý:** FOUNDATIONS #36 (Swarm Intelligence - natural principle)
+→ **Công cụ thực hành:** COLLABORATION (Wisdom Councils)
 
 ---
 
