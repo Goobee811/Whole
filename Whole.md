@@ -2937,17 +2937,6 @@ Sử dụng âm thanh cho mục đích tâm linh.
 
 → **Liên kết:** TRANSCENDENCE (Sacred Practice), FOUNDATIONS (Resonance)
 
-#### **42. Writing as Spiritual Practice** - Viết Như Thực Hành Tâm Linh
-
-Viết lách như một con đường tu tập.
-
-- **Contemplative Writing**: Viết chiêm ngưỡng
-- **Journal Practice**: Thực hành nhật ký
-- **Expression as Prayer**: Biểu đạt như cầu nguyện
-- **Self-Exploration**: Tự khám phá
-
-→ **Liên kết:** INTEGRATION (Self-Understanding), CREATION (Expression)
-
 #### **43. Mantra Composition** - Sáng Tác Mantra
 
 Tạo ra các câu tụng có sức mạnh.
@@ -10342,14 +10331,16 @@ Sử dụng âm thanh và âm nhạc như phương tiện kể chuyện và bi�
 
 #### **49. Writing as Spiritual Practice** - Viết Như Thực Hành Tâm Linh
 
-Sử dụng việc viết như một phương tiện để kết nối với chiều sâu tâm linh và nguồn sáng tạo.
+Sử dụng việc viết như phương tiện kết nối với chiều sâu tâm linh và nguồn sáng tạo. Viết không chỉ là công cụ tu tập (contemplative practice) mà còn là kênh để biểu đạt và tạo ra nội dung thiêng liêng, nghệ thuật có ý nghĩa sâu xa.
 
 - **Transcendent Writing**: Viết để vượt thoát
 - **Sacred Text Creation**: Tạo văn bản thiêng liêng
-- **Writing as Meditation**: Viết như thiền định
-- **Channeled Expression**: Biểu đạt được dẫn dắt từ nguồn sâu xa
+- **Writing as Meditation**: Viết như thiền định (thực hành hàng ngày)
+- **Channeled Expression**: Biểu đạt được dẫn dắt từ nguồn sáng tạo sâu xa
 
-→ **Liên kết:** TRANSCENDENCE (Spiritual Practice), FOUNDATIONS (Contemplative Arts)
+→ **Liên kết nội bộ:** TRANSCENDENCE (Spiritual Practice)
+→ **Khía cạnh thực hành cá nhân:** DYNAMICS (Contemplative Practice)
+→ **Gốc lý thuyết:** FOUNDATIONS/Chức năng 4 (Eastern Wisdom - Contemplative Arts)
 
 #### **50. Teaching Artistry** - Nghệ Thuật Giảng Dạy
 
