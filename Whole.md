@@ -2392,16 +2392,19 @@ Hệ thống y học cổ truyền Ấn Độ.
 
 → **Liên kết:** INTEGRATION (Personal Constitution), FOUNDATIONS (Natural Principles)
 
-#### **63. Five Elements** - Ngũ Hành
+#### **63. Five Elements - Ngũ Hành** [Hệ Thống Triết Học Vũ Trụ]
 
-Hệ thống năm yếu tố: Mộc, Hỏa, Thổ, Kim, Thủy.
+Hệ thống triết học Đông phương về năm yếu tố căn bản cấu thành vũ trụ: Mộc (Wood/Gỗ), Hỏa (Fire/Lửa), Thổ (Earth/Đất), Kim (Metal/Kim loại), Thủy (Water/Nước). Đây là HỆ THỐNG TRI THỨC về quy luật vận hành của tự nhiên và vũ trụ - nền tảng triết học cho y học, thiên văn, địa lý, và nghệ thuật Trung Hoa.
 
-- **Elemental Cycle**: Chu kỳ ngũ hành
-- **Generation & Control**: Sinh và khắc
-- **Energy Balance**: Cân bằng năng lượng
-- **Transformation Patterns**: Mẫu hình chuyển hóa
+- **Elemental Cycle**: Chu kỳ ngũ hành - NGUYÊN LÝ vận động tuần hoàn
+- **Generation (Sinh)**: Mộc→Hỏa→Thổ→Kim→Thủy→Mộc - chu kỳ nuôi dưỡng
+- **Control (Khắc)**: Mộc khắc Thổ, Thổ khắc Thủy, Thủy khắc Hỏa, Hỏa khắc Kim, Kim khắc Mộc
+- **Transformation Patterns**: Mẫu hình chuyển hóa VŨ TRỤ QUAN
+- **Universal Applications**: Áp dụng vào mọi lĩnh vực từ y học đến kiến trúc
 
-→ **Liên kết:** DYNAMICS (Cyclical Patterns), FOUNDATIONS (Natural Laws)
+→ **Liên kết nội bộ:** DYNAMICS (Cyclical Patterns), FOUNDATIONS (Natural Laws)
+→ **Ứng dụng thực hành:** DYNAMICS #33 (Ngũ Hành trong quản lý năng lượng cá nhân)
+→ **Liên quan:** TCM #61 (Y học Trung Hoa), I Ching #36, Yin-Yang #41
 
 #### **64. Meridian System** - Hệ Thống Kinh Mạch
 
@@ -6535,16 +6538,24 @@ Kết nối với năng lượng của đất để ổn định và cân bằng
 
 → **Liên kết:** INTEGRATION (Grounding), VALIDATION (Stability)
 
-#### **33. Five Elements** - Ngũ Hành
+#### **33. Five Elements - Ngũ Hành** [Công Cụ Quản Lý Năng Lượng]
 
-Hệ thống năng lượng dựa trên năm yếu tố: Mộc, Hỏa, Thổ, Kim, Thủy.
+Ứng dụng hệ thống Ngũ Hành vào QUẢN LÝ NĂNG LƯỢNG VÀ CẢM XÚC cá nhân. Mỗi nguyên tố tương ứng với một trạng thái năng lượng, cảm xúc và cơ quan trong cơ thể. Khác với hệ thống triết học ở FOUNDATIONS, đây là CÔNG CỤ THỰC HÀNH để cân bằng và điều hòa năng lượng sinh mệnh.
 
-- **Elemental Balance**: Cân bằng nguyên tố
-- **Five Phases**: Năm pha
-- **Generative & Control Cycles**: Chu kỳ sinh và khắc
-- **Elemental Interactions**: Tương tác nguyên tố
+- **Elemental Balance**: Cân bằng NĂNG LƯỢNG CÁ NHÂN qua năm yếu tố
+- **Five Phases**: Năm pha - ánh xạ vào cơ thể và cảm xúc:
+  - Mộc (Gan, tức giận, sáng tạo)
+  - Hỏa (Tim, vui vẻ, nhiệt huyết)
+  - Thổ (Lá lách, lo lắng, ổn định)
+  - Kim (Phổi, buồn bã, kỷ luật)
+  - Thủy (Thận, sợ hãi, trí tuệ)
+- **Generative & Control Cycles**: ÁP DỤNG chu kỳ sinh-khắc vào quản lý trạng thái
+- **Elemental Interactions**: Tương tác để ĐIỀU HÒA cảm xúc và năng lượng
+- **Personal Energy Medicine**: Y học năng lượng cá nhân
 
-→ **Liên kết:** FOUNDATIONS (Natural Principles), INTEGRATION (Elemental Harmony)
+→ **Liên kết nội bộ:** INTEGRATION (Elemental Harmony)
+→ **Gốc lý thuyết:** FOUNDATIONS #63 (Ngũ Hành - hệ thống triết học)
+→ **Công cụ bổ trợ:** Chakra Integration #29 (hệ thống năng lượng Ấn Độ), Meridian Integration #30 (kinh mạch), TCM #61 (y học ứng dụng)
 
 #### **34. Buddhist Dependent Origination** - Duyên Khởi Phật Giáo
 
