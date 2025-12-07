@@ -3385,14 +3385,15 @@ Quá trình các nhịp điệu hoặc chu kỳ độc lập tự động đồn
 
 #### **20. Autopoiesis** - Tự Tạo Sinh
 
-Khả năng của một hệ thống tự tạo ra và duy trì chính nó, liên tục tái tạo các thành phần của mình.
+Khả năng của hệ thống sống TỰ TẠO RA và DUY TRÌ chính mình, liên tục tái tạo các thành phần cấu thành nó từ các quá trình nội tại. Đây là một dạng EMERGENCE đặc biệt - sự đột sinh của bản sắc và tính tự trị.
 
-- **Self-Production**: Tự sản xuất các thành phần của mình
-- **Operational Closure**: Khép kín về mặt hoạt động
-- **Identity Maintenance**: Duy trì bản sắc qua thời gian
-- **Autonomous Organization**: Tổ chức tự trị độc lập
+- **Self-Production**: Tự sản xuất - hệ thống tạo ra chính các thành phần của mình
+- **Operational Closure**: Khép kín hoạt động - các quá trình tạo thành một mạng khép kín
+- **Identity Maintenance**: Duy trì bản sắc - giữ được "cái là gì" bất chấp thay đổi
+- **Autonomous Organization**: Tổ chức tự trị - tự quản lý mà không cần điều khiển ngoại lai
+- **Structural Coupling**: Ghép nối cấu trúc - tương tác với môi trường mà vẫn giữ tính khép kín
 
-→ **Liên kết:** INTEGRATION (Living Systems), TRANSCENDENCE (Self-Creation)
+→ **Liên kết:** INTEGRATION (Living Systems), TRANSCENDENCE (Self-Creation, Self-Reference)
 
 ### **Nhóm Bổ Sung: Flow Optimization (5 mục mới)**
 
@@ -4798,17 +4799,6 @@ Các cấu trúc hệ thống lặp lại tạo ra các mẫu hành vi đặc tr
 - **Escalation**: Leo thang
 
 → **Liên kết:** OPERATIONS (Problem Patterns), NAVIGATION (System Diagnosis)
-
-#### **22. Autopoiesis** - Tự Tạo Sinh
-
-Khả năng của hệ thống sống tự tạo ra và duy trì chính nó.
-
-- **Self-Production**: Tự sản xuất
-- **Operational Closure**: Khép kín hoạt động
-- **Structural Coupling**: Ghép nối cấu trúc
-- **Identity Maintenance**: Duy trì bản sắc
-
-→ **Liên kết:** INTEGRATION (Living Systems), TRANSCENDENCE (Self-Reference)
 
 ### **Nhóm Bổ Sung: Core Dynamics (10 mục mới)**
 
