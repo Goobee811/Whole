@@ -623,18 +623,7 @@ Sự hiểu biết rằng mô hình của chúng ta về thế giới (bản đ�
 
 → **Liên kết:** VALIDATION (Ground Truth), [META] LAYER (Model of Models)
 
-#### **8. Circle of Competence** - Vòng Tròn Năng Lực
-
-Sự hiểu biết rõ ràng về ranh giới của những gì bạn biết và không biết.
-
-- **Boundary Definition**: Xác định rõ ràng ranh giới của năng lực của bạn
-- **Operating within Limits**: Hành động quyết đoán bên trong vòng tròn
-- **Humility outside Limits**: Khiêm tốn và thận trọng bên ngoài vòng tròn
-- **Circle Expansion**: Chủ động mở rộng vòng tròn năng lực một cách có hệ thống
-
-→ **Liên kết:** [META] LAYER (Intellectual Humility), NAVIGATION (Risk Navigation)
-
-#### **9. Second-Order Thinking** - Tư Duy Bậc Hai
+#### **8. Second-Order Thinking** - Tư Duy Bậc Hai
 
 Suy nghĩ vượt ra ngoài các kết quả tức thời để xem xét các hệ quả lâu dài và các tác động dây chuyền.
 
@@ -645,7 +634,7 @@ Suy nghĩ vượt ra ngoài các kết quả tức thời để xem xét các h�
 
 → **Liên kết:** DYNAMICS (System Dynamics), NAVIGATION (Strategic Wayfinding)
 
-#### **10. Inversion** - Đảo Ngược
+#### **9. Inversion** - Đảo Ngược
 
 Tiếp cận một vấn đề bằng cách suy nghĩ ngược lại.
 
@@ -656,7 +645,7 @@ Tiếp cận một vấn đề bằng cách suy nghĩ ngược lại.
 
 → **Liên kết:** OPERATIONS (Reverse Thinking), CREATION (Problem Reframing)
 
-#### **11. Leverage** - Đòn Bẩy
+#### **10. Leverage** - Đòn Bẩy
 
 Nguyên lý sử dụng một nỗ lực nhỏ để tạo ra một kết quả lớn hơn nhiều thông qua một điểm tựa.
 
@@ -667,7 +656,7 @@ Nguyên lý sử dụng một nỗ lực nhỏ để tạo ra một kết quả 
 
 → **Liên kết:** AMPLIFICATION (là cơ chế cốt lõi của sự khuếch đại), NAVIGATION (Leverage Points)
 
-#### **12. Margin of Safety** - Biên An Toàn
+#### **11. Margin of Safety** - Biên An Toàn
 
 Nguyên tắc tạo ra một vùng đệm giữa năng lực thực tế và giới hạn chịu đựng để phòng ngừa sai sót và các sự kiện không lường trước.
 
@@ -678,7 +667,7 @@ Nguyên tắc tạo ra một vùng đệm giữa năng lực thực tế và gi�
 
 → **Liên kết:** VALIDATION (Stress Testing), NAVIGATION (Risk Navigation)
 
-#### **13. Redundancy** - Dự Phòng
+#### **12. Redundancy** - Dự Phòng
 
 Việc có nhiều hơn một thành phần hoặc hệ thống để thực hiện một chức năng quan trọng, nhằm tăng độ tin cậy.
 
@@ -689,7 +678,7 @@ Việc có nhiều hơn một thành phần hoặc hệ thống để thực hi�
 
 → **Liên kết:** INTEGRATION (Living Systems Integration), VALIDATION (Chaos Engineering)
 
-#### **14. Bottlenecks (Theory of Constraints)** - Nút Cổ Chai (Lý Thuyết Ràng Buộc)
+#### **13. Bottlenecks (Theory of Constraints)** - Nút Cổ Chai (Lý Thuyết Ràng Buộc)
 
 Mô hình cho rằng hiệu suất của bất kỳ hệ thống nào cũng bị giới hạn bởi một số ít các ràng buộc (nút cổ chai).
 
@@ -700,7 +689,7 @@ Mô hình cho rằng hiệu suất của bất kỳ hệ thống nào cũng bị
 
 → **Liên kết:** OPERATIONS (Constraint Analysis), AMPLIFICATION (Leverage Points)
 
-#### **15. Supply and Demand** - Cung và Cầu
+#### **14. Supply and Demand** - Cung và Cầu
 
 Mô hình kinh tế cơ bản mô tả mối quan hệ giữa sự sẵn có của một sản phẩm và mong muốn của người mua đối với nó.
 
@@ -711,7 +700,7 @@ Mô hình kinh tế cơ bản mô tả mối quan hệ giữa sự sẵn có c�
 
 → **Liên kết:** OPERATIONS (Game Theory), NAVIGATION (Market Dynamics)
 
-#### **16. Information Asymmetry** - Bất Đối Xứng Thông Tin
+#### **15. Information Asymmetry** - Bất Đối Xứng Thông Tin
 
 Mô hình trong đó một bên trong một giao dịch có nhiều hoặc tốt hơn thông tin hơn bên kia.
 
@@ -722,7 +711,7 @@ Mô hình trong đó một bên trong một giao dịch có nhiều hoặc tốt
 
 → **Liên kết:** VALIDATION (Signal-Noise Separation), AMPLIFICATION (Network Effects)
 
-#### **17. Signaling Theory** - Lý Thuyết Tín Hiệu
+#### **16. Signaling Theory** - Lý Thuyết Tín Hiệu
 
 Mô hình giải thích cách các cá nhân hoặc tổ chức truyền đạt thông tin về chất lượng của mình cho người khác thông qua các hành động có chủ đích.
 
@@ -733,7 +722,7 @@ Mô hình giải thích cách các cá nhân hoặc tổ chức truyền đạt 
 
 → **Liên kết:** OPERATIONS (Game Theory), VALIDATION (Peer Review)
 
-#### **18. Tragedy of the Commons** - Bi Kịch của Nguồn Lực Chung
+#### **17. Tragedy of the Commons** - Bi Kịch của Nguồn Lực Chung
 
 Mô hình mô tả một tình huống trong đó các cá nhân hành động vì lợi ích riêng của mình làm cạn kiệt một nguồn lực chung, trái với lợi ích chung của nhóm.
 
@@ -744,7 +733,7 @@ Mô hình mô tả một tình huống trong đó các cá nhân hành động v
 
 → **Liên kết:** DYNAMICS (System Dynamics), INTEGRATION (Systemic Integration)
 
-#### **19. Normal Distribution (The Bell Curve)** - Phân Phối Chuẩn (Đường Cong Chuông)
+#### **18. Normal Distribution (The Bell Curve)** - Phân Phối Chuẩn (Đường Cong Chuông)
 
 Mô hình thống kê mô tả cách dữ liệu trong nhiều hiện tượng tự nhiên phân cụm quanh một giá trị trung tâm.
 
@@ -755,7 +744,7 @@ Mô hình thống kê mô tả cách dữ liệu trong nhiều hiện tượng t
 
 → **Liên kết:** OPERATIONS (Statistical Reasoning), VALIDATION (Baseline Comparison)
 
-#### **20. Power Law Distribution (Pareto Distribution)** - Phân Phối theo Luật Lũy Thừa
+#### **19. Power Law Distribution (Pareto Distribution)** - Phân Phối theo Luật Lũy Thừa
 
 Mô hình trong đó một số ít các yếu tố chiếm phần lớn kết quả (ví dụ: nguyên tắc 80/20).
 
@@ -766,7 +755,7 @@ Mô hình trong đó một số ít các yếu tố chiếm phần lớn kết q
 
 → **Liên kết:** AMPLIFICATION (Network Effects), DYNAMICS (Tipping Points)
 
-#### **21. The Black Swan** - Thiên Nga Đen
+#### **20. The Black Swan** - Thiên Nga Đen
 
 Mô hình về các sự kiện cực kỳ hiếm, có tác động cực lớn và chỉ có thể giải thích được sau khi chúng đã xảy ra.
 
@@ -1477,7 +1466,7 @@ Giá trị về việc có một nhận thức chính xác về các giới hạ
 - **Ego-Transcendence**: Vượt qua sự đồng nhất với cái tôi, đặt sự thật và lợi ích chung lên trên nhu cầu được công nhận hay chứng tỏ mình đúng.
     
 
-→ **Liên kết:** FOUNDATIONS (Circle of Competence), VALIDATION (Feedback Processing), [META] LAYER (Meta-Cognition)
+→ **Liên kết:** OPERATIONS (Circle of Competence), VALIDATION (Feedback Processing), [META] LAYER (Meta-Cognition)
 
 #### **13. Courage (Can Đảm)**
 
@@ -9233,14 +9222,46 @@ Suy nghĩ vượt ra ngoài các kết quả tức thời để xem xét các h�
 
 #### **10. Circle of Competence** - Vòng Tròn Năng Lực
 
-Nguyên tắc chỉ nên đưa ra quyết định trong các lĩnh vực mà mình có kiến thức và chuyên môn sâu sắc.
+Khung ra quyết định về việc chỉ nên hành động và quyết định trong các lĩnh vực mà mình có kiến thức và chuyên môn sâu sắc. Đây là một CÔNG CỤ THỰC HÀNH quan trọng để tránh sai lầm từ sự tự tin thái quá và Dunning-Kruger effect.
 
-- **Define Boundaries**: Xác định rõ ràng ranh giới của những gì bạn biết và không biết.
-- **Operate Within**: Chỉ hoạt động và ra quyết định trong phạm vi vòng tròn năng lực.
-- **Consult Outside**: Tìm kiếm lời khuyên của chuyên gia khi vấn đề nằm ngoài vòng tròn.
-- **Expand Slowly**: Mở rộng vòng tròn một cách cẩn thận và có chủ đích thông qua học tập.
+**CỐT LÕI CỦA KHÁI NIỆM:**
 
-→ **Liên kết:** META (Intellectual Humility), VALIDATION (Expert Consultation)
+• **Define Boundaries (Xác định ranh giới)**:
+  - Biết rõ ràng ranh giới giữa "biết" và "không biết"
+  - Nhận diện các vùng mà bạn có kinh nghiệm thực tế
+  - Phân biệt tri thức sâu vs. hiểu biết bề mặt
+  - Lập bản đồ năng lực của bản thân một cách trung thực
+
+• **Operate Within (Hành động trong vòng)**:
+  - Ra quyết định quyết đoán trong phạm vi năng lực
+  - Tận dụng lợi thế thông tin bất đối xứng
+  - Hành động với sự tự tin có căn cứ
+  - Tối ưu hóa trong lĩnh vực thành thạo
+
+• **Consult Outside (Tư vấn bên ngoài)**:
+  - Tìm kiếm chuyên gia khi vấn đề nằm ngoài vòng tròn
+  - Khiêm tốn thừa nhận giới hạn của mình
+  - Xây dựng mạng lưới chuyên gia đa lĩnh vực
+  - Kết hợp với năng lực của người khác
+
+• **Expand Deliberately (Mở rộng có chủ đích)**:
+  - Mở rộng vòng tròn một cách từ từ, có hệ thống
+  - Học sâu, không học rộng nông
+  - Đầu tư 10,000 giờ để thành thạo lĩnh vực mới
+  - Kiểm chứng năng lực mới qua thực hành
+
+**NGUYÊN TẮC VÀNG:**
+"Đừng bao giờ đánh cược tài sản lớn vào những quyết định nằm ngoài vòng tròn năng lực của bạn. Mở rộng vòng tròn thông qua học tập sâu, không phải thông qua tự tin thái quá."
+
+**PHÂN BIỆT VỚI CÁC KHÁI NIỆM LIÊN QUAN:**
+- Khác với Dunning-Kruger Effect: Đây là công cụ để TRÁNH nhận thức sai lệch
+- Khác với Meta-Cognition: Đây là về RANH GIỚI năng lực, không phải về quá trình tư duy
+- Khác với Intellectual Humility: Đây là công cụ CỤ THỂ, không phải giá trị trừu tượng
+
+→ **Liên kết:** [META] LAYER (Intellectual Humility), VALIDATION (Expert Consultation), NAVIGATION (Risk Navigation), FOUNDATIONS (Map-Territory Distinction)
+
+→ **Nguồn gốc khái niệm:** Warren Buffett & Charlie Munger (Value Investing)
+→ **Ứng dụng chính:** Investment, Career, Business Strategy, Personal Development
 
 #### **11. Satisficing vs. Maximizing** - Thỏa Mãn vs. Tối Đa Hóa
 
