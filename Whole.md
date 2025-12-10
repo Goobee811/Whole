@@ -1461,18 +1461,7 @@ Nguyên tắc ĐẠO ĐỨC xuất phát từ Observer Effect vật lý: Vì ch�
 → **Ứng dụng thực hành:** VALIDATION #26 (trong nghiên cứu)
 → **Nâng cao:** META LAYER #32 (quan sát chính mình quan sát)
 
-#### **4. The Golden Rule → Đối xử tương hỗ**
-
-Nguyên tắc đạo đức phổ quát về việc đối xử với người khác theo cách mà bạn muốn được đối xử, dựa trên sự đồng cảm và tôn trọng lẫn nhau.
-
-- **Empathic Perspective-Taking**: Nỗ lực để hiểu quan điểm và cảm xúc của người khác từ góc nhìn của họ.
-- **Reciprocal Action**: Hành động dựa trên nguyên tắc có đi có lại, xây dựng lòng tin và sự hợp tác.
-- **Dignity Affirmation**: Khẳng định phẩm giá và giá trị vốn có của mỗi cá nhân.
-- **Foundation of Trust**: Nền tảng để xây dựng các mối quan hệ và cộng đồng lành mạnh.
-
-→ **Liên kết:** INTEGRATION (Collaborative Intelligence), FOUNDATIONS (Wisdom Traditions)
-
-#### **5. Ahimsa → Không làm hại**
+#### **4. Ahimsa → Không làm hại**
 
 Nguyên tắc đạo đức về việc tránh gây tổn hại một cách không cần thiết cho bất kỳ sinh vật nào, trong cả suy nghĩ, lời nói và hành động.
 
@@ -1483,7 +1472,7 @@ Nguyên tắc đạo đức về việc tránh gây tổn hại một cách khô
 
 → **Liên kết:** [META] LAYER (Ethical Frameworks), DYNAMICS (Emotional Regulation)
 
-#### **6. The Veil of Ignorance → Công bằng vô tư**
+#### **5. The Veil of Ignorance → Công bằng vô tư**
 
 Nguyên tắc đạo đức dựa trên một thí nghiệm tư duy: thiết kế các quy tắc xã hội từ một vị trí mà không biết vai trò của mình sẽ ở đâu, nhằm đảm bảo sự công bằng cho tất cả.
 
@@ -1494,7 +1483,7 @@ Nguyên tắc đạo đức dựa trên một thí nghiệm tư duy: thiết k�
 
 → **Liên kết:** INTEGRATION (Social Systems), OPERATIONS (Decision Frameworks)
 
-#### **7. Categorical Imperative → Phổ quát hóa hành động**
+#### **6. Categorical Imperative → Phổ quát hóa hành động**
 
 Nguyên tắc đạo đức yêu cầu chỉ hành động theo những quy tắc mà bạn có thể muốn chúng trở thành một quy luật phổ quát cho tất cả mọi người.
 
@@ -1505,7 +1494,7 @@ Nguyên tắc đạo đức yêu cầu chỉ hành động theo những quy tắ
 
 → **Liên kết:** OPERATIONS (Reasoning Architectures), [META] LAYER (Axiomatic Systems)
 
-#### **8. Truthfulness (Chân Thực)**
+#### **7. Truthfulness (Chân Thực)**
 
 Giá trị về sự cam kết với việc nhìn nhận, đại diện và truyền đạt thực tại một cách chính xác nhất có thể, không bị bóp méo bởi mong muốn hay thiên kiến.
 
@@ -1520,7 +1509,7 @@ Giá trị về sự cam kết với việc nhìn nhận, đại diện và truy
 
 → **Liên kết:** VALIDATION (Reality Testing), [META] LAYER (Bias Awareness), FOUNDATIONS (Map-Territory Distinction)
 
-#### **9. Compassion (Từ Bi)**
+#### **8. Compassion (Từ Bi)**
 
 Giá trị kết hợp sự đồng cảm sâu sắc với động lực hành động để làm giảm bớt đau khổ và thúc đẩy sự thịnh vượng cho người khác.
 
@@ -1535,7 +1524,7 @@ Giá trị kết hợp sự đồng cảm sâu sắc với động lực hành �
 
 → **Liên kết:** INTEGRATION (Collaborative Intelligence), NAVIGATION (Guiding Principles), DYNAMICS (Emotional Intelligence)
 
-#### **10. Integrity (Toàn Vẹn)**
+#### **9. Integrity (Toàn Vẹn)**
 
 Giá trị về sự nhất quán, trọn vẹn và không bị chia cắt giữa các nguyên tắc, giá trị và hành động của một cá nhân hay hệ thống.
 
@@ -1550,7 +1539,7 @@ Giá trị về sự nhất quán, trọn vẹn và không bị chia cắt giữ
 
 → **Liên kết:** [META] LAYER (Self-Observation), INTEGRATION (System Coherence Building), OPERATIONS (Systematic Execution)
 
-#### **11. Humility (Khiêm Tốn)**
+#### **10. Humility (Khiêm Tốn)**
 
 Giá trị về việc có một nhận thức chính xác về các giới hạn, sự thiếu sót và vị trí của bản thân trong một tổng thể lớn hơn.
 
@@ -1565,7 +1554,7 @@ Giá trị về việc có một nhận thức chính xác về các giới hạ
 
 → **Liên kết:** OPERATIONS (Circle of Competence), VALIDATION (Feedback Processing), [META] LAYER (Meta-Cognition)
 
-#### **12. Courage (Can Đảm)**
+#### **11. Courage (Can Đảm)**
 
 Giá trị về khả năng đối mặt và hành động một cách hiệu quả bất chấp sự hiện diện của nỗi sợ hãi, sự không chắc chắn hoặc rủi ro.
 
@@ -1580,7 +1569,7 @@ Giá trị về khả năng đối mặt và hành động một cách hiệu qu
 
 → **Liên kết:** NAVIGATION (Risk Navigation), CREATION (Pattern Breaking), OPERATIONS (Decision Frameworks)
 
-#### **13. Justice (Công Bằng)**
+#### **12. Justice (Công Bằng)**
 
 Giá trị về cam kết đối với sự công bằng, bình đẳng và đối xử vô tư, đặc biệt là trong việc phân bổ nguồn lực và bảo vệ quyền lợi của các thành viên trong một hệ thống.
 
@@ -1595,7 +1584,7 @@ Giá trị về cam kết đối với sự công bằng, bình đẳng và đ�
 
 → **Liên kết:** INTEGRATION (Systemic Integration), FOUNDATIONS (Veil of Ignorance), AMPLIFICATION (Social Impact)
 
-#### **14. Wisdom (Trí Tuệ)**
+#### **13. Wisdom (Trí Tuệ)**
 
 Giá trị về khả năng tích hợp kiến thức, kinh nghiệm và sự thấu hiểu sâu sắc để đưa ra những phán đoán đúng đắn và hành động khôn ngoan.
 
@@ -1610,7 +1599,7 @@ Giá trị về khả năng tích hợp kiến thức, kinh nghiệm và sự th
 
 → **Liên kết:** [META] LAYER (Wisdom Synthesis), NAVIGATION (Strategic Wayfinding), TRANSCENDENCE (Wisdom Crystallization)
 
-#### **15. Responsibility (Trách Nhiệm)**
+#### **14. Responsibility (Trách Nhiệm)**
 
 Giá trị về việc chấp nhận và thực hiện nghĩa vụ của mình, đồng thời sở hữu các kết quả từ hành động và quyết định của bản thân.
 
@@ -1629,7 +1618,7 @@ Giá trị về việc chấp nhận và thực hiện nghĩa vụ của mình, 
 
 ### **Các Khung Đạo Đức Bổ Sung**
 
-#### **16. Virtue Ethics** - Đạo Đức Đức Hạnh
+#### **15. Virtue Ethics** - Đạo Đức Đức Hạnh
 
 Triết lý đạo đức tập trung vào tính cách và đức hạnh của người hành động.
 
@@ -1640,7 +1629,7 @@ Triết lý đạo đức tập trung vào tính cách và đức hạnh của n
 
 → **Liên kết:** FOUNDATIONS (Aristotelian Virtue Ethics), INTEGRATION (Character Building)
 
-#### **17. Deontology** - Thuyết Nghĩa Vụ
+#### **16. Deontology** - Thuyết Nghĩa Vụ
 
 Đạo đức dựa trên nghĩa vụ và quy tắc.
 
@@ -1651,7 +1640,7 @@ Triết lý đạo đức tập trung vào tính cách và đức hạnh của n
 
 → **Liên kết:** FOUNDATIONS (The Categorical Imperative), OPERATIONS (Decision Frameworks)
 
-#### **18. Natural Law** - Luật Tự Nhiên
+#### **17. Natural Law** - Luật Tự Nhiên
 
 Đạo đức dựa trên bản chất con người và trật tự tự nhiên.
 
@@ -1662,7 +1651,7 @@ Triết lý đạo đức tập trung vào tính cách và đức hạnh của n
 
 → **Liên kết:** FOUNDATIONS (Universal Principles), [META] LAYER (Ethical Frameworks)
 
-#### **19. Legal Philosophy** - Triết Học Pháp Luật
+#### **18. Legal Philosophy** - Triết Học Pháp Luật
 
 Nghiên cứu về bản chất của luật pháp và công lý.
 
@@ -1673,7 +1662,7 @@ Nghiên cứu về bản chất của luật pháp và công lý.
 
 → **Liên kết:** INTEGRATION (Social Systems), OPERATIONS (Legal Reasoning)
 
-#### **20. Theory of Justice & Rights** - Lý Thuyết Công Lý & Quyền
+#### **19. Theory of Justice & Rights** - Lý Thuyết Công Lý & Quyền
 
 Khung lý thuyết về công bằng và quyền cơ bản.
 
@@ -1684,7 +1673,7 @@ Khung lý thuyết về công bằng và quyền cơ bản.
 
 → **Liên kết:** FOUNDATIONS (The Veil of Ignorance), INTEGRATION (Systemic Integration)
 
-#### **21. Phronesis** - Trí Tuệ Thực Tiễn
+#### **20. Phronesis** - Trí Tuệ Thực Tiễn
 
 Khả năng phán đoán thực tiễn đúng đắn trong các tình huống cụ thể.
 
@@ -1695,7 +1684,7 @@ Khả năng phán đoán thực tiễn đúng đắn trong các tình huống c�
 
 → **Liên kết:** OPERATIONS (Decision Frameworks), FOUNDATIONS (Aristotelian Virtue Ethics)
 
-#### **22. Character Strengths Foundation** - Nền Tảng Điểm Mạnh Tính Cách
+#### **21. Character Strengths Foundation** - Nền Tảng Điểm Mạnh Tính Cách
 
 Khung tâm lý học tích cực về các đức hạnh phổ quát.
 
@@ -1706,7 +1695,7 @@ Khung tâm lý học tích cực về các đức hạnh phổ quát.
 
 → **Liên kết:** INTEGRATION (Personal Integration), DYNAMICS (Character Development)
 
-#### **23. Greek Tragedy** - Bi Kịch Hy Lạp
+#### **22. Greek Tragedy** - Bi Kịch Hy Lạp
 
 Hình thức nghệ thuật khám phá các vấn đề đạo đức sâu sắc.
 
@@ -1717,7 +1706,7 @@ Hình thức nghệ thuật khám phá các vấn đề đạo đức sâu sắc
 
 → **Liên kết:** CREATION (Narrative), INTEGRATION (Moral Education)
 
-#### **24. Shakespeare Drama** - Kịch Shakespeare
+#### **23. Shakespeare Drama** - Kịch Shakespeare
 
 Khám phá bản chất con người qua nghệ thuật kịch.
 
@@ -1728,7 +1717,7 @@ Khám phá bản chất con người qua nghệ thuật kịch.
 
 → **Liên kết:** CREATION (Narrative Crafting), INTEGRATION (Human Understanding)
 
-#### **25. Wisdom Literature** - Văn Học Trí Tuệ
+#### **24. Wisdom Literature** - Văn Học Trí Tuệ
 
 Các tác phẩm truyền đạt trí tuệ sống và giá trị.
 
@@ -1739,7 +1728,7 @@ Các tác phẩm truyền đạt trí tuệ sống và giá trị.
 
 → **Liên kết:** FOUNDATIONS (Wisdom Traditions), INTEGRATION (Knowledge Transmission)
 
-#### **26. Epic Poetry** - Thơ Sử Thi
+#### **25. Epic Poetry** - Thơ Sử Thi
 
 Các tác phẩm kể về anh hùng và giá trị văn hóa.
 
@@ -1750,7 +1739,7 @@ Các tác phẩm kể về anh hùng và giá trị văn hóa.
 
 → **Liên kết:** CREATION (Narrative), AMPLIFICATION (Cultural Transmission)
 
-#### **27. Sacred Foods** - Thực Phẩm Thiêng Liêng
+#### **26. Sacred Foods** - Thực Phẩm Thiêng Liêng
 
 Thực phẩm có ý nghĩa tâm linh và nghi lễ.
 
@@ -1761,7 +1750,7 @@ Thực phẩm có ý nghĩa tâm linh và nghi lễ.
 
 → **Liên kết:** INTEGRATION (Ritual Practice), FOUNDATIONS (Sacred Practices)
 
-#### **28. Medicinal Cooking** - Nấu Ăn Y Học
+#### **27. Medicinal Cooking** - Nấu Ăn Y Học
 
 Nghệ thuật nấu ăn với mục đích chữa bệnh.
 
@@ -1876,16 +1865,34 @@ Triết lý cho rằng mục đích cuối cùng của con người là Eudaimon
 
 → **Liên kết:** OPERATIONS (Decision Frameworks), [META] LAYER (Meta-Cognition)
 
-#### **9. The Golden Rule** - Quy Tắc Vàng
+#### **9. The Golden Rule - Quy Tắc Vàng [Trí Tuệ Phổ Quát]**
 
-Nguyên tắc đạo đức phổ quát về việc đối xử với người khác theo cách mà bạn muốn được đối xử.
+Nguyên tắc đạo đức phổ quát xuất hiện độc lập trong HẦU HẾT các nền văn hóa và tôn giáo lớn trên thế giới - minh chứng cho "Perennial Philosophy" (Triết Học Trường Tồn). Đây là nền tảng của mọi tương tác đạo đức giữa con người với con người.
 
-- **Principle of Reciprocity**: Nguyên tắc có đi có lại trong đối xử
-- **Empathy in Action**: Sự đồng cảm được thể hiện qua hành động
-- **Universal Ethical Foundation**: Nền tảng đạo đức được tìm thấy trong hầu hết các nền văn hóa và tôn giáo
-- **Perspective Taking**: Yêu cầu khả năng đặt mình vào vị trí của người khác
+**VÍ DỤ XUYÊN VĂN HÓA:**
+• Phật giáo: "Đừng làm điều gì với người khác mà bạn không muốn họ làm với mình"
+• Nho giáo: "Đã sở bất dục, vật thi ư nhân" (Kỷ Luận)
+• Kitô giáo: "Hãy đối xử với người khác như bạn muốn họ đối xử với mình" (Matthew 7:12)
+• Hồi giáo: "Không ai trong số các ngươi có đức tin cho đến khi họ yêu thương cho anh em mình những gì họ yêu thương cho chính mình" (Hadith)
+• Do Thái giáo: "Điều gì ghét, đừng làm với người khác" (Hillel)
+• Hindu giáo: "Đây là tổng của mọi nghĩa vụ: đừng làm với người khác những gì sẽ gây đau khổ nếu được làm với bạn" (Mahabharata)
+• Taoism: "Coi lợi ích của láng giềng như lợi ích của mình" (Lão Tử)
 
-→ **Liên kết:** INTEGRATION (Personal Integration), AMPLIFICATION (Network Effects - trên phương diện xã hội)
+**BỐN NỀN TẢNG THỰC HÀNH:**
+• Empathic Perspective-Taking: Đặt mình vào vị trí người khác
+• Reciprocal Action: Hành động dựa trên nguyên tắc có đi có lại
+• Universal Ethical Foundation: Nền tảng đạo đức vượt văn hóa
+• Dignity Affirmation: Khẳng định phẩm giá con người
+
+→ **Liên kết nội bộ:**
+  • INTEGRATION (Collaborative Intelligence, Personal Integration)
+  • AMPLIFICATION (Network Effects - xã hội)
+→ **Xuất hiện ở chức năng khác:**
+  • CORE VALUES & ETHICS (đã gộp vào đây - trước đây là #5)
+→ **Nguyên lý liên quan:**
+  • FOUNDATIONS #4 (Ahimsa - Không làm hại)
+  • FOUNDATIONS #8 (Compassion - Từ bi)
+  • FOUNDATIONS #33 (The Perennial Philosophy - Triết học trường tồn)
 
 #### **10. Memento Mori** - Hãy Nhớ Rằng Ngươi Sẽ Chết
 
