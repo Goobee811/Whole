@@ -90,14 +90,22 @@ Nguyên lý phổ quát về việc đầu ra của một hệ thống quay tr�
 
 #### **5. Causality & Interdependence** - Nhân Quả & Tương Duyên
 
-Nguyên lý về mối quan hệ giữa nguyên nhân và kết quả, và sự thật rằng không có gì tồn tại một cách độc lập.
+**NGUYÊN LÝ NỀN TẢNG**: Quy luật tự nhiên cơ bản về mối quan hệ giữa nguyên nhân và kết quả, và sự thật rằng không có gì tồn tại một cách độc lập. Đây là **QUY LUẬT TỰ NHIÊN** - nền tảng của mọi suy luận nhân quả.
 
 - **Action-Consequence Unity**: Sự thống nhất giữa hành động và kết quả, không có gì xảy ra mà không có nguyên nhân
 - **Dependent Origination**: Duyên khởi; mọi sự vật, hiện tượng đều do các điều kiện khác hợp thành, không có tự tính
 - **Web of Causation**: Mọi thứ tồn tại trong một mạng lưới nhân quả chằng chịt, một thay đổi nhỏ có thể lan truyền rộng
 - **Acausal Connection**: Khám phá các mối liên hệ phi nhân quả (ví dụ: Synchronicity - sự đồng thời)
 
-→ **Liên kết:** OPERATIONS (Reasoning Architectures), DYNAMICS (System Dynamics)
+→ **Liên kết nội bộ:** OPERATIONS (Reasoning Architectures), DYNAMICS (System Dynamics)
+→ **Causality Constellation - Các biến thể:**
+  • **Khả năng nhận thức:** DYNAMICS #47 (Causal Reasoning - chức năng tư duy)
+  • **Công cụ phân tích:** OPERATIONS #5 (Causal Reasoning - phương pháp luận)
+  • **Tư duy mạng lưới:** DYNAMICS #48 (Causal Networks)
+  • **Nhân quả thời gian:** DYNAMICS #50 (Temporal Causation)
+  • **Công cụ trực quan:** OPERATIONS #22 (Causal Loop Diagrams)
+  • **Vượt thoát:** TRANSCENDENCE #30 (Retroactive Causality)
+  • **Meta-pattern:** META #12 (Causality Patterns)
 
 #### **6. Cycles & Rhythms** - Chu Kỳ & Nhịp Điệu [Nguyên Lý Phổ Quát]
 
@@ -1361,14 +1369,17 @@ Nguyên tắc đạo đức thừa nhận giá trị của sự khác biệt đ�
 
 #### **2. Causality & Interdependence → Trách nhiệm với hệ quả**
 
-Nguyên tắc đạo đức yêu cầu nhận thức và chịu trách nhiệm về các tác động lan tỏa của hành động của mình trong một thế giới kết nối.
+**ỨNG DỤNG ĐẠO ĐỨC CỦA NHÂN QUẢ**: Nguyên tắc đạo đức yêu cầu nhận thức và chịu trách nhiệm về các tác động lan tỏa của hành động của mình trong một thế giới kết nối. Đây là NGUYÊN LÝ ĐẠO ĐỨC xuất phát từ hiểu biết về nhân quả.
 
-- **Second-Order Thinking**: Suy xét vượt ra ngoài các kết quả tức thời để lường trước các tác động lâu dài và không mong muốn.
-- **Systemic Accountability**: Chịu trách nhiệm không chỉ cho hành động của mình mà còn cho các hiệu ứng gợn sóng (ripple effects) mà chúng gây ra trong hệ thống.
-- **Mindfulness of Interconnection**: Nhận thức sâu sắc rằng mọi hành động đều diễn ra trong một mạng lưới tương duyên, ảnh hưởng đến những người khác.
-- **Action-Consequence Ownership**: Sở hữu hoàn toàn mối liên hệ giữa nguyên nhân (hành động của mình) và kết quả (hậu quả của nó).
+- **Second-Order Thinking**: Suy xét vượt ra ngoài các kết quả tức thời để lường trước các tác động lâu dài và không mong muốn
+- **Systemic Accountability**: Chịu trách nhiệm không chỉ cho hành động của mình mà còn cho các hiệu ứng gợn sóng (ripple effects) mà chúng gây ra trong hệ thống
+- **Mindfulness of Interconnection**: Nhận thức sâu sắc rằng mọi hành động đều diễn ra trong một mạng lưới tương duyên, ảnh hưởng đến những người khác
+- **Action-Consequence Ownership**: Sở hữu hoàn toàn mối liên hệ giữa nguyên nhân (hành động của mình) và kết quả (hậu quả của nó)
 
-→ **Liên kết:** NAVIGATION (Second-Order Thinking), FOUNDATIONS (Causality & Interdependence)
+→ **Liên kết nội bộ:** NAVIGATION (Second-Order Thinking), FOUNDATIONS (Causality & Interdependence)
+→ **Gốc nguyên lý:** FOUNDATIONS #5 (Causality & Interdependence - quy luật nhân quả)
+→ **Khả năng nhận thức:** DYNAMICS #47 (Causal Reasoning - hiểu nhân quả)
+→ **Công cụ phân tích:** OPERATIONS #5 (Causal Reasoning - phân tích hệ quả)
 
 #### **3. Observer Effect → Tự nhận thức về sự tham gia**
 
@@ -5948,27 +5959,33 @@ Tư duy bị ảnh hưởng bởi cảm xúc (nóng) so với tư duy trung lậ
 
 ### **Nhóm Bổ Sung: Reasoning Dynamics (8 mục mới)**
 
-#### **47. Causal Reasoning** - Suy Luận Nhân Quả
+#### **47. Causal Reasoning** - Suy Luận Nhân Quả [Chức Năng Nhận Thức]
 
-Khả năng suy luận về các mối quan hệ nguyên nhân-kết quả.
+Khả năng tự nhiên của tâm trí để SUY LUẬN về quan hệ nguyên nhân-kết quả. Đây là **MỘT TRONG NHỮNG CHỨC NĂNG NHẬN THỨC CƠ BẢN** nhất - não bộ con người được tiến hóa để tự động tìm kiếm và hiểu các mối quan hệ nhân quả.
 
-- **Cause-Effect Inference**: Suy luận nguyên nhân-kết quả
-- **Causal Models**: Mô hình nhân quả
-- **Counterfactual Thinking**: Tư duy phản thực
-- **Mechanism Understanding**: Hiểu cơ chế
+- **Cause-Effect Inference**: Suy luận tự nhiên từ nguyên nhân đến kết quả
+- **Causal Models**: Xây dựng mô hình tâm trí về cách thế giới hoạt động
+- **Counterfactual Thinking**: "Điều gì sẽ xảy ra nếu..." - khả năng tưởng tượng
+- **Mechanism Understanding**: Hiểu "CƠ CHẾ" - làm thế nào X gây ra Y
 
-→ **Liên kết:** OPERATIONS (Logical Reasoning), VALIDATION (Causal Analysis)
+→ **Liên kết nội bộ:** OPERATIONS (Logical Reasoning), VALIDATION (Causal Analysis)
+→ **Gốc nguyên lý:** FOUNDATIONS #5 (Causality & Interdependence - quy luật tự nhiên)
+→ **Công cụ hóa:** OPERATIONS #5 (Causal Reasoning - phương pháp luận)
+→ **Mở rộng:** DYNAMICS #48 (Causal Networks), #50 (Temporal Causation)
 
 #### **48. Causal Networks** - Mạng Lưới Nhân Quả
 
-Hiểu các hệ thống phức tạp của các mối quan hệ nhân quả tương tác.
+Khả năng nhìn thấy và hiểu các hệ thống phức tạp của các mối quan hệ nhân quả tương tác. Mở rộng từ **suy luận nhân quả tuyến tính** (A→B) sang **tư duy mạng lưới** (A↔B↔C↔D...).
 
-- **Systems Causation**: Nhân quả hệ thống
-- **Interconnected Effects**: Các hiệu ứng liên kết
-- **Network Analysis**: Phân tích mạng lưới
-- **Web of Causation**: Mạng lưới nhân quả
+- **Systems Causation**: Nhân quả hệ thống - nhìn thấy toàn bộ mạng lưới
+- **Interconnected Effects**: Các hiệu ứng liên kết - một thay đổi lan tỏa
+- **Network Analysis**: Phân tích mạng lưới - xác định nút trung tâm
+- **Web of Causation**: Mạng lưới nhân quả - tương duyên phức tạp
 
-→ **Liên kết:** FOUNDATIONS (Systems Thinking), OPERATIONS (Network Modeling)
+→ **Liên kết nội bộ:** FOUNDATIONS (Systems Thinking), OPERATIONS (Network Modeling)
+→ **Gốc nguyên lý:** FOUNDATIONS #5 (Causality & Interdependence)
+→ **Khả năng cơ bản:** DYNAMICS #47 (Causal Reasoning)
+→ **Công cụ trực quan:** OPERATIONS #22 (Causal Loop Diagrams)
 
 #### **49. Intervention Reasoning** - Suy Luận Can Thiệp
 
@@ -5983,14 +6000,17 @@ Suy luận về hậu quả của các hành động và can thiệp.
 
 #### **50. Temporal Causation** - Nhân Quả Thời Gian
 
-Hiểu cách các nguyên nhân và kết quả triển khai theo thời gian.
+Khả năng nhận thức về cách các nguyên nhân và kết quả triển khai theo thời gian. Hiểu rằng nhân quả không tức thì - có **độ trễ**, **tích lũy**, và **mẫu hình thời gian**.
 
-- **Time-based Causality**: Nhân quả dựa trên thời gian
-- **Lag Effects**: Hiệu ứng trễ
-- **Sequence Analysis**: Phân tích chuỗi
-- **Temporal Patterns**: Mẫu hình thời gian
+- **Time-based Causality**: Nhân quả dựa trên thời gian - nguyên nhân và kết quả cách nhau
+- **Lag Effects**: Hiệu ứng trễ - kết quả xuất hiện sau một khoảng thời gian
+- **Sequence Analysis**: Phân tích chuỗi - thứ tự quan trọng
+- **Temporal Patterns**: Mẫu hình thời gian - chu kỳ nhân quả
 
-→ **Liên kết:** DYNAMICS (Temporal Dynamics), VALIDATION (Temporal Analysis)
+→ **Liên kết nội bộ:** DYNAMICS (Temporal Dynamics), VALIDATION (Temporal Analysis)
+→ **Gốc nguyên lý:** FOUNDATIONS #5 (Causality & Interdependence)
+→ **Khả năng cơ bản:** DYNAMICS #47 (Causal Reasoning)
+→ **Vượt thoát:** TRANSCENDENCE #30 (Retroactive Causality - nhân quả ngược thời gian)
 
 #### **51. Adaptive Reasoning** - Suy Luận Thích Ứng
 
@@ -6962,16 +6982,35 @@ Phương pháp suy luận logic có cấu trúc để rút ra kết luận về 
 → **Nguyên lý gốc:** FOUNDATIONS #26 (Analogical Thinking - tư duy tương tự)
 → **Phương pháp logic:** OPERATIONS (các công cụ suy luận khác: Deductive, Inductive, Abductive)
 
-#### **5. Causal Reasoning** - Suy Luận Nhân Quả
+#### **5. Causal Reasoning** - Suy Luận Nhân Quả [Công Cụ Phân Tích]
 
-Xác định và phân tích các mối quan hệ nguyên nhân-kết quả.
+Phương pháp luận chặt chẽ để XÁC ĐỊNH và PHÂN TÍCH các mối quan hệ nhân quả một cách có hệ thống. Khác với khả năng nhận thức tự nhiên ở DYNAMICS, đây là **CÔNG CỤ PHÂN TÍCH** - quy trình có cấu trúc để làm rõ nhân quả.
 
-- **Cause Identification**: Xác định các nguyên nhân thực sự, phân biệt với các tương quan giả hoặc ngẫu nhiên.
-- **Mechanism Understanding**: Hiểu cơ chế mà qua đó nguyên nhân tạo ra kết quả.
-- **Counterfactual Thinking**: Tư duy phản thực, xem xét điều gì sẽ xảy ra nếu nguyên nhân không có mặt.
-- **Causal Chain Analysis**: Phân tích các chuỗi nhân quả, nơi một nguyên nhân dẫn đến một kết quả, kết quả đó lại trở thành nguyên nhân của kết quả khác.
+- **Cause Identification**: Phương pháp xác định nguyên nhân THỰC SỰ
+  - Phân biệt nhân quả vs. tương quan
+  - Loại bỏ các nguyên nhân giả
+  - Kiểm soát biến nhiễu
 
-→ **Liên kết:** FOUNDATIONS (Causality), DYNAMICS (System Dynamics)
+- **Mechanism Understanding**: Phân tích CƠ CHẾ nhân quả
+  - Xác định chuỗi trung gian
+  - Hiểu "transmission mechanism"
+  - Vẽ sơ đồ nhân quả
+
+- **Counterfactual Testing**: Kiểm định phản thực
+  - "Nếu không có X, Y có xảy ra không?"
+  - Phương pháp kiểm soát
+  - A/B testing logic
+
+- **Causal Chain Analysis**: Phân tích chuỗi nhân quả
+  - X → Y → Z → ...
+  - Hiệu ứng domino
+  - Nguyên nhân gốc rễ
+
+→ **Liên kết nội bộ:** FOUNDATIONS (Causality), DYNAMICS (System Dynamics)
+→ **Gốc nguyên lý:** FOUNDATIONS #5 (Causality & Interdependence - nguyên lý nền tảng)
+→ **Khả năng nhận thức:** DYNAMICS #47 (Causal Reasoning - chức năng tư duy)
+→ **Công cụ trực quan:** OPERATIONS #22 (Causal Loop Diagrams)
+→ **Ứng dụng:** VALIDATION (các phương pháp thực nghiệm)
 
 #### **6. Probabilistic Reasoning** - Suy Luận Xác Suất [Công Cụ Phân Tích]
 
@@ -7828,14 +7867,17 @@ Một phương pháp có hệ thống để xác định các lỗi tiềm tàng
 
 #### **22. Causal Loop Diagrams** - Sơ Đồ Vòng Lặp Nhân Quả
 
-Một công cụ trực quan để lập bản đồ các mối quan hệ và các vòng lặp phản hồi trong một hệ thống phức tạp.
+**CÔNG CỤ TRỰC QUAN** để lập bản đồ các mối quan hệ và các vòng lặp phản hồi trong một hệ thống phức tạp. Biến **khả năng nhận thức** về nhân quả thành **biểu đồ cụ thể** có thể phân tích.
 
-- **Variable Identification**: Xác định các biến số quan trọng trong hệ thống.
-- **Link Polarity**: Gán cực tính cho các liên kết.
-- **Loop Identification**: Xác định các vòng lặp phản hồi củng cố hoặc cân bằng.
-- **System Behavior Insights**: Tạo ra sự thấu suốt về hành vi dài hạn của hệ thống.
+- **Variable Identification**: Xác định các biến số quan trọng trong hệ thống
+- **Link Polarity**: Gán cực tính cho các liên kết (+/-)
+- **Loop Identification**: Xác định các vòng lặp phản hồi củng cố (R) hoặc cân bằng (B)
+- **System Behavior Insights**: Tạo ra sự thấu suốt về hành vi dài hạn của hệ thống
 
-→ **Liên kết:** FOUNDATIONS (Feedback Loops), DYNAMICS (System Dynamics)
+→ **Liên kết nội bộ:** FOUNDATIONS (Feedback Loops), DYNAMICS (System Dynamics)
+→ **Gốc nguyên lý:** FOUNDATIONS #5 (Causality & Interdependence)
+→ **Khả năng nhận thức:** DYNAMICS #48 (Causal Networks - tư duy mạng lưới)
+→ **Phương pháp phân tích:** OPERATIONS #5 (Causal Reasoning - công cụ phân tích)
 
 #### **23. Argument Deconstruction** - Phân Rã Lập Luận
 
@@ -23405,14 +23447,17 @@ Nguyên lý Heisenberg rằng một số cặp thuộc tính vật lý không th
 
 #### **30. Retroactive Causality** - Nhân Quả Hồi Tố
 
-Khái niệm rằng các sự kiện trong tương lai có thể ảnh hưởng đến quá khứ, đảo ngược mũi tên thời gian thông thường.
+**VƯỢT THOÁT NHÂN QUẢ THÔNG THƯỜNG**: Khái niệm rằng các sự kiện trong tương lai có thể ảnh hưởng đến quá khứ, đảo ngược mũi tên thời gian thông thường. Giải quyết các nghịch lý mà nhân quả tuyến tính không giải thích được.
 
-- **Time Reversal**: Đảo ngược thời gian; nguyên nhân và kết quả không luôn theo thứ tự thời gian.
-- **Future Influence**: Ảnh hưởng tương lai; tương lai tác động ngược lại quá khứ.
-- **Backward Causation**: Nhân quả ngược; hiệu ứng xảy ra trước nguyên nhân.
-- **Temporal Paradox**: Nghịch lý thời gian; các vòng lặp nhân quả.
+- **Time Reversal**: Đảo ngược thời gian; nguyên nhân và kết quả không luôn theo thứ tự thời gian
+- **Future Influence**: Ảnh hưởng tương lai; tương lai tác động ngược lại quá khứ
+- **Backward Causation**: Nhân quả ngược; hiệu ứng xảy ra trước nguyên nhân
+- **Temporal Paradox**: Nghịch lý thời gian; các vòng lặp nhân quả
 
-→ **Liên kết:** DYNAMICS (Time Dynamics), TRANSCENDENCE (Time Paradoxes).
+→ **Liên kết nội bộ:** DYNAMICS (Time Dynamics), TRANSCENDENCE (Time Paradoxes)
+→ **Gốc nguyên lý:** FOUNDATIONS #5 (Causality & Interdependence - nhưng vượt thoát nó)
+→ **Nhân quả thông thường:** DYNAMICS #50 (Temporal Causation - nhân quả thuận thời gian)
+→ **Khái niệm liên quan:** TRANSCENDENCE (Quantum concepts, Non-linear time)
 
 ---
 
@@ -27162,14 +27207,20 @@ CÔNG CỤ META-NHẬN THỨC để phát hiện vai trò của đối xứng v�
 
 #### **12. Causality Patterns** - Các Mẫu Hình Nhân Quả
 
-Nhận ra các kiểu quan hệ nhân quả khác nhau.
+**META-PATTERN**: Nhận ra các kiểu quan hệ nhân quả khác nhau ở cấp độ cao hơn. Đây là **MẪU HÌNH CỦA MẪU HÌNH** - khả năng phân loại và nhận dạng các dạng thức nhân quả.
 
-- **Linear Causality**: Nhân quả tuyến tính.
-- **Circular Causality**: Nhân quả vòng tròn.
-- **Multiple Causality**: Đa nhân quả.
-- **Non-Linear Effects**: Các hiệu ứng phi tuyến.
+- **Linear Causality**: Nhân quả tuyến tính (A→B→C)
+- **Circular Causality**: Nhân quả vòng tròn (A→B→A)
+- **Multiple Causality**: Đa nhân quả (A,B,C→D)
+- **Non-Linear Effects**: Các hiệu ứng phi tuyến (tác động không tỷ lệ)
 
-→ **Liên kết:** OPERATIONS (Causal Analysis), DYNAMICS (System Dynamics).
+→ **Liên kết nội bộ:** OPERATIONS (Causal Analysis), DYNAMICS (System Dynamics)
+→ **Gốc nguyên lý:** FOUNDATIONS #5 (Causality & Interdependence)
+→ **Các dạng thức cụ thể:**
+  • DYNAMICS #47 (Causal Reasoning - nhận thức cơ bản)
+  • DYNAMICS #48 (Causal Networks - mạng lưới)
+  • DYNAMICS #50 (Temporal Causation - thời gian)
+  • TRANSCENDENCE #30 (Retroactive Causality - nghịch lý)
 
 #### **13. Emergence Recognition** - Nhận Dạng Sự Đột Sinh
 
