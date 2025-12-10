@@ -4916,16 +4916,20 @@ Mẫu hình chuyển động qua lại giữa các trạng thái đối lập th
 
 → **Ứng dụng trong tư duy:** OPERATIONS #52 (Oscillation - phương pháp xen kẽ giải quyết vấn đề)
 
-#### **28. Convergence** - Hội Tụ
+#### **28. Convergence - Hội Tụ [Mô Hình Tiến Hóa]**
 
-Quá trình các yếu tố riêng biệt di chuyển về phía một điểm chung.
+Quá trình TỰ NHIÊN trong đó các yếu tố riêng biệt di chuyển về phía một điểm chung trong quá trình tiến hóa của hệ thống. Đây là MÔ HÌNH TIẾN HÓA phổ biến - khi các con đường khác nhau cuối cùng dẫn đến những giải pháp tương tự.
 
-- **Unification**: Thống nhất
-- **Coming Together**: Đến với nhau
-- **Integration Movement**: Chuyển động tích hợp
-- **Directional Focus**: Tập trung theo hướng
+- **Unification**: Thống nhất - xu hướng tự nhiên hướng về sự toàn vẹn
+- **Coming Together**: Đến với nhau - lực hút của các điểm thu hút chung
+- **Integration Movement**: Chuyển động tích hợp - quá trình tự tổ chức
+- **Directional Focus**: Tập trung theo hướng - hệ thống tìm đến trạng thái ổn định
 
 → **Liên kết:** INTEGRATION (Synthesis), OPERATIONS (Convergent Thinking)
+
+→ **Ứng dụng chiến lược:** AMPLIFICATION #13 (Convergence trong platform building)
+
+→ **Ví dụ:** Convergent evolution (tiến hóa hội tụ) trong sinh học; Các lý thuyết khoa học hội tụ về cùng một chân lý; Các nền văn hóa phát triển những giá trị đạo đức tương tự
 
 #### **29. Divergence** - Phân Kỳ
 
@@ -22327,15 +22331,20 @@ Việc kết hợp các ý tưởng, công nghệ hoặc thực hành từ các 
 - **Ecosystem Diversity**: Đa dạng hệ sinh thái, càng đa dạng càng nhiều tiềm năng thụ phấn chéo.  
     → **Liên kết:** CREATION (Innovation Methods), INTEGRATION (Knowledge Networks).
 
-#### **13. Convergence** - Hội Tụ
+#### **13. Convergence - Hội Tụ [Chiến Lược Khuếch Đại]**
 
-Sự kết hợp của các công nghệ, ngành công nghiệp hoặc xu hướng trước đây tách biệt.
+Chiến lược CHỦ ĐỘNG kết hợp các công nghệ, ngành công nghiệp hoặc xu hướng trước đây tách biệt để tạo ra giá trị mới và khuếch đại tác động. Khác với quá trình tự nhiên ở DYNAMICS, đây là về THIẾT KẾ HỢP NHẤT để bùng nổ giá trị.
 
-- **Technology Fusion**: Sự hợp nhất công nghệ, các công nghệ khác nhau kết hợp để tạo ra cái mới.
-- **Industry Blurring**: Làm mờ ranh giới ngành, các ngành công nghiệp xâm nhập lẫn nhau.
-- **Platform Convergence**: Hội tụ nền tảng, một nền tảng cung cấp nhiều dịch vụ.
-- **Unified Experience**: Trải nghiệm thống nhất, người dùng có một điểm tiếp cận duy nhất.  
-    → **Liên kết:** DYNAMICS (Emergence), NAVIGATION (Trend Analysis).
+- **Technology Fusion**: Hợp nhất công nghệ - kết hợp để tạo KHẢ NĂNG MỚI
+- **Industry Blurring**: Làm mờ ranh giới ngành - tạo ra THỊ TRƯỜNG MỚI
+- **Platform Convergence**: Hội tụ nền tảng - một điểm cung cấp NHIỀU GIÁ TRỊ
+- **Unified Experience**: Trải nghiệm thống nhất - KHUẾCH ĐẠI sự tiện lợi
+
+→ **Liên kết:** NAVIGATION (Trend Analysis)
+
+→ **Gốc lý thuyết:** DYNAMICS #28 (Convergence - mô hình tiến hóa tự nhiên)
+
+→ **Ví dụ thực tế:** Smartphone = phone + camera + computer + GPS (technology fusion); Fintech = finance + technology (industry blurring); WeChat = messaging + payment + social + services (platform convergence); Apple ecosystem = hardware + software + services (unified experience)
 
 #### **14. Synergistic Systems** - Các Hệ Thống Hiệp Lực
 
