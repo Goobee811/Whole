@@ -518,16 +518,23 @@ Các định luật phổ quát và mẫu hình là những cấu trúc lặp l�
 
 ### **Các Mô Hình Nền Tảng**
 
-#### **1. Mental Models** - Mô Hình Tư Duy
+#### **1. Mental Models - Mô Hình Tư Duy [Khung Diễn Giải Phổ Quát]**
 
-Các khung diễn giải thực tại được lưu trữ trong tâm trí, giúp đơn giản hóa sự phức tạp và đưa ra suy luận.
+Các khung diễn giải thực tại được lưu trữ trong tâm trí - những "lăng kính"
+qua đó chúng ta nhìn nhận và hiểu thế giới. Đây là NGUYÊN LÝ NỀN TẢNG về
+cách con người tạo ra ý nghĩa và đưa ra suy luận về thực tại phức tạp.
 
-- **Model Selection**: Lựa chọn mô hình phù hợp nhất với bối cảnh của vấn đề
-- **Model Latticework**: Xây dựng một mạng lưới các mô hình từ nhiều lĩnh vực khác nhau để có cái nhìn đa chiều
-- **Model Limitations**: Nhận thức rằng "bản đồ không phải là lãnh thổ" và mọi mô hình đều có giới hạn
-- **Model Inversion**: Đảo ngược mô hình để xem xét vấn đề từ một góc độ hoàn toàn khác
+• **Model Selection**: Lựa chọn KHUNG DIỄN GIẢI phù hợp với bối cảnh
+• **Model Latticework**: Xây dựng MẠNG LƯỚI mô hình đa chiều
+• **Model Limitations**: Nhận thức "bản đồ ≠ lãnh thổ" - GIỚI HẠN của mô hình
+• **Model Inversion**: Đảo ngược để thấy GÓC NHÌN khác
 
-→ **Liên kết:** [META] LAYER (Meta-Structures), OPERATIONS (áp dụng các mô hình cụ thể)
+→ **Liên kết nội bộ:** [META] LAYER (Meta-Structures), INTEGRATION (Knowledge Synthesis)
+→ **Xuất hiện ở các domain khác:**
+  • DYNAMICS #33 (công cụ chuyển đổi linh hoạt)
+  • OPERATIONS #53 (công cụ giải quyết vấn đề)
+  • AMPLIFICATION #15 (công cụ khuếch đại)
+→ **Ý nghĩa:** Nền tảng LÝ THUYẾT về cách tâm trí tạo ra biểu diễn nội tâm
 
 #### **2. Systems Thinking** - Tư Duy Hệ Thống
 
@@ -5774,16 +5781,22 @@ Mô hình về cách các khái niệm trong bộ nhớ được kích hoạt v�
 
 → **Liên kết:** INTEGRATION (Knowledge Networks), [META] LAYER (Associative Thinking)
 
-#### **33. Mental Models** - Mô Hình Tinh Thần
+#### **33. Mental Models - Mô Hình Tinh Thần [Trong Linh Hoạt Nhận Thức]**
 
-Các biểu diễn nội tâm về cách thế giới hoạt động, định hướng suy nghĩ và hành động.
+Các biểu diễn nội tâm về cách thế giới hoạt động - CÓ THỂ THAY ĐỔI và
+CẬP NHẬT khi gặp thông tin mới. Khác với nguyên lý nền tảng ở FOUNDATIONS,
+đây là về ĐỘNG LỰC - làm sao để chuyển đổi giữa các mô hình một cách linh hoạt.
 
-- **World Representation**: Biểu diễn về thế giới
-- **Predictive Function**: Chức năng dự đoán
-- **Model Updating**: Cập nhật mô hình
-- **Multiple Models**: Nhiều mô hình song song
+• **World Representation**: Biểu diễn về thế giới - CÓ THỂ THAY ĐỔI
+• **Predictive Function**: Dự đoán - KHI MÔ HÌNH SAI thì cập nhật
+• **Model Updating**: CẬP NHẬT mô hình dựa trên phản hồi thực tế
+• **Multiple Models**: Chuyển đổi LINH HOẠT giữa nhiều mô hình
 
-→ **Liên kết:** FOUNDATIONS (Mental Models), NAVIGATION (Reality Navigation)
+→ **Liên kết nội bộ:** NAVIGATION (Reality Navigation), INTEGRATION (Paradigm Integration)
+→ **Gốc lý thuyết:** FOUNDATIONS #1 (Mental Models - khung diễn giải phổ quát)
+→ **Ứng dụng thực hành:** OPERATIONS #53 (sử dụng trong giải quyết vấn đề)
+→ **Khuếch đại:** AMPLIFICATION #15 (nhân rộng ảnh hưởng)
+→ **Ý nghĩa:** Tập trung vào KHẢ NĂNG THAY ĐỔI và LINH HOẠT của mô hình
 
 #### **34. Perceptual Set** - Thiết Lập Tri Giác
 
@@ -8169,16 +8182,22 @@ Phương pháp TƯ DUY xen kẽ hoặc chuyển đổi giữa các trạng thái
 
 → **Ứng dụng nâng cao:** [META] LAYER (Meta-Cognitive Flexibility Awareness)
 
-#### **53. Mental Models** - Mô Hình Tinh Thần
+#### **53. Mental Models - Mô Hình Tinh Thần [Công Cụ Giải Quyết Vấn Đề]**
 
-Các biểu diễn nội tâm của cách thế giới hoạt động.
+Các biểu diễn nội tâm được SỬ DỤNG như CÔNG CỤ để phân tích, suy luận
+và giải quyết vấn đề. Khác với lý thuyết ở FOUNDATIONS và tính linh hoạt
+ở DYNAMICS, đây là về THỰC HÀNH - áp dụng mô hình vào công việc cụ thể.
 
-- **Cognitive Representations**: Biểu diễn nhận thức về thực tại.
-- **Predictive Frameworks**: Khung dự đoán hành vi của hệ thống.
-- **Understanding Schemas**: Các schemas giúp hiểu và diễn giải.
-- **Worldview Structures**: Cấu trúc thế giới quan tổng thể.
+• **Cognitive Representations**: Biểu diễn THỰC HÀNH để làm việc
+• **Predictive Frameworks**: Khung DỰ ĐOÁN để hỗ trợ quyết định
+• **Understanding Schemas**: Schemas để DIỄN GIẢI tình huống
+• **Worldview Structures**: Cấu trúc THỰC HÀNH tư duy hàng ngày
 
-→ **Liên kết:** FOUNDATIONS (Mental Models), OPERATIONS (Knowledge Organization)
+→ **Liên kết nội bộ:** OPERATIONS (Knowledge Organization), VALIDATION (Reality Testing)
+→ **Gốc lý thuyết:** FOUNDATIONS #1 (Mental Models - nguyên lý nền tảng)
+→ **Động lực thay đổi:** DYNAMICS #33 (cập nhật và chuyển đổi mô hình)
+→ **Khuếch đại ảnh hưởng:** AMPLIFICATION #15 (nhân rộng hiệu quả)
+→ **Ý nghĩa:** Tập trung vào CÔNG CỤ ỨNG DỤNG và SỬ DỤNG THỰC TẾ
 
 #### **54. Framework Synthesis** - Tổng Hợp Khung
 
@@ -21180,15 +21199,22 @@ Học hỏi từ kinh nghiệm của người khác để rút ngắn đường 
 - **Pattern Recognition**: Nhận diện mẫu hình từ những người đi trước.  
     → **Liên kết:** OPERATIONS (Learning Systems), INTEGRATION (Knowledge Transfer).
 
-#### **15. Frameworks & Mental Models** - Khung Tư Duy & Mô Hình Tâm Thần
+#### **15. Frameworks & Mental Models - Khung Tư Duy & Mô Hình Tâm Thần [Công Cụ Đòn Bẩy]**
 
-Sử dụng các cấu trúc tư duy để xử lý thông tin và ra quyết định nhanh hơn và tốt hơn.
+Sử dụng các khung tư duy và mô hình tinh thần như CÔNG CỤ ĐÒN BẨY để
+NHÂN RỘNG hiệu quả tư duy và ra quyết định. Khác với lý thuyết ở FOUNDATIONS,
+tính linh hoạt ở DYNAMICS, và ứng dụng ở OPERATIONS, đây là về KHUẾCH ĐẠI.
 
-- **Cognitive Shortcuts**: Lối tắt nhận thức; giúp xử lý thông tin phức tạp một cách hiệu quả.
-- **First Principles + Frameworks**: Kết hợp tư duy nguyên lý đầu tiên với các khung tư duy đã được chứng minh.
-- **Transferable Wisdom**: Trí tuệ có thể chuyển giao giữa các lĩnh vực.
-- **Meta-Learning**: Học cách học; xây dựng một thư viện các mô hình tư duy.  
-    → **Liên kết:** FOUNDATIONS (Mental Models), OPERATIONS (Decision Frameworks).
+• **Cognitive Shortcuts**: Lối tắt nhận thức - XỬ LÝ NHANH & HIỆU QUẢ hơn
+• **First Principles + Frameworks**: Kết hợp để TẠO RA ĐÒN BẨY tư duy
+• **Transferable Wisdom**: Trí tuệ CHUYỂN GIAO giữa lĩnh vực - KHUẾCH ĐẠI hiểu biết
+• **Meta-Learning**: Học cách học - XÂY DỰNG THƯ VIỆN mô hình để tối đa hóa ảnh hưởng
+
+→ **Liên kết nội bộ:** OPERATIONS (Decision Frameworks), NAVIGATION (Strategic Tools)
+→ **Gốc lý thuyết:** FOUNDATIONS #1 (Mental Models - nguyên lý phổ quát)
+→ **Tính linh hoạt:** DYNAMICS #33 (chuyển đổi giữa các mô hình)
+→ **Công cụ thực hành:** OPERATIONS #53 (áp dụng trong giải quyết vấn đề)
+→ **Ý nghĩa:** Tập trung vào NHÂN RỘNG, ĐÒN BẨY và KHUẾCH ĐẠI hiệu quả
 
 #### **16. Time Leverage** - Đòn Bẩy Thời Gian
 
