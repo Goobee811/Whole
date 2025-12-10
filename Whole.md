@@ -5105,16 +5105,20 @@ Nguyên lý ưu tiên những giải thích đơn giản nhất khi đối mặt
 
 → **Liên kết:** OPERATIONS (Problem Solving), VALIDATION (Theory Selection)
 
-#### **45. Shirky Principle** - Nguyên Tắc Shirky
+#### **45. Shirky Principle - Nguyên Tắc Shirky [Mẫu Hình Tự Duy Trì]**
 
 "Các tổ chức sẽ cố gắng bảo tồn vấn đề mà chúng là giải pháp."
 
-- **Problem Preservation**: Bảo tồn vấn đề
-- **Institutional Inertia**: Quán tính thể chế
-- **Self-Perpetuation**: Tự duy trì
-- **Solution Lock-in**: Khóa trong giải pháp
+Đây là MẪU HÌNH TIẾN HÓA quan sát được ở các hệ thống tổ chức - hiểu TẠI SAO và LÀM SAO các tổ chức phát triển cơ chế tự duy trì ngay cả khi mục đích ban đầu đã không còn phù hợp. Đây là về DYNAMIC sự tiến hóa.
 
-→ **Liên kết:** VALIDATION (Organizational Analysis), NAVIGATION (Strategy Review)
+- **Problem Preservation**: Động lực BẢO TỒN vấn đề để duy trì sự tồn tại
+- **Institutional Inertia**: QUÁN TÍNH cấu trúc - tổ chức kháng cự thay đổi
+- **Self-Perpetuation**: CƠ CHẾ tự duy trì trong quá trình tiến hóa
+- **Solution Lock-in**: Bị KHÓA trong vai trò "giải pháp" ban đầu
+
+→ **Liên kết nội bộ:** NAVIGATION (Strategy Review)
+→ **Công cụ phân tích:** OPERATIONS #36 (Shirky Principle trong decision-making)
+→ **Các mẫu hình tương tự:** Liên quan đến các động lực tiến hóa và thay đổi tổ chức
 
 #### **46. Conway's Law** - Định Luật Conway
 
@@ -9649,16 +9653,21 @@ Các nguyên tắc và chiến lược đầu tư thông minh dài hạn.
 
 → **Liên kết:** OPERATIONS (Hanlon's Razor), VALIDATION (Attribution Analysis)
 
-#### **36. Shirky Principle** - Nguyên Tắc Shirky
+#### **36. Shirky Principle - Nguyên Tắc Shirky [Công Cụ Phát Hiện Bias]**
 
-"Institutions will try to preserve the problem to which they are the solution" - Các tổ chức sẽ cố gắng duy trì vấn đề mà họ là giải pháp.
+"Institutions will try to preserve the problem to which they are the solution"
 
-- **Self-Perpetuation**: Tự duy trì tồn tại.
-- **Problem Preservation**: Bảo tồn vấn đề.
-- **Organizational Bias**: Thiên kiến của tổ chức.
-- **Incentive Misalignment**: Sự không khớp về động lực.
+Đây là CÔNG CỤ PHÂN TÍCH trong decision frameworks - giúp NHẬN BIẾT thiên kiến tổ chức khi đánh giá các giải pháp, chiến lược hay quyết định về cải cách. Khác với góc nhìn động lực ở DYNAMICS, đây là HEURISTIC CẢNH BÁO.
 
-→ **Liên kết:** OPERATIONS (System Analysis), VALIDATION (Bias Detection)
+- **Self-Perpetuation**: THIÊN KIẾN tự duy trì trong ra quyết định
+- **Problem Preservation**: CẢNH BÁO về động cơ ngầm bảo tồn vấn đề
+- **Organizational Bias**: NHẬN DIỆN bias của tổ chức khi đề xuất giải pháp
+- **Incentive Misalignment**: PHÁT HIỆN sự lệch lạc động lực trong quyết định
+
+→ **Liên kết nội bộ:** VALIDATION (Bias Detection)
+→ **Mẫu hình gốc:** DYNAMICS #45 (Shirky Principle - evolution pattern)
+→ **Các công cụ tương tự:** OPERATIONS (Hanlon's Razor #35)
+→ **Ứng dụng:** Khi phân tích đề xuất từ bộ phận nội bộ, luôn hỏi: "Họ có lợi ích gì trong việc duy trì vấn đề này?"
 
 #### **37. Actor-Observer Bias** - Thiên Kiến Người Hành Động-Người Quan Sát
 
