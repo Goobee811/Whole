@@ -4817,16 +4817,32 @@ Sự thay đổi đột ngột từ một trạng thái ổn định sang trạn
 
 → **Liên kết:** DYNAMICS (Phase Transitions), VALIDATION (State Monitoring)
 
-#### **20. Adaptive Management** - Quản Lý Thích Ứng
+#### **20. Adaptive Management - Quản Lý Thích Ứng [Hệ Thống & Nhận Thức]**
 
-Phương pháp quản lý coi các hành động như thí nghiệm và học hỏi từ kết quả.
+Phương pháp quản lý và ra quyết định trong môi trường phức tạp, coi mọi hành động
+như thí nghiệm để học hỏi và điều chỉnh liên tục. Áp dụng cho cả quản lý hệ thống
+(system-level) và tư duy cá nhân (cognitive-level).
 
-- **Structured Learning**: Học có cấu trúc
-- **Iterative Adjustment**: Điều chỉnh lặp lại
-- **Experimental Approach**: Tiếp cận thử nghiệm
-- **Feedback Integration**: Tích hợp phản hồi
+**A. Cấp độ Hệ thống (System Evolution):**
+• Structured Learning: Học có cấu trúc từ kết quả hệ thống
+• Experimental Approach: Coi quản lý như một chuỗi thí nghiệm
+• System Feedback: Thu thập và phân tích phản hồi từ hệ thống
 
-→ **Liên kết:** VALIDATION (Continuous Learning), OPERATIONS (Iterative Process)
+**B. Cấp độ Nhận thức (Cognitive Flexibility):**
+• Learn by Doing: Học qua hành động trong bất định
+• Experimental Mindset: Tư duy thử nghiệm, chấp nhận thất bại
+• Decision Agility: Linh hoạt trong ra quyết định
+
+**C. Nguyên tắc chung:**
+• Iterative Adjustment: Điều chỉnh lặp lại dựa trên phản hồi
+• Feedback Integration: Tích hợp phản hồi vào chu kỳ tiếp theo
+• Uncertainty Navigation: Điều hướng hiệu quả trong bất định
+• Safe-to-Fail Experiments: Thiết kế thử nghiệm an toàn để học hỏi
+
+→ **Liên kết nội bộ:** VALIDATION (Continuous Learning), OPERATIONS (Iterative Process)
+→ **Liên kết cross-domain:** NAVIGATION (Adaptive Navigation), CREATION (Experimental Design)
+→ **Ứng dụng thực tế:** Quản lý hệ sinh thái, phát triển sản phẩm, lãnh đạo tổ chức,
+   ra quyết định cá nhân trong môi trường VUCA
 
 #### **21. System Archetypes** - Các Nguyên Mẫu Hệ Thống
 
@@ -5910,17 +5926,6 @@ Ra quyết định trong các tình huống có nhiều biến số tương tác
 - **Systemic Thinking**: Tư duy hệ thống
 
 → **Liên kết:** OPERATIONS (Complex Decision Making), DYNAMICS (Complexity)
-
-#### **54. Adaptive Management** - Quản Lý Thích Ứng
-
-Phương pháp lặp để ra quyết định dưới sự bất định.
-
-- **Learn by Doing**: Học bằng cách làm
-- **Feedback Integration**: Tích hợp phản hồi
-- **Iterative Adjustment**: Điều chỉnh lặp
-- **Experimental Mindset**: Tư duy thử nghiệm
-
-→ **Liên kết:** VALIDATION (Continuous Learning), OPERATIONS (Iterative Process)
 
 ---
 
