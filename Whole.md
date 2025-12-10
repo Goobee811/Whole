@@ -5720,16 +5720,26 @@ Trạng thái khó chịu khi giữ các niềm tin, ý tưởng hoặc giá tr�
 
 → **Liên kết:** VALIDATION (Consistency Check), INTEGRATION (Belief Integration)
 
-#### **29. Conceptual Blending** - Pha Trộn Khái Niệm
+#### **29. Conceptual Blending** - Pha Trộn Khái Niệm [Năng Lực Nhận Thức]
 
-Quá trình kết hợp các yếu tố từ các không gian tâm trí khác nhau để tạo ra ý nghĩa mới.
+Khả năng nhận thức động để kết hợp các yếu tố từ các không gian tâm trí khác nhau nhằm tạo ra ý nghĩa mới. Đây là NĂNG LỰC CƠ BẢN của tư duy linh hoạt - khả năng di chuyển và hợp nhất các không gian khái niệm một cách tự nhiên.
 
-- **Input Spaces**: Các không gian đầu vào
-- **Generic Space**: Không gian chung
-- **Blended Space**: Không gian pha trộn với thuộc tính đột sinh
-- **Emergent Structure**: Cấu trúc đột sinh từ sự pha trộn
+- **Input Spaces**: Các không gian đầu vào - nguồn khái niệm khác nhau
+- **Generic Space**: Không gian chung - cấu trúc trừu tượng liên kết
+- **Blended Space**: Không gian pha trộn - nơi tạo ra ý nghĩa mới
+- **Emergent Structure**: Cấu trúc đột sinh - thuộc tính không có trong inputs
 
 → **Liên kết:** CREATION (Creative Synthesis), INTEGRATION (Conceptual Integration)
+
+→ **Xuất hiện ở các domain khác:**
+  • CREATION #8 (công cụ sáng tạo chủ động)
+  • META #12 (kiến trúc không gian tư duy)
+  • INTEGRATION (Cross-Domain Synthesis)
+
+**Đặc điểm riêng ở DYNAMICS:**
+- Tập trung vào QUÁ TRÌNH ĐỘNG của việc chuyển đổi giữa các không gian
+- Nhấn mạnh LINH HOẠT NHẬN THỨC và khả năng mode-switching
+- Là một CHỨC NĂNG TỰ NHIÊN của tâm trí, không nhất thiết có chủ đích
 
 #### **30. Dual Coding** - Mã Hóa Kép
 
@@ -10067,16 +10077,26 @@ Sử dụng các yếu tố ngẫu nhiên để phá vỡ các khuôn mẫu tư 
 
 → **Liên kết:** CREATION (Lateral Thinking), DYNAMICS (Chaos as Creative Force)
 
-#### **8. Conceptual Blending** - Pha Trộn Khái Niệm
+#### **8. Conceptual Blending** - Pha Trộn Khái Niệm [Kỹ Thuật Sáng Tạo]
 
-Kết hợp các khái niệm, phép ẩn dụ hoặc mô hình từ các lĩnh vực khác nhau để tạo ra các thấu suốt mới.
+Kỹ thuật chủ động kết hợp các khái niệm, phép ẩn dụ hoặc mô hình từ các lĩnh vực khác nhau để tạo ra các thấu suốt mới và đột phá. Khác với năng lực tự nhiên ở DYNAMICS, đây là CÔNG CỤ SÁNG TẠO có chủ đích để sinh ra ý tưởng đổi mới.
 
-- **Cross-Domain Mapping**: Ánh xạ các cấu trúc từ một lĩnh vực sang lĩnh vực khác
-- **Metaphor Mining**: Khai thác các phép ẩn dụ để làm sáng tỏ vấn đề
-- **Emergent Structure**: Tạo ra các cấu trúc mới nổi lên từ sự pha trộn
-- **Novel Insight Generation**: Sinh ra các thấu suốt mới từ sự tương tác
+- **Cross-Domain Mapping**: Ánh xạ cấu trúc từ lĩnh vực này sang lĩnh vực khác
+- **Metaphor Mining**: Khai thác ẩn dụ để làm sáng tỏ vấn đề
+- **Emergent Structure**: Tạo cấu trúc mới nổi lên từ sự pha trộn
+- **Novel Insight Generation**: Sinh ra thấu suốt mới từ sự tương tác
 
 → **Liên kết:** FOUNDATIONS (Fractal Thinking), INTEGRATION (Conceptual Blending)
+
+→ **Gốc năng lực:** DYNAMICS #29 (Conceptual Blending - năng lực nhận thức)
+→ **Kiến trúc:** META #12 (Conceptual Blending Spaces - cấu trúc không gian)
+→ **Tương tự:** CREATION #3 (Bisociation - kết hợp xa lạ)
+
+**Đặc điểm riêng ở CREATION:**
+- Tập trung vào ỨNG DỤNG CỤ THỂ để tạo insight mới
+- Nhấn mạnh KỸ THUẬT và PHƯƠNG PHÁP có thể học được
+- Là CÔNG CỤ CHỦ ĐỘNG cho sáng tạo đột phá, không phải năng lực tự nhiên
+- Hướng đến tạo ra NOVELTY - cái mới chưa từng có
 
 #### **9. Inspiration Overdrive** - Cảm Hứng Siêu Tốc
 
@@ -28045,16 +28065,26 @@ Tạo ra các ngôn ngữ để nói về các ngôn ngữ khác hoặc về ch�
 
 → **Liên kết:** [META] LAYER (Reflexivity), INTEGRATION (Semantic Integration).
 
-#### **12. Conceptual Blending Spaces** - Không Gian Pha Trộn Khái Niệm
+#### **12. Conceptual Blending Spaces** - Không Gian Pha Trộn Khái Niệm [Kiến Trúc Meta]
 
-Các không gian tâm trí nơi các khái niệm từ các lĩnh vực khác nhau được pha trộn để tạo ra những hiểu biết mới.
+Các không gian tâm trí - framework kiến trúc để tổ chức và kết nối tri thức từ các lĩnh vực khác nhau. Khác với năng lực ở DYNAMICS và kỹ thuật ở CREATION, đây là về THIẾT KẾ CẤU TRÚC TƯ DUY ở cấp độ meta.
 
-- **Input Spaces**: Các không gian đầu vào.
-- **Generic Space**: Không gian chung.
-- **Blended Space**: Không gian pha trộn.
-- **Emergent Structure**: Cấu trúc đột sinh từ sự pha trộn.
+- **Input Spaces**: Các không gian đầu vào - thiết kế nguồn tri thức
+- **Generic Space**: Không gian chung - kiến trúc liên kết trừu tượng
+- **Blended Space**: Không gian pha trộn - nơi tổng hợp tri thức
+- **Emergent Structure**: Cấu trúc đột sinh - nguyên lý mới từ tích hợp
 
 → **Liên kết:** CREATION (Conceptual Blending), INTEGRATION (Cross-Domain Synthesis).
+
+→ **Năng lực nền tảng:** DYNAMICS #29 (khả năng nhận thức)
+→ **Ứng dụng thực hành:** CREATION #8 (công cụ sáng tạo)
+→ **Tích hợp:** INTEGRATION #12 (Knowledge Graph Architecture)
+
+**Đặc điểm riêng ở META:**
+- Tập trung vào THIẾT KẾ KIẾN TRÚC TƯ DUY
+- Nhấn mạnh CẤU TRÚC và TỔ CHỨC không gian tri thức
+- Là FRAMEWORK META để quan sát và tối ưu quá trình pha trộn
+- Hướng đến xây dựng HỆ THỐNG QUẢN LÝ TRI THỨC
 
 #### **13. Dialectical Frameworks** - Các Khung Biện Chứng
 
