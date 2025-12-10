@@ -787,16 +787,21 @@ Mô hình kinh tế cơ bản mô tả mối quan hệ giữa sự sẵn có c�
 
 → **Liên kết:** OPERATIONS (Game Theory), NAVIGATION (Market Dynamics)
 
-#### **15. Information Asymmetry** - Bất Đối Xứng Thông Tin
+#### **15. Information Asymmetry** - Bất Đối Xứng Thông Tin [Quy Luật Phổ Quát]
 
-Mô hình trong đó một bên trong một giao dịch có nhiều hoặc tốt hơn thông tin hơn bên kia.
+Quy luật phổ quát trong đó một bên trong một giao dịch hoặc tương tác có nhiều hoặc tốt hơn thông tin so với bên kia. Đây là MÔ HÌNH CƠ BẢN chi phối nhiều hiện tượng kinh tế, xã hội và sinh học - từ thị trường đến tiến hóa.
 
-- **Power Imbalance**: Sự mất cân bằng quyền lực phát sinh từ sự chênh lệch thông tin
-- **Adverse Selection**: Lựa chọn bất lợi; xảy ra trước giao dịch
-- **Moral Hazard**: Rủi ro đạo đức; xảy ra sau giao dịch
-- **Signaling & Screening**: Các cơ chế để giảm thiểu bất đối xứng (phát tín hiệu và sàng lọc)
+- **Power Imbalance**: Mất cân bằng quyền lực - CƠ CHẾ phát sinh từ chênh lệch
+- **Adverse Selection**: Lựa chọn bất lợi - VẤN ĐỀ trước giao dịch
+- **Moral Hazard**: Rủi ro đạo đức - VẤN ĐỀ sau giao dịch
+- **Signaling & Screening**: Phát tín hiệu & sàng lọc - CƠ CHẾ giảm thiểu
 
-→ **Liên kết:** VALIDATION (Signal-Noise Separation), AMPLIFICATION (Network Effects)
+→ **Liên kết nội bộ:** VALIDATION (Signal-Noise Separation)
+→ **Khai thác chiến lược:** AMPLIFICATION #11 (như công cụ đòn bẩy)
+→ **Ứng dụng thực hành:** OPERATIONS (Game Theory), NAVIGATION (Market Dynamics)
+→ **Liên quan:** FOUNDATIONS #16 (Signaling Theory - cơ chế truyền tín hiệu)
+
+🔍 **Góc nhìn ở domain này:** "ĐÂY LÀ CÁCH THẾ GIỚI HOẠT ĐỘNG - hiểu để không bị lợi dụng"
 
 #### **16. Signaling Theory** - Lý Thuyết Tín Hiệu
 
@@ -21264,15 +21269,21 @@ Sử dụng vốn (của mình hoặc vay) để kiểm soát tài sản lớn h
 - **Strategic Investment**: Đầu tư chiến lược để tạo ra giá trị dài hạn.  
     → **Liên kết:** NAVIGATION (Financial Strategy), VALIDATION (Risk Management).
 
-#### **11. Information Asymmetry** - Bất Cân Xứng Thông Tin
+#### **11. Information Asymmetry** - Bất Cân Xứng Thông Tin [Đòn Bẩy Chiến Lược]
 
-Lợi thế có được khi biết điều mà người khác không biết.
+Lợi thế chiến lược có được khi biết điều mà người khác không biết. Đây là một trong những ĐÒNG BẨY MẠNH NHẤT - có thể biến kiến thức thành quyền lực, thông tin thành lợi nhuận, và hiểu biết thành ảnh hưởng.
 
-- **Knowledge as Power**: Kiến thức là sức mạnh; thông tin tốt hơn dẫn đến quyết định tốt hơn.
-- **Market Inefficiencies**: Sự không hiệu quả của thị trường do thông tin không đối xứng.
-- **Strategic Intelligence**: Tình báo chiến lược; thu thập và phân tích thông tin có giá trị.
-- **Early Access**: Tiếp cận sớm với thông tin hoặc công nghệ mới.  
-    → **Liên kết:** NAVIGATION (Strategic Advantage), VALIDATION (Information Gathering).
+- **Knowledge as Power**: Kiến thức là sức mạnh - KHAI THÁC để ra quyết định tốt hơn
+- **Market Inefficiencies**: Không hiệu quả thị trường - CƠ HỘI từ chênh lệch thông tin
+- **Strategic Intelligence**: Tình báo chiến lược - CÔNG CỤ thu thập & phân tích
+- **Early Access**: Tiếp cận sớm - LỢI THẾ của người đi đầu
+
+→ **Liên kết nội bộ:** NAVIGATION (Strategic Advantage), VALIDATION (Information Gathering)
+→ **Gốc lý thuyết:** FOUNDATIONS #15 (quy luật phổ quát về bất đối xứng)
+→ **Công cụ liên quan:** AMPLIFICATION #12 (Positioning & Branding - tạo nhận thức)
+→ **Tích hợp:** OPERATIONS (Competitive Intelligence), NAVIGATION (First-Mover Advantage)
+
+⚔️ **Góc nhìn ở domain này:** "ĐÂY LÀ VŨ KHÍ - học cách khai thác để thắng"
 
 #### **12. Positioning & Branding** - Định Vị & Xây Dựng Thương Hiệu
 
