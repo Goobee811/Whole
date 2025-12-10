@@ -5550,16 +5550,19 @@ Cách thức thông tin được trình bày ảnh hưởng đến quyết đị
 
 → **Liên kết:** OPERATIONS (Communication), VALIDATION (Bias Detection)
 
-#### **15. Analogical Reasoning** - Suy Luận Tương Tự
+#### **15. Analogical Reasoning - Suy Luận Tương Tự [Năng Lực Linh Hoạt]**
 
-Quá trình chuyển giao kiến thức từ một lĩnh vực sang lĩnh vực khác dựa trên sự tương đồng cấu trúc.
+Khả năng linh hoạt chuyển giao kiến thức và mẫu hình giữa các lĩnh vực khác nhau thông qua nhận dạng tương đồng cấu trúc. Đây là NĂNG LỰC ĐỘNG của trí tuệ - khả năng nhảy nhịp giữa các ngữ cảnh và nhìn ra các kết nối ẩn giấu.
 
-- **Structural Mapping**: Ánh xạ cấu trúc
-- **Cross-Domain Transfer**: Chuyển giao xuyên lĩnh vực
-- **Metaphorical Thinking**: Tư duy ẩn dụ
-- **Pattern Recognition Across Contexts**: Nhận dạng mẫu hình qua các ngữ cảnh
+- **Structural Mapping**: Ánh xạ cấu trúc - NĂNG LỰC nhận ra tương đồng sâu
+- **Cross-Domain Transfer**: Chuyển giao xuyên lĩnh vực - SỰ LINH HOẠT trong áp dụng
+- **Metaphorical Thinking**: Tư duy ẩn dụ - KHẢ NĂNG tư duy phi tuyến tính
+- **Pattern Recognition Across Contexts**: NĂNG LỰC thấy mẫu hình qua ranh giới
 
-→ **Liên kết:** CREATION (Innovation Through Analogy), INTEGRATION (Knowledge Transfer)
+→ **Liên kết nội bộ:** CREATION (Innovation Through Analogy), INTEGRATION (Knowledge Transfer)
+→ **Công cụ hóa:** OPERATIONS #4 (Analogical Reasoning - công cụ suy luận logic)
+→ **Nền tảng lý thuyết:** FOUNDATIONS #26 (Analogical Thinking - nguyên lý tương tự)
+→ **Ứng dụng sáng tạo:** CREATION #18 (Analogical Thinking - công cụ đổi mới)
 
 #### **16. Metacognition** - Siêu Nhận Thức
 
@@ -6909,16 +6912,19 @@ Hệ thống suy luận và kiến trúc logic để xây dựng lập luận ch
 
 → **Liên kết:** CREATION (Breakthrough Dynamics), VALIDATION (Hypothesis Testing)
 
-#### **4. Analogical Reasoning** - Suy Luận Tương Tự
+#### **4. Analogical Reasoning - Suy Luận Tương Tự [Công Cụ Phân Tích]**
 
-Rút ra kết luận về một sự vật dựa trên sự tương đồng của nó với một sự vật khác.
+Phương pháp suy luận logic có cấu trúc để rút ra kết luận về một đối tượng dựa trên sự tương đồng cấu trúc với đối tượng khác. Đây là CÔNG CỤ PHÂN TÍCH - một quy trình có hệ thống để ánh xạ và chuyển giao tri thức.
 
-- **Source-Target Mapping**: Ánh xạ các thuộc tính và quan hệ từ miền nguồn (đã biết) sang miền đích (chưa biết).
-- **Structural Similarity**: Tập trung vào sự tương đồng về cấu trúc và quan hệ hơn là sự giống nhau bề ngoài.
-- **Transfer of Knowledge**: Chuyển giao kiến thức từ một lĩnh vực sang lĩnh vực khác.
-- **Metaphor & Model Building**: Nền tảng của tư duy ẩn dụ và xây dựng mô hình.
+- **Source-Target Mapping**: Ánh xạ nguồn-đích - QUY TRÌNH có cấu trúc
+- **Structural Similarity**: Tương đồng cấu trúc - PHÂN TÍCH các thuộc tính
+- **Transfer of Knowledge**: Chuyển giao kiến thức - CƠ CHẾ logic
+- **Metaphor & Model Building**: CÔNG CỤ xây dựng mô hình và ẩn dụ
 
-→ **Liên kết:** CREATION (Metaphorical Thinking), INTEGRATION (Cross-Domain Synthesis)
+→ **Liên kết nội bộ:** CREATION (Metaphorical Thinking), INTEGRATION (Cross-Domain Synthesis)
+→ **Năng lực nền:** DYNAMICS #15 (Analogical Reasoning - năng lực linh hoạt)
+→ **Nguyên lý gốc:** FOUNDATIONS #26 (Analogical Thinking - tư duy tương tự)
+→ **Phương pháp logic:** OPERATIONS (các công cụ suy luận khác: Deductive, Inductive, Abductive)
 
 #### **5. Causal Reasoning** - Suy Luận Nhân Quả
 
