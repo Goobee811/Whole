@@ -42,16 +42,18 @@ Phân rã vấn đề về các chân lý cơ bản không thể chối cãi và
 
 → **Liên kết:** OPERATIONS (áp dụng trong Analytical Tools), CREATION (tạo ra đột phá)
 
-#### **2. Duality & Unity** - Nhị Nguyên & Thống Nhất
+#### **2. Duality & Unity [Nguyên Lý Bản Thể]** - Nhị Nguyên & Thống Nhất Trong Thực Tại
 
-Nguyên lý về sự tồn tại của các cặp đối lập và sự hợp nhất của chúng trong một tổng thể lớn hơn.
+Nguyên lý phổ quát về sự tồn tại của các cặp đối lập và sự hợp nhất của chúng trong một tổng thể lớn hơn. Đây là **QUY LUẬT BẢN THỂ** - mô tả **CƠ CHẾ HOẠT ĐỘNG** của thực tại, không phải hướng dẫn đạo đức.
 
 - **Complementary Opposites**: Các mặt đối lập không triệt tiêu mà bổ sung cho nhau (Âm-Dương)
 - **Tension & Resolution**: Năng lượng phát sinh từ sự căng thẳng giữa hai cực và được giải quyết ở một cấp độ cao hơn
 - **Integration into Wholeness**: Quá trình hợp nhất các mặt đối lập để đạt đến sự toàn vẹn và mạch lạc
 - **Coincidentia Oppositorum**: Sự trùng hợp của các mặt đối lập, nơi chúng bộc lộ bản chất thống nhất
 
-→ **Liên kết:** TRANSCENDENCE (Paradox Mastery), DYNAMICS (Transformation Dynamics)
+→ **Liên kết nội bộ:** TRANSCENDENCE (Paradox Mastery), DYNAMICS (Transformation Dynamics)
+→ **Ứng dụng đạo đức:** Xem FOUNDATIONS #3.1 (Unity in Diversity - Giá Trị Đạo Đức)
+→ **Ứng dụng thực hành:** TRANSCENDENCE (Both/And Thinking)
 
 #### **3. Emergence & Self-Organization** - Đột Sinh & Tự Tổ Chức [Nguyên Lý Phổ Quát]
 
@@ -1364,16 +1366,18 @@ Các giá trị cốt lõi và khung đạo đức cung cấp "la bàn đạo đ
 
 ### **Các Nguyên Tắc và Giá Trị Đạo Đức Nền Tảng**
 
-#### **1. Duality & Unity → Thống nhất trong đa dạng**
+#### **1. Unity in Diversity [Giá Trị Đạo Đức]** - Thống Nhất Trong Đa Dạng
 
-Nguyên tắc đạo đức thừa nhận giá trị của sự khác biệt đồng thời tìm kiếm sự hài hòa và mục đích chung lớn hơn.
+Nguyên tắc đạo đức thừa nhận giá trị của sự khác biệt đồng thời tìm kiếm sự hài hòa và mục đích chung lớn hơn. Khác với nguyên lý bản thể ở FOUNDATIONS #1.2, đây là **HƯỚNG DẪN HÀNH VI** - cách **ỨNG XỬ** với sự đa dạng và xây dựng sự thống nhất.
 
 - **Respect for Diversity**: Tôn trọng và công nhận giá trị của sự khác biệt trong quan điểm, văn hóa và kinh nghiệm.
 - **Search for Common Ground**: Chủ động tìm kiếm các mục tiêu và giá trị chung, ngay cả giữa các bên có vẻ đối lập.
 - **Holistic Perspective**: Ưu tiên lợi ích và sự lành mạnh của toàn bộ hệ thống hơn là lợi ích của các bộ phận riêng lẻ.
 - **Integrative Solutions**: Tìm kiếm các giải pháp "cả hai/và" (both/and) thay vì các giải pháp "hoặc là/hoặc là" (either/or), nhằm dung hòa các mặt đối lập.
 
-→ **Liên kết:** INTEGRATION (Systemic Integration), TRANSCENDENCE (Paradox Resolution)
+→ **Liên kết nội bộ:** INTEGRATION (Systemic Integration), TRANSCENDENCE (Paradox Resolution)
+→ **Gốc lý thuyết:** FOUNDATIONS #1.2 (Duality & Unity - Nguyên Lý Bản Thể)
+→ **Ứng dụng thực hành:** OPERATIONS (Collaborative Problem-Solving)
 
 #### **2. Causality & Interdependence → Trách nhiệm với hệ quả** [Ứng Dụng Đạo Đức]
 
