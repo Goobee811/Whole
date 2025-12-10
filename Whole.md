@@ -5120,16 +5120,40 @@ Nguyên lý ưu tiên những giải thích đơn giản nhất khi đối mặt
 → **Công cụ phân tích:** OPERATIONS #36 (Shirky Principle trong decision-making)
 → **Các mẫu hình tương tự:** Liên quan đến các động lực tiến hóa và thay đổi tổ chức
 
-#### **46. Conway's Law** - Định Luật Conway
+#### **46. Conway's Law** - Định Luật Conway [Định Luật Tiến Hóa Hệ Thống]
 
 "Các tổ chức thiết kế hệ thống phản ánh cấu trúc giao tiếp của chính họ."
 
-- **Structure Mirrors Communication**: Cấu trúc phản ánh giao tiếp
-- **Organizational Design**: Thiết kế tổ chức
-- **System Architecture**: Kiến trúc hệ thống
-- **Communication Patterns**: Mẫu hình giao tiếp
+Đây là một ĐỊNH LUẬT TỰ NHIÊN về sự tiến hóa của hệ thống phức tạp, được phát hiện bởi Melvin Conway (1967). Nó giải thích tại sao kiến trúc kỹ thuật không thể tách rời khỏi cấu trúc xã hội tạo ra nó.
 
-→ **Liên kết:** OPERATIONS (System Design), INTEGRATION (Organizational Structure)
+- **Structure Mirrors Communication**: Cấu trúc hệ thống BẮT BUỘC phản ánh mẫu hình giao tiếp của tổ chức
+- **Communication Patterns Define Architecture**: Ranh giới của team = ranh giới của module/service
+- **Organizational Design Impact**: Muốn thay đổi kiến trúc → phải thay đổi cấu trúc tổ chức
+- **System Architecture Evolution**: Hệ thống tiến hóa theo cách tổ chức tiến hóa
+
+→ **Liên kết nội bộ:**
+  - OPERATIONS (System Design, Systems Thinking)
+  - INTEGRATION (Organizational Structure, Systemic Integration)
+
+→ **Ứng dụng trong các domain khác:**
+  - **VALIDATION**: Dùng làm công cụ kiểm chứng chất lượng thiết kế
+    • Phát hiện "bad smells" trong kiến trúc
+    • Đánh giá sự khớp giữa org structure và system architecture
+    • Dự đoán các vấn đề tiềm ẩn từ cấu trúc giao tiếp
+
+  - **NAVIGATION**: Dùng làm nguyên tắc thiết kế tổ chức
+    • "Inverse Conway Maneuver" - thiết kế org structure để có kiến trúc mong muốn
+    • Team Topologies - tối ưu cấu trúc team cho kiến trúc mục tiêu
+
+→ **Các khái niệm liên quan:**
+  - Brooks's Law (VALIDATION #41): về khó khăn khi mở rộng team
+  - Team Topologies: về thiết kế cấu trúc team tối ưu
+  - Modular Architecture: về thiết kế hệ thống theo module
+
+→ **Các case studies nổi tiếng:**
+  - Amazon's microservices → two-pizza teams
+  - Spotify's squads → autonomous services
+  - Microsoft's Windows → layered architecture theo org structure
 
 #### **47. Hofstadter's Law** - Định Luật Hofstadter
 
@@ -20300,13 +20324,21 @@ CÔNG CỤ KIỂM CHỨNG: Sử dụng tuổi thọ hiện tại như một heur
 - **Bottom-Up Design**: Thiết kế từ dưới lên.
 → **Liên kết:** CREATION (Iterative Design), DYNAMICS (Emergence & Self-Organization)
 
-#### **50. Conway's Law** - Định Luật Conway
-"Các tổ chức thiết kế hệ thống phản ánh cấu trúc giao tiếp của chính họ."
-- **Structure-Design Mirror**: Cấu trúc phản chiếu thiết kế.
-- **Communication Patterns**: Các mẫu giao tiếp.
-- **Organizational Impact**: Tác động tổ chức.
-- **System Architecture**: Kiến trúc hệ thống.
-→ **Liên kết:** INTEGRATION (Systemic Integration), OPERATIONS (Systems Thinking)
+#### **50. [REMOVED - See DYNAMICS #46]**
+
+Conway's Law đã được di chuyển hoàn toàn sang DYNAMICS (Domain 2, #46) vì đây là bản chất của nó - một ĐỊNH LUẬT về tiến hóa hệ thống.
+
+Để sử dụng Conway's Law như một CÔNG CỤ KIỂM CHỨNG trong VALIDATION:
+→ Xem DYNAMICS #46 để hiểu định luật
+→ Áp dụng như một heuristic để:
+  • Phát hiện misalignment giữa org structure và system architecture
+  • Đánh giá rủi ro từ cấu trúc giao tiếp kém
+  • Dự đoán điểm yếu trong thiết kế hệ thống
+
+Các công cụ kiểm chứng liên quan vẫn còn trong VALIDATION:
+• Organizational Analysis (Shirky Principle #48)
+• System Architecture Review
+• Team Structure Assessment
 
 #### **51. Amara's Law** - Định Luật Amara
 "Chúng ta có xu hướng đánh giá quá cao tác động của công nghệ trong ngắn hạn và đánh giá thấp tác động trong dài hạn."
