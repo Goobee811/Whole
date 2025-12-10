@@ -4638,16 +4638,26 @@ Mối quan hệ trong đó một đại lượng thay đổi theo lũy thừa c�
 
 → **Liên kết:** AMPLIFICATION (Winner-Take-All), VALIDATION (Risk Distribution)
 
-#### **5. Network Effects** - Hiệu Ứng Mạng Lưới
+#### **5. Network Effects** - Hiệu Ứng Mạng Lưới [HIỆN TƯỢNG TIẾN HÓA]
 
-Hiện tượng giá trị của một sản phẩm hoặc dịch vụ tăng lên khi có nhiều người sử dụng nó.
+Một MẪU HÌNH TIẾN HÓA quan trọng trong các hệ thống phức tạp: giá trị tăng theo số lượng kết nối. Đây là hiện tượng tự nhiên xuất hiện trong nhiều hệ thống - từ sinh thái, xã hội, đến công nghệ.
 
-- **Direct Network Effects**: Hiệu ứng mạng lưới trực tiếp
-- **Indirect Network Effects**: Hiệu ứng mạng lưới gián tiếp
-- **Critical Mass**: Khối lượng tới hạn
-- **Network Topology Impact**: Tác động của cấu trúc mạng lưới
+**Đặc điểm như một Evolution Pattern:**
+- **Self-Reinforcing Growth**: Tăng trưởng tự củng cố tự nhiên
+- **Critical Mass Dynamics**: Động lực khối lượng tới hạn trong tiến hóa
+- **Path Dependence Link**: Liên kết với phụ thuộc đường đi
+- **Coevolution Driver**: Động cơ của đồng tiến hóa
 
-→ **Liên kết:** AMPLIFICATION (Scaling Dynamics), INTEGRATION (Ecosystem Building)
+→ **Liên kết nội bộ:**
+  • Power Laws #4 (phân phối tích lũy)
+  • Tipping Points #6 (ngưỡng tới hạn)
+  • Path Dependence #7 (khóa lịch sử)
+  • Coevolution #8 (tiến hóa cùng nhau)
+
+→ **🔍 ĐỂ NGHIÊN CỨU CHUYÊN SÂU VỀ NETWORK EFFECTS:**
+   **Xem AMPLIFICATION - Chức năng 1 (25 khái niệm chi tiết)**
+   Bao gồm: Metcalfe's Law, Platform Dynamics, Direct/Indirect Effects,
+   Data Network Effects, Community Building, Viral Mechanics, v.v.
 
 #### **6. Tipping Points** - Điểm Bùng Phát
 
@@ -20405,6 +20415,9 @@ _Miền này khám phá các nguyên lý và cơ chế tạo ra sự tăng trư�
 ---
 
 ## **CHỨC NĂNG 1: NETWORK EFFECTS & SCALING**
+
+> **📖 Ghi chú về cấu trúc tri thức:**
+> Network Effects xuất hiện như một **MẪU HÌNH TIẾN HÓA** cơ bản ở DYNAMICS (#5), nhưng được nghiên cứu CHUYÊN SÂU ở đây như một **CÔNG CỤ KHUẾCH ĐẠI CHIẾN LƯỢC**. Đây là ví dụ về cách một hiện tượng tự nhiên được khai thác có chủ đích để tạo ra tác động theo cấp số nhân.
 
 ### **Tổng Quan**
 
