@@ -3731,16 +3731,11 @@ Mô hình trong đó các giai đoạn khủng hoảng hoặc mâu thuẫn sâu 
 
 → **Liên kết:** VALIDATION (Stress Testing), CREATION (Breakthrough Innovation)
 
-#### **10. Oscillation & Pulsation** - Dao Động & Mạch Động
+#### **10. Oscillation & Pulsation** → [XEM #27] - Reference Stub
 
-Chuyển động qua lại giữa các trạng thái đối lập, tạo ra nhịp điệu và năng lượng của sự sống.
+**Khái niệm này đã được GỘP vào #27 (System Evolution Patterns)** để tránh trùng lặp và tăng tính mạch lạc.
 
-- **Systolic-Diastolic Pattern**: Mẫu hình co giãn như tim đập
-- **Breathing Rhythm**: Nhịp thở vào-thở ra của hệ thống
-- **Expansion-Contraction Cycle**: Chu kỳ mở rộng và thu hẹp
-- **Pulse as Life Force**: Mạch đập như lực sống của hệ thống
-
-→ **Liên kết:** FOUNDATIONS (Polarity), INTEGRATION (Rhythmic Balance)
+→ **Xem chi tiết tại:** DYNAMICS #27 (Oscillation & Pulsation - Mẫu Hình Chuyển Động)
 
 #### **11. Disruptive Innovation Dynamics** - Động Lực Đổi Mới Đột Phá
 
@@ -4901,16 +4896,25 @@ Trạng thái cân bằng động giữa các lực đối lập.
 
 → **Liên kết:** FOUNDATIONS (Polarity), INTEGRATION (Harmony)
 
-#### **27. Oscillation** - Dao Động
+#### **27. Oscillation & Pulsation** - Dao Động & Mạch Động [Mẫu Hình Chuyển Động]
 
-Chuyển động qua lại giữa các trạng thái hoặc giá trị khác nhau theo một mẫu hình lặp lại có chu kỳ.
+Mẫu hình chuyển động qua lại giữa các trạng thái đối lập theo chu kỳ - một nguyên lý phổ biến từ vật lý đến sinh học, tâm lý và xã hội. Dao động tạo ra nhịp điệu và năng lượng cho sự sống, từ mạch đập tim, nhịp thở, đến chu kỳ kinh tế và văn hóa.
 
+**Biểu hiện sinh học & tâm lý:**
+- **Systolic-Diastolic Pattern**: Mẫu hình co-giãn (tim đập, hơi thở)
+- **Expansion-Contraction Cycle**: Chu kỳ mở rộng - thu hẹp
+- **Pulse as Life Force**: Mạch đập như lực sống của hệ thống
+- **Breathing Rhythm**: Nhịp thở vào-thở ra của hệ thống
+
+**Biểu hiện vật lý & hệ thống:**
 - **Rhythmic Movement**: Chuyển động nhịp nhàng, có quy luật
 - **Cyclic Pattern**: Mẫu hình chu kỳ lặp lại
 - **Wave Dynamics**: Động lực sóng - chuyển động theo dạng sóng
 - **Periodic Fluctuation**: Dao động định kỳ với chu kỳ xác định
 
-→ **Liên kết:** FOUNDATIONS (Cycles & Rhythms), DYNAMICS (Rhythmic Patterns)
+→ **Liên kết:** FOUNDATIONS (Cycles & Rhythms, Polarity), INTEGRATION (Rhythmic Balance)
+
+→ **Ứng dụng trong tư duy:** OPERATIONS #52 (Oscillation - phương pháp xen kẽ giải quyết vấn đề)
 
 #### **28. Convergence** - Hội Tụ
 
@@ -8065,16 +8069,21 @@ Phương pháp thay đổi góc nhìn hoặc khung tham chiếu.
 
 → **Liên kết:** CREATION (Reframing), META (Perspective Taking)
 
-#### **52. Oscillation** - Dao Động
+#### **52. Oscillation** - Dao Động [Phương Pháp Tư Duy]
 
-Phương pháp xen kẽ hoặc chuyển đổi giữa các trạng thái hoặc phương pháp.
+Phương pháp TƯ DUY xen kẽ hoặc chuyển đổi giữa các trạng thái, phương pháp hoặc góc nhìn khác nhau trong giải quyết vấn đề. Khác với dao động VẬT LÝ ở DYNAMICS, đây là KỸ THUẬT NHẬN THỨC - chủ động sử dụng chuyển động biện chứng để đạt hiểu biết sâu hơn.
 
-- **Alternating States**: Xen kẽ giữa các trạng thái khác nhau.
-- **Cyclic Switching**: Chuyển đổi theo chu kỳ.
-- **Rhythmic Variation**: Biến đổi theo nhịp điệu.
-- **Dialectical Movement**: Chuyển động biện chứng giữa các đối cực.
+**Các hình thức dao động tư duy:**
+- **Alternating States**: Xen kẽ giữa Analysis ↔ Synthesis, Focus ↔ Diffuse
+- **Cyclic Switching**: Chuyển đổi theo chu kỳ giữa System 1 ↔ System 2 thinking
+- **Rhythmic Variation**: Biến đổi nhịp điệu giữa các mô hình tư duy
+- **Dialectical Movement**: Chuyển động biện chứng giữa các đối cực
 
-→ **Liên kết:** DYNAMICS (Oscillation), FOUNDATIONS (Rhythmic Patterns)
+→ **Liên kết:** OPERATIONS (Analysis ↔ Synthesis, System 1 ↔ System 2)
+
+→ **Gốc nguyên lý:** DYNAMICS #27 (Oscillation - mẫu hình vật lý của dao động)
+
+→ **Ứng dụng nâng cao:** [META] LAYER (Meta-Cognitive Flexibility)
 
 #### **53. Mental Models** - Mô Hình Tinh Thần
 
