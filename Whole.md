@@ -5564,15 +5564,28 @@ Khả năng linh hoạt chuyển giao kiến thức và mẫu hình giữa các 
 → **Nền tảng lý thuyết:** FOUNDATIONS #26 (Analogical Thinking - nguyên lý tương tự)
 → **Ứng dụng sáng tạo:** CREATION #18 (Analogical Thinking - công cụ đổi mới)
 
-#### **16. Metacognition** - Siêu Nhận Thức
+#### **16. Metacognition** - Siêu Nhận Thức [Trong Linh Hoạt Nhận Thức]
 
-Nhận thức và điều khiển các quá trình tư duy của chính mình.
+Sử dụng siêu nhận thức như CÔNG CỤ để phát triển và thực hành sự linh hoạt nhận thức. Khác với khái niệm nền tảng ở META LAYER, đây là về ỨNG DỤNG metacognition trong ĐỘNG LỰC thay đổi và thích ứng tư duy.
 
-- **Self-Monitoring**: Tự giám sát quá trình tư duy
-- **Self-Regulation**: Tự điều chỉnh chiến lược nhận thức
-- **Strategic Planning**: Lập kế hoạch chiến lược cho việc học và giải quyết vấn đề
-- **Reflection**: Suy ngẫm về quá trình và kết quả tư duy
+**Vai trò trong Cognitive Flexibility:**
+- **Self-Monitoring**: Giám sát khả năng chuyển đổi giữa các mode tư duy
+- **Self-Regulation**: Điều chỉnh để duy trì linh hoạt nhận thức
+- **Strategic Planning**: Lập kế hoạch cho việc phát triển flexibility
+- **Reflection**: Phản tư về quá trình chuyển đổi và thích ứng
 
+**Khác biệt với META LAYER:**
+- META LAYER: Metacognition là BẢN CHẤT, là nền tảng toàn hệ thống
+- DYNAMICS: Metacognition là CÔNG CỤ để thực hành linh hoạt
+
+**Tích hợp trong DYNAMICS:**
+Metacognition giúp nhận ra:
+→ Khi nào cần chuyển từ Convergent sang Divergent thinking
+→ Đang ở chế độ tư duy nào (Analytic vs Holistic, Focused vs Diffuse)
+→ Cách tối ưu hóa khả năng chuyển đổi giữa các mode
+
+→ **Gốc lý thuyết:** META LAYER #1 (Metacognition - khái niệm nền tảng)
+→ **Ứng dụng thực hành:** DYNAMICS (Cognitive Flexibility)
 → **Liên kết:** [META] LAYER (Meta-Awareness), VALIDATION (Self-Correction)
 
 #### **17. Cognitive Biases** - Thiên Lệch Nhận Thức
@@ -26107,16 +26120,38 @@ Chức năng này bao gồm các quy trình tư duy về chính tư duy - khả 
 
 ### **Các Khái Niệm Cốt Lõi**
 
-#### **1. Metacognition** - Siêu Nhận Thức
+#### **1. Metacognition** - Siêu Nhận Thức [Khái niệm Nền Tảng của Meta Layer]
 
-Khả năng suy nghĩ về chính quá trình tư duy của mình.
+Khả năng suy nghĩ về chính quá trình tư duy của mình - ĐÂY LÀ TÂM ĐIỂM CỐT LÕI của toàn bộ META LAYER. Metacognition là "hệ điều hành của hệ điều hành", cho phép tự quan sát, tự điều chỉnh và tự tối ưu hóa mọi quá trình nhận thức.
 
-- **Self-Monitoring**: Tự giám sát; quan sát các hoạt động nhận thức của bản thân trong thời gian thực.
-- **Strategy Selection**: Lựa chọn chiến lược; chủ động chọn các công cụ tư duy phù hợp với nhiệm vụ.
-- **Cognitive Calibration**: Hiệu chỉnh nhận thức; điều chỉnh mức độ tự tin cho phù hợp với bằng chứng.
-- **Process Optimization**: Tối ưu hóa quy trình; tinh chỉnh và cải thiện cách thức tư duy.
+**CẤP ĐỘ CƠ BẢN:**
+- **Self-Monitoring**: Tự giám sát - quan sát hoạt động nhận thức trong real-time
+- **Strategy Selection**: Lựa chọn chiến lược - chọn công cụ tư duy phù hợp
+- **Cognitive Calibration**: Hiệu chỉnh nhận thức - điều chỉnh độ tự tin
+- **Process Optimization**: Tối ưu hóa quy trình - tinh chỉnh cách thức tư duy
 
-→ **Liên kết:** Tương tác với TẤT CẢ CÁC MIỀN để giám sát và điều khiển chúng.
+**CẤP ĐỘ MỞ RỘNG (Tích hợp từ Meta-Cognitive Awareness & Scientific Metacognition):**
+- **Executive Function Awareness**: Nhận thức về các chức năng điều hành
+- **Cognitive Strategy Repertoire**: Kho chiến lược nhận thức phong phú
+- **Self-Regulated Learning**: Học tập tự điều chỉnh
+- **Metacognitive Knowledge**: Tri thức về nhận thức và chiến lược
+- **Executive Monitoring**: Giám sát điều hành các hoạt động tư duy
+- **Cognitive Control**: Kiểm soát nhận thức
+- **Strategic Awareness**: Nhận thức chiến lược về mục tiêu và phương pháp
+- **Neural Correlates**: Các tương quan thần kinh của siêu nhận thức
+- **Metacognitive Monitoring & Control**: Giám sát và kiểm soát siêu nhận thức
+
+**VAI TRÒ TRUNG TÂM:**
+→ Tương tác với TẤT CẢ CÁC MIỀN để giám sát và điều khiển chúng
+→ Là nền tảng của tất cả các khái niệm khác trong META LAYER
+→ Khả năng "thinking about thinking" - recursive self-reference
+
+**Xuất hiện ở domain khác:**
+• DYNAMICS #16 (trong ngữ cảnh Cognitive Flexibility - công cụ thực hành)
+
+**Liên kết:**
+→ Nội bộ META LAYER: #2 (Meta-Learning), #3 (Meta-Cognitive Flexibility Awareness), #8 (Thinking About Thinking), các biến thể meta khác
+→ External: DYNAMICS (Mindfulness), OPERATIONS (Strategic Thinking, Executive Function, Cognitive Science), VALIDATION (Self-Correction, Scientific Method)
 
 #### **2. Meta-Learning** - Siêu Học Tập
 
@@ -26416,17 +26451,6 @@ Khái niệm về một trí tuệ toàn diện, xuyên suốt toàn bộ thực
 
 → **Liên kết:** INTEGRATION (Collective Intelligence), TRANSCENDENCE (Unity Consciousness).
 
-#### **28. Meta-Cognitive Awareness** - Nhận Thức Siêu Nhận Thức
-
-Khả năng giám sát và điều khiển các quá trình nhận thức ở cấp độ điều hành.
-
-- **Executive Monitoring**: Giám sát điều hành các hoạt động tư duy.
-- **Cognitive Control**: Kiểm soát nhận thức.
-- **Strategic Awareness**: Nhận thức chiến lược về mục tiêu và phương pháp.
-- **Self-Regulation Mastery**: Làm chủ khả năng tự điều chỉnh.
-
-→ **Liên kết:** [META] LAYER (Metacognition), OPERATIONS (Executive Function).
-
 #### **29. Meta-State Awareness** - Nhận Thức Về Siêu Trạng Thái
 
 Khả năng nhận biết và làm việc với các "trạng thái về trạng thái" - các trạng thái nhận thức bậc cao.
@@ -26500,17 +26524,6 @@ Ngành nghiên cứu về bản chất của tâm trí, ý thức và mối quan
 - **Qualia**: Chất tính chủ quan của kinh nghiệm.
 
 → **Liên kết:** FOUNDATIONS (Philosophy), TRANSCENDENCE (Consciousness).
-
-#### **35. Meta-cognition (Scientific)** - Siêu Nhận Thức (Khoa Học)
-
-Nghiên cứu khoa học về khả năng suy nghĩ về tư duy và giám sát nhận thức.
-
-- **Cognitive Science Research**: Nghiên cứu khoa học nhận thức.
-- **Neural Correlates**: Các tương quan thần kinh của siêu nhận thức.
-- **Metacognitive Monitoring**: Giám sát siêu nhận thức.
-- **Metacognitive Control**: Kiểm soát siêu nhận thức.
-
-→ **Liên kết:** OPERATIONS (Cognitive Science), VALIDATION (Scientific Method).
 
 #### **36. Cybernetics & Control Theory** - Điều Khiển Học & Lý Thuyết Kiểm Soát
 
