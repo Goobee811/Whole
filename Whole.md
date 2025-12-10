@@ -8138,7 +8138,7 @@ Phương pháp TƯ DUY xen kẽ hoặc chuyển đổi giữa các trạng thái
 
 → **Gốc nguyên lý:** DYNAMICS #27 (Oscillation - mẫu hình vật lý của dao động)
 
-→ **Ứng dụng nâng cao:** [META] LAYER (Meta-Cognitive Flexibility)
+→ **Ứng dụng nâng cao:** [META] LAYER (Meta-Cognitive Flexibility Awareness)
 
 #### **53. Mental Models** - Mô Hình Tinh Thần
 
@@ -26123,18 +26123,18 @@ Khả năng học về cách học, tối ưu hóa quy trình tiếp thu và tí
 
 → **Liên kết:** OPERATIONS (Learning Systems), NAVIGATION (Resource Management).
 
-#### **3. Cognitive Flexibility** - Linh Hoạt Nhận Thức
+#### **3. Meta-Cognitive Flexibility Awareness** - Nhận Thức về Linh Hoạt Nhận Thức
 
-Khả năng thích ứng tư duy và hành vi để đáp ứng với các yêu cầu hoặc môi trường thay đổi - chuyển đổi linh hoạt giữa các cách tư duy và thích ứng với bối cảnh mới.
+Khả năng NHẬN THỨC VỀ và GIÁM SÁT khả năng linh hoạt nhận thức của bản thân, cùng với khả năng ĐIỀU KHIỂN và TỐI ƯU HÓA quá trình linh hoạt ở cấp độ meta. Khác với khả năng thực hành ở DYNAMICS #11, đây là về QUAN SÁT và ĐIỀU CHỈNH chính quá trình linh hoạt.
 
-- **Set Shifting**: Chuyển đổi bộ quy tắc nhận thức
-- **Mode Switching / Mode Switching Ability**: Chuyển đổi giữa các chế độ tư duy (phân tích vs. sáng tạo, tập trung vs. lan tỏa) - khả năng chuyển đổi chế độ tư duy linh hoạt
-- **Perspective Taking**: Nhận lấy góc nhìn khác - chủ động áp dụng các quan điểm khác nhau
-- **Context Sensitivity / Contextual Adjustment**: Nhận biết và thích nghi với các yêu cầu nhận thức khác nhau của từng bối cảnh - điều chỉnh theo ngữ cảnh
-- **Mental Agility**: Sự nhanh nhẹn tinh thần - nhanh nhẹn trong việc điều chỉnh chiến lược tư duy
-- **Adaptive Thinking**: Tư duy thích ứng
+- **Set Shifting Awareness**: Nhận thức về khi nào cần chuyển đổi bộ quy tắc nhận thức
+- **Mode Switching Monitoring**: Giám sát khả năng chuyển đổi chế độ tư duy và chất lượng chuyển đổi
+- **Perspective-Taking Assessment**: Đánh giá hiệu quả việc thay đổi góc nhìn và quan điểm
+- **Context Sensitivity Calibration**: Hiệu chỉnh độ nhạy với ngữ cảnh và điều chỉnh phản ứng
+- **Mental Agility Optimization**: Tối ưu hóa sự nhanh nhẹn tinh thần và tốc độ điều chỉnh
+- **Adaptive Thinking Regulation**: Điều chỉnh và cải thiện chiến lược tư duy thích ứng
 
-→ **Liên kết:** NAVIGATION (Adaptive Strategy), DYNAMICS (Cognitive Flexibility), CREATION (Lateral Thinking).
+→ **Liên kết:** [META] LAYER (Metacognition), [META] LAYER (Self-Observation), DYNAMICS #11 (Cognitive Flexibility - khả năng thực hành).
 
 #### **4. Awareness of Bias** - Nhận Thức về Thiên Kiến
 
@@ -27679,7 +27679,7 @@ Khả năng thích ứng với chính quá trình thích ứng.
 - **Meta-Level Change**: Thay đổi cấp độ meta.
 - **Adaptive Capacity Building**: Xây dựng năng lực thích ứng.
 
-→ **Liên kết:** DYNAMICS (Evolution), [META] LAYER (Cognitive Flexibility).
+→ **Liên kết:** DYNAMICS (Evolution), [META] LAYER (Meta-Cognitive Flexibility Awareness).
 
 #### **18. Recursive Reasoning** - Suy Luận Đệ Quy
 
