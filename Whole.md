@@ -730,16 +730,29 @@ Nguyên lý vật lý phổ quát của Archimedes: "Cho tôi một điểm tự
 
 🔬 **Bản chất**: Đây là QUY LUẬT TỰ NHIÊN - một chân lý toán học và vật lý không thể thay đổi, nền tảng cho mọi ứng dụng về đòn bẩy.
 
-#### **11. Margin of Safety** - Biên An Toàn
+#### **11. Margin of Safety - Biên An Toàn** [Nguyên Lý Phổ Quát]
 
-Nguyên tắc tạo ra một vùng đệm giữa năng lực thực tế và giới hạn chịu đựng để phòng ngừa sai sót và các sự kiện không lường trước.
+NGUYÊN TẮC PHỔ QUÁT về việc tạo ra vùng đệm giữa năng lực thực tế và giới hạn chịu đựng - một QUY LUẬT TỰ NHIÊN xuất hiện ở mọi hệ thống sống và phi sinh học. Đây là CƠ CHẾ SINH TỒN cơ bản: từ tế bào đến xã hội, từ cầu đến dự án.
 
-- **Buffer Creation**: Tạo ra một vùng đệm, một khoảng trống cho sai số
-- **Risk Mitigation**: Giảm thiểu rủi ro từ các sai sót trong tính toán hoặc các biến cố bất ngờ
-- **Robustness**: Tăng cường sự vững chắc của một hệ thống hoặc quyết định
-- **Redundancy Principle**: Nguyên tắc dự phòng, một dạng của biên an toàn
+- **Buffer Creation**: NGUYÊN LÝ tạo khoảng trống cho sai số và bất định
+- **Risk Mitigation**: CƠ CHẾ tự nhiên để giảm thiểu rủi ro từ biến cố bất ngờ
+- **Robustness**: THUỘC TÍNH của hệ thống có khả năng chịu đựng cú sốc
+- **Redundancy Principle**: DỰ PHÒNG như biểu hiện của biên an toàn
 
-→ **Liên kết:** VALIDATION (Stress Testing), NAVIGATION (Risk Navigation)
+→ **Liên kết nội bộ:** VALIDATION (Stress Testing)
+→ **Ứng dụng thực hành:** NAVIGATION #21 (trong quản lý tài nguyên)
+→ **Nguồn gốc:**
+  • Engineering: Factor of Safety (hệ số an toàn)
+  • Finance: Benjamin Graham's Margin of Safety
+  • Biology: Physiological reserves (dự trữ sinh lý)
+  • Architecture: Load capacity buffers (đệm khả năng chịu tải)
+
+📌 **Ví dụ từ tự nhiên:**
+- Xương người: chịu được 5-10 lần trọng lượng cơ thể
+- Tim: bơm máu gấp 4-5 lần nhu cầu nghỉ ngơi
+- Não: sử dụng chỉ ~20% capacity thường xuyên
+
+🔬 **Bản chất**: Đây là QUY LUẬT TỰ NHIÊN - một chân lý toán học và vật lý không thể thay đổi, nền tảng cho mọi ứng dụng về biên an toàn.
 
 #### **12. Redundancy** - Dự Phòng
 
@@ -14015,16 +14028,34 @@ Công cụ trực quan để đánh giá và ưu tiên rủi ro.
 
 → **Liên kết:** VALIDATION (Risk Assessment), OPERATIONS (Risk Management).
 
-#### **21. Margin of Safety** - Biên Độ An Toàn
+#### **21. Margin of Safety - Biên Độ An Toàn** [Trong Quản Lý Tài Nguyên]
 
-Duy trì đệm bảo vệ để hấp thụ các cú sốc và sai số.
+ỨNG DỤNG của nguyên lý biên an toàn vào QUẢN LÝ TÀI NGUYÊN & ƯU TIÊN. Đây là CÔNG CỤ THỰC HÀNH để duy trì đệm bảo vệ trong phân bổ nguồn lực, giúp hấp thụ các cú sốc và sai số trong điều hướng chiến lược.
 
-- **Buffer Protection**: Đệm bảo vệ.
-- **Error Tolerance**: Khả năng chịu lỗi.
-- **Conservative Approach**: Tiếp cận thận trọng.
-- **Downside Protection**: Bảo vệ khỏi rủi ro giảm.
+- **Buffer Protection**: DUY TRÌ đệm trong ngân sách, thời gian, năng lượng
+- **Error Tolerance**: THIẾT KẾ khả năng chịu lỗi vào kế hoạch
+- **Conservative Approach**: CHIẾN LƯỢC thận trọng trong cam kết nguồn lực
+- **Downside Protection**: BẢO VỆ khỏi rủi ro giảm (portfolio theory)
 
-→ **Liên kết:** VALIDATION (Risk Mitigation), OPERATIONS (Safety Management).
+→ **Liên kết nội bộ:** VALIDATION (Risk Mitigation), OPERATIONS (Safety Management)
+→ **Gốc lý thuyết:** FOUNDATIONS #11 (Margin of Safety - nguyên lý phổ quát)
+→ **Công cụ cụ thể:**
+  • Financial: 10-15% budget buffer
+  • Time: 1.5x time estimates (Hofstadter's Law)
+  • Capacity: 80% rule (never commit 100%)
+  • Inventory: Safety stock levels
+
+📌 **Quy tắc áp dụng:**
+- **Tài chính:** Giữ 3-6 tháng chi tiêu khẩn cấp
+- **Thời gian:** Thêm 50% vào ước tính (planning fallacy)
+- **Năng lượng:** Giữ 20% năng lượng dự trữ mỗi ngày
+- **Commitments:** Chỉ cam kết 80% năng lực thực tế
+
+🎯 **Khi nào tăng biên an toàn:**
+1. Uncertainty cao (VUCA environment)
+2. Stakes cao (high-consequence decisions)
+3. Irreversibility cao (hard to undo)
+4. Complexity cao (nhiều phụ thuộc)
 
 #### **22. Signal Processing** - Xử Lý Tín Hiệu
 
