@@ -88,16 +88,22 @@ Nguyên lý phổ quát về việc đầu ra của một hệ thống quay tr�
   • VALIDATION #14 (thiết kế kiến trúc)
   • META #20, #38 (phản hồi về phản hồi)
 
-#### **5. Causality & Interdependence** - Nhân Quả & Tương Duyên
+#### **5. Causality & Interdependence** - Nhân Quả & Tương Duyên [Nguyên Lý Nền Tảng]
 
-**NGUYÊN LÝ NỀN TẢNG**: Quy luật tự nhiên cơ bản về mối quan hệ giữa nguyên nhân và kết quả, và sự thật rằng không có gì tồn tại một cách độc lập. Đây là **QUY LUẬT TỰ NHIÊN** - nền tảng của mọi suy luận nhân quả.
+**NGUYÊN LÝ NỀN TẢNG - LÝ THUYẾT**: Nguyên lý phổ quát về mối quan hệ giữa nguyên nhân và kết quả, và sự thật rằng không có gì tồn tại một cách độc lập. Đây là **NỀN TẢNG LÝ THUYẾT** để hiểu cách vũ trụ vận hành - mọi thứ đều kết nối và ảnh hưởng lẫn nhau.
 
-- **Action-Consequence Unity**: Sự thống nhất giữa hành động và kết quả, không có gì xảy ra mà không có nguyên nhân
-- **Dependent Origination**: Duyên khởi; mọi sự vật, hiện tượng đều do các điều kiện khác hợp thành, không có tự tính
-- **Web of Causation**: Mọi thứ tồn tại trong một mạng lưới nhân quả chằng chịt, một thay đổi nhỏ có thể lan truyền rộng
-- **Acausal Connection**: Khám phá các mối liên hệ phi nhân quả (ví dụ: Synchronicity - sự đồng thời)
+- **Action-Consequence Unity**: Sự thống nhất giữa hành động và kết quả - NGUYÊN LÝ cơ bản của thực tại
+- **Dependent Origination** (Duyên khởi): Mọi hiện tượng đều do các điều kiện khác hợp thành - KHÔNG CÓ TỰ TÍNH độc lập
+- **Web of Causation**: Mạng lưới nhân quả chằng chịt - MỘT THAY ĐỔI lan tỏa khắp hệ thống
+- **Acausal Connection**: Khám phá các mối liên hệ PHI NHÂN QUẢ (Synchronicity - sự đồng thời)
 
-→ **Liên kết nội bộ:** OPERATIONS (Reasoning Architectures), DYNAMICS (System Dynamics)
+→ **Liên kết nội bộ:**
+  • OPERATIONS (Reasoning Architectures) - áp dụng vào lý luận
+  • DYNAMICS (System Dynamics) - hiểu động lực học hệ thống
+
+→ **Ứng dụng đạo đức:**
+  • FOUNDATIONS Chức năng 3 #2 (Causality & Interdependence - Trách nhiệm với hệ quả) - chuyển hóa nguyên lý này thành HÀNH ĐỘNG có ý thức đạo đức
+
 → **Causality Constellation - Các biến thể:**
   • **Khả năng nhận thức:** DYNAMICS #47 (Causal Reasoning - chức năng tư duy)
   • **Công cụ phân tích:** OPERATIONS #5 (Causal Reasoning - phương pháp luận)
@@ -106,6 +112,8 @@ Nguyên lý phổ quát về việc đầu ra của một hệ thống quay tr�
   • **Công cụ trực quan:** OPERATIONS #22 (Causal Loop Diagrams)
   • **Vượt thoát:** TRANSCENDENCE #30 (Retroactive Causality)
   • **Meta-pattern:** META #12 (Causality Patterns)
+
+→ **Ghi chú:** Đây là NGUYÊN LÝ LÝ THUYẾT giải thích "thực tại VẬN HÀNH như thế nào". Để thấy cách áp dụng nguyên lý này vào trách nhiệm đạo đức, xem Chức năng 3 #2.
 
 #### **6. Cycles & Rhythms** - Chu Kỳ & Nhịp Điệu [Nguyên Lý Phổ Quát]
 
@@ -1367,19 +1375,24 @@ Nguyên tắc đạo đức thừa nhận giá trị của sự khác biệt đ�
 
 → **Liên kết:** INTEGRATION (Systemic Integration), TRANSCENDENCE (Paradox Resolution)
 
-#### **2. Causality & Interdependence → Trách nhiệm với hệ quả**
+#### **2. Causality & Interdependence → Trách nhiệm với hệ quả** [Ứng Dụng Đạo Đức]
 
-**ỨNG DỤNG ĐẠO ĐỨC CỦA NHÂN QUẢ**: Nguyên tắc đạo đức yêu cầu nhận thức và chịu trách nhiệm về các tác động lan tỏa của hành động của mình trong một thế giới kết nối. Đây là NGUYÊN LÝ ĐẠO ĐỨC xuất phát từ hiểu biết về nhân quả.
+**ỨNG DỤNG ĐẠO ĐỨC - THỰC HÀNH**: Nguyên tắc đạo đức được xây dựng từ nguyên lý Nhân Quả & Tương Duyên (Chức năng 1 #5), yêu cầu nhận thức và chịu trách nhiệm về các tác động lan tỏa của hành động trong một thế giới kết nối. Đây là chuyển hóa từ "hiểu biết về nhân quả" sang "trách nhiệm với hệ quả".
 
-- **Second-Order Thinking**: Suy xét vượt ra ngoài các kết quả tức thời để lường trước các tác động lâu dài và không mong muốn
-- **Systemic Accountability**: Chịu trách nhiệm không chỉ cho hành động của mình mà còn cho các hiệu ứng gợn sóng (ripple effects) mà chúng gây ra trong hệ thống
-- **Mindfulness of Interconnection**: Nhận thức sâu sắc rằng mọi hành động đều diễn ra trong một mạng lưới tương duyên, ảnh hưởng đến những người khác
-- **Action-Consequence Ownership**: Sở hữu hoàn toàn mối liên hệ giữa nguyên nhân (hành động của mình) và kết quả (hậu quả của nó)
+- **Second-Order Thinking**: Suy xét vượt ra ngoài kết quả tức thời - TRÁCH NHIỆM nhìn xa trông rộng
+- **Systemic Accountability**: Chịu trách nhiệm cho cả HIỆU ỨNG GỢN SÓNG (ripple effects) trong hệ thống
+- **Mindfulness of Interconnection**: Nhận thức sâu sắc rằng MỌI HÀNH ĐỘNG đều ảnh hưởng người khác
+- **Action-Consequence Ownership**: Sở hữu hoàn toàn MỐI LIÊN HỆ giữa nguyên nhân (hành động) và kết quả (hậu quả)
 
-→ **Liên kết nội bộ:** NAVIGATION (Second-Order Thinking), FOUNDATIONS (Causality & Interdependence)
+→ **Liên kết nội bộ:**
+  • NAVIGATION (Second-Order Thinking) - kỹ năng tư duy bậc hai
+  • FOUNDATIONS Chức năng 1 #5 (Causality & Interdependence - Nguyên lý) - nền tảng lý thuyết
+
 → **Gốc nguyên lý:** FOUNDATIONS #5 (Causality & Interdependence - quy luật nhân quả)
 → **Khả năng nhận thức:** DYNAMICS #47 (Causal Reasoning - hiểu nhân quả)
 → **Công cụ phân tích:** OPERATIONS #5 (Causal Reasoning - phân tích hệ quả)
+
+→ **Ghi chú:** Đây là ỨNG DỤNG ĐẠO ĐỨC của nguyên lý lý thuyết, hướng dẫn "chúng ta NÊN HÀNH ĐỘNG thế nào". Để hiểu NỀN TẢNG LÝ THUYẾT về nhân quả và tương duyên ("thực tại VẬN HÀNH như thế nào"), xem Chức năng 1 #5.
 
 #### **3. Observer Effect → Tự nhận thức về sự tham gia**
 
