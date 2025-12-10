@@ -397,16 +397,42 @@ Nguyên lý kép rằng trong mọi sự thay đổi, có những thứ được
 
 → **Liên kết:** DYNAMICS (Transformation Dynamics), VALIDATION (Consistency Check)
 
-#### **30. Agency & Communion** - Tác Nhân & Cộng Đồng
+#### **30. Agency & Communion - Tác Nhân & Cộng Đồng**
+**[Nguyên Lý Phổ Quát & Nguyên Tắc Đạo Đức]**
 
-Hai thôi thúc cơ bản và phổ quát của mọi thực thể: tự khẳng định bản thân như một cá thể độc lập (agency) và hòa nhập vào một tổng thể lớn hơn (communion).
+Hai thôi thúc cơ bản và phổ quát của mọi thực thể sống: tự khẳng định bản thân như một cá thể độc lập (agency) và hòa nhập vào một tổng thể lớn hơn (communion). Đây vừa là NGUYÊN LÝ TỰ NHIÊN mô tả hiện thực, vừa là NGUYÊN TẮC ĐẠO ĐỨC hướng dẫn hành vi.
 
-- **Self-Preservation Drive**: Thôi thúc tự bảo tồn và tự khẳng định
-- **Connection Drive**: Thôi thúc kết nối, thuộc về và tham gia
-- **Part/Whole Tension**: Sự căng thẳng động giữa việc là một bộ phận và là một tổng thể
-- **Autonomy/Integration Balance**: Sự cân bằng giữa tính tự chủ và sự tích hợp là dấu hiệu của một hệ thống lành mạnh
+**I. NGUYÊN LÝ TỰ NHIÊN (Descriptive - "IS"):**
 
-→ **Liên kết:** INTEGRATION (Personal & Systemic Integration), AMPLIFICATION (Network Effects)
+- **Self-Preservation Drive**: Thôi thúc tự bảo tồn và tự khẳng định - xu hướng duy trì ranh giới, bản sắc và tự chủ của bản thân
+- **Connection Drive**: Thôi thúc kết nối, thuộc về và tham gia - xu hướng hòa nhập vào các hệ thống lớn hơn, tìm kiếm ý nghĩa tập thể
+- **Part/Whole Tension**: Sự căng thẳng động giữa việc là một bộ phận và là một tổng thể - động lực tạo ra tiến hóa và sáng tạo
+- **Autonomy/Integration Balance**: Sự cân bằng giữa tính tự chủ và sự tích hợp là dấu hiệu của một hệ thống lành mạnh - từ tế bào đến xã hội
+
+**II. NGUYÊN TẮC ĐẠO ĐỨC (Prescriptive - "OUGHT"):**
+
+- **Individual Flourishing**: HỖ TRỢ sự phát triển và quyền tự chủ của mỗi cá nhân - tôn trọng agency như một giá trị đạo đức
+- **Collective Well-being**: HÀNH ĐỘNG vì lợi ích và sự thịnh vượng của cộng đồng hoặc hệ thống lớn hơn - communion như trách nhiệm đạo đức
+- **Synergistic Contribution**: TÌM CÁCH để sự thể hiện cá nhân độc đáo đóng góp một cách hiệp lực cho mục tiêu chung - hài hòa hai chiều
+- **Rights and Responsibilities**: CÂN BẰNG giữa quyền cá nhân và trách nhiệm đối với tập thể - giải quyết tension một cách đạo đức
+
+**III. LIÊN KẾT CROSS-DOMAIN:**
+
+→ Nguyên lý nền tảng: FOUNDATIONS (Duality & Unity), FOUNDATIONS (Holonic Theory)
+→ Ứng dụng thực hành: INTEGRATION (Personal & Systemic Integration), INTEGRATION (Individual-Collective Balance)
+→ Khuếch đại tác động: AMPLIFICATION (Network Effects - tension giữa nodes và network)
+→ Siêu nhận thức: META (Self & System - quan sát tension này ở cấp meta)
+→ Vượt thoát: TRANSCENDENCE (Unity Consciousness - hòa giải hai thôi thúc)
+
+**IV. GHI CHÚ QUAN TRỌNG:**
+
+⚠️ Khái niệm này từng xuất hiện ở hai vị trí trong FOUNDATIONS:
+  • Chức năng 1 #30 (First Principles) - góc nhìn nguyên lý tự nhiên
+  • Chức năng 3 #4 (Core Values & Ethics) - góc nhìn đạo đức ứng dụng
+
+✅ Đã được GỘP LẠI để tránh phân mảnh, nhưng giữ nguyên CẢ HAI CHIỀU HƯỚNG trong một mô tả thống nhất. Điều này phản ánh bản chất liên tục giữa "is" và "ought" trong triết học đạo đức tự nhiên.
+
+🔄 Đây là một ví dụ điển hình của **"Natural Law Ethics"** - nơi mà các nguyên tắc đạo đức được dẫn xuất từ quan sát về bản chất tự nhiên.
 
 ---
 
@@ -1409,18 +1435,7 @@ Nguyên tắc đạo đức về việc thừa nhận rằng chúng ta không ba
 
 → **Liên kết:** [META] LAYER (Meta-Cognition), VALIDATION (Bias Awareness)
 
-#### **4. Agency & Communion → Cân bằng cá nhân-cộng đồng**
-
-Nguyên tắc đạo đức về việc hài hòa giữa nhu cầu tự khẳng định bản thân và nhu cầu đóng góp cho một tổng thể lớn hơn.
-
-- **Individual Flourishing**: Hỗ trợ sự phát triển và quyền tự chủ của mỗi cá nhân.
-- **Collective Well-being**: Hành động vì lợi ích và sự thịnh vượng của cộng đồng hoặc hệ thống lớn hơn.
-- **Synergistic Contribution**: Tìm cách để sự thể hiện cá nhân độc đáo của mình đóng góp một cách hiệp lực cho mục tiêu chung.
-- **Rights and Responsibilities**: Cân bằng giữa quyền cá nhân và trách nhiệm đối với tập thể.
-
-→ **Liên kết:** INTEGRATION (Personal & Systemic Integration), AMPLIFICATION (Network Effects)
-
-#### **5. The Golden Rule → Đối xử tương hỗ**
+#### **4. The Golden Rule → Đối xử tương hỗ**
 
 Nguyên tắc đạo đức phổ quát về việc đối xử với người khác theo cách mà bạn muốn được đối xử, dựa trên sự đồng cảm và tôn trọng lẫn nhau.
 
@@ -1431,7 +1446,7 @@ Nguyên tắc đạo đức phổ quát về việc đối xử với người k
 
 → **Liên kết:** INTEGRATION (Collaborative Intelligence), FOUNDATIONS (Wisdom Traditions)
 
-#### **6. Ahimsa → Không làm hại**
+#### **5. Ahimsa → Không làm hại**
 
 Nguyên tắc đạo đức về việc tránh gây tổn hại một cách không cần thiết cho bất kỳ sinh vật nào, trong cả suy nghĩ, lời nói và hành động.
 
@@ -1442,7 +1457,7 @@ Nguyên tắc đạo đức về việc tránh gây tổn hại một cách khô
 
 → **Liên kết:** [META] LAYER (Ethical Frameworks), DYNAMICS (Emotional Regulation)
 
-#### **7. The Veil of Ignorance → Công bằng vô tư**
+#### **6. The Veil of Ignorance → Công bằng vô tư**
 
 Nguyên tắc đạo đức dựa trên một thí nghiệm tư duy: thiết kế các quy tắc xã hội từ một vị trí mà không biết vai trò của mình sẽ ở đâu, nhằm đảm bảo sự công bằng cho tất cả.
 
@@ -1453,7 +1468,7 @@ Nguyên tắc đạo đức dựa trên một thí nghiệm tư duy: thiết k�
 
 → **Liên kết:** INTEGRATION (Social Systems), OPERATIONS (Decision Frameworks)
 
-#### **8. Categorical Imperative → Phổ quát hóa hành động**
+#### **7. Categorical Imperative → Phổ quát hóa hành động**
 
 Nguyên tắc đạo đức yêu cầu chỉ hành động theo những quy tắc mà bạn có thể muốn chúng trở thành một quy luật phổ quát cho tất cả mọi người.
 
@@ -1464,7 +1479,7 @@ Nguyên tắc đạo đức yêu cầu chỉ hành động theo những quy tắ
 
 → **Liên kết:** OPERATIONS (Reasoning Architectures), [META] LAYER (Axiomatic Systems)
 
-#### **9. Truthfulness (Chân Thực)**
+#### **8. Truthfulness (Chân Thực)**
 
 Giá trị về sự cam kết với việc nhìn nhận, đại diện và truyền đạt thực tại một cách chính xác nhất có thể, không bị bóp méo bởi mong muốn hay thiên kiến.
 
@@ -1479,7 +1494,7 @@ Giá trị về sự cam kết với việc nhìn nhận, đại diện và truy
 
 → **Liên kết:** VALIDATION (Reality Testing), [META] LAYER (Bias Awareness), FOUNDATIONS (Map-Territory Distinction)
 
-#### **10. Compassion (Từ Bi)**
+#### **9. Compassion (Từ Bi)**
 
 Giá trị kết hợp sự đồng cảm sâu sắc với động lực hành động để làm giảm bớt đau khổ và thúc đẩy sự thịnh vượng cho người khác.
 
@@ -1494,7 +1509,7 @@ Giá trị kết hợp sự đồng cảm sâu sắc với động lực hành �
 
 → **Liên kết:** INTEGRATION (Collaborative Intelligence), NAVIGATION (Guiding Principles), DYNAMICS (Emotional Intelligence)
 
-#### **11. Integrity (Toàn Vẹn)**
+#### **10. Integrity (Toàn Vẹn)**
 
 Giá trị về sự nhất quán, trọn vẹn và không bị chia cắt giữa các nguyên tắc, giá trị và hành động của một cá nhân hay hệ thống.
 
@@ -1509,7 +1524,7 @@ Giá trị về sự nhất quán, trọn vẹn và không bị chia cắt giữ
 
 → **Liên kết:** [META] LAYER (Self-Observation), INTEGRATION (System Coherence Building), OPERATIONS (Systematic Execution)
 
-#### **12. Humility (Khiêm Tốn)**
+#### **11. Humility (Khiêm Tốn)**
 
 Giá trị về việc có một nhận thức chính xác về các giới hạn, sự thiếu sót và vị trí của bản thân trong một tổng thể lớn hơn.
 
@@ -1524,7 +1539,7 @@ Giá trị về việc có một nhận thức chính xác về các giới hạ
 
 → **Liên kết:** OPERATIONS (Circle of Competence), VALIDATION (Feedback Processing), [META] LAYER (Meta-Cognition)
 
-#### **13. Courage (Can Đảm)**
+#### **12. Courage (Can Đảm)**
 
 Giá trị về khả năng đối mặt và hành động một cách hiệu quả bất chấp sự hiện diện của nỗi sợ hãi, sự không chắc chắn hoặc rủi ro.
 
@@ -1539,7 +1554,7 @@ Giá trị về khả năng đối mặt và hành động một cách hiệu qu
 
 → **Liên kết:** NAVIGATION (Risk Navigation), CREATION (Pattern Breaking), OPERATIONS (Decision Frameworks)
 
-#### **14. Justice (Công Bằng)**
+#### **13. Justice (Công Bằng)**
 
 Giá trị về cam kết đối với sự công bằng, bình đẳng và đối xử vô tư, đặc biệt là trong việc phân bổ nguồn lực và bảo vệ quyền lợi của các thành viên trong một hệ thống.
 
@@ -1554,7 +1569,7 @@ Giá trị về cam kết đối với sự công bằng, bình đẳng và đ�
 
 → **Liên kết:** INTEGRATION (Systemic Integration), FOUNDATIONS (Veil of Ignorance), AMPLIFICATION (Social Impact)
 
-#### **15. Wisdom (Trí Tuệ)**
+#### **14. Wisdom (Trí Tuệ)**
 
 Giá trị về khả năng tích hợp kiến thức, kinh nghiệm và sự thấu hiểu sâu sắc để đưa ra những phán đoán đúng đắn và hành động khôn ngoan.
 
@@ -1569,7 +1584,7 @@ Giá trị về khả năng tích hợp kiến thức, kinh nghiệm và sự th
 
 → **Liên kết:** [META] LAYER (Wisdom Synthesis), NAVIGATION (Strategic Wayfinding), TRANSCENDENCE (Wisdom Crystallization)
 
-#### **16. Responsibility (Trách Nhiệm)**
+#### **15. Responsibility (Trách Nhiệm)**
 
 Giá trị về việc chấp nhận và thực hiện nghĩa vụ của mình, đồng thời sở hữu các kết quả từ hành động và quyết định của bản thân.
 
@@ -1588,7 +1603,7 @@ Giá trị về việc chấp nhận và thực hiện nghĩa vụ của mình, 
 
 ### **Các Khung Đạo Đức Bổ Sung**
 
-#### **17. Virtue Ethics** - Đạo Đức Đức Hạnh
+#### **16. Virtue Ethics** - Đạo Đức Đức Hạnh
 
 Triết lý đạo đức tập trung vào tính cách và đức hạnh của người hành động.
 
@@ -1599,7 +1614,7 @@ Triết lý đạo đức tập trung vào tính cách và đức hạnh của n
 
 → **Liên kết:** FOUNDATIONS (Aristotelian Virtue Ethics), INTEGRATION (Character Building)
 
-#### **18. Deontology** - Thuyết Nghĩa Vụ
+#### **17. Deontology** - Thuyết Nghĩa Vụ
 
 Đạo đức dựa trên nghĩa vụ và quy tắc.
 
@@ -1610,7 +1625,7 @@ Triết lý đạo đức tập trung vào tính cách và đức hạnh của n
 
 → **Liên kết:** FOUNDATIONS (The Categorical Imperative), OPERATIONS (Decision Frameworks)
 
-#### **19. Natural Law** - Luật Tự Nhiên
+#### **18. Natural Law** - Luật Tự Nhiên
 
 Đạo đức dựa trên bản chất con người và trật tự tự nhiên.
 
@@ -1621,7 +1636,7 @@ Triết lý đạo đức tập trung vào tính cách và đức hạnh của n
 
 → **Liên kết:** FOUNDATIONS (Universal Principles), [META] LAYER (Ethical Frameworks)
 
-#### **20. Legal Philosophy** - Triết Học Pháp Luật
+#### **19. Legal Philosophy** - Triết Học Pháp Luật
 
 Nghiên cứu về bản chất của luật pháp và công lý.
 
@@ -1632,7 +1647,7 @@ Nghiên cứu về bản chất của luật pháp và công lý.
 
 → **Liên kết:** INTEGRATION (Social Systems), OPERATIONS (Legal Reasoning)
 
-#### **21. Theory of Justice & Rights** - Lý Thuyết Công Lý & Quyền
+#### **20. Theory of Justice & Rights** - Lý Thuyết Công Lý & Quyền
 
 Khung lý thuyết về công bằng và quyền cơ bản.
 
@@ -1643,7 +1658,7 @@ Khung lý thuyết về công bằng và quyền cơ bản.
 
 → **Liên kết:** FOUNDATIONS (The Veil of Ignorance), INTEGRATION (Systemic Integration)
 
-#### **22. Phronesis** - Trí Tuệ Thực Tiễn
+#### **21. Phronesis** - Trí Tuệ Thực Tiễn
 
 Khả năng phán đoán thực tiễn đúng đắn trong các tình huống cụ thể.
 
@@ -1654,7 +1669,7 @@ Khả năng phán đoán thực tiễn đúng đắn trong các tình huống c�
 
 → **Liên kết:** OPERATIONS (Decision Frameworks), FOUNDATIONS (Aristotelian Virtue Ethics)
 
-#### **23. Character Strengths Foundation** - Nền Tảng Điểm Mạnh Tính Cách
+#### **22. Character Strengths Foundation** - Nền Tảng Điểm Mạnh Tính Cách
 
 Khung tâm lý học tích cực về các đức hạnh phổ quát.
 
@@ -1665,7 +1680,7 @@ Khung tâm lý học tích cực về các đức hạnh phổ quát.
 
 → **Liên kết:** INTEGRATION (Personal Integration), DYNAMICS (Character Development)
 
-#### **24. Greek Tragedy** - Bi Kịch Hy Lạp
+#### **23. Greek Tragedy** - Bi Kịch Hy Lạp
 
 Hình thức nghệ thuật khám phá các vấn đề đạo đức sâu sắc.
 
@@ -1676,7 +1691,7 @@ Hình thức nghệ thuật khám phá các vấn đề đạo đức sâu sắc
 
 → **Liên kết:** CREATION (Narrative), INTEGRATION (Moral Education)
 
-#### **25. Shakespeare Drama** - Kịch Shakespeare
+#### **24. Shakespeare Drama** - Kịch Shakespeare
 
 Khám phá bản chất con người qua nghệ thuật kịch.
 
@@ -1687,7 +1702,7 @@ Khám phá bản chất con người qua nghệ thuật kịch.
 
 → **Liên kết:** CREATION (Narrative Crafting), INTEGRATION (Human Understanding)
 
-#### **26. Wisdom Literature** - Văn Học Trí Tuệ
+#### **25. Wisdom Literature** - Văn Học Trí Tuệ
 
 Các tác phẩm truyền đạt trí tuệ sống và giá trị.
 
@@ -1698,7 +1713,7 @@ Các tác phẩm truyền đạt trí tuệ sống và giá trị.
 
 → **Liên kết:** FOUNDATIONS (Wisdom Traditions), INTEGRATION (Knowledge Transmission)
 
-#### **27. Epic Poetry** - Thơ Sử Thi
+#### **26. Epic Poetry** - Thơ Sử Thi
 
 Các tác phẩm kể về anh hùng và giá trị văn hóa.
 
@@ -1709,7 +1724,7 @@ Các tác phẩm kể về anh hùng và giá trị văn hóa.
 
 → **Liên kết:** CREATION (Narrative), AMPLIFICATION (Cultural Transmission)
 
-#### **28. Sacred Foods** - Thực Phẩm Thiêng Liêng
+#### **27. Sacred Foods** - Thực Phẩm Thiêng Liêng
 
 Thực phẩm có ý nghĩa tâm linh và nghi lễ.
 
@@ -1720,7 +1735,7 @@ Thực phẩm có ý nghĩa tâm linh và nghi lễ.
 
 → **Liên kết:** INTEGRATION (Ritual Practice), FOUNDATIONS (Sacred Practices)
 
-#### **29. Medicinal Cooking** - Nấu Ăn Y Học
+#### **28. Medicinal Cooking** - Nấu Ăn Y Học
 
 Nghệ thuật nấu ăn với mục đích chữa bệnh.
 
