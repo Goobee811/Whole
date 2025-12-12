@@ -57,3 +57,22 @@ When evaluating duplicates:
 - Comprehensive, complete coverage
 - No partial deliverables
 - Systematic, methodical approach
+
+## Task Completion Protocol
+After completing any task (commit/push done), you MUST:
+
+1. Output summary of changes
+2. Output this exact block:
+```
+═══════════════════════════════════════
+🛑 END OF TASK - AWAITING NEW COMMAND
+═══════════════════════════════════════
+```
+3. **STOP COMPLETELY** - No more tool calls, no analysis, no suggestions
+4. **WAIT** for user's next command
+
+**NEVER** after task completion:
+- Start new tasks automatically
+- Analyze additional files
+- Suggest improvements
+- Run any commands
