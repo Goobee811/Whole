@@ -1884,7 +1884,7 @@ Nguyên tắc đạo đức phổ quát xuất hiện độc lập trong HẦU H
 → **Nguyên lý liên quan:**
   • FOUNDATIONS #16 (Ahimsa - Bất Bạo Động) - Eastern & Western Wisdom
   • FOUNDATIONS #8 (Compassion - Từ bi)
-  • FOUNDATIONS #33 (The Perennial Philosophy - Triết học trường tồn)
+  • FOUNDATIONS #33 (The Perennial Philosophy - Triết Học Vĩnh Cửu [Nền Tảng Học Thuật])
 
 #### **10. Memento Mori** - Hãy Nhớ Rằng Ngươi Sẽ Chết
 
@@ -2148,16 +2148,21 @@ Sự trùng hợp có ý nghĩa của các sự kiện bên ngoài và các tr�
 
 → **Liên kết:** DYNAMICS (System Dynamics), NAVIGATION (Intuitive Wayfinding)
 
-#### **33. The Perennial Philosophy** - Triết Học Vĩnh Cửu (Huxley)
+#### **33. The Perennial Philosophy** - Triết Học Vĩnh Cửu [Nền Tảng Học Thuật]
 
-Ý tưởng cho rằng tất cả các truyền thống tâm linh trên thế giới đều chia sẻ một chân lý hoặc nguồn gốc siêu hình chung.
+Học thuyết cho rằng tất cả các truyền thống tâm linh vĩ đại trên thế giới đều chia sẻ một chân lý hoặc nguồn gốc siêu hình chung. Đây là KHUNG LÝ THUYẾT, NỀN TẢNG TRÍ THỨC giúp ta HIỂU BIẾT về sự thống nhất cốt lõi của các truyền thống.
 
-- **Universal Truth**: Chân lý phổ quát
-- **Exoteric vs. Esoteric**: Vỏ bọc bên ngoài (exoteric) và cốt lõi bên trong (esoteric) của các tôn giáo
-- **Mystical Core**: Cốt lõi huyền bí chung
-- **Unity in Diversity**: Sự thống nhất trong đa dạng
+- **Universal Truth**: Chân lý phổ quát - KHÁI NIỆM về một thực tại cơ bản
+- **Exoteric vs. Esoteric**: Phân biệt vỏ bọc ngoài và cốt lõi bên trong - PHÂN TÍCH
+- **Mystical Core**: Cốt lõi huyền bí chung - NHẬN THỨC LÝ THUYẾT
+- **Unity in Diversity**: Sự thống nhất trong đa dạng - HIỂU BIẾT TRÍ TUỆ
 
-→ **Liên kết:** [META] LAYER (Meta-Integration, Wisdom Synthesis), TRANSCENDENCE (Ultimate Principles)
+→ **Vai trò:** NỀN TẢNG HỌC THUẬT - điểm khởi đầu cho hành trình
+→ **Liên kết nội bộ:** [META] LAYER (Meta-Integration, Wisdom Synthesis)
+→ **Hành trình tiếp theo:** TRANSCENDENCE #7 (từ hiểu biết đến chứng ngộ)
+→ **Ứng dụng:** Cung cấp bản đồ lý thuyết cho những người tìm kiếm
+
+📚 **Đây là về BIẾT - studying the map**
 
 #### **34. The Art of War Wisdom** - Trí Tuệ Binh Pháp Tôn Tử
 
@@ -2957,7 +2962,7 @@ Trí tuệ vượt qua các giới hạn thông thường.
 - **Elevated Understanding**: Hiểu biết cao hơn
 - **Non-Dual Insight**: Nhận thức bất nhị
 
-→ **Liên kết:** TRANSCENDENCE (Ultimate Wisdom), FOUNDATIONS (The Perennial Philosophy)
+→ **Liên kết:** TRANSCENDENCE (Ultimate Wisdom), FOUNDATIONS #33 (The Perennial Philosophy - nền tảng học thuật)
 
 #### **36. Swarm Intelligence** - Trí Tuệ Bầy Đàn
 
@@ -24108,16 +24113,21 @@ Khái niệm Phật giáo của Thích Nhất Hạnh rằng mọi thứ đều t
 
 ---
 
-#### **7. The Perennial Philosophy** - Triết Học Trường Tồn
+#### **7. The Perennial Philosophy** - Triết Học Trường Tồn [Trải Nghiệm Sống Động]
 
-Ý tưởng rằng tất cả các truyền thống tâm linh vĩ đại chia sẻ một chân lý cốt lõi chung.
+TRẢI NGHIỆM trực tiếp rằng tất cả các truyền thống tâm linh vĩ đại đều hướng đến cùng một đỉnh núi - không phải như một học thuyết mà như một THỰC TẠI SỐNG ĐỘNG. Đây là sự HIỆN THÂN của Perennial Philosophy, khi người đi đường CHỨNG NGỘ chân lý phổ quát qua thực hành sâu sắc.
 
-- **Universal Truth**: Chân lý phổ quát; có một thực tại cơ bản mà tất cả các tôn giáo đều chỉ đến.
-- **Many Paths, One Summit**: Nhiều con đường, một đỉnh núi; các truyền thống khác nhau dẫn đến cùng một chân lý.
-- **Esoteric Core**: Lõi bí truyền; bên dưới các hình thức ngoại vi có cùng một trải nghiệm.
-- **Mystical Unity**: Sự thống nhất huyền bí; tất cả các nhà huyền bí mô tả cùng một thực tại.
+- **Universal Truth**: Chân lý phổ quát - TRẢI NGHIỆM trực tiếp thực tại cơ bản
+- **Many Paths, One Summit**: Nhiều đường, một đỉnh - NHẬN RA qua hành trình
+- **Esoteric Core**: Lõi bí truyền - CHỨNG NGỘ cốt lõi thống nhất
+- **Mystical Unity**: Sự thống nhất huyền bí - SỐNG trong ý thức thống nhất
 
-→ **Liên kết:** FOUNDATIONS (Eastern & Western Wisdom, Wisdom Synthesis #34 - kho trí tuệ), [META] LAYER (Wisdom Synthesis #19 - meta-framework), TRANSCENDENCE (Wisdom Crystallization).
+→ **Vai trò:** ĐỈNH CAO THỰC HÀNH - điểm đến của hành trình
+→ **Liên kết nội bộ:** TRANSCENDENCE (Wisdom Synthesis)
+→ **Nguồn gốc lý thuyết:** FOUNDATIONS #33 (nền tảng học thuật)
+→ **Thực hiện:** Không còn nghiên cứu về các truyền thống mà SỐNG từ cốt lõi chung
+
+🏔️ **Đây là về TRỞ THÀNH - walking the territory**
 
 ---
 
