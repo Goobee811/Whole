@@ -1474,18 +1474,7 @@ Nguyên tắc đạo đức về việc không gây tổn hại không cần thi
 → **Ứng dụng thực tiễn:** DYNAMICS (Emotional Regulation), VALIDATION (Ethical Decision-Making)
 → **Bối cảnh tâm linh:** [META] LAYER (Ethical Frameworks)
 
-#### **5. The Veil of Ignorance → Công bằng vô tư**
-
-Nguyên tắc đạo đức dựa trên một thí nghiệm tư duy: thiết kế các quy tắc xã hội từ một vị trí mà không biết vai trò của mình sẽ ở đâu, nhằm đảm bảo sự công bằng cho tất cả.
-
-- **Original Position Thinking**: Ra quyết định từ "vị trí ban đầu", giả định không biết vị trí xã hội, năng lực hay hoàn cảnh của mình.
-- **Protection of the Vulnerable**: Thiết kế các quy tắc và hệ thống mang lại lợi ích lớn nhất cho những người ở vị trí yếu thế nhất.
-- **Impartiality in Rule-Making**: Loại bỏ lợi ích cá nhân khỏi quá trình tạo ra các quy tắc chung.
-- **Justice as Fairness**: Coi sự công bằng là nền tảng của một hệ thống đạo đức.
-
-→ **Liên kết:** INTEGRATION (Social Systems), OPERATIONS (Decision Frameworks)
-
-#### **6. Categorical Imperative → Phổ quát hóa hành động**
+#### **5. Categorical Imperative → Phổ quát hóa hành động**
 
 Nguyên tắc đạo đức yêu cầu chỉ hành động theo những quy tắc mà bạn có thể muốn chúng trở thành một quy luật phổ quát cho tất cả mọi người.
 
@@ -1584,7 +1573,8 @@ Giá trị về cam kết đối với sự công bằng, bình đẳng và đ�
 - **Advocacy for the Marginalized**: Sử dụng tiếng nói và quyền lực để bảo vệ và nâng đỡ những người yếu thế hoặc bị gạt ra bên lề.
     
 
-→ **Liên kết:** INTEGRATION (Systemic Integration), FOUNDATIONS (Veil of Ignorance), AMPLIFICATION (Social Impact)
+→ **Liên kết:** INTEGRATION (Systemic Integration), AMPLIFICATION (Social Impact)
+→ **Công cụ tư duy quan trọng:** EASTERN & WESTERN WISDOM #30 (The Veil of Ignorance - thought experiment của Rawls về công lý)
 
 #### **13. Wisdom (Trí Tuệ)**
 
@@ -1673,7 +1663,7 @@ Khung lý thuyết về công bằng và quyền cơ bản.
 - **Fairness Principles**: Các nguyên tắc công bằng
 - **Social Justice**: Công lý xã hội
 
-→ **Liên kết:** FOUNDATIONS (The Veil of Ignorance), INTEGRATION (Systemic Integration)
+→ **Liên kết:** EASTERN & WESTERN WISDOM #30 (The Veil of Ignorance), INTEGRATION (Systemic Integration)
 
 #### **20. Phronesis** - Trí Tuệ Thực Tiễn
 
@@ -2125,14 +2115,16 @@ Thái độ chấp nhận và yêu thương mọi thứ xảy ra trong cuộc đ
 
 #### **30. The Veil of Ignorance** - Bức Màn Vô Tri (Rawls)
 
-Một thí nghiệm tư duy để xác định các nguyên tắc của một xã hội công bằng, bằng cách tưởng tượng rằng chúng ta không biết vị trí của mình trong xã hội đó.
+Thí nghiệm tư duy nổi tiếng của John Rawls về công lý xã hội: thiết kế các nguyên tắc cho một xã hội công bằng từ "vị trí ban đầu" mà ở đó chúng ta không biết vị trí, tài năng hay hoàn cảnh của mình sẽ như thế nào. Đây là một trong những tư tưởng có ảnh hưởng nhất trong triết học chính trị đương đại về công lý và công bằng xã hội.
 
-- **Original Position**: Vị trí ban đầu (phía sau bức màn)
-- **Justice as Fairness**: Công bằng là sự công chính
-- **Impartial Decision-Making**: Ra quyết định một cách vô tư
-- **Protecting the Least Advantaged**: Bảo vệ những người yếu thế nhất trong xã hội
+- **Original Position**: Vị trí ban đầu - đứng sau "bức màn vô tri"
+- **Justice as Fairness**: Công lý như là sự công bằng
+- **Impartial Decision-Making**: Ra quyết định hoàn toàn vô tư
+- **Protecting the Least Advantaged**: Bảo vệ người yếu thế nhất (Difference Principle)
 
 → **Liên kết:** [META] LAYER (Thought Experiments), INTEGRATION (Systemic Integration)
+→ **Ứng dụng thực hành:** CORE VALUES & ETHICS (Justice #12, Fairness principles)
+→ **Nguồn gốc:** "A Theory of Justice" (1971) - tác phẩm đột phá của triết học thế kỷ 20
 
 #### **31. I and Thou** - Tôi và Ngươi (Buber)
 
