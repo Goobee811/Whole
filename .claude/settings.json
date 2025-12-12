@@ -1,0 +1,18 @@
+{
+  "modelName": "claude-sonnet-4-5-20250929",
+  "permissions": {
+    "allowedDomains": ["github.com"],
+    "allowReadProject": true,
+    "allowWrite": true
+  },
+  "skills": {
+    "paths": [".claude/skills"],
+    "enabled": true
+  },
+  "hooks": {
+    "pre-edit": {
+      "enabled": false,
+      "script": ".claude/hooks/pre-edit-check.sh"
+    }
+  }
+}
