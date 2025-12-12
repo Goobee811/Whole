@@ -1461,16 +1461,18 @@ Nguyên tắc ĐẠO ĐỨC xuất phát từ Observer Effect vật lý: Vì ch�
 → **Ứng dụng thực hành:** VALIDATION #26 (trong nghiên cứu)
 → **Nâng cao:** META LAYER #32 (quan sát chính mình quan sát)
 
-#### **4. Ahimsa → Không làm hại**
+#### **4. Ahimsa → Không làm hại** [Xem EASTERN & WESTERN WISDOM #16]
 
-Nguyên tắc đạo đức về việc tránh gây tổn hại một cách không cần thiết cho bất kỳ sinh vật nào, trong cả suy nghĩ, lời nói và hành động.
+Nguyên tắc đạo đức về việc không gây tổn hại không cần thiết đến bất kỳ sinh vật nào trong suy nghĩ, lời nói và hành động. Để hiểu đầy đủ về khái niệm này trong bối cảnh truyền thống tâm linh Đông phương (Hindu-Buddhist-Jain) và ứng dụng lịch sử của nó, xem **CHỨC NĂNG 4: EASTERN & WESTERN WISDOM, mục #16**.
 
-- **Principle of Non-maleficence**: Nguyên tắc không làm điều ác ý, ưu tiên việc tránh gây hại.
-- **Compassion in Action**: Lòng từ bi được thể hiện qua việc chủ động giảm thiểu đau khổ.
-- **Mindful Speech & Action**: Chú tâm đến lời nói và hành động để đảm bảo chúng không gây ra tổn thương không chủ đích.
-- **Conflict Resolution through Peace**: Tìm kiếm các giải pháp hòa bình để giải quyết xung đột, thay vì sử dụng bạo lực.
+- **Non-maleficence**: Nguyên tắc không làm hại - nền tảng đạo đức trong y học, nghiên cứu và các lĩnh vực chuyên môn
+- **Compassionate Ethics**: Đạo đức từ bi - kết hợp tránh gây hại (tiêu cực) với chủ động làm lành (tích cực)
+- **Mindful Action**: Hành động chánh niệm - chú ý đến hậu quả của mọi quyết định
+- **Peaceful Resolution**: Giải quyết hòa bình - tìm kiếm các giải pháp phi bạo lực cho xung đột
 
-→ **Liên kết:** [META] LAYER (Ethical Frameworks), DYNAMICS (Emotional Regulation)
+→ **Chi tiết đầy đủ:** FOUNDATIONS #16 (Eastern & Western Wisdom - Ahimsa với ngữ cảnh Hindu-Buddhist-Jain)
+→ **Ứng dụng thực tiễn:** DYNAMICS (Emotional Regulation), VALIDATION (Ethical Decision-Making)
+→ **Liên kết:** [META] LAYER (Ethical Frameworks)
 
 #### **5. The Veil of Ignorance → Công bằng vô tư**
 
@@ -1960,16 +1962,22 @@ Con đường tâm linh thông qua hành động vị tha, không dính mắc v�
 
 → **Liên kết:** OPERATIONS (Decision Frameworks), DYNAMICS (State Management)
 
-#### **16. Ahimsa** - Bất Bạo Động
+#### **16. Ahimsa - Bất Bạo Động** [Truyền Thống Hindu-Buddhist-Jain]
 
-Nguyên tắc không làm hại đến bất kỳ sinh vật sống nào trong suy nghĩ, lời nói và hành động.
+Nguyên tắc cốt lõi trong Hindu-Buddhist-Jain về việc không làm hại đến bất kỳ sinh vật sống nào trong suy nghĩ, lời nói và hành động. Ahimsa không chỉ là một giá trị đạo đức mà là một **con đường tâm linh** - một phương tiện để giải thoát qua lòng từ bi và tình yêu thương phổ quát.
 
-- **Non-harming**: Không gây tổn hại
-- **Universal Compassion**: Lòng từ bi phổ quát
-- **Active Love**: Tình yêu thương chủ động
-- **Strength, not Weakness**: Được xem là một biểu hiện của sức mạnh, không phải sự yếu đuối
+- **Non-harming (Không gây tổn hại)**: Khía cạnh TIÊU CỰC - tránh làm hại đến bất kỳ sinh vật nào qua suy nghĩ, lời nói, hành động
+- **Universal Compassion (Lòng từ bi phổ quát)**: Khía cạnh TÍCH CỰC - chủ động yêu thương và quan tâm đến mọi sinh linh
+- **Active Love (Tình yêu thương chủ động)**: Khía cạnh NĂNG ĐỘNG - biến lòng từ bi thành hành động cụ thể, giảm thiểu đau khổ
+- **Strength, not Weakness (Sức mạnh, không yếu đuối)**: Khía cạnh NHẬN THỨC - Ahimsa đòi hỏi dũng cảm và kỷ luật tâm linh cao
 
-→ **Liên kết:** INTEGRATION (Personal Integration), [META] LAYER (Ethical Frameworks)
+→ **Liên kết nội bộ:** INTEGRATION (Personal Integration)
+→ **Ứng dụng đạo đức:** Xem FOUNDATIONS #4 (Core Values & Ethics) cho nguyên tắc không làm hại trong bối cảnh đạo đức ứng dụng hiện đại
+→ **Ngữ cảnh lịch sử:**
+  • **Jainism**: Ahimsa là giá trị tối thượng, nghiêm ngặt nhất trong tất cả các truyền thống
+  • **Buddhism**: Giới đầu tiên trong Ngũ Giới (Pañca-sīla) - không sát sinh
+  • **Hinduism**: Một trong các Yamas (điều răn) trong Yoga Sutras của Patanjali
+  • **Gandhi**: Biến Ahimsa thành vũ khí chính trị phi bạo lực (Satyagraha - sức mạnh của chân lý)
 
 #### **17. Existentialism** - Chủ Nghĩa Hiện Sinh
 
