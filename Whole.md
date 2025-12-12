@@ -3294,16 +3294,28 @@ Vùng chuyển tiếp giữa trật tự và hỗn loạn, nơi các hệ thốn
 
 #### **6. Strange Attractors** - Hấp Dẫn Kỳ Lạ
 
-Các mẫu hình phức tạp trong không gian pha mà các hệ thống hỗn loạn có xu hướng tiến tới và dao động xung quanh.
+Các mẫu hình phức tạp trong không gian pha mà các hệ thống hỗn loạn có xu hướng tiến tới và dao động xung quanh. Đây là khái niệm cốt lõi từ Chaos Theory để hiểu cách các hệ thống phức tạp tạo ra patterns ổn định trong sự hỗn loạn.
 
 - **Fractal Structure / Fractal Patterns**: Có cấu trúc tự tương tự ở nhiều cấp độ quy mô
 - **Bounded Chaos / Bounded Behavior**: Hỗn loạn nhưng bị giới hạn trong một vùng nhất định
-- **Chaotic Order**: Trật tự ẩn trong hỗn loạn
+- **Chaotic Order**: Trật tự ẩn trong hỗn loạn - điểm nghịch lý cốt lõi
 - **Deterministic Unpredictability**: Có quy luật nhưng không thể dự đoán chi tiết
 - **Long-term Unpredictability**: Không thể dự đoán chính xác trong dài hạn
 - **Pattern in Randomness**: Các mẫu hình ẩn trong sự ngẫu nhiên bề ngoài
 
-→ **Liên kết:** VALIDATION (Pattern Recognition), OPERATIONS (Chaos Theory, Chaos Management)
+→ **Liên kết nội bộ:**
+  • VALIDATION (Pattern Recognition)
+  • OPERATIONS (Chaos Theory, Chaos Management)
+  • CREATION (Edge of Chaos)
+
+→ **Ứng dụng cụ thể trong framework:**
+  • OPERATIONS #57: Attractor Dynamics (Creativity) - sử dụng trong sáng tạo
+  • NAVIGATION #19: Strange Attractor Mapping - công cụ điều hướng
+
+→ **Khái niệm liên quan trong DYNAMICS:**
+  • #2: Chaos Theory (framework tổng thể)
+  • #5: Edge of Chaos (vùng tối ưu)
+  • #7: Criticality (trạng thái tới hạn)
 #### **7. Criticality** - Trạng Thái Tới Hạn
 
 Trạng thái của hệ thống ở điểm chuyển pha, nơi các thay đổi nhỏ có thể dẫn đến các phản ứng liên tục lớn (hiệu ứng domino).
@@ -6124,12 +6136,16 @@ Sử dụng vòng lặp phản hồi để tạo ra các mẫu hình sáng tạo
 
 #### **57. Attractor Dynamics (Creativity)** - Động Lực Hấp Dẫn (Sáng Tạo)
 
-Sử dụng các hấp dẫn tử để tạo ra các mẫu hình sáng tạo ổn định.
+Sử dụng các hấp dẫn tử để tạo ra các mẫu hình sáng tạo ổn định. Đây là ứng dụng cụ thể của Strange Attractors vào quá trình sáng tạo, sử dụng attractor dynamics để tạo patterns sáng tạo ổn định.
 
 - **Pattern Convergence**: Hội tụ mẫu hình
 - **Creative Attractors**: Hấp dẫn tử sáng tạo
 - **Stable Creativity**: Sáng tạo ổn định
 - **Attractor-Based Design**: Thiết kế dựa trên hấp dẫn tử
+
+→ **Gốc lý thuyết:** DYNAMICS #6 (Strange Attractors - khái niệm gốc từ Chaos Theory)
+
+→ **Điểm khác biệt:** Ứng dụng attractor dynamics vào QUÁ TRÌNH SÁNG TẠO
 
 → **Liên kết:** DYNAMICS (Strange Attractors), CREATION (Pattern Design)
 
@@ -14538,14 +14554,18 @@ Kỹ thuật để duy trì sự tập trung cực cao và chính xác.
 
 #### **19. Strange Attractor Mapping** - Lập Bản Đồ Điểm Hút Lạ
 
-Nhận diện các điểm thu hút trong hệ thống hỗn loạn mà hệ thống có xu hướng hội tụ về.
+Nhận diện các điểm thu hút trong hệ thống hỗn loạn mà hệ thống có xu hướng hội tụ về. Đây là công cụ navigation cụ thể để map và identify attractors, giúp điều hướng trong không gian hỗn loạn.
 
 - **Chaos Convergence**: Hội tụ trong hỗn loạn.
 - **Pattern in Chaos**: Mẫu hình trong hỗn loạn.
 - **Attractor Basin**: Lưu vực điểm hút.
 - **Nonlinear Dynamics**: Động lực phi tuyến.
 
-→ **Liên kết:** DYNAMICS (Chaos Theory), VALIDATION (Pattern Detection).
+→ **Gốc lý thuyết:** DYNAMICS #6 (Strange Attractors - khái niệm gốc)
+
+→ **Điểm khác biệt:** CÔNG CỤ để nhận diện và map các attractors trong thực tế
+
+→ **Liên kết:** DYNAMICS (Strange Attractors, Chaos Theory), VALIDATION (Pattern Detection).
 
 #### **20. Strange Loop Mastery** - Làm Chủ Vòng Lặp Lạ
 
@@ -24793,20 +24813,7 @@ Lý thuyết của Rupert Sheldrake về các trường phi vật lý lưu trữ
 
 ---
 
-#### **18. Strange Attractors** - Các Chất Hút Kỳ Lạ
-
-Trong lý thuyết hỗn loạn, các mẫu hình mà các hệ thống hỗn loạn hội tụ về nhưng không bao giờ lặp lại chính xác.
-
-- **Chaotic Convergence**: Hội tụ hỗn loạn; hệ thống bị hút về một vùng nhưng không bao giờ ổn định.
-- **Pattern in Chaos**: Mẫu hình trong hỗn loạn; trật tự ẩn giấu trong sự vô trật tự rõ ràng.
-- **Deterministic Unpredictability**: Không thể dự đoán có định; các quy tắc rõ ràng nhưng kết quả không thể dự đoán.
-- **Fractal Structure**: Cấu trúc fractal; các chất hút có cấu trúc tự tương tự phức tạp.
-
-→ **Liên kết:** DYNAMICS (Chaos Theory), VALIDATION (Complex Systems).
-
----
-
-#### **19. Interference Patterns** - Các Mẫu Hình Giao Thoa
+#### **18. Interference Patterns** - Các Mẫu Hình Giao Thoa
 
 Các mẫu hình được tạo ra khi các sóng tương tác, tạo ra các vùng tăng cường và triệt tiêu.
 
