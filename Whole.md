@@ -1461,16 +1461,18 @@ Nguyên tắc ĐẠO ĐỨC xuất phát từ Observer Effect vật lý: Vì ch�
 → **Ứng dụng thực hành:** VALIDATION #26 (trong nghiên cứu)
 → **Nâng cao:** META LAYER #32 (quan sát chính mình quan sát)
 
-#### **4. Ahimsa → Không làm hại**
+#### **4. Ahimsa → Không làm hại** [Xem EASTERN & WESTERN WISDOM #16]
 
-Nguyên tắc đạo đức về việc tránh gây tổn hại một cách không cần thiết cho bất kỳ sinh vật nào, trong cả suy nghĩ, lời nói và hành động.
+Nguyên tắc đạo đức về việc không gây tổn hại không cần thiết đến bất kỳ sinh vật nào trong suy nghĩ, lời nói và hành động. Để hiểu đầy đủ về khái niệm này trong bối cảnh truyền thống tâm linh Đông phương (Hindu-Buddhist-Jain), xem CHỨC NĂNG 4: EASTERN & WESTERN WISDOM, mục #16.
 
-- **Principle of Non-maleficence**: Nguyên tắc không làm điều ác ý, ưu tiên việc tránh gây hại.
-- **Compassion in Action**: Lòng từ bi được thể hiện qua việc chủ động giảm thiểu đau khổ.
-- **Mindful Speech & Action**: Chú tâm đến lời nói và hành động để đảm bảo chúng không gây ra tổn thương không chủ đích.
-- **Conflict Resolution through Peace**: Tìm kiếm các giải pháp hòa bình để giải quyết xung đột, thay vì sử dụng bạo lực.
+- **Principle of Non-maleficence**: Nguyên tắc không làm điều ác ý, ưu tiên việc tránh gây hại
+- **Compassion in Action**: Lòng từ bi được thể hiện qua việc chủ động giảm thiểu đau khổ
+- **Mindful Speech & Action**: Chú tâm đến lời nói và hành động để đảm bảo chúng không gây ra tổn thương không chủ đích
+- **Conflict Resolution through Peace**: Tìm kiếm các giải pháp hòa bình để giải quyết xung đột, thay vì sử dụng bạo lực
 
-→ **Liên kết:** [META] LAYER (Ethical Frameworks), DYNAMICS (Emotional Regulation)
+→ **Chi tiết đầy đủ:** FOUNDATIONS #4 (Eastern & Western Wisdom #16)
+→ **Ứng dụng thực tiễn:** DYNAMICS (Emotional Regulation), VALIDATION (Ethical Decision-Making)
+→ **Bối cảnh tâm linh:** [META] LAYER (Ethical Frameworks)
 
 #### **5. The Veil of Ignorance → Công bằng vô tư**
 
@@ -1890,7 +1892,7 @@ Nguyên tắc đạo đức phổ quát xuất hiện độc lập trong HẦU H
 → **Xuất hiện ở chức năng khác:**
   • CORE VALUES & ETHICS (đã gộp vào đây - trước đây là #5)
 → **Nguyên lý liên quan:**
-  • FOUNDATIONS #4 (Ahimsa - Không làm hại)
+  • FOUNDATIONS #16 (Ahimsa - Bất Bạo Động) - Eastern & Western Wisdom
   • FOUNDATIONS #8 (Compassion - Từ bi)
   • FOUNDATIONS #33 (The Perennial Philosophy - Triết học trường tồn)
 
@@ -1960,16 +1962,23 @@ Con đường tâm linh thông qua hành động vị tha, không dính mắc v�
 
 → **Liên kết:** OPERATIONS (Decision Frameworks), DYNAMICS (State Management)
 
-#### **16. Ahimsa** - Bất Bạo Động
+#### **16. Ahimsa - Bất Bạo Động** [Truyền Thống Hindu-Buddhist-Jain]
 
-Nguyên tắc không làm hại đến bất kỳ sinh vật sống nào trong suy nghĩ, lời nói và hành động.
+Nguyên tắc cốt lõi trong Hindu-Buddhist-Jain về việc không làm hại đến bất kỳ sinh vật sống nào trong suy nghĩ, lời nói và hành động. Ahimsa không chỉ là một giá trị đạo đức mà là một CON ĐƯỜNG TÂM LINH - một phương tiện để giải thoát qua lòng từ bi và tình yêu thương phổ quát.
 
-- **Non-harming**: Không gây tổn hại
-- **Universal Compassion**: Lòng từ bi phổ quát
-- **Active Love**: Tình yêu thương chủ động
-- **Strength, not Weakness**: Được xem là một biểu hiện của sức mạnh, không phải sự yếu đuối
+- **Non-harming**: Không gây tổn hại - TIÊU CỰC (tránh làm hại)
+- **Universal Compassion**: Lòng từ bi phổ quát - TÍCH CỰC (chủ động yêu thương)
+- **Active Love**: Tình yêu thương chủ động - NĂNG ĐỘNG (hành động từ bi)
+- **Strength, not Weakness**: Sức mạnh, không yếu đuối - NHẬN THỨC (ahimsa = dũng cảm)
 
-→ **Liên kết:** INTEGRATION (Personal Integration), [META] LAYER (Ethical Frameworks)
+→ **Liên kết nội bộ:** INTEGRATION (Personal Integration), DYNAMICS (Emotional Regulation)
+→ **Ứng dụng đạo đức:** Xem FOUNDATIONS #3 (Core Values & Ethics) cho nguyên tắc không làm hại trong bối cảnh đạo đức ứng dụng hiện đại
+→ **Ngữ cảnh lịch sử:**
+  • Jainism: Ahimsa là giá trị tối thượng
+  • Buddhism: Giới đầu tiên trong Ngũ Giới
+  • Hinduism: Một trong các Yamas (điều răn) trong Yoga Sutras
+  • Gandhi: Biến ahimsa thành vũ khí chính trị (Satyagraha)
+→ **Nguyên lý liên quan:** FOUNDATIONS #8 (Compassion - Từ bi), [META] LAYER (Ethical Frameworks)
 
 #### **17. Existentialism** - Chủ Nghĩa Hiện Sinh
 
