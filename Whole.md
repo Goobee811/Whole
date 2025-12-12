@@ -2885,18 +2885,7 @@ Chuyển hóa thực phẩm qua vi sinh vật.
 
 ### **Nhóm Analytical Razors & Methods - Dao cạo và phương pháp phân tích**
 
-#### **28. Hitchens's Razor** - Dao Cạo Hitchens
-
-"Những gì được khẳng định mà không có bằng chứng có thể bị bác bỏ mà không cần bằng chứng."
-
-- **Burden of Proof**: Gánh nặng chứng minh
-- **Evidence Requirement**: Yêu cầu bằng chứng
-- **Claim Evaluation**: Đánh giá tuyên bố
-- **Skeptical Stance**: Thái độ hoài nghi
-
-→ **Liên kết:** VALIDATION (Evidence-Based), OPERATIONS (Logical Reasoning)
-
-#### **29. Newton's Razor** - Dao Cạo Newton
+#### **28. Newton's Razor** - Dao Cạo Newton
 
 Không thêm nhiều nguyên nhân hơn cần thiết để giải thích các hiện tượng.
 
@@ -2907,7 +2896,7 @@ Không thêm nhiều nguyên nhân hơn cần thiết để giải thích các h
 
 → **Liên kết:** OPERATIONS (Scientific Method), FOUNDATIONS (First Principles)
 
-#### **30. Grice's Razor** - Dao Cạo Grice
+#### **29. Grice's Razor** - Dao Cạo Grice
 
 Trong giao tiếp, giả định người nói đang hợp tác và có ý nghĩa.
 
@@ -2918,7 +2907,7 @@ Trong giao tiếp, giả định người nói đang hợp tác và có ý nghĩ
 
 → **Liên kết:** INTEGRATION (Communication), OPERATIONS (Interpretation)
 
-#### **31. Knowledge Archaeology** - Khảo Cổ Tri Thức
+#### **30. Knowledge Archaeology** - Khảo Cổ Tri Thức
 
 Phục hồi tri thức cổ đại đã mất.
 
@@ -2929,7 +2918,7 @@ Phục hồi tri thức cổ đại đã mất.
 
 → **Liên kết:** FOUNDATIONS (Wisdom Traditions), [META] LAYER (Historical Understanding)
 
-#### **32. Anti-Knowledge Investigation** - Nghiên Cứu Phản-Tri Thức
+#### **31. Anti-Knowledge Investigation** - Nghiên Cứu Phản-Tri Thức
 
 Khám phá giới hạn và điều chúng ta không biết.
 
@@ -19047,12 +19036,14 @@ Thiết lập một điểm chuẩn để đo lường sự thay đổi hoặc c
 → **Liên kết:** VALIDATION (A/B Testing), OPERATIONS (Metrics Design)
 
 #### **24. Hitchens's Razor** - Dao Cạo của Hitchens
-"Những gì được khẳng định mà không có bằng chứng có thể bị bác bỏ mà không cần bằng chứng."
+"Những gì được khẳng định mà không có bằng chứng có thể bị bác bỏ mà không cần bằng chứng." Nguyên tắc tri thức luận được phát minh bởi Christopher Hitchens, là công cụ cốt lõi để KIỂM CHỨNG tính hợp lệ của các tuyên bố.
 - **Burden of Proof**: Gánh nặng chứng minh thuộc về người đưa ra tuyên bố.
 - **Evidence Requirement**: Yêu cầu bằng chứng cho mọi khẳng định.
 - **Dismissal Without Evidence**: Có thể bác bỏ các tuyên bố không có bằng chứng.
-- **Intellectual Efficiency**: Tiết kiệm thời gian không phải bác bỏ mọi tuyên bố vô căn cứ.
-→ **Liên kết:** OPERATIONS (Analytical Razors), VALIDATION (Falsification Principle)
+- **Intellectual Efficiency**: Tiết kiệm thời gian không phải bác bỏ mọi tuyên bố vô lý.
+→ **Liên kết:** VALIDATION #1 (Falsification Principle - công cụ kiểm chứng khoa học), VALIDATION #25 (Sagan Standard - yêu cầu bằng chứng tỷ lệ), VALIDATION #27 (Russell's Teapot - về gánh nặng chứng minh), OPERATIONS #1 (Analytical Razors - bộ công cụ lập luận)
+
+⚠️ **Lưu ý phân loại:** Trước đây bị phân loại sai vào FOUNDATIONS #28 - Natural Principles & Biomimicry. Hitchens's Razor không phải là nguyên lý tự nhiên mà là công cụ epistemology nhân tạo để kiểm chứng tri thức. Đây là công cụ LẬP LUẬN và KIỂM CHỨNG, không liên quan đến sinh học hay biomimicry.
 
 #### **25. Sagan Standard** - Tiêu Chuẩn Sagan
 "Các tuyên bố phi thường đòi hỏi bằng chứng phi thường."
