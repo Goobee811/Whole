@@ -2896,18 +2896,7 @@ Không thêm nhiều nguyên nhân hơn cần thiết để giải thích các h
 
 → **Liên kết:** OPERATIONS (Scientific Method), FOUNDATIONS (First Principles)
 
-#### **29. Grice's Razor** - Dao Cạo Grice
-
-Trong giao tiếp, giả định người nói đang hợp tác và có ý nghĩa.
-
-- **Communicative Cooperation**: Hợp tác giao tiếp
-- **Meaning Assumption**: Giả định ý nghĩa
-- **Conversational Maxims**: Các châm ngôn đối thoại
-- **Interpretive Charity**: Rộng lượng diễn giải
-
-→ **Liên kết:** INTEGRATION (Communication), OPERATIONS (Interpretation)
-
-#### **30. Knowledge Archaeology** - Khảo Cổ Tri Thức
+#### **29. Knowledge Archaeology** - Khảo Cổ Tri Thức
 
 Phục hồi tri thức cổ đại đã mất.
 
@@ -8356,16 +8345,27 @@ Nguyên tắc rằng những gì không thể giải quyết bằng thí nghiệ
 
 → **Liên kết:** VALIDATION (Empirical Testing), OPERATIONS (Scientific Method)
 
-#### **59. Grice's Razor** - Dao Cạo của Grice
+#### **59. Grice's Razor** - Dao Cạo Grice [Nguyên Tắc Hợp Tác]
 
-Nguyên tắc trong giao tiếp: đừng quy cho ý định giao tiếp phức tạp những gì có thể giải thích bằng ý nghĩa trực tiếp.
+Nguyên tắc trong DIỄN GIẢI giao tiếp: ưu tiên hiểu theo nghĩa đơn giản, trực tiếp; giả định người nói đang hợp tác và có ý định truyền đạt ý nghĩa rõ ràng. Đừng quy cho ý định phức tạp những gì có thể giải thích đơn giản.
 
-- **Communicative Simplicity**: Ưu tiên ý nghĩa đơn giản, trực tiếp trong giao tiếp.
-- **Literal Interpretation First**: Diễn giải theo nghĩa đen trước tiên.
-- **Cooperative Principle**: Nguyên tắc hợp tác trong hội thoại.
-- **Conversational Implicature**: Hiểu ngụ ý hội thoại mà không phức tạp hóa.
+**Grice's Cooperative Principle (Nguyên Tắc Hợp Tác):**
 
-→ **Liên kết:** INTEGRATION (Communication), OPERATIONS (Interpretation)
+• **Communicative Simplicity**: Ưu tiên nghĩa đen, trực tiếp
+• **Literal Interpretation First**: Diễn giải theo nghĩa đen trước
+• **Cooperative Principle**: Giả định người nói đang hợp tác
+• **Conversational Implicature**: Hiểu ngụ ý mà không phức tạp hóa
+
+**Grice's Maxims (Các Châm Ngôn Hội Thoại):**
+1. **Quality**: Nói thật, có bằng chứng
+2. **Quantity**: Đủ thông tin, không thừa
+3. **Relation**: Liên quan đến chủ đề
+4. **Manner**: Rõ ràng, ngắn gọn, có trật tự
+
+→ **Liên kết nội bộ:** INTEGRATION (Communication), VALIDATION (Interpretation)
+→ **Gia đình Razors:** Occam's Razor #47, Hanlon's Razor #46, Hitchens's Razor #24, Newton's Flaming Laser Sword #58, Morgan's Canon #60, Einstein's Razor #61
+→ **Gốc lý thuyết:** Triết học ngôn ngữ (Paul Grice, 1975)
+→ **Ứng dụng:** Giao tiếp hàng ngày, đàm phán, phân tích văn bản, giải quyết hiểu lầm
 
 #### **60. Morgan's Canon** - Quy Tắc của Morgan
 
