@@ -2977,16 +2977,18 @@ Các kỹ thuật nghiên cứu văn bản cổ.
 
 → **Liên kết:** OPERATIONS (Textual Analysis), FOUNDATIONS (Wisdom Traditions)
 
-#### **39. Gnosis** - Tri Giác
+#### **39. Gnosis** - Tri Giác [Nhận Thức Luận]
 
-Tri thức trực tiếp, phi lý trí về thần tính.
+Một con đường NHẬN THỨC đặc biệt trong triết học và tâm linh - tri thức trực tiếp về thần tính không qua trung gian của lý trí, cảm giác hay khái niệm. Đây là NGUYÊN LÝ về một hình thức biết khác với episteme (tri thức lý luận).
 
-- **Direct Knowledge**: Tri thức trực tiếp
-- **Mystical Knowing**: Biết huyền bí
-- **Inner Revelation**: Mặc khải nội tại
-- **Spiritual Insight**: Nhận thức tâm linh
+- **Direct Knowledge**: Tri thức trực tiếp - KHÔNG cần chứng minh hay suy luận
+- **Mystical Knowing**: Biết huyền bí - VƯỢt qua các phạm trù thông thường
+- **Inner Revelation**: Mặc khải nội tại - chân lý TỰ bộc lộ từ bên trong
+- **Spiritual Insight**: Nhận thức tâm linh - thấu hiểu BẢN CHẤT thực tại
 
-→ **Liên kết:** TRANSCENDENCE (Mystical Experience), FOUNDATIONS (Direct Knowing)
+→ **Liên kết nội bộ:** FOUNDATIONS (Eastern Wisdom, Direct Knowing)
+→ **Trải nghiệm tại:** TRANSCENDENCE #4 (Gnosis như trải nghiệm huyền bí)
+→ **Nhận thức về:** META LAYER #24 (hiểu về bản chất tri thức trực tiếp)
 
 #### **40. Elder Wisdom Cultivation** - Nuôi Dưỡng Trí Tuệ Người Lớn Tuổi
 
@@ -25311,16 +25313,19 @@ Kiến thức về các nguyên lý vĩnh cửu và chân lý phổ quát, thư�
 
 ---
 
-#### **4. Gnosis** - Tri Thức Trực Tiếp
+#### **4. Gnosis** - Tri Thức Trực Tiếp [Trải Nghiệm Huyền Bí]
 
-Tri thức trực tiếp, trải nghiệm về thần thánh hoặc thực tại tối hậu, thường đối lập với đức tin hoặc niềm tin.
+Trải nghiệm TRỰC TIẾP về thực tại tối hậu - khoảnh khắc hợp nhất với chân lý mà không cần qua trung gian của tư duy, ngôn ngữ hay khái niệm. Khác với nguyên lý lý thuyết ở FOUNDATIONS, đây là TRẠNG THÁI ý thức thực tế.
 
-- **Direct Experience**: Trải nghiệm trực tiếp; biết bằng cách "là", không phải qua khái niệm.
-- **Mystical Knowledge**: Tri thức huyền bí; hiểu biết được mặc khải trong các trạng thái ý thức thay đổi.
-- **Beyond Belief**: Vượt qua niềm tin; không phải tin mà là biết.
-- **Revelatory Insight**: Thấu hiểu được mặc khải; chân lý được tiết lộ trực tiếp.
+- **Immediate Knowing**: Tri thức tức thì - TRẢI NGHIỆM không cần suy luận
+- **Unmediated Truth**: Chân lý không qua trung gian - HỢP NHẤT với thực tại
+- **Revelatory Knowledge**: Tri thức được mặc khải - GIÁC NGỘ đột ngột
+- **Mystical Union**: Hợp nhất huyền bí - BIẾN MẤT ranh giới người biết/được biết
 
-→ **Liên kết:** TRANSCENDENCE (Mystical States), FOUNDATIONS (Gnostic Wisdom).
+→ **Liên kết nội bộ:** TRANSCENDENCE (Mystical Experience, Unity Consciousness)
+→ **Nền tảng lý thuyết:** FOUNDATIONS #39 (Gnosis như nguyên lý nhận thức)
+→ **Meta-nhận thức:** META LAYER #24 (nhận thức về tri thức trực tiếp)
+→ **Các truyền thống:** Via Mystica, Sufi Mysticism, Zen Satori, Samadhi
 
 ---
 
@@ -25633,19 +25638,6 @@ Trải nghiệm về thời điểm hiện tại như vĩnh cửu, vượt qua q
 - **Time Transcendence**: Siêu việt thời gian; vượt qua quá khứ và tương lai.
 
 → **Liên kết:** TRANSCENDENCE (Temporal Transcendence), DYNAMICS (Present Moment).
-
----
-
-#### **29. Gnosis Direct** - Tri Thức Trực Tiếp
-
-Tri thức trực tiếp, không qua trung gian về thực tại tối hậu hoặc chân lý.
-
-- **Immediate Knowing**: Tri thức tức thì; biết mà không cần suy luận.
-- **Unmediated Truth**: Chân lý không qua trung gian; truy cập trực tiếp vào thực tại.
-- **Direct Experience**: Trải nghiệm trực tiếp; không qua khái niệm hay biểu tượng.
-- **Revelatory Knowledge**: Tri thức được mặc khải; chân lý được tiết lộ trực tiếp.
-
-→ **Liên kết:** TRANSCENDENCE (Gnosis), FOUNDATIONS (Direct Knowing).
 
 ---
 
@@ -26591,16 +26583,19 @@ Trạng thái nhận thức cơ bản, nguyên sơ nhất - trước mọi khái
 
 → **Liên kết:** TRANSCENDENCE (Ultimate Reality), FOUNDATIONS (Eastern Wisdom).
 
-#### **24. Direct Knowing/Gnosis** - Hiểu Biết Trực Tiếp/Tri Kiến
+#### **24. Direct Knowing/Gnosis** - Hiểu Biết Trực Tiếp [Meta-Nhận Thức]
 
-Tri thức trực tiếp, không qua trung gian của lý trí hay các khái niệm.
+Khả năng META-NHẬN THỨC về bản chất của tri thức trực tiếp - hiểu CÁCH thức mà chúng ta có thể biết mà không qua suy luận. Khác với lý thuyết (FOUNDATIONS) và trải nghiệm (TRANSCENDENCE), đây là NHẬN THỨC VỀ quá trình nhận thức.
 
-- **Immediate Knowledge**: Tri thức tức thời, không cần suy luận.
-- **Intuitive Insight**: Thấu hiểu trực giác sâu sắc.
-- **Non-Discursive Wisdom**: Trí tuệ không dựa vào ngôn ngữ hay tư duy logic.
-- **Mystical Knowing**: Tri thức thần bí, siêu việt.
+- **Immediate Knowledge**: Tri thức tức thời - NHẬN RA khả năng biết trực tiếp
+- **Intuitive Insight**: Thấu hiểu trực giác - QUAN SÁT cơ chế của trực giác
+- **Non-Discursive Wisdom**: Trí tuệ phi ngôn ngữ - PHẢN TƯ về tri thức vô ngôn
+- **Knowing About Knowing**: Biết về biết - META-COGNITION về quá trình gnosis
 
-→ **Liên kết:** TRANSCENDENCE (Mystical Experience), CREATION (Intuitive Insight).
+→ **Liên kết nội bộ:** META LAYER (Meta-Cognition, Self-Observation)
+→ **Lý thuyết nền:** FOUNDATIONS #39 (Gnosis như nguyên lý)
+→ **Trải nghiệm:** TRANSCENDENCE #4 (Gnosis như giác ngộ)
+→ **Ứng dụng:** CREATION (Intuitive Insight), OPERATIONS (Contemplation)
 
 #### **25. Sati** - Chánh Niệm (Phật Giáo)
 
