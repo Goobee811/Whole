@@ -1,25 +1,32 @@
-# Whole Knowledge Architecture Project
+# Whole Knowledge Architecture Editor
 
 ## Overview
-Comprehensive meta-cognitive framework mapping human thinking across 10 interconnected domains.
-- **Languages**: Vietnamese & English (bilingual)
-- **Philosophy**: "Only add, never subtract"
-- **Structure**: 10 domains, 5 functions each, 4-point descriptions
+Specialized Claude skills for editing and expanding the Whole bilingual knowledge architecture documentation.
 
-## Current Focus
-Systematic content expansion and duplicate resolution across domains.
+## Core Philosophy
+- **Only Add, Never Subtract**: Never delete existing content without explicit approval
+- **Bilingual Integrity**: Vietnamese primary, English secondary
+- **Structural Preservation**: Maintain 10 domains, 5 functions each, 4-point descriptions
 
-## Tech Stack
-- **Documentation**: Markdown
-- **Visualization**: D3.js (11,000+ lines)
-- **Version Control**: GitHub
+## Skills Available
+- `whole-editor`: Main editing skill for content expansion
+- `whole-analyzer`: Pre-editing analysis and duplicate detection
+- `whole-reviewer`: Post-editing validation
+
+## Workflows
+- `.claude/workflows/editing-workflow.md`: Step-by-step editing process
+
+## Document Structure
+- **10 Domains**: Foundations, Dynamics, Operations, Creation, Navigation, Integration, Validation, Amplification, Transcendence, Meta
+- **5 Functions per Domain**: Understanding, Analysis, Synthesis, Application, Integration
+- **4-Point Descriptions**: Definition, Context, Application, Integration
 
 ## Content Guidelines
 
 ### Bilingual Requirements
 - Vietnamese: Primary language, cultural authenticity
 - English: Translation with conceptual precision
-- Format: `# Concept Name | Tên Khái Niệm`
+- Format: `## Concept Name | Tên Khái Niệm`
 
 ### Structural Integrity
 - Each concept: 4-point description
@@ -40,20 +47,13 @@ When evaluating duplicates:
 4. Apply after approval
 5. Update cross-references
 
-## Key Concepts to Understand
-- **10 Domains**: Foundations, Dynamics, Operations, Creation, Navigation, Integration, Validation, Amplification, Transcendence, Meta
-- **4-Point Descriptions**: Definition, Context, Application, Integration
-- **Cross-Domain Links**: Concepts appear in multiple domains with contextual variations
+## Custom Commands
+- `/analyze [section-path]` - Analyze section for issues
+- `/edit [section-path]` - Start editing session
+- `/expand [domain] [function] [topic]` - Add new concepts
 
 ## Style Preferences
 - Formal yet accessible tone
 - Comprehensive, complete coverage
 - No partial deliverables
 - Systematic, methodical approach
-
-## Custom Commands
-
-- `/analyze [domain]` - Quick analysis
-- `/edit [domain] [function]` - Start editing session
-- `/duplicates` - Run duplicate checker
-- `/validate` - Full validation check
