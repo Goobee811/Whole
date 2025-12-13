@@ -7601,7 +7601,7 @@ Bốn thao tác nhận thức cốt lõi làm nền tảng cho mọi quá trình
 
 → **Liên kết:** OPERATIONS (Foundation of all reasoning), VALIDATION (Quality Assessment)
 
-#### **47. Thinking Moves Toolkit** - Bộ Công Cụ Các Nước Đi Tư Duy
+#### **46. Thinking Moves Toolkit** - Bộ Công Cụ Các Nước Đi Tư Duy
 
 Một bộ sưu tập có cấu trúc gồm 12 "nước đi" nhận thức cơ bản có thể được sử dụng trong bất kỳ tình huống tư duy nào.
 
@@ -7612,7 +7612,7 @@ Một bộ sưu tập có cấu trúc gồm 12 "nước đi" nhận thức cơ b
 
 → **Liên kết:** META (Cognitive Awareness), OPERATIONS (Problem-Solving Toolkit)
 
-#### **48. Lenses & Filters System** - Hệ Thống Lăng Kính & Bộ Lọc
+#### **47. Lenses & Filters System** - Hệ Thống Lăng Kính & Bộ Lọc
 
 Mười công cụ nhận thức để nhìn nhận vấn đề từ các góc độ và cấp độ khác nhau.
 
@@ -7623,7 +7623,7 @@ Mười công cụ nhận thức để nhìn nhận vấn đề từ các góc �
 
 → **Liên kết:** CREATION (Reframing), NAVIGATION (Multi-Scale Thinking)
 
-#### **49. Conditional Logic** - Logic Điều Kiện
+#### **48. Conditional Logic** - Logic Điều Kiện
 
 Hệ thống suy luận dựa trên các mệnh đề điều kiện "nếu-thì".
 
@@ -7634,7 +7634,7 @@ Hệ thống suy luận dựa trên các mệnh đề điều kiện "nếu-thì
 
 → **Liên kết:** OPERATIONS (Logical Reasoning), FOUNDATIONS (Logic Systems)
 
-#### **50. Default Reasoning** - Suy Luận Mặc Định
+#### **49. Default Reasoning** - Suy Luận Mặc Định
 
 Suy luận dựa trên các giả định mặc định có thể bị bác bỏ khi có thông tin mới.
 
@@ -7645,7 +7645,7 @@ Suy luận dựa trên các giả định mặc định có thể bị bác bỏ
 
 → **Liên kết:** OPERATIONS (Non-Monotonic Reasoning), DYNAMICS (Adaptive Thinking)
 
-#### **51. Fuzzy Logic** - Logic Mờ
+#### **50. Fuzzy Logic** - Logic Mờ
 
 Hệ thống logic cho phép các giá trị chân lý không nhị phân, thay vào đó là các mức độ "đúng" từ 0 đến 1.
 
@@ -7656,7 +7656,7 @@ Hệ thống logic cho phép các giá trị chân lý không nhị phân, thay 
 
 → **Liên kết:** FOUNDATIONS (Spectrum Thinking), OPERATIONS (Complex Reasoning)
 
-#### **52. Evidential Reasoning** - Suy Luận Chứng Cứ
+#### **51. Evidential Reasoning** - Suy Luận Chứng Cứ
 
 Suy luận dựa trên việc đánh giá trọng số và độ tin cậy của các bằng chứng.
 
@@ -7667,7 +7667,7 @@ Suy luận dựa trên việc đánh giá trọng số và độ tin cậy của
 
 → **Liên kết:** VALIDATION (Evidence Evaluation), OPERATIONS (Legal Reasoning)
 
-#### **53. Forensic Reasoning** - Suy Luận Pháp Y
+#### **52. Forensic Reasoning** - Suy Luận Pháp Y
 
 Phương pháp suy luận được sử dụng trong điều tra hình sự và pháp y khoa học.
 
@@ -7678,7 +7678,7 @@ Phương pháp suy luận được sử dụng trong điều tra hình sự và 
 
 → **Liên kết:** OPERATIONS (Evidence-Based Reasoning), VALIDATION (Proof Standards)
 
-#### **54. Clinical Reasoning** - Suy Luận Lâm Sàng
+#### **53. Clinical Reasoning** - Suy Luận Lâm Sàng
 
 Quy trình suy luận chẩn đoán và điều trị trong y học.
 
@@ -7689,7 +7689,7 @@ Quy trình suy luận chẩn đoán và điều trị trong y học.
 
 → **Liên kết:** OPERATIONS (Abductive Reasoning), VALIDATION (Diagnostic Testing)
 
-#### **55. Machine Reasoning** - Suy Luận Máy
+#### **54. Machine Reasoning** - Suy Luận Máy
 
 Các phương pháp suy luận tự động và trí tuệ nhân tạo.
 
@@ -7700,7 +7700,7 @@ Các phương pháp suy luận tự động và trí tuệ nhân tạo.
 
 → **Liên kết:** OPERATIONS (Algorithmic Reasoning), AMPLIFICATION (AI Augmentation)
 
-#### **56. Quantum Analysis** - Phân Tích Lượng Tử
+#### **55. Quantum Analysis** - Phân Tích Lượng Tử
 
 Áp dụng các nguyên lý cơ học lượng tử vào phân tích và ra quyết định.
 
@@ -7711,7 +7711,7 @@ Các phương pháp suy luận tự động và trí tuệ nhân tạo.
 
 → **Liên kết:** FOUNDATIONS (Quantum Principles), TRANSCENDENCE (Non-Linear Thinking)
 
-#### **57. Tensor Analysis Mind** - Tư Duy Phân Tích Tensor
+#### **56. Tensor Analysis Mind** - Tư Duy Phân Tích Tensor
 
 Suy luận đa chiều sử dụng cấu trúc tensor để xử lý thông tin phức tạp.
 
@@ -7722,7 +7722,7 @@ Suy luận đa chiều sử dụng cấu trúc tensor để xử lý thông tin 
 
 → **Liên kết:** OPERATIONS (Network Reasoning), FOUNDATIONS (Systems Thinking)
 
-#### **58. Bayesian Brain Optimization** - Tối Ưu Hóa Não Bayes
+#### **57. Bayesian Brain Optimization** - Tối Ưu Hóa Não Bayes
 
 Tối ưu hóa quá trình suy luận xác suất và cập nhật niềm tin.
 
@@ -7733,7 +7733,7 @@ Tối ưu hóa quá trình suy luận xác suất và cập nhật niềm tin.
 
 → **Liên kết:** OPERATIONS (Probabilistic Reasoning), VALIDATION (Calibration)
 
-#### **59. Fourier Transform Thinking** - Tư Duy Biến Đổi Fourier
+#### **58. Fourier Transform Thinking** - Tư Duy Biến Đổi Fourier
 
 Phân tích các hiện tượng phức tạp bằng cách phân rã chúng thành các thành phần tần số.
 
@@ -7744,7 +7744,7 @@ Phân tích các hiện tượng phức tạp bằng cách phân rã chúng thà
 
 → **Liên kết:** FOUNDATIONS (Wave Patterns), OPERATIONS (Signal Analysis)
 
-#### **60. Eigenvector Extraction** - Trích Xuất Vector Riêng
+#### **59. Eigenvector Extraction** - Trích Xuất Vector Riêng
 
 Xác định các hướng chủ đạo và các yếu tố quan trọng nhất trong một hệ thống.
 
@@ -8167,10 +8167,10 @@ Sử dụng nguyên tắc đảo ngược để thiết kế các hệ thống p
 
 - **Anticipate Failure**: Dự đoán các điểm thất bại tiềm tàng.
 - **Design Fail-Safes**: Thiết kế các cơ chế an toàn chống lỗi.
-- **Pre-mortem Exercises**: Thực hiện các bài tập "pre-mortem" để xác định rủi ro.
-- **Solve Backwards**: Giải quyết vấn đề bằng cách làm việc ngược từ kết quả không mong muốn.
+- **Pre-mortem Exercises**: Thực hiện bài tập pre-mortem (→ VALIDATION #5).
+- **Solve Backwards**: Giải quyết vấn đề bằng cách làm việc ngược.
 
-→ **Liên kết:** VALIDATION (Pre-mortem Analysis), FOUNDATIONS (Via Negativa)
+→ **Liên kết:** VALIDATION #5 (Pre-mortem Analysis - công cụ kiểm chứng chi tiết), FOUNDATIONS (Via Negativa)
 
 #### **36. Predecessor-Successor Analysis** - Phân Tích Tiền Nhiệm-Kế Nhiệm
 
@@ -8486,7 +8486,7 @@ Nguyên tắc trong tâm lý học so sánh: không nên diễn giải hành vi 
 
 → **Liên kết:** OPERATIONS (Parsimony Principle), FOUNDATIONS (Evolutionary Thinking)
 
-#### **61. Einstein's Razor** - Dao Cạo của Einstein
+#### **60. Einstein's Razor** - Dao Cạo của Einstein
 
 Nguyên tắc: "Mọi thứ nên được làm đơn giản nhất có thể, nhưng không đơn giản hơn".
 
@@ -8616,17 +8616,6 @@ Tài liệu hóa các quy trình từng bước cho các nhiệm vụ thường 
 - **Continuous Improvement**: Nền tảng để cải tiến liên tục quy trình.
 
 → **Liên kết:** OPERATIONS (Process Mapping), AMPLIFICATION (Scalability)
-
-#### **11. Pre-Mortem Analysis** - Phân Tích Tiền Thất Bại
-
-Kỹ thuật tưởng tượng một dự án đã thất bại và sau đó phân tích các nguyên nhân có thể để ngăn chặn chúng.
-
-- **Imagine Failure**: Tưởng tượng dự án đã thất bại hoàn toàn.
-- **Identify Causes**: Xác định tất cả các nguyên nhân có thể dẫn đến thất bại.
-- **Preventive Planning**: Lập kế hoạch phòng ngừa để giải quyết các rủi ro đã xác định.
-- **Team Alignment**: Tạo ra sự thống nhất trong nhóm về các rủi ro tiềm tàng.
-
-→ **Liên kết:** VALIDATION (Risk Assessment), OPERATIONS (Inversion Principle)
 
 #### **12. Implementation Review & Iteration** - Đánh Giá Thực Hiện & Lặp Lại
 
@@ -10042,7 +10031,7 @@ Hofstadter's Law" - Luôn mất nhiều thời gian hơn dự kiến, ngay cả 
 - **Contingency Planning**: Hoạch định dự phòng.
 - **Defensive Design**: Thiết kế phòng thủ.
 
-→ **Liên kết:** VALIDATION (Risk Assessment), OPERATIONS (Pre-mortem)
+→ **Liên kết:** VALIDATION (Risk Assessment), VALIDATION #5 (Pre-mortem Analysis)
 
 #### **42. Opportunity Cost Razor** - Dao Cạo Chi Phí Cơ Hội
 
@@ -13588,14 +13577,18 @@ Một biểu đồ phân nhánh các kịch bản tương lai có thể xảy ra
 
 #### **12. Pre-mortem & Pre-parade** - Phân Tích Hậu Sự Trước & Diễu Hành Trước
 
-Tưởng tượng dự án đã thất bại (pre-mortem) hoặc thành công vang dội (pre-parade) để nhận diện rủi ro hoặc cơ hội.
+Công cụ lập kế hoạch HAI CHIỀU: tưởng tượng cả thất bại VÀ thành công để nhận diện rủi ro và cơ hội. Khác với Pre-Mortem đơn thuần ở VALIDATION, đây là CÔNG CỤ CHIẾN LƯỢC cân bằng cả hai cực.
 
-- **Imagined Failure**: Tưởng tượng thất bại đã xảy ra (pre-mortem).
-- **Imagined Success**: Tưởng tượng thành công rực rỡ đã xảy ra (pre-parade).
-- **Backward Reasoning**: Lập luận ngược để tìm nguyên nhân.
-- **Risk & Opportunity Identification**: Nhận diện rủi ro và cơ hội.
+- **Imagined Failure (Pre-mortem)**: Tưởng tượng dự án THẤT BẠI hoàn toàn.
+- **Imagined Success (Pre-parade)**: Tưởng tượng dự án THÀNH CÔNG rực rỡ.
+- **Backward Reasoning**: Lập luận ngược từ CẢ HAI kịch bản.
+- **Risk & OPPORTUNITY Identification**: Nhận diện CẢ rủi ro VÀ cơ hội.
 
-→ **Liên kết:** VALIDATION (Risk Assessment), CREATION (Success Visioning).
+→ **Liên kết nội bộ:** VALIDATION (Risk Assessment), CREATION (Success Visioning)
+→ **Phiên bản đơn chiều (chỉ thất bại):** VALIDATION #5 (Pre-mortem Analysis)
+→ **Ứng dụng phòng ngừa:** OPERATIONS #35 (Inversion for Problem Prevention)
+
+💡 **Điểm khác biệt:** Đây là CÔNG CỤ DUY NHẤT nhìn CẢ HAI PHÍA - không chỉ "tránh thất bại" mà còn "tối đa hóa thành công"
 
 #### **13. Multi-Scale Time Horizons** - Các Chân Trời Thời Gian Đa Tầng
 
@@ -19386,13 +19379,25 @@ Cố ý đưa vào các lỗi và sự thất bại ngẫu nhiên vào một h�
 - **Continuous Learning**: Học hỏi liên tục từ các thử nghiệm để cải thiện hệ thống.
 → **Liên kết:** INTEGRATION (Antifragile Design), DYNAMICS (System Dynamics)
 
-#### **5. Pre-mortem Analysis** - Phân Tích Tiền Khám Nghiệm
-Hình dung rằng một dự án đã thất bại và làm việc ngược lại để xác định những gì có thể đã xảy ra.
-- **Prospective Hindsight**: Sử dụng nhận thức muộn màng một cách tiên đoán.
-- **Failure Scenario Imagination**: Hình dung các kịch bản thất bại có thể xảy ra.
-- **Risk Identification**: Xác định các rủi ro tiềm ẩn trước khi chúng xảy ra.
-- **Mitigation Planning**: Lập kế hoạch giảm thiểu dựa trên các kịch bản thất bại.
-→ **Liên kết:** NAVIGATION (Scenario Planning), FOUNDATIONS (Inversion)
+#### **5. Pre-mortem Analysis** - Phân Tích Tiền Khám Nghiệm [Công Cụ Kiểm Chứng]
+
+Kỹ thuật kiểm chứng bằng cách tưởng tượng dự án đã THẤT BẠI và phân tích ngược để xác định rủi ro tiềm tàng. Đây là công cụ "STRESS-TEST TƯỞNG TƯỢNG" - kiểm tra độ vững chắc của kế hoạch TRƯỚC KHI thực thi.
+
+- **Prospective Hindsight**: Sử dụng "nhận thức muộn màng" một cách TIÊN ĐOÁN.
+- **Failure Scenario Imagination**: Tưởng tượng CHI TIẾT các kịch bản thất bại.
+- **Risk Identification**: Xác định RỦI RO tiềm ẩn mà planning thường bỏ sót.
+- **Mitigation Planning**: Lập kế hoạch PHÒNG NGỪA dựa trên các rủi ro phát hiện.
+- **Team Psychological Safety**: Tạo môi trường AN TOÀN để team nói về lo ngại.
+
+→ **Liên kết nội bộ:**
+  • Công cụ tương tự: Red Teaming (#1), Stress Testing (#3), Chaos Engineering (#4)
+  • Phương pháp luận: FOUNDATIONS (Inversion - Via Negativa)
+  • Ứng dụng lập kế hoạch: NAVIGATION #12 (Pre-mortem & Pre-parade - phiên bản hai chiều)
+  • Ứng dụng thực hành: OPERATIONS #35 (Inversion for Problem Prevention)
+
+💡 **Gốc lý thuyết:** Nghiên cứu của Gary Klein về "prospective hindsight"
+💡 **Khi nào dùng:** TRƯỚC khi commit nguồn lực lớn vào một kế hoạch
+💡 **Sức mạnh:** Phát hiện "unknown unknowns" - những rủi ro mà planning thường không thấy
 
 #### **6. Devil's Advocate** - Người Bào Chữa Cho Quỷ
 
