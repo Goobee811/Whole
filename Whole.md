@@ -4377,16 +4377,16 @@ Can thiệp có chủ đích vào các hệ thống niềm tin để tạo ra th
 
 → **Liên kết:** OPERATIONS (System Design), AMPLIFICATION (Leverage)
 
-#### **58. Evolution Hacking** - Hack Tiến Hóa
+#### **58. Evolution Hacking** - Hack Tiến Hóa [Tăng Tốc Biến Đổi]
 
-Tăng tốc quá trình tiến hóa thông qua can thiệp có chủ đích.
+Tăng tốc quá trình tiến hóa tự nhiên thông qua can thiệp có chủ đích. Khác với việc THIẾT KẾ tiến hóa ở CREATION, đây là về ĐỘNG LỰC của sự biến đổi - làm cho các quá trình chuyển đổi diễn ra NHANH HƠN.
 
-- **Acceleration Strategies**: Chiến lược tăng tốc
-- **Shortcut Discovery**: Khám phá đường tắt
-- **Bypass Traditional Paths**: Bỏ qua con đường truyền thống
-- **Rapid Adaptation**: Thích ứng nhanh
+- **Acceleration Strategies**: Chiến lược tăng tốc - đẩy nhanh quá trình
+- **Shortcut Discovery**: Khám phá đường tắt - bỏ qua các bước không cần thiết
+- **Bypass Traditional Paths**: Vượt qua con đường truyền thống
+- **Rapid Adaptation**: Thích ứng nhanh - giảm thời gian phản ứng
 
-→ **Liên kết:** NAVIGATION (Fast-Track Development), CREATION (Rapid Innovation)
+→ **Liên kết:** NAVIGATION (Fast-Track Development), CREATION #15 (Evolution Hacking - định hướng tiến hóa), DYNAMICS #1 (Evolution & Adaptation), DYNAMICS #59 (Mutation Acceleration)
 
 #### **59. Mutation Acceleration** - Tăng Tốc Đột Biến
 
@@ -10847,16 +10847,16 @@ Chủ động tạo ra một môi trường và các quy trình để nuôi dư�
 
 → **Liên kết:** CREATION (Innovation Methods), AMPLIFICATION (Catalysts)
 
-#### **15. Evolution Hacking** - "Hack" Tiến Hóa
+#### **15. Evolution Hacking** - Hack Tiến Hóa [Thiết Kế & Định Hướng]
 
-Chủ động tăng tốc và định hướng các quy trình tiến hóa thay vì chờ đợi sự thay đổi tự nhiên.
+Chủ động thiết kế và định hướng các quy trình tiến hóa thay vì chờ đợi sự thay đổi tự nhiên. Khác với việc TĂNG TỐC ở DYNAMICS, đây là về KIỂM SOÁT và ĐỊNH HÌNH - tạo ra tiến hóa có MỤC ĐÍCH.
 
-- **Directed Evolution**: Định hướng quá trình tiến hóa hướng tới một mục tiêu cụ thể
-- **Accelerated Adaptation**: Tăng tốc độ thích ứng của một hệ thống với môi trường
-- **Controlled Mutation**: Tạo ra các biến thể một cách có kiểm soát
-- **Fitness Landscape Shaping**: Định hình "cảnh quan thích nghi"
+- **Directed Evolution**: Định hướng tiến hóa hướng tới mục tiêu CỤ THỂ
+- **Accelerated Adaptation**: Tăng tốc độ thích ứng CÓ CHỌN LỌC
+- **Controlled Mutation**: Tạo biến thể CÓ KIỂM SOÁT, không ngẫu nhiên
+- **Fitness Landscape Shaping**: ĐỊNH HÌNH "cảnh quan" để hướng tiến hóa
 
-→ **Liên kết:** DYNAMICS (Evolution & Adaptation), [META] LAYER (Meta-Learning)
+→ **Liên kết:** [META] LAYER (Meta-Learning), DYNAMICS #58 (Evolution Hacking - tăng tốc biến đổi), DYNAMICS #1 (Evolution & Adaptation), OPERATIONS (Genetic Algorithms, A/B Testing)
 
 #### **16. Genius Mode Activation** - Kích Hoạt Chế Độ Thiên Tài
 
