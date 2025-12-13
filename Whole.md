@@ -6956,17 +6956,6 @@ Các kỹ thuật thở để quản lý và biến đổi năng lượng.
 
 → **Liên kết:** DYNAMICS (Breathwork), TRANSCENDENCE (Energy Awakening)
 
-#### **47. Vibrational Therapy Design** - Thiết Kế Liệu Pháp Rung Động
-
-Sử dụng tần số và rung động để điều trị và cân bằng.
-
-- **Frequency Healing**: Chữa lành bằng tần số
-- **Sound Therapy**: Liệu pháp âm thanh
-- **Vibrational Medicine**: Y học rung động
-- **Resonance Treatment**: Điều trị cộng hưởng
-
-→ **Liên kết:** DYNAMICS (Resonance), INTEGRATION (Healing)
-
 #### **48. Silence Practice** - Thực Hành Im Lặng
 
 Nuôi dưỡng im lặng bên trong và bên ngoài.
@@ -12556,14 +12545,22 @@ Tạo ra các tác phẩm không gian âm thanh.
 
 #### **31. Vibrational Therapy Design** - Thiết Kế Liệu Pháp Rung Động
 
-Thiết kế các liệu pháp dựa trên tần số.
+Thiết kế các liệu pháp chữa lành dựa trên nguyên lý tần số và rung động -
+kết hợp nghệ thuật, khoa học và trực giác để tạo ra các giao thức điều trị mới.
 
-- **Frequency Protocol**: Giao thức tần số
-- **Healing Vibration**: Rung động chữa lành
-- **Resonance Design**: Thiết kế cộng hưởng
-- **Energy Medicine**: Y học năng lượng
+- **Frequency Protocol Design**: Thiết kế giao thức tần số cho các mục đích cụ thể
+- **Healing Vibration Composition**: Sáng tác các rung động chữa lành
+- **Resonance Architecture**: Thiết kế kiến trúc cộng hưởng cho không gian chữa lành
+- **Energy Medicine Innovation**: Đổi mới trong y học năng lượng
 
-→ **Liên kết:** FOUNDATIONS (Vibrational Principles), OPERATIONS (Protocol Design)
+→ **Liên kết nội bộ:**
+  • FOUNDATIONS (Vibrational Principles - nguyên lý nền tảng)
+  • OPERATIONS (Protocol Design - thiết kế quy trình thực thi)
+  • DYNAMICS #78 (Sound & Vibrational Medicine - ứng dụng thực hành)
+  • INTEGRATION (Healing - tích hợp vào hệ thống chữa lành toàn diện)
+
+→ **Ghi chú:** Để ứng dụng thực tế các liệu pháp rung động trong quản lý
+năng lượng và cảm xúc, xem DYNAMICS #78 (Sound & Vibrational Medicine)
 
 #### **32. Algorithmic Sacred Music** - Nhạc Thiêng Liêng Thuật Toán
 
