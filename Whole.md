@@ -6338,17 +6338,6 @@ Khả năng TƯ DUY đồng thời nhiều khả năng cho đến khi cần "s�
 - Đây là về TƯ DUY (thinking mode), không phải về HÀNH ĐỘNG (strategic action)
 - Nằm trong DYNAMICS vì nó về sự linh hoạt nhận thức và khả năng chuyển đổi giữa các phương thức tư duy khác nhau
 
-#### **73. Evolutionary Navigation** - Điều Hướng Tiến Hóa
-
-Sử dụng các nguyên lý tiến hóa để tìm đường.
-
-- **Variation & Selection**: Biến dị và chọn lọc
-- **Adaptive Pathfinding**: Tìm đường thích ứng
-- **Selection Pressure**: Áp lực chọn lọc
-- **Fitness-Based Routing**: Định tuyến dựa trên độ phù hợp
-
-→ **Liên kết:** DYNAMICS (Evolution), NAVIGATION (Adaptive Strategy)
-
 #### **74. Collective Navigation** - Điều Hướng Tập Thể
 
 Tìm đường như một nhóm, tận dụng trí tuệ tập thể.
@@ -13742,14 +13731,38 @@ Khả năng "xuyên qua" các rào cản tưởng chừng không thể vượt q
 
 #### **39. Evolutionary Navigation** - Điều Hướng Tiến Hóa
 
-Điều hướng dựa trên các nguyên tắc tiến hóa: thích ứng, đột biến, chọn lọc.
+Áp dụng các nguyên lý tiến hóa sinh học vào điều hướng chiến lược: tạo biến thể, kiểm nghiệm trong thực tế, chọn lọc những gì hiệu quả, và nhân rộng các giải pháp tốt nhất.
 
-- **Adaptation Principles**: Các nguyên tắc thích ứng.
-- **Mutation & Variation**: Đột biến và biến thể.
-- **Selection Pressure**: Áp lực chọn lọc.
-- **Developmental Pathways**: Các con đường phát triển.
+- **Variation Generation**: Tạo ra nhiều phương án khác nhau
+  - Đột biến chiến lược nhỏ
+  - Thử nghiệm nhiều hướng đi song song
+  - Khuyến khích sự đa dạng trong tiếp cận
 
-→ **Liên kết:** DYNAMICS (Evolution), CREATION (Adaptive Innovation).
+- **Selection Pressure**: Áp lực chọn lọc từ môi trường
+  - Thực tế là "trọng tài" cuối cùng
+  - Ngữ cảnh quyết định phương án nào tồn tại
+  - Loại bỏ những gì không hiệu quả
+
+- **Adaptive Pathfinding**: Tìm đường thích ứng liên tục
+  - Điều chỉnh chiến lược dựa trên phản hồi
+  - Học hỏi từ thành công và thất bại
+  - Tiến hóa theo thời gian chứ không fixed plan
+
+- **Fitness-Based Routing**: Định tuyến dựa trên độ phù hợp
+  - Đo lường "độ khỏe" của từng con đường
+  - Tập trung nguồn lực vào hướng đi hiệu quả nhất
+  - Nhân rộng những gì đã proven
+
+→ **Liên kết nội bộ:**
+  • DYNAMICS #49 (Evolutionary Reasoning - tư duy tiến hóa nền tảng)
+  • CREATION (Adaptive Innovation - sáng tạo thích ứng)
+  • VALIDATION (Testing & Selection - kiểm nghiệm và chọn lọc)
+
+→ **Ứng dụng:**
+  • Chiến lược kinh doanh trong môi trường bất định
+  • Phát triển sản phẩm theo phương pháp lean
+  • Nghiên cứu khoa học với nhiều giả thuyết song song
+  • Lập kế hoạch cuộc sống linh hoạt
 
 #### **40. Co-evolutionary Navigation** - Điều Hướng Cùng Tiến Hóa
 
