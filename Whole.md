@@ -5193,18 +5193,7 @@ NGUYÊN LÝ TIẾN HÓA: Tuổi thọ kỳ vọng trong tương lai của một 
 
 → **Liên kết:** VALIDATION (Quality Control), OPERATIONS (Standard Maintenance)
 
-#### **43. Chesterton's Fence** - Hàng Rào Chesterton
-
-Không nên loại bỏ thứ gì cho đến khi hiểu tại sao nó tồn tại.
-
-- **Reform Wisdom**: Trí tuệ cải cách
-- **Function Understanding**: Hiểu chức năng
-- **Unintended Removal**: Loại bỏ vô tình
-- **Hidden Purpose**: Mục đích ẩn
-
-→ **Liên kết:** VALIDATION (Understanding Before Action), OPERATIONS (Change Management)
-
-#### **44. Occam's Razor** - Dao Cạo Occam
+#### **43. Occam's Razor** - Dao Cạo Occam
 
 Nguyên lý ưu tiên những giải thích đơn giản nhất khi đối mặt với nhiều lựa chọn có giá trị giải thích tương đương.
 
@@ -20519,12 +20508,33 @@ CÔNG CỤ KIỂM CHỨNG: Sử dụng tuổi thọ hiện tại như một heur
 - **Rủi ro**: Hệ thống banking truyền thống < crypto mới
 
 #### **48. Chesterton's Fence** - Hàng Rào của Chesterton
-Đừng phá bỏ một hàng rào cho đến khi bạn hiểu tại sao nó được dựng lên.
-- **Tradition Respect**: Tôn trọng truyền thống.
-- **Understanding Before Action**: Hiểu biết trước hành động.
-- **Hidden Wisdom**: Trí tuệ ẩn giấu.
-- **Caution Principle**: Nguyên tắc thận trọng.
-→ **Liên kết:** OPERATIONS (Change Management), VALIDATION (Assumption Testing)
+
+Nguyên tắc kiểm chứng: Đừng phá bỏ một hàng rào (hoặc thay đổi một hệ thống) cho đến khi bạn hiểu đầy đủ TẠI SAO nó được dựng lên ngay từ đầu.
+
+**Bản chất cốt lõi**: Đây là một CÔNG CỤ VALIDATION - một "dao cạo nhận thức" để tránh những thay đổi vội vàng có thể gây hậu quả không lường trước được.
+
+- **Tradition Respect**: Tôn trọng truyền thống - những gì tồn tại lâu thường có lý do
+- **Understanding Before Action**: Hiểu biết trước hành động - VALIDATION trước thay đổi
+- **Hidden Wisdom**: Trí tuệ ẩn giấu - chức năng có thể không rõ ràng ngay lập tức
+- **Caution Principle**: Nguyên tắc thận trọng - gánh nặng chứng minh thuộc về người thay đổi
+
+💡 **Ứng dụng trong Validation:**
+- Kiểm chứng lý do tồn tại trước khi loại bỏ
+- Phát hiện các phụ thuộc ẩn trong hệ thống
+- Tránh "unintended consequences" từ thay đổi vội vàng
+- Cân bằng giữa đổi mới và bảo tồn trí tuệ tích lũy
+
+→ **Liên kết nội bộ**:
+  • OPERATIONS (Change Management) - áp dụng trong quản lý thay đổi
+  • VALIDATION (Assumption Testing) - kiểm tra giả định trước khi hành động
+  • NAVIGATION (Risk Assessment) - đánh giá rủi ro của thay đổi
+
+→ **Dao Cạo Liên Quan**:
+  • Occam's Razor #47 (giản dị trong giải thích)
+  • Hanlon's Razor #46 (thiện chí trong quy kết)
+  • Hitchens's Razor (gánh nặng chứng minh)
+
+→ **Lưu ý**: Trước đây khái niệm này cũng xuất hiện ở DYNAMICS #43 (System Evolution Patterns) nhưng đã được loại bỏ vì Chesterton's Fence VỀ BẢN CHẤT là một công cụ VALIDATION, không phải một quy luật tiến hóa hệ thống
 
 #### **49. Gall's Law** - Định Luật Gall
 "Một hệ thống phức tạp hoạt động luôn phát triển từ một hệ thống đơn giản hoạt động."
