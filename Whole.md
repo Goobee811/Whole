@@ -5762,18 +5762,7 @@ Khả năng phát hiện các quy luật, cấu trúc hoặc mối quan hệ tro
 
 → **Liên kết:** VALIDATION (Pattern Verification), INTEGRATION (Knowledge Synthesis)
 
-#### **24. Chunking** - Gộp Nhóm
-
-Quá trình tổ chức thông tin thành các đơn vị lớn hơn, có ý nghĩa để tăng khả năng xử lý.
-
-- **Information Compression**: Nén thông tin
-- **Meaningful Units**: Các đơn vị có ý nghĩa
-- **Memory Enhancement**: Tăng cường khả năng ghi nhớ
-- **Expertise Development**: Phát triển chuyên môn qua chunking
-
-→ **Liên kết:** OPERATIONS (Information Organization), [META] LAYER (Cognitive Efficiency)
-
-#### **25. Cognitive Restructuring** - Tái Cấu Trúc Nhận Thức
+#### **24. Cognitive Restructuring** - Tái Cấu Trúc Nhận Thức
 
 Quá trình xác định và thay đổi các mẫu tư duy không hữu ích hoặc không chính xác.
 
@@ -5784,7 +5773,7 @@ Quá trình xác định và thay đổi các mẫu tư duy không hữu ích ho
 
 → **Liên kết:** VALIDATION (Belief Testing), [META] LAYER (Belief System Architecture)
 
-#### **26. Concept Formation** - Hình Thành Khái Niệm
+#### **25. Concept Formation** - Hình Thành Khái Niệm
 
 Quá trình phát triển các khái niệm mới từ kinh nghiệm cụ thể thông qua trừu tượng hóa.
 
@@ -5795,7 +5784,7 @@ Quá trình phát triển các khái niệm mới từ kinh nghiệm cụ thể 
 
 → **Liên kết:** INTEGRATION (Knowledge Organization), OPERATIONS (Conceptual Thinking)
 
-#### **27. Transfer of Learning** - Chuyển Giao Học Tập
+#### **26. Transfer of Learning** - Chuyển Giao Học Tập
 
 Ứng dụng kiến thức hoặc kỹ năng học được trong một ngữ cảnh vào ngữ cảnh khác.
 
@@ -5806,7 +5795,7 @@ Quá trình phát triển các khái niệm mới từ kinh nghiệm cụ thể 
 
 → **Liên kết:** INTEGRATION (Knowledge Application), OPERATIONS (Skill Generalization)
 
-#### **28. Cognitive Dissonance** - Mâu Thuẫn Nhận Thức
+#### **27. Cognitive Dissonance** - Mâu Thuẫn Nhận Thức
 
 Trạng thái khó chịu khi giữ các niềm tin, ý tưởng hoặc giá trị mâu thuẫn nhau.
 
@@ -5817,7 +5806,7 @@ Trạng thái khó chịu khi giữ các niềm tin, ý tưởng hoặc giá tr�
 
 → **Liên kết:** VALIDATION (Consistency Check), INTEGRATION (Belief Integration)
 
-#### **29. Conceptual Blending** - Pha Trộn Khái Niệm [Năng Lực Nhận Thức]
+#### **28. Conceptual Blending** - Pha Trộn Khái Niệm [Năng Lực Nhận Thức]
 
 Khả năng nhận thức động để kết hợp các yếu tố từ các không gian tâm trí khác nhau nhằm tạo ra ý nghĩa mới. Đây là NĂNG LỰC CƠ BẢN của tư duy linh hoạt - khả năng di chuyển và hợp nhất các không gian khái niệm một cách tự nhiên.
 
@@ -5838,7 +5827,7 @@ Khả năng nhận thức động để kết hợp các yếu tố từ các kh
 - Nhấn mạnh LINH HOẠT NHẬN THỨC và khả năng mode-switching
 - Là một CHỨC NĂNG TỰ NHIÊN của tâm trí, không nhất thiết có chủ đích
 
-#### **30. Dual Coding** - Mã Hóa Kép
+#### **29. Dual Coding** - Mã Hóa Kép
 
 Sử dụng cả hệ thống mã hóa ngôn ngữ và hình ảnh để cải thiện việc học và ghi nhớ.
 
@@ -5849,7 +5838,7 @@ Sử dụng cả hệ thống mã hóa ngôn ngữ và hình ảnh để cải t
 
 → **Liên kết:** OPERATIONS (Learning Strategies), INTEGRATION (Multi-modal Processing)
 
-#### **31. Schema Theory** - Lý Thuyết Lược Đồ
+#### **29. Schema Theory** - Lý Thuyết Lược Đồ
 
 Các cấu trúc kiến thức tổ chức giúp giải thích và dự đoán các tình huống.
 
@@ -5860,7 +5849,7 @@ Các cấu trúc kiến thức tổ chức giúp giải thích và dự đoán c
 
 → **Liên kết:** INTEGRATION (Knowledge Organization), VALIDATION (Expectation Checking)
 
-#### **32. Spreading Activation** - Kích Hoạt Lan Truyền
+#### **29. Spreading Activation** - Kích Hoạt Lan Truyền
 
 Mô hình về cách các khái niệm trong bộ nhớ được kích hoạt và lan truyền qua mạng lưới liên kết.
 
@@ -5871,7 +5860,7 @@ Mô hình về cách các khái niệm trong bộ nhớ được kích hoạt v�
 
 → **Liên kết:** INTEGRATION (Knowledge Networks), [META] LAYER (Associative Thinking)
 
-#### **33. Mental Models - Mô Hình Tinh Thần [Trong Linh Hoạt Nhận Thức]**
+#### **29. Mental Models - Mô Hình Tinh Thần [Trong Linh Hoạt Nhận Thức]**
 
 Các biểu diễn nội tâm về cách thế giới hoạt động - CÓ THỂ THAY ĐỔI và
 CẬP NHẬT khi gặp thông tin mới. Khác với nguyên lý nền tảng ở FOUNDATIONS,
@@ -5888,7 +5877,7 @@ CẬP NHẬT khi gặp thông tin mới. Khác với nguyên lý nền tảng �
 → **Khuếch đại:** AMPLIFICATION #15 (nhân rộng ảnh hưởng)
 → **Ý nghĩa:** Tập trung vào KHẢ NĂNG THAY ĐỔI và LINH HOẠT của mô hình
 
-#### **34. Perceptual Set** - Thiết Lập Tri Giác
+#### **29. Perceptual Set** - Thiết Lập Tri Giác
 
 Xu hướng tri giác những gì chúng ta mong đợi dựa trên kinh nghiệm, ngữ cảnh và động cơ.
 
@@ -5899,7 +5888,7 @@ Xu hướng tri giác những gì chúng ta mong đợi dựa trên kinh nghiệ
 
 → **Liên kết:** VALIDATION (Observation Bias), [META] LAYER (Perception Awareness)
 
-#### **35. Cognitive Momentum** - Động Lượng Nhận Thức
+#### **29. Cognitive Momentum** - Động Lượng Nhận Thức
 
 Xu hướng tiếp tục với một chuỗi suy nghĩ hoặc hành động một khi đã bắt đầu.
 
@@ -5910,7 +5899,7 @@ Xu hướng tiếp tục với một chuỗi suy nghĩ hoặc hành động mộ
 
 → **Liên kết:** AMPLIFICATION (Flywheel Effect), CREATION (Creative Momentum)
 
-#### **36. Incubation Effect** - Hiệu Ứng Ấp Ủ
+#### **29. Incubation Effect** - Hiệu Ứng Ấp Ủ
 
 Hiện tượng giải pháp cho một vấn đề xuất hiện sau khi tạm dừng làm việc trực tiếp với nó.
 
@@ -5921,7 +5910,7 @@ Hiện tượng giải pháp cho một vấn đề xuất hiện sau khi tạm d
 
 → **Liên kết:** CREATION (Creative Process), [META] LAYER (Strategic Pausing)
 
-#### **37. Productive Failure** - Thất Bại Năng Suất
+#### **29. Productive Failure** - Thất Bại Năng Suất
 
 Quá trình học được tăng cường khi người học phải vật lộn với vấn đề trước khi được hướng dẫn.
 
@@ -5932,7 +5921,7 @@ Quá trình học được tăng cường khi người học phải vật lộn 
 
 → **Liên kết:** OPERATIONS (Learning Design), VALIDATION (Mistake Learning)
 
-#### **38. Curiosity Drive** - Động Lực Tò Mò
+#### **29. Curiosity Drive** - Động Lực Tò Mò
 
 Động cơ nội tại để tìm kiếm thông tin mới và trải nghiệm mới.
 
@@ -5943,7 +5932,7 @@ Quá trình học được tăng cường khi người học phải vật lộn 
 
 → **Liên kết:** CREATION (Exploration), OPERATIONS (Self-Directed Learning)
 
-#### **39. Cognitive Flexibility in Problem-Solving** - Linh Hoạt Nhận Thức Trong Giải Quyết Vấn Đề
+#### **29. Cognitive Flexibility in Problem-Solving** - Linh Hoạt Nhận Thức Trong Giải Quyết Vấn Đề
 
 Khả năng chuyển đổi giữa các chiến lược giải quyết vấn đề khác nhau.
 
@@ -5954,7 +5943,7 @@ Khả năng chuyển đổi giữa các chiến lược giải quyết vấn đ�
 
 → **Liên kết:** OPERATIONS (Problem-Solving), NAVIGATION (Adaptive Tactics)
 
-#### **40. Meta-Cognitive Flow** - Dòng Chảy Siêu Nhận Thức
+#### **29. Meta-Cognitive Flow** - Dòng Chảy Siêu Nhận Thức
 
 Trạng thái động, trong đó việc giám sát và điều chỉnh các quá trình nhận thức diễn ra một cách trôi chảy và không cần nỗ lực.
 
@@ -5967,7 +5956,7 @@ Trạng thái động, trong đó việc giám sát và điều chỉnh các qu�
 
 ### **Nhóm Bổ Sung: Processing Modes (8 mục mới)**
 
-#### **41. Analysis ↔ Synthesis** - Phân Tích ↔ Tổng Hợp
+#### **29. Analysis ↔ Synthesis** - Phân Tích ↔ Tổng Hợp
 
 Hai quá trình bổ sung: phân tách để hiểu và kết hợp để tạo ra toàn thể mới.
 
@@ -5978,7 +5967,7 @@ Hai quá trình bổ sung: phân tách để hiểu và kết hợp để tạo 
 
 → **Liên kết:** OPERATIONS (Decomposition), INTEGRATION (Synthesis)
 
-#### **42. Linear ↔ Non-linear** - Tuyến Tính ↔ Phi Tuyến Tính
+#### **29. Linear ↔ Non-linear** - Tuyến Tính ↔ Phi Tuyến Tính
 
 Hai cách tiếp cận tư duy: tuần tự từng bước và nhảy vọt không tuần tự.
 
@@ -5989,7 +5978,7 @@ Hai cách tiếp cận tư duy: tuần tự từng bước và nhảy vọt khô
 
 → **Liên kết:** OPERATIONS (Sequential Processing), CREATION (Non-linear Thinking)
 
-#### **43. Sequential ↔ Parallel** - Tuần Tự ↔ Song Song
+#### **29. Sequential ↔ Parallel** - Tuần Tự ↔ Song Song
 
 Xử lý thông tin từng cái một hoặc nhiều cái cùng lúc.
 
@@ -6000,7 +5989,7 @@ Xử lý thông tin từng cái một hoặc nhiều cái cùng lúc.
 
 → **Liên kết:** OPERATIONS (Processing Architecture), [META] LAYER (Cognitive Design)
 
-#### **44. Focused ↔ Diffuse Mode** - Chế Độ Tập Trung ↔ Lan Tỏa
+#### **29. Focused ↔ Diffuse Mode** - Chế Độ Tập Trung ↔ Lan Tỏa
 
 Hai chế độ chú ý: tập trung cao độ và chú ý lan tỏa rộng.
 
@@ -6011,7 +6000,7 @@ Hai chế độ chú ý: tập trung cao độ và chú ý lan tỏa rộng.
 
 → **Liên kết:** OPERATIONS (Attention Management), CREATION (Diffuse Thinking)
 
-#### **45. System 1 ↔ System 2** - Hệ Thống 1 ↔ Hệ Thống 2
+#### **29. System 1 ↔ System 2** - Hệ Thống 1 ↔ Hệ Thống 2
 
 Hai hệ thống tư duy khác biệt: Hệ thống 1 (nhanh, trực giác, tự động) và Hệ thống 2 (chậm, có logic, kiểm soát).
 
@@ -6023,7 +6012,7 @@ Hai hệ thống tư duy khác biệt: Hệ thống 1 (nhanh, trực giác, tự
 
 → **Liên kết:** OPERATIONS (Dual Process, Decision Making), VALIDATION (Decision Quality)
 
-#### **46. Hot ↔ Cold Cognition** - Nhận Thức Nóng ↔ Lạnh
+#### **29. Hot ↔ Cold Cognition** - Nhận Thức Nóng ↔ Lạnh
 
 Tư duy bị ảnh hưởng bởi cảm xúc (nóng) so với tư duy trung lập cảm xúc (lạnh).
 
@@ -6038,7 +6027,7 @@ Tư duy bị ảnh hưởng bởi cảm xúc (nóng) so với tư duy trung lậ
 
 ### **Nhóm Bổ Sung: Reasoning Dynamics (8 mục mới)**
 
-#### **47. Causal Reasoning** - Suy Luận Nhân Quả [Chức Năng Nhận Thức]
+#### **29. Causal Reasoning** - Suy Luận Nhân Quả [Chức Năng Nhận Thức]
 
 Khả năng tự nhiên của tâm trí để SUY LUẬN về quan hệ nguyên nhân-kết quả. Đây là **MỘT TRONG NHỮNG CHỨC NĂNG NHẬN THỨC CƠ BẢN** nhất - não bộ con người được tiến hóa để tự động tìm kiếm và hiểu các mối quan hệ nhân quả.
 
@@ -6052,7 +6041,7 @@ Khả năng tự nhiên của tâm trí để SUY LUẬN về quan hệ nguyên 
 → **Công cụ hóa:** OPERATIONS #5 (Causal Reasoning - phương pháp luận)
 → **Mở rộng:** DYNAMICS #48 (Causal Networks), #50 (Temporal Causation)
 
-#### **48. Causal Networks** - Mạng Lưới Nhân Quả
+#### **29. Causal Networks** - Mạng Lưới Nhân Quả
 
 Khả năng nhìn thấy và hiểu các hệ thống phức tạp của các mối quan hệ nhân quả tương tác. Mở rộng từ **suy luận nhân quả tuyến tính** (A→B) sang **tư duy mạng lưới** (A↔B↔C↔D...).
 
@@ -6066,7 +6055,7 @@ Khả năng nhìn thấy và hiểu các hệ thống phức tạp của các m�
 → **Khả năng cơ bản:** DYNAMICS #47 (Causal Reasoning)
 → **Công cụ trực quan:** OPERATIONS #22 (Causal Loop Diagrams)
 
-#### **49. Intervention Reasoning** - Suy Luận Can Thiệp
+#### **29. Intervention Reasoning** - Suy Luận Can Thiệp
 
 Suy luận về hậu quả của các hành động và can thiệp.
 
@@ -6077,7 +6066,7 @@ Suy luận về hậu quả của các hành động và can thiệp.
 
 → **Liên kết:** NAVIGATION (Action Planning), VALIDATION (Consequence Analysis)
 
-#### **50. Temporal Causation** - Nhân Quả Thời Gian
+#### **29. Temporal Causation** - Nhân Quả Thời Gian
 
 Khả năng nhận thức về cách các nguyên nhân và kết quả triển khai theo thời gian. Hiểu rằng nhân quả không tức thì - có **độ trễ**, **tích lũy**, và **mẫu hình thời gian**.
 
@@ -6091,7 +6080,7 @@ Khả năng nhận thức về cách các nguyên nhân và kết quả triển 
 → **Khả năng cơ bản:** DYNAMICS #47 (Causal Reasoning)
 → **Vượt thoát:** TRANSCENDENCE #30 (Retroactive Causality - nhân quả ngược thời gian)
 
-#### **51. Adaptive Reasoning** - Suy Luận Thích Ứng
+#### **29. Adaptive Reasoning** - Suy Luận Thích Ứng
 
 Điều chỉnh chiến lược suy luận dựa trên ngữ cảnh và phản hồi.
 
@@ -6102,7 +6091,7 @@ Khả năng nhận thức về cách các nguyên nhân và kết quả triển 
 
 → **Liên kết:** NAVIGATION (Adaptive Strategy), [META] LAYER (Strategic Thinking)
 
-#### **52. Portfolio Reasoning** - Suy Luận Danh Mục
+#### **29. Portfolio Reasoning** - Suy Luận Danh Mục
 
 Suy nghĩ về tập hợp các lựa chọn thay vì lựa chọn đơn lẻ.
 
@@ -6113,7 +6102,7 @@ Suy nghĩ về tập hợp các lựa chọn thay vì lựa chọn đơn lẻ.
 
 → **Liên kết:** NAVIGATION (Portfolio Strategy), VALIDATION (Risk Management)
 
-#### **53. Complex Systems Decisions** - Quyết Định Hệ Thống Phức Tạp
+#### **29. Complex Systems Decisions** - Quyết Định Hệ Thống Phức Tạp
 
 Ra quyết định trong các tình huống có nhiều biến số tương tác.
 
@@ -6128,7 +6117,7 @@ Ra quyết định trong các tình huống có nhiều biến số tương tác
 
 ### **Nhóm Bổ Sung: Creative Systems (6 mục mới)**
 
-#### **55. Adaptive Systems (Creativity)** - Hệ Thống Thích Ứng (Sáng Tạo)
+#### **29. Adaptive Systems (Creativity)** - Hệ Thống Thích Ứng (Sáng Tạo)
 
 Hệ thống tự tổ chức và phản hồi để tạo ra các giải pháp sáng tạo.
 
@@ -6139,7 +6128,7 @@ Hệ thống tự tổ chức và phản hồi để tạo ra các giải pháp 
 
 → **Liên kết:** CREATION (Generative Systems), DYNAMICS (Self-Organization)
 
-#### **56. Feedback Loop Creativity** - Sáng Tạo Vòng Lặp Phản Hồi
+#### **29. Feedback Loop Creativity** - Sáng Tạo Vòng Lặp Phản Hồi
 
 Sử dụng vòng lặp phản hồi để tạo ra các mẫu hình sáng tạo phức tạp.
 
@@ -6150,7 +6139,7 @@ Sử dụng vòng lặp phản hồi để tạo ra các mẫu hình sáng tạo
 
 → **Liên kết:** AMPLIFICATION (Feedback Loops), CREATION (Recursive Creation)
 
-#### **57. Attractor Dynamics (Creativity)** - Động Lực Hấp Dẫn (Sáng Tạo)
+#### **29. Attractor Dynamics (Creativity)** - Động Lực Hấp Dẫn (Sáng Tạo)
 
 Sử dụng các hấp dẫn tử để tạo ra các mẫu hình sáng tạo ổn định. Đây là ứng dụng cụ thể của Strange Attractors vào quá trình sáng tạo, sử dụng attractor dynamics để tạo patterns sáng tạo ổn định.
 
@@ -6165,7 +6154,7 @@ Sử dụng các hấp dẫn tử để tạo ra các mẫu hình sáng tạo �
 
 → **Liên kết:** DYNAMICS (Strange Attractors), CREATION (Pattern Design)
 
-#### **58. Nonlinear Creativity** - Sáng Tạo Phi Tuyến
+#### **29. Nonlinear Creativity** - Sáng Tạo Phi Tuyến
 
 Các quá trình sáng tạo với các hiệu ứng không tỷ lệ và đột phá bất ngờ.
 
@@ -6176,7 +6165,7 @@ Các quá trình sáng tạo với các hiệu ứng không tỷ lệ và đột
 
 → **Liên kết:** DYNAMICS (Chaos Theory), CREATION (Radical Innovation)
 
-#### **59. Swarm Creativity** - Sáng Tạo Bầy Đàn
+#### **29. Swarm Creativity** - Sáng Tạo Bầy Đàn
 
 Sáng tạo tập thể xuất hiện từ tương tác của nhiều tác nhân đơn giản.
 
@@ -6187,7 +6176,7 @@ Sáng tạo tập thể xuất hiện từ tương tác của nhiều tác nhân
 
 → **Liên kết:** AMPLIFICATION (Swarm Intelligence), CREATION (Collaborative Creation)
 
-#### **60. Phase Transition Creativity** - Sáng Tạo Chuyển Pha
+#### **29. Phase Transition Creativity** - Sáng Tạo Chuyển Pha
 
 Đổi mới xuất hiện ở các điểm chuyển pha giữa các trạng thái khác nhau.
 
@@ -6202,7 +6191,7 @@ Sáng tạo tập thể xuất hiện từ tương tác của nhiều tác nhân
 
 ### **Nhóm Bổ Sung: Navigation Biases & Skills (8 mục mới)**
 
-#### **61. Dunning-Kruger Razor** - Dao Cạo Dunning-Kruger
+#### **29. Dunning-Kruger Razor** - Dao Cạo Dunning-Kruger
 
 Nhận thức về xu hướng đánh giá quá cao năng lực khi thiếu năng lực.
 
@@ -6214,7 +6203,7 @@ Nhận thức về xu hướng đánh giá quá cao năng lực khi thiếu năn
 → **Liên kết:** [META] LAYER (Meta-Competence), VALIDATION (Self-Assessment)
 → **Gốc lý thuyết:** FOUNDATIONS #39 (The Dunning-Kruger Effect)
 
-#### **62. Fredkin's Paradox** - Nghịch Lý Fredkin
+#### **29. Fredkin's Paradox** - Nghịch Lý Fredkin
 
 "Càng quyết định giữa các lựa chọn tương đương, càng ít quan trọng việc chọn cái nào."
 
@@ -6225,7 +6214,7 @@ Nhận thức về xu hướng đánh giá quá cao năng lực khi thiếu năn
 
 → **Liên kết:** OPERATIONS (Decision Making), NAVIGATION (Priority Setting)
 
-#### **63. Sayre's Law** - Định Luật Sayre
+#### **29. Sayre's Law** - Định Luật Sayre
 
 "Trong bất kỳ tranh cãi nào, cường độ cảm xúc tỷ lệ nghịch với giá trị của vấn đề đang bàn."
 
@@ -6236,7 +6225,7 @@ Nhận thức về xu hướng đánh giá quá cao năng lực khi thiếu năn
 
 → **Liên kết:** VALIDATION (Conflict Analysis), NAVIGATION (Energy Allocation)
 
-#### **64. Bikeshedding Law** - Định Luật Bikeshedding
+#### **29. Bikeshedding Law** - Định Luật Bikeshedding
 
 Xu hướng dành thời gian không cân xứng cho các vấn đề tầm thường dễ hiểu.
 
@@ -6247,7 +6236,7 @@ Xu hướng dành thời gian không cân xứng cho các vấn đề tầm thư
 
 → **Liên kết:** NAVIGATION (Priority Management), VALIDATION (Importance Assessment)
 
-#### **65. Decision Velocity** - Tốc Độ Quyết Định
+#### **29. Decision Velocity** - Tốc Độ Quyết Định
 
 Khả năng ra quyết định nhanh chóng mà vẫn duy trì chất lượng.
 
@@ -6258,7 +6247,7 @@ Khả năng ra quyết định nhanh chóng mà vẫn duy trì chất lượng.
 
 → **Liên kết:** NAVIGATION (Fast Decision Making), OPERATIONS (Execution Speed)
 
-#### **66. Option Preservation** - Bảo Tồn Lựa Chọn
+#### **29. Option Preservation** - Bảo Tồn Lựa Chọn
 
 Duy trì sự linh hoạt bằng cách giữ các lựa chọn mở.
 
@@ -6269,7 +6258,7 @@ Duy trì sự linh hoạt bằng cách giữ các lựa chọn mở.
 
 → **Liên kết:** NAVIGATION (Strategic Flexibility), VALIDATION (Option Value)
 
-#### **67. Decision Stack** - Chồng Quyết Định
+#### **29. Decision Stack** - Chồng Quyết Định
 
 Quản lý nhiều quyết định ở các cấp độ khác nhau.
 
@@ -6280,7 +6269,7 @@ Quản lý nhiều quyết định ở các cấp độ khác nhau.
 
 → **Liên kết:** OPERATIONS (Hierarchical Processing), NAVIGATION (Multi-level Strategy)
 
-#### **68. Decision Momentum** - Động Lượng Quyết Định
+#### **29. Decision Momentum** - Động Lượng Quyết Định
 
 Sự tích lũy của các quyết định tạo ra động lượng hành động.
 
@@ -9043,17 +9032,29 @@ Mã hóa thông tin cả dưới dạng ngôn ngữ và hình ảnh để tăng 
 
 → **Liên kết:** CREATION (Visual Thinking), OPERATIONS (Mental Models)
 
-#### **5. Chunking** - Chia Khối
+#### **5. Chunking - Chia Khối / Gộp Nhóm Thông Tin**
 
-Nhóm các đơn vị thông tin riêng lẻ thành các đơn vị có ý nghĩa lớn hơn để vượt qua giới hạn của bộ nhớ làm việc.
+Kỹ thuật nhận thức cơ bản trong học tập: nhóm các đơn vị thông tin riêng lẻ thành các "khối" (chunks) có ý nghĩa lớn hơn để vượt qua giới hạn của bộ nhớ làm việc (7±2 đơn vị). Đây là CƠ CHẾ CỐT LÕI giúp chuyên gia xử lý thông tin phức tạp một cách hiệu quả.
 
-- **Pattern Recognition**: Nhận diện các mẫu hình trong dữ liệu để tạo chunks.
-- **Working Memory Expansion**: Mở rộng năng lực bộ nhớ làm việc hiệu quả.
-- **Expertise Development**: Chuyên gia có chunks lớn hơn và phức tạp hơn.
-- **Efficient Processing**: Xử lý thông tin hiệu quả hơn thông qua chunks.
+- **Pattern Recognition**: Nhận diện mẫu hình trong dữ liệu để tạo chunks có ý nghĩa
+- **Information Compression**: Nén nhiều đơn vị nhỏ thành một đơn vị lớn hơn
+- **Working Memory Expansion**: Mở rộng năng lực bộ nhớ làm việc một cách hiệu quả
+- **Expertise Development**: Chuyên gia có chunks lớn hơn, phức tạp hơn và trừu tượng hơn
+- **Efficient Processing**: Xử lý thông tin nhanh hơn và chính xác hơn thông qua chunks
+- **Meaningful Units**: Tạo các đơn vị có ý nghĩa thay vì các phần tử rời rạc
 
-→ **Liên kết:** OPERATIONS (Pattern Recognition), DYNAMICS (Expertise)
-→ **Chunking chuyên gia:** Khi chunks đủ lớn và phức tạp, dẫn đến "Instant Integration" (DYNAMICS #25) - tổng hợp tức thời
+VÍ DỤ:
+- Người mới: Nhìn cờ vua thấy 32 quân cờ riêng lẻ (quá tải)
+- Chuyên gia: Nhìn thấy 3-4 "chunks" chiến thuật (trong tầm kiểm soát)
+
+→ **Liên kết nội bộ:**
+  - OPERATIONS (Pattern Recognition) - nhận dạng để tạo chunks
+  - DYNAMICS (Expertise Development) - chunks phức tạp hơn theo thời gian
+  - META (Cognitive Load Management) - chunking để giảm tải nhận thức
+
+→ **Được sử dụng trong:**
+  - DYNAMICS #18 (Working Memory Optimization) - chunking strategies
+  - META #6 (Cognitive Load Management) - information chunking
 
 #### **6. Method of Loci (Memory Palace)** - Phương Pháp Địa Điểm
 
@@ -9195,7 +9196,8 @@ Khả năng điều chỉnh phạm vi của sự chú ý.
 
 Các kỹ thuật để tối đa hóa hiệu quả của bộ nhớ làm việc giới hạn.
 
-- **Chunking Strategies**: Chiến lược chia khối hiệu quả.
+- **Chunking Strategies**: Chiến lược chia khối hiệu quả
+  → Tham khảo: OPERATIONS #5 (Chunking) - kỹ thuật chi tiết
 - **Cognitive Load Management**: Quản lý tải nhận thức.
 - **Rehearsal Techniques**: Kỹ thuật luyện tập duy trì thông tin.
 - **Capacity Expansion**: Mở rộng năng lực hiệu quả.
@@ -26381,7 +26383,8 @@ Nhận thức về giới hạn của tri thức và sự cởi mở với việ
 Khả năng điều chỉnh khối lượng và độ phức tạp của thông tin đang xử lý.
 
 - **Working Memory Awareness**: Nhận thức về giới hạn của bộ nhớ làm việc.
-- **Chunking Strategies**: Sử dụng các chiến lược "chia khối" để giảm tải.
+- **Chunking Strategies**: Sử dụng các chiến lược "chia khối" để giảm tải
+  → Tham khảo: OPERATIONS #5 (Chunking) - cơ chế cốt lõi
 - **Cognitive Offloading**: Chuyển tải nhận thức ra các công cụ bên ngoài (ghi chú, sơ đồ).
 - **Attention Allocation**: Phân bổ chú ý một cách chiến lược.
 
