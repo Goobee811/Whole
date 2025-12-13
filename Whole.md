@@ -7945,16 +7945,33 @@ Khám phá các kịch bản tương lai khả thi khác nhau và hậu quả c�
 
 → **Liên kết:** NAVIGATION (Strategic Planning), VALIDATION (Risk Assessment, Stress Testing)
 
-#### **17. Sensitivity Analysis** - Phân Tích Độ Nhạy
+#### **17. Sensitivity Analysis** - Phân Tích Độ Nhạy [Công Cụ Giải Quyết Vấn Đề]
 
-Kỹ thuật kiểm tra xem kết quả của một mô hình thay đổi như thế nào khi các giả định đầu vào thay đổi.
+Kỹ thuật phân tích có hệ thống để hiểu cách kết quả của một mô hình, quyết định, hoặc hệ thống thay đổi khi các giả định và đầu vào thay đổi. Đây là CÔNG CỤ THIẾT YẾU trong giải quyết vấn đề để:
+- Xác định các biến quan trọng nhất (key drivers)
+- Kiểm tra độ vững chắc của giải pháp
+- Hiểu phạm vi không chắc chắn
 
-- **Input Variable Perturbation**: Làm nhiễu loạn các biến đầu vào một cách có hệ thống.
-- **Output Stability Assessment**: Đánh giá mức độ ổn định của đầu ra.
-- **Critical Assumption Identification**: Xác định những giả định có ảnh hưởng lớn nhất.
-- **Model Robustness Check**: Kiểm tra độ vững chắc của mô hình.
+**Phương pháp thực hiện:**
+- **Input Variable Perturbation**: Làm nhiễu loạn từng biến đầu vào một cách có hệ thống.
+- **Output Stability Assessment**: Đo lường mức độ ổn định của kết quả.
+- **Critical Assumption Identification**: Xác định giả định nào có tác động lớn nhất.
+- **Model Robustness Check**: Đánh giá độ tin cậy của mô hình qua nhiều điều kiện.
 
-→ **Liên kết:** VALIDATION (Risk Assessment, Stress Testing), OPERATIONS (Risk Management)
+**Khi nào sử dụng:**
+- Khi xây dựng mô hình dự báo hoặc ra quyết định
+- Khi cần hiểu rủi ro và bất định
+- Khi muốn tối ưu hóa thiết kế hoặc chiến lược
+
+**Công cụ & Kỹ thuật:**
+- One-at-a-time (OAT) Analysis: Thay đổi từng biến một
+- Monte Carlo Simulation: Phân tích độ nhạy xác suất
+- Tornado Diagram: Trực quan hóa tác động tương đối
+- Spider Plot: Thể hiện sự thay đổi đa chiều
+
+→ **Liên kết nội bộ:** OPERATIONS (What-If Analysis, Risk Assessment)
+→ **Liên kết khác:** VALIDATION #17 (Sensitivity Analysis - phát hiện lỗi & điểm yếu)
+→ **Ứng dụng:** NAVIGATION (Scenario Planning), VALIDATION (Stress Testing)
 
 #### **19. Dimensionality Reduction** - Giảm Chiều Dữ Liệu
 
@@ -19438,13 +19455,34 @@ Tập trung kiểm tra các giá trị đầu vào ở các giới hạn cực �
 - **System Stability Check**: Kiểm tra sự ổn định của hệ thống khi hoạt động ở giới hạn của nó.
 → **Liên kết:** OPERATIONS (Constraint Analysis), DYNAMICS (Tipping Points)
 
-#### **17. Sensitivity Analysis** - Phân Tích Độ Nhạy
-Xác định cách các đầu ra của một mô hình thay đổi khi các đầu vào hoặc giả định thay đổi.
-- **Input Variation Impact**: Đánh giá tác động của việc thay đổi các biến đầu vào.
-- **Assumption Robustness**: Kiểm tra xem kết quả có mạnh mẽ trước các thay đổi trong giả định hay không.
-- **Key Driver Identification**: Xác định các biến đầu vào nào có tác động lớn nhất đến kết quả.
-- **Uncertainty Quantification**: Định lượng độ không chắc chắn của các dự báo hoặc quyết định.
-→ **Liên kết:** OPERATIONS (What-If Analysis), NAVIGATION (Scenario Planning)
+#### **17. Sensitivity Analysis** - Phân Tích Độ Nhạy [Phát Hiện Lỗi & Điểm Yếu]
+
+Phương pháp kiểm tra và xác thực để phát hiện các điểm yếu, lỗ hổng và nguồn gốc lỗi trong mô hình, hệ thống hoặc quyết định. Trong ngữ cảnh VALIDATION, Sensitivity Analysis tập trung vào:
+- Tìm các điểm lỗi tiềm ẩn (failure modes)
+- Xác định ngưỡng tới hạn (critical thresholds)
+- Đo lường khả năng chịu lỗi (error tolerance)
+
+**Phương pháp kiểm chứng:**
+- **Input Variation Impact**: Đánh giá hệ thống phản ứng như thế nào với thay đổi.
+- **Assumption Robustness Testing**: Kiểm tra giả định nào có thể phá vỡ hệ thống.
+- **Key Driver Identification**: Xác định biến nào có rủi ro cao nhất.
+- **Uncertainty Quantification**: Định lượng độ không chắc chắn và biên độ lỗi.
+
+**Khi nào sử dụng:**
+- Trong quá trình quality assurance và risk assessment
+- Khi cần validate độ tin cậy của mô hình
+- Trước khi triển khai hệ thống quan trọng
+- Khi phân tích nguyên nhân gốc rễ của lỗi
+
+**Mở rộng ứng dụng:**
+- Variability Analysis: Phân tích biến thiên trong quy trình
+- Parameter Scanning: Quét không gian tham số tìm điểm bất ổn
+- Failure Mode Discovery: Khám phá các chế độ thất bại tiềm ẩn
+- Risk Boundary Mapping: Lập bản đồ ranh giới rủi ro
+
+→ **Liên kết nội bộ:** VALIDATION (Stress Testing, Robustness Check)
+→ **Liên kết khác:** OPERATIONS #17 (Sensitivity Analysis - công cụ giải quyết vấn đề)
+→ **Tích hợp:** Nội dung từ VALIDATION Chức năng 3 #5 (Feedback Processing) và VALIDATION Chức năng 5 #39 (Sensitivity Testing)
 
 #### **18. Backcasting from Failure** - Suy Lùi từ Thất Bại
 Bắt đầu từ một chế độ thất bại cụ thể và truy ngược lại để xác định các chuỗi sự kiện có thể dẫn đến nó.
@@ -19649,14 +19687,6 @@ Phân tích hành vi của một nhóm người dùng (thuần tập) có cùng 
 - **Trend Identification**: Xác định các xu hướng trong hành vi của các nhóm người dùng khác nhau.
 - **Product/Market Fit Validation**: Một công cụ quan trọng để xác thực sự phù hợp của sản phẩm với thị trường.
 → **Liên kết:** DYNAMICS (System Dynamics), NAVIGATION (Progress Tracking)
-
-#### **5. Sensitivity Analysis** - Phân Tích Độ Nhạy
-Xác định cách các đầu ra của một mô hình thay đổi khi các đầu vào hoặc giả định thay đổi.
-- **Input Variation Impact**: Đánh giá tác động của việc thay đổi các biến đầu vào.
-- **Assumption Robustness**: Kiểm tra xem kết quả có mạnh mẽ trước các thay đổi trong giả định hay không.
-- **Key Driver Identification**: Xác định các biến đầu vào nào có tác động lớn nhất đến kết quả.
-- **Uncertainty Quantification**: Định lượng độ không chắc chắn của các dự báo hoặc quyết định.
-→ **Liên kết:** OPERATIONS (What-If Analysis), NAVIGATION (Scenario Planning)
 
 #### **6. Instrument Validation** - Xác Thực Công Cụ Đo
 Quá trình đảm bảo rằng một công cụ đo lường (ví dụ: bảng câu hỏi, cảm biến) là đáng tin cậy và hợp lệ.
@@ -20594,14 +20624,6 @@ Quy trình có hệ thống để nhận diện, phân tích và ưu tiên rủi
 - **Certainty Levels**: Mức độ chắc chắn.
 - **Epistemic Uncertainty**: Bất định nhận thức.
 → **Liên kết:** OPERATIONS (Bayesian Thinking), VALIDATION (Peer Review)
-
-#### **39. Sensitivity Testing** - Kiểm Thử Độ Nhạy
-Kiểm tra xem kết quả thay đổi như thế nào khi các yếu tố đầu vào thay đổi.
-- **Variability Analysis**: Phân tích biến thiên.
-- **Input Impact**: Tác động của đầu vào.
-- **Robustness Check**: Kiểm tra độ vững chắc.
-- **Parameter Scanning**: Quét tham số.
-→ **Liên kết:** VALIDATION (Sensitivity Analysis), OPERATIONS (What-If Analysis)
 
 #### **40. Signal Harvesting** - Thu Hoạch Tín Hiệu
 Thực hành phát hiện và thu thập các tín hiệu sớm về thay đổi hoặc rủi ro.
