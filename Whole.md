@@ -8285,16 +8285,19 @@ Thao tác thay đổi hình thức, cấu trúc hoặc bản chất của một 
 
 → **Liên kết:** DYNAMICS (Transformation Dynamics), CREATION (Innovation)
 
-#### **45. Replication** - Sao Chép
+#### **45. Replication - Sao Chép [Thao Tác Giải Quyết Vấn Đề]**
 
-Thao tác tạo ra các bản sao hoặc nhân rộng các mẫu hình.
+Thao tác kỹ thuật để tạo ra các bản sao hoặc nhân rộng các mẫu hình THÀNH CÔNG đã được xác minh. Đây là CÔNG CỤ trong giải quyết vấn đề có cấu trúc - nhận diện những gì hiệu quả rồi áp dụng lại nhiều lần.
 
-- **Pattern Reproduction**: Tái tạo các mẫu hình thành công.
-- **Scaling Through Copying**: Mở rộng quy mô thông qua sao chép.
-- **Template Application**: Áp dụng các khuôn mẫu.
-- **Iterative Multiplication**: Nhân lên lặp đi lặp lại.
+- **Pattern Reproduction**: Tái tạo các mẫu hình đã chứng minh hiệu quả.
+- **Scaling Through Copying**: Chiến thuật mở rộng qua việc sao chép chính xác.
+- **Template Application**: Áp dụng khuôn mẫu vào các tình huống tương tự.
+- **Iterative Multiplication**: Nhân rộng từng bước một cách có kiểm soát.
 
-→ **Liên kết:** AMPLIFICATION (Scaling), OPERATIONS (Standardization)
+→ **Liên kết nội bộ:** OPERATIONS (Standardization)
+→ **Động cơ khuếch đại:** AMPLIFICATION #29 (Replication - cơ chế tăng trưởng)
+→ **Nền tảng lý thuyết:** AMPLIFICATION #6 (Standardization & Replication)
+→ **Ứng dụng:** VALIDATION (Proof of Concept - chứng minh trước khi nhân rộng)
 
 #### **46. Addition** - Cộng Thêm
 
@@ -22589,15 +22592,19 @@ Kích hoạt và tăng tốc sự thay đổi ở cấp độ hệ thống.
 
 ### **Replication & Scaling (5 mục bổ sung)**
 
-#### **29. Replication** - Sao Chép
+#### **29. Replication - Sao Chép [Cơ Chế Tăng Trưởng]**
 
-Quá trình tạo ra các bản sao của một thực thể hoặc quy trình.
+Quá trình hệ thống hóa việc tạo ra các bản sao của một thực thể hoặc quy trình để đạt TĂNG TRƯỞNG THEO CẤP SỐ NHÂN. Khác với thao tác kỹ thuật ở OPERATIONS, đây là về XÂY DỰNG CƠ CHẾ sao chép tự động, quy mô lớn và bền vững.
 
-- **Copying Mechanism**: Cơ chế sao chép.
-- **Distribution Strategy**: Chiến lược phân phối.
-- **Fidelity Maintenance**: Duy trì độ trung thực.
-- **Mass Production**: Sản xuất hàng loạt.  
-    → **Liên kết:** OPERATIONS (Replication Systems), AMPLIFICATION (Standardization).
+- **Copying Mechanism**: Hệ thống sao chép tự động và có thể mở rộng.
+- **Distribution Strategy**: Chiến lược phân phối để tiếp cận thị trường.
+- **Fidelity Maintenance**: Duy trì độ trung thực qua hàng triệu bản sao.
+- **Mass Production**: Sản xuất hàng loạt với chi phí biên giảm dần về 0.
+
+→ **Liên kết nội bộ:** AMPLIFICATION (Standardization)
+→ **Công cụ thực hành:** OPERATIONS #45 (Replication - thao tác kỹ thuật)
+→ **Nền tảng chiến lược:** AMPLIFICATION #6 (Standardization & Replication)
+→ **Mô hình thực tế:** Franchise Systems, Platform Businesses, Open Source
 
 #### **30. Scale What Works** - Mở Rộng Cái Đã Hiệu Quả
 
@@ -22888,8 +22895,8 @@ Mô hình kinh doanh cho phép người khác vận hành doanh nghiệp của b
 - **Asset-Light Scaling**: Mở rộng quy mô mà không cần đầu tư nhiều vốn vào tài sản.
 - **Rapid Market Penetration**: Thâm nhập thị trường nhanh chóng thông qua mạng lưới các đối tác.
 - **Standardized Replication**: Nhân bản một mô hình đã được chứng minh là hiệu quả.
-- **Leveraging Local Knowledge**: Tận dụng kiến thức và sự đầu tư của các đối tác địa phương.  
-    → **Liên kết:** AMPLIFICATION (Replication), INTEGRATION (Systemic Integration).
+- **Leveraging Local Knowledge**: Tận dụng kiến thức và sự đầu tư của các đối tác địa phương.
+    → **Liên kết:** AMPLIFICATION #29 (Replication - cơ chế tăng trưởng), INTEGRATION (Systemic Integration).
 
 #### **10. Education as a Multiplier** - Giáo Dục Như Một Nhân Tử
 
