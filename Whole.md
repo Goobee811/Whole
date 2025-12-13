@@ -5331,16 +5331,25 @@ Các quá trình hoạt động ở các tốc độ khác nhau tạo ra một h
 
 → **Liên kết:** FOUNDATIONS (Scale & Hierarchy), NAVIGATION (Timing)
 
-#### **54. Iterative Refinement** - Tinh Chỉnh Lặp Lại
+#### **54. Iterative Refinement** - Tinh Chỉnh Lặp Lại [Mẫu Hình Tiến Hóa]
 
-Quá trình cải thiện dần dần qua nhiều chu kỳ lặp.
+Mẫu hình tự nhiên của sự tiến hóa - cách các hệ thống tự điều chỉnh và cải thiện dần dần qua nhiều chu kỳ phản hồi. Đây là QUY LUẬT TỰ NHIÊN được quan sát ở mọi hệ thống sống và phi sống, từ tiến hóa sinh học đến phát triển công nghệ.
 
-- **Incremental Improvement**: Cải thiện tăng dần
-- **Feedback Cycles**: Các chu kỳ phản hồi
-- **Progressive Optimization**: Tối ưu hóa tiến bộ
-- **Continuous Enhancement**: Nâng cao liên tục
+- **Incremental Improvement**: Cải thiện tăng dần - mỗi vòng lặp tốt hơn một chút
+- **Feedback Cycles**: Các chu kỳ phản hồi - học từ kết quả để điều chỉnh
+- **Progressive Optimization**: Tối ưu hóa tiến bộ - tiến về trạng thái tối ưu
+- **Continuous Enhancement**: Nâng cao liên tục - không bao giờ ngừng cải thiện
 
-→ **Liên kết:** OPERATIONS (Iterative Process), VALIDATION (Continuous Improvement)
+→ **Liên kết nội bộ:**
+  • VALIDATION (Continuous Improvement)
+  • AMPLIFICATION #21 (Iteration - nguyên tắc tăng trưởng)
+
+→ **Ứng dụng thực hành trong OPERATIONS:**
+  • Implementation Review & Iteration (#12) - quy trình thực thi có hệ thống
+  • PDCA Cycle (#27) - chu trình cải tiến liên tục
+  • Continuous Monitoring (#18) - giám sát và điều chỉnh
+
+→ **Khuếch đại:** AMPLIFICATION (Compound Effect through Iteration)
 
 #### **55. Process Philosophy** - Triết Học Quá Trình
 
@@ -9349,17 +9358,6 @@ Gán trọng số cho các yếu tố dựa trên tầm quan trọng.
 
 → **Liên kết:** VALIDATION (Quality Assessment), OPERATIONS (Verification)
 
-#### **33. Iterative Refinement** - Tinh Chỉnh Lặp Đi Lặp Lại
-
-Quá trình cải tiến dần dần qua nhiều vòng lặp.
-
-- **Continuous Improvement**: Cải tiến liên tục.
-- **Incremental Progress**: Tiến bộ từng bước.
-- **Cyclical Enhancement**: Tăng cường theo chu kỳ.
-- **Quality Evolution**: Tiến hóa chất lượng.
-
-→ **Liên kết:** OPERATIONS (Implementation Review), DYNAMICS (Evolution)
-
 #### **34. Calibrated Response** - Phản Ứng Được Hiệu Chỉnh
 
 Phản ứng được điều chỉnh phù hợp với tình huống.
@@ -9783,7 +9781,7 @@ Chu trình cải tiến liên tục: Plan-Do-Check-Act (Hoạch định-Thực h
 - **Check**: Kiểm tra kết quả.
 - **Act**: Hành động để chuẩn hóa hoặc cải tiến thêm.
 
-→ **Liên kết:** OPERATIONS (Iterative Refinement), VALIDATION (Continuous Improvement)
+→ **Liên kết:** DYNAMICS (Iterative Refinement), VALIDATION (Continuous Improvement)
 
 #### **28. Jobs-to-be-Done** - Công Việc Cần Hoàn Thành
 
@@ -10278,7 +10276,7 @@ Phân tích một đối tượng hoặc vấn đề thành các thuộc tính c
 - **Systematic Exploration**: Cung cấp một cách tiếp cận có hệ thống để đảm bảo mọi khía cạnh đều được xem xét
 - **Incremental Innovation**: Thường dẫn đến các cải tiến tiệm tiến và tối ưu hóa
 
-→ **Liên kết:** OPERATIONS (Decomposition), VALIDATION (Iterative Refinement)
+→ **Liên kết:** OPERATIONS (Decomposition), DYNAMICS (Iterative Refinement)
 
 #### **12. Morphological Analysis** - Phân Tích Hình Thái
 
