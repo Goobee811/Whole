@@ -9030,14 +9030,15 @@ Các bài tập trải nghiệm để tăng cường nhận thức và tích h�
 
 #### **49. Art Therapy Transformation** - Biến Đổi Qua Liệu Pháp Nghệ Thuật
 
-Sử dụng sáng tạo nghệ thuật như một phương tiện chữa lành và biến đổi.
+Sử dụng quá trình sáng tạo nghệ thuật như một phương tiện trị liệu có hệ thống để chữa lành tâm lý và biến đổi cảm xúc. Đây là một thực hành trị liệu được đào tạo và thực hiện theo các giao thức lâm sàng, kết hợp cả khía cạnh sáng tạo và chữa lành.
 
-- **Creative Expression**: Biểu đạt sáng tạo.
-- **Symbolic Processing**: Xử lý tượng trưng.
-- **Emotional Release**: Giải phóng cảm xúc.
-- **Transformation Through Art**: Biến đổi qua nghệ thuật.
+- **Creative Expression**: Biểu đạt sáng tạo - giải phóng cảm xúc qua hình ảnh và quá trình tạo hình.
+- **Symbolic Processing**: Xử lý tượng trưng - làm việc với biểu tượng và hình ảnh tiềm thức.
+- **Visual Processing**: Xử lý hình ảnh - chuyển hóa trải nghiệm và cảm xúc thành hình thức nghệ thuật.
+- **Transformation Through Art**: Biến đổi qua nghệ thuật - chữa lành và tái tạo bản thân qua sáng tạo.
 
-→ **Liên kết:** CREATION (Artistic Expression), INTEGRATION (Healing)
+→ **Liên kết:** INTEGRATION (Healing, Self-Integration), DYNAMICS (Emotional Processing, Healing Process), CREATION (Creative Therapies)
+→ **Phân biệt:** Khác với CREATION #19 (Creative Therapies - khái niệm tổng quát) - đây là phương pháp trị liệu CỤ THỂ có cấu trúc lâm sàng sử dụng nghệ thuật thị giác
 
 #### **50. Applied Technical Methods** - Các Phương Pháp Kỹ Thuật Ứng Dụng
 
@@ -12581,18 +12582,7 @@ Sử dụng sáng tạo cho chữa lành và biến đổi.
 
 → **Liên kết:** DYNAMICS (Healing), TRANSCENDENCE (Transformation)
 
-#### **20. Art Therapy Transformation** - Biến Đổi Qua Liệu Pháp Nghệ Thuật
-
-Biến đổi tâm lý thông qua quá trình nghệ thuật.
-
-- **Visual Processing**: Xử lý hình ảnh
-- **Symbolic Healing**: Chữa lành biểu tượng
-- **Creative Expression**: Biểu đạt sáng tạo
-- **Therapeutic Process**: Quá trình trị liệu
-
-→ **Liên kết:** INTEGRATION (Self-Integration), DYNAMICS (Healing Process)
-
-#### **21. Sound & Vibration Healing** - Chữa Lành Bằng Âm Thanh & Rung Động
+#### **20. Sound & Vibration Healing** - Chữa Lành Bằng Âm Thanh & Rung Động
 
 Sử dụng tần số và rung động để chữa lành.
 
@@ -18957,7 +18947,7 @@ Sử dụng nghệ thuật cho mục đích chữa lành.
 - **Wholeness through Art**: Toàn vẹn qua nghệ thuật; nghệ thuật tái tạo toàn thể.
 - **Therapeutic Expression**: Biểu đạt trị liệu; giải phóng qua sáng tạo.
 
-→ **Liên kết:** SYSTEMIC INTEGRATION (Holistic Medicine), CREATION (Art Therapy).
+→ **Liên kết:** SYSTEMIC INTEGRATION (Holistic Medicine), OPERATIONS (Art Therapy Transformation), CREATION (Creative Therapies).
 
 ---
 
