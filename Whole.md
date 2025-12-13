@@ -5696,17 +5696,6 @@ Metacognition giúp nhận ra:
 → **Ứng dụng thực hành:** DYNAMICS (Cognitive Flexibility)
 → **Liên kết:** [META] LAYER (Meta-Awareness), VALIDATION (Self-Correction)
 
-#### **17. Cognitive Biases** - Thiên Lệch Nhận Thức
-
-Các mẫu hình suy nghĩ có hệ thống lệch khỏi lý trí hoặc đánh giá hợp lý.
-
-- **Confirmation Bias**: Thiên lệch xác nhận
-- **Availability Bias**: Thiên lệch sẵn có
-- **Anchoring Bias**: Thiên lệch neo đậu
-- **Hindsight Bias**: Thiên lệch nhìn lại
-
-→ **Liên kết:** VALIDATION (Critical Thinking), OPERATIONS (Decision Quality)
-
 #### **18. Automaticity** - Tính Tự Động
 
 Quá trình các hoạt động nhận thức trở nên tự động và không cần nỗ lực ý thức qua thực hành.
@@ -19336,12 +19325,20 @@ Một quy trình có hệ thống để kiểm tra các hệ thống thuật to�
 ### **Các Khái Niệm & Phương Pháp Bổ Sung**
 
 #### **22. Cognitive Biases** - Các Thiên Kiến Nhận Thức (Tổng Quan)
-Tập hợp hệ thống các lỗi tư duy có tính hệ thống do cách bộ não xử lý thông tin.
-- **Systematic Errors**: Lỗi có tính hệ thống, không ngẫu nhiên.
-- **Mental Shortcuts**: Xuất phát từ các phím tắt tư duy (heuristics).
-- **Predictable Patterns**: Có các mẫu có thể dự đoán được.
-- **Universal Human**: Phổ quát ở con người, không phải lỗi cá nhân.
-→ **Liên kết:** [META] LAYER (Meta-Cognition), VALIDATION (Bias Awareness)
+
+Tập hợp hệ thống các lỗi tư duy có tính hệ thống do cách bộ não xử lý thông tin. Đây là một trong những nguồn lỗi CHÍNH CẦN KIỂM CHỨNG trong hệ thống tư duy.
+
+• Systematic Errors: Lỗi có tính hệ thống, không ngẫu nhiên
+• Mental Shortcuts: Xuất phát từ các phím tắt tư duy (heuristics)
+• Predictable Patterns: Có các mẫu có thể dự đoán được
+• Universal Human: Phổ quát ở con người, không phải lỗi cá nhân
+
+→ Liên kết nội bộ: [META] LAYER (#4 Awareness of Bias - công cụ nhận thức)
+→ Tác động đến: DYNAMICS (#4 Cognitive Flexibility - cản trở sự linh hoạt)
+→ Công cụ chống lại: OPERATIONS (Critical Thinking, Devil's Advocate)
+→ Danh sách chi tiết: Xem #1-11 và nhiều bias khác trong chức năng này
+
+**Ghi chú:** Cognitive Biases là CẢN TRỞ cho Cognitive Flexibility (DYNAMICS), nhưng được phân loại và xử lý chủ yếu tại VALIDATION vì đây là domain chuyên về phát hiện và sửa lỗi hệ thống.
 
 #### **23. Black Swan Blindness** - Mù Lòa Thiên Nga Đen
 Khuynh hướng đánh giá thấp hoặc bỏ qua các sự kiện hiếm gặp nhưng có tác động lớn.
