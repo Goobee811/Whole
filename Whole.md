@@ -3900,16 +3900,18 @@ những giai đoạn thay đổi nhanh chóng. Khác với nguyên lý nền t�
 → **Siêu việt hóa:** TRANSCENDENCE #16 (biến thái hệ thống)
 → **So sánh:** DYNAMICS #17 (S-Curve Dynamics - tăng trưởng liên tục)
 
-#### **17. S-Curve Dynamics** - Động Lực Đường Cong S
+#### **17. S-Curve Dynamics** - Động Lực Đường Cong S [Quy Luật Chuyển Đổi Tự Nhiên]
 
-Mô hình mô tả sự tăng trưởng theo thời gian: bắt đầu chậm, tăng tốc, rồi bão hòa.
+Quy luật phổ quát mô tả sự tăng trưởng theo thời gian của MỌI HỆ THỐNG: bắt đầu chậm, tăng tốc theo cấp số nhân, rồi bão hòa và chuyển pha. Đây là ĐỘNG LỰC TỰ NHIÊN xuất hiện ở sinh học, công nghệ, tâm lý, xã hội.
 
-- **Infancy (Lag Phase)**: Giai đoạn ban đầu, tăng trưởng chậm khi đang tìm chỗ đứng
-- **Exponential Growth (Log Phase)**: Giai đoạn tăng trưởng theo cấp số nhân
-- **Maturity (Plateau Phase)**: Giai đoạn bão hòa, tăng trưởng chậm lại
-- **Discontinuity Leap**: Nhu cầu nhảy sang đường cong S mới để duy trì tăng trưởng
+- **Infancy (Lag Phase)**: Giai đoạn ủ mầm - tăng trưởng chậm, tìm chỗ đứng
+- **Exponential Growth (Log Phase)**: Giai đoạn bùng nổ - tăng trưởng theo cấp số nhân
+- **Maturity (Plateau Phase)**: Giai đoạn bão hòa - tăng trưởng chậm lại, đạt giới hạn
+- **Discontinuity Leap**: Cần NHẢY sang đường cong S mới để tiếp tục phát triển
 
-→ **Liên kết:** AMPLIFICATION (Exponential Multipliers), NAVIGATION (Strategic Wayfinding)
+→ **Liên kết nội bộ:** AMPLIFICATION (Exponential Multipliers), NAVIGATION (Strategic Wayfinding)
+→ **Ứng dụng thực tế:** AMPLIFICATION #3 (S-Curves & Technology Adoption)
+→ **Khái niệm liên quan:** DYNAMICS #12 (Growth & Decay Cycles - chu kỳ đầy đủ), FOUNDATIONS #6 (Cycles & Rhythms - nguyên lý chu kỳ), DYNAMICS #16 (Punctuated Equilibrium - chuyển đổi ngắt quãng)
 
 #### **18. Dialectical Process** - Quá Trình Biện Chứng
 
@@ -22026,15 +22028,18 @@ Quan sát rằng số lượng bóng bán dẫn trên một chip tăng gấp đ�
 - **Physical Limits**: Giới hạn vật lý, Moore's Law có thể đang đạt đến giới hạn của vật lý.  
     → **Liên kết:** FOUNDATIONS (Physical Laws), OPERATIONS (Technology Planning).
 
-#### **3. S-Curves & Technology Adoption** - Đường Cong S & Chấp Nhận Công Nghệ
+#### **3. S-Curves & Technology Adoption** - Đường Cong S & Chấp Nhận Công Nghệ [Chiến Lược Thị Trường]
 
-Mẫu hình phổ biến của việc chấp nhận công nghệ: chậm lúc đầu, nhanh ở giữa, chậm lại ở cuối.
+Ứng dụng thực tế của S-curve trong bối cảnh công nghệ và thị trường. Khác với quy luật phổ quát ở DYNAMICS, đây là về CHIẾN LƯỢC KHUẾCH ĐẠI - làm thế nào để tối ưu hóa từng giai đoạn và vượt qua các ngưỡng tới hạn.
 
-- **Innovation Diffusion**: Sự lan tỏa của đổi mới, từ những người chấp nhận sớm đến đa số muộn.
-- **Crossing the Chasm**: Vượt qua vực sâu, từ những người đam mê đến thị trường đại chúng.
-- **S-Curve Stacking**: Xếp chồng đường cong S, một công nghệ mới bắt đầu khi công nghệ cũ đạt đỉnh.
-- **Maturity & Saturation**: Trưởng thành và bão hòa, mọi thị trường cuối cùng đều bão hòa.  
-    → **Liên kết:** NAVIGATION (Market Analysis), DYNAMICS (Life Cycles).
+- **Innovation Diffusion**: Lan tỏa từ Innovators → Early Adopters → Early/Late Majority → Laggards
+- **Crossing the Chasm**: VƯỢT QUA VỰC SÂU giữa early adopters và mainstream market
+- **S-Curve Stacking**: XẾP CHỒNG nhiều đường cong - công nghệ mới bắt đầu khi cũ đạt đỉnh
+- **Maturity & Saturation**: Nhận biết bão hòa và CHUẨN BỊ CHUYỂN ĐỔI
+
+→ **Liên kết nội bộ:** NAVIGATION (Market Analysis)
+→ **Gốc lý thuyết:** DYNAMICS #17 (S-Curve Dynamics - quy luật phổ quát)
+→ **Công cụ thực hành:** AMPLIFICATION #4 (Learning Curve - đường cong kinh nghiệm), NAVIGATION (Timing Wisdom - nắm bắt thời cơ), VALIDATION (Market Testing - kiểm chứng thị trường)
 
 #### **4. Learning Curve** - Đường Cong Học Tập
 
