@@ -6440,16 +6440,20 @@ Mức độ kích thích sinh lý và tâm lý ảnh hưởng đến hiệu su�
 
 → **Liên kết:** OPERATIONS (Performance Optimization), [META] LAYER (State Management)
 
-#### **3. Energy Management** - Quản Lý Năng Lượng
+#### **3. Energy Management - Quản Lý Năng Lượng [Nghệ Thuật Nội Tại]**
 
-Nghệ thuật quản lý các nguồn năng lượng (vật lý, cảm xúc, tinh thần, tâm linh) để đạt hiệu suất bền vững.
+Nghệ thuật quản lý các nguồn năng lượng NỘI TẠI (vật lý, cảm xúc, tinh thần, tâm linh) để đạt hiệu suất bền vững. Đây là về TRẠNG THÁI của bản thân - cảm nhận, điều chỉnh và tối ưu hóa năng lượng từ bên trong ra.
 
 - **Four Energy Dimensions**: Bốn chiều năng lượng - thể chất, cảm xúc, tinh thần, tâm linh
-- **Oscillation Principle**: Nguyên tắc dao động giữa tiêu hao và phục hồi năng lượng
-- **Energy Rituals**: Các nghi thức năng lượng để duy trì hiệu suất
-- **Recovery**: Sự phục hồi là chìa khóa của sự bền vững
+- **Oscillation Principle**: Nguyên tắc dao động - tiêu hao và phục hồi
+- **Energy Rituals**: Nghi thức năng lượng - thói quen duy trì hiệu suất
+- **Recovery**: Phục hồi là chìa khóa - không thể chỉ tiêu hao mà không nạp lại
 
 → **Liên kết:** VALIDATION (Sustainable Performance), [META] LAYER (Holistic Self-Management)
+→ **Góc nhìn bổ sung:** NAVIGATION #12 (Energy Management như tài nguyên chiến lược)
+→ **Khác biệt cốt lõi:**
+  • DYNAMICS: Làm CHỦ năng lượng bản thân (internal mastery)
+  • NAVIGATION: PHÂN BỔ năng lượng như tài nguyên (strategic allocation)
 
 #### **4. Emotional Regulation** - Điều Chỉnh Cảm Xúc
 
@@ -13981,16 +13985,20 @@ Luôn xem xét giá trị của lựa chọn tốt nhất tiếp theo mà bạn 
 
 → **Liên kết:** OPERATIONS (Operations Management), DYNAMICS (System Scalability).
 
-#### **12. Energy Management** - Quản Lý Năng Lượng
+#### **12. Energy Management - Quản Lý Năng Lượng [Tài Nguyên Chiến Lược]**
 
-Quản lý năng lượng cá nhân (vật lý, tinh thần, cảm xúc) như một tài nguyên quan trọng.
+Quản lý năng lượng cá nhân (vật lý, tinh thần, cảm xúc) như một TÀI NGUYÊN CHIẾN LƯỢC hữu hạn cần được phân bổ khôn ngoan. Đây là về QUYẾT ĐỊNH - đầu tư năng lượng vào đâu, khi nào, và với cường độ bao nhiêu.
 
-- **Energy vs. Time**: Năng lượng quan trọng hơn thời gian.
-- **Renewal Rituals**: Các nghi thức phục hồi.
-- **Peak Performance Timing**: Thời điểm hiệu suất đỉnh cao.
-- **Energy Drains**: Các nguồn tiêu hao năng lượng.
+- **Energy vs. Time**: Năng lượng quan trọng hơn thời gian - 4h năng lượng cao > 8h kiệt sức
+- **Renewal Rituals**: Nghi thức nạp năng - phục hồi như một khoản đầu tư
+- **Peak Performance Timing**: Thời điểm đỉnh cao - làm việc quan trọng khi có năng lượng tốt nhất
+- **Energy Drains**: Rò rỉ năng lượng - nhận diện và loại bỏ những gì tiêu hao không đáng
 
-→ **Liên kết:** DYNAMICS (State Management), INTEGRATION (Personal Integration).
+→ **Liên kết:** DYNAMICS (State Management), INTEGRATION (Personal Integration)
+→ **Gốc lý thuyết:** DYNAMICS #3 (Energy Management như nghệ thuật nội tại)
+→ **Khác biệt cốt lõi:**
+  • DYNAMICS: Tăng cường NGUỒN năng lượng (increase capacity)
+  • NAVIGATION: Tối ưu CÁCH SỬ DỤNG năng lượng (optimize allocation)
 
 #### **13. Attention Management** - Quản Lý Sự Chú Ý
 
