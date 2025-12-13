@@ -704,7 +704,7 @@ NGUYÊN LÝ TƯ DUY phổ quát về việc suy nghĩ vượt ra ngoài các k�
 
 → **Ứng dụng thực hành:**
   • OPERATIONS #38 (Second-Order Thinking Analysis - quy trình phân tích)
-  • NAVIGATION #26 (Strategic Reasoning - trong chiến lược)
+  • OPERATIONS #26 (Strategic Reasoning - công cụ suy luận chiến lược)
   • Core Values & Ethics (Trách nhiệm với hệ quả)
 
 💡 **LƯU Ý**: Đây là NGUYÊN LÝ TƯ DUY nền tảng. Để xem QUY TRÌNH ÁP DỤNG cụ thể, tham khảo OPERATIONS #38 - Second-Order Thinking Analysis.
@@ -7363,14 +7363,17 @@ Phân tích các sự kiện trong quá khứ, bối cảnh và ý nghĩa của 
 
 #### **26. Strategic Reasoning** - Suy Luận Chiến Lược
 
-Phân tích các tương tác chiến lược giữa các tác nhân.
+Kiến trúc suy luận để phân tích các tương tác chiến lược giữa nhiều tác nhân và đưa ra quyết định trong môi trường cạnh tranh. Là một CÔNG CỤ TƯ DUY CỐT LÕI thuộc nhóm Analytical Reasoning & Logic.
 
-- **Game Theoretic Analysis**: Phân tích lý thuyết trò chơi, mô hình hóa các tình huống tương tác chiến lược.
-- **Second-Order Thinking**: Xem xét các hệ quả bậc hai và bậc ba của một hành động.
-- **Competitive Advantage**: Suy luận về cách tạo ra và duy trì lợi thế cạnh tranh.
-- **Long-Term Planning**: Xây dựng các chuỗi hành động để đạt được mục tiêu dài hạn.
+- **Game Theoretic Analysis**: Mô hình hóa tương tác chiến lược (Nash Equilibrium, Payoff Matrix, Multi-player Dynamics)
+- **Second-Order Thinking**: Suy luận về hệ quả bậc hai, bậc ba - "họ nghĩ gì về việc tôi nghĩ gì"
+- **Competitive Advantage Logic**: Suy luận logic về cách tạo và duy trì lợi thế cạnh tranh bền vững
+- **Long-Term Planning**: Xây dựng các chuỗi hành động có tính toán để đạt được mục tiêu dài hạn
 
-→ **Liên kết:** NAVIGATION (Strategic Wayfinding), OPERATIONS (Game Theory)
+→ **Liên kết nội bộ:** OPERATIONS (Game Theory, Decision Frameworks)
+→ **Ứng dụng thực hành:** NAVIGATION (Strategic Wayfinding, Scenario Planning)
+→ **Siêu nhận thức:** [META] LAYER (Strategic Thinking, Meta-Strategy)
+→ **Tích hợp:** INTEGRATION (Multi-stakeholder Analysis)
 
 #### **27. Counterfactual Reasoning** - Suy Luận Phản Thực
 
@@ -13252,16 +13255,19 @@ Trực quan hóa trải nghiệm và quá trình từ đầu đến cuối.
 
 → **Liên kết:** OPERATIONS (Strategic Analysis), VALIDATION (Comprehensive Assessment).
 
-#### **40. Strategic Reasoning** - Lý Luận Chiến Lược
+#### **40. Strategic Thinking Framework** - Khung Tư Duy Chiến Lược
 
-Khả năng suy luận logic về các quyết định chiến lược dài hạn.
+Khung tư duy tổng thể để điều hướng trong môi trường chiến lược phức tạp - kết hợp phân tích, trực giác và nhận thức bối cảnh. Khác với Strategic Reasoning (công cụ suy luận), đây là KHUNG TƯ DUY WAYFINDING tổng hợp.
 
-- **Long-term Logic**: Logic dài hạn vượt qua lợi ích ngắn hạn.
-- **Causal Chain Analysis**: Phân tích chuỗi nhân quả.
-- **Second-Order Thinking**: Tư duy tầng thứ hai và các hệ quả gián tiếp.
-- **Strategic Coherence**: Sự mạch lạc trong lập luận chiến lược.
+- **Strategic Mindset**: Tâm thế chiến lược - nhìn xa, nghĩ rộng, hành động có tính toán
+- **Pattern Recognition in Competition**: Nhận dạng mẫu hình trong cạnh tranh và địa hình chiến lược
+- **Strategic Intuition**: Trực giác chiến lược phát triển từ kinh nghiệm và nhận thức sâu
+- **Holistic Wayfinding**: Tích hợp phân tích (từ OPERATIONS #26) với bối cảnh, thời điểm, nguồn lực
 
-→ **Liên kết:** OPERATIONS (Decision Logic), [META] LAYER (Strategic Thinking).
+→ **Nền tảng công cụ:** OPERATIONS #26 (Strategic Reasoning - kiến trúc suy luận)
+→ **Liên kết nội bộ:** NAVIGATION (Scenario Planning, OODA Loop, Strategic Patience)
+→ **Tích hợp:** INTEGRATION (Synthesis of multiple strategic perspectives)
+→ **Siêu tầng:** [META] LAYER (Meta-Strategy #33 - chiến lược về chiến lược)
 
 #### **41. Servant Leadership** - Lãnh Đạo Phục Vụ
 
