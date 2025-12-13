@@ -7841,16 +7841,16 @@ Nguyên tắc rằng 80% kết quả đến từ 20% nguyên nhân, tập trung 
 
 → **Liên kết:** AMPLIFICATION (Leverage), NAVIGATION (Prioritization)
 
-#### **8. SWOT Analysis** - Phân Tích SWOT
+#### **8. Kepner-Tregoe Problem Analysis** - Phân Tích Vấn Đề Kepner-Tregoe
 
-Phân tích Điểm Mạnh, Điểm Yếu, Cơ Hội và Thách Thức của một tình huống hoặc tổ chức.
+Một phương pháp có cấu trúc cao để phân tích và giải quyết vấn đề phức tạp thông qua việc so sánh IS/IS NOT - xác định chính xác điều kiện có vấn đề và phân biệt với điều kiện bình thường.
 
-- **Strengths**: Xác định các lợi thế nội bộ.
-- **Weaknesses**: Nhận biết các hạn chế nội bộ.
-- **Opportunities**: Phát hiện các cơ hội bên ngoài.
-- **Threats**: Dự đoán các thách thức và rủi ro bên ngoài.
+- **Problem Specification**: Mô tả vấn đề rõ ràng theo 4 chiều (What, Where, When, Extent).
+- **IS/IS NOT Analysis**: So sánh hệ thống điều kiện có vấn đề với điều kiện bình thường.
+- **Distinction Identification**: Xác định các điểm khác biệt có thể là nguyên nhân gốc rễ.
+- **Cause Hypothesis Testing**: Kiểm tra các giả thuyết về nguyên nhân thông qua logic và bằng chứng.
 
-→ **Liên kết:** NAVIGATION (Strategic Planning), VALIDATION (Situational Assessment)
+→ **Liên kết:** OPERATIONS (Root Cause Analysis), VALIDATION (Hypothesis Testing), FOUNDATIONS (Logical Reasoning)
 
 #### **9. Force Field Analysis** - Phân Tích Trường Lực
 
@@ -13259,16 +13259,19 @@ Trực quan hóa trải nghiệm và quá trình từ đầu đến cuối.
 
 → **Liên kết:** OPERATIONS (Competitive Analysis), DYNAMICS (Environmental Assessment).
 
-#### **39. SWOT Analysis** - Phân Tích SWOT
+#### **39. SWOT Analysis** - Phân Tích SWOT [Framework Định Vị Chiến Lược]
 
-Đánh giá Điểm Mạnh, Điểm Yếu, Cơ Hội và Mối Đe Dọa.
+Framework phân tích chiến lược để đánh giá vị thế hiện tại và xác định hướng đi tối ưu. SWOT là công cụ NỀN TẢNG trong strategic wayfinding - giúp định vị mình trong cảnh quan cạnh tranh và môi trường thay đổi.
 
-- **Internal Assessment**: Đánh giá nội bộ (Strengths & Weaknesses).
-- **External Analysis**: Phân tích môi trường bên ngoài (Opportunities & Threats).
-- **Strategic Positioning**: Định vị chiến lược dựa trên 4 yếu tố.
-- **Action Planning**: Lập kế hoạch hành động từ kết quả phân tích.
+- **[PHÂN TÍCH 4 CHIỀU] Internal Assessment - Đánh giá nội bộ**: Strengths (Điểm mạnh) - Lợi thế cạnh tranh nội tại; Weaknesses (Điểm yếu) - Hạn chế cần khắc phục hoặc bù đắp.
+- **[PHÂN TÍCH 4 CHIỀU] External Analysis - Phân tích môi trường**: Opportunities (Cơ hội) - Xu hướng và khoảng trống có thể khai thác; Threats (Mối đe dọa) - Rủi ro và thách thức cần đối phó.
+- **[ỨNG DỤNG CHIẾN LƯỢC] Strategic Positioning & Direction Finding**: Định vị dựa trên ma trận S-W-O-T và xác định hướng đi tối ưu (SO, WO, ST, WT strategies).
+- **[ỨNG DỤNG CHIẾN LƯỢC] Action Planning & Continuous Calibration**: Chuyển hóa phân tích thành kế hoạch hành động cụ thể; cập nhật định kỳ khi môi trường thay đổi.
 
-→ **Liên kết:** OPERATIONS (Strategic Analysis), VALIDATION (Comprehensive Assessment).
+→ **Phân tích cấu trúc:** OPERATIONS #8 (Kepner-Tregoe - structured problem analysis)
+→ **Xác thực đánh giá:** VALIDATION (Comprehensive Assessment, Situational Analysis)
+→ **Chiến lược cạnh tranh:** NAVIGATION (Porter's Five Forces - bổ sung cho external analysis)
+→ **Lưu ý:** SWOT là điểm khởi đầu, KHÔNG phải điểm kết thúc của strategic planning.
 
 #### **40. Strategic Thinking Framework** - Khung Tư Duy Chiến Lược
 
