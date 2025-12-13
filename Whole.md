@@ -6247,16 +6247,19 @@ Khả năng ra quyết định nhanh chóng mà vẫn duy trì chất lượng.
 
 → **Liên kết:** NAVIGATION (Fast Decision Making), OPERATIONS (Execution Speed)
 
-#### **29. Option Preservation** - Bảo Tồn Lựa Chọn
+#### **29. Option Preservation - Bảo Tồn Lựa Chọn [Trong Tư Duy]**
 
-Duy trì sự linh hoạt bằng cách giữ các lựa chọn mở.
+Nguyên tắc duy trì sự linh hoạt NHẬN THỨC bằng cách không khóa tư duy vào một hướng duy nhất. Đây là về COGNITIVE FLEXIBILITY - khả năng giữ nhiều góc nhìn, nhiều khả năng suy luận đồng thời mà không bị cứng nhắc trong một paradigm.
 
-- **Flexibility Maintenance**: Duy trì linh hoạt
-- **Future Option Value**: Giá trị lựa chọn tương lai
-- **Reversibility**: Khả năng đảo ngược
-- **Strategic Patience**: Sự kiên nhẫn chiến lược
+- **Flexibility Maintenance**: Duy trì linh hoạt TƯ DUY - không khóa vào một mô hình
+- **Future Option Value**: Giá trị của việc giữ nhiều CÁCH SUY NGHĨ khả thi
+- **Reversibility**: Khả năng đảo ngược QUAN ĐIỂM mà không tốn công sức
+- **Strategic Patience**: Kiên nhẫn chờ đợi INSIGHT rõ ràng hơn trước khi kết luận
 
-→ **Liên kết:** NAVIGATION (Strategic Flexibility), VALIDATION (Option Value)
+→ **Liên kết nội bộ:** VALIDATION (Option Value)
+→ **Ứng dụng chiến lược:** NAVIGATION #24 (trong quyết định và hành động)
+→ **Gốc lý thuyết:** FOUNDATIONS (Real Options Theory)
+→ **Công cụ thực hành:** OPERATIONS (Reversible vs Irreversible Decisions)
 
 #### **29. Decision Stack** - Chồng Quyết Định
 
@@ -14100,16 +14103,19 @@ Tìm kiếm và kết nối các phần kiến thức.
 
 → **Liên kết:** INTEGRATION (Knowledge Synthesis), OPERATIONS (Research Methods).
 
-#### **24. Option Preservation** - Bảo Tồn Quyền Chọn
+#### **24. Option Preservation - Bảo Tồn Quyền Chọn [Trong Chiến Lược]**
 
-Giữ các lựa chọn mở để duy trì tính linh hoạt trong tương lai.
+Nguyên tắc duy trì sự linh hoạt CHIẾN LƯỢC bằng cách trì hoãn cam kết tài nguyên cho đến khi có thông tin rõ ràng hơn. Đây là về STRATEGIC FLEXIBILITY - quản lý các quyền chọn trong hành động, không phải trong tư duy.
 
-- **Future Flexibility**: Linh hoạt tương lai.
-- **Reversibility**: Khả năng đảo ngược.
-- **Optionality Value**: Giá trị của việc có lựa chọn.
-- **Delayed Commitment**: Trì hoãn cam kết cho đến khi cần.
+- **Future Flexibility**: Linh hoạt HÀNH ĐỘNG - giữ nhiều phương án khả thi
+- **Reversibility**: Khả năng đảo ngược QUYẾT ĐỊNH với chi phí thấp
+- **Optionality Value**: Giá trị của việc CÓ QUYỀN CHỌN trong bất định
+- **Delayed Commitment**: Trì hoãn CAM KẾT TÀI NGUYÊN cho đến điểm quyết định
 
-→ **Liên kết:** DYNAMICS (Optionality), OPERATIONS (Flexibility Management).
+→ **Liên kết nội bộ:** OPERATIONS (Flexibility Management)
+→ **Gốc nhận thức:** DYNAMICS #29 (Option Preservation trong tư duy)
+→ **Công cụ định giá:** OPERATIONS (Real Options Framework)
+→ **Quyết định thông minh:** OPERATIONS (Reversible vs Irreversible Decisions)
 
 #### **25. Opportunity Magnetism** - Từ Tính Cơ Hội
 
