@@ -8146,14 +8146,20 @@ Phân tích các điểm kết nối và các dòng chảy giữa các hệ th�
 
 #### **34. Trade-off Analysis** - Phân Tích Đánh Đổi
 
-Đánh giá các ưu và nhược điểm của các lựa chọn khác nhau, nhận biết rằng tối ưu hóa một chiều thường ảnh hưởng tiêu cực đến chiều khác.
+Công cụ phân tích có hệ thống để đánh giá các lựa chọn khi các mục tiêu cạnh tranh hoặc xung đột với nhau. Đây là công cụ kỹ thuật cốt lõi trong giải quyết vấn đề phức tạp với nhiều ràng buộc, cho phép ra quyết định tối ưu khi không thể tối đa hóa tất cả các chiều cùng lúc.
 
 - **Identify Competing Objectives**: Xác định các mục tiêu cạnh tranh hoặc xung đột.
-- **Trade-off Curve Mapping**: Lập bản đồ "đường cong đánh đổi" (Pareto frontier).
-- **Optimal Balance Point**: Tìm điểm cân bằng tối ưu dựa trên ưu tiên.
+- **Trade-off Curve Mapping**: Lập bản đồ "đường cong đánh đổi" (Pareto frontier) - tập hợp các giải pháp tối ưu.
+- **Optimal Balance Point**: Tìm điểm cân bằng tối ưu dựa trên ưu tiên và ngữ cảnh.
 - **Opportunity Cost Evaluation**: Đánh giá chi phí cơ hội của mỗi lựa chọn.
 
-→ **Liên kết:** OPERATIONS (Decision Frameworks), NAVIGATION (Strategic Trade-offs)
+→ **Liên kết nội bộ:** OPERATIONS (Decision Frameworks)
+→ **Ứng dụng trong các domain khác:**
+  • NAVIGATION #3 (Resource & Priority Management - quản lý tài nguyên & ưu tiên)
+  • CREATION (Innovation Trade-offs - đánh đổi trong sáng tạo)
+  • VALIDATION (Multi-criteria Evaluation - đánh giá đa tiêu chí)
+
+_Ghi chú: Đây là công cụ phân tích căn bản. Các domain khác sử dụng công cụ này trong các ngữ cảnh riêng nhưng không cần định nghĩa lại._
 
 #### **35. Inversion for Problem Prevention** - Đảo Ngược để Phòng Ngừa Vấn Đề
 
@@ -14059,16 +14065,21 @@ Bắt đầu từ trang giấy trắng, giả định không có ưu tiên nào 
 
 → **Liên kết:** OPERATIONS (Budget Planning), VALIDATION (Assumption Testing).
 
-#### **6. Trade-off Analysis** - Phân Tích Sự Đánh Đổi
+#### **6. Trade-off Analysis** - Phân Tích Đánh Đổi → **_Tham chiếu OPERATIONS #34_**
 
-Đánh giá một cách có hệ thống các sự đánh đổi giữa các mục tiêu cạnh tranh (ví dụ: tốc độ vs. chất lượng, chi phí vs. tính năng).
+Khi cần phân tích các sự đánh đổi giữa tài nguyên, thời gian, chất lượng và các mục tiêu khác, sử dụng:
 
-- **Explicit Trade-offs**: Làm rõ các sự đánh đổi.
-- **Multi-objective Optimization**: Tối ưu hóa đa mục tiêu.
-- **Pareto Frontier**: Biên Pareto - tập hợp các giải pháp không bị chiếm ưu thế.
-- **Conscious Choice**: Lựa chọn có ý thức.
+→ **OPERATIONS #34: Trade-off Analysis** - Công cụ phân tích đánh đổi có hệ thống
 
-→ **Liên kết:** OPERATIONS (Decision Analysis), VALIDATION (Multi-criteria Evaluation).
+Trong ngữ cảnh NAVIGATION, Trade-off Analysis được áp dụng để:
+- **Cân bằng giữa nhiều ưu tiên cạnh tranh**: Khi các mục tiêu xung đột (tốc độ vs. chất lượng, chi phí vs. tính năng).
+- **Phân bổ nguồn lực hữu hạn một cách tối ưu**: Tìm điểm cân bằng tối ưu với ràng buộc về tài nguyên.
+- **Ra quyết định chiến lược**: Khi không thể tối ưu hóa tất cả các chiều cùng lúc.
+- **Đánh giá chi phí cơ hội**: Hiểu rõ giá trị của các lựa chọn thay thế bị bỏ qua.
+
+_Ví dụ ứng dụng: Chọn feature nào phát triển khi có budget giới hạn; Cân bằng giữa nhiều stakeholder với lợi ích khác nhau; Quyết định phân bổ thời gian giữa các dự án._
+
+→ **Liên kết:** OPERATIONS #34 (Trade-off Analysis), VALIDATION (Multi-criteria Evaluation).
 
 #### **7. Resource Inventory** - Kiểm Kê Tài Nguyên
 
@@ -18502,7 +18513,7 @@ Cân bằng giữa tìm kiếm cái mới và tận dụng cái đã biết.
 - **Optimization Balance**: Cân bằng tối ưu; tìm điểm tốt nhất.
 - **Situational Choice**: Lựa chọn theo tình huống; phụ thuộc bối cảnh.
 
-→ **Liên kết:** OPERATIONS (Optimization), NAVIGATION (Tradeoff Management).
+→ **Liên kết:** OPERATIONS (Optimization), OPERATIONS #34 (Trade-off Analysis).
 
 ---
 
@@ -21772,8 +21783,8 @@ Cân bằng nhiều mục tiêu đôi khi mâu thuẫn nhau.
 - **Tradeoff Balance**: Cân bằng đánh đổi giữa các mục tiêu.
 - **Pareto Optimality**: Tính tối ưu Pareto.
 - **Decision Making**: Ra quyết định trong tình huống phức tạp.
-- **Stakeholder Alignment**: Liên kết các bên liên quan.  
-    → **Liên kết:** NAVIGATION (Tradeoff Analysis), INTEGRATION (Multi-stakeholder).
+- **Stakeholder Alignment**: Liên kết các bên liên quan.
+    → **Liên kết:** OPERATIONS #34 (Trade-off Analysis), INTEGRATION (Multi-stakeholder).
 
 #### **33. Robust Optimization** - Tối Ưu Hóa Bền Vững
 
