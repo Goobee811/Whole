@@ -6870,16 +6870,21 @@ Thực hành chuyển động có ý thức qua năm nhịp điệu.
 
 → **Liên kết:** DYNAMICS (Movement), INTEGRATION (Embodiment)
 
-#### **40. Improvisation** - Ứng Biến
+#### **40. Improvisation - Ứng Biến** [Nghệ Thuật Biểu Diễn]
 
-Sáng tạo tự phát trong âm nhạc, múa, sân khấu.
+Sáng tạo tự phát trong nghệ thuật biểu diễn (âm nhạc, múa, sân khấu) - biểu đạt năng lượng và cảm xúc qua cơ thể và chuyển động KHÔNG có kịch bản cứng nhắc. Đây là về BIỂU HIỆN NGHỆ THUẬT, không phải giải quyết vấn đề.
 
-- **Spontaneous Creation**: Sáng tạo tự phát
-- **In-the-Moment Art**: Nghệ thuật trong khoảnh khắc
-- **Adaptive Expression**: Biểu đạt thích ứng
-- **Flow Performance**: Biểu diễn dòng chảy
+- **Spontaneous Creation**: Sáng tạo tức thì trong biểu diễn.
+- **In-the-Moment Art**: Nghệ thuật trong khoảnh khắc hiện tại.
+- **Adaptive Expression**: Biểu đạt thích ứng với năng lượng của không gian.
+- **Flow Performance**: Biểu diễn trong trạng thái dòng chảy.
 
-→ **Liên kết:** CREATION (Spontaneous Creation), DYNAMICS (Flow States)
+→ **Liên kết:** CREATION (Spontaneous Creation), DYNAMICS (Flow States, 5Rhythms Movement #39).
+→ **Nhóm:** Movement & Rhythm (cùng với 5Rhythms, Kinetic Art, Movement Dynamics).
+→ **Khác biệt với NAVIGATION #11:**
+  • DYNAMICS #40: Nghệ thuật biểu diễn, biểu đạt cảm xúc/năng lượng
+  • NAVIGATION #11: Công cụ thích ứng chiến lược trong bối cảnh bất định
+→ **Bản chất:** Embodied artistic expression, không phải strategic adaptation.
 
 #### **41. Kinetic Art & Architecture** - Nghệ Thuật & Kiến Trúc Động
 
@@ -11878,7 +11883,7 @@ Tạo ra từ những gì có sẵn, không theo kế hoạch chặt chẽ.
 - **Found Object Use**: Sử dụng vật thể tìm được
 - **Make Do and Mend**: Làm được việc và sửa chữa
 
-→ **Liên kết:** OPERATIONS (Resourcefulness), CREATION (Improvisation)
+→ **Liên kết:** OPERATIONS (Resourcefulness), NAVIGATION (Improvisation #11 - Strategic Adaptation)
 
 #### **19. Abstraction & Instantiation** - Trừu Tượng Hóa & Cụ Thể Hóa
 
@@ -14481,7 +14486,7 @@ Tạo ra giải pháp bằng cách sử dụng các tài nguyên có sẵn một
 - **Making Do**: Xoay sở với những gì có.
 - **Improvisational Mastery**: Làm chủ sự ứng biến.
 
-→ **Liên kết:** CREATION (Improvisation), OPERATIONS (Resource Optimization).
+→ **Liên kết:** NAVIGATION (Improvisation #11 - Strategic Adaptation), OPERATIONS (Resource Optimization).
 
 #### **10. Antifragility** - Phản Mong Manh
 
@@ -14494,16 +14499,20 @@ Các hệ thống trở nên mạnh mẽ hơn từ các cú sốc, sự hỗn lo
 
 → **Liên kết:** DYNAMICS (Resilience), AMPLIFICATION (System Strength).
 
-#### **11. Improvisation** - Ứng Biến
+#### **11. Improvisation - Ứng Biến** [Chiến Lược Thích Ứng]
 
-Hành động ngay lập tức và sáng tạo trong thời điểm hiện tại, không có kịch bản định trước.
+Hành động quyết định ngay lập tức và sáng tạo khi đối mặt với bối cảnh thay đổi không thể dự đoán - không có kịch bản sẵn. Đây là CÔNG CỤ ĐIỀU HƯỚNG trong tình huống bất định, cho phép thích ứng real-time dựa trên nhận thức tình huống.
 
-- **Real-time Creation**: Sáng tạo theo thời gian thực.
-- **Flow State**: Trạng thái dòng chảy.
-- **Yes, And...**: Chấp nhận và xây dựng ("Vâng, và...").
-- **Trust in Process**: Tin tưởng vào quá trình.
+- **Real-time Creation**: Sáng tạo giải pháp theo thời gian thực - không kế hoạch trước.
+- **Flow State**: Trạng thái dòng chảy - phản ứng tự nhiên với tình huống.
+- **"Yes, And..."**: Chấp nhận thực tại và xây dựng tiếp - không chống lại.
+- **Trust in Process**: Tin tưởng vào khả năng thích ứng - không cần kiểm soát toàn bộ.
 
 → **Liên kết:** CREATION (Spontaneous Creation), DYNAMICS (Flow).
+→ **Khác biệt với DYNAMICS #40:**
+  • NAVIGATION #11: Thích ứng chiến lược trong bối cảnh bất định
+  • DYNAMICS #40: Biểu diễn nghệ thuật qua cơ thể và cảm xúc
+→ **Bản chất:** Strategic problem-solving, không phải artistic performance.
 
 #### **12. Pivot Recognition** - Nhận Diện Thời Điểm Xoay Chuyển
 
@@ -16986,7 +16995,7 @@ Tích hợp khả năng ứng biến và tự phát vào hệ thống.
 - **Flow Responsiveness**: Đáp ứng dòng chảy; theo dòng chảy của tình huống.
 - **Jazz Integration**: Tích hợp theo phong cách Jazz; cấu trúc và tự do.
 
-→ **Liên kết:** CREATION (Improvisation), DYNAMICS (Flow).
+→ **Liên kết:** NAVIGATION (Improvisation #11 - Strategic Adaptation), DYNAMICS (Improvisation #40 - Artistic Performance, Flow).
 
 ---
 
