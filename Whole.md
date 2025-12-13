@@ -1063,20 +1063,53 @@ xuất hiện ở mọi hệ thống - từ sinh học, địa chất, đến x�
 
 #### **39. The Dunning-Kruger Effect** - Hiệu Ứng Dunning-Kruger [Universal Pattern]
 
-Một mẫu hình tâm lý PHỔ QUÁT trong nhận thức của con người: người thiếu năng lực thường đánh giá quá cao bản thân, trong khi chuyên gia thực sự khiêm tốn hơn.
+Một thiên kiến nhận thức PHỔ QUÁT trong đó những người có năng lực thấp ở một lĩnh vực có xu hướng ĐÁNH GIÁ QUÁ CAO năng lực của mình, trong khi những người có năng lực cao có xu hướng ĐÁNH GIÁ THẤP hơn một cách tương đối.
 
-• **Pattern Recognition**: Đây là một universal bias xuất hiện xuyên suốt mọi lĩnh vực
-• **Metacognitive Nature**: Phản ánh bản chất meta-nhận thức của con người
-• **Universal Application**: Áp dụng cho tất cả domains của tri thức và kỹ năng
-• **Evolutionary Psychology**: Có thể có nguồn gốc tiến hóa trong nhận thức
+**CƠ CHẾ HOẠT ĐỘNG:**
 
-⚠️ **CHI TIẾT ĐẦY ĐỦ:** Xem VALIDATION #19 (Quality Assurance & Risk Assessment)
-   → Đây là công cụ KIỂM CHỨNG quan trọng để đánh giá năng lực
+• **Incompetence Hides Itself**: Sự bất tài tự che giấu chính nó
+  → Người thiếu kỹ năng KHÔNG CÓ kỹ năng để nhận ra mình thiếu kỹ năng
+
+• **Metacognitive Deficit**: Sự thiếu hụt về siêu nhận thức
+  → Cần năng lực để đánh giá chính xác năng lực của bản thân
+
+• **Expert Humility**: Khiêm tốn của chuyên gia
+  → Người có năng lực cao NHẬN RA độ phức tạp và giới hạn của mình
+
+• **"Unskilled and Unaware of It"**: "Không có kỹ năng và không nhận thức được điều đó"
+  → Đặc điểm cốt lõi: double ignorance - vô tri về sự vô tri
+
+**ĐỒ THỊ NĂNG LỰC - TỰ TIN:**
+```
+┌─────────────────────────────────────┐
+│ Tự tin ↑                            │
+│     │    Peak of                    │
+│     │   Mt. Stupid                  │
+│  🏔️ │      │                       │
+│     │      │    Valley of           │
+│     │      │    Despair    Plateau  │
+│     │      ↓       │        of      │
+│     │──────╲      │      Competence │
+│     │       ╲     ↓     ╱──────────│
+│     │        ╲──╱──────╱            │
+│     └─────────────────────────→     │
+│              Năng lực thực tế       │
+└─────────────────────────────────────┘
+```
+
+**ỨNG DỤNG THỰC TIỄN:**
+1. **Self-Assessment**: Hiệu chỉnh tự đánh giá năng lực
+2. **Peer Review**: Thiết kế quy trình đánh giá hiệu quả
+3. **Competence Evaluation**: Đánh giá năng lực chính xác hơn
+4. **Learning Design**: Thiết kế quy trình học tập với feedback phù hợp
+5. **Risk Mitigation**: Giảm rủi ro do overconfidence
 
 → **Liên kết:**
-  • VALIDATION #19 (chi tiết đầy đủ, ứng dụng thực tiễn)
-  • [META] LAYER (Meta-Cognition)
-  • FOUNDATIONS (Universal Patterns - các mẫu hình khác)
+  • [META] LAYER (Meta-Cognition, Meta-Competence, Cognitive Calibration)
+  • VALIDATION (Self-Assessment, Peer Review, 360-Degree Feedback)
+  • OPERATIONS (Learning Systems, Deliberate Practice)
+
+→ **Công cụ ứng dụng:** DYNAMICS #61 (Dunning-Kruger Razor)
 
 #### **40. The Pygmalion Effect (Self-Fulfilling Prophecy)** - Hiệu Ứng Pygmalion
 
@@ -6191,7 +6224,8 @@ Nhận thức về xu hướng đánh giá quá cao năng lực khi thiếu năn
 - **Learning Curve Recognition**: Nhận diện đường cong học tập
 - **Expertise Caution**: Thận trọng về chuyên môn
 
-→ **Liên kết:** VALIDATION #19 (The Dunning-Kruger Effect - chi tiết đầy đủ), [META] LAYER (Meta-Competence)
+→ **Liên kết:** [META] LAYER (Meta-Competence), VALIDATION (Self-Assessment)
+→ **Gốc lý thuyết:** FOUNDATIONS #39 (The Dunning-Kruger Effect)
 
 #### **62. Fredkin's Paradox** - Nghịch Lý Fredkin
 
@@ -9529,7 +9563,7 @@ Thay vì hỏi làm thế nào để thành công, hãy hỏi làm thế nào đ
 
 #### **9. Circle of Competence** - Vòng Tròn Năng Lực
 
-Khung ra quyết định về việc chỉ nên hành động và quyết định trong các lĩnh vực mà mình có kiến thức và chuyên môn sâu sắc. Đây là một CÔNG CỤ THỰC HÀNH quan trọng để tránh sai lầm từ sự tự tin thái quá và Dunning-Kruger Effect (xem VALIDATION #19).
+Khung ra quyết định về việc chỉ nên hành động và quyết định trong các lĩnh vực mà mình có kiến thức và chuyên môn sâu sắc. Đây là một CÔNG CỤ THỰC HÀNH quan trọng để tránh sai lầm từ sự tự tin thái quá và Dunning-Kruger Effect (xem FOUNDATIONS #39).
 
 **CỐT LÕI CỦA KHÁI NIỆM:**
 
@@ -9561,7 +9595,7 @@ Khung ra quyết định về việc chỉ nên hành động và quyết địn
 "Đừng bao giờ đánh cược tài sản lớn vào những quyết định nằm ngoài vòng tròn năng lực của bạn. Mở rộng vòng tròn thông qua học tập sâu, không phải thông qua tự tin thái quá."
 
 **PHÂN BIỆT VỚI CÁC KHÁI NIỆM LIÊN QUAN:**
-- Khác với Dunning-Kruger Effect (VALIDATION #19): Đây là công cụ để TRÁNH nhận thức sai lệch
+- Khác với Dunning-Kruger Effect (FOUNDATIONS #39): Đây là công cụ để TRÁNH nhận thức sai lệch
 - Khác với Meta-Cognition: Đây là về RANH GIỚI năng lực, không phải về quá trình tư duy
 - Khác với Intellectual Humility: Đây là công cụ CỤ THỂ, không phải giá trị trừu tượng
 
@@ -20227,62 +20261,6 @@ Công cụ framework 2x2 để đánh giá và cải thiện sự tự nhận th
   • INTEGRATION (Personal Integration - tích hợp các khía cạnh bản thân)
 
 → **Lưu ý:** Đây là CÔNG CỤ THỰC HÀNH, không phải nguyên lý nền tảng.
-
-#### **19. The Dunning-Kruger Effect** - Hiệu Ứng Dunning-Kruger [Công Cụ Tự Đánh Giá]
-
-Một thiên kiến nhận thức trong đó những người có năng lực thấp ở một lĩnh vực có xu hướng ĐÁNH GIÁ QUÁ CAO năng lực của mình, trong khi những người có năng lực cao có xu hướng ĐÁNH GIÁ THẤP hơn một cách tương đối.
-
-Đây là CÔNG CỤ KIỂM CHỨNG quan trọng để:
-• Nhận diện blind spots trong tự đánh giá năng lực
-• Hiểu tại sao beginners thường quá tự tin
-• Giải thích sự khiêm tốn của chuyên gia thực sự
-• Cải thiện quy trình đánh giá và phản hồi
-
-**CƠ CHẾ HOẠT ĐỘNG:**
-
-• **Incompetence Hides Itself**: Sự bất tài tự che giấu chính nó
-  → Người thiếu kỹ năng KHÔNG CÓ kỹ năng để nhận ra mình thiếu kỹ năng
-
-• **Metacognitive Deficit**: Sự thiếu hụt về siêu nhận thức
-  → Cần năng lực để đánh giá chính xác năng lực của bản thân
-
-• **Expert Humility**: Khiêm tốn của chuyên gia
-  → Người có năng lực cao NHẬN RA độ phức tạp và giới hạn của mình
-
-• **"Unskilled and Unaware of It"**: "Không có kỹ năng và không nhận thức được điều đó"
-  → Đặc điểm cốt lõi: double ignorance - vô tri về sự vô tri
-
-**ĐỒ THỊ NĂNG LỰC - TỰ TIN:**
-```
-┌─────────────────────────────────────┐
-│ Tự tin ↑                            │
-│     │    Peak of                    │
-│     │   Mt. Stupid                  │
-│  🏔️ │      │                       │
-│     │      │    Valley of           │
-│     │      │    Despair    Plateau  │
-│     │      ↓       │        of      │
-│     │──────╲      │      Competence │
-│     │       ╲     ↓     ╱──────────│
-│     │        ╲──╱──────╱            │
-│     └─────────────────────────→     │
-│              Năng lực thực tế       │
-└─────────────────────────────────────┘
-```
-
-**ỨNG DỤNG TRONG VALIDATION:**
-1. **Self-Assessment**: Hiệu chỉnh tự đánh giá năng lực
-2. **Peer Review**: Thiết kế quy trình đánh giá hiệu quả
-3. **Competence Evaluation**: Đánh giá năng lực chính xác hơn
-4. **Learning Design**: Thiết kế quy trình học tập với feedback phù hợp
-5. **Risk Mitigation**: Giảm rủi ro do overconfidence
-
-→ **Liên kết nội bộ:**
-  • VALIDATION (Self-Assessment, Peer Review, 360-Degree Feedback)
-  • [META] LAYER (Meta-Cognition, Meta-Competence, Cognitive Calibration)
-  • OPERATIONS (Learning Systems, Deliberate Practice)
-
-→ **Tham chiếu từ FOUNDATIONS:** #39 (Universal Pattern trong tâm lý con người)
 
 #### **20. The Pygmalion Effect** - Hiệu Ứng Pygmalion (Lời Tiên Tri Tự Hoàn Thành)
 Hiện tượng mà kỳ vọng cao hơn đối với một người dẫn đến sự cải thiện hiệu suất của người đó.
