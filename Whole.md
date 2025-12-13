@@ -838,14 +838,18 @@ Mô hình thống kê mô tả cách dữ liệu trong nhiều hiện tượng t
 
 #### **19. Power Law Distribution (Pareto Distribution)** - Phân Phối theo Luật Lũy Thừa
 
-Mô hình trong đó một số ít các yếu tố chiếm phần lớn kết quả (ví dụ: nguyên tắc 80/20).
+Mô hình toán học và thống kê cơ bản về phân phối phi chuẩn - nơi một số ít yếu tố chiếm phần lớn giá trị. Đây là NỀN TẢNG LÝ THUYẾT cho hiểu biết về bất bình đẳng tự nhiên trong nhiều hệ thống.
 
-- **"Rich-Get-Richer" Dynamics**: Động lực "người giàu càng giàu thêm"
-- **Fat Tails**: Đuôi "béo", nơi các sự kiện cực đoan xảy ra thường xuyên hơn nhiều so với phân phối chuẩn
-- **Scale-Free Networks**: Đặc trưng của các mạng lưới phi tỷ lệ
-- **Winner-Take-All Markets**: Phổ biến trong các thị trường "người thắng lấy tất cả"
+- **"Rich-Get-Richer" Dynamics**: CƠ CHẾ TOÁN HỌC của tích lũy bất cân xứng
+- **Fat Tails**: ĐẶC TRƯNG THỐNG KÊ - sự kiện cực đoan xảy ra thường hơn dự đoán
+- **Scale-Free Networks**: BIỂU HIỆN trong cấu trúc mạng lưới
+- **Winner-Take-All Markets**: ỨNG DỤNG trong thị trường
 
-→ **Liên kết:** AMPLIFICATION (Network Effects), DYNAMICS (Tipping Points)
+→ **Liên kết nội bộ:** DYNAMICS (Tipping Points)
+→ **Biểu hiện ở các domain khác:**
+  • DYNAMICS #4 (trong tiến hóa hệ thống)
+  • AMPLIFICATION #14 (công cụ khuếch đại)
+  • TRANSCENDENCE #11 (mẫu hình biến đổi)
 
 #### **20. The Black Swan** - Thiên Nga Đen
 
@@ -4683,14 +4687,17 @@ Nghiên cứu cách các hệ thống phức tạp tự tổ chức, thích ứn
 
 #### **4. Power Laws** - Luật Lũy Thừa
 
-Mối quan hệ trong đó một đại lượng thay đổi theo lũy thừa của đại lượng khác, tạo ra phân phối "long tail".
+Mối quan hệ trong đó một đại lượng thay đổi theo lũy thừa của đại lượng khác, tạo ra các MẪU HÌNH TIẾN HÓA không đồng đều. Khác với nền tảng toán học ở FOUNDATIONS, đây là về CƠ CHẾ TIẾN HÓA của hệ thống theo thời gian.
 
-- **Scale-Free Networks**: Mạng lưới không có quy mô đặc trưng
-- **80/20 Rule**: Nguyên tắc Pareto
-- **Heavy-Tailed Distributions**: Phân phối đuôi dài
-- **Preferential Attachment**: Gắn kết ưu tiên
+- **Scale-Free Networks**: CẤU TRÚC PHÁT TRIỂN tự nhiên không có quy mô đặc trưng
+- **80/20 Rule (Pareto)**: QUY LUẬT XUẤT HIỆN trong quá trình phát triển
+- **Heavy-Tailed Distributions**: ĐẶC ĐIỂM PHÂN PHỐI của các sự kiện tiến hóa
+- **Preferential Attachment**: CƠ CHẾ PHÁT TRIỂN - nút lớn thu hút nhiều hơn
 
-→ **Liên kết:** AMPLIFICATION (Winner-Take-All), VALIDATION (Risk Distribution)
+→ **Liên kết nội bộ:** AMPLIFICATION (Winner-Take-All), VALIDATION (Risk Distribution)
+→ **Gốc lý thuyết:** FOUNDATIONS #19 (Power Law Distribution - mô hình toán học)
+→ **Ứng dụng trong:** AMPLIFICATION #14 (công cụ đòn bẩy)
+→ **Biến đổi cao cấp:** TRANSCENDENCE #11 (metamorphosis patterns)
 
 #### **5. Network Effects** - Hiệu Ứng Mạng Lưới [HIỆN TƯỢNG TIẾN HÓA]
 
@@ -22147,13 +22154,19 @@ Hiện tượng những lợi thế nhỏ ban đầu tích lũy và phóng đạ
 
 #### **14. Power Laws** - Các Định Luật Lũy Thừa
 
-Phân phối trong đó một số ít yếu tố chiếm phần lớn giá trị hoặc tác động.
+Phân phối trong đó một số ít yếu tố chiếm phần lớn giá trị - CÔNG CỤ để xác định điểm đòn bẩy. Khác với lý thuyết ở FOUNDATIONS và mô hình tiến hóa ở DYNAMICS, đây là về CHIẾN LƯỢC TẬN DỤNG Power Laws để khuếch đại tác động.
 
-- **80/20 on Steroids**: 80/20 tăng cường, đôi khi là 90/10 hoặc thậm chí 99/1.
-- **Zipf's Law**: Định luật Zipf, xuất hiện trong nhiều hệ thống tự nhiên và xã hội.
-- **Long Tail**: Đuôi dài, nhiều mục có giá trị nhỏ có thể cộng lại thành giá trị lớn.
-- **Fat Tails**: Đuôi béo, các sự kiện cực đoan xảy ra thường xuyên hơn dự đoán.  
-    → **Liên kết:** FOUNDATIONS (Statistical Thinking), OPERATIONS (Risk Analysis).
+- **80/20 on Steroids**: NHẬN DIỆN điểm tập trung giá trị (90/10, 99/1)
+- **Zipf's Law**: HIỂU QUY LUẬT xuất hiện trong ngôn ngữ, dân số, thu nhập
+- **Long Tail + Heavy Tails**: CHIẾN LƯỢC KHẢ NĂNG từ đuôi dài vs rủi ro đuôi nặng
+- **Distribution Pattern**: PHÂN TÍCH mẫu hình phân phối bất đối xứng
+- **Scaling Behavior**: DỰ ĐOÁN hành vi khi mở rộng quy mô
+- **Scale Invariance**: NHẬN RA cấu trúc bất biến qua các cấp độ
+
+→ **Liên kết nội bộ:** NAVIGATION (Priority Management, Leverage Points)
+→ **Gốc lý thuyết:** FOUNDATIONS #19 (Power Law Distribution - nền toán học)
+→ **Cơ chế tiến hóa:** DYNAMICS #4 (System Evolution Patterns)
+→ **Ứng dụng chiến lược:** NAVIGATION (80/20 Principle), OPERATIONS (Focus)
 
 #### **15. Winner-Take-All Dynamics** - Động Lực Người Thắng Cuộc Nhận Tất Cả
 
@@ -22197,17 +22210,7 @@ Kỹ năng tối ưu hóa và tận dụng sức mạnh của lãi kép.
 - **Consistency Discipline**: Kỷ luật nhất quán để duy trì lãi kép.  
     → **Liên kết:** OPERATIONS (Mastery), NAVIGATION (Long-term Strategy).
 
-#### **19. Power Laws** - Các Định Luật Lũy Thừa
-
-Phân phối trong đó một số ít yếu tố chiếm phần lớn giá trị (đã có ở chức năng 2, bổ sung góc nhìn về growth).
-
-- **Distribution Pattern**: Mẫu hình phân phối bất đối xứng.
-- **Scaling Behavior**: Hành vi mở rộng quy mô.
-- **Heavy Tails**: Đuôi nặng, các sự kiện cực đoan.
-- **Scale Invariance**: Bất biến theo quy mô.  
-    → **Liên kết:** FOUNDATIONS (Statistical Distribution), OPERATIONS (Data Analysis).
-
-#### **20. Fractals** - Phân Hình
+#### **19. Fractals** - Phân Hình
 
 Các cấu trúc tự tương tự ở các quy mô khác nhau.
 
@@ -24705,14 +24708,18 @@ Các cấu trúc tự tham chiếu, nơi một phần chứa tham chiếu đến
 
 #### **11. Power Laws** - Định Luật Lũy Thừa
 
-Các phân phối toán học nơi một biến liên quan đến một biến khác bằng một lũy thừa.
+Các phân phối toán học theo lũy thừa như là MẪU HÌNH của sự biến đổi siêu việt. Khác với nền tảng toán học, tiến hóa hệ thống hay ứng dụng khuếch đại, đây là về NHẬN RA rằng quá trình METAMORPHOSIS cũng tuân theo Power Laws.
 
-- **Scale-Free Distribution**: Phân phối không có quy mô; không có quy mô "điển hình".
-- **Long Tail Effects**: Hiệu ứng đuôi dài; một vài sự kiện cực đoan có ảnh hưởng lớn.
-- **80/20 Principle**: Nguyên tắc 80/20; một phần nhỏ tạo ra phần lớn kết quả.
-- **Preferential Attachment**: Gắn kết ưu tiên; những người giàu có thêm giàu.
+- **Scale-Free Distribution**: BIẾN ĐỔI không có quy mô "điển hình" - mọi cấp độ
+- **Long Tail Effects**: Một vài BREAKTHROUGH cực đoan tạo tác động khổng lồ
+- **80/20 Principle**: Trong TRANSCENDENCE - 20% insight tạo 80% transformation
+- **Preferential Attachment**: Các PARADIGM SHIFT lớn thu hút thêm sự thay đổi
 
-→ **Liên kết:** AMPLIFICATION (Network Effects), VALIDATION (Statistical Patterns).
+→ **Liên kết nội bộ:** AMPLIFICATION (Network Effects), VALIDATION (Statistical Patterns)
+→ **Gốc lý thuyết:** FOUNDATIONS #19 (mô hình phân phối)
+→ **Trong tiến hóa:** DYNAMICS #4 (evolution patterns)
+→ **Trong thực hành:** AMPLIFICATION #14 (leverage strategy)
+→ **Đặc thù metamorphosis:** Biến đổi phi tuyến, breakthrough bất ngờ
 
 ---
 
