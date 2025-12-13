@@ -7110,7 +7110,7 @@ Phương pháp có cấu trúc để xác định và phân tích các mối qua
 → **Bản chất**: Kỹ thuật suy luận có cấu trúc
 → **Gốc lý thuyết**: FOUNDATIONS (Probabilistic Thinking - nguyên lý phổ quát)
 → **Ứng dụng ra quyết định**: OPERATIONS (Risk-Based Decision Making - trong quyết định thực tế)
-→ **Liên kết**: VALIDATION (Statistical Analysis), NAVIGATION (Risk Assessment)
+→ **Liên kết**: VALIDATION (Statistical Analysis, Risk Assessment)
 
 #### **7. Modal Reasoning** - Suy Luận Với Khả Thể
 
@@ -7943,20 +7943,9 @@ Khám phá các kịch bản tương lai khả thi khác nhau và hậu quả c�
 - **Analyze Implications**: Phân tích hậu quả của mỗi kịch bản.
 - **Robust Strategy Design**: Thiết kế các chiến lược vững chắc hoạt động tốt trong nhiều kịch bản.
 
-→ **Liên kết:** NAVIGATION (Strategic Planning), VALIDATION (Stress Testing)
+→ **Liên kết:** NAVIGATION (Strategic Planning), VALIDATION (Risk Assessment, Stress Testing)
 
-#### **17. Risk Assessment** - Đánh Giá Rủi Ro
-
-Xác định, phân tích và đánh giá các rủi ro tiềm tàng.
-
-- **Risk Identification**: Xác định các rủi ro tiềm tàng.
-- **Probability & Impact Assessment**: Đánh giá xác suất xảy ra và tác động của mỗi rủi ro.
-- **Risk Matrix**: Sử dụng ma trận rủi ro để trực quan hóa và ưu tiên các rủi ro.
-- **Mitigation Planning**: Lập kế hoạch để giảm thiểu hoặc loại bỏ các rủi ro.
-
-→ **Liên kết:** VALIDATION (Risk Management), NAVIGATION (Contingency Planning)
-
-#### **18. Sensitivity Analysis** - Phân Tích Độ Nhạy
+#### **17. Sensitivity Analysis** - Phân Tích Độ Nhạy
 
 Kỹ thuật kiểm tra xem kết quả của một mô hình thay đổi như thế nào khi các giả định đầu vào thay đổi.
 
@@ -7965,7 +7954,7 @@ Kỹ thuật kiểm tra xem kết quả của một mô hình thay đổi như t
 - **Critical Assumption Identification**: Xác định những giả định có ảnh hưởng lớn nhất.
 - **Model Robustness Check**: Kiểm tra độ vững chắc của mô hình.
 
-→ **Liên kết:** VALIDATION (Stress Testing), OPERATIONS (Risk Assessment)
+→ **Liên kết:** VALIDATION (Risk Assessment, Stress Testing), OPERATIONS (Risk Management)
 
 #### **19. Dimensionality Reduction** - Giảm Chiều Dữ Liệu
 
@@ -10683,7 +10672,7 @@ Chạy các kịch bản và tình huống trong tâm trí để dự đoán k�
 - **Virtual Prototyping**: Tạo mẫu ảo trong tâm trí
 - **Mental Rehearsal**: Diễn tập tinh thần trước khi thực hiện
 
-→ **Liên kết:** NAVIGATION (Future Scenarios), OPERATIONS (Risk Assessment)
+→ **Liên kết:** NAVIGATION (Future Scenarios), VALIDATION (Risk Assessment)
 
 #### **45. Idea Quotas** - Hạn Ngạch Ý Tưởng
 
@@ -19343,7 +19332,7 @@ Mô phỏng một cuộc tấn công mạng để phát hiện các lỗ hổng 
 - **Breaking Point Analysis**: Phân tích điểm vỡ để hiểu nơi hệ thống yếu nhất.
 - **Failure Mode Discovery**: Khám phá cách hệ thống thất bại (có xảy ra thảm họa hay nó suy giảm một cách ổn định?).
 - **Risk Quantification**: Định lượng rủi ro trong các kịch bản cực đoan.
-→ **Liên kết:** DYNAMICS (Resilience Building), NAVIGATION (Risk Assessment)
+→ **Liên kết:** DYNAMICS (Resilience Building), VALIDATION (Risk Assessment)
 
 #### **4. Chaos Engineering** - Kỹ Thuật Hỗn Loạn
 Cố ý đưa vào các lỗi và sự thất bại ngẫu nhiên vào một hệ thống sản xuất để kiểm tra khả năng phục hồi của nó.
@@ -19561,7 +19550,7 @@ Nghiên cứu có hệ thống các cách khác nhau mà một hệ thống có 
 - **Systematic Enumeration**: Liệt kê có hệ thống các chế độ thất bại.
 - **Probability x Severity**: Xác suất nhân với mức độ nghiêm trọng.
 - **Preventive Design**: Thiết kế phòng ngừa dựa trên phân tích.
-→ **Liên kết:** NAVIGATION (Risk Assessment), OPERATIONS (Systems Engineering)
+→ **Liên kết:** VALIDATION (Risk Assessment), OPERATIONS (Systems Engineering)
 
 #### **30. Near-Miss Analysis** - Phân Tích Suýt Nữa
 Nghiên cứu các sự cố suýt xảy ra nhưng may mắn tránh được.
@@ -20561,13 +20550,34 @@ Khả năng tích hợp và điều phối tất cả các phương pháp kiểm
 
 ### **Các Khái Niệm & Phương Pháp Bổ Sung**
 
-#### **36. Risk Assessment** - Đánh Giá Rủi Ro
-Quy trình có hệ thống để nhận diện, phân tích và ưu tiên rủi ro.
-- **Risk Identification**: Nhận diện rủi ro.
-- **Probability Evaluation**: Đánh giá xác suất.
-- **Impact Assessment**: Đánh giá tác động.
-- **Prioritization**: Ưu tiên hóa.
-→ **Liên kết:** NAVIGATION (Risk Navigation), VALIDATION (Scenario Testing)
+#### **36. Risk Assessment** - Đánh Giá Rủi Ro [Quy Trình Kiểm Định Hệ Thống]
+
+Quy trình có hệ thống để nhận diện, phân tích và ưu tiên rủi ro trong bất kỳ hệ thống, dự án hay quyết định nào. Đây là CÔNG CỤ KIỂM ĐỊNH cốt lõi để đảm bảo chất lượng và an toàn, giúp chuyển đổi sự bất định thành thông tin có thể hành động được.
+
+- **Risk Identification** - Nhận Diện Rủi Ro: Nhận diện toàn diện các rủi ro tiềm tàng - từ rủi ro hiển nhiên đến tiềm ẩn, sử dụng brainstorming, checklists, và phân tích lịch sử.
+- **Probability & Impact Assessment** - Đánh Giá Xác Suất & Tác Động: Đánh giá định lượng xác suất xảy ra và mức độ tác động của mỗi rủi ro, sử dụng dữ liệu lịch sử, ý kiến chuyên gia, và mô hình thống kê.
+- **Risk Matrix & Prioritization** - Ma Trận & Ưu Tiên Rủi Ro: Trực quan hóa rủi ro theo ma trận 2D (Xác suất × Tác động) để ưu tiên nguồn lực vào các rủi ro nghiêm trọng nhất.
+- **Mitigation & Monitoring Strategy** - Chiến Lược Giảm Thiểu & Giám Sát: Thiết kế các biện pháp giảm thiểu rủi ro (tránh, chuyển giao, giảm, chấp nhận) và hệ thống giám sát liên tục để phát hiện sớm.
+
+→ **Liên kết nội bộ:**
+  • VALIDATION #3 (Stress Testing - kiểm tra khả năng chịu rủi ro)
+  • VALIDATION #5 (Pre-mortem - tưởng tượng thất bại)
+  • VALIDATION #18 (Scenario Testing - kiểm tra nhiều kịch bản)
+  • VALIDATION #29 (Failure Mode Analysis - phân tích chế độ thất bại)
+  • VALIDATION #30 (Near-Miss Analysis - học từ suýt thất bại)
+
+→ **Được sử dụng bởi:**
+  • OPERATIONS (Structured Problem-Solving, Decision Making)
+  • NAVIGATION #29 (Failure Mode Analysis - lập kế hoạch dự phòng)
+  • NAVIGATION #20 (Risk Matrix - quản lý tài nguyên)
+  • DYNAMICS (Change Management, Transformation)
+
+→ **Công cụ hỗ trợ:**
+  • Risk Matrix (2D: Probability × Impact)
+  • FMEA (Failure Mode and Effects Analysis)
+  • Monte Carlo Simulation
+  • Bow-tie Analysis
+  • Risk Register
 
 #### **37. Uncertainty Quantification** - Định Lượng Không Chắc Chắn
 Đo lường và biểu diễn độ không chắc chắn trong các dự đoán và quyết định.
@@ -20689,7 +20699,7 @@ Nguyên tắc kiểm chứng: Đừng phá bỏ một hàng rào (hoặc thay đ
 → **Liên kết nội bộ**:
   • OPERATIONS (Change Management) - áp dụng trong quản lý thay đổi
   • VALIDATION (Assumption Testing) - kiểm tra giả định trước khi hành động
-  • NAVIGATION (Risk Assessment) - đánh giá rủi ro của thay đổi
+  • VALIDATION (Risk Assessment) - đánh giá rủi ro của thay đổi
 
 → **Dao Cạo Liên Quan**:
   • Occam's Razor #47 (giản dị trong giải thích)
