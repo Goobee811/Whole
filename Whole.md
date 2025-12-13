@@ -70,7 +70,7 @@ hình thành vũ trụ, sự sống, đến tổ chức xã hội.
 → **Liên kết nội bộ:** DYNAMICS (System Dynamics), AMPLIFICATION (Tipping Points)
 → **Xuất hiện ở các domain khác:**
   • DYNAMICS #4 (quan sát quá trình tự tổ chức)
-  • CREATION #39 (ứng dụng cho thiết kế)
+  • CREATION #38 (ứng dụng cho thiết kế)
   • AMPLIFICATION (Swarm Intelligence)
   • INTEGRATION (Decentralized Systems)
 
@@ -3309,7 +3309,7 @@ thời gian thực - làm thế nào nó xảy ra, các giai đoạn, các patte
 
 → **Liên kết nội bộ:** AMPLIFICATION (Swarm Intelligence), INTEGRATION (Decentralized Systems)
 → **Gốc lý thuyết:** FOUNDATIONS #3 (Emergence & Self-Organization - nguyên lý phổ quát)
-→ **Ứng dụng sáng tạo:** CREATION #39 (Self-Organization như công cụ thiết kế)
+→ **Ứng dụng sáng tạo:** CREATION #38 (Self-Organization như công cụ thiết kế)
 → **Khác biệt:** FOUNDATIONS giải thích "TẠI SAO", DYNAMICS mô tả "NHƯ THẾ NÀO"
 
 #### **5. Edge of Chaos** - Bờ Rìa Hỗn Loạn
@@ -6958,14 +6958,31 @@ Các kỹ thuật thở để quản lý và biến đổi năng lượng.
 
 #### **48. Silence Practice** - Thực Hành Im Lặng
 
-Nuôi dưỡng im lặng bên trong và bên ngoài.
+Thực hành nuôi dưỡng im lặng bên trong và bên ngoài - một công cụ mạnh mẽ cho cả QUẢN LÝ NĂNG LƯỢNG và SÁNG TẠO. Im lặng không phải là sự vắng mặt của âm thanh mà là KHÔNG GIAN NĂNG LƯỢNG nơi cả sự điều hòa lẫn sự đột sinh có thể xảy ra.
 
-- **Stillness Cultivation**: Nuôi dưỡng sự tĩnh lặng
-- **Inner Quiet**: Yên tĩnh nội tâm
-- **Noise Reduction**: Giảm nhiễu
-- **Awareness in Silence**: Nhận thức trong im lặng
+**Khía cạnh Năng Lượng & Cảm Xúc:**
+- **Stillness Cultivation**: Nuôi dưỡng sự tĩnh lặng - làm dịu hệ thần kinh
+- **Inner Quiet**: Yên tĩnh nội tâm - tái nạp năng lượng
+- **Noise Reduction**: Giảm nhiễu - tạo không gian cho nhận thức
+- **Awareness in Silence**: Nhận thức trong im lặng - quan sát không phán xét
 
-→ **Liên kết:** TRANSCENDENCE (Stillness), VALIDATION (Inner Listening)
+**Khía cạnh Sáng Tạo & Tâm Linh:**
+- **Void Presence**: Hiện diện trong khoảng trống - tiềm năng vô hạn
+- **Silent Meditation**: Thiền im lặng - tiếp cận nguồn sáng tạo
+- **Emptiness Practice**: Thực hành tánh không - vượt qua giới hạn
+- **Space Between**: Không gian giữa - nơi ý tưởng mới nảy sinh
+
+→ **Liên kết nội bộ:**
+  - TRANSCENDENCE (Stillness, Emptiness, Void)
+  - VALIDATION (Inner Listening)
+  - CREATION (Creative Incubation) - silence as generative space
+  - FOUNDATIONS (Via Negativa) - knowing through negation
+
+→ **Ứng dụng thực hành:**
+  - Energy Management: Reset năng lượng, điều hòa cảm xúc
+  - Creative Process: Incubation, insight emergence
+  - Problem Solving: Clarity through quieting mental noise
+  - Stress Reduction: Parasympathetic activation
 
 #### **49. Patience Cultivation** - Nuôi Dưỡng Kiên Nhẫn
 
@@ -12573,18 +12590,7 @@ Tạo nhạc thiêng liêng thông qua các mẫu hình và thuật toán.
 
 → **Liên kết:** FOUNDATIONS (Sacred Mathematics), OPERATIONS (Algorithms)
 
-#### **33. Silence Practice** - Thực Hành Im Lặng
-
-Sử dụng im lặng như một thực hành sáng tạo và tâm linh.
-
-- **Void Presence**: Hiện diện trong khoảng trống
-- **Silent Meditation**: Thiền im lặng
-- **Emptiness Practice**: Thực hành tánh không
-- **Space Between**: Không gian giữa
-
-→ **Liên kết:** FOUNDATIONS (Via Negativa), TRANSCENDENCE (Emptiness)
-
-#### **34. Binaural Beat Meditation** - Thiền Nhịp Kép
+#### **33. Binaural Beat Meditation** - Thiền Nhịp Kép
 
 Sử dụng nhịp kép để thay đổi trạng thái ý thức.
 
@@ -12597,7 +12603,7 @@ Sử dụng nhịp kép để thay đổi trạng thái ý thức.
 
 ### **Nhóm Đổi Mới & Cộng Đồng**
 
-#### **35. Educational Innovation** - Đổi Mới Giáo Dục
+#### **34. Educational Innovation** - Đổi Mới Giáo Dục
 
 Tái tưởng tượng các hệ thống học tập.
 
@@ -12608,7 +12614,7 @@ Tái tưởng tượng các hệ thống học tập.
 
 → **Liên kết:** INTEGRATION (Knowledge Transfer), AMPLIFICATION (Social Impact)
 
-#### **36. Gamification** - Trò Chơi Hóa
+#### **35. Gamification** - Trò Chơi Hóa
 
 Áp dụng cơ chế trò chơi vào các ngữ cảnh không phải trò chơi.
 
@@ -12619,7 +12625,7 @@ Tái tưởng tượng các hệ thống học tập.
 
 → **Liên kết:** OPERATIONS (System Design), AMPLIFICATION (Engagement)
 
-#### **37. Flipped Classroom** - Lớp Học Đảo Ngược
+#### **36. Flipped Classroom** - Lớp Học Đảo Ngược
 
 Đảo ngược mô hình giảng dạy truyền thống.
 
@@ -12630,7 +12636,7 @@ Tái tưởng tượng các hệ thống học tập.
 
 → **Liên kết:** CREATION (Innovation), OPERATIONS (Teaching Methods)
 
-#### **38. Community Art Practice** - Thực Hành Nghệ Thuật Cộng Đồng
+#### **37. Community Art Practice** - Thực Hành Nghệ Thuật Cộng Đồng
 
 Nghệ thuật được tạo ra bởi và cho cộng đồng.
 
@@ -12641,7 +12647,7 @@ Nghệ thuật được tạo ra bởi và cho cộng đồng.
 
 → **Liên kết:** INTEGRATION (Community Building), AMPLIFICATION (Collective Impact)
 
-#### **39. Eco-Art & Land Art** - Nghệ Thuật Sinh Thái & Đất Đai
+#### **38. Eco-Art & Land Art** - Nghệ Thuật Sinh Thái & Đất Đai
 
 Nghệ thuật tương tác với môi trường và cảnh quan.
 
@@ -12652,7 +12658,7 @@ Nghệ thuật tương tác với môi trường và cảnh quan.
 
 → **Liên kết:** FOUNDATIONS (Ecological Principles), INTEGRATION (Nature Connection)
 
-#### **40. Digital Sacred Art** - Nghệ Thuật Thiêng Liêng Kỹ Thuật Số
+#### **39. Digital Sacred Art** - Nghệ Thuật Thiêng Liêng Kỹ Thuật Số
 
 Kết hợp công nghệ và tâm linh trong nghệ thuật.
 
@@ -12663,7 +12669,7 @@ Kết hợp công nghệ và tâm linh trong nghệ thuật.
 
 → **Liên kết:** TRANSCENDENCE (Modern Spirituality), OPERATIONS (Technology)
 
-#### **41. VR Meditation Environments** - Môi Trường Thiền Thực Tế Ảo
+#### **40. VR Meditation Environments** - Môi Trường Thiền Thực Tế Ảo
 
 Tạo không gian thiền định trong thực tế ảo.
 
@@ -12674,7 +12680,7 @@ Tạo không gian thiền định trong thực tế ảo.
 
 → **Liên kết:** DYNAMICS (Consciousness Tech), AMPLIFICATION (Immersion)
 
-#### **42. Meta-Creative Practice** - Thực Hành Siêu Sáng Tạo
+#### **41. Meta-Creative Practice** - Thực Hành Siêu Sáng Tạo
 
 Sáng tạo về chính quá trình sáng tạo.
 
@@ -12685,7 +12691,7 @@ Sáng tạo về chính quá trình sáng tạo.
 
 → **Liên kết:** [META] LAYER (Meta-Cognition), TRANSCENDENCE (Recursion)
 
-#### **43. Structured Water Creation** - Tạo Nước Có Cấu Trúc
+#### **42. Structured Water Creation** - Tạo Nước Có Cấu Trúc
 
 Tạo ra nước với cấu trúc phân tử đặc biệt.
 
