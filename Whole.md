@@ -8751,16 +8751,18 @@ Trạng thái đồng bộ giữa nhịp tim và hoạt động não bộ.
 
 → **Liên kết:** DYNAMICS (Coherence), FOUNDATIONS (Heart-Brain Connection)
 
-#### **24. Movement Integration** - Tích Hợp Chuyển Động
+#### **24. Movement Integration [Học Tập & Thực Hành]** - Tích Hợp Chuyển Động [Học Tập & Thực Hành]
 
-Học tập và thực hành thông qua chuyển động cơ thể.
+Học tập và thực hành thông qua chuyển động cơ thể - sử dụng chuyển động như CÔNG CỤ để mã hóa tri thức, phát triển kỹ năng và củng cố hiểu biết. Khác với việc sử dụng chuyển động để SÁNG TẠO (ở CREATION), đây là về việc RÈN LUYỆN và HỌC TẬP có hệ thống qua cơ thể.
 
-- **Kinesthetic Learning**: Học tập qua cảm giác vận động.
-- **Motor Skill Development**: Phát triển kỹ năng vận động.
-- **Movement-Thought Connection**: Kết nối giữa chuyển động và tư duy.
-- **Dance of Learning**: "Khiêu vũ" của việc học - học qua chuyển động.
+- **Kinesthetic Learning**: Học qua CẢM GIÁC vận động - tri thức qua cơ thể.
+- **Motor Skill Development**: Phát triển KỸ NĂNG vận động một cách có hệ thống.
+- **Movement-Thought Connection**: Kết nối chuyển động-tư duy để HỌC SÂU.
+- **Dance of Learning**: "Khiêu vũ" của việc học - HỌC TẬP qua chuyển động.
 
-→ **Liên kết:** OPERATIONS (Embodied Learning), DYNAMICS (Flow State)
+→ **Liên kết:** DYNAMICS (Flow State), DYNAMICS (Embodied Cognition)
+→ **Ứng dụng sáng tạo:** CREATION #28 (Movement Integration - tổng hợp sáng tạo)
+→ **Thực hành liên quan:** OPERATIONS #21 (Somatic Integration), OPERATIONS #26 (Walking Meditation), DYNAMICS (Embodied Learning)
 
 #### **25. Sensory Integration** - Tích Hợp Giác Quan
 
@@ -12131,16 +12133,19 @@ Sử dụng âm nhạc và âm thanh để tổng hợp.
 
 → **Liên kết:** FOUNDATIONS (Harmonic Principles), INTEGRATION (Sound Design)
 
-#### **28. Movement Integration** - Tích Hợp Chuyển Động
+#### **28. Movement Integration [Tổng Hợp Sáng Tạo]** - Tích Hợp Chuyển Động [Tổng Hợp Sáng Tạo]
 
-Kết hợp các yếu tố chuyển động và cơ thể.
+Kết hợp các yếu tố chuyển động và cơ thể để TẠO RA cái mới - sử dụng chuyển động như PHƯƠNG TIỆN SÁNG TẠO để tổng hợp, pha trộn và tái tổ hợp. Khác với việc sử dụng chuyển động để HỌC TẬP (ở OPERATIONS), đây là về việc SÁNG TẠO và BIỂU ĐẠT qua cơ thể.
 
-- **Body-Based Synthesis**: Tổng hợp dựa trên cơ thể
-- **Kinesthetic Blending**: Pha trộn vận động
-- **Dance Integration**: Tích hợp múa
-- **Physical Fusion**: Hợp nhất thể chất
+- **Body-Based Synthesis**: TỔNG HỢP ý tưởng và yếu tố qua cơ thể.
+- **Kinesthetic Blending**: PHA TRỘN các yếu tố vận động để tạo mới.
+- **Dance Integration**: Tích hợp múa như HÌNH THỨC SÁNG TẠO nghệ thuật.
+- **Physical Fusion**: HỢP NHẤT thể chất để tạo ra biểu đạt độc đáo.
 
-→ **Liên kết:** DYNAMICS (Embodied Cognition), OPERATIONS (Physical Practice)
+→ **Liên kết:** DYNAMICS (Embodied Cognition)
+→ **Cùng nhóm phương pháp:** CREATION #26 (Artistic Integration), CREATION #27 (Musical Integration), CREATION #30 (Multimedia Ceremony)
+→ **Ứng dụng thực hành:** OPERATIONS #24 (Movement Integration - học tập)
+→ **Hình thức liên quan:** CREATION #22 (Movement Medicine), DYNAMICS (5Rhythms Movement), DYNAMICS (Dance Therapy)
 
 #### **29. Written Integration** - Tích Hợp Văn Bản
 
