@@ -7927,10 +7927,10 @@ Kỹ thuật thu thập và phân tích dữ liệu theo thời gian để xác 
 - **Similarity & Difference Identification**: Tìm điểm chung và riêng - CHO QUYẾT ĐỊNH.
 - **Advantage & Disadvantage Assessment**: Đánh giá ưu/nhược - KẾT QUẢ LÀ LỰA CHỌN.
 
-→ **Liên kết nội bộ:** VALIDATION (Benchmarking)
+→ **Liên kết nội bộ:** VALIDATION #12 (Benchmarking - kiểm chứng chất lượng)
 → **Được nâng lên tầng tổng hợp:** INTEGRATION #13 (Comparative Analysis - để trích xuất nguyên tắc phổ quát, không chỉ để quyết định)
 → **Liên kết với các công cụ phân tích khác:**
-  • OPERATIONS #25 (Benchmarking - so sánh với tiêu chuẩn)
+  • OPERATIONS #25 (Benchmarking - phân tích cạnh tranh)
   • OPERATIONS #29 (Correlation Analysis - so sánh mối quan hệ)
   • OPERATIONS #34 (Trade-off Analysis - so sánh đánh đổi)
 
@@ -8042,16 +8042,19 @@ Kỹ thuật nghiên cứu để xác định một cách khách quan sự hiệ
 
 → **Liên kết:** VALIDATION (Empirical Validation), INTEGRATION (Knowledge Synthesis)
 
-#### **25. Benchmarking** - Chuẩn So Sánh
+#### **25. Benchmarking** - Chuẩn So Sánh [Phân Tích Cạnh Tranh]
 
-Quá trình so sánh các quy trình, sản phẩm hoặc hiệu suất với các đối thủ hàng đầu hoặc các tiêu chuẩn ngành.
+Công cụ phân tích để SO SÁNH quy trình, sản phẩm, hoặc hiệu suất của mình với các đối thủ hàng đầu hoặc tiêu chuẩn ngành. Đây là về HỌC TẬP từ những người giỏi nhất để CẢI THIỆN hoạt động của mình.
 
-- **Metric Identification**: Xác định các thước đo hiệu suất quan trọng.
-- **Peer Selection**: Lựa chọn các đối thủ hoặc các tổ chức tốt nhất để làm điểm chuẩn.
-- **Performance Gap Measurement**: Đo lường khoảng cách hiệu suất.
-- **Best Practice Adoption**: Xác định và áp dụng các thực tiễn tốt nhất.
+- **Metric Identification**: Xác định KPI quan trọng để so sánh.
+- **Peer Selection**: Chọn đối thủ hoặc tổ chức tốt nhất làm chuẩn.
+- **Performance Gap Measurement**: Đo khoảng cách hiệu suất.
+- **Best Practice Adoption**: Học hỏi và áp dụng thực tiễn tốt nhất.
 
-→ **Liên kết:** VALIDATION (Performance Metrics), NAVIGATION (Strategic Positioning)
+→ **Liên kết nội bộ:** NAVIGATION (Strategic Positioning)
+→ **Công cụ kiểm chứng:** VALIDATION #12 (đảm bảo độ tin cậy)
+→ **Ứng dụng meta:** META #11 (áp dụng cho tự cải thiện nhận thức)
+→ **Khác biệt chính:** Tập trung vào SO SÁNH với BÊN NGOÀI để học hỏi
 
 #### **26. Inversion (Analytical Tool)** - Đảo Ngược
 
@@ -8259,7 +8262,7 @@ Thao tác đánh giá sự tương đồng và khác biệt giữa các đối t
 - **Relative Evaluation**: Đánh giá tương đối thay vì tuyệt đối.
 - **Benchmark Establishment**: Thiết lập tiêu chuẩn so sánh.
 
-→ **Liên kết:** OPERATIONS (Comparative Analysis), VALIDATION (Benchmarking)
+→ **Liên kết:** OPERATIONS (Comparative Analysis), VALIDATION #12 (Benchmarking - kiểm chứng chất lượng)
 
 #### **44. Transformation** - Chuyển Đổi
 
@@ -19124,13 +19127,19 @@ Lặp lại một nghiên cứu để xác minh xem các kết quả có thể �
 - **Out-of-Sample Data**: Cần được kiểm tra trên dữ liệu "ngoài mẫu" để tăng độ tin cậy.
 → **Liên kết:** NAVIGATION (Scenario Planning), VALIDATION (Stress Testing)
 
-#### **12. Benchmarking** - Đo Điểm Chuẩn
-Quá trình so sánh hiệu suất của một quy trình, sản phẩm hoặc dịch vụ với một tiêu chuẩn hoặc đối thủ hàng đầu.
-- **Performance Standard**: Thiết lập một tiêu chuẩn hiệu suất để so sánh.
-- **Best Practice Identification**: Xác định các thực tiễn tốt nhất trong ngành hoặc lĩnh vực.
-- **Gap Analysis**: Phân tích khoảng cách giữa hiệu suất hiện tại và tiêu chuẩn.
-- **Continuous Improvement Driver**: Là một động lực cho việc cải tiến liên tục.
-→ **Liên kết:** OPERATIONS (Competitive Analysis), NAVIGATION (Progress Indicators)
+#### **12. Benchmarking** - Đo Điểm Chuẩn [Kiểm Chứng Chất Lượng]
+
+Quy trình kiểm chứng để XÁC ĐỊNH tiêu chuẩn hiệu suất và ĐẢM BẢO chất lượng thông qua so sánh có hệ thống. Đây là về KIỂM TRA xem hệ thống có đạt tiêu chuẩn hay không.
+
+- **Performance Standard**: Thiết lập tiêu chuẩn để so sánh.
+- **Best Practice Identification**: Xác định thực tiễn tốt nhất làm chuẩn mực.
+- **Gap Analysis**: Phân tích khoảng cách giữa thực tế và tiêu chuẩn.
+- **Continuous Improvement Driver**: Động lực cải tiến liên tục.
+
+→ **Liên kết nội bộ:** OPERATIONS (Competitive Analysis)
+→ **Phương pháp phân tích:** OPERATIONS #25 (công cụ so sánh)
+→ **Ứng dụng cá nhân:** META #11 (theo dõi tiến độ bản thân)
+→ **Khác biệt chính:** Tập trung vào KIỂM CHỨNG chất lượng và TIÊU CHUẨN
 
 #### **13. Pragmatism Test** - Kiểm Tra Thực Dụng
 Đánh giá một ý tưởng dựa trên tính hữu dụng và hiệu quả của nó trong thực tế ("Nó có hoạt động không?").
@@ -19848,7 +19857,7 @@ Kiểm tra các quy trình kiểm thử để đảm bảo chúng hoạt động
 - **Performance Indicators**: Các chỉ số hiệu suất.
 - **Coverage Metrics**: Chỉ số phạm vi phủ sóng.
 - **Quality Metrics**: Chỉ số chất lượng.
-→ **Liên kết:** OPERATIONS (Metrics Design), VALIDATION (Benchmarking)
+→ **Liên kết:** OPERATIONS (Metrics Design), VALIDATION #12 (Benchmarking - kiểm chứng chất lượng)
 
 #### **26. Validation Evolution** - Tiến Hóa Kiểm Chứng
 Cải thiện liên tục các quy trình kiểm chứng dựa trên phản hồi và học hỏi.
@@ -19964,7 +19973,7 @@ Phương pháp chọn lựa trong đó các ứng viên cạnh tranh theo cặp 
 - **Goodness of Fit**: Độ phù hợp.
 - **Predictive Accuracy**: Độ chính xác dự đoán.
 - **Information Criteria**: Tiêu chí thông tin (AIC, BIC).
-→ **Liên kết:** OPERATIONS (Model Comparison), VALIDATION (Benchmarking)
+→ **Liên kết:** OPERATIONS (Model Comparison), VALIDATION #12 (Benchmarking - kiểm chứng chất lượng)
 
 #### **11. Shock Doctrine Thinking** - Tư Duy Học Thuyết Cú Sốc
 Nghiên cứu cách hệ thống phản ứng và có thể bị khai thác trong các cuộc khủng hoảng.
@@ -28059,16 +28068,19 @@ Tổ chức lại các cấu trúc tư duy để tăng hiệu quả mà không t
 
 → **Liên kết:** INTEGRATION (Knowledge Restructuring), OPERATIONS (Optimization).
 
-#### **11. Performance Benchmarking** - Đo Chuẩn Hiệu Suất
+#### **11. Performance Benchmarking** - Đo Chuẩn Hiệu Suất [Tự Cải Thiện]
 
-Thiết lập các chỉ số và đo lường tiến bộ trong các khả năng nhận thức.
+Công cụ tự cải thiện để THIẾT LẬP chỉ số và ĐO LƯỜNG tiến bộ trong khả năng nhận thức của BẢN THÂN. Đây là về THEO DÕI sự phát triển cá nhân và TỐI ƯU HÓA quá trình học tập của chính mình.
 
-- **Metrics Definition**: Định nghĩa các chỉ số.
-- **Progress Tracking**: Theo dõi tiến độ.
-- **Baseline Establishment**: Thiết lập đường cơ sở.
-- **Comparative Analysis**: Phân tích so sánh.
+- **Metrics Definition**: Định nghĩa chỉ số đo lường khả năng nhận thức.
+- **Progress Tracking**: Theo dõi tiến độ phát triển qua thời gian.
+- **Baseline Establishment**: Thiết lập đường cơ sở để so sánh.
+- **Comparative Analysis**: So sánh với chính mình ở quá khứ hoặc mục tiêu.
 
-→ **Liên kết:** VALIDATION (Measurement), OPERATIONS (Performance Management).
+→ **Liên kết nội bộ:** VALIDATION (Measurement), OPERATIONS (Performance Management)
+→ **Công cụ phân tích:** OPERATIONS #25 (phương pháp so sánh)
+→ **Quy trình kiểm chứng:** VALIDATION #12 (đảm bảo độ tin cậy đo lường)
+→ **Khác biệt chính:** Tập trung vào TỰ ĐO LƯỜNG và PHÁT TRIỂN BẢN THÂN
 
 #### **12. Zone of Proximal Development Navigation** - Điều Hướng Vùng Phát Triển Gần Nhất
 
