@@ -7918,16 +7918,21 @@ Kỹ thuật thu thập và phân tích dữ liệu theo thời gian để xác 
 
 → **Liên kết:** NAVIGATION (Scenario Planning), VALIDATION (Signal-Noise Separation)
 
-#### **15. Comparative Analysis** - Phân Tích So Sánh
+#### **15. Comparative Analysis** - Phân Tích So Sánh [Công Cụ Ra Quyết Định]
 
-Đánh giá hai hoặc nhiều đối tượng bằng cách so sánh chúng dựa trên các tiêu chí đã xác định.
+Đánh giá hai hoặc nhiều đối tượng bằng cách so sánh chúng dựa trên các tiêu chí đã xác định để ĐƯA RA QUYẾT ĐỊNH. Đây là CÔNG CỤ PHÂN TÍCH trong giải quyết vấn đề, tập trung vào việc xác định ưu/nhược điểm để lựa chọn phương án tốt nhất.
 
-- **Criteria Definition**: Xác định các tiêu chí sẽ được sử dụng để so sánh.
-- **Side-by-Side Comparison**: Đặt các đối tượng cạnh nhau để đối chiếu trực tiếp.
-- **Similarity & Difference Identification**: Xác định cả những điểm tương đồng và khác biệt.
-- **Advantage & Disadvantage Assessment**: Đánh giá ưu và nhược điểm của mỗi lựa chọn.
+- **Criteria Definition**: Xác định tiêu chí so sánh - KHUNG ĐỂ QUYẾT ĐỊNH.
+- **Side-by-Side Comparison**: Đối chiếu trực tiếp - HIỂN THỊ SỰ KHÁC BIỆT.
+- **Similarity & Difference Identification**: Tìm điểm chung và riêng - CHO QUYẾT ĐỊNH.
+- **Advantage & Disadvantage Assessment**: Đánh giá ưu/nhược - KẾT QUẢ LÀ LỰA CHỌN.
 
-→ **Liên kết:** VALIDATION (Benchmarking), INTEGRATION (Synthesis)
+→ **Liên kết nội bộ:** VALIDATION (Benchmarking)
+→ **Được nâng lên tầng tổng hợp:** INTEGRATION #13 (Comparative Analysis - để trích xuất nguyên tắc phổ quát, không chỉ để quyết định)
+→ **Liên kết với các công cụ phân tích khác:**
+  • OPERATIONS #25 (Benchmarking - so sánh với tiêu chuẩn)
+  • OPERATIONS #29 (Correlation Analysis - so sánh mối quan hệ)
+  • OPERATIONS #34 (Trade-off Analysis - so sánh đánh đổi)
 
 #### **16. Scenario Analysis** - Phân Tích Kịch Bản
 
@@ -15373,16 +15378,21 @@ Kết nối hiện tại với quá khứ để tạo ra một cảm giác liên
 
 ---
 
-#### **13. Comparative Analysis** - Phân Tích So Sánh
+#### **13. Comparative Analysis** - Phân Tích So Sánh [Phương Pháp Tổng Hợp]
 
-Phương pháp xem xét hai hoặc nhiều đối tượng, hệ thống hoặc ý tưởng cùng nhau để hiểu điểm tương đồng và khác biệt.
+Phương pháp xem xét hai hoặc nhiều đối tượng, hệ thống hoặc ý tưởng cùng nhau để TRÍCH XUẤT NGUYÊN TẮC PHỔ QUÁT và tạo ra tri thức mới. Khác với công cụ so sánh trong OPERATIONS (để quyết định), đây là PHƯƠNG PHÁP TỔNG HỢP TRI THỨC - tìm kiếm mẫu hình chung và siêu-nguyên tắc xuyên suốt các ngữ cảnh khác nhau.
 
-- **Side-by-Side Examination**: Xem xét song song để làm nổi bật các đặc điểm riêng biệt.
-- **Identifying Universal Patterns**: Tìm kiếm các mẫu hình phổ quát xuất hiện trong các ngữ cảnh khác nhau.
-- **Contextual Nuance**: Hiểu cách ngữ cảnh tạo ra sự khác biệt.
-- **Meta-Principle Extraction**: Chiết xuất các siêu-nguyên tắc từ sự so sánh.
+- **Side-by-Side Examination**: Xem xét song song - KHÁM PHÁ MẪU HÌNH CHUNG.
+- **Identifying Universal Patterns**: Tìm quy luật phổ quát - TẠO TRI THỨC MỚI.
+- **Contextual Nuance**: Hiểu sự khác biệt do ngữ cảnh - TINH TẾ TRONG TỔNG HỢP.
+- **Meta-Principle Extraction**: Trích xuất siêu-nguyên tắc - NÂNG LÊN CẤP ĐỘ CAO HƠN.
 
-→ **Liên kết:** OPERATIONS (Analytical Tools), META-COGNITION (Pattern Recognition).
+→ **Liên kết nội bộ:** META-COGNITION (Pattern Recognition)
+→ **Nguồn dữ liệu:** OPERATIONS #15 (Comparative Analysis - công cụ phân tích để cung cấp dữ liệu so sánh)
+→ **Các phương pháp tổng hợp khác:**
+  • INTEGRATION #16 (Pattern Synthesis - tổng hợp mẫu hình)
+  • INTEGRATION #35 (Comparative Methodologies - phương pháp luận so sánh)
+  • INTEGRATION #15 (Semantic Integration - tích hợp ý nghĩa)
 
 ---
 
