@@ -107,8 +107,8 @@ Nguyên lý phổ quát về việc đầu ra của một hệ thống quay tr�
   • FOUNDATIONS Chức năng 3 #2 (Causality & Interdependence - Trách nhiệm với hệ quả) - chuyển hóa nguyên lý này thành HÀNH ĐỘNG có ý thức đạo đức
 
 → **Causality Constellation - Các biến thể:**
-  • **Khả năng nhận thức:** DYNAMICS #47 (Causal Reasoning - chức năng tư duy)
-  • **Công cụ phân tích:** OPERATIONS #5 (Causal Reasoning - phương pháp luận)
+  • **Khả năng nhận thức:** DYNAMICS #47 (Causal Reasoning - kỹ năng tư duy linh hoạt)
+  • **Công cụ phân tích:** OPERATIONS #5 (Causal Reasoning - phương pháp phân tích có cấu trúc)
   • **Tư duy mạng lưới:** DYNAMICS #48 (Causal Networks)
   • **Nhân quả thời gian:** DYNAMICS #50 (Temporal Causation)
   • **Công cụ trực quan:** OPERATIONS #22 (Causal Loop Diagrams)
@@ -1475,8 +1475,8 @@ Nguyên tắc đạo đức thừa nhận giá trị của sự khác biệt đ�
   • FOUNDATIONS Chức năng 1 #5 (Causality & Interdependence - Nguyên lý) - nền tảng lý thuyết
 
 → **Gốc nguyên lý:** FOUNDATIONS #5 (Causality & Interdependence - quy luật nhân quả)
-→ **Khả năng nhận thức:** DYNAMICS #47 (Causal Reasoning - hiểu nhân quả)
-→ **Công cụ phân tích:** OPERATIONS #5 (Causal Reasoning - phân tích hệ quả)
+→ **Khả năng nhận thức:** DYNAMICS #47 (Causal Reasoning - kỹ năng tư duy linh hoạt)
+→ **Công cụ phân tích:** OPERATIONS #5 (Causal Reasoning - phương pháp phân tích có cấu trúc)
 
 → **Ghi chú:** Đây là ỨNG DỤNG ĐẠO ĐỨC của nguyên lý lý thuyết, hướng dẫn "chúng ta NÊN HÀNH ĐỘNG thế nào". Để hiểu NỀN TẢNG LÝ THUYẾT về nhân quả và tương duyên ("thực tại VẬN HÀNH như thế nào"), xem Chức năng 1 #5.
 
@@ -6027,19 +6027,19 @@ Tư duy bị ảnh hưởng bởi cảm xúc (nóng) so với tư duy trung lậ
 
 ### **Nhóm Bổ Sung: Reasoning Dynamics (8 mục mới)**
 
-#### **29. Causal Reasoning** - Suy Luận Nhân Quả [Chức Năng Nhận Thức]
+#### **29. Causal Reasoning** - Suy Luận Nhân Quả [Kỹ Năng Nhận Thức]
 
-Khả năng tự nhiên của tâm trí để SUY LUẬN về quan hệ nguyên nhân-kết quả. Đây là **MỘT TRONG NHỮNG CHỨC NĂNG NHẬN THỨC CƠ BẢN** nhất - não bộ con người được tiến hóa để tự động tìm kiếm và hiểu các mối quan hệ nhân quả.
+Khả năng nhận thức để suy luận về các mối quan hệ nguyên nhân-kết quả một cách linh hoạt và thích ứng. Khác với phương pháp phân tích có cấu trúc ở OPERATIONS, đây là về **KHẢ NĂNG TƯ DUY** - năng lực chuyển đổi giữa các cách hiểu nhân quả khác nhau.
 
-- **Cause-Effect Inference**: Suy luận tự nhiên từ nguyên nhân đến kết quả
-- **Causal Models**: Xây dựng mô hình tâm trí về cách thế giới hoạt động
-- **Counterfactual Thinking**: "Điều gì sẽ xảy ra nếu..." - khả năng tưởng tượng
-- **Mechanism Understanding**: Hiểu "CƠ CHẾ" - làm thế nào X gây ra Y
+- **Cause-Effect Inference**: Suy luận nhân-quả một cách LINH HOẠT
+- **Causal Models**: Xây dựng và THAY ĐỔI mô hình nhân quả
+- **Counterfactual Thinking**: Tư duy phản thực - KHÁM PHÁ khả năng
+- **Mechanism Understanding**: Hiểu cơ chế một cách TRỰC GIÁC
 
-→ **Liên kết nội bộ:** OPERATIONS (Logical Reasoning), VALIDATION (Causal Analysis)
-→ **Gốc nguyên lý:** FOUNDATIONS #5 (Causality & Interdependence - quy luật tự nhiên)
-→ **Công cụ hóa:** OPERATIONS #5 (Causal Reasoning - phương pháp luận)
-→ **Mở rộng:** DYNAMICS #48 (Causal Networks), #50 (Temporal Causation)
+→ **Liên kết nội bộ:** VALIDATION (Causal Analysis)
+→ **Công cụ có cấu trúc:** OPERATIONS #5 (Causal Reasoning - phương pháp phân tích)
+→ **Nền tảng lý thuyết:** FOUNDATIONS #5 (Causality & Interdependence - nguyên lý)
+→ **Tư duy cao hơn:** OPERATIONS #27 (Counterfactual Reasoning), DYNAMICS #48 (Causal Networks), #50 (Temporal Causation)
 
 #### **29. Causal Networks** - Mạng Lưới Nhân Quả
 
@@ -7057,33 +7057,22 @@ Phương pháp suy luận logic có cấu trúc để rút ra kết luận về 
 
 #### **5. Causal Reasoning** - Suy Luận Nhân Quả [Công Cụ Phân Tích]
 
-Phương pháp luận chặt chẽ để XÁC ĐỊNH và PHÂN TÍCH các mối quan hệ nhân quả một cách có hệ thống. Khác với khả năng nhận thức tự nhiên ở DYNAMICS, đây là **CÔNG CỤ PHÂN TÍCH** - quy trình có cấu trúc để làm rõ nhân quả.
+Phương pháp có cấu trúc để xác định và phân tích các mối quan hệ nguyên nhân-kết quả một cách chặt chẽ và hệ thống. Khác với khả năng nhận thức ở DYNAMICS, đây là về **CÔNG CỤ PHÂN TÍCH** - các bước cụ thể để kiểm tra và xác minh nhân quả.
 
-- **Cause Identification**: Phương pháp xác định nguyên nhân THỰC SỰ
-  - Phân biệt nhân quả vs. tương quan
-  - Loại bỏ các nguyên nhân giả
-  - Kiểm soát biến nhiễu
+- **Cause Identification**: Xác định nguyên nhân - PHƯƠNG PHÁP có hệ thống
+- **Mechanism Understanding**: Hiểu cơ chế - PHÂN TÍCH chi tiết
+- **Counterfactual Thinking**: Tư duy phản thực - KIỂM ĐỊNH giả thuyết
+- **Causal Chain Analysis**: Phân tích chuỗi nhân quả - THEO DÕI dây chuyền
 
-- **Mechanism Understanding**: Phân tích CƠ CHẾ nhân quả
-  - Xác định chuỗi trung gian
-  - Hiểu "transmission mechanism"
-  - Vẽ sơ đồ nhân quả
-
-- **Counterfactual Testing**: Kiểm định phản thực
-  - "Nếu không có X, Y có xảy ra không?"
-  - Phương pháp kiểm soát
-  - A/B testing logic
-
-- **Causal Chain Analysis**: Phân tích chuỗi nhân quả
-  - X → Y → Z → ...
-  - Hiệu ứng domino
-  - Nguyên nhân gốc rễ
-
-→ **Liên kết nội bộ:** FOUNDATIONS (Causality), DYNAMICS (System Dynamics)
-→ **Gốc nguyên lý:** FOUNDATIONS #5 (Causality & Interdependence - nguyên lý nền tảng)
-→ **Khả năng nhận thức:** DYNAMICS #47 (Causal Reasoning - chức năng tư duy)
-→ **Công cụ trực quan:** OPERATIONS #22 (Causal Loop Diagrams)
-→ **Ứng dụng:** VALIDATION (các phương pháp thực nghiệm)
+→ **Liên kết nội bộ:** DYNAMICS (System Dynamics)
+→ **Nền tảng nguyên lý:** FOUNDATIONS #5 (Causality & Interdependence)
+→ **Kỹ năng nhận thức:** DYNAMICS #47 (Causal Reasoning - khả năng linh hoạt)
+→ **Phương pháp nâng cao:**
+  • OPERATIONS #27 (Counterfactual Reasoning)
+  • DYNAMICS #48 (Causal Networks)
+  • DYNAMICS #50 (Temporal Causation)
+  • OPERATIONS #2 (Root Cause Analysis)
+  • OPERATIONS #22 (Causal Loop Diagrams)
 
 #### **6. Probabilistic Reasoning** - Suy Luận Xác Suất [Công Cụ Phân Tích]
 
@@ -27312,7 +27301,7 @@ CÔNG CỤ META-NHẬN THỨC để phát hiện vai trò của đối xứng v�
 → **Liên kết nội bộ:** OPERATIONS (Causal Analysis), DYNAMICS (System Dynamics)
 → **Gốc nguyên lý:** FOUNDATIONS #5 (Causality & Interdependence)
 → **Các dạng thức cụ thể:**
-  • DYNAMICS #47 (Causal Reasoning - nhận thức cơ bản)
+  • DYNAMICS #47 (Causal Reasoning - kỹ năng nhận thức linh hoạt)
   • DYNAMICS #48 (Causal Networks - mạng lưới)
   • DYNAMICS #50 (Temporal Causation - thời gian)
   • TRANSCENDENCE #30 (Retroactive Causality - nghịch lý)
