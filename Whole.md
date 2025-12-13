@@ -9531,17 +9531,19 @@ Khung phân tích các tình huống tương tác chiến lược, nơi kết qu
 
 → **Liên kết:** NAVIGATION (Strategic Wayfinding), AMPLIFICATION (Network Effects)
 
-#### **2. Cynefin Framework** - Khung Cynefin
+#### **2. Cynefin Framework** - Khung Cynefin [Công Cụ Phân Loại Quyết Định]
 
-Một khung cảm nhận-ý nghĩa giúp xác định bối cảnh ra quyết định và hành động phù hợp.
+Framework phân loại BỐI CẢNH RA QUYẾT ĐỊNH do Dave Snowden phát triển, giúp chọn PHƯƠNG PHÁP QUYẾT ĐỊNH phù hợp dựa trên bản chất của vấn đề. Đây là công cụ META-DECISION: "Quyết định về cách quyết định".
 
-- **Context Sensing**: Khả năng "cảm nhận" và phân loại bản chất của vấn đề trước khi hành động.
-- **Simple (Clear) Domain**: Bối cảnh rõ ràng, áp dụng các thực tiễn tốt nhất (Sense-Categorize-Respond).
-- **Complicated Domain**: Bối cảnh phức tạp, cần phân tích của chuyên gia (Sense-Analyze-Respond).
-- **Complex Domain**: Bối cảnh rối rắm, cần thử nghiệm để tìm ra các mẫu hình đột sinh (Probe-Sense-Respond).
-- **Chaotic Domain**: Bối cảnh hỗn loạn, cần hành động ngay lập tức để tạo ra sự ổn định (Act-Sense-Respond).
+- **Context Sensing FIRST**: Phân loại vấn đề TRƯỚC KHI áp dụng phương pháp.
+- **Simple/Clear Domain**: Best Practice → Sense-Categorize-Respond. Áp dụng giải pháp đã biết, quy trình chuẩn.
+- **Complicated Domain**: Good Practice → Sense-Analyze-Respond. Cần phân tích chuyên gia, nhiều phương án đúng.
+- **Complex Domain**: Emergent Practice → Probe-Sense-Respond. Thử nghiệm nhỏ để khám phá mẫu hình mới.
+- **Chaotic Domain**: Novel Practice → Act-Sense-Respond. Hành động quyết đoán để tạo ổn định.
 
-→ **Liên kết:** NAVIGATION (Complexity Navigation), META (Meta-Frameworks)
+→ **Liên kết:** META (Meta-Frameworks - chọn framework), NAVIGATION #4 (dùng như bản đồ địa hình), DYNAMICS (Complexity Science), OPERATIONS #25 (Master Decision Framework)
+
+💡 **Nguyên tắc**: "The METHOD depends on the CONTEXT"
 
 #### **3. Decision Trees** - Cây Quyết Định
 
@@ -14545,17 +14547,19 @@ Quá trình liên tục tạo ra ý nghĩa từ những trải nghiệm và dữ
 
 → **Liên kết:** INTEGRATION (Meaning-Making), [META] LAYER (Interpretation).
 
-#### **4. Cynefin Framework** - Khung Cynefin (Rõ Ràng, Phức Tạp, Hỗn Độn, Hỗn Loạn)
+#### **4. Cynefin Framework** - Khung Cynefin [Bản Đồ Địa Hình Phức Tạp]
 
-Một khung ra quyết định phân loại các vấn đề thành các miền khác nhau và đề xuất các chiến lược phù hợp.
+Sử dụng Cynefin như BẢN ĐỒ ĐỊA HÌNH để điều hướng trong các môi trường khác nhau, mỗi miền yêu cầu CHIẾN LƯỢC THÍCH ỨNG riêng. Khác với vai trò công cụ quyết định ở OPERATIONS, đây là về ĐIỀU HƯỚNG VÀ THÍCH ỨNG.
 
-- **Clear (Obvious)**: Miền rõ ràng - Cảm nhận-Phân loại-Đáp ứng - Áp dụng best practice.
-- **Complicated**: Miền phức tạp - Cảm nhận-Phân tích-Đáp ứng - Cần chuyên gia, good practice.
-- **Complex**: Miền phức hợp - Thăm dò-Cảm nhận-Đáp ứng - Emergent practice, thử nghiệm.
-- **Chaotic**: Miền hỗn loạn - Hành động-Cảm nhận-Đáp ứng - Novel practice, hành động quyết đoán để ổn định.
-- **Disorder**: Miền rối loạn - Không rõ thuộc miền nào.
+- **Clear/Obvious**: Miền RÕ RÀNG - Sense-Classify-Respond. Địa hình: Đường đi rõ ràng, bản đồ chính xác. Chiến lược: Theo SOP, tận dụng hiệu quả. Nguy hiểm: Complacency, bỏ lỡ thay đổi ngữ cảnh.
+- **Complicated**: Miền PHỨC TẠP - Sense-Analyze-Respond. Địa hình: Nhiều con đường khả thi, cần chuyên gia. Chiến lược: Phân tích kỹ, tham vấn, good practice. Nguy hiểm: Analysis paralysis, expert bias.
+- **Complex**: Miền PHỨC HỢP - Probe-Sense-Respond. Địa hình: Không có bản đồ, mẫu hình đột sinh. Chiến lược: Safe-to-fail experiments, học hỏi nhanh. Cơ hội: Đổi mới, khám phá giải pháp mới.
+- **Chaotic**: Miền HỖN LOẠN - Act-Sense-Respond. Địa hình: Khủng hoảng, không còn trật tự. Chiến lược: Hành động quyết đoán, tạo ổn định TRƯỚC. Mục tiêu: Di chuyển sang miền Complex hoặc Complicated.
+- **Disorder**: Miền RỐI LOẠN - Chưa xác định được miền. Nguy hiểm: Áp dụng sai phương pháp, xung đột quan điểm.
 
-→ **Liên kết:** OPERATIONS (Decision Frameworks), DYNAMICS (Complexity Science).
+→ **Liên kết:** DYNAMICS (Complexity Science - lý thuyết nền), OPERATIONS #2 (dùng để chọn phương pháp), NAVIGATION #2 (Edge of Chaos Navigation), NAVIGATION #1 (Adaptive Navigation), NAVIGATION #3 (Sensemaking - tạo ý nghĩa từ tín hiệu)
+
+💡 **Nguyên tắc**: "Different TERRAINS require different STRATEGIES"
 
 #### **5. Weak Signal Detection** - Phát Hiện Tín Hiệu Yếu
 
