@@ -9545,16 +9545,19 @@ Framework phân loại BỐI CẢNH RA QUYẾT ĐỊNH do Dave Snowden phát tri
 
 💡 **Nguyên tắc**: "The METHOD depends on the CONTEXT"
 
-#### **3. Decision Trees** - Cây Quyết Định
+#### **3. Decision Trees** - Cây Quyết Định [Công Cụ Phân Tích]
 
-Một công cụ hỗ trợ quyết định sử dụng mô hình dạng cây để thể hiện các quyết định và các kết quả có thể xảy ra.
+Một công cụ hỗ trợ quyết định sử dụng mô hình dạng cây để thể hiện các quyết định tuần tự và các kết quả có thể xảy ra. Đây là CÔNG CỤ CỐT LÕI trong bộ Decision Frameworks, được sử dụng rộng rãi trong cả phân tích quyết định và lập kế hoạch chiến lược.
 
-- **Nodes & Branches**: Các nút quyết định, nút cơ hội và các nhánh thể hiện lựa chọn hoặc kết quả.
+- **Nodes & Branches**: Các nút quyết định, nút cơ hội và nhánh biểu hiện lựa chọn hoặc kết quả.
 - **Expected Value Calculation**: Tính toán giá trị kỳ vọng cho mỗi lộ trình quyết định để so sánh.
 - **Sequential Choice Mapping**: Lập bản đồ các lựa chọn tuần tự và sự phụ thuộc của chúng một cách trực quan.
 - **Pruning**: Cắt tỉa các nhánh không tối ưu để đơn giản hóa việc ra quyết định.
+- **Optimal Path Identification**: Xác định con đường tối ưu dựa trên mục tiêu (thường dùng trong lập kế hoạch).
 
 → **Liên kết:** VALIDATION (Scenario Testing), FOUNDATIONS (Probability)
+→ **Sử dụng bởi:** NAVIGATION #9 (trong Multi-dimensional Planning)
+→ **Công cụ liên quan:** Sequential Decision Making #26, Scenario Tree #11
 
 #### **4. OODA Loop** - Vòng Lặp OODA
 
@@ -10660,7 +10663,7 @@ Khả năng tạo ra và đánh giá nhiều lựa chọn thay thế khác nhau.
 - **Parallel Possibilities**: Duy trì nhiều khả năng đồng thời
 - **Choice Architecture**: Thiết kế không gian lựa chọn một cách có chiến lược
 
-→ **Liên kết:** NAVIGATION (Decision Trees), OPERATIONS (Scenario Analysis)
+→ **Liên kết:** NAVIGATION (Sequential Path Analysis #9), OPERATIONS (Scenario Analysis)
 
 #### **42. Provocative Operations** - Các Thao Tác Khiêu Khích
 
@@ -13533,16 +13536,17 @@ Lập kế hoạch bằng cách bắt đầu từ một tương lai mong muốn 
 
 → **Liên kết:** CREATION (Visioning), OPERATIONS (Strategic Planning).
 
-#### **9. Decision Trees** - Cây Quyết Định
+#### **9. Sequential Path Analysis** - Phân Tích Đường Đi Tuần Tự
 
-Một biểu đồ hình cây để phân tích các quyết định tuần tự và các kết quả có thể xảy ra.
+Phân tích các con đường hành động tuần tự để tìm lộ trình tối ưu đạt mục tiêu. Sử dụng Decision Trees (xem OPERATIONS #3) như công cụ chính để:
 
-- **Sequential Choices**: Các lựa chọn theo trình tự.
-- **Probability Branches**: Các nhánh xác suất cho các kết quả.
-- **Expected Value**: Tính toán giá trị kỳ vọng của mỗi con đường.
-- **Optimal Path**: Xác định con đường tối ưu dựa trên mục tiêu.
+- **Strategic Choice Mapping**: Lập bản đồ các lựa chọn chiến lược theo trình tự thời gian.
+- **Development Branch Evaluation**: Đánh giá các nhánh phát triển có thể xảy ra.
+- **Expected Value Calculation**: Tính toán giá trị kỳ vọng của mỗi con đường.
+- **Optimal Route Identification**: Xác định lộ trình tối ưu dựa trên mục tiêu chiến lược.
 
-→ **Liên kết:** OPERATIONS (Decision Analysis), VALIDATION (Probabilistic Thinking).
+→ **Công cụ:** OPERATIONS #3 (Decision Trees)
+→ **Liên kết:** Scenario Tree #11, Gantt Charts #10, Backcasting #8
 
 #### **10. Gantt Charts & Critical Path** - Biểu Đồ Gantt & Đường Găng
 
