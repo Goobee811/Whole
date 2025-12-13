@@ -3602,7 +3602,7 @@ Hiện tượng đột sinh trong đó tâm trí tổng hợp và tích hợp th
 💡 **Practical Note:** Mặc dù "Instant Integration" là một hiện tượng đột sinh tự nhiên, nó CÓ THỂ được phát triển như một kỹ năng thông qua:
 - Spaced Repetition (OPERATIONS #1)
 - Active Recall (OPERATIONS #2)
-- Deliberate Practice (OPERATIONS #43)
+- Deliberate Practice (OPERATIONS #1 - Application Function)
 - Pattern Recognition Training (OPERATIONS #23)
 
 Khi được rèn luyện, khả năng này trở nên "tự động" và xuất hiện ngay cả khi không ở trong flow state.
@@ -7543,16 +7543,28 @@ PHƯƠNG PHÁP SỬ DỤNG để vượt qua ranh giới ngành học trong quá
 → **Framework thực hành:** INTEGRATION #19 (Transdisciplinary Framework)
 → **Cross-reference:** INTEGRATION #2 (Interdisciplinary Thinking - cấp độ liên ngành), INTEGRATION #3 (Cross-Paradigm Synthesis - cấp độ mô thức), META #19 (Meta-Paradigm Thinking - cấp độ siêu mô thức)
 
-#### **42. Meta-Reasoning** - Siêu Suy Luận
+#### **42. Applied Meta-Reasoning** - Ứng Dụng Siêu Suy Luận
 
-Suy luận về chính các quy trình và kiến trúc suy luận.
+Ứng dụng THỰC HÀNH của Meta-Reasoning trong giải quyết vấn đề và ra quyết định. Trong khi Meta-Reasoning (META #32) là về BẢN CHẤT của "reasoning about reasoning", đây là về CÔNG CỤ và KỸ THUẬT để áp dụng khái niệm đó vào công việc hàng ngày.
 
-- **Reasoning about Reasoning**: Suy luận về suy luận.
-- **Strategy Selection & Justification**: Lựa chọn và biện minh cho việc sử dụng một loại suy luận cụ thể.
-- **Evaluation of Inference**: Đánh giá chất lượng và độ tin cậy của các suy luận.
-- **Cognitive Architecture Design**: Thiết kế kiến trúc nhận thức cho việc giải quyết vấn đề.
+- **Strategy Selection**: Lựa chọn chiến lược suy luận phù hợp cho vấn đề cụ thể (quy nạp? diễn dịch? giả thuyết? loại suy?) - phân tích bối cảnh để quyết định phương pháp tối ưu.
+- **Reasoning Evaluation**: Đánh giá chất lượng và độ tin cậy của các suy luận - kiểm tra tính hợp lệ logic, độ chắc chắn của tiền đề, và sức mạnh của kết luận.
+- **Inference Justification**: Giải thích và biện minh cho các bước suy luận đã thực hiện - làm rõ tại sao chọn phương pháp này, giả định nào được sử dụng.
+- **Architecture Design**: Thiết kế kiến trúc nhận thức tối ưu cho từng loại vấn đề - xác định công cụ suy luận cần thiết, trình tự áp dụng, và cơ chế kiểm soát.
 
-→ **Liên kết:** META (tất cả các nhóm), OPERATIONS (Meta-Cognitive Control)
+→ **Gốc lý thuyết:** META #32 (Meta-Reasoning - khái niệm cốt lõi)
+
+→ **Liên kết thực hành:**
+  • OPERATIONS #32 (Meta-Cognitive Reasoning - góc độ nhận thức)
+  • OPERATIONS #1-41 (tất cả các loại suy luận khác)
+  • VALIDATION #30 (Argumentation Analysis)
+  • NAVIGATION (Strategic Choice Making)
+
+→ **Ví dụ ứng dụng:**
+  • Khi gặp vấn đề mới: "Loại suy luận nào phù hợp nhất?" (Strategy Selection)
+  • Sau khi giải quyết: "Suy luận của tôi có chặt chẽ không?" (Reasoning Evaluation)
+  • Khi trình bày: "Tại sao tôi chọn cách tiếp cận này?" (Inference Justification)
+  • Khi thiết kế hệ thống: "Cần các công cụ suy luận nào?" (Architecture Design)
 
 #### **43. Wisdom-Based Reasoning (Phronesis)** - Suy Luận Dựa trên Trí Tuệ
 
@@ -28658,16 +28670,25 @@ Cấp độ quan sát và điều khiển cao hơn các cấp độ thông thư�
 
 → **Liên kết:** [META] LAYER (Meta-Cognition), TRANSCENDENCE (Higher Levels).
 
-#### **32. Meta-Reasoning** - Siêu Suy Luận
+#### **32. Meta-Reasoning** - Siêu Suy Luận [Khái Niệm Cốt Lõi]
 
-Suy luận về chính quá trình suy luận.
+Khả năng suy luận về chính BẢN CHẤT và QUÁ TRÌNH của suy luận - "reasoning about reasoning". Đây là nền tảng của metacognition, cho phép chúng ta quan sát, phân tích và tối ưu hóa cách chúng ta tư duy.
 
-- **Reasoning About Reasoning**: Suy luận về suy luận.
-- **Logic of Logic**: Logic của logic.
-- **Recursive Inference**: Suy luận đệ quy.
-- **Meta-Logical Analysis**: Phân tích siêu logic.
+- **Reasoning About Reasoning**: Quan sát cách tâm trí tạo ra suy luận - khả năng đứng bên ngoài để nhìn nhận quá trình tư duy của chính mình.
+- **Logic of Logic**: Phân tích các nguyên tắc chi phối bản thân logic - nghiên cứu các quy tắc suy diễn và tính hợp lệ của chúng.
+- **Recursive Inference**: Suy luận có cấu trúc tự tham chiếu đệ quy - áp dụng suy luận vào chính quá trình suy luận.
+- **Meta-Logical Analysis**: Nghiên cứu các thuộc tính của hệ thống logic - tính đầy đủ, tính nhất quán, tính quyết định được.
 
-→ **Liên kết:** OPERATIONS (Logical Reasoning), [META] LAYER (Meta-Cognition).
+→ **Liên kết nội bộ META:**
+  • META #1 (Meta-Cognition - khung tổng thể)
+  • META #18 (Recursive Reasoning - cơ chế đệ quy)
+  • META #21 (Thinking About Thinking - ứng dụng thực hành)
+
+→ **Ứng dụng trong các domain khác:**
+  • OPERATIONS #42 (Applied Meta-Reasoning - công cụ thực hành)
+  • OPERATIONS #32 (Meta-Cognitive Reasoning - góc độ nhận thức)
+  • VALIDATION (đánh giá chất lượng suy luận)
+  • NAVIGATION (lựa chọn chiến lược suy luận)
 
 #### **33. Meta-Strategy** - Siêu Chiến Lược
 
