@@ -28740,16 +28740,18 @@ Quản lý và làm việc với các vòng lặp tự tham chiếu vô hạn.
 
 → **Liên kết:** [META] LAYER (Strange Loops), TRANSCENDENCE (Paradox Mastery).
 
-#### **30. Meta-Systemic Thinking** - Tư Duy Siêu Hệ Thống
+#### **30. Meta-Systemic Thinking** - Tư Duy Về Bản Chất Siêu Hệ Thống
 
-Tư duy bao trùm và thống nhất tất cả các hệ thống.
+Nhận thức về BẢN CHẤT HỆ THỐNG của chính quá trình tư duy và học tập - thấy được cách các yếu tố trong tâm trí tương tác như một HỆ SINH THÁI nhận thức thống nhất, nơi trí tuệ đột sinh từ sự tương tác hữu cơ giữa các năng lực.
 
-- **Wholeness Comprehension**: Hiểu biết về toàn thể.
-- **Ultimate Systems View**: Quan điểm hệ thống tối hậu.
-- **Comprehensive Integration**: Tích hợp toàn diện.
-- **Holistic Meta-Perspective**: Quan điểm meta toàn diện.
+- **Wholeness of Mind**: Nhận thức tâm trí như một tổng thể hữu cơ - không phải tập hợp các phần riêng lẻ mà là một hệ sinh thái sống động.
+- **Systemic Self-Improvement**: Cải thiện HỆ THỐNG tư duy như một chính thể - không chỉ tối ưu từng kỹ năng riêng lẻ mà nuôi dưỡng cả hệ sinh thái.
+- **Emergent Intelligence**: Trí tuệ đột sinh từ tương tác giữa các năng lực nhận thức - 1+1>2 nhờ tính hệ thống.
+- **Organic Integration**: Tích hợp tự nhiên, hữu cơ - theo quy luật sinh thái, không theo công thức cơ học.
 
-→ **Liên kết:** INTEGRATION (Systemic Integration), TRANSCENDENCE (Wholeness).
+→ **Ngữ cảnh:** Áp dụng cho BẢN THÂN - nhận thức và cải thiện hệ thống nhận thức cá nhân.
+→ **Liên kết:** DYNAMICS (Self-Organization, Emergence), INTEGRATION (Personal Integration), TRANSCENDENCE (Wholeness).
+→ **Khác biệt:** META #35 (Meta-Systematic - về PHƯƠNG PHÁP thiết kế), INTEGRATION (Systemic Integration - áp dụng rộng hơn).
 
 #### **31. Egyptian Temple Initiation Rites** - Nghi Lễ Khai Tâm Của Đền Thờ Ai Cập
 
@@ -29216,16 +29218,18 @@ Tích hợp ở cấp độ cao nhất - tích hợp các phương pháp tích h
 
 → **Liên kết:** INTEGRATION (Meta-Integration), TRANSCENDENCE (Unity).
 
-#### **35. Meta-Systematic Thinking** - Tư Duy Siêu Hệ Thống
+#### **35. Meta-Systematic Thinking** - Tư Duy Phương Pháp Siêu Hệ Thống
 
-Tư duy về các hệ thống của các hệ thống.
+Khả năng thiết kế và áp dụng PHƯƠNG PHÁP CÓ HỆ THỐNG ở cấp độ cao nhất - tạo ra các quy trình, giao thức và khung làm việc để tổ chức và quản lý các hệ thống phức tạp một cách có PHƯƠNG PHÁP LUẬN. Đây là về "kiến trúc của các phương pháp".
 
-- **Systems of Systems**: Hệ thống của các hệ thống.
-- **Complexity Meta-View**: Quan điểm meta về độ phức tạp.
-- **Holistic System Thinking**: Tư duy hệ thống toàn diện.
-- **Ultimate Systems Perspective**: Quan điểm hệ thống tối hậu.
+- **Methodological Systems**: Hệ thống hóa PHƯƠNG PHÁP làm việc với hệ thống - tạo ra các giao thức để thiết kế giao thức.
+- **Systematic Framework Design**: Thiết kế khung có hệ thống - theo nguyên tắc, quy trình và chuẩn mực rõ ràng.
+- **Protocol Architecture**: Kiến trúc các giao thức và quy trình chuẩn hóa - xây dựng cấu trúc cho các cấu trúc.
+- **Organized Complexity Management**: Quản lý độ phức tạp một cách có tổ chức và có phương pháp - không ngẫu hứng mà theo thiết kế.
 
-→ **Liên kết:** INTEGRATION (Systemic Thinking), [META] LAYER (Holistic View).
+→ **Ngữ cảnh:** Áp dụng cho THIẾT KẾ KHUNG & QUY TRÌNH - xây dựng phương pháp luận và kiến trúc hệ thống.
+→ **Liên kết:** OPERATIONS (Systematic Methods), VALIDATION (Protocol Design), CREATION (Design Systems, Architecture).
+→ **Khác biệt:** META #30 (Meta-Systemic - về BẢN CHẤT hệ thống), META #1 (Framework of Frameworks - ứng dụng cụ thể).
 
 ---
 
