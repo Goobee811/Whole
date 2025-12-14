@@ -14137,16 +14137,20 @@ Chiến lược về chiến lược - cách tạo ra và điều chỉnh các c
 
 → **Liên kết:** [META] LAYER (Meta-Cognition), OPERATIONS (Strategic Planning).
 
-#### **42. Meta-Wayfinding** - Siêu Tìm Đường
+#### **42. Meta-Wayfinding** - Siêu Tìm Đường **[Khám Phá Phương Pháp]**
 
-Tìm đường để tìm đường - khám phá cách khám phá.
+Tìm đường để tìm đường - NGHỆ THUẬT khám phá các phương pháp điều hướng mới. Đây là về THỰC HÀNH: làm thế nào để phát hiện ra các cách tiếp cận mới để điều hướng trong bất kỳ không gian nào (vật lý, tri thức, chiến lược).
 
-- **Discovery of Discovery**: Khám phá về khám phá.
-- **Navigation Methods**: Phương pháp điều hướng.
-- **Route to Routes**: Đường đến các đường khác.
-- **Meta-learning**: Học cách học.
+- **Discovery of Discovery**: Khám phá về khám phá - quy trình meta cho việc tìm ra các phương pháp mới.
+- **Navigation Methods**: Tìm ra các phương pháp điều hướng hiệu quả trong các ngữ cảnh khác nhau.
+- **Route to Routes**: Tìm đường dẫn đến các con đường khác - meta-pathfinding.
+- **Meta-learning**: Học cách học trong ngữ cảnh điều hướng - phát triển kỹ năng tìm đường.
 
-→ **Liên kết:** [META] LAYER (Meta-Learning), CREATION (Method Innovation).
+→ **Liên kết nội bộ:** CREATION (Method Innovation).
+→ **Khung lý thuyết:** [META] LAYER #42 (kiến trúc không gian điều hướng).
+→ **Công cụ nhận thức:** [META] #1 (Metacognition).
+→ **Ứng dụng:** OPERATIONS (Strategic Planning).
+→ **Đổi mới:** CREATION #25 (Novel Path Discovery).
 
 #### **43. Meta-Narrative Awareness** - Nhận Thức Siêu Tường Thuật
 
@@ -29253,16 +29257,20 @@ Thấu kính quan sát qua đó nhìn thấy tất cả các thấu kính khác.
 
 ### **Nhóm Bổ Sung: Navigation & Transformation (7 mục mới)**
 
-#### **42. Meta-Wayfinding** - Siêu Tìm Đường
+#### **42. Meta-Wayfinding** - Siêu Tìm Đường **[Không Gian Của Các Không Gian]**
 
-Tìm đường ở cấp độ meta - điều hướng không gian của các không gian.
+Điều hướng ở cấp độ meta - KIẾN TRÚC cho việc hiểu và thiết kế các không gian điều hướng. Khác với ứng dụng thực hành ở NAVIGATION, đây là về CẤU TRÚC: làm thế nào các không gian điều hướng được tổ chức và liên kết.
 
-- **Meta-Level Navigation**: Điều hướng cấp độ meta.
-- **Space of Spaces Discovery**: Khám phá không gian của các không gian.
-- **Higher-Order Pathfinding**: Tìm đường bậc cao hơn.
-- **Abstract Navigation**: Điều hướng trừu tượng.
+- **Meta-Level Navigation**: Điều hướng trên các không gian điều hướng - navigating navigation spaces.
+- **Space of Spaces Discovery**: Khám phá topology của các không gian - understanding spatial architectures.
+- **Higher-Order Pathfinding**: Tìm đường trong không gian trừu tượng - abstract wayfinding.
+- **Abstract Navigation**: Điều hướng trong các cấu trúc khái niệm - conceptual space navigation.
 
-→ **Liên kết:** NAVIGATION (Wayfinding), [META] LAYER (Space of Spaces).
+→ **Liên kết nội bộ:** [META] #15 (Space of Spaces - lý thuyết topology).
+→ **Ứng dụng thực hành:** NAVIGATION #42 (phương pháp khám phá).
+→ **Khung tổ chức:** [META] #5 (Framework of Frameworks).
+→ **Cấu trúc tư duy:** [META] #2 (Pattern Language).
+→ **Thiết kế:** [META] #16 (Conceptual Universe Design).
 → **Xem thêm:** NAVIGATION #24 (Quantum Navigation States) - áp dụng meta-feedback vào quantum decision making và tối ưu hóa decision collapse timing.
 
 #### **43. Navigation Philosophy** - Triết Học Điều Hướng
