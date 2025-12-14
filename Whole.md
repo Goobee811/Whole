@@ -24221,19 +24221,6 @@ Thực hành thiền Zen sử dụng các câu đố nghịch lý để phá v�
 
 ---
 
-#### **36. Negative Capability** - Khả Năng Phủ Định
-
-Khả năng tồn tại trong sự không chắc chắn mà không tìm kiếm câu trả lời ngay lập tức.
-
-- **Uncertainty Tolerance**: Khoan dung sự không chắc chắn; thoải mái với việc không biết.
-- **Suspension of Judgment**: Đình chỉ phán xét; giữ lại kết luận.
-- **Creative Ambiguity**: Sự mơ hồ sáng tạo; sự không rõ ràng có thể sinh sản.
-- **Openness to Mystery**: Cởi mở với bí ẩn; tôn trọng những gì không thể giải thích.
-
-→ **Liên kết:** TRANSCENDENCE (Negative Capability), CREATION (Creative Uncertainty).
-
----
-
 ## **CHỨC NĂNG 2: PARADIGM SHIFTS & BREAKTHROUGHS**
 
 ### **Tổng Quan**
