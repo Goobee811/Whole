@@ -18028,16 +18028,18 @@ Nhóm người cùng chia sẻ mối quan tâm và học hỏi lẫn nhau.
 
 ---
 
-#### **30. Community Building** - Xây Dựng Cộng Đồng
+#### **30. Community Building [Tạo Sự Gắn Kết]** - Xây Dựng Cộng Đồng [Tạo Sự Gắn Kết]
 
-Quá trình tạo ra và nuôi dưỡng cộng đồng gắn kết.
+Nghệ thuật tạo ra và nuôi dưỡng cộng đồng gắn kết - nơi mọi người cảm thấy THUỘC VỀ, được CHÀO ĐÓN và KẾT NỐI sâu sắc với nhau. Khác với cách tiếp cận tăng trưởng ở AMPLIFICATION, đây là về CHẤT LƯỢNG quan hệ và không gian tâm lý an toàn.
 
-- **Relationship Cultivation**: Nuôi dưỡng mối quan hệ; xây dựng sự tin cậy.
-- **Shared Identity Creation**: Tạo bản sắc chung; cảm giác "chúng ta".
-- **Cohesion Building**: Xây dựng sự gắn kết; tạo liên kết mạnh mẽ.
-- **Inclusive Space**: Không gian bao hàm; mọi người đều được chào đón.
+- **Relationship Cultivation**: Nuôi dưỡng từng mối quan hệ với SỰ CHĂM SÓC - xây dựng lòng tin và kết nối chân thật giữa con người với con người.
+- **Shared Identity Creation**: Tạo bản sắc "CHÚNG TA" - cảm giác là một gia đình, nơi mỗi người đều có giá trị và được coi trọng.
+- **Cohesion Building**: Xây dựng sợi dây GẮN KẾT giữa các thành viên - tạo liên kết mạnh mẽ qua trải nghiệm chung và hỗ trợ lẫn nhau.
+- **Inclusive Space**: Không gian an toàn - mọi người đều có CHỖ ĐỨNG, được lắng nghe và tôn trọng trong sự khác biệt.
 
-→ **Liên kết:** AMPLIFICATION (Community Dynamics), COLLABORATION (Social Cohesion).
+→ **Liên kết:** COLLABORATION (Social Cohesion), INTEGRATION (Community of Practice, Community Dynamics, Community Integration Protocol).
+→ **Góc nhìn về tăng trưởng:** AMPLIFICATION #5 (Community Building - công cụ scale).
+→ **Khác biệt then chốt:** Ở đây cộng đồng là MỤC ĐÍCH (depth & belonging), không phải PHƯƠNG TIỆN (growth & scale).
 
 ---
 
@@ -21245,15 +21247,17 @@ Các nguyên tắc vận hành của các nền tảng đa diện, kết nối c
 - **Platform Governance**: Vai trò của các quy tắc và chính sách trong việc thúc đẩy hành vi tích cực và ngăn chặn hành vi tiêu cực.  
     → **Liên kết:** OPERATIONS (Game Theory), INTEGRATION (Ecosystem Building).
 
-#### **5. Community Building** - Xây Dựng Cộng Đồng
+#### **5. Community Building [Động Cơ Tăng Trưởng]** - Xây Dựng Cộng Đồng [Động Cơ Tăng Trưởng]
 
-Nghệ thuật và khoa học của việc tạo ra, nuôi dưỡng và phát triển các cộng đồng trực tuyến hoặc ngoại tuyến.
+Khoa học và nghệ thuật tạo ra cộng đồng như ĐỘNG CƠ TĂNG TRƯỞNG tự duy trì. Khác với cách tiếp cận quan hệ ở INTEGRATION, đây là về thiết kế CƠ CHẾ để cộng đồng tự lan truyền, tự tạo nội dung và khuếch đại giá trị theo cấp số nhân.
 
-- **Shared Identity & Purpose**: Tạo ra một bản sắc và mục đích chung làm cốt lõi cho cộng đồng.
-- **Member Engagement**: Khuyến khích sự tham gia tích cực của các thành viên, không chỉ tiêu thụ thụ động.
-- **User-Generated Content**: Nội dung do người dùng tạo ra, củng cố và phát triển giá trị của cộng đồng.
-- **Community-Led Growth**: Tăng trưởng được thúc đẩy bởi chính cộng đồng, không chỉ bởi công ty.  
-    → **Liên kết:** INTEGRATION (Collaborative Intelligence), CREATION (Co-creation).
+- **Shared Identity & Purpose**: Bản sắc và mục đích chung tạo ĐỘNG LỰC chia sẻ và mời gọi - thành viên trở thành đại sứ tự nguyện.
+- **Member Engagement**: Thiết kế cơ chế để thành viên THAM GIA TÍCH CỰC, không chỉ tiêu thụ - mỗi tương tác tạo ra giá trị nhân lên.
+- **User-Generated Content**: Biến thành viên thành NGƯỜI SÁNG TẠO - nguồn nội dung vô tận làm tăng giá trị và thu hút người mới.
+- **Community-Led Growth**: Cộng đồng tự TUYỂN DỤNG, tự QUẢNG BÁ - viral coefficient k > 1, tăng trưởng tự duy trì và nhân bội.
+    → **Liên kết:** CREATION (Co-creation), AMPLIFICATION (Community-Led Growth, Community Intelligence, Viral Coefficient).
+    → **Nền tảng lý thuyết:** INTEGRATION #30 (Community Building - tạo gắn kết).
+    → **Khác biệt then chốt:** Ở đây cộng đồng là CÔNG CỤ KHUẾCH ĐẠI (scale & leverage), không phải mục đích (belonging).
 
 #### **6. Data Network Effects** - Hiệu Ứng Mạng Lưới Dữ Liệu
 
