@@ -16508,16 +16508,17 @@ Mạng lưới có một số hub rất được kết nối và nhiều node í
 
 ---
 
-#### **26. Recursive Structures** - Cấu Trúc Đệ Quy
+#### **26. Recursive Structures - Cấu Trúc Đệ Quy [Trong Xây Dựng Mạch Lạc]**
 
-Cấu trúc có chứa bản thân nó như một phần.
+Cấu trúc có chứa bản thân nó như một phần - nguyên lý TỔ CHỨC để xây dựng sự mạch lạc hệ thống. Đây là về KIẾN TRÚC TĨNH: làm sao thiết kế các hệ thống tri thức lồng nhau một cách tự tham chiếu để tạo sự toàn vẹn.
 
 - **Self-Reference**: Tự tham chiếu; cấu trúc chỉ về chính nó.
 - **Nested Levels**: Các cấp độ lồng nhau; mỗi cấp chứa cấp dưới.
 - **Infinite Regress**: Lùi vô hạn; có thể đi sâu mãi mãi.
 - **Meta-Pattern**: Siêu mẫu hình; mẫu hình của các mẫu hình.
 
-→ **Liên kết:** META-LAYER (Meta-Structure), FOUNDATIONS (Recursion).
+→ **Liên kết nội bộ:** META-LAYER (Meta-Structure), FOUNDATIONS (Recursion).
+→ **Biến thể động ở domain khác:** TRANSCENDENCE #10 (trong biến đổi hệ thống), META #16 (Self-referential Loops), AMPLIFICATION #22-24 (Fractal Growth, L-System, Recursive Patterns).
 
 ---
 
@@ -25271,16 +25272,21 @@ Khái niệm rằng mỗi phần của một hệ thống chứa thông tin về
 
 ---
 
-#### **10. Recursive Structures** - Cấu Trúc Đệ Quy
+#### **10. Recursive Structures - Cấu Trúc Đệ Quy [Trong Biến Đổi Hệ Thống]**
 
-Các cấu trúc tự tham chiếu, nơi một phần chứa tham chiếu đến toàn bộ.
+Cấu trúc tự biến đổi đệ quy - khi hệ thống CHUYỂN HÓA chính nó thông qua các vòng lặp tự tham chiếu. Đây là về QUÁ TRÌNH ĐỘNG: làm sao hệ thống tự VƯỢT THOÁT giới hạn của mình thông qua cấu trúc đệ quy.
 
-- **Self-Reference**: Tự tham chiếu; hệ thống chỉ về chính nó.
-- **Infinite Nesting**: Lồng ghép vô hạn; các cấp độ không ngừng của cấu trúc.
-- **Loops and Cycles**: Vòng lặp và chu kỳ; các mẫu hình quay trở lại chính chúng.
-- **Strange Loops**: Vòng lặp kỳ lạ; tự tham chiếu tạo ra nghịch lý và sự xuất hiện.
+- **Self-Transforming Recursion**: Đệ quy tự biến đổi; hệ thống tái tạo chính nó.
+- **Metamorphic Loops**: Vòng lặp biến thái; mỗi vòng lặp thay đổi bản chất hệ thống.
+- **Transcendent Self-Reference**: Tự tham chiếu siêu việt; vượt qua chính mình.
+- **Evolutionary Nesting**: Lồng nhau tiến hóa; mỗi cấp độ cao hơn bao trùm và vượt qua.
 
-→ **Liên kết:** [META] LAYER (Recursive Thinking), DYNAMICS (Self-Organization).
+Ví dụ thực tế: Sự biến thái của sâu bướm (cấu trúc tế bào đệ quy tự tổ chức lại hoàn toàn), giác ngộ tâm linh (ý thức tự nhận ra và vượt thoát chính mình), paradigm shift (hệ thống tư duy tái cấu trúc đệ quy chính nó).
+
+→ **Liên kết nội bộ:** TRANSCENDENCE (Self-similarity Across Scales #6), METAMORPHOSIS (Personal/Collective/Organizational Transformation), Micro-patterns in Macro-systems (#7).
+→ **Gốc cấu trúc:** INTEGRATION #26 (Recursive Structures - kiến trúc tổ chức).
+→ **Nguyên lý nền tảng:** FOUNDATIONS (Recursion, Fractal Patterns).
+→ **Công cụ META:** META #16 (Self-referential Loops), DYNAMICS (Self-Organization).
 
 ---
 
