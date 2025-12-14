@@ -40,12 +40,24 @@ When evaluating duplicates:
 2. **True Redundancy** - Consolidate if identical across contexts
 3. Decision factors: Primary function, natural user thinking patterns
 
+## Working with Whole.md
+**IMPORTANT**: Whole.md is a large file (>1MB). Always use Grep first to find relevant sections before reading.
+
+```
+1. Grep for concept name/keyword → Get line numbers
+2. Read specific lines with offset/limit → Get context
+3. Edit the specific section
+```
+
+**NEVER** try to read Whole.md without offset/limit parameters.
+
 ## Editing Workflow
-1. Read section completely
-2. Analyze for improvements/duplicates
-3. Propose changes with rationale
-4. Apply after approval
-5. Update cross-references
+1. **Grep** for relevant content first
+2. **Read** specific sections (with offset/limit)
+3. Analyze for improvements/duplicates
+4. Propose changes with rationale
+5. Apply after approval
+6. Update cross-references
 
 ## Custom Commands
 - `/analyze [section-path]` - Analyze section for issues
