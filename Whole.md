@@ -10112,14 +10112,27 @@ Luôn xem xét giá trị của lựa chọn tốt nhất tiếp theo mà bạn 
 
 #### **41. Sunk Cost Razor** - Dao Cạo Chi Phí Chìm
 
-Không nên xem xét chi phí đã bỏ ra (không thể thu hồi) khi ra quyết định về tương lai.
+Nguyên tắc ra quyết định: Không nên xem xét chi phí đã bỏ ra (không thể thu hồi) khi ra quyết định về tương lai. Chi phí chìm là KHÔNG LIÊN QUAN đến quyết định hợp lý - chỉ nên tập trung vào giá trị tương lai.
 
-- **Irrelevance of Past Costs**: Chi phí quá khứ không liên quan.
-- **Forward-Looking Decisions**: Quyết định hướng tới tương lai.
-- **Emotional Detachment**: Tách khỏi cảm xúc về khoản đầu tư.
-- **Rational Choice**: Lựa chọn hợp lý dựa trên giá trị tương lai.
+- **Irrelevance of Past Costs**: Chi phí quá khứ hoàn toàn không liên quan đến quyết định tương lai.
+- **Forward-Looking Decisions**: Quyết định dựa trên giá trị và chi phí tương lai, không phải quá khứ.
+- **Emotional Detachment**: Tách khỏi cảm xúc về khoản đầu tư đã mất.
+- **Rational Choice**: Lựa chọn hợp lý dựa trên phân tích khách quan về tương lai.
 
-→ **Liên kết:** OPERATIONS (Rational Decision Making), META (Bias Awareness)
+→ **Liên kết nội bộ:**
+  • OPERATIONS #8 (Sunk Cost Fallacy - thiên kiến cần khắc phục)
+  • OPERATIONS #14 (Opportunity Cost Thinking - so sánh với chi phí cơ hội)
+  • META (Bias Awareness - nhận thức về thiên kiến)
+
+→ **Ứng dụng trong các domain khác:**
+  • NAVIGATION - Resource Management: Áp dụng khi phân bổ nguồn lực
+    (Ví dụ: Dừng dự án thua lỗ thay vì tiếp tục vì đã đầu tư nhiều)
+  • VALIDATION - Bias Correction: Kiểm tra xem quyết định có bị ảnh hưởng bởi chi phí chìm không
+
+→ **Ví dụ thực tế:**
+  • Business: Ngừng dự án thua lỗ mặc dù đã đầu tư hàng triệu
+  • Personal: Rời khỏi mối quan hệ độc hại mặc dù đã "đầu tư" nhiều năm
+  • Investment: Bán cổ phiếu thua lỗ thay vì giữ để "gỡ vốn"
 
 #### **42. Marginal Utility Razor** - Dao Cạo Lợi Ích Biên
 
@@ -14758,16 +14771,23 @@ Phân loại quyết định: dễ đảo ngược (Type 2) vs khó đảo ngư�
 
 → **Liên kết:** OPERATIONS (Simplification), [META] LAYER (Complexity Navigation).
 
-#### **43. Sunk Cost Razor** - Dao Cạo Chi Phí Chìm
+#### **43. Sunk Cost Razor in Resource Management** - Áp Dụng Dao Cạo Chi Phí Chìm
 
-Bỏ qua chi phí đã bỏ ra trong quá khứ khi ra quyết định tương lai.
+💡 **Lưu ý về Sunk Cost trong Resource Management:**
 
-- **Past Irrelevance**: Quá khứ không liên quan.
-- **Forward Focus**: Tập trung về phía trước.
-- **Emotional Detachment**: Tách rời cảm xúc.
-- **Rational Decision**: Quyết định dựa trên hiện tại và tương lai.
+Khi phân bổ tài nguyên và thiết lập ưu tiên, hãy áp dụng nguyên tắc **SUNK COST RAZOR** từ OPERATIONS #41:
 
-→ **Liên kết:** OPERATIONS (Rational Decision), VALIDATION (Bias Correction).
+**"Không để chi phí đã bỏ ra trong quá khứ ảnh hưởng đến quyết định phân bổ nguồn lực trong tương lai."**
+
+**Các tình huống thường gặp:**
+- **Project Reallocation**: Dự án đã đầu tư nhiều nhưng không còn phù hợp với chiến lược.
+- **Resource Redeployment**: Nhân sự đã đào tạo lâu nhưng không phù hợp với vị trí.
+- **Strategic Pivot**: Tài nguyên đã cam kết nhưng cần được điều chuyển sang cơ hội tốt hơn.
+- **Portfolio Optimization**: Cắt giảm đầu tư vào các sáng kiến kém hiệu quả bất chấp chi phí đã bỏ ra.
+
+→ **Xem chi tiết:** OPERATIONS #41 (Sunk Cost Razor - nguyên tắc đầy đủ với ví dụ)
+→ **Kết hợp với:** NAVIGATION #10 (Opportunity Cost Awareness) để ra quyết định tối ưu
+→ **Liên kết:** VALIDATION (Bias Correction), OPERATIONS (Rational Decision Making)
 
 #### **44. Marginal Utility Razor** - Dao Cạo Lợi Ích Cận Biên
 
