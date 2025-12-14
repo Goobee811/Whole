@@ -9559,16 +9559,43 @@ Một công cụ hỗ trợ quyết định sử dụng mô hình dạng cây đ
 → **Sử dụng bởi:** NAVIGATION #9 (trong Multi-dimensional Planning)
 → **Công cụ liên quan:** Sequential Decision Making #26, Scenario Tree #11
 
-#### **4. OODA Loop** - Vòng Lặp OODA
+#### **4. OODA Loop** - Vòng Lặp OODA (Observe-Orient-Decide-Act)
 
-Một chu trình ra quyết định và hành động bốn bước (Quan sát-Định hướng-Quyết định-Hành động) tập trung vào tốc độ và khả năng thích ứng.
+Một chu trình ra quyết định và hành động chiến thuật được phát triển bởi John Boyd, nhấn mạnh TỐC ĐỘ và KHẢ NĂNG THÍCH ỨNG trong môi trường cạnh tranh.
 
-- **Observe (Quan sát)**: Thu thập thông tin từ môi trường một cách nhanh chóng và liên tục.
-- **Orient (Định hướng)**: Phân tích và tổng hợp thông tin để tạo ra một bức tranh tinh thần. Đây là bước quan trọng nhất.
-- **Decide (Quyết định)**: Lựa chọn một hướng hành động dựa trên định hướng hiện tại.
-- **Act (Hành động)**: Thực hiện quyết định và quan sát kết quả để bắt đầu chu kỳ mới.
+**KỸ THUẬT THỰC THI (4 Bước):**
 
-→ **Liên kết:** DYNAMICS (Rapid Adaptation), VALIDATION (Continuous Feedback)
+• **Observe (Quan sát)**: Thu thập thông tin liên tục từ môi trường
+  - Monitoring continuous streams of data
+  - Sensing environmental changes in real-time
+  - Gathering intelligence from multiple sources
+
+• **Orient (Định hướng)**: Xử lý thông tin qua các bộ lọc nhận thức và kinh nghiệm
+  - **[BƯỚC QUAN TRỌNG NHẤT - quyết định chất lượng quyết định]**
+  - Processing through mental models and experience
+  - Cultural and genetic heritage influence
+  - Synthesis of disparate information into coherent picture
+
+• **Decide (Quyết định)**: Chọn hành động phù hợp dựa trên định hướng hiện tại
+  - Selecting optimal course of action
+  - Hypothesis generation about best response
+  - Commitment to specific path forward
+
+• **Act (Hành động)**: Thực thi và quan sát kết quả → bắt đầu vòng lặp mới
+  - Executing the chosen decision
+  - Observing outcomes and effects
+  - Feeding results back into next cycle
+
+**ỨNG DỤNG CHIẾN LƯỢC:**
+
+• **Tempo Advantage**: Đạt lợi thế bằng cách CHU KỲ NHANH HƠN đối thủ
+• **Decision Speed**: Tốc độ ra quyết định như lợi thế cạnh tranh
+• **Adaptive Superiority**: Ưu thế thích ứng trong môi trường động
+• **Boyd's Core Insight**: "Người thắng không phải người mạnh nhất, mà là người THÍCH ỨNG NHANH NHẤT"
+
+→ **Liên kết nội bộ:** DYNAMICS (Rapid Adaptation), VALIDATION (Continuous Feedback)
+→ **Ứng dụng chiến lược:** NAVIGATION (Strategic Wayfinding #3 - Decision Speed & Tempo)
+→ **Nguyên lý nền tảng:** FOUNDATIONS (Feedback Loops)
 
 #### **5. Eisenhower Matrix** - Ma Trận Eisenhower
 
@@ -12860,17 +12887,47 @@ Khám phá và chuẩn bị cho nhiều tương lai khả dĩ thay vì cố gắ
 
 → **Liên kết:** OPERATIONS (Decision Frameworks), DYNAMICS (Multi-agent Systems).
 
-#### **3. OODA Loop** - Vòng Lặp OODA (Quan Sát - Định Hướng - Quyết Định - Hành Động)
+#### **3. Decision Speed & Tempo** - Tốc Độ Quyết Định & Nhịp Độ
 
-Một chu trình quyết định chiến thuật nhấn mạnh tốc độ và sự thích ứng, được phát triển bởi John Boyd.
+Lợi thế chiến lược đạt được bằng cách ra quyết định và hành động NHANH HƠN đối thủ cạnh tranh, tạo ra "tempo advantage".
 
-- **Observe**: Quan sát liên tục môi trường và thu thập thông tin.
-- **Orient**: Định hướng bản thân bằng cách xử lý thông tin thông qua các bộ lọc nhận thức và kinh nghiệm.
-- **Decide**: Quyết định một hành động phù hợp dựa trên định hướng hiện tại.
-- **Act**: Hành động và quan sát kết quả, bắt đầu vòng lặp mới.
-- **Tempo Advantage**: Đạt được lợi thế bằng cách chu kỳ nhanh hơn đối thủ.
+**NGUYÊN TẮC CỐT LÕI:**
 
-→ **Liên kết:** DYNAMICS (Cognitive Dynamics), OPERATIONS (Decision Speed).
+• **Cycle Speed**: Hoàn thành chu kỳ quyết định-hành động nhanh hơn đối thủ
+  - Velocity of decision-making cycles
+  - Rapid iteration and learning loops
+  - Minimizing decision latency
+
+• **Adaptive Advantage**: Thích ứng nhanh với thay đổi → đối thủ luôn phản ứng sau
+  - Competitors perpetually playing catch-up
+  - Continuous disruption of opponent's rhythm
+  - Maintaining initiative through speed
+
+• **Rhythm Disruption**: Phá vỡ nhịp độ của đối thủ bằng tốc độ không đoán trước
+  - Unpredictable tempo changes
+  - Strategic surprise through timing
+  - Breaking opponent's decision cycle
+
+• **Compounding Lead**: Lợi thế tốc độ tích lũy theo thời gian
+  - Small tempo advantages accumulate
+  - Exponential divergence over time
+  - Self-reinforcing competitive moat
+
+**CÔNG CỤ THỰC HIỆN:**
+
+→ **Framework chính:** OPERATIONS #4 (OODA Loop - Observe-Orient-Decide-Act)
+→ **Boyd's Legacy:** "Getting inside the opponent's OODA loop"
+
+**CHIẾN THUẬT ỨNG DỤNG:**
+
+• **Blitzkrieg Strategy**: Chiến lược tấn công chớp nhoáng
+• **Agile Methodology**: Linh hoạt trong phát triển sản phẩm
+• **First-Mover Advantage**: Lợi thế người đi trước
+• **Rapid Iteration**: Lặp nhanh để học và cải thiện
+
+→ **Liên kết:** DYNAMICS (Cognitive Dynamics), OPERATIONS (Decision Frameworks #4)
+→ **Nguyên lý:** FOUNDATIONS (Cycles & Rhythms)
+→ **Khuếch đại:** AMPLIFICATION (Speed Multipliers)
 
 #### **4. Wardley Mapping for Strategy** - Lập Bản Đồ Wardley Cho Chiến Lược
 
@@ -13293,7 +13350,7 @@ Khung tư duy tổng thể để điều hướng trong môi trường chiến l
 - **Holistic Wayfinding**: Tích hợp phân tích (từ OPERATIONS #26) với bối cảnh, thời điểm, nguồn lực
 
 → **Nền tảng công cụ:** OPERATIONS #26 (Strategic Reasoning - kiến trúc suy luận)
-→ **Liên kết nội bộ:** NAVIGATION (Scenario Planning, OODA Loop, Strategic Patience)
+→ **Liên kết nội bộ:** NAVIGATION (Scenario Planning, Decision Speed & Tempo, Strategic Patience)
 → **Tích hợp:** INTEGRATION (Synthesis of multiple strategic perspectives)
 → **Siêu tầng:** [META] LAYER (Meta-Strategy #33 - chiến lược về chiến lược)
 
