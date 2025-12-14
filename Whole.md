@@ -12181,16 +12181,18 @@ Sử dụng ẩn dụ để chuyển đổi góc nhìn và hiểu biết.
 
 → **Liên kết:** DYNAMICS (Transformation), INTEGRATION (Reframing)
 
-#### **25. Synthesis Protocols** - Các Giao Thức Tổng Hợp
+#### **25. Intuitive Synthesis** - Tổng Hợp Trực Giác
 
-Phương pháp có hệ thống để tổng hợp các yếu tố khác nhau.
+Tổng hợp tự nhiên, phi có hệ thống - kết hợp các yếu tố theo cảm nhận sáng tạo hơn là quy trình. Khác với Synthesis Protocols có cấu trúc ở INTEGRATION, đây là về NGHỆ THUẬT của việc kết hợp trong sáng tạo.
 
-- **Systematic Integration**: Tích hợp có hệ thống
-- **Structured Synthesis**: Tổng hợp có cấu trúc
-- **Protocol-Based Combination**: Kết hợp dựa trên giao thức
-- **Methodical Fusion**: Hợp nhất có phương pháp
+- **Spontaneous Combination**: Kết hợp tự phát; không theo kế hoạch mà theo cảm hứng.
+- **Intuitive Integration**: Tích hợp trực giác; theo cảm nhận sáng tạo hơn là logic.
+- **Organic Fusion**: Hợp nhất tự nhiên; không bị ép buộc vào khuôn mẫu.
+- **Creative Alchemy**: Giả kim sáng tạo; biến đổi theo nghệ thuật.
 
-→ **Liên kết:** INTEGRATION (Synthesis Methods), OPERATIONS (Protocols)
+→ **Liên kết:** CREATION (Creative Alchemy #44), INTEGRATION (Artistic Integration #26)
+→ **Khi cần CÓ HỆ THỐNG:** xem INTEGRATION #45 (Synthesis Protocols)
+→ **Kết hợp với:** Bricolage (#18), Unexpected Juxtaposition (#14)
 
 #### **26. Artistic Integration** - Tích Hợp Nghệ Thuật
 
@@ -15979,16 +15981,18 @@ Quá trình chuyển hóa các yếu tố khác nhau thành cái gì đó hoàn 
 
 ---
 
-#### **45. Synthesis Protocols** - Giao Thức Tổng Hợp
+#### **45. Synthesis Protocols** - Giao Thức Tổng Hợp [Tri Thức]
 
-Quy trình có cấu trúc để tổng hợp thông tin và ý tưởng.
+Quy trình có cấu trúc để tổng hợp thông tin và tri thức từ nhiều nguồn. Đây là PHƯƠNG PHÁP CÓ HỆ THỐNG để tạo ra hiểu biết mạch lạc từ các yếu tố phân tán - khác với việc tái kết hợp tự do trong sáng tạo.
 
 - **Structured Process**: Quy trình có cấu trúc; các bước rõ ràng để tổng hợp.
 - **Systematic Integration**: Tích hợp có hệ thống; không ngẫu nhiên mà có phương pháp.
 - **Quality Control**: Kiểm soát chất lượng; đảm bảo tổng hợp có giá trị.
 - **Reproducible Methods**: Phương pháp có thể tái tạo; người khác có thể áp dụng.
 
-→ **Liên kết:** OPERATIONS (Protocols), VALIDATION (Process Validation).
+→ **Liên kết:** OPERATIONS (Protocols), VALIDATION (Process Validation)
+→ **Khi cần tổng hợp trong SÁNG TẠO:** xem CREATION #12 (Deconstruction & Reassembly), #11 (Hybrid Vigor), #31 (Fusion Innovations), #25 (Intuitive Synthesis)
+→ **Phiên bản quy mô lớn:** INTEGRATION #48 (Grand Synthesis Protocols)
 
 ---
 
@@ -19001,16 +19005,18 @@ Khả năng truy cập vào tất cả tri thức nhân loại.
 
 ---
 
-#### **48. Grand Synthesis Protocols** - Giao Thức Tổng Hợp Lớn
+#### **48. Grand Synthesis Protocols** - Giao Thức Tổng Hợp Lớn [Meta-Level]
 
-Quy trình cho các tổng hợp quy mô lớn.
+Quy trình cho các tổng hợp QUY MÔ LỚN và phức tạp - khi cần tích hợp nhiều hệ thống tri thức, nhiều mô thức, hoặc nhiều lĩnh vực cùng lúc. Đây là "synthesis of syntheses" - tổng hợp ở CẤP ĐỘ META.
 
-- **Large-Scale Integration**: Tích hợp quy mô lớn; kết hợp nhiều nguồn.
+- **Large-Scale Integration**: Tích hợp quy mô lớn; nhiều nguồn cùng lúc.
 - **Comprehensive Protocol**: Giao thức toàn diện; quy trình đầy đủ.
 - **Systematic Synthesis**: Tổng hợp có hệ thống; phương pháp rõ ràng.
 - **Meta-Integration**: Siêu tích hợp; tích hợp các tích hợp.
 
-→ **Liên kết:** KNOWLEDGE SYNTHESIS (Synthesis Protocol), META-LAYER (Meta-Method).
+→ **Liên kết:** META-LAYER (Meta-Method)
+→ **Phiên bản cơ bản:** INTEGRATION #45 (Synthesis Protocols)
+→ **Ví dụ áp dụng:** Meta-Synthesis (#18), Wisdom Synthesis (#19), Transdisciplinary Framework (#19)
 
 ---
 
