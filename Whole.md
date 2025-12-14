@@ -10856,14 +10856,27 @@ Một quy trình lặp lại, lấy con người làm trung tâm để giải qu
 
 #### **2. Lean Innovation** - Đổi Mới Tinh Gọn
 
-Một phương pháp để giảm thiểu lãng phí và tăng tốc độ học hỏi trong quá trình phát triển sản phẩm mới.
+Một phương pháp đột phá để tạo ra đổi mới trong điều kiện BẤT ĐỊNH cao - giảm thiểu lãng phí và tăng tốc độ học hỏi thông qua chu kỳ lặp nhanh chóng. Được Eric Ries phổ biến qua "The Lean Startup" (2011), phương pháp này cách mạng hóa cách các doanh nghiệp mới và sản phẩm mới được phát triển.
 
-- **Build-Measure-Learn**: Chu kỳ xây dựng, đo lường và học hỏi nhanh chóng
-- **Minimum Viable Product (MVP)**: Tạo ra phiên bản tối thiểu khả thi để kiểm tra giả định
-- **Validated Learning**: Học hỏi được xác thực thông qua dữ liệu thực tế
-- **Pivot or Persevere**: Quyết định xoay hướng hoặc kiên trì dựa trên phản hồi
+**📍 NGUYÊN TẮC CỐT LÕI:**
+- **Build-Measure-Learn**: Chu kỳ xây dựng-đo lường-học hỏi CỰC NHANH
+- **Minimum Viable Product (MVP)**: Phiên bản tối thiểu để KIỂM CHỨNG giả định
+- **Validated Learning**: Học hỏi dựa trên DỮ LIỆU THỰC, không phải ý kiến
+- **Pivot or Persevere**: Quyết định XOAY HƯỚNG hoặc KIÊN TRÌ dựa trên bằng chứng
 
-→ **Liên kết:** VALIDATION (Continuous Testing), OPERATIONS (Agile Methods)
+**🔧 ỨNG DỤNG CHÍNH:**
+- Phát triển startup và sản phẩm mới
+- Đổi mới trong doanh nghiệp lớn (corporate innovation)
+- Phát triển tính năng mới trong sản phẩm hiện có
+- Kiểm nghiệm business model và value proposition
+
+**🌊 CROSS-DOMAIN APPLICATIONS:**
+- **Platform Building**: Áp dụng để phát triển và kiểm nghiệm platform features
+- **Ecosystem Development**: Sử dụng MVP approach để test ecosystem components
+- **Service Design**: Áp dụng validated learning vào thiết kế dịch vụ
+
+→ **Liên kết nội bộ:** VALIDATION (Continuous Testing, Experimentation), OPERATIONS (Agile Methods, Iterative Development), NAVIGATION (Pivot Decisions, Resource Optimization)
+→ **Ứng dụng trong các domain khác:** AMPLIFICATION (test platform features), INTEGRATION (service design), NAVIGATION (strategic planning)
 
 #### **3. Blue Ocean Strategy** - Chiến Lược Đại Dương Xanh
 
@@ -23190,15 +23203,36 @@ Mô hình đổi mới dựa trên sự hợp tác và chia sẻ tri thức.
 - **Boundary Permeability**: Ranh giới thấm được.  
     → **Liên kết:** CREATION (Co-creation), INTEGRATION (Collaboration).
 
-#### **26. Lean Innovation** - Đổi Mới Tinh Gọn
+#### **26. Platform Architecture Design** - Thiết Kế Kiến Trúc Nền Tảng
 
-Phương pháp đổi mới lặp đi lặp lại, được xác thực bằng thực nghiệm.
+Nghệ thuật thiết kế cấu trúc và quy tắc của nền tảng để cho phép hệ sinh thái phát triển, mở rộng và tự tiến hóa. Khác với việc xây dựng sản phẩm đơn lẻ, đây là về việc tạo ra một "MÔI TRƯỜNG" nơi nhiều bên có thể tạo ra và trao đổi giá trị.
 
-- **Iterative Development**: Phát triển lặp.
-- **Validated Learning**: Học tập được xác thực.
-- **Build-Measure-Learn**: Xây dựng-Đo lường-Học hỏi.
-- **Pivot Strategy**: Chiến lược xoay trục.  
-    → **Liên kết:** VALIDATION (Experimentation), OPERATIONS (Lean Methods).
+**🏗️ CÁC THÀNH PHẦN THIẾT KẾ:**
+- **Core Architecture**: Cấu trúc nền tảng cốt lõi - stable và scalable
+- **Extension Points**: Các điểm mở rộng cho third-party developers
+- **API Design**: Thiết kế API cho phép innovation không cần xin phép
+- **Governance Rules**: Quy tắc quản trị để duy trì quality và coherence
+
+**🎯 NGUYÊN TẮC THIẾT KẾ:**
+- **Modularity**: Kiến trúc module hóa cho phép thay đổi dễ dàng
+- **Scalability**: Thiết kế để scale lên millions/billions of users
+- **Evolvability**: Kiến trúc có thể tiến hóa theo thời gian
+- **Openness**: Độ mở phù hợp để balance innovation vs. control
+
+**💡 PATTERNS:**
+- **Layered Platform**: Nền tảng phân tầng (infrastructure → platform → apps)
+- **Two-Sided Platform**: Nền tảng hai phía (producers ↔ consumers)
+- **Multi-Sided Platform**: Nền tảng đa phía (nhiều loại actors)
+- **Nested Platform**: Nền tảng lồng nhau (platform of platforms)
+
+**🔄 ITERATION APPROACH:**
+- **Start Simple**: Bắt đầu với core functionality, mở rộng dần
+- **Test Extensibility**: Kiểm tra khả năng mở rộng sớm
+- **Learn from Ecosystem**: Học từ cách third parties sử dụng platform
+- **Evolve Architecture**: Tiến hóa kiến trúc dựa trên feedback
+
+→ **Liên kết nội bộ:** AMPLIFICATION (API Economy, Platform Effects), OPERATIONS (System Architecture, Technical Design), INTEGRATION (Ecosystem Orchestration)
+→ **Có thể áp dụng methods từ:** CREATION #2 (Lean Innovation - sử dụng MVP và validated learning), VALIDATION (test và iterate platform features), OPERATIONS (agile development cho platform evolution)
 
 #### **27. Design Sprint** - Sprint Thiết Kế
 
