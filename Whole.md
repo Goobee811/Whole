@@ -3691,7 +3691,7 @@ Cấu trúc và thực hành được thiết kế để tăng khả năng xảy
 - **Unexpected Connections**: Các kết nối bất ngờ
 - **Lucky Architecture**: Kiến trúc của sự may mắn
 
-→ **Liên kết:** CREATION (Innovation Design), NAVIGATION (Opportunity Creation)
+→ **Liên kết:** CREATION #46 (Serendipity Engineering - thiết kế điều kiện), NAVIGATION #22 (Serendipity Navigation - tận dụng cơ hội), NAVIGATION #26 (Luck Surface Area Expansion), AMPLIFICATION (Opportunity Creation)
 
 #### **33. Adjacent Possible** - Khả Năng Liền Kề
 
@@ -10771,16 +10771,16 @@ Chạy các kịch bản và tình huống trong tâm trí để dự đoán k�
 
 → **Liên kết:** OPERATIONS (Productivity Systems), AMPLIFICATION (Volume Effects)
 
-#### **46. Serendipity Engineering** - Kỹ Thuật Tạo Sự Ngẫu Nhiên May Mắn
+#### **46. Serendipity Engineering** - Kỹ Thuật Tạo May Mắn Ngẫu Nhiên
 
-Thiết kế các điều kiện và môi trường để tăng xác suất của những phát hiện ngẫu nhiên có giá trị.
+Thiết kế có chủ đích các môi trường, quy trình và điều kiện để tăng xác suất của những PHÁT HIỆN SÁNG TẠO ngẫu nhiên có giá trị. Đây là nghệ thuật tạo ra "tai nạn may mắn" trong quá trình sáng tạo và đổi mới.
 
-- **Accident Design**: Thiết kế để "tai nạn may mắn" xảy ra
-- **Lucky Environment**: Tạo môi trường thuận lợi cho may mắn
-- **Chance Multiplication**: Nhân cơ hội gặp may
-- **Discovery Facilitation**: Tạo điều kiện cho phát hiện bất ngờ
+- **Accident Design**: Thiết kế để "tai nạn sáng tạo" xảy ra thường xuyên hơn
+- **Lucky Environment**: Tạo không gian vật lý & tinh thần thuận lợi cho phát hiện
+- **Collision Architecture**: Thiết kế điểm giao thoa giữa các ý tưởng khác biệt
+- **Discovery Facilitation**: Loại bỏ rào cản cho những kết nối bất ngờ
 
-→ **Liên kết:** DYNAMICS (Emergence), AMPLIFICATION (Opportunity Creation)
+→ **Liên kết:** DYNAMICS (Emergence), AMPLIFICATION (Opportunity Creation), NAVIGATION #26 (Luck Surface Area Expansion), NAVIGATION #25 (Opportunity Magnetism), INTEGRATION #32 (Serendipity Systems)
 
 #### **47. Creative Problem Definition** - Định Nghĩa Vấn Đề Sáng Tạo
 
@@ -14412,9 +14412,9 @@ Tăng xác suất gặp may mắn bằng cách tăng sự tiếp xúc và hành 
 - **Probability Increase**: Tăng xác suất.
 - **Exposure Expansion**: Mở rộng sự tiếp xúc.
 - **Action Multiplier**: Hành động nhiều hơn = may mắn nhiều hơn.
-- **Serendipity Engineering**: Kỹ thuật may mắn.
+- **Engineering Opportunities**: Thiết kế cơ hội may mắn (xem CREATION #46).
 
-→ **Liên kết:** AMPLIFICATION (Opportunity Multiplication), OPERATIONS (Activity Management).
+→ **Liên kết:** CREATION #46 (Serendipity Engineering), NAVIGATION #22 (Serendipity Navigation), AMPLIFICATION (Opportunity Multiplication), OPERATIONS (Activity Management).
 
 #### **27. Barrier Detection** - Phát Hiện Rào Cản
 
@@ -14866,16 +14866,16 @@ Nhận ra và nuôi dưỡng các sự trùng hợp có ý nghĩa.
 
 → **Liên kết:** INTEGRATION (Meaning-Making), [META] LAYER (Pattern Recognition).
 
-#### **22. Serendipity Engineering** - Kỹ Thuật May Mắn
+#### **22. Serendipity Navigation** - Điều Hướng May Mắn
 
-Thiết kế các điều kiện để tăng xác suất các khám phá may mắn.
+Khả năng NHẬN BIẾT, ĐÁP ỨNG và TẬN DỤNG các cơ hội ngẫu nhiên xuất hiện bất ngờ trong quá trình điều hướng chiến lược. Khác với Serendipity Engineering (CREATION) tập trung vào THIẾT KẾ điều kiện, đây là về NHẬN THỨC và HÀNH ĐỘNG khi cơ hội xuất hiện.
 
-- **Fortunate Design**: Thiết kế may mắn.
-- **Chance Optimization**: Tối ưu hóa cơ hội.
-- **Happy Accident**: Tai nạn may mắn.
-- **Discovery Facilitation**: Tạo thuận lợi cho khám phá.
+- **Opportunity Recognition**: Nhận ra cơ hội may mắn khi nó xuất hiện
+- **Rapid Response**: Phản ứng nhanh để tận dụng cơ hội ngắn hạn
+- **Adaptive Pivoting**: Xoay chuyển chiến lược để khai thác phát hiện bất ngờ
+- **Lucky Moment Capture**: Nắm bắt thời điểm may mắn trước khi nó biến mất
 
-→ **Liên kết:** CREATION (Discovery Process), AMPLIFICATION (Opportunity Creation).
+→ **Liên kết:** CREATION #46 (Serendipity Engineering), NAVIGATION #26 (Luck Surface Area Expansion), NAVIGATION #25 (Opportunity Magnetism), AMPLIFICATION (Opportunity Creation), INTEGRATION #32 (Serendipity Systems).
 
 ---
 
@@ -21506,8 +21506,8 @@ Chủ động tận dụng các mối quan hệ lỏng lẻo để tìm kiếm c
 - **Network Reach Extension**: Mở rộng tầm với của mạng lưới.
 - **Diverse Opportunity Access**: Tiếp cận với các cơ hội đa dạng.
 - **Information Gathering**: Thu thập thông tin từ nhiều nguồn.
-- **Serendipity Engineering**: Thiết kế cơ hội tình cờ có giá trị.  
-    → **Liên kết:** NAVIGATION (Opportunity Seeking), OPERATIONS (Network Strategy).
+- **Serendipity Creation**: Thiết kế cơ hội tình cờ có giá trị (xem CREATION #46).
+    → **Liên kết:** CREATION #46 (Serendipity Engineering), NAVIGATION #22 (Serendipity Navigation), NAVIGATION (Opportunity Seeking), OPERATIONS (Network Strategy).
 
 #### **42. Build Unusual Networks** - Xây Dựng Mạng Lưới Không Thường
 
