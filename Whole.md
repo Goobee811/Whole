@@ -9981,18 +9981,7 @@ Nguyên tắc tối đa hóa hiệu quả của các dòng chảy (thông tin, v
 
 → **Liên kết:** OPERATIONS (Process Optimization), DYNAMICS (Flow State)
 
-#### **33. Investment Wisdom** - Trí Tuệ Đầu Tư
-
-Các nguyên tắc và chiến lược đầu tư thông minh dài hạn.
-
-- **Value Investing**: Đầu tư giá trị.
-- **Long-Term Perspective**: Góc nhìn dài hạn.
-- **Compound Growth**: Tăng trưởng kép.
-- **Risk Management**: Quản lý rủi ro.
-
-→ **Liên kết:** NAVIGATION (Long-Term Thinking), AMPLIFICATION (Compound Effects)
-
-#### **34. Grey's Law** - Định Luật Grey
+#### **33. Grey's Law** - Định Luật Grey
 
 "Any sufficiently advanced incompetence is indistinguishable from malice" - Sự bất tài đủ tiên tiến không thể phân biệt với ác ý.
 
@@ -10003,7 +9992,7 @@ Các nguyên tắc và chiến lược đầu tư thông minh dài hạn.
 
 → **Liên kết:** OPERATIONS (Hanlon's Razor), VALIDATION (Attribution Analysis)
 
-#### **35. Shirky Principle - Nguyên Tắc Shirky [Công Cụ Phát Hiện Bias]**
+#### **34. Shirky Principle - Nguyên Tắc Shirky [Công Cụ Phát Hiện Bias]**
 
 "Institutions will try to preserve the problem to which they are the solution"
 
@@ -10019,7 +10008,7 @@ Các nguyên tắc và chiến lược đầu tư thông minh dài hạn.
 → **Các công cụ tương tự:** OPERATIONS (Hanlon's Razor #35)
 → **Ứng dụng:** Khi phân tích đề xuất từ bộ phận nội bộ, luôn hỏi: "Họ có lợi ích gì trong việc duy trì vấn đề này?"
 
-#### **36. Actor-Observer Bias** - Thiên Kiến Người Hành Động-Người Quan Sát
+#### **35. Actor-Observer Bias** - Thiên Kiến Người Hành Động-Người Quan Sát
 
 Xu hướng quy kết hành vi của người khác cho tính cách nhưng hành vi của bản thân cho hoàn cảnh.
 
@@ -10030,7 +10019,7 @@ Xu hướng quy kết hành vi của người khác cho tính cách nhưng hành
 
 → **Liên kết:** OPERATIONS (Social Reasoning), META (Self-Awareness)
 
-#### **37. Eisenhower's Razor** - Dao Cạo của Eisenhower [Nguyên Tắc Urgent vs Important]
+#### **36. Eisenhower's Razor** - Dao Cạo của Eisenhower [Nguyên Tắc Urgent vs Important]
 
 "What is important is seldom urgent, and what is urgent is seldom important" - Điều quan trọng hiếm khi khẩn cấp, và điều khẩn cấp hiếm khi quan trọng.
 
@@ -10047,10 +10036,10 @@ Xu hướng quy kết hành vi của người khác cho tính cách nhưng hành
 **Tại sao nguyên tắc này quan trọng:** Não người được thiết kế để ưu tiên mối đe dọa trước mắt (urgent), nhưng trong thế giới hiện đại, hầu hết điều "urgent" không phải mối đe dọa thực sự, trong khi những điều thực sự định hình tương lai (important) lại không tạo áp lực tức thời.
 
 → **Công cụ thực hành:** NAVIGATION #1 (Eisenhower Matrix - ứng dụng nguyên tắc này)
-→ **Liên kết nội bộ:** OPERATIONS #38 (Parkinson's Law - về bản chất thời gian), META (Bias Awareness - thiên kiến ưu tiên urgent)
-→ **Các Razor liên quan:** OPERATIONS #35 (Hanlon's Razor), #36 (Occam's Razor) - cùng nhóm analytical razors
+→ **Liên kết nội bộ:** OPERATIONS #37 (Parkinson's Law - về bản chất thời gian), META (Bias Awareness - thiên kiến ưu tiên urgent)
+→ **Các Razor liên quan:** OPERATIONS #34 (Hanlon's Razor), #35 (Occam's Razor) - cùng nhóm analytical razors
 
-#### **38. Parkinson's Law** - Định Luật Parkinson [Time & Resource Management]
+#### **37. Parkinson's Law** - Định Luật Parkinson [Time & Resource Management]
 
 ỨNG DỤNG THỰC HÀNH của Parkinson's Law trong quản lý thời gian, tài nguyên và ra quyết định. Khác với nguyên lý phổ quát ở FOUNDATIONS #33, đây là về CÔNG CỤ và KỸ THUẬT để tận dụng hoặc chống lại định luật này.
 
@@ -10067,9 +10056,9 @@ Xu hướng quy kết hành vi của người khác cho tính cách nhưng hành
 - **Sprint Methodology**: Làm việc theo chu kỳ ngắn, tập trung cao
 
 → **Liên kết:** FOUNDATIONS #33 (Parkinson's Law - quy luật phổ quát), NAVIGATION (Time Management), VALIDATION (Productivity Analysis)
-→ **Định luật liên quan:** Hofstadter's Law #40 (dự đoán thời gian), Parkinson's Law of Triviality (bikeshedding)
+→ **Định luật liên quan:** Hofstadter's Law #38 (dự đoán thời gian), Parkinson's Law of Triviality (bikeshedding)
 
-#### **39. Hofstadter's Law** - Định Luật Hofstadter
+#### **38. Hofstadter's Law** - Định Luật Hofstadter
 
 "It always takes longer than you expect, even when you take into account
 Hofstadter's Law" - Luôn mất nhiều thời gian hơn dự kiến, ngay cả khi bạn
@@ -10084,7 +10073,7 @@ Hofstadter's Law" - Luôn mất nhiều thời gian hơn dự kiến, ngay cả 
 → **Liên kết nội bộ:**
   • NAVIGATION (Planning & Strategy): Sử dụng để lập kế hoạch thực tế
   • VALIDATION (Reality Check): Kiểm chứng ước lượng với thực tế
-  • OPERATIONS #38 (Parkinson's Law): Kết hợp để quản lý thời gian
+  • OPERATIONS #37 (Parkinson's Law): Kết hợp để quản lý thời gian
 
 → **Góc nhìn từ domain khác:**
   • DYNAMICS #47 (System Evolution): Xem góc độ TIẾN HÓA HỆ THỐNG -
@@ -10099,7 +10088,7 @@ Hofstadter's Law" - Luôn mất nhiều thời gian hơn dự kiến, ngay cả 
 
 → **Tags:** #decision-making #planning #time-estimation #bias #complexity
 
-#### **40. Murphy's Law** - Định Luật Murphy
+#### **39. Murphy's Law** - Định Luật Murphy
 
 "Anything that can go wrong will go wrong" - Mọi thứ có thể sai sẽ sai.
 
@@ -10110,7 +10099,7 @@ Hofstadter's Law" - Luôn mất nhiều thời gian hơn dự kiến, ngay cả 
 
 → **Liên kết:** VALIDATION (Risk Assessment), VALIDATION #5 (Pre-mortem Analysis)
 
-#### **41. Opportunity Cost Razor** - Dao Cạo Chi Phí Cơ Hội
+#### **40. Opportunity Cost Razor** - Dao Cạo Chi Phí Cơ Hội
 
 Luôn xem xét giá trị của lựa chọn tốt nhất tiếp theo mà bạn từ bỏ.
 
@@ -10121,7 +10110,7 @@ Luôn xem xét giá trị của lựa chọn tốt nhất tiếp theo mà bạn 
 
 → **Liên kết:** OPERATIONS (Opportunity Cost Thinking), NAVIGATION (Resource Management)
 
-#### **42. Sunk Cost Razor** - Dao Cạo Chi Phí Chìm
+#### **41. Sunk Cost Razor** - Dao Cạo Chi Phí Chìm
 
 Không nên xem xét chi phí đã bỏ ra (không thể thu hồi) khi ra quyết định về tương lai.
 
@@ -10132,7 +10121,7 @@ Không nên xem xét chi phí đã bỏ ra (không thể thu hồi) khi ra quy�
 
 → **Liên kết:** OPERATIONS (Rational Decision Making), META (Bias Awareness)
 
-#### **43. Marginal Utility Razor** - Dao Cạo Lợi Ích Biên
+#### **42. Marginal Utility Razor** - Dao Cạo Lợi Ích Biên
 
 Tập trung vào lợi ích của đơn vị bổ sung tiếp theo, không phải tổng thể.
 
@@ -10143,7 +10132,7 @@ Tập trung vào lợi ích của đơn vị bổ sung tiếp theo, không phả
 
 → **Liên kết:** OPERATIONS (Economic Reasoning), FOUNDATIONS (Optimization)
 
-#### **44. Progress Indicators** - Chỉ Báo Tiến Độ
+#### **43. Progress Indicators** - Chỉ Báo Tiến Độ
 
 Các chỉ số theo dõi sự tiến bộ hướng tới mục tiêu.
 
@@ -10154,7 +10143,7 @@ Các chỉ số theo dõi sự tiến bộ hướng tới mục tiêu.
 
 → **Liên kết:** OPERATIONS (Progress Tracking), VALIDATION (Metrics)
 
-#### **45. Navigation KPIs** - Chỉ Số Hiệu Suất Chính Điều Hướng
+#### **44. Navigation KPIs** - Chỉ Số Hiệu Suất Chính Điều Hướng
 
 Các chỉ số quan trọng để đánh giá hiệu quả điều hướng.
 
@@ -10165,7 +10154,7 @@ Các chỉ số quan trọng để đánh giá hiệu quả điều hướng.
 
 → **Liên kết:** NAVIGATION (Strategic Management), VALIDATION (Performance Assessment)
 
-#### **46. Waypoint Metrics** - Chỉ Số Điểm Đến
+#### **45. Waypoint Metrics** - Chỉ Số Điểm Đến
 
 Các chỉ số đánh giá tiến độ tại các điểm kiểm tra trung gian.
 
@@ -10176,7 +10165,7 @@ Các chỉ số đánh giá tiến độ tại các điểm kiểm tra trung gia
 
 → **Liên kết:** NAVIGATION (Waypoint System), VALIDATION (Milestone Assessment)
 
-#### **47. Course Efficiency** - Hiệu Quả Hành Trình
+#### **46. Course Efficiency** - Hiệu Quả Hành Trình
 
 Đo lường mức độ hiệu quả của đường đi được chọn.
 
@@ -10187,7 +10176,7 @@ Các chỉ số đánh giá tiến độ tại các điểm kiểm tra trung gia
 
 → **Liên kết:** NAVIGATION (Route Optimization), OPERATIONS (Efficiency)
 
-#### **48. Navigation ROI** - Lợi Nhuận Đầu Tư Điều Hướng
+#### **47. Navigation ROI** - Lợi Nhuận Đầu Tư Điều Hướng
 
 Đánh giá lợi nhuận từ các quyết định và nỗ lực điều hướng.
 
@@ -10198,7 +10187,7 @@ Các chỉ số đánh giá tiến độ tại các điểm kiểm tra trung gia
 
 → **Liên kết:** VALIDATION (ROI Analysis), NAVIGATION (Strategic Value)
 
-#### **49. Applied Decision Domains** - Các Lĩnh Vực Quyết Định Ứng Dụng
+#### **48. Applied Decision Domains** - Các Lĩnh Vực Quyết Định Ứng Dụng
 
 Bộ sưu tập các lĩnh vực chuyên ngành áp dụng khung ra quyết định.
 
@@ -10214,7 +10203,7 @@ Bộ sưu tập các lĩnh vực chuyên ngành áp dụng khung ra quyết đ�
 
 → **Liên kết:** OPERATIONS (Domain Expertise), FOUNDATIONS (Wisdom Traditions)
 
-#### **50. Karma** - Nghiệp (Hành Động & Hệ Quả)
+#### **49. Karma** - Nghiệp (Hành Động & Hệ Quả)
 
 Nguyên lý về hành động và hệ quả trong triết học Đông phương.
 
@@ -10225,7 +10214,7 @@ Nguyên lý về hành động và hệ quả trong triết học Đông phươn
 
 → **Liên kết:** FOUNDATIONS (Karma), OPERATIONS (Causal Reasoning)
 
-#### **51. Morphogenetic Fields** - Trường Hình Thái
+#### **50. Morphogenetic Fields** - Trường Hình Thái
 
 Giả thuyết về các trường ảnh hưởng đến sự phát triển hình thái và hành vi.
 
@@ -10236,7 +10225,7 @@ Giả thuyết về các trường ảnh hưởng đến sự phát triển hìn
 
 → **Liên kết:** FOUNDATIONS (Primordial Principles), DYNAMICS (Field Effects)
 
-#### **52. Adaptation Algorithms** - Thuật Toán Thích Ứng
+#### **51. Adaptation Algorithms** - Thuật Toán Thích Ứng
 
 Các quy trình có hệ thống để thích ứng với thay đổi.
 
@@ -10247,7 +10236,7 @@ Các quy trình có hệ thống để thích ứng với thay đổi.
 
 → **Liên kết:** DYNAMICS (Adaptation), OPERATIONS (Algorithms)
 
-#### **53. Creation** - Sáng Tạo
+#### **52. Creation** - Sáng Tạo
 
 Nguyên lý cơ bản về việc tạo ra cái mới từ tiềm năng.
 
@@ -14461,16 +14450,39 @@ Nguyên tắc chiến lược về bảo vệ và duy trì các tài nguyên qua
 → **Khuếch đại:** AMPLIFICATION (Sustainable Scaling)
 → **Tích hợp:** INTEGRATION (System Coherence)
 
-#### **19. Investment Wisdom** - Trí Tuệ Đầu Tư
+#### **19. Investment Wisdom - Trí Tuệ Đầu Tư** [Phân Bổ Tài Nguyên Chiến Lược]
 
-Nguyên tắc và thực hành để phân bổ nguồn lực để tạo ra lợi nhuận.
+Nghệ thuật và khoa học về phân bổ nguồn lực khan hiếm (thời gian, tiền bạc, năng lượng, chú ý) để tạo ra lợi nhuận tối ưu trong dài hạn. Đây là trí tuệ cốt lõi của quản lý tài nguyên chiến lược - biết ĐẦU TƯ vào đâu, bao nhiêu, và khi nào.
 
-- **Strategic Allocation**: Phân bổ chiến lược.
-- **Return Optimization**: Tối ưu hóa lợi nhuận.
-- **Risk-Reward Balance**: Cân bằng rủi ro-lợi nhuận.
-- **Patient Capital**: Vốn kiên nhẫn.
+**Nguyên Tắc Phân Bổ:**
+- **Strategic Allocation**: Phân bổ chiến lược dựa trên tiềm năng dài hạn
+- **Portfolio Thinking**: Đa dạng hóa để cân bằng rủi ro-lợi nhuận
+- **Return Optimization**: Tối ưu hóa lợi nhuận trên mọi loại tài nguyên
+- **Patient Capital**: Vốn kiên nhẫn - cho phép thời gian để giá trị kết tinh
 
-→ **Liên kết:** OPERATIONS (Investment Strategy), VALIDATION (Return Analysis).
+**Triết Lý Đầu Tư:**
+- **Value Investing**: Đầu tư giá trị - tìm kiếm giá trị nội tại vượt giá thị trường
+- **Long-Term Perspective**: Tầm nhìn dài hạn vượt qua nhiễu ngắn hạn
+- **Compound Growth**: Tận dụng sức mạnh tăng trưởng kép theo thời gian
+- **Risk Management**: Quản lý rủi ro thông qua hiểu biết sâu và đa dạng hóa
+
+**Các Chiều Kích của Investment:**
+- **Financial Capital**: Đầu tư tài chính - tiền bạc, tài sản
+- **Human Capital**: Đầu tư con người - kỹ năng, tri thức, sức khỏe
+- **Social Capital**: Đầu tư xã hội - mối quan hệ, danh tiếng
+- **Attention Capital**: Đầu tư chú ý - tài nguyên khan hiếm nhất thời đại
+
+→ **Liên kết nội bộ:**
+  • OPERATIONS (ROI Thinking, Cost-Benefit Analysis)
+  • VALIDATION (Risk Assessment, Return Analysis)
+  • AMPLIFICATION (Compound Effects, Exponential Growth)
+  • FOUNDATIONS (Time Preference, Delayed Gratification)
+
+→ **Ứng dụng thực tế:**
+  • Portfolio allocation trong đầu tư tài chính
+  • Career choices và skill development
+  • Time allocation và priority management
+  • Relationship investment và network building
 
 #### **20. Risk Matrix** - Ma Trận Rủi Ro
 
