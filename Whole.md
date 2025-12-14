@@ -598,21 +598,21 @@ Một phương pháp tiếp cận để hiểu cách các thành phần trong m�
 
 → **Liên kết:** DYNAMICS, NAVIGATION
 
-#### **3. Network Thinking - Tư Duy Mạng Lưới** [Nguyên Lý Nền Tảng]
+#### **3. Network Thinking - Tư Duy Mạng Lưới** [Nguyên Lý Cơ Bản]
 
-ĐỊNH LUẬT PHỔ QUÁT về cấu trúc mạng lưới - một nguyên lý cơ bản chi phối cách các thực thể kết nối và tương tác trong tự nhiên, xã hội, và tư duy. Đây là KHUNG LÝ THUYẾT để hiểu bản chất của mọi hệ thống phức tạp.
+Nguyên lý phổ quát về cách nhìn thế giới như một mạng lưới các nút (nodes) và kết nối (edges), thay vì các thực thể độc lập. Đây là NỀN TẢNG LÝ THUYẾT từ toán học (Graph Theory) và vật lý (Network Science) cho mọi ứng dụng network thinking ở các domain khác.
 
-- **Nodes & Links**: NGUYÊN TẮC CƠ BẢN - thực thể và mối quan hệ
-- **Hubs & Centrality**: ĐỊNH LUẬT tập trung quyền lực trong mạng
-- **Network Topology**: CÁC CẤU TRÚC PHỔ QUÁT của mạng lưới
-- **Network Effects**: QUY LUẬT giá trị tăng theo kết nối (Metcalfe's Law)
+- **Graph Theory**: Lý thuyết đồ thị toán học - nền tảng formal về nodes & edges, directed/undirected graphs, weighted networks
+- **Network Properties**: Các thuộc tính mạng - centrality measures, clustering coefficient, path length, network density
+- **Network Models**: Các mô hình mạng - random graphs, scale-free networks, small-world networks, preferential attachment
+- **Mathematical Foundations**: Cơ sở toán học cho phân tích mạng - adjacency matrices, network metrics, topology principles
 
-→ **Liên kết nội bộ:** AMPLIFICATION (Network Effects), INTEGRATION (Systemic Integration)
+→ **Liên kết nội bộ:** Là nền tảng cho mọi ứng dụng network trong hệ thống - DYNAMICS (Feedback Loops), INTEGRATION (Systemic Integration)
 
 → **Xuất hiện ở các domain khác:**
-  • INTEGRATION #33 (công cụ xây dựng mạch lạc)
-  • META #6 (lăng kính nhận dạng mẫu hình)
-  • AMPLIFICATION (Network Effects - ứng dụng trong khuếch đại)
+  • INTEGRATION #33 (ứng dụng trong xây dựng sự mạch lạc và tích hợp hệ thống)
+  • META LAYER #6 (nhận dạng mẫu hình mạng lưới xuyên domain)
+  • AMPLIFICATION (Network Effects - khuếch đại giá trị)
 
 📚 Đây là LÝ THUYẾT TOÁN HỌC và QUY LUẬT TỰ NHIÊN - nền tảng cho mọi ứng dụng Network Thinking ở các domain khác.
 
@@ -16606,20 +16606,20 @@ Khả năng tạo và duy trì sự mạch lạc trong các trường năng lư�
 
 #### **33. Network Thinking - Tư Duy Mạng Lưới** [Công Cụ Tích Hợp]
 
-PHƯƠNG PHÁP TƯ DUY nhìn mọi thứ như các node và mối quan hệ trong mạng lưới. Khác với nguyên lý lý thuyết ở FOUNDATIONS, đây là CÔNG CỤ THỰC HÀNH để xây dựng sự mạch lạc và tích hợp hệ thống thông qua việc lập bản đồ kết nối.
+Phương pháp nhìn và xây dựng hệ thống dựa trên QUAN HỆ và KẾT NỐI, thay vì chỉ tập trung vào các thành phần riêng lẻ. Khác với lý thuyết nền tảng ở FOUNDATIONS, đây là CÔNG CỤ THỰC HÀNH để tích hợp, kết nối và xây dựng sự mạch lạc cho các hệ thống phức tạp.
 
-- **Relational View**: TẬP TRUNG vào kết nối, không chỉ thực thể
-- **Systemic Understanding**: HIỂU cách tác động lan truyền qua mạng
-- **Connection Mapping**: LẬP BẢN ĐỒ trực quan các mối quan hệ
-- **Network Effects**: ỨNG DỤNG hiệu ứng mạng vào tích hợp
+- **Relational View**: Góc nhìn quan hệ - VALUE ở KẾT NỐI, không chỉ ở thực thể riêng lẻ
+- **Systemic Understanding**: Hiểu biết hệ thống - tác động LAN TRUYỀN qua mạng, hiệu ứng ripple effects
+- **Connection Mapping**: Lập bản đồ kết nối - VISUALIZE các mối quan hệ để thấy cấu trúc tổng thể
+- **Network Effects Application**: Ứng dụng hiệu ứng mạng - giá trị TĂNG theo số lượng kết nối (Metcalfe's Law in practice)
 
-→ **Liên kết nội bộ:** AMPLIFICATION (Network Effects)
+→ **Liên kết nội bộ:** AMPLIFICATION (Network Effects - khuếch đại giá trị)
 
-→ **Gốc lý thuyết:** FOUNDATIONS #3 (Network Thinking - nguyên lý phổ quát)
+→ **Gốc lý thuyết:** FOUNDATIONS #3 (Network Thinking - nguyên lý cơ bản từ Graph Theory)
 
-→ **Meta-nhận thức:** META #6 (Network Thinking - công cụ nhận dạng mẫu hình)
+→ **Meta-nhận thức:** META LAYER #6 (Network Thinking - nhận dạng patterns mạng lưới)
 
-→ **Khuếch đại:** AMPLIFICATION (Network Effects - ứng dụng trong tăng trưởng)
+→ **Ứng dụng thực hành:** Xây dựng coherence, tích hợp knowledge, collaborative intelligence, systemic design
 
 🔧 Đây là PHƯƠNG PHÁP LÀM VIỆC - cách áp dụng nguyên lý mạng lưới để xây dựng coherence và tích hợp knowledge từ nhiều nguồn.
 
@@ -27867,22 +27867,22 @@ Kỹ năng META-NHẬN THỨC để chủ động phát hiện và áp dụng c�
 - Recursive algorithm practice
 - Multi-scale mapping exercises
 
-#### **6. Network Thinking - Tư Duy Mạng Lưới** [Lăng Kính Meta-Nhận Thức]
+#### **6. Network Thinking - Tư Duy Mạng Lưới** [Meta-Nhận Diện Mẫu Hình]
 
-CÔNG CỤ META-NHẬN THỨC để nhìn thấy mọi thứ như mạng lưới các mẫu hình. Khác với nguyên lý ở FOUNDATIONS và công cụ tích hợp ở INTEGRATION, đây là về NHẬN DẠNG CẤU TRÚC MẠNG LƯỚI xuyên suốt các domain và các cấp độ tư duy.
+Khả năng META-QUAN SÁT và NHẬN DIỆN các cấu trúc mạng lưới, patterns và dynamics XUYÊN CÁC DOMAIN. Khác với lý thuyết ở FOUNDATIONS và ứng dụng tích hợp ở INTEGRATION, đây là về NHÌN THẤY - khả năng quan sát, phân tích và nhận dạng các mẫu hình mạng ở mọi cấp độ của hệ thống.
 
-- **Node & Edge Recognition**: PHÁT HIỆN các điểm và cạnh trong mẫu hình
-- **Hub Identification**: XÁC ĐỊNH các trung tâm quan trọng xuyên domain
-- **Network Topology**: NHẬN RA cấu trúc tổng thể của mạng tri thức
-- **Flow Patterns**: QUAN SÁT dòng chảy thông tin và năng lượng
+- **Node & Edge Recognition**: Nhận diện nút-cạnh - THẤY cấu trúc cơ bản của mạng trong mọi ngữ cảnh
+- **Hub Identification**: Xác định trung tâm - PHÁT HIỆN điểm quan trọng, influential nodes xuyên domain
+- **Network Topology Analysis**: Phân tích topo - HIỂU hình dạng tổng thể (star, mesh, hierarchical, distributed)
+- **Flow Patterns Detection**: Phát hiện dòng chảy - THEO DÕI động lực mạng, information flow, energy transfer
 
-→ **Liên kết nội bộ:** AMPLIFICATION (Network Effects)
+→ **Liên kết nội bộ:** Quan sát patterns xuyên các domain khác
 
-→ **Gốc lý thuyết:** FOUNDATIONS #3 (Network Thinking - định luật phổ quát)
+→ **Gốc lý thuyết:** FOUNDATIONS #3 (Network Thinking - nền tảng formal từ Graph Theory)
 
-→ **Công cụ thực hành:** INTEGRATION #33 (Network Thinking - phương pháp tích hợp)
+→ **Ứng dụng thực hành:** INTEGRATION #33 (Network Thinking - xây dựng kết nối và mạch lạc)
 
-→ **Ứng dụng:** Nhận ra cấu trúc mạng trong MỌI KHÁI NIỆM và MỐI QUAN HỆ
+→ **Khuếch đại:** AMPLIFICATION (Network Effects, Viral Mechanics - quan sát cơ chế lan truyền)
 
 🔍 Đây là THẤU KÍNH META - dùng cấu trúc mạng lưới như công cụ để nhận dạng patterns và connections xuyên suốt toàn bộ framework.
 
