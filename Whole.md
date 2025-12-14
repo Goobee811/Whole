@@ -17306,16 +17306,16 @@ Xác định và lập bản đồ các nghịch lý trong hệ thống.
 
 ---
 
-#### **36. Dialectical Transcendence** - Vượt Qua Biện Chứng
+#### **36. Dialectical Transcendence** - Vượt Qua Biện Chứng [Công Cụ Kết Nối]
 
-Vượt qua nghịch lý thông qua tổng hợp biện chứng.
+PHƯƠNG PHÁP THỰC HÀNH để vượt qua nghịch lý giữa các mô thức khác nhau thông qua tổng hợp biện chứng. Đây là CÔNG CỤ để kết nối xuyên paradigm - không chỉ dừng lại ở việc tạo ra "Hợp đề" mà tìm kiếm sự thống nhất ở cấp độ cao hơn nơi mâu thuẫn tan biến.
 
-- **Thesis-Antithesis Resolution**: Giải quyết luận đề-phản đề; tìm tổng hợp.
-- **Synthesis Evolution**: Tiến hóa tổng hợp; cấp độ cao hơn.
-- **Spiral Development**: Phát triển xoắn ốc; không trở lại mà tiến lên.
-- **Integration Leap**: Bước nhảy tích hợp; vượt qua mâu thuẫn.
+- **Thesis-Antithesis Resolution**: Giải quyết luận đề-phản đề ở CẤP ỨNG DỤNG.
+- **Synthesis Evolution**: Tiến hóa tổng hợp - tạo CẦU NỐI giữa các mô thức.
+- **Spiral Development**: Phát triển xoắn ốc - PHƯƠNG PHÁP tích hợp tiến bộ.
+- **Integration Leap**: Bước nhảy tích hợp - CÔNG CỤ vượt qua mâu thuẫn.
 
-→ **Liên kết:** KNOWLEDGE SYNTHESIS (Dialectical Thinking), TRANSCENDENCE (Evolution).
+→ **Liên kết:** KNOWLEDGE SYNTHESIS (Dialectical Thinking), TRANSCENDENCE (Evolution, Paradox Mastery, Both/And Thinking), META LAYER #25 (tiến hóa framework).
 
 ---
 
@@ -29091,16 +29091,16 @@ Quá trình nhận diện, làm rõ và hài hòa các hệ thống giá trị k
 
 → **Liên kết:** FOUNDATIONS (Wisdom Traditions), NAVIGATION (Guiding Principles).
 
-#### **25. Dialectical Transcendence** - Siêu Việt Biện Chứng
+#### **25. Dialectical Transcendence** - Siêu Việt Biện Chứng [Tiến Hóa Framework]
 
-Vượt qua cặp đối lập Chính đề-Phản đề không chỉ bằng một Hợp đề, mà bằng một cấp độ nhận thức mới làm tan biến mâu thuẫn.
+NGUYÊN LÝ TIẾN HÓA cho phép framework tư duy tự nâng cấp lên cấp độ cao hơn. Khác với công cụ thực hành ở INTEGRATION, đây là về SỰ TIẾN HÓA FRAMEWORK - khi hệ thống tư duy vượt qua các giới hạn của chính nó, không qua "Hợp đề" đơn thuần mà qua SỰ THAY ĐỔI CẤP ĐỘ Ý THỨC.
 
-- **Beyond Synthesis**: Vượt ra ngoài sự tổng hợp đơn thuần.
-- **Level of Consciousness Shift**: Một sự thay đổi về cấp độ ý thức.
-- **Paradox Dissolution**: Sự hòa tan của nghịch lý khi nhìn từ cấp độ cao hơn.
-- **Evolutionary Leap**: Bước nhảy tiến hóa trong tư duy.
+- **Beyond Synthesis**: Vượt ra ngoài tổng hợp - TIẾN HÓA không phải chỉ là tổng hợp.
+- **Level of Consciousness Shift**: Thay đổi cấp độ ý thức - FRAMEWORK tự nâng cấp.
+- **Paradox Dissolution**: Hòa tan nghịch lý - NGUYÊN LÝ làm tan biến mâu thuẫn.
+- **Evolutionary Leap**: Bước nhảy tiến hóa - CƠ CHẾ framework tự vượt thoát.
 
-→ **Liên kết:** TRANSCENDENCE (Paradox Mastery), DYNAMICS (Transformation).
+→ **Liên kết:** TRANSCENDENCE (Paradox Mastery), DYNAMICS (Transformation), INTEGRATION #36 (ứng dụng thực hành).
 
 #### **26. Meta-Integration Framework** - Khung Siêu Tích Hợp
 
