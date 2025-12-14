@@ -10178,16 +10178,12 @@ Các chỉ số đánh giá tiến độ tại các điểm kiểm tra trung gia
 
 → **Liên kết:** NAVIGATION (Route Optimization), OPERATIONS (Efficiency)
 
-#### **47. Navigation ROI** - Lợi Nhuận Đầu Tư Điều Hướng
+#### **47. [CROSS-REFERENCE → NAVIGATION #40]** - Navigation ROI
 
-Đánh giá lợi nhuận từ các quyết định và nỗ lực điều hướng.
+Để đánh giá ROI của các quyết định điều hướng, xem:
+→ **NAVIGATION #40: Navigation ROI - Lợi Nhuận Đầu Tư Điều Hướng**
 
-- **Value Return**: Giá trị thu về.
-- **Investment Assessment**: Đánh giá đầu tư.
-- **Benefit-Cost Ratio**: Tỷ lệ lợi ích-chi phí.
-- **Strategic Value**: Giá trị chiến lược.
-
-→ **Liên kết:** VALIDATION (ROI Analysis), NAVIGATION (Strategic Value)
+Khái niệm này được đặt tại NAVIGATION vì đó là domain tự nhiên cho việc quản lý và đo lường hiệu quả của hoạt động điều hướng chiến lược
 
 #### **48. Applied Decision Domains** - Các Lĩnh Vực Quyết Định Ứng Dụng
 
@@ -14729,14 +14725,18 @@ Phát triển góc nhìn độc nhất mà không ai khác có thể cung cấp.
 
 #### **40. Navigation ROI** - Lợi Nhuận Đầu Tư Điều Hướng
 
-Đo lường lợi nhuận từ các nỗ lực điều hướng và chiến lược.
+Đo lường và tối ưu hóa lợi nhuận từ các quyết định, nỗ lực và nguồn lực được đầu tư vào hoạt động điều hướng chiến lược. Khái niệm này giúp đánh giá hiệu quả của việc phân bổ tài nguyên cho các hoạt động lập kế hoạch, ra quyết định và điều hướng.
 
-- **Strategic Return**: Lợi nhuận chiến lược.
-- **Navigation Efficiency**: Hiệu quả điều hướng.
-- **Investment Measurement**: Đo lường đầu tư.
-- **Value Attribution**: Gán giá trị cho hoạt động điều hướng.
+- **Strategic Return**: Lợi nhuận chiến lược - giá trị dài hạn từ quyết định điều hướng.
+- **Navigation Efficiency**: Hiệu quả điều hướng - tỷ lệ giữa kết quả và nguồn lực đầu tư.
+- **Investment Measurement**: Đo lường đầu tư - định lượng chi phí và lợi ích.
+- **Value Attribution**: Gán giá trị - xác định đóng góp cụ thể của hoạt động điều hướng.
+- **Benefit-Cost Analysis**: Phân tích lợi ích-chi phí cho quyết định điều hướng.
+- **Decision ROI**: ROI của từng quyết định điều hướng cụ thể.
 
-→ **Liên kết:** VALIDATION (Performance Measurement), OPERATIONS (ROI Analysis).
+→ **Liên kết:** VALIDATION (Performance Measurement, ROI Analysis), OPERATIONS (Decision Frameworks - áp dụng trong phân tích quyết định), NAVIGATION (Resource Management, Strategic Value).
+
+→ **Ứng dụng:** Đánh giá hiệu quả của hệ thống điều hướng; tối ưu hóa phân bổ tài nguyên cho hoạt động chiến lược; đo lường giá trị của các quyết định điều hướng; cải thiện quy trình ra quyết định dựa trên dữ liệu ROI.
 
 #### **41. Bezos' Reversibility Razor** - Dao Cạo Khả Đảo Ngược của Bezos
 
