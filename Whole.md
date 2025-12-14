@@ -12894,16 +12894,18 @@ Tạo không gian thiền định trong thực tế ảo.
 
 → **Liên kết:** DYNAMICS (Consciousness Tech), AMPLIFICATION (Immersion)
 
-#### **41. Meta-Creative Practice** - Thực Hành Siêu Sáng Tạo
+#### **41. Meta-Creative Practice** - Thực Hành Siêu Sáng Tạo **[Nghệ Thuật Phản Chiếu]**
 
-Sáng tạo về chính quá trình sáng tạo.
+Nghệ thuật và thực hành sáng tạo VỀ CHÍNH SỰ SÁNG TẠO - khi quá trình sáng tạo trở thành chủ đề của tác phẩm. Khác với việc thiết kế hệ thống sáng tạo (INTEGRATION), đây là về BIỂU ĐẠT NGHỆ THUẬT có tính tự quy chiếu.
 
-- **Recursive Creation**: Sáng tạo đệ quy
-- **Self-Referential Art**: Nghệ thuật tự quy chiếu
-- **Creative Evolution**: Tiến hóa sáng tạo
-- **Process as Product**: Quá trình như sản phẩm
+- **Recursive Creation**: Sáng tạo đệ quy - nghệ thuật về nghệ thuật (ví dụ: phim về làm phim, nhạc về sáng tác nhạc)
+- **Self-Referential Art**: Nghệ thuật tự quy chiếu - tác phẩm nói về chính nó (ví dụ: "This is not a pipe" của Magritte)
+- **Creative Evolution**: Tiến hóa sáng tạo - theo dõi sự phát triển của ý tưởng qua thời gian
+- **Process as Product**: Quá trình như sản phẩm - khoe quá trình, không chỉ kết quả (ví dụ: time-lapse painting, making-of documentaries)
 
 → **Liên kết:** [META] LAYER (Meta-Cognition), TRANSCENDENCE (Recursion)
+→ **Phiên bản khác:** INTEGRATION #44 (thiết kế HỆ THỐNG sáng tạo, không phải TÁC PHẨM)
+→ **Ví dụ thực tế:** "Adaptation" (phim về viết kịch bản phim), Jackson Pollock's action painting (quá trình = tác phẩm), Meta-theater (kịch về diễn kịch)
 
 #### **42. Structured Water Creation** - Tạo Nước Có Cấu Trúc
 
@@ -18960,16 +18962,18 @@ Trở thành bậc thầy của quá trình tích hợp.
 
 ---
 
-#### **44. Meta-Creative Practice** - Thực Hành Siêu Sáng Tạo
+#### **44. Meta-Creative Practice** - Thực Hành Siêu Sáng Tạo **[Kiến Trúc Hệ Thống]**
 
-Sáng tạo ở cấp độ siêu - tạo ra các hệ thống sáng tạo.
+Thiết kế các HỆ THỐNG, CẤU TRÚC và MÔI TRƯỜNG để TẠO ĐIỀU KIỆN cho sự sáng tạo xảy ra - sáng tạo ở cấp độ kiến trúc. Khác với việc tạo tác phẩm nghệ thuật về sáng tạo (CREATION), đây là về XÂY DỰNG FRAMEWORK và VĂN HÓA.
 
-- **System Creation**: Tạo hệ thống; thiết kế quy trình sáng tạo.
-- **Meta-Level Design**: Thiết kế cấp siêu; tạo framework cho sáng tạo.
-- **Creative Architecture**: Kiến trúc sáng tạo; cấu trúc cho đổi mới.
-- **Innovation Systems**: Hệ thống đổi mới; tạo môi trường cho sáng tạo.
+- **System Creation**: Tạo hệ thống - thiết kế quy trình sáng tạo có thể lặp lại (ví dụ: Design Sprint của Google, IDEO method cards)
+- **Meta-Level Design**: Thiết kế cấp siêu - tạo framework cho framework (ví dụ: Agile về phát triển phần mềm, SCRUM về quản lý dự án)
+- **Creative Architecture**: Kiến trúc sáng tạo - cấu trúc tổ chức đổi mới (ví dụ: Google's 20% time, Pixar's Braintrust)
+- **Innovation Systems**: Hệ thống đổi mới - tạo môi trường để ý tưởng sinh sôi (ví dụ: Innovation labs, Hackathons, Incubators)
 
-→ **Liên kết:** CREATION (Meta-Creation), META-LAYER (Meta-Design).
+→ **Liên kết:** [META] LAYER (Meta-Design), OPERATIONS (System Design)
+→ **Phiên bản khác:** CREATION #41 (nghệ thuật về SÁNG TẠO, không phải hệ thống)
+→ **Ví dụ thực tế:** Design Thinking như một meta-process, Văn hóa đổi mới của Pixar, Cấu trúc tổ chức của IDEO, Framework TRIZ (hệ thống để tạo ra giải pháp sáng tạo)
 
 ---
 
