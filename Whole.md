@@ -10283,17 +10283,12 @@ Một tập hợp các kỹ thuật tư duy để tiếp cận vấn đề từ 
 
 → **Liên kết:** OPERATIONS (là phương pháp thay thế cho suy luận logic), DYNAMICS (kích hoạt tư duy phân kỳ)
 
-#### **2. SCAMPER**
+#### **2. SCAMPER** [→ Xem chi tiết tại Design Thinking]
 
-Một bộ câu hỏi gợi ý để kích thích tư duy về cách cải tiến một sản phẩm hoặc ý tưởng hiện có.
+Bộ câu hỏi gợi ý 7 chiều hướng để kích thích tư duy sáng tạo về cách cải tiến sản phẩm/ý tưởng hiện có. SCAMPER là viết tắt của: **S**ubstitute, **C**ombine, **A**dapt, **M**odify, **P**ut to another use, **E**liminate, **R**everse.
 
-- **Substitute**: Thay thế các thành phần, vật liệu, hoặc quy trình
-- **Combine**: Kết hợp với các ý tưởng, sản phẩm, hoặc dịch vụ khác
-- **Adapt**: Điều chỉnh hoặc thay đổi chức năng để phù hợp với bối cảnh mới
-- **Modify/Magnify/Eliminate**: Thay đổi/Phóng đại/Loại bỏ một thuộc tính hoặc thành phần
-- **Put to another use/Reverse**: Tìm kiếm các ứng dụng mới hoặc đảo ngược quy trình
-
-→ **Liên kết:** OPERATIONS (mang tính phân tích có cấu trúc), INTEGRATION (khuyến khích sự kết hợp)
+→ **Xem mô tả đầy đủ:** CREATION - CHỨC NĂNG 5 (Design Thinking) - Khái niệm #2
+→ **Liên kết:** OPERATIONS (phân tích có cấu trúc), INTEGRATION (khuyến khích kết hợp)
 
 #### **3. Bisociation** - Kết Hợp Xa Lạ
 
@@ -12329,9 +12324,9 @@ Quy trình lấy con người làm trung tâm để giải quyết vấn đề p
 
 ---
 
-#### **2. SCAMPER Framework** - Khung SCAMPER (Chi Tiết Đầy Đủ)
+#### **2. SCAMPER Framework** - Khung SCAMPER [Công Cụ Chính]
 
-Bộ công cụ có cấu trúc để kích thích đổi mới thông qua 7 chiến lược biến đổi - mỗi chữ cái đại diện cho một hướng thay đổi có thể áp dụng.
+Bộ công cụ có cấu trúc để kích thích đổi mới thông qua 7 chiến lược biến đổi - mỗi chữ cái đại diện cho một hướng thay đổi có thể áp dụng. _(Đây là mô tả chi tiết đầy đủ - bản tổng quan ngắn gọn xem tại CHỨC NĂNG 1: Lateral Thinking & Ideation - Khái niệm #2)_
 
 **S - Substitute (Thay Thế):**
 
@@ -12382,7 +12377,8 @@ Bộ công cụ có cấu trúc để kích thích đổi mới thông qua 7 chi
 - **Đảo Vai Trò**: Hoán đổi vai trò của người dùng và nhà cung cấp
 - **Đảo Ngược Giả Định**: Thách thức các giả định cơ bản về cách làm việc
 
-→ **Liên kết:** CREATION (Systematic Innovation), OPERATIONS (Structured Creativity), DYNAMICS (Pattern Breaking)
+→ **Liên kết nội bộ:** CREATION (Systematic Innovation), OPERATIONS (Structured Creativity), DYNAMICS (Pattern Breaking)
+→ **Cũng xuất hiện tại:** CREATION - CHỨC NĂNG 1 (Lateral Thinking) - Khái niệm #2 (bản tổng quan ngắn gọn với tham chiếu đến đây)
 
 ---
 
