@@ -9872,16 +9872,46 @@ Chu trình cải tiến liên tục: Plan-Do-Check-Act (Hoạch định-Thực h
 
 → **Liên kết:** DYNAMICS (Iterative Refinement), VALIDATION (Continuous Improvement)
 
-#### **28. Jobs-to-be-Done** - Công Việc Cần Hoàn Thành
+#### **28. Jobs-to-be-Done Framework - Khung Công Việc Cần Hoàn Thành [Core Tool]**
 
-Khung ra quyết định tập trung vào kết quả và nhu cầu mà người dùng muốn đạt được.
+Framework phân tích tập trung vào CÔNG VIỆC mà khách hàng "thuê" một sản phẩm/dịch vụ để hoàn thành, thay vì tập trung vào đặc tính sản phẩm hay phân khúc khách hàng truyền thống. Đây là CÔNG CỤ TRUNG TÂM được áp dụng xuyên suốt từ phân tích nhu cầu đến đổi mới sản phẩm và thiết kế nền tảng.
 
-- **Outcome Focus**: Tập trung vào kết quả cần đạt.
-- **Needs Analysis**: Phân tích nhu cầu thực sự.
-- **Job Definition**: Định nghĩa "công việc" người dùng muốn hoàn thành.
-- **Solution Design**: Thiết kế giải pháp đáp ứng nhu cầu.
+**CÁC THÀNH PHẦN CỐT LÕI:**
+• **Outcome Focus**: Tập trung vào KẾT QUẢ mà khách hàng muốn đạt được
+• **Needs Analysis**: Phân tích NHU CẦU thực sự (functional, emotional, social)
+• **Job Definition**: Định nghĩa "CÔNG VIỆC" một cách cụ thể và đo lường được
+• **Solution Design**: Thiết kế GIẢI PHÁP đáp ứng đúng công việc cần làm
+• **Progress Making**: Hiểu TIẾN BỘ mà khách hàng muốn đạt được
+• **Constraint Identification**: Xác định các RÀO CẢN ngăn cản sự tiến bộ
 
-→ **Liên kết:** CREATION (Innovation), INTEGRATION (User Understanding)
+**ỨNG DỤNG TRONG CÁC DOMAIN KHÁC:**
+→ CREATION (CHỨC NĂNG 2: Breakthrough Innovation #4):
+  Sử dụng JTBD để tìm kiếm CƠ HỘI ĐỔI MỚI đột phá
+  - Low-End Disruption: Phục vụ công việc bị bỏ qua
+  - New-Market Disruption: Tạo giải pháp cho công việc chưa có
+
+→ AMPLIFICATION (CHỨC NĂNG 5: Platform & Ecosystem #28):
+  Sử dụng JTBD để THIẾT KẾ NỀN TẢNG đa bên
+  - Value Orchestration: Điều phối các công việc của nhiều stakeholder
+  - Ecosystem Enablement: Tạo điều kiện cho nhiều bên hoàn thành công việc
+  - Multi-Stakeholder Balance: Cân bằng công việc của các nhóm khác nhau
+
+→ INTEGRATION (CHỨC NĂNG 3: Communication):
+  Sử dụng JTBD để HIỂU NGƯỜI DÙNG sâu sắc
+  - Empathetic Communication: Giao tiếp dựa trên công việc thực sự
+  - User-Centered Design: Thiết kế từ nhu cầu thực sự
+
+→ VALIDATION (CHỨC NĂNG 1: Reality Testing):
+  Sử dụng JTBD để KIỂM CHỨNG Problem-Solution Fit
+  - Job-Solution Match: Kiểm tra xem giải pháp có giải quyết đúng công việc
+  - Progress Measurement: Đo lường sự tiến bộ của khách hàng
+
+**GỐC LÝ THUYẾT:**
+- Clayton Christensen's Jobs Theory
+- Anthony Ulwick's Outcome-Driven Innovation
+- Alan Klement's Progress-Making Forces
+
+→ **Liên kết:** CREATION #4 (Innovation Application), AMPLIFICATION #28 (Platform Application), INTEGRATION (User Understanding), VALIDATION (Problem-Solution Fit)
 
 #### **29. OKRs (Objectives & Key Results)** - Mục Tiêu & Kết Quả Chính
 
@@ -10841,16 +10871,21 @@ Tạo ra không gian thị trường mới chưa bị tranh chấp thay vì cạ
 
 → **Liên kết:** NAVIGATION (Strategic Planning), AMPLIFICATION (Market Creation)
 
-#### **4. Jobs-to-be-Done Framework**
+#### **4. Jobs-to-be-Done Innovation Application** - Ứng Dụng JTBD Trong Đổi Mới
 
-Tập trung vào công việc mà khách hàng "thuê" một sản phẩm hoặc dịch vụ để hoàn thành.
+Áp dụng framework Jobs-to-be-Done để tìm kiếm cơ hội đổi mới đột phá.
 
-- **Functional Job**: Nhiệm vụ chức năng cần hoàn thành
-- **Emotional & Social Jobs**: Các nhu cầu cảm xúc và xã hội
-- **Progress Making**: Tập trung vào sự tiến bộ mà khách hàng muốn đạt được
-- **Constraint Identification**: Xác định các rào cản ngăn cản sự tiến bộ
+**NGUYÊN TẮC ĐỔI MỚI DỰA TRÊN JTBD:**
+• **Functional Job Innovation**: Đổi mới để hoàn thành công việc chức năng tốt hơn
+• **Emotional & Social Jobs**: Giải quyết nhu cầu cảm xúc và xã hội chưa được đáp ứng
+• **Progress Acceleration**: Tạo giải pháp giúp khách hàng tiến bộ nhanh hơn
+• **Constraint Removal**: Loại bỏ rào cản ngăn khách hàng hoàn thành công việc
+• **Low-End Disruption**: Phục vụ các công việc bị bỏ qua với giải pháp đơn giản hơn
+• **New-Market Disruption**: Tạo giải pháp cho công việc chưa có sản phẩm phù hợp
 
-→ **Liên kết:** INTEGRATION (User Understanding), VALIDATION (Problem-Solution Fit)
+→ **Core Framework:** OPERATIONS #28 (Jobs-to-be-Done Framework - công cụ gốc)
+→ **Liên kết:** VALIDATION (Problem-Solution Fit), INTEGRATION (User Understanding)
+→ **Kết hợp với:** Disruptive Innovation Theory, Blue Ocean Strategy
 
 #### **5. Disruptive Innovation Theory** - Lý Thuyết Đổi Mới Đột Phá
 
@@ -23170,15 +23205,39 @@ Quy trình tập trung, ngắn hạn để giải quyết vấn đề và thử 
 - **User Testing**: Thử nghiệm người dùng.  
     → **Liên kết:** CREATION (Design Process), VALIDATION (Rapid Testing).
 
-#### **28. Jobs-to-be-Done** - Công Việc Cần Hoàn Thành
+#### **28. Jobs-to-be-Done Platform Design** - Thiết Kế Nền Tảng Dựa Trên JTBD
 
-Framework đổi mới tập trung vào nhu cầu thực sự của khách hàng.
+Áp dụng framework Jobs-to-be-Done để thiết kế nền tảng và hệ sinh thái đa bên.
 
-- **Need-Based Innovation**: Đổi mới dựa trên nhu cầu.
-- **Outcome Focus**: Tập trung vào kết quả.
-- **Customer Progress**: Tiến bộ của khách hàng.
-- **Solution Agnostic**: Không thiên vị giải pháp.  
-    → **Liên kết:** OPERATIONS (Customer Research), CREATION (User-Centered Design).
+**NGUYÊN TẮC THIẾT KẾ NỀN TẢNG:**
+• **Multi-Sided Jobs Mapping**: Lập bản đồ công việc của TẤT CẢ các bên liên quan
+  - Supply Side Jobs: Công việc của nhà cung cấp/producer
+  - Demand Side Jobs: Công việc của người mua/consumer
+  - Platform Owner Jobs: Công việc của người điều hành nền tảng
+
+• **Value Orchestration for Jobs**: Điều phối giá trị để hỗ trợ công việc
+  - Enable Job Completion: Tạo điều kiện hoàn thành công việc
+  - Remove Job Barriers: Loại bỏ rào cản trong công việc
+  - Enhance Job Efficiency: Tăng hiệu quả hoàn thành công việc
+
+• **Ecosystem Jobs Architecture**: Kiến trúc công việc trong hệ sinh thái
+  - Complementary Jobs: Công việc bổ sung cho nhau
+  - Job Dependencies: Sự phụ thuộc giữa các công việc
+  - Job Network Effects: Hiệu ứng mạng lưới của công việc
+
+• **Multi-Stakeholder Balance**: Cân bằng công việc của nhiều bên
+  - Fair Value Distribution: Phân phối giá trị công bằng cho tất cả các bên
+  - Jobs Prioritization: Ưu tiên công việc nào được hỗ trợ đầu tiên
+  - Conflict Resolution: Giải quyết xung đột giữa các công việc khác nhau
+
+**VÍ DỤ ỨNG DỤNG:**
+- Uber: Kết nối công việc "đi từ A đến B" với "kiếm tiền bằng xe"
+- Airbnb: Kết nối công việc "tìm chỗ ở độc đáo" với "cho thuê phòng trống"
+- YouTube: Kết nối công việc "giải trí/học tập" với "chia sẻ video"
+
+→ **Core Framework:** OPERATIONS #28 (Jobs-to-be-Done Framework - công cụ gốc)
+→ **Liên kết:** PLATFORM EFFECTS (Platform Building), INTEGRATION (Ecosystem Coordination)
+→ **Kết hợp với:** API Economy, Developer Platform, Marketplace Design
 
 ### **Generative Design (6 mục bổ sung)**
 
