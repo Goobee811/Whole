@@ -10819,14 +10819,19 @@ Sử dụng việc viết như phương tiện kết nối với chiều sâu t�
 
 #### **50. Teaching Artistry** - Nghệ Thuật Giảng Dạy
 
-Biến giảng dạy thành một hình thức nghệ thuật sáng tạo.
+Biến giảng dạy thành một hình thức nghệ thuật sáng tạo - nơi sư phạm không chỉ là truyền đạt tri thức mà là một HÀNH ĐỘNG SÁNG TẠO biến đổi cả người dạy và người học. Kết hợp nghệ thuật, sáng tạo và giáo dục thành một thực hành toàn vẹn.
 
-- **Pedagogy as Creative Act**: Sư phạm như hành động sáng tạo
-- **Creative Education**: Giáo dục sáng tạo
-- **Artistic Instruction**: Hướng dẫn mang tính nghệ thuật
-- **Transformative Teaching**: Giảng dạy biến đổi
+- **Pedagogy as Creative Act**: Sư phạm như hành động sáng tạo - mỗi bài dạy là một tác phẩm
+- **Creative Education**: Giáo dục sáng tạo - phát triển khả năng tư duy sáng tạo
+- **Artistic Instruction**: Hướng dẫn mang tính nghệ thuật - sử dụng nghệ thuật để dạy
+- **Transformative Teaching**: Giảng dạy biến đổi - tạo ra sự thay đổi sâu sắc
+- **Experiential Learning**: Học tập trải nghiệm - học qua hành động và cảm nhận
+- **Embodied Teaching**: Dạy học hiện thân - kết nối thân-tâm trong giảng dạy
 
-→ **Liên kết:** INTEGRATION (Knowledge Transfer), AMPLIFICATION (Impact Multiplication)
+→ **Liên kết nội bộ:** INTEGRATION (Knowledge Transfer), OPERATIONS (Teaching Methods)
+→ **Ứng dụng khuếch đại:** AMPLIFICATION #39 (Teaching & Transmission - lan truyền tri thức)
+→ **Ngữ cảnh hệ sinh thái:** AMPLIFICATION (Platform Building - nền tảng giáo dục)
+→ **Gốc triết lý:** FOUNDATIONS (Contemplative Arts, Embodied Cognition)
 
 ---
 
@@ -23352,8 +23357,9 @@ Quá trình chuyển giao kiến thức và kỹ năng.
 - **Knowledge Transfer**: Chuyển giao kiến thức.
 - **Skill Development**: Phát triển kỹ năng.
 - **Educational Method**: Phương pháp giáo dục.
-- **Legacy Creation**: Tạo ra di sản.  
+- **Legacy Creation**: Tạo ra di sản.
     → **Liên kết:** INTEGRATION (Knowledge Transfer), AMPLIFICATION (Teaching Leverage).
+    → **Phương pháp sáng tạo:** CREATION #50 (Teaching Artistry - nghệ thuật giảng dạy sáng tạo).
 
 #### **40. Lineage & Legacy Work** - Công Việc Dòng Dõi & Di Sản
 
@@ -23374,16 +23380,6 @@ Phục vụ người khác như một con đường tu luyện và phát triển
 - **Selfless Service**: Phục vụ vô tư.
 - **Practice Integration**: Tích hợp thực hành.  
     → **Liên kết:** FOUNDATIONS (Karma Yoga), INTEGRATION (Service).
-
-#### **42. Teaching Artistry** - Nghệ Thuật Sư Phạm
-
-Kết hợp sáng tạo nghệ thuật với giảng dạy.
-
-- **Creative Pedagogy**: Sư phạm sáng tạo.
-- **Artistic Integration**: Tích hợp nghệ thuật.
-- **Experiential Learning**: Học tập trải nghiệm.
-- **Embodied Teaching**: Dạy học hiện thân.  
-    → **Liên kết:** CREATION (Artistic Practice), INTEGRATION (Education & Art).
 
 #### **43. Missionary Traditions** - Truyền Thống Truyền Giáo
 
