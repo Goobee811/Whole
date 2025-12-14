@@ -9348,7 +9348,7 @@ Khác với khái niệm gốc ở META #2, đây là về THỰC HÀNH:
 
 → **Gốc lý thuyết:** META #2 (Meta-Learning - định nghĩa cốt lõi)
 → **Tổng hợp phương pháp:** INTEGRATION #30 (Meta-Learning Protocols)
-→ **Ứng dụng tập thể:** INTEGRATION #61 (Meta-Learning Networks)
+→ **Ứng dụng tập thể:** INTEGRATION #60 (Meta-Learning Networks)
 → **Cross-reference:** OPERATIONS (Spaced Repetition, Active Recall, Chunking, Learning Systems)
 
 #### **25. Interleaving Practice** - Thực Hành Xen Kẽ
@@ -12856,14 +12856,21 @@ Nghệ thuật được tạo ra bởi và cho cộng đồng.
 
 #### **38. Eco-Art & Land Art** - Nghệ Thuật Sinh Thái & Đất Đai
 
-Nghệ thuật tương tác với môi trường và cảnh quan.
+Hình thức nghệ thuật tương tác trực tiếp với môi trường tự nhiên và cảnh quan, vừa là QUÁ TRÌNH SÁNG TẠO vừa là PHƯƠNG TIỆN GIAO TIẾP về ý thức sinh thái. Nghệ sĩ sử dụng chính thiên nhiên - đất, đá, cây, nước - như vật liệu và không gian tác phẩm, tạo ra các tác phẩm thường mang tính tạm thời và thay đổi theo thời gian.
 
-- **Environmental Integration**: Tích hợp môi trường
-- **Nature as Canvas**: Thiên nhiên như canvas
-- **Ecological Awareness**: Nhận thức sinh thái
-- **Earth-Based Art**: Nghệ thuật dựa trên đất
+- **Environmental Integration**: Tích hợp môi trường - nghệ thuật và tự nhiên hòa quyện.
+- **Nature as Canvas & Medium**: Thiên nhiên vừa là canvas, vừa là nguyên liệu sáng tạo.
+- **Ecological Awareness Communication**: Giao tiếp nhận thức sinh thái qua tác phẩm.
+- **Earth-Based Creation**: Sáng tạo dựa trên đất đai, thường không vĩnh cửu.
+- **Site-Specific Expression**: Biểu đạt gắn liền với địa điểm cụ thể.
+- **Temporal Art**: Nghệ thuật thay đổi theo thời gian và thời tiết.
 
-→ **Liên kết:** FOUNDATIONS (Ecological Principles), INTEGRATION (Nature Connection)
+→ **Liên kết:** FOUNDATIONS (Ecological Principles, Natural Principles), INTEGRATION (Nature Connection, Environmental Awareness)
+→ **Các ví dụ nổi tiếng:**
+  • Robert Smithson - *Spiral Jetty* (1970)
+  • Andy Goldsworthy - Ephemeral natural sculptures
+  • James Turrell - *Roden Crater*
+  • Christo & Jeanne-Claude - Wrapped landscapes
 
 #### **39. Digital Sacred Art** - Nghệ Thuật Thiêng Liêng Kỹ Thuật Số
 
@@ -15788,7 +15795,7 @@ Khác với framework đơn lẻ ở OPERATIONS #24, đây là về TÍCH HỢP:
 
 → **Gốc lý thuyết:** META #2 (Meta-Learning - khái niệm gốc)
 → **Công cụ cơ bản:** OPERATIONS #24 (Meta-Learning Frameworks)
-→ **Mở rộng mạng lưới:** INTEGRATION #61 (Meta-Learning Networks)
+→ **Mở rộng mạng lưới:** INTEGRATION #60 (Meta-Learning Networks)
 → **Cross-reference:** INTEGRATION (Knowledge Synthesis, Pattern Synthesis)
 → **Liên kết:** AMPLIFICATION (Learning Acceleration)
 
@@ -19089,20 +19096,7 @@ Biểu đạt sáng tạo phản ánh toàn bộ trong mỗi phần.
 
 ---
 
-#### **54. Eco-Art & Land Art** - Nghệ Thuật Sinh Thái & Nghệ Thuật Đất
-
-Nghệ thuật tương tác với tự nhiên và môi trường.
-
-- **Nature Integration**: Tích hợp tự nhiên; nghệ thuật và tự nhiên là một.
-- **Environmental Expression**: Biểu đạt môi trường; tự nhiên như phương tiện.
-- **Landscape Art**: Nghệ thuật cảnh quan; tạo tác trong môi trường.
-- **Ecological Consciousness**: Ý thức sinh thái; nghệ thuật nâng cao nhận thức.
-
-→ **Liên kết:** CREATION (Environmental Art), FOUNDATIONS (Nature).
-
----
-
-#### **55. Healing Arts Integration** - Tích Hợp Nghệ Thuật Chữa Lành
+#### **54. Healing Arts Integration** - Tích Hợp Nghệ Thuật Chữa Lành
 
 Sử dụng nghệ thuật cho mục đích chữa lành.
 
@@ -19115,7 +19109,7 @@ Sử dụng nghệ thuật cho mục đích chữa lành.
 
 ---
 
-#### **56. Narrative Therapy** - Liệu Pháp Tường Thuật
+#### **55. Narrative Therapy** - Liệu Pháp Tường Thuật
 
 Chữa lành bằng cách xây dựng lại câu chuyện cuộc đời.
 
@@ -19128,7 +19122,7 @@ Chữa lành bằng cách xây dựng lại câu chuyện cuộc đời.
 
 ---
 
-#### **57. Integrative Energy Medicine** - Y Học Năng Lượng Tích Hợp
+#### **56. Integrative Energy Medicine** - Y Học Năng Lượng Tích Hợp
 
 Chữa lành bằng cách làm việc với năng lượng cơ thể.
 
@@ -19143,7 +19137,7 @@ Chữa lành bằng cách làm việc với năng lượng cơ thể.
 
 ### **Nhóm Value Creation - Tạo Giá Trị (4 mục mới)**
 
-#### **58. Value Stacking** - Xếp Chồng Giá Trị
+#### **57. Value Stacking** - Xếp Chồng Giá Trị
 
 Tạo ra nhiều lớp giá trị cùng lúc.
 
@@ -19156,7 +19150,7 @@ Tạo ra nhiều lớp giá trị cùng lúc.
 
 ---
 
-#### **59. Transformation Value** - Giá Trị Chuyển Hóa
+#### **58. Transformation Value** - Giá Trị Chuyển Hóa
 
 Giá trị tạo ra từ sự thay đổi và tiến hóa.
 
@@ -19169,7 +19163,7 @@ Giá trị tạo ra từ sự thay đổi và tiến hóa.
 
 ---
 
-#### **60. Innovation Intersections** - Giao Điểm Đổi Mới
+#### **59. Innovation Intersections** - Giao Điểm Đổi Mới
 
 Giá trị tạo ra tại các giao điểm của các lĩnh vực.
 
@@ -19182,7 +19176,7 @@ Giá trị tạo ra tại các giao điểm của các lĩnh vực.
 
 ---
 
-#### **61. Meta-Learning Networks - Mạng Siêu Học** [Học Tập Tập Thể & Khuếch Đại]
+#### **60. Meta-Learning Networks - Mạng Siêu Học** [Học Tập Tập Thể & Khuếch Đại]
 
 MẠNG LƯỚI học tập nơi nhiều người cùng học cách học tốt hơn - tạo ra HIỆU ỨNG MẠNG và khuếch đại exponential. Không chỉ học một mình mà HỌC CÙNG NHAU về việc học.
 
@@ -26872,7 +26866,7 @@ Meta-Learning là nhận thức rằng:
 → **Biểu hiện trong thực hành:**
   • OPERATIONS #24 (Meta-Learning Frameworks - cấu trúc hóa)
   • INTEGRATION #30 (Meta-Learning Protocols - tổng hợp)
-  • INTEGRATION #61 (Meta-Learning Networks - cộng tác)
+  • INTEGRATION #60 (Meta-Learning Networks - cộng tác)
 → **Phát triển nâng cao:**
   • META #16 (Meta-Learning Advanced - tối ưu hóa)
   • META #19 (Meta-Learning from Errors - từ sai lầm)
@@ -28433,7 +28427,7 @@ Khác với tất cả các biến thể trước, đây là về EVOLUTION:
 → **Input từ mọi cấp độ:**
   • OPERATIONS #24 (Meta-Learning Frameworks)
   • INTEGRATION #30 (Meta-Learning Protocols)
-  • INTEGRATION #61 (Meta-Learning Networks)
+  • INTEGRATION #60 (Meta-Learning Networks)
   • META #19 (Meta-Learning from Errors)
   • META #28 (Meta-Learning Algorithms)
 → **Cross-reference:** META (Recursive Self-Improvement, Cognitive Upgrade)
