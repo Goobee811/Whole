@@ -18977,14 +18977,16 @@ Nhận diện và sử dụng các tài năng độc đáo của bản thân.
 
 #### **40. Legacy Integration** - Tích Hợp Di Sản
 
-Sống với nhận thức về di sản để lại.
+Quá trình sống với nhận thức sâu sắc về di sản và tác động lâu dài mà bạn để lại cho thế hệ tương lai. Đây là sự TÍCH HỢP MỤC ĐÍCH - thẳng hàng hành động hiện tại với tầm nhìn liên thế hệ, tạo ra sự liên tục có ý nghĩa từ quá khứ đến tương lai.
 
-- **Impact Awareness**: Nhận thức về tác động; biết ảnh hưởng của mình.
-- **Future Vision**: Tầm nhìn tương lai; muốn để lại gì.
-- **Continuity Creation**: Tạo sự liên tục; nối quá khứ với tương lai.
-- **Meaningful Legacy**: Di sản có ý nghĩa; đóng góp kéo dài.
+- **Impact Awareness** (Nhận Thức Tác Động): Nhận thức sâu sắc về TÁC ĐỘNG lâu dài của hành động hiện tại; hiểu rằng mọi quyết định đều để lại dấu ấn cho thế hệ sau.
+- **Future Vision** (Tầm Nhìn Tương Lai): Tầm nhìn rõ ràng về LEGACY muốn để lại cho thế hệ sau; định hình mục đích sống dựa trên đóng góp liên thế hệ.
+- **Continuity Creation** (Tạo Sự Liên Tục): Tạo SỰ LIÊN TỤC có ý nghĩa - nối quá khứ, hiện tại, tương lai; xây dựng cầu nối giữa các thế hệ.
+- **Meaningful Legacy** (Di Sản Ý Nghĩa): Di sản có GIÁ TRỊ - đóng góp kéo dài qua nhiều thế hệ; tạo ra tác động bền vững vượt qua giới hạn cuộc đời.
 
-→ **Liên kết:** NAVIGATION (Legacy), TRANSCENDENCE (Impact).
+→ **Liên kết:** NAVIGATION (Legacy, Long-term Vision, Seven Generation Stewardship), TRANSCENDENCE (Timeless Impact, Legacy), AMPLIFICATION (Intergenerational Amplification).
+
+→ **Ghi chú:** Khác với "Intergenerational Amplification" (AMPLIFICATION) - khái niệm về CƠ CHẾ KHUẾCH ĐẠI tác động qua thế hệ, Legacy Integration tập trung vào TÍCH HỢP CÁ NHÂN với nhận thức di sản. Khác với "Seven Generation Stewardship" (FOUNDATIONS) - nguyên tắc đưa ra quyết định, đây là QUÁ TRÌNH sống với nhận thức đó.
 
 ---
 
@@ -23022,15 +23024,18 @@ Các phương pháp không chỉ duy trì mà còn cải thiện và phục hồ
 - **Vitality Restoration**: Khôi phục sức sống.  
     → **Liên kết:** FOUNDATIONS (Regeneration), DYNAMICS (Sustainability).
 
-#### **47. Legacy Integration** - Tích Hợp Di Sản
+#### **47. Intergenerational Amplification** - Khuếch Đại Liên Thế Hệ
 
-Kết nối hành động hiện tại với tác động dài hạn và thế hệ tương lai.
+Cơ chế nhân rộng tác động qua nhiều thế hệ - mỗi thế hệ xây dựng trên thành quả của thế hệ trước, tạo ra HIỆU ỨNG LÃI KÉP qua thời gian. Khác với Legacy Integration (tích hợp cá nhân với nhận thức di sản), đây là về CƠ CHẾ KHUẾCH ĐẠI theo cấp số nhân của tác động qua thời gian.
 
-- **Long-term Impact**: Tác động dài hạn.
-- **Intergenerational Thinking**: Tư duy liên thế hệ.
-- **Future Orientation**: Định hướng tương lai.
-- **Lasting Contribution**: Đóng góp lâu dài.  
-    → **Liên kết:** NAVIGATION (Long-term Vision), TRANSCENDENCE (Legacy).
+- **Compounding Through Time** (Lãi Kép Qua Thời Gian): Hiệu ứng lãi kép qua thời gian - mỗi thế hệ nhân rộng tác động của thế hệ trước; giá trị tích lũy theo đường cong exponential.
+- **Generational Multiplication** (Nhân Tố Liên Thế Hệ): Nhân tố liên thế hệ - 1 → 10 → 100 → 1000; mỗi thế hệ là điểm đòn bẩy cho sự phát triển tiếp theo.
+- **Legacy Infrastructure** (Hạ Tầng Di Sản): Hạ tầng di sản - tạo nền tảng, hệ thống, tri thức cho thế hệ sau phát triển nhanh hơn; xây dựng "vai người khổng lồ" cho thế hệ tương lai.
+- **Exponential Inheritance** (Thừa Kế Theo Cấp Số Nhân): Thừa kế theo cấp số nhân - giá trị được truyền lại không chỉ bảo toàn mà còn tăng trưởng mạnh mẽ qua các thế hệ.
+
+→ **Liên kết:** INTEGRATION (Legacy Integration - động lực cá nhân), FOUNDATIONS (Seven Generation Stewardship, Regenerative Principles), AMPLIFICATION (Compound Effect Mastery, Network Effects).
+
+→ **Ghi chú:** Điểm khác biệt với "Legacy Integration" (INTEGRATION): Intergenerational Amplification tập trung vào CƠ CHẾ NHÂN RỘNG exponential, trong khi Legacy Integration là về TÍCH HỢP CÁ NHÂN với nhận thức di sản.
 
 ---
 
