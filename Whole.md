@@ -10878,18 +10878,7 @@ Một phương pháp đột phá để tạo ra đổi mới trong điều kiệ
 → **Liên kết nội bộ:** VALIDATION (Continuous Testing, Experimentation), OPERATIONS (Agile Methods, Iterative Development), NAVIGATION (Pivot Decisions, Resource Optimization)
 → **Ứng dụng trong các domain khác:** AMPLIFICATION (test platform features), INTEGRATION (service design), NAVIGATION (strategic planning)
 
-#### **3. Blue Ocean Strategy** - Chiến Lược Đại Dương Xanh
-
-Tạo ra không gian thị trường mới chưa bị tranh chấp thay vì cạnh tranh trong thị trường đã bão hòa.
-
-- **Value Innovation**: Đồng thời tăng giá trị và giảm chi phí
-- **Four Actions Framework**: Loại bỏ-Giảm-Tăng-Tạo mới các yếu tố cạnh tranh
-- **Strategy Canvas**: Công cụ trực quan để lập chiến lược và hành động
-- **Non-Customer Analysis**: Phân tích những người không phải khách hàng để tìm cơ hội
-
-→ **Liên kết:** NAVIGATION (Strategic Planning), AMPLIFICATION (Market Creation)
-
-#### **4. Jobs-to-be-Done Innovation Application** - Ứng Dụng JTBD Trong Đổi Mới
+#### **3. Jobs-to-be-Done Innovation Application** - Ứng Dụng JTBD Trong Đổi Mới
 
 Áp dụng framework Jobs-to-be-Done để tìm kiếm cơ hội đổi mới đột phá.
 
@@ -10903,9 +10892,9 @@ Tạo ra không gian thị trường mới chưa bị tranh chấp thay vì cạ
 
 → **Core Framework:** OPERATIONS #28 (Jobs-to-be-Done Framework - công cụ gốc)
 → **Liên kết:** VALIDATION (Problem-Solution Fit), INTEGRATION (User Understanding)
-→ **Kết hợp với:** Disruptive Innovation Theory, Blue Ocean Strategy
+→ **Kết hợp với:** Disruptive Innovation Theory, Blue Ocean Strategy (NAVIGATION #5)
 
-#### **5. Disruptive Innovation Theory** - Lý Thuyết Đổi Mới Đột Phá
+#### **4. Disruptive Innovation Theory** - Lý Thuyết Đổi Mới Đột Phá
 
 Hiểu và tạo ra các đổi mới có khả năng thay thế các công nghệ hoặc mô hình kinh doanh hiện có.
 
@@ -10916,7 +10905,7 @@ Hiểu và tạo ra các đổi mới có khả năng thay thế các công ngh�
 
 → **Liên kết:** DYNAMICS (Paradigm Shift), NAVIGATION (Strategic Positioning)
 
-#### **6. Open Innovation** - Đổi Mới Mở
+#### **5. Open Innovation** - Đổi Mới Mở
 
 Sử dụng ý tưởng và công nghệ từ bên ngoài tổ chức cũng như từ bên trong.
 
@@ -10927,7 +10916,7 @@ Sử dụng ý tưởng và công nghệ từ bên ngoài tổ chức cũng như
 
 → **Liên kết:** AMPLIFICATION (Network Effects), INTEGRATION (Ecosystem Building)
 
-#### **7. Agile Innovation** - Đổi Mới Linh Hoạt
+#### **6. Agile Innovation** - Đổi Mới Linh Hoạt
 
 Áp dụng các nguyên tắc Agile vào quá trình đổi mới.
 
@@ -10938,7 +10927,7 @@ Sử dụng ý tưởng và công nghệ từ bên ngoài tổ chức cũng như
 
 → **Liên kết:** OPERATIONS (Agile Methods), VALIDATION (Rapid Iteration)
 
-#### **8. Stage-Gate Process** - Quy Trình Cổng-Giai Đoạn
+#### **7. Stage-Gate Process** - Quy Trình Cổng-Giai Đoạn
 
 Một quy trình có cấu trúc để quản lý và kiểm soát các dự án đổi mới từ ý tưởng đến ra mắt.
 
@@ -10949,7 +10938,7 @@ Một quy trình có cấu trúc để quản lý và kiểm soát các dự án
 
 → **Liên kết:** NAVIGATION (Project Management), VALIDATION (Milestone Reviews)
 
-#### **9. Innovation Portfolio Management**
+#### **8. Innovation Portfolio Management**
 
 Quản lý một danh mục đầu tư đổi mới cân bằng giữa rủi ro và lợi nhuận.
 
@@ -10960,7 +10949,7 @@ Quản lý một danh mục đầu tư đổi mới cân bằng giữa rủi ro 
 
 → **Liên kết:** NAVIGATION (Strategic Resource Management), VALIDATION (Portfolio Assessment)
 
-#### **10. Innovation Ambition Matrix**
+#### **9. Innovation Ambition Matrix**
 
 Một công cụ để phân loại và cân bằng các sáng kiến đổi mới.
 
@@ -10971,7 +10960,7 @@ Một công cụ để phân loại và cân bằng các sáng kiến đổi m�
 
 → **Liên kết:** NAVIGATION (Strategic Planning), AMPLIFICATION (Growth Strategies)
 
-#### **11. Business Model Innovation** - Đổi Mới Mô Hình Kinh Doanh
+#### **10. Business Model Innovation** - Đổi Mới Mô Hình Kinh Doanh
 
 Tái cấu trúc cách tạo ra, cung cấp và thu giá trị.
 
@@ -10982,7 +10971,7 @@ Tái cấu trúc cách tạo ra, cung cấp và thu giá trị.
 
 → **Liên kết:** INTEGRATION (System Design), NAVIGATION (Business Strategy)
 
-#### **12. Platform Innovation** - Đổi Mới Nền Tảng
+#### **11. Platform Innovation** - Đổi Mới Nền Tảng
 
 Tạo ra các nền tảng kết nối nhiều nhóm người dùng và tạo hiệu ứng mạng lưới.
 
@@ -13000,14 +12989,45 @@ Sử dụng bản đồ Wardley để xác định vị trí cạnh tranh và l�
 
 #### **5. Blue Ocean Strategy** - Chiến Lược Đại Dương Xanh
 
-Tìm kiếm và tạo ra các thị trường mới, không có cạnh tranh (đại dương xanh) thay vì cạnh tranh trong các thị trường đầy máu (đại dương đỏ).
+Framework chiến lược để TÌM KIẾM và TẠO RA các không gian thị trường mới chưa có cạnh tranh (đại dương xanh) thay vì cạnh tranh trong thị trường đã bão hòa (đại dương đỏ). Đây là công cụ ĐIỀU HƯỚNG CHIẾN LƯỢC - giúp xác định "đi đâu" để tránh cạnh tranh trực diện.
 
-- **Value Innovation**: Đổi mới giá trị bằng cách tạo ra một bước nhảy vọt về giá trị cho cả khách hàng và công ty.
-- **Eliminate-Reduce-Raise-Create (ERRC) Grid**: Công cụ để xác định các yếu tố cần loại bỏ, giảm, nâng cao hoặc tạo mới.
-- **Non-customer Analysis**: Nghiên cứu những người không phải khách hàng để khám phá nhu cầu tiềm ẩn.
-- **Strategic Canvas**: Trực quan hóa vị trí cạnh tranh hiện tại và cơ hội chiến lược.
+**Các công cụ cốt lõi:**
 
-→ **Liên kết:** CREATION (Breakthrough Innovation), OPERATIONS (Market Analysis).
+• **Value Innovation**: Đổi mới giá trị - tạo bước nhảy vọt về giá trị cho cả khách hàng (giá trị sử dụng tăng) và công ty (chi phí giảm)
+
+• **ERRC Grid (Eliminate-Reduce-Raise-Create)**: Khung 4 hành động chiến lược
+  - Eliminate: Loại bỏ yếu tố nào mà ngành coi là đương nhiên?
+  - Reduce: Giảm yếu tố nào xuống dưới tiêu chuẩn ngành?
+  - Raise: Tăng yếu tố nào lên trên tiêu chuẩn ngành?
+  - Create: Tạo mới yếu tố nào mà ngành chưa từng có?
+
+• **Strategic Canvas**: Công cụ trực quan hóa để:
+  - Vẽ "đường cong giá trị" hiện tại của ngành
+  - Xác định vị trí cạnh tranh của các đối thủ
+  - Thiết kế "đường cong giá trị" mới khác biệt hoàn toàn
+  - Truyền đạt chiến lược một cách trực quan
+
+• **Non-Customer Analysis**: Nghiên cứu 3 tầng non-customers
+  - Tier 1: "Soon-to-be" - sắp rời bỏ thị trường
+  - Tier 2: "Refusing" - chủ động từ chối thị trường
+  - Tier 3: "Unexplored" - chưa từng được xem xét
+
+**Lộ trình áp dụng:**
+1. Vẽ Strategic Canvas của ngành hiện tại
+2. Nhận diện các yếu tố cạnh tranh mà mọi người theo đuổi
+3. Áp dụng ERRC Grid để thiết kế lại đường cong giá trị
+4. Phân tích non-customers để mở rộng thị trường
+5. Xác định Blue Ocean - không gian không cạnh tranh
+
+→ **Liên kết nội bộ:**
+  • CREATION (Breakthrough Innovation) - innovation là KẾT QUẢ của strategy
+  • OPERATIONS (Market Analysis) - công cụ phân tích thị trường
+  • AMPLIFICATION (Market Creation) - tạo thị trường mới mở rộng tác động
+
+→ **Công cụ bổ trợ:**
+  • Porter's Five Forces (#6) - phân tích thị trường đỏ để biết nên thoát
+  • Wardley Mapping (#4) - kết hợp để xác định evolution stage
+  • Scenario Planning (#1) - chuẩn bị cho nhiều kịch bản blue ocean
 
 #### **6. Porter's Five Forces** - Năm Lực Lượng của Porter
 
@@ -14476,7 +14496,7 @@ Vượt qua các rào cản bằng cách tạo ra đột phá.
 - **Avoid Competition**: Tránh cạnh tranh trực tiếp.
 - **Create New Market**: Tạo thị trường mới.
 
-→ **Liên kết:** CREATION (Blue Ocean), OPERATIONS (Strategic Positioning).
+→ **Liên kết:** NAVIGATION (Blue Ocean Strategy #5), OPERATIONS (Strategic Positioning).
 
 #### **31. Adjacent Possible Surfing** - Lướt Trên Khả Năng Kế Cận
 
