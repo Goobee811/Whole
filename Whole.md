@@ -85,7 +85,7 @@ Nguyên lý phổ quát về việc đầu ra của một hệ thống quay tr�
 
 → **Liên kết nội bộ:** VALIDATION (Feedback Systems), DYNAMICS (System Dynamics)
 → **Xuất hiện ở các domain khác:**
-  • OPERATIONS #37 (ứng dụng trong học tập)
+  • OPERATIONS #36 (ứng dụng trong học tập)
   • AMPLIFICATION #5 (công cụ khuếch đại)
   • VALIDATION #14 (thiết kế kiến trúc)
   • META #20 (Meta-Feedback - phản hồi về phản hồi)
@@ -703,11 +703,11 @@ NGUYÊN LÝ TƯ DUY phổ quát về việc suy nghĩ vượt ra ngoài các k�
 → **Liên kết nội bộ:** DYNAMICS (System Dynamics), NAVIGATION (Strategic Wayfinding)
 
 → **Ứng dụng thực hành:**
-  • OPERATIONS #38 (Second-Order Thinking Analysis - quy trình phân tích)
+  • OPERATIONS #37 (Second-Order Thinking Analysis - quy trình phân tích)
   • OPERATIONS #26 (Strategic Reasoning - công cụ suy luận chiến lược)
   • Core Values & Ethics (Trách nhiệm với hệ quả)
 
-💡 **LƯU Ý**: Đây là NGUYÊN LÝ TƯ DUY nền tảng. Để xem QUY TRÌNH ÁP DỤNG cụ thể, tham khảo OPERATIONS #38 - Second-Order Thinking Analysis.
+💡 **LƯU Ý**: Đây là NGUYÊN LÝ TƯ DUY nền tảng. Để xem QUY TRÌNH ÁP DỤNG cụ thể, tham khảo OPERATIONS #37 - Second-Order Thinking Analysis.
 
 #### **9. Inversion** - Đảo Ngược
 
@@ -1009,7 +1009,7 @@ QUY LUẬT PHỔ QUÁT về mối quan hệ giữa thời gian và công việc:
 - **Efficiency Paradox**: Có nhiều thời gian ≠ làm việc hiệu quả hơn
 - **Constraint as Tool**: Ràng buộc là CÔNG CỤ tạo hiệu quả
 
-→ **Liên kết:** OPERATIONS #39 (Parkinson's Law - ứng dụng thực hành), OPERATIONS (Constraint Analysis), CREATION (Constraint-Based Creativity)
+→ **Liên kết:** OPERATIONS #38 (Parkinson's Law - ứng dụng thực hành), OPERATIONS (Constraint Analysis), CREATION (Constraint-Based Creativity)
 
 #### **34. Goodhart's Law** - Định Luật Goodhart [Nguyên Lý Phổ Quát]
 
@@ -5233,7 +5233,7 @@ Nguyên lý ưu tiên những giải thích đơn giản nhất khi đối mặt
 - **Solution Lock-in**: Bị KHÓA trong vai trò "giải pháp" ban đầu
 
 → **Liên kết nội bộ:** NAVIGATION (Strategy Review)
-→ **Công cụ phân tích:** OPERATIONS #36 (Shirky Principle trong decision-making)
+→ **Công cụ phân tích:** OPERATIONS #35 (Shirky Principle trong decision-making)
 → **Các mẫu hình tương tự:** Liên quan đến các động lực tiến hóa và thay đổi tổ chức
 
 #### **46. Conway's Law** - Định Luật Conway [Định Luật Tiến Hóa Hệ Thống]
@@ -5271,7 +5271,7 @@ Nguyên lý ưu tiên những giải thích đơn giản nhất khi đối mặt
   - Spotify's squads → autonomous services
   - Microsoft's Windows → layered architecture theo org structure
 
-#### **47. Hofstadter's Law → [Xem OPERATIONS #40]**
+#### **47. Hofstadter's Law → [Xem OPERATIONS #39]**
 
 *Góc nhìn System Evolution về Định luật Hofstadter*
 
@@ -5292,7 +5292,7 @@ còn là đặc tính BẢN CHẤT của sự tiến hóa hệ thống.
 • Phase Transitions (#4): Các bước nhảy định tính không dự đoán được
 • Path Dependence (#7): Lịch sử quyết định quỹ đạo tiến hóa
 
-→ **Chi tiết và ứng dụng thực hành:** Xem OPERATIONS #40
+→ **Chi tiết và ứng dụng thực hành:** Xem OPERATIONS #39
 → **Kết hợp với:** Conway's Law (#46), Goodhart's Law (#49)
 
 **Insight chính:** Trong System Evolution, Hofstadter's Law không chỉ là
@@ -7579,7 +7579,7 @@ PHƯƠNG PHÁP SỬ DỤNG để vượt qua ranh giới ngành học trong quá
 → **Gốc lý thuyết:** META #32 (Meta-Reasoning - khái niệm cốt lõi)
 
 → **Liên kết thực hành:**
-  • OPERATIONS #32 (Meta-Cognitive Reasoning - góc độ nhận thức)
+  • OPERATIONS #31 (Meta-Cognitive Reasoning - góc độ nhận thức)
   • OPERATIONS #1-41 (tất cả các loại suy luận khác)
   • VALIDATION #30 (Argumentation Analysis)
   • NAVIGATION (Strategic Choice Making)
@@ -7956,7 +7956,7 @@ Kỹ thuật thu thập và phân tích dữ liệu theo thời gian để xác 
 → **Liên kết với các công cụ phân tích khác:**
   • OPERATIONS #25 (Benchmarking - phân tích cạnh tranh)
   • OPERATIONS #29 (Correlation Analysis - so sánh mối quan hệ)
-  • OPERATIONS #34 (Trade-off Analysis - so sánh đánh đổi)
+  • OPERATIONS #33 (Trade-off Analysis - so sánh đánh đổi)
 
 #### **16. Scenario Analysis** - Phân Tích Kịch Bản
 
@@ -8235,7 +8235,7 @@ Một QUY TRÌNH CÓ CẤU TRÚC để phân tích các hệ quả tức thời 
 
 💡 **PHÂN BIỆT:**
   • FOUNDATIONS #8 = Nguyên lý "là gì" (phương pháp tư duy)
-  • OPERATIONS #38 = Quy trình "làm thế nào" (công cụ phân tích)
+  • OPERATIONS #37 = Quy trình "làm thế nào" (công cụ phân tích)
 
 #### **39. Devil's Advocate** → **XEM VALIDATION #6**
 
@@ -9626,7 +9626,7 @@ Một chu trình ra quyết định và hành động chiến thuật được p
 Công cụ ưu tiên phân loại nhiệm vụ theo hai trục: Urgent vs Important. Đã được GỘP VÀO NAVIGATION #1 (Resource & Priority Management) - vị trí tự nhiên hơn cho công cụ quản lý tài nguyên và ưu tiên.
 
 → **Xem chi tiết:** NAVIGATION #1 (Eisenhower Matrix - phiên bản đầy đủ với 4 quadrants và hướng dẫn ứng dụng)
-→ **Nguyên lý nền tảng:** OPERATIONS #38 (Eisenhower's Razor - nguyên tắc urgent vs important)
+→ **Nguyên lý nền tảng:** OPERATIONS #37 (Eisenhower's Razor - nguyên tắc urgent vs important)
 
 #### **6. Multi-Criteria Decision Analysis (MCDA)** - Phân Tích Quyết Định Đa Tiêu Chí
 
@@ -9970,18 +9970,7 @@ Best Alternative To a Negotiated Agreement - Lựa chọn tốt nhất thay th�
 
 → **Liên kết:** OPERATIONS (Negotiation), NAVIGATION (Strategic Positioning)
 
-#### **32. Conservation Principle** - Nguyên Tắc Bảo Tồn
-
-Ưu tiên bảo tồn và bảo vệ nguồn lực, năng lượng và giá trị.
-
-- **Resource Preservation**: Bảo tồn nguồn lực.
-- **Sustainable Use**: Sử dụng bền vững.
-- **Long-Term Protection**: Bảo vệ dài hạn.
-- **Value Maintenance**: Duy trì giá trị.
-
-→ **Liên kết:** NAVIGATION (Resource Management), FOUNDATIONS (Sustainability)
-
-#### **33. Flow Optimization** - Tối Ưu Hóa Dòng Chảy
+#### **32. Flow Optimization** - Tối Ưu Hóa Dòng Chảy
 
 Nguyên tắc tối đa hóa hiệu quả của các dòng chảy (thông tin, vật liệu, năng lượng).
 
@@ -9992,7 +9981,7 @@ Nguyên tắc tối đa hóa hiệu quả của các dòng chảy (thông tin, v
 
 → **Liên kết:** OPERATIONS (Process Optimization), DYNAMICS (Flow State)
 
-#### **34. Investment Wisdom** - Trí Tuệ Đầu Tư
+#### **33. Investment Wisdom** - Trí Tuệ Đầu Tư
 
 Các nguyên tắc và chiến lược đầu tư thông minh dài hạn.
 
@@ -10003,7 +9992,7 @@ Các nguyên tắc và chiến lược đầu tư thông minh dài hạn.
 
 → **Liên kết:** NAVIGATION (Long-Term Thinking), AMPLIFICATION (Compound Effects)
 
-#### **35. Grey's Law** - Định Luật Grey
+#### **34. Grey's Law** - Định Luật Grey
 
 "Any sufficiently advanced incompetence is indistinguishable from malice" - Sự bất tài đủ tiên tiến không thể phân biệt với ác ý.
 
@@ -10014,7 +10003,7 @@ Các nguyên tắc và chiến lược đầu tư thông minh dài hạn.
 
 → **Liên kết:** OPERATIONS (Hanlon's Razor), VALIDATION (Attribution Analysis)
 
-#### **36. Shirky Principle - Nguyên Tắc Shirky [Công Cụ Phát Hiện Bias]**
+#### **35. Shirky Principle - Nguyên Tắc Shirky [Công Cụ Phát Hiện Bias]**
 
 "Institutions will try to preserve the problem to which they are the solution"
 
@@ -10030,7 +10019,7 @@ Các nguyên tắc và chiến lược đầu tư thông minh dài hạn.
 → **Các công cụ tương tự:** OPERATIONS (Hanlon's Razor #35)
 → **Ứng dụng:** Khi phân tích đề xuất từ bộ phận nội bộ, luôn hỏi: "Họ có lợi ích gì trong việc duy trì vấn đề này?"
 
-#### **37. Actor-Observer Bias** - Thiên Kiến Người Hành Động-Người Quan Sát
+#### **36. Actor-Observer Bias** - Thiên Kiến Người Hành Động-Người Quan Sát
 
 Xu hướng quy kết hành vi của người khác cho tính cách nhưng hành vi của bản thân cho hoàn cảnh.
 
@@ -10041,7 +10030,7 @@ Xu hướng quy kết hành vi của người khác cho tính cách nhưng hành
 
 → **Liên kết:** OPERATIONS (Social Reasoning), META (Self-Awareness)
 
-#### **38. Eisenhower's Razor** - Dao Cạo của Eisenhower [Nguyên Tắc Urgent vs Important]
+#### **37. Eisenhower's Razor** - Dao Cạo của Eisenhower [Nguyên Tắc Urgent vs Important]
 
 "What is important is seldom urgent, and what is urgent is seldom important" - Điều quan trọng hiếm khi khẩn cấp, và điều khẩn cấp hiếm khi quan trọng.
 
@@ -10058,10 +10047,10 @@ Xu hướng quy kết hành vi của người khác cho tính cách nhưng hành
 **Tại sao nguyên tắc này quan trọng:** Não người được thiết kế để ưu tiên mối đe dọa trước mắt (urgent), nhưng trong thế giới hiện đại, hầu hết điều "urgent" không phải mối đe dọa thực sự, trong khi những điều thực sự định hình tương lai (important) lại không tạo áp lực tức thời.
 
 → **Công cụ thực hành:** NAVIGATION #1 (Eisenhower Matrix - ứng dụng nguyên tắc này)
-→ **Liên kết nội bộ:** OPERATIONS #39 (Parkinson's Law - về bản chất thời gian), META (Bias Awareness - thiên kiến ưu tiên urgent)
-→ **Các Razor liên quan:** OPERATIONS #36 (Hanlon's Razor), #37 (Occam's Razor) - cùng nhóm analytical razors
+→ **Liên kết nội bộ:** OPERATIONS #38 (Parkinson's Law - về bản chất thời gian), META (Bias Awareness - thiên kiến ưu tiên urgent)
+→ **Các Razor liên quan:** OPERATIONS #35 (Hanlon's Razor), #36 (Occam's Razor) - cùng nhóm analytical razors
 
-#### **39. Parkinson's Law** - Định Luật Parkinson [Time & Resource Management]
+#### **38. Parkinson's Law** - Định Luật Parkinson [Time & Resource Management]
 
 ỨNG DỤNG THỰC HÀNH của Parkinson's Law trong quản lý thời gian, tài nguyên và ra quyết định. Khác với nguyên lý phổ quát ở FOUNDATIONS #33, đây là về CÔNG CỤ và KỸ THUẬT để tận dụng hoặc chống lại định luật này.
 
@@ -10080,7 +10069,7 @@ Xu hướng quy kết hành vi của người khác cho tính cách nhưng hành
 → **Liên kết:** FOUNDATIONS #33 (Parkinson's Law - quy luật phổ quát), NAVIGATION (Time Management), VALIDATION (Productivity Analysis)
 → **Định luật liên quan:** Hofstadter's Law #40 (dự đoán thời gian), Parkinson's Law of Triviality (bikeshedding)
 
-#### **40. Hofstadter's Law** - Định Luật Hofstadter
+#### **39. Hofstadter's Law** - Định Luật Hofstadter
 
 "It always takes longer than you expect, even when you take into account
 Hofstadter's Law" - Luôn mất nhiều thời gian hơn dự kiến, ngay cả khi bạn
@@ -10095,7 +10084,7 @@ Hofstadter's Law" - Luôn mất nhiều thời gian hơn dự kiến, ngay cả 
 → **Liên kết nội bộ:**
   • NAVIGATION (Planning & Strategy): Sử dụng để lập kế hoạch thực tế
   • VALIDATION (Reality Check): Kiểm chứng ước lượng với thực tế
-  • OPERATIONS #39 (Parkinson's Law): Kết hợp để quản lý thời gian
+  • OPERATIONS #38 (Parkinson's Law): Kết hợp để quản lý thời gian
 
 → **Góc nhìn từ domain khác:**
   • DYNAMICS #47 (System Evolution): Xem góc độ TIẾN HÓA HỆ THỐNG -
@@ -10110,7 +10099,7 @@ Hofstadter's Law" - Luôn mất nhiều thời gian hơn dự kiến, ngay cả 
 
 → **Tags:** #decision-making #planning #time-estimation #bias #complexity
 
-#### **41. Murphy's Law** - Định Luật Murphy
+#### **40. Murphy's Law** - Định Luật Murphy
 
 "Anything that can go wrong will go wrong" - Mọi thứ có thể sai sẽ sai.
 
@@ -10121,7 +10110,7 @@ Hofstadter's Law" - Luôn mất nhiều thời gian hơn dự kiến, ngay cả 
 
 → **Liên kết:** VALIDATION (Risk Assessment), VALIDATION #5 (Pre-mortem Analysis)
 
-#### **42. Opportunity Cost Razor** - Dao Cạo Chi Phí Cơ Hội
+#### **41. Opportunity Cost Razor** - Dao Cạo Chi Phí Cơ Hội
 
 Luôn xem xét giá trị của lựa chọn tốt nhất tiếp theo mà bạn từ bỏ.
 
@@ -10132,7 +10121,7 @@ Luôn xem xét giá trị của lựa chọn tốt nhất tiếp theo mà bạn 
 
 → **Liên kết:** OPERATIONS (Opportunity Cost Thinking), NAVIGATION (Resource Management)
 
-#### **43. Sunk Cost Razor** - Dao Cạo Chi Phí Chìm
+#### **42. Sunk Cost Razor** - Dao Cạo Chi Phí Chìm
 
 Không nên xem xét chi phí đã bỏ ra (không thể thu hồi) khi ra quyết định về tương lai.
 
@@ -10143,7 +10132,7 @@ Không nên xem xét chi phí đã bỏ ra (không thể thu hồi) khi ra quy�
 
 → **Liên kết:** OPERATIONS (Rational Decision Making), META (Bias Awareness)
 
-#### **44. Marginal Utility Razor** - Dao Cạo Lợi Ích Biên
+#### **43. Marginal Utility Razor** - Dao Cạo Lợi Ích Biên
 
 Tập trung vào lợi ích của đơn vị bổ sung tiếp theo, không phải tổng thể.
 
@@ -10154,7 +10143,7 @@ Tập trung vào lợi ích của đơn vị bổ sung tiếp theo, không phả
 
 → **Liên kết:** OPERATIONS (Economic Reasoning), FOUNDATIONS (Optimization)
 
-#### **45. Progress Indicators** - Chỉ Báo Tiến Độ
+#### **44. Progress Indicators** - Chỉ Báo Tiến Độ
 
 Các chỉ số theo dõi sự tiến bộ hướng tới mục tiêu.
 
@@ -10165,7 +10154,7 @@ Các chỉ số theo dõi sự tiến bộ hướng tới mục tiêu.
 
 → **Liên kết:** OPERATIONS (Progress Tracking), VALIDATION (Metrics)
 
-#### **46. Navigation KPIs** - Chỉ Số Hiệu Suất Chính Điều Hướng
+#### **45. Navigation KPIs** - Chỉ Số Hiệu Suất Chính Điều Hướng
 
 Các chỉ số quan trọng để đánh giá hiệu quả điều hướng.
 
@@ -10176,7 +10165,7 @@ Các chỉ số quan trọng để đánh giá hiệu quả điều hướng.
 
 → **Liên kết:** NAVIGATION (Strategic Management), VALIDATION (Performance Assessment)
 
-#### **47. Waypoint Metrics** - Chỉ Số Điểm Đến
+#### **46. Waypoint Metrics** - Chỉ Số Điểm Đến
 
 Các chỉ số đánh giá tiến độ tại các điểm kiểm tra trung gian.
 
@@ -10187,7 +10176,7 @@ Các chỉ số đánh giá tiến độ tại các điểm kiểm tra trung gia
 
 → **Liên kết:** NAVIGATION (Waypoint System), VALIDATION (Milestone Assessment)
 
-#### **48. Course Efficiency** - Hiệu Quả Hành Trình
+#### **47. Course Efficiency** - Hiệu Quả Hành Trình
 
 Đo lường mức độ hiệu quả của đường đi được chọn.
 
@@ -10198,7 +10187,7 @@ Các chỉ số đánh giá tiến độ tại các điểm kiểm tra trung gia
 
 → **Liên kết:** NAVIGATION (Route Optimization), OPERATIONS (Efficiency)
 
-#### **49. Navigation ROI** - Lợi Nhuận Đầu Tư Điều Hướng
+#### **48. Navigation ROI** - Lợi Nhuận Đầu Tư Điều Hướng
 
 Đánh giá lợi nhuận từ các quyết định và nỗ lực điều hướng.
 
@@ -10209,7 +10198,7 @@ Các chỉ số đánh giá tiến độ tại các điểm kiểm tra trung gia
 
 → **Liên kết:** VALIDATION (ROI Analysis), NAVIGATION (Strategic Value)
 
-#### **50. Applied Decision Domains** - Các Lĩnh Vực Quyết Định Ứng Dụng
+#### **49. Applied Decision Domains** - Các Lĩnh Vực Quyết Định Ứng Dụng
 
 Bộ sưu tập các lĩnh vực chuyên ngành áp dụng khung ra quyết định.
 
@@ -10225,7 +10214,7 @@ Bộ sưu tập các lĩnh vực chuyên ngành áp dụng khung ra quyết đ�
 
 → **Liên kết:** OPERATIONS (Domain Expertise), FOUNDATIONS (Wisdom Traditions)
 
-#### **51. Karma** - Nghiệp (Hành Động & Hệ Quả)
+#### **50. Karma** - Nghiệp (Hành Động & Hệ Quả)
 
 Nguyên lý về hành động và hệ quả trong triết học Đông phương.
 
@@ -10236,7 +10225,7 @@ Nguyên lý về hành động và hệ quả trong triết học Đông phươn
 
 → **Liên kết:** FOUNDATIONS (Karma), OPERATIONS (Causal Reasoning)
 
-#### **52. Morphogenetic Fields** - Trường Hình Thái
+#### **51. Morphogenetic Fields** - Trường Hình Thái
 
 Giả thuyết về các trường ảnh hưởng đến sự phát triển hình thái và hành vi.
 
@@ -10247,7 +10236,7 @@ Giả thuyết về các trường ảnh hưởng đến sự phát triển hìn
 
 → **Liên kết:** FOUNDATIONS (Primordial Principles), DYNAMICS (Field Effects)
 
-#### **53. Adaptation Algorithms** - Thuật Toán Thích Ứng
+#### **52. Adaptation Algorithms** - Thuật Toán Thích Ứng
 
 Các quy trình có hệ thống để thích ứng với thay đổi.
 
@@ -10258,7 +10247,7 @@ Các quy trình có hệ thống để thích ứng với thay đổi.
 
 → **Liên kết:** DYNAMICS (Adaptation), OPERATIONS (Algorithms)
 
-#### **54. Creation** - Sáng Tạo
+#### **53. Creation** - Sáng Tạo
 
 Nguyên lý cơ bản về việc tạo ra cái mới từ tiềm năng.
 
@@ -10269,7 +10258,7 @@ Nguyên lý cơ bản về việc tạo ra cái mới từ tiềm năng.
 
 → **Liên kết:** CREATION (All functions), FOUNDATIONS (Primordial Forces)
 
-#### **55. Algorithms & Computation** - Thuật Toán & Tính Toán
+#### **54. Algorithms & Computation** - Thuật Toán & Tính Toán
 
 Các quy trình cơ bản của tính toán và xử lý thông tin.
 
@@ -13785,7 +13774,7 @@ Công cụ lập kế hoạch HAI CHIỀU: tưởng tượng cả thất bại V
 
 → **Liên kết nội bộ:** VALIDATION (Risk Assessment), CREATION (Success Visioning)
 → **Phiên bản đơn chiều (chỉ thất bại):** VALIDATION #5 (Pre-mortem Analysis)
-→ **Ứng dụng phòng ngừa:** OPERATIONS #35 (Inversion for Problem Prevention)
+→ **Ứng dụng phòng ngừa:** OPERATIONS #34 (Inversion for Problem Prevention)
 
 💡 **Điểm khác biệt:** Đây là CÔNG CỤ DUY NHẤT nhìn CẢ HAI PHÍA - không chỉ "tránh thất bại" mà còn "tối đa hóa thành công"
 
@@ -14253,7 +14242,7 @@ Công cụ ưu tiên cổ điển phân loại nhiệm vụ theo HAI TRỤC: T�
 
 **Insight quan trọng:** Hầu hết mọi người sống ở Quadrant I và III (bị urgent chi phối), trong khi thành công đến từ Quadrant II (đầu tư vào important nhưng not urgent).
 
-→ **Nguyên lý nền tảng:** OPERATIONS #38 (Eisenhower's Razor - nguyên tắc giải thích tại sao Matrix hiệu quả)
+→ **Nguyên lý nền tảng:** OPERATIONS #37 (Eisenhower's Razor - nguyên tắc giải thích tại sao Matrix hiệu quả)
 → **Liên kết nội bộ:** DYNAMICS (Attention Management), VALIDATION (Priority Testing)
 → **Công cụ bổ sung:** NAVIGATION #2 (Pareto Principle), #3 (MoSCoW Method)
 
@@ -14301,11 +14290,11 @@ Bắt đầu từ trang giấy trắng, giả định không có ưu tiên nào 
 
 → **Liên kết:** OPERATIONS (Budget Planning), VALIDATION (Assumption Testing).
 
-#### **6. Trade-off Analysis** - Phân Tích Đánh Đổi → **_Tham chiếu OPERATIONS #34_**
+#### **6. Trade-off Analysis** - Phân Tích Đánh Đổi → **_Tham chiếu OPERATIONS #33_**
 
 Khi cần phân tích các sự đánh đổi giữa tài nguyên, thời gian, chất lượng và các mục tiêu khác, sử dụng:
 
-→ **OPERATIONS #34: Trade-off Analysis** - Công cụ phân tích đánh đổi có hệ thống
+→ **OPERATIONS #33: Trade-off Analysis** - Công cụ phân tích đánh đổi có hệ thống
 
 Trong ngữ cảnh NAVIGATION, Trade-off Analysis được áp dụng để:
 - **Cân bằng giữa nhiều ưu tiên cạnh tranh**: Khi các mục tiêu xung đột (tốc độ vs. chất lượng, chi phí vs. tính năng).
@@ -14315,7 +14304,7 @@ Trong ngữ cảnh NAVIGATION, Trade-off Analysis được áp dụng để:
 
 _Ví dụ ứng dụng: Chọn feature nào phát triển khi có budget giới hạn; Cân bằng giữa nhiều stakeholder với lợi ích khác nhau; Quyết định phân bổ thời gian giữa các dự án._
 
-→ **Liên kết:** OPERATIONS #34 (Trade-off Analysis), VALIDATION (Multi-criteria Evaluation).
+→ **Liên kết:** OPERATIONS #33 (Trade-off Analysis), VALIDATION (Multi-criteria Evaluation).
 
 #### **7. Resource Inventory** - Kiểm Kê Tài Nguyên
 
@@ -14433,16 +14422,44 @@ Quản lý và tối ưu hóa dòng chảy tài nguyên qua mạng lưới phứ
 
 → **Liên kết:** OPERATIONS (Supply Chain), INTEGRATION (Network Coordination).
 
-#### **18. Conservation Principle** - Nguyên Tắc Bảo Tồn
+#### **18. Conservation Principle** - Nguyên Tắc Bảo Tồn [Chiến Lược Tài Nguyên]
 
-Bảo vệ và duy trì các tài nguyên quan trọng cho tương lai.
+Nguyên tắc chiến lược về bảo vệ và duy trì các tài nguyên quan trọng cho tương lai. Khác với các chiến lược tối ưu hóa ngắn hạn, nguyên tắc này tập trung vào SỰ BỀN VỮNG và khả năng TÁI TẠO của hệ thống theo thời gian.
 
-- **Preservation**: Bảo tồn những gì quan trọng.
-- **Sustainability**: Sự bền vững.
-- **Long-term Thinking**: Tư duy dài hạn.
-- **Resource Stewardship**: Quản lý tài nguyên có trách nhiệm.
+- **Preservation**: Bảo tồn những gì quan trọng - không phải mọi thứ đều nên tiêu thụ.
+- **Sustainability**: Sử dụng bền vững - tốc độ tiêu thụ ≤ tốc độ tái tạo.
+- **Long-term Thinking**: Tư duy dài hạn - quyết định hôm nay ảnh hưởng đến bảy thế hệ sau.
+- **Resource Stewardship**: Quản lý có trách nhiệm - chúng ta là người quản lý, không phải chủ sở hữu.
 
-→ **Liên kết:** FOUNDATIONS (Sustainability), OPERATIONS (Long-term Management).
+**ỨNG DỤNG THỰC HÀNH:**
+- Tài chính: Emergency funds, margin of safety, compound growth protection
+- Năng lượng cá nhân: Energy management, renewal rituals, recovery time
+- Tri thức: Knowledge preservation, institutional memory, skill maintenance
+- Mối quan hệ: Relationship capital, trust building, long-term partnerships
+- Hệ sinh thái: Natural capital, biodiversity, regenerative practices
+
+**NGUYÊN TẮC THỰC HÀNH:**
+1. "Preserve optionality" - Giữ các lựa chọn mở
+2. "Invest in capacity" - Đầu tư vào năng lực, không chỉ kết quả
+3. "Build slack" - Tạo khoảng trống, đừng tối ưu hóa 100%
+4. "Think in generations" - Tư duy theo thế hệ, không chỉ quý
+5. "Protect the golden goose" - Bảo vệ nguồn tạo ra giá trị, không chỉ thu hoạch
+
+**CẢNH BÁO:**
+- Cân bằng với "Exploitation": Đừng bảo tồn đến mức không sử dụng
+- Tránh "Hoarding": Bảo tồn khác với tích trữ vô ích
+- Nhận biết "Obsolescence": Một số thứ không đáng bảo tồn trong thế giới thay đổi
+
+→ **Gốc lý thuyết:** FOUNDATIONS #29 (Conservation & Transformation - nguyên lý vật lý)
+→ **Liên kết nội bộ:**
+  • NAVIGATION #9 (Lean Thinking - loại bỏ lãng phí)
+  • NAVIGATION #21 (Margin of Safety - đệm bảo vệ)
+  • NAVIGATION #19 (Investment Wisdom - đầu tư dài hạn)
+  • NAVIGATION #12 (Energy Management)
+  • NAVIGATION #10 (Opportunity Cost Awareness)
+→ **Áp dụng trong quyết định:** OPERATIONS (Decision Frameworks)
+→ **Khuếch đại:** AMPLIFICATION (Sustainable Scaling)
+→ **Tích hợp:** INTEGRATION (System Coherence)
 
 #### **19. Investment Wisdom** - Trí Tuệ Đầu Tư
 
@@ -15977,7 +15994,7 @@ NGUYÊN TẮC NHẬN THỨC và MỤC TIÊU của việc suy luận vượt qua 
 - **Unified Framework**: VIỄN CẢNH một cấu trúc thống nhất cho mọi lĩnh vực tri thức.
 
 → **Liên kết:** SYSTEMIC INTEGRATION (Transdisciplinary Framework #19), META-LAYER (Meta-Structure)
-→ **Công cụ thực hiện:** OPERATIONS #41 (Transdisciplinary Reasoning - phương pháp)
+→ **Công cụ thực hiện:** OPERATIONS #40 (Transdisciplinary Reasoning - phương pháp)
 → **Cross-reference:** INTEGRATION #2 (Interdisciplinary Thinking - mức cơ sở), INTEGRATION #3 (Cross-Paradigm Synthesis - mức cao hơn), FOUNDATIONS #1 (First Principles - nền tảng triết học)
 → **Spectrum phát triển:** Disciplinary → Multidisciplinary → Interdisciplinary → Transdisciplinary
 
@@ -18768,7 +18785,7 @@ Cân bằng giữa tìm kiếm cái mới và tận dụng cái đã biết.
 - **Optimization Balance**: Cân bằng tối ưu; tìm điểm tốt nhất.
 - **Situational Choice**: Lựa chọn theo tình huống; phụ thuộc bối cảnh.
 
-→ **Liên kết:** OPERATIONS (Optimization), OPERATIONS #34 (Trade-off Analysis).
+→ **Liên kết:** OPERATIONS (Optimization), OPERATIONS #33 (Trade-off Analysis).
 
 ---
 
@@ -19646,7 +19663,7 @@ Kỹ thuật kiểm chứng bằng cách tưởng tượng dự án đã THẤT 
   • Công cụ tương tự: Red Teaming (#1), Stress Testing (#3), Chaos Engineering (#4)
   • Phương pháp luận: FOUNDATIONS (Inversion - Via Negativa)
   • Ứng dụng lập kế hoạch: NAVIGATION #12 (Pre-mortem & Pre-parade - phiên bản hai chiều)
-  • Ứng dụng thực hành: OPERATIONS #35 (Inversion for Problem Prevention)
+  • Ứng dụng thực hành: OPERATIONS #34 (Inversion for Problem Prevention)
 
 💡 **Gốc lý thuyết:** Nghiên cứu của Gary Klein về "prospective hindsight"
 💡 **Khi nào dùng:** TRƯỚC khi commit nguồn lực lớn vào một kế hoạch
@@ -22082,7 +22099,7 @@ Cân bằng nhiều mục tiêu đôi khi mâu thuẫn nhau.
 - **Pareto Optimality**: Tính tối ưu Pareto.
 - **Decision Making**: Ra quyết định trong tình huống phức tạp.
 - **Stakeholder Alignment**: Liên kết các bên liên quan.
-    → **Liên kết:** OPERATIONS #34 (Trade-off Analysis), INTEGRATION (Multi-stakeholder).
+    → **Liên kết:** OPERATIONS #33 (Trade-off Analysis), INTEGRATION (Multi-stakeholder).
 
 #### **33. Robust Optimization** - Tối Ưu Hóa Bền Vững
 
@@ -22618,7 +22635,7 @@ Sử dụng vòng phản hồi như ĐỘNG CƠ tạo ra tăng trưởng theo c�
 
 → **Liên kết nội bộ:** DYNAMICS (System Dynamics), VALIDATION (Feedback Systems)
 → **Gốc lý thuyết:** FOUNDATIONS #4 (Feedback Loops - nguyên lý phổ quát)
-→ **Ứng dụng thực hành:** OPERATIONS #37 (trong học tập)
+→ **Ứng dụng thực hành:** OPERATIONS #36 (trong học tập)
 → **Thiết kế hệ thống:** VALIDATION #14 (Feedback Loop Architecture)
 
 #### **6. Positive Reinforcement** - Củng Cố Tích Cực
@@ -22865,7 +22882,7 @@ Quá trình hệ thống hóa việc tạo ra các bản sao của một thực 
 - **Mass Production**: Sản xuất hàng loạt với chi phí biên giảm dần về 0.
 
 → **Liên kết nội bộ:** AMPLIFICATION (Standardization)
-→ **Công cụ thực hành:** OPERATIONS #45 (Replication - thao tác kỹ thuật)
+→ **Công cụ thực hành:** OPERATIONS #44 (Replication - thao tác kỹ thuật)
 → **Nền tảng chiến lược:** AMPLIFICATION #6 (Standardization & Replication)
 → **Mô hình thực tế:** Franchise Systems, Platform Businesses, Open Source
 
@@ -27703,7 +27720,7 @@ Phản hồi về chính hệ thống phản hồi - khả năng meta-cognition 
 → **Liên kết nội bộ:** DYNAMICS (System Dynamics)
 → **Nguyên lý gốc:** FOUNDATIONS #4 (Feedback Loops - nguyên lý nền tảng)
 → **Ứng dụng thực hành:**
-  • OPERATIONS #37 (Feedback Loops trong học tập)
+  • OPERATIONS #36 (Feedback Loops trong học tập)
   • VALIDATION #14 (Feedback Loop Architecture)
   • META #5 (Feedback Loop Optimization - trong Recursive Self-Improvement)
 
@@ -29205,8 +29222,8 @@ Khả năng suy luận về chính BẢN CHẤT và QUÁ TRÌNH của suy luận
   • META #20 (Thinking About Thinking About Thinking - đệ quy ba cấp)
 
 → **Ứng dụng trong các domain khác:**
-  • OPERATIONS #42 (Applied Meta-Reasoning - công cụ thực hành)
-  • OPERATIONS #32 (Meta-Cognitive Reasoning - góc độ nhận thức)
+  • OPERATIONS #41 (Applied Meta-Reasoning - công cụ thực hành)
+  • OPERATIONS #31 (Meta-Cognitive Reasoning - góc độ nhận thức)
   • VALIDATION (đánh giá chất lượng suy luận)
   • NAVIGATION (lựa chọn chiến lược suy luận)
 
