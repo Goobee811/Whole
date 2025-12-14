@@ -20094,13 +20094,13 @@ Thực hành viết nhật ký để tích hợp và tổng hợp kinh nghiệm.
 - **Memory Crystallization**: Kết tinh ký ức và học hỏi.
 → **Liên kết:** INTEGRATION (Narrative Weaving), [META] LAYER (Meta-Cognition)
 
-#### **20. Contemplative Integration** - Tích Hợp Trầm Tư
-Sử dụng thiền định và các thực hành trầm tư để xử lý và tích hợp kinh nghiệm.
-- **Meditative Processing**: Xử lý qua thiền định.
-- **Non-Conceptual Integration**: Tích hợp phi khái niệm.
-- **Embodied Understanding**: Hiểu biết được hiện thân.
-- **Deep Processing**: Xử lý sâu.
-→ **Liên kết:** FOUNDATIONS (EASTERN & WESTERN WISDOM), TRANSCENDENCE (Meditative States)
+#### **20. Contemplative Integration** - Tích Hợp Trầm Tư [Xử Lý Phản Hồi Sâu]
+Sử dụng thiền định và các thực hành trầm tư để XỬ LÝ VÀ TÍCH HỢP kinh nghiệm và phản hồi ở cấp độ sâu. Khác với việc phản ánh lý trí (Reflection Protocols), đây là phương pháp XỬ LÝ PHI KHÁI NIỆM - cho phép insight xuất hiện tự nhiên từ trạng thái tĩnh lặng và nhận thức sâu.
+- **Meditative Processing**: Xử lý qua thiền định - cho phép phản hồi "lắng đọng".
+- **Non-Conceptual Integration**: Tích hợp phi khái niệm - vượt qua tầng lý trí.
+- **Embodied Understanding**: Hiểu biết được hiện thân - tri thức trong cơ thể.
+- **Deep Processing**: Xử lý sâu - chuyển hóa ở cấp độ vô thức.
+→ **Liên kết:** TRANSCENDENCE (Meditative States), FOUNDATIONS (Eastern & Western Wisdom - các truyền thống thiền định), [META] LAYER #22 (Contemplative Integration - trong học tập và phát triển), VALIDATION #18 (Reflection Protocols - phản tư lý trí)
 
 #### **21. Dream Integration** - Tích Hợp Giấc Mơ
 Sử dụng giấc mơ và trạng thái vô thức để xử lý thông tin và tạo ra insight.
@@ -27720,16 +27720,16 @@ Các phương pháp có cấu trúc để xem xét và học hỏi từ kinh ngh
 
 → **Liên kết:** OPERATIONS (Reflective Practice), VALIDATION (After-Action Review).
 
-#### **22. Contemplative Integration** - Tích Hợp Thiền Định
+#### **22. Contemplative Integration** - Tích Hợp Thiền Định [Trong Học Tập Meta]
 
-Tích hợp thực hành thiền định với quá trình học tập và phát triển.
+Tích hợp thực hành thiền định vào QUÁ TRÌNH HỌC TẬP VÀ PHÁT TRIỂN hệ thống tư duy. Khác với việc dùng thiền để xử lý phản hồi (VALIDATION #20), đây là về việc dùng thiền như CÔNG CỤ META-LEARNING - nâng cao khả năng tự quan sát, tổng hợp và đồng hóa tri thức ở cấp độ hệ thống.
 
-- **Awareness-Based Learning**: Học tập dựa trên nhận thức.
-- **Synthesis Through Contemplation**: Tổng hợp qua thiền định.
-- **Meditative Insight Integration**: Tích hợp thấu hiểu từ thiền.
-- **Conscious Assimilation**: Đồng hóa có ý thức.
+- **Awareness-Based Learning**: Học tập dựa trên nhận thức - học từ quan sát thuần khiết.
+- **Synthesis Through Contemplation**: Tổng hợp qua thiền định - kết nối các mảnh ghép.
+- **Meditative Insight Integration**: Tích hợp thấu hiểu từ thiền - chuyển insight thành hệ thống.
+- **Conscious Assimilation**: Đồng hóa có ý thức - biến tri thức thành trí tuệ.
 
-→ **Liên kết:** DYNAMICS (Contemplative Practice), INTEGRATION (Synthesis).
+→ **Liên kết:** DYNAMICS (Contemplative Practice), INTEGRATION (Synthesis), VALIDATION #20 (Contemplative Integration - xử lý phản hồi), [META] LAYER #18 (Learning to Learn), [META] LAYER #19 (Metacognition), FOUNDATIONS (Eastern & Western Wisdom - thiền như phương pháp học)
 
 ---
 
