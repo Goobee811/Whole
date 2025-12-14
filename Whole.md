@@ -10134,18 +10134,7 @@ Nguyên tắc ra quyết định: Không nên xem xét chi phí đã bỏ ra (kh
   • Personal: Rời khỏi mối quan hệ độc hại mặc dù đã "đầu tư" nhiều năm
   • Investment: Bán cổ phiếu thua lỗ thay vì giữ để "gỡ vốn"
 
-#### **42. Marginal Utility Razor** - Dao Cạo Lợi Ích Biên
-
-Tập trung vào lợi ích của đơn vị bổ sung tiếp theo, không phải tổng thể.
-
-- **Incremental Value**: Giá trị gia tăng.
-- **Diminishing Returns**: Lợi ích giảm dần.
-- **Marginal Analysis**: Phân tích biên.
-- **Optimal Point**: Điểm tối ưu khi lợi ích biên = chi phí biên.
-
-→ **Liên kết:** OPERATIONS (Economic Reasoning), FOUNDATIONS (Optimization)
-
-#### **43. Progress Indicators** - Chỉ Báo Tiến Độ
+#### **42. Progress Indicators** - Chỉ Báo Tiến Độ
 
 Các chỉ số theo dõi sự tiến bộ hướng tới mục tiêu.
 
@@ -10156,7 +10145,7 @@ Các chỉ số theo dõi sự tiến bộ hướng tới mục tiêu.
 
 → **Liên kết:** OPERATIONS (Progress Tracking), VALIDATION (Metrics)
 
-#### **44. Navigation KPIs** - Chỉ Số Hiệu Suất Chính Điều Hướng
+#### **43. Navigation KPIs** - Chỉ Số Hiệu Suất Chính Điều Hướng
 
 Các chỉ số quan trọng để đánh giá hiệu quả điều hướng.
 
@@ -14789,16 +14778,37 @@ Khi phân bổ tài nguyên và thiết lập ưu tiên, hãy áp dụng nguyên
 → **Kết hợp với:** NAVIGATION #10 (Opportunity Cost Awareness) để ra quyết định tối ưu
 → **Liên kết:** VALIDATION (Bias Correction), OPERATIONS (Rational Decision Making)
 
-#### **44. Marginal Utility Razor** - Dao Cạo Lợi Ích Cận Biên
+#### **44. Marginal Utility Razor** - Dao Cạo Lợi Ích Biên [Tối Ưu Hóa Phân Bổ]
 
-Đánh giá lợi ích gia tăng của mỗi đơn vị thêm vào.
+Nguyên tắc ra quyết định dựa trên đánh giá lợi ích gia tăng của mỗi đơn vị tài nguyên bổ sung tiếp theo, thay vì nhìn vào tổng thể. Đây là công cụ CỐT LÕI để phân bổ tài nguyên khan hiếm một cách tối ưu.
 
-- **Incremental Benefit**: Lợi ích gia tăng.
-- **Diminishing Returns**: Lợi nhuận giảm dần.
-- **Optimization Point**: Điểm tối ưu.
-- **Resource Allocation**: Phân bổ tài nguyên dựa trên lợi ích cận biên.
+- **Incremental Value Analysis**: Phân tích giá trị gia tăng - "Đơn vị tiếp theo mang lại giá trị gì?"
+- **Diminishing Returns Recognition**: Nhận biết lợi ích giảm dần - Đơn vị thứ 10 thường ít giá trị hơn đơn vị đầu tiên.
+- **Optimal Allocation Point**: Điểm phân bổ tối ưu - Dừng khi lợi ích biên = chi phí biên.
+- **Resource Reallocation Strategy**: Chiến lược tái phân bổ - Di chuyển tài nguyên từ nơi lợi ích biên thấp sang nơi cao hơn.
 
-→ **Liên kết:** OPERATIONS (Optimization), VALIDATION (Economic Analysis).
+→ **Nguyên tắc ứng dụng:**
+  • Trong Decision-Making: "Quyết định tiếp theo của tôi nên là gì?"
+  • Trong Resource Allocation: "Tôi nên đầu tư giờ/đô la tiếp theo vào đâu?"
+  • Trong Priority Management: "Nhiệm vụ nào mang lại ROI biên cao nhất?"
+  • Trong Optimization: "Khi nào thì 'đủ tốt' và nên chuyển sang việc khác?"
+
+→ **Ví dụ thực tế:**
+  • Học tập: Giờ học thứ 1 mang lại hiểu biết lớn, giờ thứ 10 lợi ích giảm dần
+  • Marketing: Đô la quảng cáo đầu tiên hiệu quả cao, sau đó diminishing returns
+  • Tối ưu hóa: Cải thiện từ 80% → 90% dễ hơn từ 95% → 99%
+  • Thời gian: Giờ thứ nhất làm việc hiệu quả nhất, giờ thứ 12 năng suất giảm
+
+→ **Liên kết nội bộ:**
+  • NAVIGATION (Pareto Principle, Eisenhower Matrix, Opportunity Cost)
+  • OPERATIONS (Economic Reasoning, Decision Frameworks - vai trò như một razor)
+  • FOUNDATIONS (Optimization, Diminishing Returns)
+  • VALIDATION (Economic Analysis, ROI Measurement)
+
+→ **Cross-reference:**
+  • Liên quan đến OPERATIONS Decision Frameworks như một "razor" (nguyên tắc lựa chọn)
+  • Nền tảng lý thuyết: Kinh tế học vi mô, Utility Theory
+  • Ứng dụng rộng: Time management, Energy management, Attention management
 
 ---
 
