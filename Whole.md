@@ -9597,16 +9597,12 @@ Một chu trình ra quyết định và hành động chiến thuật được p
 → **Ứng dụng chiến lược:** NAVIGATION (Strategic Wayfinding #3 - Decision Speed & Tempo)
 → **Nguyên lý nền tảng:** FOUNDATIONS (Feedback Loops)
 
-#### **5. Eisenhower Matrix** - Ma Trận Eisenhower
+#### **5. Eisenhower Matrix** - Ma Trận Eisenhower → Xem NAVIGATION #1
 
-Một khung quản lý thời gian và ưu tiên công việc dựa trên hai tiêu chí: Mức độ khẩn cấp và Tầm quan trọng.
+Công cụ ưu tiên phân loại nhiệm vụ theo hai trục: Urgent vs Important. Đã được GỘP VÀO NAVIGATION #1 (Resource & Priority Management) - vị trí tự nhiên hơn cho công cụ quản lý tài nguyên và ưu tiên.
 
-- **Quadrant 1 (Urgent & Important)**: Thực hiện ngay lập tức (Do First).
-- **Quadrant 2 (Not Urgent & Important)**: Lên kế hoạch để làm (Schedule).
-- **Quadrant 3 (Urgent & Not Important)**: Ủy quyền (Delegate).
-- **Quadrant 4 (Not Urgent & Not Important)**: Loại bỏ (Eliminate).
-
-→ **Liên kết:** DYNAMICS (Attention Dynamics), AMPLIFICATION (Leverage)
+→ **Xem chi tiết:** NAVIGATION #1 (Eisenhower Matrix - phiên bản đầy đủ với 4 quadrants và hướng dẫn ứng dụng)
+→ **Nguyên lý nền tảng:** OPERATIONS #38 (Eisenhower's Razor - nguyên tắc urgent vs important)
 
 #### **6. Multi-Criteria Decision Analysis (MCDA)** - Phân Tích Quyết Định Đa Tiêu Chí
 
@@ -9991,16 +9987,25 @@ Xu hướng quy kết hành vi của người khác cho tính cách nhưng hành
 
 → **Liên kết:** OPERATIONS (Social Reasoning), META (Self-Awareness)
 
-#### **38. Eisenhower's Razor** - Dao Cạo của Eisenhower
+#### **38. Eisenhower's Razor** - Dao Cạo của Eisenhower [Nguyên Tắc Urgent vs Important]
 
-"What is important is seldom urgent and what is urgent is seldom important" - Điều quan trọng hiếm khi khẩn cấp và điều khẩn cấp hiếm khi quan trọng.
+"What is important is seldom urgent, and what is urgent is seldom important" - Điều quan trọng hiếm khi khẩn cấp, và điều khẩn cấp hiếm khi quan trọng.
 
-- **Priority Clarity**: Làm rõ ưu tiên thực sự.
-- **Urgency vs. Importance**: Phân biệt khẩn cấp và quan trọng.
-- **Focus Direction**: Định hướng tập trung đúng.
-- **Time Management**: Quản lý thời gian hiệu quả.
+Đây là NGUYÊN TẮC TRI TUỆ về bản chất của thời gian và ưu tiên - không phải là công cụ mà là INSIGHT giải thích tại sao chúng ta thường sai lầm trong việc phân bổ thời gian.
 
-→ **Liên kết:** OPERATIONS (Eisenhower Matrix), NAVIGATION (Prioritization)
+- **Priority Clarity (Làm rõ ưu tiên thực sự)**: Urgent ≠ Important. Não bộ bị lập trình để phản ứng với "urgent" (stress response), nhưng giá trị thực sự đến từ "important" (long-term impact).
+
+- **Urgency vs. Importance (Phân biệt khẩn cấp và quan trọng)**: URGENT = áp lực thời gian, yêu cầu phản ứng ngay. IMPORTANT = đóng góp vào mục tiêu, giá trị, sứ mệnh dài hạn. Bẫy: Urgent tạo ảo giác về tầm quan trọng.
+
+- **Focus Direction (Định hướng tập trung đúng)**: Hệ thống xã hội ưu tiên "urgent" (email, meeting, deadline). Thành công đến từ việc tập trung vào "important" (strategy, growth, relationships). Nguyên tắc: Bảo vệ thời gian cho "important but not urgent".
+
+- **Time Management (Quản lý thời gian hiệu quả)**: Đừng để "urgent" ăn cắp thời gian của "important". Tạo không gian cho công việc có tác động dài hạn. Học cách nói "không" với những gì urgent nhưng không important.
+
+**Tại sao nguyên tắc này quan trọng:** Não người được thiết kế để ưu tiên mối đe dọa trước mắt (urgent), nhưng trong thế giới hiện đại, hầu hết điều "urgent" không phải mối đe dọa thực sự, trong khi những điều thực sự định hình tương lai (important) lại không tạo áp lực tức thời.
+
+→ **Công cụ thực hành:** NAVIGATION #1 (Eisenhower Matrix - ứng dụng nguyên tắc này)
+→ **Liên kết nội bộ:** OPERATIONS #39 (Parkinson's Law - về bản chất thời gian), META (Bias Awareness - thiên kiến ưu tiên urgent)
+→ **Các Razor liên quan:** OPERATIONS #36 (Hanlon's Razor), #37 (Occam's Razor) - cùng nhóm analytical razors
 
 #### **39. Parkinson's Law** - Định Luật Parkinson [Time & Resource Management]
 
@@ -14062,16 +14067,23 @@ _Các công cụ để phân bổ nguồn lực hữu hạn, thiết lập ưu t
 
 ### Các mục cốt lõi
 
-#### **1. Eisenhower Matrix** - Ma Trận Eisenhower (Khẩn Cấp vs. Quan Trọng)
+#### **1. Eisenhower Matrix** - Ma Trận Eisenhower [Công Cụ Ưu Tiên Chính]
 
-Một công cụ ưu tiên phân loại nhiệm vụ dựa trên hai chiều: khẩn cấp và quan trọng.
+Công cụ ưu tiên cổ điển phân loại nhiệm vụ theo HAI TRỤC: Tầm quan trọng (Important) và Mức độ khẩn cấp (Urgent). Matrix này là CÔNG CỤ THỰC HÀNH để biến nguyên tắc "important vs urgent" thành hành động cụ thể.
 
-- **Quadrant I (Urgent & Important)**: Làm ngay lập tức - khủng hoảng, deadline.
-- **Quadrant II (Not Urgent but Important)**: Lên kế hoạch - phát triển, xây dựng mối quan hệ.
-- **Quadrant III (Urgent but Not Important)**: Ủy thác - phiền nhiễu, một số cuộc gọi.
-- **Quadrant IV (Not Urgent & Not Important)**: Loại bỏ - lãng phí thời gian.
+- **Quadrant I (Urgent & Important - KHẨN CẤP & QUAN TRỌNG)**: LÀM NGAY (Do First) - Khủng hoảng, deadline sắp tới, vấn đề cần xử lý gấp. Nguyên tắc: Đây là lửa cần dập ngay.
 
-→ **Liên kết:** OPERATIONS (Time Management), VALIDATION (Priority Testing).
+- **Quadrant II (Not Urgent but Important - KHÔNG KHẨN CẤP NHƯNG QUAN TRỌNG)**: LÊN KẾ HOẠCH (Schedule) - Phát triển bản thân, xây dựng mối quan hệ, chiến lược dài hạn. Nguyên tắc: Quadrant TẠO RA GIÁ TRỊ - đây là nơi cần đầu tư thời gian.
+
+- **Quadrant III (Urgent but Not Important - KHẨN CẤP NHƯNG KHÔNG QUAN TRỌNG)**: ỦY THÁC (Delegate) - Một số cuộc gọi, email, phiền nhiễu từ người khác. Nguyên tắc: Đừng nhầm lẫn giữa "urgent" và "important".
+
+- **Quadrant IV (Not Urgent & Not Important - KHÔNG KHẨN CẤP & KHÔNG QUAN TRỌNG)**: LOẠI BỎ (Eliminate) - Lãng phí thời gian, hoạt động vô nghĩa, procrastination. Nguyên tắc: Đơn giản là đừng làm.
+
+**Insight quan trọng:** Hầu hết mọi người sống ở Quadrant I và III (bị urgent chi phối), trong khi thành công đến từ Quadrant II (đầu tư vào important nhưng not urgent).
+
+→ **Nguyên lý nền tảng:** OPERATIONS #38 (Eisenhower's Razor - nguyên tắc giải thích tại sao Matrix hiệu quả)
+→ **Liên kết nội bộ:** DYNAMICS (Attention Management), VALIDATION (Priority Testing)
+→ **Công cụ bổ sung:** NAVIGATION #2 (Pareto Principle), #3 (MoSCoW Method)
 
 #### **2. Pareto Principle (80/20 Rule)** - Nguyên Tắc Pareto
 
