@@ -13127,16 +13127,35 @@ Nhận diện và điều hướng các điểm mà tại đó một hệ thốn
 
 → **Liên kết:** DYNAMICS (Tipping Points), CREATION (Breakthrough Dynamics).
 
-#### **13. Void Navigation** - Điều Hướng Hư Không
+#### **13. Negative Space Navigation** - Điều Hướng Qua Khoảng Trống
 
-Khả năng hoạt động trong các trạng thái trống rỗng, không có cấu trúc hoặc ý nghĩa rõ ràng.
+Nghệ thuật chiến lược sử dụng "những gì KHÔNG ở đó" để tìm đường - điều hướng qua việc nhận diện khoảng trống, lỗ hổng, và cơ hội ẩn trong hệ thống.
 
-- **Embracing Emptiness**: Chấp nhận sự trống rỗng mà không vội vàng lấp đầy.
-- **Potentiality Sensing**: Cảm nhận tiềm năng thuần túy trước khi nó thành hình.
-- **Letting Go of Frameworks**: Buông bỏ các khung và mô hình hiện có.
-- **Creation from Nothingness**: Sáng tạo từ hư không.
+**CHIẾN LƯỢC NEGATIVE SPACE:**
+- **Gap Identification**: Nhận diện khoảng trống trong thị trường, tổ chức, tri thức
+- **Opportunity in Absence**: Tìm cơ hội trong những gì thiếu vắng
+- **Strategic Silence**: Sử dụng im lặng và "không hành động" như chiến thuật
+- **Void as Advantage**: Biến sự "không có" thành lợi thế cạnh tranh
 
-→ **Liên kết:** TRANSCENDENCE (The Void - Sunyata), CREATION (Generative Processes).
+**CÔNG CỤ THỰC HÀNH:**
+- **White Space Analysis**: Phân tích khoảng trống trắng trong chiến lược
+- **Blue Ocean Strategy**: Tìm thị trường chưa có đối thủ (khoảng trống cạnh tranh)
+- **Uncertainty Navigation**: Điều hướng khi không có thông tin đầy đủ
+- **Apophatic Strategy**: Chiến lược qua loại trừ - biết mình KHÔNG đi đâu
+
+**KHI NÀO SỬ DỤNG:**
+- Khi thị trường/lĩnh vực quá đông đúc → tìm khoảng trống
+- Khi thiếu thông tin → điều hướng qua loại trừ
+- Khi cạnh tranh trực diện không khả thi → tìm "blue ocean"
+- Khi cần đột phá → nhìn vào những gì người khác bỏ qua
+
+→ **Liên kết:**
+  • TRANSCENDENCE #27 (Void Navigation - khái niệm master về hư không)
+  • OPERATIONS (Gap Analysis, Constraint Analysis)
+  • CREATION (Blue Ocean Strategy, Contrarian Thinking)
+  • VALIDATION (Negative Space Analysis)
+
+→ **Ghi chú:** Khác với "Void Navigation" ở TRANSCENDENCE (về làm chủ trống rỗng siêu việt), đây là về ứng dụng CHIẾN THUẬT của negative space trong navigation.
 
 #### **14. Paradox Navigation** - Điều Hướng Nghịch Lý
 
@@ -23727,7 +23746,7 @@ CÔNG CỤ VƯỢT THOÁT nghịch lý: Tiếp cận chân lý TỐI HẬU bằn
 - **Liberation by Subtraction**: Giải thoát qua LOẠI BỎ chứ không thêm vào
 - **Mystery Preservation**: Giữ BÍ ẨN thay vì cưỡng ép giải thích
 
-→ **Liên kết nội bộ:** TRANSCENDENCE (Paradox Resolution), TRANSCENDENCE (The Void)
+→ **Liên kết nội bộ:** TRANSCENDENCE (Paradox Resolution), TRANSCENDENCE (Sunyata, Void Navigation)
 → **Gốc lý thuyết:** FOUNDATIONS #5 (Via Negativa - nguyên lý nền tảng)
 → **Các biến thể thực hành:**
   • NAVIGATION #10 (Apophatic Navigation - ứng dụng trong định hướng)
@@ -26138,16 +26157,47 @@ Nhận thức liên tục, giống như dòng nước, của sự hiện diện 
 
 ---
 
-#### **27. Void Navigation** - Điều Hướng Trong Không
+#### **27. Void Navigation - Điều Hướng Hư Không** [Master Concept]
 
-Khả năng di chuyển qua và làm việc với sự trống rỗng, khoảng trống và tiềm năng.
+Khả năng làm chủ và di chuyển qua các trạng thái trống rỗng, không có cấu trúc hoặc ý nghĩa rõ ràng - từ tìm đường chiến lược trong bất định cho đến trải nghiệm siêu việt về không tánh.
 
-- **Emptiness Mastery**: Làm chủ không tánh; thoải mái trong sự trống rỗng.
-- **Potential Space**: Không gian tiềm năng; khoảng trống là nơi của khả năng.
-- **Non-Being Navigation**: Điều hướng phi tồn tại; di chuyển qua những gì không hiển nhiên.
-- **Creative Void**: Khoảng trống sáng tạo; sự trống rỗng là nguồn của sự sáng tạo.
+**ĐA CHIỀU CỦA HƯ KHÔNG:**
 
-→ **Liên kết:** CREATION (Void as Source), TRANSCENDENCE (Emptiness).
+**1. CHIẾN LƯỢC NAVIGATION** (Strategic Wayfinding):
+- **Embracing Uncertainty**: Chấp nhận bất định mà không vội tìm giải pháp
+- **Strategic Emptiness**: Sử dụng "khoảng trống" như lợi thế chiến lược
+- **Potentiality Sensing**: Cảm nhận tiềm năng trước khi nó thành hình
+- **Letting Go of Maps**: Buông bỏ bản đồ và framework khi chúng không còn phù hợp
+
+**2. SIÊU VIỆT MASTERY** (Transcendent Experience):
+- **Emptiness Mastery**: Làm chủ không tánh - thoải mái trong trống rỗng tuyệt đối
+- **Non-Being Navigation**: Điều hướng phi tồn tại - di chuyển qua cái không hiển nhiên
+- **Creative Void**: Khoảng trống sáng tạo - nguồn gốc của mọi khả năng
+- **Potential Space**: Không gian tiềm năng thuần túy - nơi mọi thứ có thể xuất hiện
+
+**3. SÁNG TẠO TỪ HƯ KHÔNG** (Creation from Emptiness):
+- **Creation from Nothingness**: Sáng tạo từ khoảng trống
+- **Fertile Emptiness**: Trống rỗng sinh sản - void như đất màu mỡ
+- **Zero Point Access**: Truy cập điểm không - nơi mọi khả năng tồn tại
+- **Void as Womb**: Hư không như tử cung - nơi thai nghén
+
+**NGUYÊN LÝ THỰC HÀNH:**
+- Không vội vàng lấp đầy sự trống rỗng với ý nghĩa hay hành động
+- Tin tưởng vào trí tuệ của "không biết" (apophatic wisdom)
+- Nhận ra sự trống rỗng KHÔNG phải là "thiếu" mà là "đầy đủ tiềm năng"
+- Sử dụng void như công cụ CHIẾN LƯỢC (trong điều hướng) và SIÊU VIỆT (trong giác ngộ)
+
+→ **Liên kết nội bộ:**
+  • CREATION (Void as Source, Generative Processes)
+  • FOUNDATIONS (Sunyata, Buddhist Emptiness, Via Negativa)
+  • DYNAMICS (Liminal Spaces, Threshold States)
+  • NAVIGATION (Strategic wayfinding trong bất định)
+
+→ **Ứng dụng cross-domain:**
+  • NAVIGATION: Strategic wayfinding khi không có bản đồ
+  • CREATION: Nguồn gốc của sự sáng tạo đột phá
+  • VALIDATION: Negative space trong phân tích
+  • INTEGRATION: Silence và pauses trong giao tiếp
 
 ---
 
