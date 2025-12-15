@@ -226,7 +226,7 @@ NGUYÊN LÝ PHỔ QUÁT về sự cân bằng, lặp lại và sự phá vỡ c�
 - Thẩm mỹ: Đối xứng = đẹp ↔ Bất đối xứng = thú vị, năng động
 - Xã hội: Công bằng (đối xứng) ↔ Đa dạng (bất đối xứng)
 
-→ **Liên kết:** CREATION (Design Principles), TRANSCENDENCE (Unity of Opposites), META LAYER #10 (công cụ phát hiện pattern này xuyên domains), CREATION - TRIZ Principle #4 (chuyển từ đối xứng sang bất đối xứng)
+→ **Liên kết:** CREATION (Design Principles), TRANSCENDENCE (Unity of Opposites), META LAYER #10 (công cụ phát hiện pattern này xuyên domains), CREATION - Chức Năng 5 - Khái niệm #3 (TRIZ Principle #4: Asymmetry - chuyển từ đối xứng sang bất đối xứng)
 
 #### **14. Inertia & Momentum** - Quán Tính & Động Lượng
 
@@ -10526,16 +10526,17 @@ Tạo ra một chuỗi hình ảnh hoặc phác thảo để minh họa một h�
 
 → **Liên kết:** INTEGRATION (Human-Centered Design), VALIDATION (User Testing)
 
-#### **23. TRIZ - Theory of Inventive Problem Solving**
+#### **23. TRIZ - Theory of Inventive Problem Solving** [→ Xem Chi Tiết Tại Chức Năng 5]
 
-Một hệ thống các nguyên tắc để giải quyết các vấn đề kỹ thuật một cách có hệ thống.
+Hệ thống giải quyết vấn đề dựa trên phân tích hàng triệu bằng sáng chế - biến đổi mới thành khoa học có thể dự đoán. TRIZ cung cấp các công cụ có cấu trúc để vượt qua mâu thuẫn kỹ thuật một cách hệ thống.
 
-- **40 Inventive Principles**: Áp dụng 40 nguyên tắc sáng chế phổ quát
-- **Contradiction Matrix**: Sử dụng ma trận mâu thuẫn để tìm giải pháp
-- **Ideal Final Result**: Hướng tới kết quả cuối cùng lý tưởng
-- **Pattern-Based Innovation**: Đổi mới dựa trên các mẫu hình đã được chứng minh
+- **40 Inventive Principles**: Nguyên tắc sáng chế phổ quát
+- **Contradiction Matrix**: Ma trận giải quyết mâu thuẫn
+- **Ideal Final Result**: Hướng tới kết quả lý tưởng
+- **Pattern-Based Innovation**: Đổi mới dựa trên mẫu hình
 
 → **Liên kết:** OPERATIONS (Systematic Innovation), FOUNDATIONS (Universal Principles)
+→ **⚠️ CHI TIẾT ĐẦY ĐỦ:** Xem CHỨC NĂNG 5: DESIGN THINKING - Khái niệm #3
 
 #### **24. Biomimicry** - Bắt Chước Sinh Học
 
@@ -12386,9 +12387,9 @@ Bộ công cụ có cấu trúc để kích thích đổi mới thông qua 7 chi
 
 ---
 
-#### **3. TRIZ - Theory of Inventive Problem Solving** (Chi Tiết Đầy Đủ)
+#### **3. TRIZ - Theory of Inventive Problem Solving** [Phiên Bản Đầy Đủ]
 
-Hệ thống giải quyết vấn đề dựa trên các mẫu hình sáng chế được phân tích từ hàng triệu bằng sáng chế - biến đổi mới thành khoa học có thể dự đoán.
+Hệ thống giải quyết vấn đề dựa trên các mẫu hình sáng chế được phân tích từ hàng triệu bằng sáng chế - biến đổi mới thành khoa học có thể dự đoán. Phát triển bởi Genrich Altshuller (Liên Xô, 1946-1998), TRIZ cung cấp các công cụ có CẤU TRÚC và LẶP LẠI ĐƯỢC để giải quyết các vấn đề phức tạp.
 
 **40 Inventive Principles (40 Nguyên Tắc Sáng Chế - Chọn Lọc):**
 
@@ -12431,7 +12432,11 @@ Hệ thống giải quyết vấn đề dựa trên các mẫu hình sáng chế
 - **Field Introduction**: Giới thiệu trường mới để cải thiện hệ thống
 - **Resource Utilization**: Khai thác tài nguyên tiềm ẩn trong hệ thống
 
-→ **Liên kết:** FOUNDATIONS (Universal Principles), OPERATIONS (Systematic Problem-Solving), [META] LAYER (Pattern Recognition)
+→ **Liên kết nội bộ:** OPERATIONS (Systematic Problem-Solving), [META] LAYER (Pattern Recognition)
+→ **Gốc lý thuyết:** FOUNDATIONS (Universal Principles)
+→ **Reference ngắn:** CHỨC NĂNG 1: LATERAL THINKING - Khái niệm #23
+→ **So sánh:** SCAMPER (cùng chức năng) - đơn giản hơn, intuitive hơn
+→ **Phiên bản đơn giản:** Systematic Inventive Thinking (SIT) - Khái niệm #21 (CHỨC NĂNG 4: BREAKTHROUGH INNOVATION)
 
 ---
 
@@ -28025,7 +28030,7 @@ CÔNG CỤ META-NHẬN THỨC để phát hiện vai trò của đối xứng v�
 3. **Dự đoán tiến hóa:** Hệ thống sẽ phá vỡ đối xứng nào tiếp theo?
 4. **Đánh giá thẩm mỹ:** Cân bằng giữa đối xứng (hài hòa) và bất đối xứng (năng động)
 
-→ **Liên kết:** FOUNDATIONS #13 (Symmetry & Asymmetry - nguyên lý phổ quát), CREATION #4 (TRIZ - Asymmetry as innovation tool), TRANSCENDENCE (Unity of Opposites), DYNAMICS (Emergence & Phase Transitions)
+→ **Liên kết:** FOUNDATIONS #13 (Symmetry & Asymmetry - nguyên lý phổ quát), CREATION - Chức Năng 5 - Khái niệm #3 (TRIZ - Asymmetry as innovation tool), TRANSCENDENCE (Unity of Opposites), DYNAMICS (Emergence & Phase Transitions)
 
 → **Ví dụ xuyên domain:**
   • Vật lý: Phá vỡ đối xứng → Big Bang
