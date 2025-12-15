@@ -11133,16 +11133,19 @@ Thiết kế dịch vụ từ góc nhìn toàn diện, xem xét cả trải nghi
 
 → **Liên kết:** INTEGRATION (System Design), VALIDATION (User Experience Testing)
 
-#### **25. Co-Creation** - Đồng Sáng Tạo
+#### **25. Co-Creation** - Đồng Sáng Tạo [Phương Pháp Đổi Mới Đột Phá]
 
-Làm việc cùng với khách hàng, người dùng hoặc các bên liên quan để tạo ra giá trị mới.
+Phương pháp đổi mới trong đó NGƯỜI SÁNG TẠO làm việc trực tiếp cùng KHÁCH HÀNG, NGƯỜI DÙNG hoặc CÁC BÊN LIÊN QUAN để cùng nhau tạo ra giá trị mới và đột phá. Khác với INTEGRATION #8 tập trung vào QUÁ TRÌNH hợp tác, đây là về KẾT QUẢ SÁNG TẠO - những sản phẩm/giải pháp mới xuất hiện từ sự đồng sáng tạo.
 
-- **Participatory Design**: Thiết kế có sự tham gia của người dùng cuối
-- **Open Innovation Platforms**: Nền tảng đổi mới mở cho đồng sáng tạo
-- **Living Labs**: Các phòng thí nghiệm sống để thử nghiệm trong bối cảnh thực tế
-- **Community-Driven Development**: Phát triển được dẫn dắt bởi cộng đồng
+- **Participatory Design**: Thiết kế có sự tham gia của người dùng cuối - người dùng như đồng thiết kế viên, không chỉ là người cung cấp feedback
+- **Open Innovation Platforms**: Nền tảng đổi mới mở - mời gọi ý tưởng và giải pháp từ bên ngoài tổ chức
+- **Living Labs**: Phòng thí nghiệm sống - thử nghiệm trong bối cảnh thực tế với người dùng thực
+- **Community-Driven Development**: Phát triển được dẫn dắt bởi cộng đồng - sản phẩm phản ánh nhu cầu và giá trị của cộng đồng
 
-→ **Liên kết:** AMPLIFICATION (Collective Intelligence), INTEGRATION (Collaborative Creation)
+→ **Liên kết:** VALIDATION (User Testing), NAVIGATION (Market Needs)
+→ **Quá trình hỗ trợ:** INTEGRATION #8 (Co-Creation & Participatory Design - phương pháp làm việc cùng nhau)
+→ **Khuếch đại:** AMPLIFICATION (Collective Intelligence, Community Building)
+→ **Ví dụ thực tế:** LEGO Ideas, Wikipedia, Open Source Software, Design Thinking Workshops với người dùng
 
 #### **26. Innovation Labs & Sandboxes**
 
@@ -17864,16 +17867,20 @@ Kỹ năng hướng dẫn và tạo điều kiện cho các nhóm làm việc hi
 
 ---
 
-#### **8. Co-Creation & Participatory Design** - Đồng Sáng Tạo & Thiết Kế Tham Gia
+#### **8. Co-Creation & Participatory Design** - Đồng Sáng Tạo & Thiết Kế Tham Gia [Phương Thức Hợp Tác]
 
-Tích cực thu hút người dùng hoặc bên liên quan vào quá trình thiết kế và sáng tạo.
+PHƯƠNG THỨC làm việc cùng nhau trong đó tất cả các bên liên quan được tích cực thu hút vào QUÁ TRÌNH thiết kế và sáng tạo. Khác với CREATION #25 tập trung vào SẢN PHẨM đổi mới, đây là về CÁCH THỨC hợp tác - làm thế nào để nhiều tiếng nói cùng tạo ra một điều gì đó có ý nghĩa.
 
-- **User as Co-Designer**: Người dùng như đồng thiết kế.
-- **Inclusive Process**: Quá trình bao hàm; đảm bảo tất cả các tiếng nói được lắng nghe.
-- **Shared Ownership**: Sở hữu chung; mọi người cảm thấy có trách nhiệm với kết quả.
-- **Emergent Solutions**: Các giải pháp đột sinh từ sự tương tác.
+- **User as Co-Designer**: Người dùng như đồng thiết kế - không phải chỉ cung cấp yêu cầu mà là người cùng thiết kế giải pháp
+- **Inclusive Process**: Quá trình bao hàm - đảm bảo TẤT CẢ các tiếng nói được lắng nghe và tôn trọng
+- **Shared Ownership**: Sở hữu chung - mọi người cảm thấy có TRÁCH NHIỆM với kết quả vì họ đã cùng tạo ra nó
+- **Emergent Solutions**: Các giải pháp ĐỘT SINH từ sự tương tác - không ai lập trình trước, xuất hiện từ đối thoại
 
-→ **Liên kết:** CREATION (Co-Creation), VALIDATION (Stakeholder Validation).
+→ **Liên kết:** OPERATIONS (Group Dynamics), NAVIGATION (Process Management)
+→ **Kết quả tạo ra:** CREATION #25 (Co-Creation - sản phẩm/giải pháp đổi mới)
+→ **Phương pháp hỗ trợ:** INTEGRATION #1 (Dialogue), #2 (Collaborative Problem-Solving)
+→ **Xác thực:** VALIDATION (Stakeholder Validation, Intersubjective Verification)
+→ **Ví dụ thực tế:** Design Thinking Workshops, Community Planning Sessions, Participatory Budgeting, World Café dialogues
 
 ---
 
