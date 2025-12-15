@@ -6663,7 +6663,7 @@ Xu hướng các trạng thái cảm xúc tự củng cố và duy trì theo th�
 - **Mood Inertia**: Quán tính tâm trạng
 - **Intervention Points**: Các điểm can thiệp
 
-→ **Liên kết:** AMPLIFICATION (Self-Reinforcing Cycles), VALIDATION (Pattern Breaking)
+→ **Liên kết:** AMPLIFICATION (Self-Reinforcing Cycles), CREATION (Pattern Breaking - cấp độ cá nhân)
 
 #### **20. Peak Experience** - Trải Nghiệm Đỉnh Cao
 
@@ -10676,16 +10676,21 @@ Kỹ thuật tư duy sáng tạo: kết hợp các ý tưởng, phương pháp h
     • Interdisciplinary Fusion #41 (kết hợp liên ngành)
     → **Ứng dụng:** Brainstorming đa ngành, Design Thinking, Innovation Labs
 
-#### **38. Pattern Breaking** - Phá Vỡ Mẫu Hình
+#### **38. Pattern Breaking - Phá Vỡ Mẫu Hình** [Cấp Độ Cá Nhân]
 
-Hành động có chủ đích của việc phá vỡ các thói quen và quy trình hàng ngày để kích thích các kết nối thần kinh mới.
+Hành động có chủ đích phá vỡ các thói quen và quy trình tư duy cá nhân để kích thích các kết nối thần kinh mới và mở ra không gian sáng tạo. Đây là công cụ SÁNG TẠO ở cấp độ vi mô - làm việc với bộ não và tâm trí cá nhân.
 
-- **Routine Disruption**: Thay đổi các thói quen hàng ngày
-- **Expectation Violation**: Vi phạm các kỳ vọng để buộc não bộ phải chú ý
-- **Shifting Perspectives**: Thay đổi góc nhìn một cách có hệ thống
-- **Novelty Injection**: Tiêm "sự mới lạ" vào hệ thống tư duy
+- **Routine Disruption**: Thay đổi các thói quen hàng ngày - ăn khác, đi đường khác, làm việc khác giờ
+- **Expectation Violation**: Vi phạm kỳ vọng của bản thân - làm điều "không đúng tính" để wake up não bộ
+- **Shifting Perspectives**: Thay đổi góc nhìn có hệ thống - nhìn vấn đề từ 10 góc độ khác nhau
+- **Novelty Injection**: Tiêm sự mới lạ vào hệ thống - trải nghiệm mới → kết nối mới → ý tưởng mới
 
-→ **Liên kết:** DYNAMICS (Transformation Dynamics), [META] LAYER (Cognitive Agility)
+→ **Liên kết nội bộ:** DYNAMICS (Transformation Dynamics), META (Cognitive Agility)
+→ **Ứng dụng:** Lateral Thinking, Ideation, Personal Creativity
+→ **Quy mô:** CÁ NHÂN - thói quen, tư duy, hành vi
+→ **Xuất hiện ở domain khác:**
+  • INTEGRATION #39 (phá vỡ ở cấp độ hệ thống và paradigm)
+  • Sự khác biệt: CREATION tập trung vào CÁ NHÂN để kích thích sáng tạo, INTEGRATION tập trung vào HỆ THỐNG để tạo chuyển đổi mô thức
 
 #### **39. "Yes, and..." Thinking** - Tư Duy "Vâng, và..."
 
@@ -11554,7 +11559,7 @@ Thay đổi môi trường và bối cảnh để kích thích góc nhìn mới.
 - **Perspective Travel**: "Du lịch" qua các góc nhìn khác nhau
 - **Novelty Seeking**: Tìm kiếm sự mới lạ có hệ thống
 
-→ **Liên kết:** DYNAMICS (Pattern Breaking), NAVIGATION (Context Awareness)
+→ **Liên kết:** CREATION (Pattern Breaking - cấp độ cá nhân), NAVIGATION (Context Awareness)
 
 #### **18. Creative Momentum Building** - Xây Dựng Động Lượng Sáng Tạo
 
@@ -12398,7 +12403,7 @@ Bộ công cụ có cấu trúc để kích thích đổi mới thông qua 7 chi
 - **Đảo Vai Trò**: Hoán đổi vai trò của người dùng và nhà cung cấp
 - **Đảo Ngược Giả Định**: Thách thức các giả định cơ bản về cách làm việc
 
-→ **Liên kết nội bộ:** CREATION (Systematic Innovation), OPERATIONS (Structured Creativity), DYNAMICS (Pattern Breaking)
+→ **Liên kết nội bộ:** CREATION (Systematic Innovation, Pattern Breaking - cấp độ cá nhân), OPERATIONS (Structured Creativity)
 → **Cũng xuất hiện tại:** CREATION - CHỨC NĂNG 1 (Lateral Thinking) - Khái niệm #2 (bản tổng quan ngắn gọn với tham chiếu đến đây)
 
 ---
@@ -17453,16 +17458,21 @@ Kết hợp các yếu tố nghịch lý thành một tổng thể mạch lạc.
 
 ---
 
-#### **39. Pattern Breaking** - Phá Vỡ Mẫu Hình
+#### **39. Pattern Breaking - Phá Vỡ Mẫu Hình** [Cấp Độ Hệ Thống]
 
-Phá vỡ các mẫu hình cũ để tạo không gian cho cái mới.
+Phá vỡ các mẫu hình và mô thức tư duy ở cấp độ hệ thống để tạo không gian cho paradigm mới và đổi mới đột phá. Đây là công cụ CHUYỂN ĐỔI ở cấp độ vĩ mô - làm việc với cấu trúc tổng thể và mô thức nhận thức.
 
-- **Disruption**: Phá vỡ; ngắt mẫu hình hiện tại.
-- **Creative Destruction**: Phá hủy sáng tạo; phá cũ để xây mới.
-- **Innovation through Breaking**: Đổi mới qua phá vỡ; vượt qua giới hạn cũ.
-- **Paradigm Shift**: Chuyển đổi mô thức; thay đổi cơ bản cách nhìn.
+- **Disruption**: Phá vỡ mẫu hình hiện tại - ngắt cấu trúc tư duy đang thống trị
+- **Creative Destruction**: Phá hủy sáng tạo - phá bỏ cũ để xây dựng mới ở cấp độ hệ thống
+- **Innovation through Breaking**: Đổi mới qua phá vỡ - đột phá đến từ việc vượt qua giới hạn cũ
+- **Paradigm Shift**: Chuyển đổi mô thức - thay đổi CƠ BẢN cách nhìn nhận thực tại
 
-→ **Liên kết:** CREATION (Pattern Breaking), TRANSCENDENCE (Paradigm Shift).
+→ **Liên kết nội bộ:** CREATION (Pattern Breaking - cấp độ cá nhân), TRANSCENDENCE (Paradigm Shift)
+→ **Ứng dụng:** Cross-Paradigm Connection, Paradox Navigation, Systemic Innovation
+→ **Quy mô:** HỆ THỐNG - mô thức, paradigm, cấu trúc tổng thể
+→ **Xuất hiện ở domain khác:**
+  • CREATION #38 (phá vỡ ở cấp độ cá nhân để kích thích sáng tạo)
+  • Sự khác biệt: INTEGRATION phá vỡ MÔ THỨC tư duy lớn để tạo chuyển đổi paradigm, CREATION phá vỡ THÓI QUEN cá nhân để kích thích ý tưởng mới
 
 ---
 
@@ -23826,8 +23836,8 @@ Phá vỡ các mẫu hình tự động để tạo ra thay đổi.
 - **Disruption Strategy**: Chiến lược phá vỡ.
 - **Behavioral Shift**: Chuyển đổi hành vi.
 - **Habit Breaking**: Phá vỡ thói quen.
-- **State Change**: Thay đổi trạng thái.  
-    → **Liên kết:** DYNAMICS (State Change), TRANSCENDENCE (Pattern Breaking).
+- **State Change**: Thay đổi trạng thái.
+    → **Liên kết:** DYNAMICS (State Change), CREATION (Pattern Breaking - cấp độ cá nhân).
 
 ---
 
