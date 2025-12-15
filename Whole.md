@@ -13992,18 +13992,7 @@ Khả năng duy trì nhiều trạng thái khả năng đồng thời (quantum s
 
 💡 **Nguyên tắc vàng**: "Preserve quantum superposition as long as possible, collapse only when action is required or information is maximized."
 
-#### **25. Integral Navigation** - Điều Hướng Tích Hợp
-
-Tích hợp tất cả các quan điểm, chiều và cấp độ vào một cách tiếp cận thống nhất.
-
-- **Unified Perspective**: Góc nhìn thống nhất.
-- **Comprehensive Integration**: Tích hợp toàn diện.
-- **AQAL Framework**: All Quadrants, All Levels, All Lines.
-- **Holistic Planning**: Lập kế hoạch toàn diện.
-
-→ **Liên kết:** INTEGRATION (Integral Theory), [META] LAYER (Meta-Integration).
-
-#### **26. Spacetime Continuum** - Liên Tục Không-Thời Gian
+#### **25. Spacetime Continuum** - Liên Tục Không-Thời Gian
 
 Hiểu không gian và thời gian như một thực thể thống nhất, liên kết.
 
@@ -29564,16 +29553,43 @@ Khả năng chuyển đổi giữa các chiều và cấp độ thực tại kh�
 → **Ứng dụng thực hành:** NAVIGATION #23 (công cụ lập kế hoạch đa chiều).
 → **Bản chất:** Quan sát meta về chính quá trình điều hướng và framework evolution - khái niệm này TỰ THỂ HIỆN nguyên lý toàn ảnh bằng cách xuất hiện ở nhiều cấp độ trong Whole.
 
-#### **46. Integral Navigation** - Điều Hướng Toàn Diện
+#### **46. Integral Navigation** - Điều Hướng Toàn Diện [AQAL Framework]
 
-Điều hướng tích hợp tất cả các góc phần tư và cấp độ.
+Framework meta-navigation tích hợp TẤT CẢ các góc nhìn, cấp độ và chiều của thực tại sử dụng mô hình AQAL (All Quadrants, All Levels, All Lines, All States, All Types) của Ken Wilber. Đây là SIÊU CÔNG CỤ để quan sát và điều hướng bất kỳ hệ thống nào - một meta-framework chứa tất cả các frameworks khác.
 
-- **Comprehensive Wayfinding**: Tìm đường toàn diện.
-- **AQAL Navigation**: Điều hướng AQAL.
-- **Unified Path Discovery**: Khám phá con đường thống nhất.
-- **Holistic Guidance**: Dẫn dắt toàn diện.
+- **All Quadrants (Tất Cả Góc Phần Tư)**: 4 góc phần tư của thực tại - I (Interior-Individual/Chủ quan - ý nghĩa cá nhân), We (Interior-Collective/Liên chủ quan - văn hóa chia sẻ), It (Exterior-Individual/Khách quan - hành vi quan sát được), Its (Exterior-Collective/Hệ thống - cấu trúc xã hội). Mỗi hiện tượng tồn tại đồng thời trong cả 4 góc phần tư này.
 
-→ **Liên kết:** INTEGRATION (Integral Theory), NAVIGATION (Comprehensive Navigation).
+- **All Levels (Tất Cả Cấp Độ)**: Các cấp độ phát triển tiến hóa - từ nguyên thủy (archaic) → huyền thoại (mythic) → lý trí (rational) → đa nguyên (pluralistic) → tích hợp (integral) → siêu tích hợp (super-integral). Mỗi cấp độ cao hơn bao hàm và siêu việt (transcend and include) các cấp độ trước.
+
+- **All Lines (Tất Cả Dòng)**: Các dòng phát triển song song - nhận thức (cognitive), đạo đức (moral), cảm xúc (emotional), tâm linh (spiritual), thẩm mỹ (aesthetic), giao tiếp (interpersonal), nhu cầu (needs), v.v. Mỗi cá nhân có thể ở các cấp độ khác nhau trên các dòng khác nhau.
+
+- **All States (Tất Cả Trạng Thái)**: Các trạng thái ý thức tạm thời - thức (waking), mơ (dreaming), ngủ sâu (deep sleep), thiền định (meditative), dòng chảy (flow), cao trào (peak experiences). Khác với levels (trait/đặc điểm bền vững), states là trạng thái tạm thời.
+
+- **All Types (Tất Cả Kiểu Hình)**: Các kiểu hình ngang - nam/nữ tính (masculine/feminine), các kiểu tính cách (personality types), khí chất (temperaments), phong cách học tập, v.v. Các biến thể tồn tại ở mọi cấp độ.
+
+**ỨNG DỤNG SIÊU CÔNG CỤ:**
+
+• **Comprehensive Mapping (Lập Bản Đồ Toàn Diện)**: Lập bản đồ bất kỳ vấn đề, hệ thống hoặc hiện tượng nào qua tất cả 4 góc phần tư, tất cả cấp độ, tất cả dòng → không bỏ sót chiều nào.
+
+• **Blind Spot Detection (Phát Hiện Điểm Mù)**: Phát hiện các điểm mù trong tư duy bằng cách kiểm tra xem đã xem xét đủ góc phần tư, cấp độ, dòng chưa → chữa lành partial thinking.
+
+• **Holistic Problem-Solving (Giải Quyết Vấn Đề Toàn Diện)**: Giải quyết vấn đề từ tất cả các góc độ đồng thời - cá nhân và tập thể, bên trong và bên ngoài, nhiều cấp độ phát triển → tránh giải pháp một chiều.
+
+• **Meta-Framework Tool (Công Cụ Đánh Giá Framework)**: Sử dụng AQAL để đánh giá, so sánh và cải thiện các frameworks, lý thuyết, phương pháp khác → framework of frameworks.
+
+**LIÊN KẾT & ỨNG DỤNG:**
+
+→ **Gốc lý thuyết:** INTEGRATION (Integral Theory - Ken Wilber's magnum opus)
+→ **Áp dụng vào:** Có thể áp dụng cho BẤT KỲ domain nào khi cần navigation toàn diện - đây là universal meta-tool
+→ **Liên kết nội bộ:**
+  • INTEGRATION #36 (Cross-Paradigm Connection) - AQAL như công cụ tích hợp các paradigms
+  • [META] #42 (Meta-Wayfinding) - AQAL là meta-navigation tool
+  • TRANSCENDENCE #41 (Unity Consciousness) - AQAL dẫn đến nhận thức thống nhất khi thấy tất cả góc độ
+  • NAVIGATION (Multi-Dimensional Planning) - có thể dùng AQAL để lập kế hoạch toàn diện
+  • Tất cả 10 domains - AQAL là meta-lens để quan sát bất kỳ domain nào
+
+**TẠI SAO AQAL LÀ META-FRAMEWORK:**
+AQAL không phải là một framework cụ thể trong một domain - nó là framework ĐỂ QUAN SÁT và TỔ CHỨC tất cả các frameworks khác. Nó trả lời câu hỏi: "Làm sao đảm bảo ta không bỏ sót chiều quan trọng nào?" - đó là câu hỏi META, thuộc về META LAYER.
 
 ---
 
