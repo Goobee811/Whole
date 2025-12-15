@@ -14184,16 +14184,24 @@ Chiến lược điều hướng trong các hệ thống nơi các bên cùng ti
 → **Siêu việt hóa:** TRANSCENDENCE #31 (Transcendent Co-evolution - nâng lên mức độ ý thức cao hơn)
 → **Khác với:** TRANSCENDENCE #31 (chiến lược thực hành vs. nhận thức siêu việt)
 
-#### **41. Meta-Strategy** - Siêu Chiến Lược
+#### **41. Meta-Strategy** - Siêu Chiến Lược **[Công Cụ Lập Kế Hoạch]**
 
-Chiến lược về chiến lược - cách tạo ra và điều chỉnh các chiến lược.
+Chiến lược về cách TẠO RA và ĐIỀU CHỈNH các chiến lược trong thực hành. Khác với Meta-Strategy ở META LAYER (thiết kế framework), đây là về THỰC HÀNH - cách áp dụng tư duy meta vào việc lập kế hoạch cụ thể.
 
-- **Strategy of Strategy**: Chiến lược về chiến lược.
-- **Recursive Planning**: Lập kế hoạch đệ quy.
-- **Framework Selection**: Lựa chọn khung làm việc.
-- **Self-Improving Strategy**: Chiến lược tự cải thiện.
+- **Strategy of Strategy**: Chiến lược về chiến lược - phương pháp tạo chiến lược.
+- **Recursive Planning**: Lập kế hoạch đệ quy - kế hoạch về cách lập kế hoạch.
+- **Framework Selection**: Lựa chọn khung phù hợp cho từng tình huống.
+- **Self-Improving Strategy**: Chiến lược tự cải thiện qua feedback loops.
 
-→ **Liên kết:** [META] LAYER (Meta-Cognition), OPERATIONS (Strategic Planning).
+→ **Ứng dụng thực tế:**
+  • Chọn phương pháp lập kế hoạch phù hợp (OKRs vs Scenario Planning vs Wardley Maps).
+  • Điều chỉnh chiến lược dựa trên phản hồi từ thực thi.
+  • Xây dựng quy trình lập kế hoạch có khả năng tự cải thiện.
+
+→ **Liên kết nội bộ:** OPERATIONS (Strategic Planning), VALIDATION (Strategy Testing).
+→ **Gốc lý thuyết:** FOUNDATIONS (First Principles, Recursion).
+→ **Cấp độ cao hơn:** [META] LAYER #33 (Meta-Strategy - thiết kế framework).
+→ **Siêu nhận thức:** [META] LAYER (Meta-Cognition), TRANSCENDENCE (Strategic Wisdom).
 
 #### **42. Meta-Wayfinding** - Siêu Tìm Đường **[Khám Phá Phương Pháp]**
 
@@ -29390,16 +29398,25 @@ Khả năng suy luận về chính BẢN CHẤT và QUÁ TRÌNH của suy luận
   • VALIDATION (đánh giá chất lượng suy luận)
   • NAVIGATION (lựa chọn chiến lược suy luận)
 
-#### **33. Meta-Strategy** - Siêu Chiến Lược
+#### **33. Meta-Strategy** - Siêu Chiến Lược **[Thiết Kế Framework]**
 
-Chiến lược về cách tạo và sử dụng chiến lược.
+Chiến lược về cách THIẾT KẾ và ĐIỀU TIẾT các hệ thống chiến lược. Khác với Meta-Strategy ở NAVIGATION (công cụ thực hành), đây là về THIẾT KẾ FRAMEWORK - quan sát và tiến hóa chính cách chúng ta tạo chiến lược.
 
-- **Strategy Design**: Thiết kế chiến lược.
-- **Higher-Order Planning**: Lập kế hoạch bậc cao hơn.
-- **Planning for Planning**: Lập kế hoạch cho lập kế hoạch.
-- **Strategic Meta-Level**: Cấp độ meta chiến lược.
+- **Strategy Design**: Thiết kế các framework chiến lược - meta-architecture.
+- **Higher-Order Planning**: Lập kế hoạch bậc cao - về các hệ thống lập kế hoạch.
+- **Planning for Planning**: Meta-planning - thiết kế quy trình cho việc lập kế hoạch.
+- **Strategic Meta-Level**: Cấp độ meta chiến lược - quan sát hệ thống từ trên cao.
 
-→ **Liên kết:** NAVIGATION (Strategic Planning), [META] LAYER (Meta-Planning).
+→ **Ứng dụng meta:**
+  • Thiết kế các framework chiến lược mới (như Wardley Mapping, Three Horizons).
+  • Đánh giá và cải tiến các phương pháp lập kế hoạch hiện có.
+  • Tạo ra meta-framework để chọn lựa giữa các framework khác nhau.
+  • Điều tiết sự tiến hóa của tư duy chiến lược trong tổ chức.
+
+→ **Liên kết nội bộ:** [META] LAYER (Meta-Cognition), [META] LAYER (Framework Evolution).
+→ **Ứng dụng thực hành:** NAVIGATION #41 (Meta-Strategy - công cụ lập kế hoạch).
+→ **Gốc lý thuyết:** FOUNDATIONS (First Principles), [META] LAYER (Meta-Patterns).
+→ **Ví dụ thực tế:** Thiết kế hệ thống OKRs, tạo ra phương pháp Scenario Planning.
 
 #### **34. Meta-Integration (Extended)** - Siêu Tích Hợp (Mở Rộng)
 
