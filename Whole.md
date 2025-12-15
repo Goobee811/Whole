@@ -17339,16 +17339,18 @@ Sự đa dạng không mâu thuẫn với thống nhất mà làm phong phú nó
 
 ---
 
-#### **24. Indra's Net** - Mạng Lưới Của Indra
+#### **24. Indra's Net** - Mạng Lưới Của Indra [Nguyên Lý Kết Nối]
 
-Ẩn dụ Phật giáo: mạng lưới với viên ngọc ở mỗi giao điểm, phản chiếu tất cả các viên khác.
+Ẩn dụ Phật giáo Hoa Nghiêm về một mạng lưới vô hạn với viên ngọc ở mỗi nút phản chiếu tất cả các viên ngọc khác. Đây là NGUYÊN LÝ và CÔNG CỤ để hiểu cách kết nối các mô thức, hệ thống và thế giới quan khác nhau.
 
-- **Mutual Reflection**: Phản chiếu lẫn nhau; mỗi phần phản ánh tổng thể.
+- **Mutual Reflection**: Phản chiếu lẫn nhau; mỗi phần chứa tổng thể.
 - **Infinite Interconnection**: Liên kết vô hạn; mỗi điểm nối với mọi điểm.
-- **Fractal Jewels**: Các viên ngọc phân dạng; mỗi chứa tất cả.
+- **Fractal Jewels**: Các viên ngọc phân dạng; cấu trúc tự tương tự.
 - **Non-Dual Vision**: Tầm nhìn phi nhị nguyên; thấy sự liên kết.
 
-→ **Liên kết:** FOUNDATIONS #33 (Hologram), TRANSCENDENCE (Non-Duality).
+→ **Ứng dụng:** Cross-Paradigm Connection (kết nối các mô thức khác nhau).
+→ **Liên kết:** FOUNDATIONS #33 (Holographic Principle), TRANSCENDENCE #14 (tầm nhìn siêu việt).
+→ **Công cụ để:** Kết nối các hệ thống tư duy khác nhau thành tổng thể mạch lạc.
 
 ---
 
@@ -25041,16 +25043,18 @@ Trong Gnosticism và Jung, sự đầy đủ của thần tính, nơi tất cả
 
 ---
 
-#### **14. Indra's Net** - Lưới Đế Thích
+#### **14. Indra's Net** - Lưới Đế Thích [Tầm Nhìn Siêu Việt]
 
-Hình ảnh Phật giáo Hoa Nghiêm về một mạng lưới vô hạn nơi mỗi nút là một viên ngọc phản chiếu tất cả các viên ngọc khác.
+Hình ảnh Phật giáo Hoa Nghiêm về mạng lưới vô hạn với viên ngọc phản chiếu lẫn nhau. Đây là TRẠNG THÁI ý thức và TẦM NHÌN siêu việt - trải nghiệm trực tiếp về sự thống nhất tuyệt đối và phụ thuộc lẫn nhau của mọi hiện tượng.
 
-- **Infinite Interconnection**: Liên kết vô hạn; mọi thứ phản chiếu mọi thứ khác.
-- **Mutual Reflection**: Phản chiếu lẫn nhau; mỗi phần chứa toàn bộ trong nó.
-- **No Center, No Periphery**: Không có trung tâm, không có ngoại vi; mọi điểm đều là trung tâm.
-- **Holistic Interdependence**: Phụ thuộc lẫn nhau toàn diện; thay đổi ở bất kỳ đâu ảnh hưởng đến mọi nơi.
+- **Infinite Interconnection**: Liên kết vô hạn; TRẢI NGHIỆM sự kết nối tuyệt đối.
+- **Mutual Reflection**: Phản chiếu lẫn nhau; NHẬN RA mỗi phần chứa tổng thể.
+- **No Center, No Periphery**: Không trung tâm, không ngoại vi; PHÁ VỠ phân biệt.
+- **Holistic Interdependence**: Phụ thuộc lẫn nhau toàn diện; THẤY sự tương duyên.
 
-→ **Liên kết:** INTEGRATION (System Coherence), FOUNDATIONS (Interconnectedness).
+→ **Trạng thái:** Unity Consciousness (ý thức thống nhất).
+→ **Liên kết:** TRANSCENDENCE (Non-Dual Consciousness, Cosmic Consciousness), INTEGRATION #24 (nguyên lý kết nối), FOUNDATIONS (Buddhist Wisdom, Interconnectedness).
+→ **Trải nghiệm:** Nhìn thấy vũ trụ như một tổng thể sống động, không phân biệt.
 
 ---
 
