@@ -19283,16 +19283,18 @@ Thiết kế các HỆ THỐNG, CẤU TRÚC và MÔI TRƯỜNG để TẠO ĐI�
 
 ### **Nhóm Methodological - Phương Pháp Luận (6 mục mới)**
 
-#### **45. Integral Research Methods** - Phương Pháp Nghiên Cứu Tích Hợp
+#### **45. Integral Research Methods - Phương Pháp Nghiên Cứu Tích Hợp [Công Cụ Thực Hành]**
 
-Nghiên cứu sử dụng nhiều phương pháp và góc nhìn.
+Phương pháp nghiên cứu sử dụng NHIỀU CÔNG CỤ và PHƯƠNG PHÁP để tích hợp tri thức thành một tổng thể có ý nghĩa. Khác với góc nhìn meta ở META LAYER, đây là về THỰC HÀNH NGHIÊN CỨU - cách thức cụ thể để thu thập, phân tích và TRUYỀN ĐẠT tri thức tích hợp.
 
-- **Multi-Method Approach**: Phương pháp đa dạng; sử dụng nhiều công cụ.
-- **AQAL Research**: Nghiên cứu AQAL; tất cả quadrants, levels, lines.
-- **Comprehensive Inquiry**: Tra vấn toàn diện; xem xét tất cả các khía cạnh.
-- **Holistic Investigation**: Điều tra toàn diện; nghiên cứu tổng thể.
+- **Multi-Method Approach**: Phương pháp đa dạng - kết hợp định tính, định lượng, hiện tượng học, v.v.
+- **AQAL Research**: Nghiên cứu AQAL - thu thập dữ liệu từ tất cả các quadrant, levels, lines.
+- **Comprehensive Inquiry**: Tra vấn toàn diện - không bỏ sót bất kỳ khía cạnh nào.
+- **Holistic Investigation**: Điều tra toàn diện - xem xét cả hệ thống lẫn các phần.
 
-→ **Liên kết:** SYSTEMIC INTEGRATION (Integral Theory), OPERATIONS (Research).
+→ **Liên kết:** SYSTEMIC INTEGRATION (Integral Theory), OPERATIONS (Research Methods - thực hành nghiên cứu cụ thể), META LAYER #40 (nhận dạng patterns xuyên domain - góc nhìn meta), VALIDATION (Research Methods, Triangulation).
+
+→ **Ngữ cảnh:** Communication & Meaning-Making - TẠO Ý NGHĨA từ nghiên cứu.
 
 ---
 
@@ -28649,16 +28651,18 @@ Thực hành phát triển khả năng tư duy toàn ảnh.
 
 → **Liên kết:** DYNAMICS (Skill Development), [META] LAYER (Holographic Mind).
 
-#### **40. Integral Research Methods** - Phương Pháp Nghiên Cứu Toàn Diện
+#### **40. Integral Research Methods - Phương Pháp Nghiên Cứu Toàn Diện [Khung Nhận Thức]**
 
-Phương pháp nghiên cứu tích hợp nhiều quan điểm và cấp độ.
+Phương pháp nghiên cứu tích hợp NHIỀU QUAN ĐIỂM và CẤP ĐỘ để NHẬN DIỆN MẪU HÌNH xuyên suốt nhiều domain. Khác với công cụ thực hành ở INTEGRATION, đây là về KHUNG NHẬN THỨC - cách nhìn nhận và quan sát để phát hiện patterns ẩn.
 
-- **Comprehensive Research**: Nghiên cứu toàn diện.
-- **Multi-Perspective Integration**: Tích hợp đa quan điểm.
-- **AQAL Framework Application**: Ứng dụng khung AQAL.
-- **Holistic Investigation**: Điều tra toàn diện.
+- **Comprehensive Research**: Nghiên cứu toàn diện - quan sát từ mọi góc độ.
+- **Multi-Perspective Integration**: Tích hợp đa quan điểm - nhìn từ I, We, It, Its.
+- **AQAL Framework Application**: Ứng dụng khung AQAL - sử dụng như lăng kính quan sát.
+- **Holistic Investigation**: Điều tra toàn diện - phát hiện patterns ở mọi cấp độ.
 
-→ **Liên kết:** VALIDATION (Research Methods), INTEGRATION (Integral Theory).
+→ **Liên kết:** INTEGRATION (Integral Theory - nền tảng lý thuyết), VALIDATION (Research Methods - các chuẩn mực nghiên cứu), INTEGRATION #45 (cách thức cụ thể để nghiên cứu - công cụ thực hành), Pattern Recognition Across Domains.
+
+→ **Ngữ cảnh:** Quan sát và PHÁT HIỆN MẪU HÌNH xuyên lĩnh vực.
 
 #### **41. Neurofeedback Training (Pattern Focus)** - Huấn Luyện Phản Hồi Thần Kinh (Tập Trung Mẫu Hình)
 
