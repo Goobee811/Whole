@@ -26,10 +26,24 @@ Specialized Claude skills for editing and expanding the Whole bilingual knowledg
 ### Bilingual Requirements
 - Vietnamese: Primary language, cultural authenticity
 - English: Translation with conceptual precision
-- Format: `## Concept Name | Tên Khái Niệm`
+
+### Concept Format Standard
+```
+#### **[số]. Tên English - Tên Tiếng Việt**
+
+[Mô tả ngắn về khái niệm]
+
+- **[English term]**: [Vietnamese explanation]
+- **[English term]**: [Vietnamese explanation]
+- **[English term]**: [Vietnamese explanation]
+- **[English term]**: [Vietnamese explanation]
+- ... (tối thiểu 4 points, có thể nhiều hơn)
+
+→ **Liên kết:** [Cross-references]
+```
 
 ### Structural Integrity
-- Each concept: 4-point description
+- Each concept: minimum 4-point description (can have more)
 - Cross-references: Maintain bidirectional links
 - Functions per domain: 5 core functions
 - NO deletion of existing content
