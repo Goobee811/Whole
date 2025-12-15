@@ -2723,7 +2723,7 @@ Mô phỏng khả năng của các HỆ SINH THÁI SỐNG trong việc học h�
 → **Ngữ cảnh:** Đây là HỌC TỪ TỰ NHIÊN (Biomimicry) - quan sát cách sinh vật và hệ sinh thái thích nghi qua hàng triệu năm tiến hóa, sau đó trích xuất nguyên lý để áp dụng vào thiết kế, sáng tạo và tư duy
 
 
-#### **10. Kinh Tế Tuần Hoàn** - Circular Economy
+#### **10. Circular Economy** - Kinh Tế Tuần Hoàn
 
 Áp dụng nguyên tắc chu trình khép kín của tự nhiên vào các hệ thống kinh tế và sản xuất, nơi không có khái niệm "chất thải" và mọi vật chất đều được tái sử dụng.
 
@@ -2738,7 +2738,7 @@ Mô phỏng khả năng của các HỆ SINH THÁI SỐNG trong việc học h�
 
 → **Liên kết:** FOUNDATIONS (Cycles & Rhythms), INTEGRATION (Systemic Integration), NAVIGATION (Sustainable Strategy)
 
-#### **11. Mạng Lưới Kiên Cường** - Resilient Networks
+#### **11. Resilient Networks** - Mạng Lưới Kiên Cường
 
 Xây dựng các hệ thống dựa trên cấu trúc của các mạng lưới tự nhiên (hệ thần kinh, mạng lưới nấm) để tăng cường khả năng chống chịu, phục hồi và thích ứng trước các cú sốc.
 
@@ -2753,7 +2753,7 @@ Xây dựng các hệ thống dựa trên cấu trúc của các mạng lưới 
 
 → **Liên kết:** AMPLIFICATION (Network Effects), FOUNDATIONS (Redundancy), VALIDATION (Stress Testing)
 
-#### **12. Sử Dụng Nguồn Lực Hiệu Quả** - Efficient Resource Use
+#### **12. Efficient Resource Use** - Sử Dụng Nguồn Lực Hiệu Quả
 
 Học hỏi từ các chiến lược tiết kiệm năng lượng và vật liệu của tự nhiên để tạo ra các thiết kế và quy trình đạt được hiệu suất tối đa với đầu vào tối thiểu.
 
@@ -2768,7 +2768,7 @@ Học hỏi từ các chiến lược tiết kiệm năng lượng và vật li�
 
 → **Liên kết:** OPERATIONS (Efficiency), CREATION (Design Thinking), FOUNDATIONS (Form & Function)
 
-#### **13. Hệ Thống Hợp Tác** - Cooperative Systems
+#### **13. Cooperative Systems** - Hệ Thống Hợp Tác
 
 Mô phỏng các chiến lược hợp tác và cộng sinh trong tự nhiên để xây dựng các hệ thống mà ở đó sự thành công của cá nhân gắn liền với sự thịnh vượng của toàn bộ hệ thống.
 
@@ -2783,7 +2783,7 @@ Mô phỏng các chiến lược hợp tác và cộng sinh trong tự nhiên đ
 
 → **Liên kết:** INTEGRATION (Collaborative Intelligence), AMPLIFICATION (Synergy), FOUNDATIONS (Symbiosis)
 
-#### **14. Thiết Kế Tự Phục Hồi** - Self-Healing Design
+#### **14. Self-Healing Design** - Thiết Kế Tự Phục Hồi
 
 Thiết kế các vật liệu, cấu trúc hoặc hệ thống có khả năng tự động phát hiện, chẩn đoán và sửa chữa hư hỏng, bắt chước khả năng chữa lành của các cơ thể sống.
 
