@@ -12,6 +12,7 @@ Specialized Claude skills for editing and expanding the Whole bilingual knowledg
 - `whole-editor`: Main editing skill for content expansion
 - `whole-analyzer`: Pre-editing analysis and duplicate detection
 - `whole-reviewer`: Post-editing validation
+- `whole-regrouper`: Phân tích và gom nhóm lại khái niệm trong CHỨC NĂNG
 
 ## Workflows
 - `.claude/workflows/editing-workflow.md`: Step-by-step editing process
@@ -86,6 +87,7 @@ When evaluating duplicates:
 - `/analyze [section-path]` - Analyze section for issues
 - `/edit [section-path]` - Start editing session
 - `/expand [domain] [function] [topic]` - Add new concepts
+- `/regroup [domain] [function-number]` - Phân tích và gom nhóm lại khái niệm
 
 ## Style Preferences
 - Formal yet accessible tone
