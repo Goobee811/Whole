@@ -17737,20 +17737,7 @@ Nghiên cứu các hệ thống tôn giáo và luật pháp khác nhau để tì
 
 ---
 
-#### **52. Cross-cultural Communication** - Giao Tiếp Xuyên Văn Hóa
-
-Kỹ năng giao tiếp hiệu quả qua ranh giới văn hóa.
-
-- **Cultural Intelligence**: Trí tuệ văn hóa; hiểu và thích ứng với văn hóa khác.
-- **Bridge Building**: Xây cầu nối; kết nối các văn hóa.
-- **Perspective Taking**: Thử góc nhìn; nhìn từ quan điểm văn hóa khác.
-- **Inclusive Communication**: Giao tiếp bao hàm; tôn trọng đa dạng.
-
-→ **Liên kết:** COMMUNICATION (Cross-Cultural), SYSTEMIC INTEGRATION (Cultural Integration).
-
----
-
-#### **53. Gender Intersectionality** - Giao Thoa Giới Tính
+#### **52. Gender Intersectionality** - Giao Thoa Giới Tính
 
 Hiểu cách giới tính giao thoa với các bản sắc khác (chủng tộc, giai cấp, v.v.).
 
@@ -17765,7 +17752,7 @@ Hiểu cách giới tính giao thoa với các bản sắc khác (chủng tộc,
 
 ### **Nhóm Creative Convergence - Hội Tụ Sáng Tạo (7 mục mới)**
 
-#### **54. Multimedia & Convergence Arts** - Nghệ Thuật Đa Phương Tiện & Hội Tụ
+#### **53. Multimedia & Convergence Arts** - Nghệ Thuật Đa Phương Tiện & Hội Tụ
 
 Nghệ thuật kết hợp nhiều phương tiện khác nhau.
 
@@ -17778,7 +17765,7 @@ Nghệ thuật kết hợp nhiều phương tiện khác nhau.
 
 ---
 
-#### **55. Opera & Gesamtkunstwerk** - Opera & Tác Phẩm Nghệ Thuật Tổng Hợp
+#### **54. Opera & Gesamtkunstwerk** - Opera & Tác Phẩm Nghệ Thuật Tổng Hợp
 
 Tác phẩm nghệ thuật tổng hợp, kết hợp tất cả các hình thức nghệ thuật.
 
@@ -17791,7 +17778,7 @@ Tác phẩm nghệ thuật tổng hợp, kết hợp tất cả các hình thứ
 
 ---
 
-#### **56. Installation Art** - Nghệ Thuật Sắp Đặt
+#### **55. Installation Art** - Nghệ Thuật Sắp Đặt
 
 Nghệ thuật tạo ra một không gian trải nghiệm toàn diện.
 
@@ -17804,7 +17791,7 @@ Nghệ thuật tạo ra một không gian trải nghiệm toàn diện.
 
 ---
 
-#### **57. Transmedia Storytelling** - Kể Chuyện Xuyên Phương Tiện
+#### **56. Transmedia Storytelling** - Kể Chuyện Xuyên Phương Tiện
 
 Kể một câu chuyện qua nhiều nền tảng và phương tiện khác nhau.
 
@@ -17817,7 +17804,7 @@ Kể một câu chuyện qua nhiều nền tảng và phương tiện khác nhau
 
 ---
 
-#### **58. Cross-disciplinary Collaboration** - Cộng Tác Xuyên Ngành
+#### **57. Cross-disciplinary Collaboration** - Cộng Tác Xuyên Ngành
 
 Làm việc cùng nhau qua ranh giới ngành học và chuyên môn.
 
@@ -17830,7 +17817,7 @@ Làm việc cùng nhau qua ranh giới ngành học và chuyên môn.
 
 ---
 
-#### **59. Fusion Cuisines** - Ẩm Thực Kết Hợp
+#### **58. Fusion Cuisines** - Ẩm Thực Kết Hợp
 
 Kết hợp các truyền thống ẩm thực khác nhau.
 
@@ -17843,7 +17830,7 @@ Kết hợp các truyền thống ẩm thực khác nhau.
 
 ---
 
-#### **60. Mixed Reality Experiences** - Trải Nghiệm Thực Tế Hỗn Hợp
+#### **59. Mixed Reality Experiences** - Trải Nghiệm Thực Tế Hỗn Hợp
 
 Kết hợp thế giới vật lý và kỹ thuật số.
 
@@ -18785,16 +18772,46 @@ Sử dụng biểu tượng, ẩn dụ và nguyên mẫu để truyền đạt �
 
 ---
 
-#### **7. Cross-Cultural Communication** - Giao Tiếp Xuyên Văn Hóa
+#### **7. Cross-Cultural Communication - Giao Tiếp Xuyên Văn Hóa** [Kỹ Năng & Phương Pháp Kết Nối]
 
-Giao tiếp hiệu quả qua các ranh giới văn hóa.
+Giao tiếp hiệu quả qua các ranh giới văn hóa, vừa là KỸ NĂNG THỰC HÀNH vừa là PHƯƠNG PHÁP KẾT NỐI các paradigm văn hóa khác nhau. Đây là cầu nối giữa các thế giới quan, hệ thống niềm tin và cách thức giao tiếp đa dạng.
 
-- **Cultural Intelligence**: Trí tuệ văn hóa; khả năng hoạt động hiệu quả trong các bối cảnh văn hóa khác nhau.
-- **Avoiding Ethnocentrism**: Tránh chủ nghĩa dân tộc trung tâm; không đánh giá các văn hóa khác theo tiêu chuẩn của mình.
-- **Adapting Communication Style**: Điều chỉnh phong cách giao tiếp theo ngữ cảnh.
-- **Building Bridges**: Xây dựng cầu nối giữa các văn hóa.
+**A. Nền Tảng Nhận Thức (Foundation)**
+- **Cultural Intelligence (CQ)**: Trí tuệ văn hóa - khả năng nhận biết, hiểu và thích ứng với các bối cảnh văn hóa khác nhau.
+- **Cultural Self-Awareness**: Nhận thức về văn hóa của chính mình và các thiên kiến tiềm ẩn.
+- **Avoiding Ethnocentrism**: Tránh chủ nghĩa dân tộc trung tâm - không đánh giá văn hóa khác theo tiêu chuẩn của mình.
+- **Perspective Taking**: Khả năng nhìn thế giới từ góc nhìn văn hóa khác.
 
-→ **Liên kết:** INTEGRATION (Cultural Integration), VALIDATION (Cultural Sensitivity).
+**B. Kỹ Năng Giao Tiếp (Communication Skills)**
+- **Adapting Communication Style**: Điều chỉnh phong cách giao tiếp theo ngữ cảnh văn hóa (High-context vs Low-context cultures; Direct vs Indirect communication; Verbal vs Non-verbal emphasis).
+- **Active Listening Across Cultures**: Lắng nghe chủ động với nhạy cảm văn hóa.
+- **Code-Switching**: Chuyển đổi linh hoạt giữa các "mã" giao tiếp văn hóa.
+- **Clarification & Verification**: Xác nhận hiểu biết qua các khoảng cách văn hóa.
+
+**C. Phương Pháp Kết Nối (Connection Methods)**
+- **Building Bridges**: Xây dựng cầu nối giữa các nhóm văn hóa khác nhau (Finding common ground - Tìm điểm chung; Respecting differences - Tôn trọng khác biệt; Creating shared meaning - Tạo ý nghĩa chung).
+- **Inclusive Communication**: Giao tiếp bao hàm - đảm bảo mọi giọng nói được nghe.
+- **Cultural Translation**: Dịch thuật văn hóa - không chỉ ngôn ngữ mà cả ý nghĩa ngầm.
+- **Third Culture Building**: Xây dựng "văn hóa thứ ba" - không gian chung giữa các văn hóa.
+
+**D. Ứng Dụng Thực Tiễn (Practical Application)**
+- **Conflict Resolution Across Cultures**: Giải quyết xung đột với nhạy cảm văn hóa.
+- **Multicultural Team Building**: Xây dựng đội nhóm đa văn hóa hiệu quả.
+- **Global Leadership**: Lãnh đạo trong bối cảnh toàn cầu.
+- **Intercultural Negotiation**: Đàm phán xuyên văn hóa.
+
+→ **Liên kết trong INTEGRATION:**
+  • KNOWLEDGE SYNTHESIS (Transdisciplinary Synthesis): Kết nối tri thức xuyên văn hóa.
+  • SYSTEMIC INTEGRATION (Cultural Integration, Worldview Integration): Tích hợp hệ thống văn hóa.
+  • COLLABORATIVE INTELLIGENCE (Dialogue, Collaborative Problem-Solving): Hợp tác xuyên văn hóa.
+
+→ **Liên kết ngoại bộ:**
+  • FOUNDATIONS (Wisdom Traditions): Gốc rễ từ các truyền thống trí tuệ khác nhau.
+  • DYNAMICS (Emotional Intelligence): Cần EQ cao để giao tiếp xuyên văn hóa.
+  • VALIDATION (Cultural Sensitivity, Empathic Verification): Xác thực với nhạy cảm văn hóa.
+  • AMPLIFICATION (Community Dynamics): Xây dựng cộng đồng đa văn hóa.
+
+→ **Ghi chú:** Khái niệm này trước đây tách thành hai (#7 và #52) nhưng đã được gộp lại để: (1) Tránh trùng lặp không cần thiết; (2) Tích hợp góc nhìn "kỹ năng" và "phương pháp luận" thành một toàn thể; (3) Làm rõ rằng giao tiếp xuyên văn hóa vừa là kỹ thuật vừa là chiến lược kết nối.
 
 ---
 
