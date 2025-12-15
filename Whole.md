@@ -16059,7 +16059,8 @@ Công cụ tư duy để tích hợp các quan điểm tưởng chừng như mâ
 → **Các khái niệm liên quan:**
   • INTEGRATION #31 (Dialectical Thinking - phương pháp biện chứng)
   • INTEGRATION #33 (Holistic Integration Thinking - tích hợp toàn diện)
-  • TRANSCENDENCE #37 (Complementarity Thinking - tư duy bổ sung)
+  • INTEGRATION #37 (Complementarity Thinking - công cụ kết nối)
+  • TRANSCENDENCE #24 (Complementarity Thinking - nguyên lý siêu việt)
 
 ---
 
@@ -17518,16 +17519,22 @@ PHƯƠNG PHÁP THỰC HÀNH để vượt qua nghịch lý giữa các mô thứ
 
 ---
 
-#### **37. Complementarity Thinking** - Tư Duy Bổ Sung
+#### **37. Complementarity Thinking - Tư Duy Bổ Sung** [Công Cụ Kết Nối]
 
-Nhìn các mặt đối lập như bổ sung cho nhau, không phải mâu thuẫn.
+Phương pháp tư duy để KẾT NỐI các paradigm và lĩnh vực khác nhau bằng cách nhìn các mặt đối lập như bổ sung cho nhau, không phải mâu thuẫn. Đây là CÔNG CỤ TƯ DUY để tích hợp tri thức xuyên ngành.
 
-- **Opposite Complementarity**: Các mặt đối lập bổ sung; cần cả hai.
-- **Yin-Yang Balance**: Cân bằng Âm-Dương; tương tác động.
-- **Both-And Logic**: Logic cả hai; không phải hoặc/hoặc.
-- **Synergistic Opposition**: Đối lập hiệp lực; cùng nhau tạo sức mạnh.
+- **Opposite Complementarity**: Các mặt đối lập bổ sung - CẦN CẢ HAI để hoàn chỉnh.
+- **Yin-Yang Balance**: Cân bằng Âm-Dương - CÔNG CỤ tương tác động giữa các cực.
+- **Both-And Logic**: Logic cả hai - PHƯƠNG PHÁP tích hợp thay vì loại trừ.
+- **Synergistic Opposition**: Đối lập hiệp lực - KHAI THÁC sức mạnh từ sự đối nghịch.
 
-→ **Liên kết:** FOUNDATIONS (Duality & Unity), KNOWLEDGE SYNTHESIS (Both/And Thinking).
+**Ứng dụng trong Cross-Paradigm Connection:**
+- Kết nối khoa học phương Tây và phương Đông.
+- Tích hợp lý trí và trực giác trong ra quyết định.
+- Cầu nối giữa cá nhân và tập thể, chủ quan và khách quan.
+- Tổng hợp các phương pháp nghiên cứu định tính và định lượng.
+
+→ **Liên kết:** KNOWLEDGE SYNTHESIS (Both/And Thinking), FOUNDATIONS (Duality & Unity - nguyên lý nền tảng), TRANSCENDENCE #24 (nâng cấp siêu việt - như nguyên lý giải quyết nghịch lý).
 
 ---
 
@@ -24296,16 +24303,22 @@ Tư duy vượt qua các phân biệt nhị phân, nhìn thấy sự thống nh�
 
 ---
 
-#### **24. Complementarity Thinking** - Tư Duy Bổ Sung
+#### **24. Complementarity Thinking - Tư Duy Bổ Sung** [Nguyên Lý Siêu Việt]
 
-Nhận ra rằng các mặt đối lập thường bổ sung và cần thiết cho nhau, như trong vật lý lượng tử.
+Nhận thức sâu sắc rằng các mặt đối lập thường BỔ SUNG và CẦN THIẾT cho nhau ở một cấp độ thực tại sâu hơn, như được minh họa trong nguyên lý bổ sung của vật lý lượng tử (sóng-hạt). Đây là NGUYÊN LÝ SIÊU VIỆT để vượt qua nghịch lý bằng cách nhận ra sự thống nhất cơ bản.
 
-- **Integration of Opposites**: Tích hợp các mặt đối lập; kết hợp các yếu tố đối lập.
-- **Mutual Necessity**: Sự cần thiết lẫn nhau; mỗi phía cần phía kia để hoàn chỉnh.
-- **Dynamic Balance**: Cân bằng động; luân phiên giữa các cực đối lập.
-- **Whole Greater Than Parts**: Toàn thể lớn hơn các phần; sự kết hợp tạo ra điều mới.
+- **Integration of Opposites**: Tích hợp đối lập - NHẬN RA sự thống nhất cơ bản.
+- **Mutual Necessity**: Sự cần thiết lẫn nhau - HIỂU mỗi phía định nghĩa phía kia.
+- **Dynamic Balance**: Cân bằng động - TRẢI NGHIỆM sự hài hòa giữa các cực.
+- **Whole Greater Than Parts**: Toàn thể lớn hơn phần - GIÁC NGỘ về tính toàn vẹn.
 
-→ **Liên kết:** FOUNDATIONS (Complementarity Principle), DYNAMICS (Balance).
+**Ví dụ minh họa nguyên lý:**
+- **Sóng-Hạt**: Ánh sáng vừa là sóng VÀ hạt (không phải hoặc/hoặc).
+- **Yin-Yang**: Âm và Dương bổ sung, định nghĩa và tạo ra nhau.
+- **Form-Emptiness**: Hình tướng VÀ không tánh là một (Phật giáo).
+- **Order-Chaos**: Trật tự xuất hiện TỪ hỗn loạn và quay về hỗn loạn.
+
+→ **Liên kết:** PARADOX RESOLUTION (Both/And Thinking, Paradoxical Integration), FOUNDATIONS (Complementarity Principle - vật lý lượng tử), INTEGRATION #37 (công cụ thực hành - như phương pháp kết nối paradigm).
 
 ---
 
