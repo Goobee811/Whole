@@ -1542,7 +1542,7 @@ Nguyên tắc đạo đức yêu cầu chỉ hành động theo những quy tắ
 
 → **Liên kết:** OPERATIONS (Reasoning Architectures), [META] LAYER (Axiomatic Systems)
 
-#### **7. Truthfulness (Chân Thực)**
+#### **9. Truthfulness (Chân Thực)**
 
 Giá trị về sự cam kết với việc nhìn nhận, đại diện và truyền đạt thực tại một cách chính xác nhất có thể, không bị bóp méo bởi mong muốn hay thiên kiến.
 
@@ -1557,7 +1557,7 @@ Giá trị về sự cam kết với việc nhìn nhận, đại diện và truy
 
 → **Liên kết:** VALIDATION (Reality Testing), [META] LAYER (Bias Awareness), FOUNDATIONS (Map-Territory Distinction)
 
-#### **8. Compassion (Từ Bi)**
+#### **10. Compassion (Từ Bi)**
 
 Giá trị kết hợp sự đồng cảm sâu sắc với động lực hành động để làm giảm bớt đau khổ và thúc đẩy sự thịnh vượng cho người khác.
 
@@ -1572,7 +1572,7 @@ Giá trị kết hợp sự đồng cảm sâu sắc với động lực hành �
 
 → **Liên kết:** INTEGRATION (Collaborative Intelligence), NAVIGATION (Guiding Principles), DYNAMICS (Emotional Intelligence)
 
-#### **9. Integrity (Toàn Vẹn)**
+#### **11. Integrity (Toàn Vẹn)**
 
 Giá trị về sự nhất quán, trọn vẹn và không bị chia cắt giữa các nguyên tắc, giá trị và hành động của một cá nhân hay hệ thống.
 
@@ -1587,7 +1587,7 @@ Giá trị về sự nhất quán, trọn vẹn và không bị chia cắt giữ
 
 → **Liên kết:** [META] LAYER (Self-Observation), INTEGRATION (System Coherence Building), OPERATIONS (Systematic Execution)
 
-#### **10. Humility (Khiêm Tốn)**
+#### **12. Humility (Khiêm Tốn)**
 
 Giá trị về việc có một nhận thức chính xác về các giới hạn, sự thiếu sót và vị trí của bản thân trong một tổng thể lớn hơn.
 
@@ -1602,7 +1602,7 @@ Giá trị về việc có một nhận thức chính xác về các giới hạ
 
 → **Liên kết:** OPERATIONS (Circle of Competence), VALIDATION (Feedback Processing), [META] LAYER (Meta-Cognition)
 
-#### **11. Courage (Can Đảm)**
+#### **13. Courage (Can Đảm)**
 
 Giá trị về khả năng đối mặt và hành động một cách hiệu quả bất chấp sự hiện diện của nỗi sợ hãi, sự không chắc chắn hoặc rủi ro.
 
@@ -1617,7 +1617,7 @@ Giá trị về khả năng đối mặt và hành động một cách hiệu qu
 
 → **Liên kết:** NAVIGATION (Risk Navigation), CREATION (Pattern Breaking), OPERATIONS (Decision Frameworks)
 
-#### **12. Justice (Công Bằng)**
+#### **14. Justice (Công Bằng)**
 
 Giá trị về cam kết đối với sự công bằng, bình đẳng và đối xử vô tư, đặc biệt là trong việc phân bổ nguồn lực và bảo vệ quyền lợi của các thành viên trong một hệ thống.
 
@@ -1633,7 +1633,7 @@ Giá trị về cam kết đối với sự công bằng, bình đẳng và đ�
 → **Liên kết:** INTEGRATION (Systemic Integration), AMPLIFICATION (Social Impact)
 → **Công cụ tư duy quan trọng:** EASTERN & WESTERN WISDOM #30 (The Veil of Ignorance - thought experiment của Rawls về công lý)
 
-#### **13. Wisdom (Trí Tuệ)**
+#### **15. Wisdom (Trí Tuệ)**
 
 Giá trị về khả năng tích hợp kiến thức, kinh nghiệm và sự thấu hiểu sâu sắc để đưa ra những phán đoán đúng đắn và hành động khôn ngoan.
 
@@ -1648,7 +1648,7 @@ Giá trị về khả năng tích hợp kiến thức, kinh nghiệm và sự th
 
 → **Liên kết:** [META] LAYER (Wisdom Synthesis), NAVIGATION (Strategic Wayfinding), TRANSCENDENCE (Wisdom Crystallization)
 
-#### **14. Responsibility (Trách Nhiệm)**
+#### **16. Responsibility (Trách Nhiệm)**
 
 Giá trị về việc chấp nhận và thực hiện nghĩa vụ của mình, đồng thời sở hữu các kết quả từ hành động và quyết định của bản thân.
 
@@ -10297,12 +10297,20 @@ Một tập hợp các kỹ thuật tư duy để tiếp cận vấn đề từ 
 
 → **Liên kết:** OPERATIONS (là phương pháp thay thế cho suy luận logic), DYNAMICS (kích hoạt tư duy phân kỳ)
 
-#### **2. SCAMPER** [→ Xem chi tiết tại Design Thinking]
+#### **2. SCAMPER - Phương Pháp SCAMPER**
 
-Bộ câu hỏi gợi ý 7 chiều hướng để kích thích tư duy sáng tạo về cách cải tiến sản phẩm/ý tưởng hiện có. SCAMPER là viết tắt của: **S**ubstitute, **C**ombine, **A**dapt, **M**odify, **P**ut to another use, **E**liminate, **R**everse.
+Bộ câu hỏi gợi ý 7 chiều hướng để kích thích tư duy sáng tạo về cách cải tiến sản phẩm/ý tưởng hiện có.
 
-→ **Xem mô tả đầy đủ:** CREATION - CHỨC NĂNG 5 (Design Thinking) - Khái niệm #2
-→ **Liên kết:** OPERATIONS (phân tích có cấu trúc), INTEGRATION (khuyến khích kết hợp)
+- **Substitute (Thay Thế)**: Thay thế một thành phần, nguyên liệu, quy trình hoặc người bằng cái khác để tạo ra giá trị mới
+- **Combine (Kết Hợp)**: Kết hợp các yếu tố, ý tưởng hoặc chức năng khác nhau để tạo ra sản phẩm/giải pháp mới
+- **Adapt (Điều Chỉnh)**: Điều chỉnh hoặc mượn ý tưởng từ lĩnh vực khác để áp dụng vào bối cảnh hiện tại
+- **Modify (Biến Đổi)**: Thay đổi kích thước, hình dạng, màu sắc, thuộc tính để tạo ra phiên bản cải tiến
+- **Put to Another Use (Tái Sử Dụng)**: Sử dụng sản phẩm/ý tưởng cho mục đích khác ngoài mục đích ban đầu
+- **Eliminate (Loại Bỏ)**: Loại bỏ các yếu tố không cần thiết để đơn giản hóa hoặc tăng hiệu quả
+- **Reverse/Rearrange (Đảo Ngược)**: Đảo ngược quy trình, thứ tự hoặc sắp xếp lại các thành phần
+
+→ **Liên kết:** OPERATIONS (Phân tích có cấu trúc), INTEGRATION (Khuyến khích kết hợp)
+→ **Xem thêm chi tiết:** CREATION - CHỨC NĂNG 5 (Design Thinking) - Khái niệm #2
 
 #### **3. Bisociation** - Kết Hợp Xa Lạ
 
@@ -10326,7 +10334,7 @@ Một kỹ thuật trực quan để khám phá và cấu trúc các ý tưởng
 
 → **Liên kết:** FOUNDATIONS (là một mô hình tư duy), INTEGRATION (giúp tổng hợp thông tin)
 
-#### **5. Brainstorming & Brainwriting**
+#### **5. Brainstorming & Brainwriting - Động Não & Viết Não**
 
 Các kỹ thuật nhóm để tạo ra một lượng lớn ý tưởng trong một khoảng thời gian ngắn mà không có sự phán xét.
 
@@ -10956,7 +10964,7 @@ Một quy trình có cấu trúc để quản lý và kiểm soát các dự án
 
 → **Liên kết:** NAVIGATION (Project Management), VALIDATION (Milestone Reviews)
 
-#### **8. Innovation Portfolio Management**
+#### **9. Innovation Portfolio Management - Quản Lý Danh Mục Đổi Mới**
 
 Quản lý một danh mục đầu tư đổi mới cân bằng giữa rủi ro và lợi nhuận.
 
@@ -10967,7 +10975,7 @@ Quản lý một danh mục đầu tư đổi mới cân bằng giữa rủi ro 
 
 → **Liên kết:** NAVIGATION (Strategic Resource Management), VALIDATION (Portfolio Assessment)
 
-#### **9. Innovation Ambition Matrix**
+#### **10. Innovation Ambition Matrix - Ma Trận Tham Vọng Đổi Mới**
 
 Một công cụ để phân loại và cân bằng các sáng kiến đổi mới.
 
@@ -11088,7 +11096,7 @@ Quá trình xây dựng các phiên bản thử nghiệm của một ý tưởng
 
 → **Liên kết:** VALIDATION (A/B Testing), DYNAMICS (Iterative Refinement)
 
-#### **21. Systematic Inventive Thinking (SIT)**
+#### **21. Systematic Inventive Thinking (SIT) - Tư Duy Sáng Tạo Có Hệ Thống**
 
 Một phiên bản đơn giản hóa của TRIZ, tập trung vào 5 mẫu hình tư duy để đổi mới.
 
@@ -11125,7 +11133,7 @@ Một phương pháp sáng tạo toàn diện để thiết kế các hệ thố
 → **Liên kết chính:** INTEGRATION (Systemic Integration), DYNAMICS (Emergence), NAVIGATION (Scenario Planning), AMPLIFICATION (Reality Shaping)
 → **Liên kết mở rộng:** META #16 (Conceptual Universe Design), NAVIGATION #32 (Reality Entrepreneurship), CREATION #23 (Speculative & Critical Design)
 
-#### **23. Speculative & Critical Design**
+#### **23. Speculative & Critical Design - Thiết Kế Đầu Cơ & Phê Phán**
 
 Sử dụng thiết kế như một phương tiện để đặt câu hỏi, khiêu khích và khám phá các tương lai có thể có.
 
@@ -11161,7 +11169,7 @@ Phương pháp đổi mới trong đó NGƯỜI SÁNG TẠO làm việc trực t
 → **Khuếch đại:** AMPLIFICATION (Collective Intelligence, Community Building)
 → **Ví dụ thực tế:** LEGO Ideas, Wikipedia, Open Source Software, Design Thinking Workshops với người dùng
 
-#### **26. Innovation Labs & Sandboxes**
+#### **26. Innovation Labs & Sandboxes - Phòng Thí Nghiệm Đổi Mới & Hộp Cát**
 
 Tạo ra các không gian riêng biệt để thử nghiệm và đổi mới mà không bị ràng buộc bởi quy trình thông thường.
 
@@ -11216,7 +11224,7 @@ Các giai đoạn tập trung cao độ, giới hạn thời gian để giải q
 
 → **Liên kết:** OPERATIONS (Sprint Methodology), DYNAMICS (Focused Intensity)
 
-#### **31. Innovation Challenges & Competitions**
+#### **31. Innovation Challenges & Competitions - Thách Thức & Cuộc Thi Đổi Mới**
 
 Sử dụng các thách thức và cuộc thi để kích thích đổi mới.
 
@@ -11227,7 +11235,7 @@ Sử dụng các thách thức và cuộc thi để kích thích đổi mới.
 
 → **Liên kết:** AMPLIFICATION (Competition Dynamics), CREATION (Ideation Events)
 
-#### **32. Innovation Partnerships & Alliances**
+#### **32. Innovation Partnerships & Alliances - Đối Tác & Liên Minh Đổi Mới**
 
 Hình thành các mối quan hệ đối tác chiến lược để tăng cường khả năng đổi mới.
 
@@ -11249,7 +11257,7 @@ Hình thành các mối quan hệ đối tác chiến lược để tăng cườ
 
 → **Liên kết:** AMPLIFICATION (Portfolio Approach), NAVIGATION (Strategic Investment)
 
-#### **34. Innovation Culture Building**
+#### **34. Innovation Culture Building - Xây Dựng Văn Hóa Đổi Mới**
 
 Xây dựng một văn hóa tổ chức hỗ trợ và khuyến khích đổi mới.
 
@@ -11260,7 +11268,7 @@ Xây dựng một văn hóa tổ chức hỗ trợ và khuyến khích đổi m�
 
 → **Liên kết:** [META] LAYER (Culture Design), DYNAMICS (Organizational Evolution)
 
-#### **35. Innovation Capability Development**
+#### **35. Innovation Capability Development - Phát Triển Năng Lực Đổi Mới**
 
 Phát triển các khả năng và kỹ năng đổi mới trong tổ chức.
 
@@ -18040,13 +18048,16 @@ Làm việc cùng nhau qua các lĩnh vực chuyên môn và chức năng khác 
 
 ---
 
-#### **14. Collective Sensemaking (lặp lại từ Chức năng 1)**
+#### **13. Collective Sensemaking - Cùng Nhau Cảm Nhận Ý Nghĩa** (lặp lại từ Chức năng 1)
 
-(Đã có ở Chức năng 1, nhưng cũng phù hợp với Collaborative Intelligence)
+Quá trình một nhóm người cùng nhau diễn giải và tạo ra ý nghĩa từ các tình huống phức tạp hoặc mơ hồ trong bối cảnh hợp tác.
 
-Quá trình một nhóm người cùng nhau diễn giải và tạo ra ý nghĩa từ các tình huống phức tạp hoặc mơ hồ.
+- **Shared Interpretation**: Cùng nhau diễn giải thông tin và tình huống từ nhiều góc nhìn khác nhau
+- **Collaborative Meaning-Making**: Tạo ra ý nghĩa chung thông qua đối thoại và tương tác nhóm
+- **Collective Understanding**: Xây dựng sự hiểu biết chung về các vấn đề phức tạp hoặc mơ hồ
+- **Integration in Collaboration**: Trong bối cảnh hợp tác, sensemaking tập thể giúp nhóm điều hướng sự không chắc chắn
 
-→ **Liên kết:** Xem Chức năng 1.
+→ **Liên kết:** INTEGRATION - Chức năng 1 (Collective Sensemaking - định nghĩa đầy đủ), NAVIGATION (Complexity Navigation), OPERATIONS (Group Decision Making)
 
 ---
 
