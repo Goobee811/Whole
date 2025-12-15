@@ -12123,16 +12123,19 @@ Thiết kế các thành phần có thể hoán đổi và kết hợp linh ho�
 
 → **Liên kết:** OPERATIONS (Systems Design), AMPLIFICATION (Scalability)
 
-#### **18. Bricolage** - Nghệ Thuật Vá Víu
+#### **18. Bricolage - Nghệ Thuật Vá Víu** [Phương Pháp Sáng Tạo]
 
-Tạo ra từ những gì có sẵn, không theo kế hoạch chặt chẽ.
+Phương pháp sáng tạo bằng cách tái kết hợp các nguồn lực có sẵn theo những cách mới lạ, không theo kế hoạch được thiết kế chặt chẽ. Khác với NAVIGATION (xoay sở để thích ứng), đây là về SÁNG TẠO ĐỔI MỚI - biến cái cũ thành cái hoàn toàn mới.
 
-- **Resourcefulness**: Tháo vát với nguồn lực có sẵn
-- **Improvised Solutions**: Giải pháp ứng biến
-- **Found Object Use**: Sử dụng vật thể tìm được
-- **Make Do and Mend**: Làm được việc và sửa chữa
+- **Resourcefulness**: Tháo vát sáng tạo với nguồn lực có sẵn - TẠO RA CÁI MỚI
+- **Improvised Solutions**: Giải pháp ứng biến - PHÁT MINH trong lúc làm
+- **Found Object Use**: Sử dụng vật thể tìm được - TÁI ĐỊNH NGHĨA mục đích
+- **Make Do and Mend**: Làm và sửa chữa - VÁ VÍU thành SẢN PHẨM MỚI
 
-→ **Liên kết:** OPERATIONS (Resourcefulness), NAVIGATION (Improvisation #11 - Strategic Adaptation)
+→ **Liên kết:** CREATION (Improvisation, Exaptation, Recombination), OPERATIONS (Resourcefulness)
+→ **Khác biệt:** NAVIGATION #9 (Bricolage như kỹ năng thích ứng) - đây là PHƯƠNG PHÁP tạo đổi mới
+→ **Ví dụ:** Picasso tạo "Bull's Head" từ yên xe đạp; Steve Jobs tạo Mac từ calligraphy; found object art, maker culture
+→ **Triết lý:** "Innovation is just combining things" - Steve Jobs
 
 #### **19. Abstraction & Instantiation** - Trừu Tượng Hóa & Cụ Thể Hóa
 
@@ -14942,16 +14945,19 @@ Khả năng chuyển đổi nhanh chóng giữa các khung tham chiếu, bối c
 
 → **Liên kết:** DYNAMICS (Cognitive Flexibility), [META] LAYER (Meta-Context).
 
-#### **9. Bricolage** - Nghệ Thuật Ghép Nối
+#### **9. Bricolage - Nghệ Thuật Ghép Nối** [Kỹ Năng Thích Ứng]
 
-Tạo ra giải pháp bằng cách sử dụng các tài nguyên có sẵn một cách sáng tạo, thậm chí khi chúng không được thiết kế cho mục đích đó.
+Kỹ năng điều hướng bằng cách sử dụng các tài nguyên có sẵn một cách sáng tạo để THÍCH ỨNG với bối cảnh, thậm chí khi chúng không được thiết kế cho mục đích đó. Khác với CREATION (tạo đổi mới), đây là về SURVIVAL và OPTIMIZATION.
 
-- **Resourcefulness**: Sự tháo vát.
-- **Creative Recombination**: Tái kết hợp sáng tạo.
-- **Making Do**: Xoay sở với những gì có.
-- **Improvisational Mastery**: Làm chủ sự ứng biến.
+- **Resourcefulness**: Tháo vát với giới hạn - TỒN TẠI và PHÁT TRIỂN
+- **Creative Recombination**: Tái kết hợp sáng tạo - GHÉP NỐI những gì có
+- **Making Do**: Xoay sở với những gì có - TỐI ƯU HÓA nguồn lực
+- **Improvisational Mastery**: Làm chủ ứng biến - ĐIỀU HƯỚNG linh hoạt
 
-→ **Liên kết:** NAVIGATION (Improvisation #11 - Strategic Adaptation), OPERATIONS (Resource Optimization).
+→ **Liên kết:** NAVIGATION (Adaptive Navigation, Improvisation #11 - Strategic Adaptation), OPERATIONS (Resource Optimization)
+→ **Gốc phương pháp:** CREATION #18 (Bricolage như phương pháp sáng tạo)
+→ **Khác biệt:** Đây là KỸ NĂNG thích ứng trong điều hướng - nhấn mạnh tối ưu hóa, không nhấn mạnh đổi mới
+→ **Ví dụ:** Startup pivot với budget hạn chế; emergency field repairs; backpacking; DIY solutions
 
 #### **10. Antifragility** - Phản Mong Manh
 
