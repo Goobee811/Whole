@@ -16640,16 +16640,20 @@ Các mẫu hình lặp lại ở nhiều tỷ lệ khác nhau.
 
 ---
 
-#### **25. Scale-Free Networks** - Mạng Lưới Phi Tỷ Lệ
+#### **25. Scale-Free Networks - Mạng Lưới Phi Tỷ Lệ [Công Cụ Xây Dựng Cấu Trúc]**
 
-Mạng lưới có một số hub rất được kết nối và nhiều node ít kết nối.
+Cấu trúc mạng lưới với một số hub có nhiều kết nối và nhiều node có ít kết nối - được sử dụng như CÔNG CỤ XÂY DỰNG để tạo ra hệ thống tích hợp hiệu quả. Khác với bản chất phổ quát ở TRANSCENDENCE, đây là về THIẾT KẾ KIẾN TRÚC.
 
-- **Power Law Distribution**: Phân phối lũy thừa; một số node có rất nhiều kết nối.
-- **Hub Formation**: Hình thành hub; các node trung tâm quan trọng.
-- **Preferential Attachment**: Gắn kết ưu tiên; node mới thích kết nối với hub.
-- **Emergent Hierarchy**: Phân cấp đột sinh; tự tổ chức thành cấu trúc.
+- **Power Law Distribution**: Phân phối lũy thừa - THIẾT KẾ phân bố kết nối.
+- **Hub Formation**: Hình thành hub - XÂY DỰNG các điểm trung tâm chiến lược.
+- **Preferential Attachment**: Gắn kết ưu tiên - CƠ CHẾ tăng trưởng mạng lưới.
+- **Emergent Hierarchy**: Phân cấp đột sinh - KẾT QUẢ của quá trình tích hợp.
 
-→ **Liên kết:** AMPLIFICATION (Network Dynamics), DYNAMICS (Emergence).
+→ **Ứng dụng:** Thiết kế tổ chức, kiến trúc thông tin, hệ thống tích hợp.
+→ **Liên kết nội bộ:** AMPLIFICATION (Network Dynamics), DYNAMICS (Emergence).
+→ **Bản chất phổ quát:** TRANSCENDENCE #12 (Scale-free Networks - quy luật bất biến).
+→ **Nền tảng lý thuyết:** AMPLIFICATION #3 (Preferential Attachment).
+→ **Ứng dụng khuếch đại:** AMPLIFICATION #24 (Network Resilience).
 
 ---
 
@@ -25521,16 +25525,20 @@ Các phân phối toán học theo lũy thừa như là MẪU HÌNH của sự b
 
 ---
 
-#### **12. Scale-free Networks** - Mạng Lưới Không Quy Mô
+#### **12. Scale-free Networks - Mạng Lưới Không Quy Mô [Bản Chất Phổ Quát]**
 
-Các mạng lưới nơi phân phối kết nối tuân theo định luật lũy thừa, không có nút "trung bình".
+Mạng lưới có phân phối kết nối tuân theo định luật lũy thừa - không có node "trung bình" hay quy mô đặc trưng. Đây là BẢN CHẤT PHỔ QUÁT xuất hiện xuyên suốt mọi hệ thống tự nhiên và xã hội. Khác với công cụ xây dựng ở INTEGRATION, đây là về NHẬN RA QUY LUẬT BẤT BIẾN.
 
-- **Hub Dominance**: Sự thống trị của trung tâm; một vài nút có rất nhiều kết nối.
-- **Network Invariance**: Tính bất biến của mạng; cấu trúc giống nhau ở mọi quy mô.
-- **Robust yet Fragile**: Vững chắc nhưng mong manh; khả năng chống lỗi ngẫu nhiên nhưng dễ bị tấn công có mục tiêu.
-- **Emergent Topology**: Cấu trúc xuất hiện; hình dạng mạng phát sinh tự nhiên.
+- **Hub Dominance**: Sự thống trị của trung tâm - QUY LUẬT tự nhiên phổ quát.
+- **Network Invariance**: Tính bất biến của mạng - CẤU TRÚC giống nhau ở mọi quy mô.
+- **Robust yet Fragile**: Vững chắc nhưng mong manh - NGHỊCH LÝ phổ quát.
+- **Emergent Topology**: Cấu trúc xuất hiện - BẢN CHẤT tự tổ chức.
 
-→ **Liên kết:** AMPLIFICATION (Network Dynamics), INTEGRATION (Connection Patterns).
+→ **Ý nghĩa:** Nhận ra pattern xuyên suốt từ tế bào → internet → xã hội.
+→ **Liên kết nội bộ:** AMPLIFICATION (Network Dynamics), INTEGRATION (Connection Patterns).
+→ **Công cụ xây dựng:** INTEGRATION #25 (Scale-Free Networks - thiết kế kiến trúc).
+→ **Nguyên lý cơ bản:** FOUNDATIONS #11 (Power Laws - định luật lũy thừa).
+→ **Kết nối phổ quát:** TRANSCENDENCE #13 (Universality Classes).
 
 ---
 
