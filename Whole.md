@@ -16712,16 +16712,23 @@ Các trạng thái ý thức nơi các khía cạnh khác nhau được hợp nh
 
 ---
 
-#### **30. Cognitive Load Management** - Quản Lý Tải Nhận Thức
+#### **30. Cognitive Load Management - Quản Lý Tải Nhận Thức [Trong Tích Hợp Hệ Thống]**
 
-Tối ưu hóa lượng thông tin và nhiệm vụ mà tâm trí xử lý.
+Tối ưu hóa lượng thông tin và nhiệm vụ mà tâm trí xử lý khi TÍCH HỢP nhiều nguồn tri thức, hệ thống hoặc quan điểm khác nhau. Khác với tự nhận thức ở META LAYER, đây là về QUẢN LÝ ĐỘ PHỨC TẠP của quá trình tích hợp.
 
-- **Capacity Optimization**: Tối ưu hóa năng lực; làm việc trong giới hạn.
-- **Information Chunking**: Gom nhóm thông tin; tổ chức để dễ xử lý.
-- **Strategic Simplification**: Đơn giản hóa chiến lược; giảm phức tạp không cần thiết.
-- **Cognitive Offloading**: Dỡ tải nhận thức; sử dụng công cụ bên ngoài.
+- **Capacity Optimization**: Tối ưu hóa năng lực - làm việc TRONG GIỚI HẠN khi tích hợp
+- **Information Chunking**: Gom nhóm thông tin - tổ chức ĐỂ DỄ TÍCH HỢP
+- **Strategic Simplification**: Đơn giản hóa chiến lược - giảm PHỨC TẠP HỆ THỐNG
+- **Cognitive Offloading**: Dỡ tải nhận thức - sử dụng CÔNG CỤ BÊN NGOÀI cho tích hợp
 
-→ **Liên kết:** OPERATIONS (Cognitive Optimization), AMPLIFICATION (Tool Use).
+**Ứng dụng:**
+- Tích hợp tri thức từ nhiều lĩnh vực (interdisciplinary synthesis)
+- Xây dựng hệ thống mạch lạc từ các thành phần phức tạp
+- Quản lý thông tin khi tổng hợp nhiều nguồn
+
+→ **Liên kết nội bộ:** OPERATIONS (Cognitive Optimization), AMPLIFICATION (Tool Use)
+→ **Góc nhìn siêu nhận thức:** META LAYER #6 (tự nhận thức về tải nhận thức)
+→ **Công cụ phân tích:** OPERATIONS (Cognitive Load Analysis)
 
 ---
 
@@ -27240,17 +27247,24 @@ Nhận thức về giới hạn của tri thức và sự cởi mở với việ
 
 → **Liên kết:** VALIDATION (Adversarial Testing), FOUNDATIONS (Epistemic Humility).
 
-#### **6. Cognitive Load Management** - Quản Lý Tải Nhận Thức
+#### **6. Cognitive Load Management - Quản Lý Tải Nhận Thức [Siêu Nhận Thức]**
 
-Khả năng điều chỉnh khối lượng và độ phức tạp của thông tin đang xử lý.
+Khả năng TỰ NHẬN THỨC và TỰ ĐIỀU CHỈNH khối lượng cũng như độ phức tạp của thông tin đang xử lý. Khác với quản lý hệ thống ở INTEGRATION, đây là về META-AWARENESS - quan sát và tối ưu hóa CHÍNH QUÁ TRÌNH nhận thức.
 
-- **Working Memory Awareness**: Nhận thức về giới hạn của bộ nhớ làm việc.
-- **Chunking Strategies**: Sử dụng các chiến lược "chia khối" để giảm tải
-  → Tham khảo: OPERATIONS #5 (Chunking) - cơ chế cốt lõi
-- **Cognitive Offloading**: Chuyển tải nhận thức ra các công cụ bên ngoài (ghi chú, sơ đồ).
-- **Attention Allocation**: Phân bổ chú ý một cách chiến lược.
+- **Working Memory Awareness**: Nhận thức về GIỚI HẠN của bộ nhớ làm việc (monitor)
+- **Chunking Strategies**: Sử dụng chiến lược "chia khối" - TỰ ĐIỀU CHỈNH cách xử lý
+- **Cognitive Offloading**: Chuyển tải - QUYẾT ĐỊNH khi nào cần công cụ bên ngoài
+- **Attention Allocation**: Phân bổ chú ý - TỰ QUẢN LÝ tài nguyên nhận thức
 
-→ **Liên kết:** OPERATIONS (Problem Decomposition), NAVIGATION (Priority Management).
+**Ứng dụng:**
+- Tự quan sát khi bộ nhớ làm việc gần quá tải
+- Điều chỉnh chiến lược học tập dựa trên tải nhận thức hiện tại
+- Nhận biết khi nào cần "dỡ tải" ra công cụ bên ngoài
+
+→ **Liên kết nội bộ:** OPERATIONS (Problem Decomposition), NAVIGATION (Priority Management)
+→ **Ứng dụng trong tích hợp:** INTEGRATION #30 (quản lý tải khi tích hợp hệ thống)
+→ **Công cụ hỗ trợ:** META LAYER #18 (Working Memory Optimization)
+→ **Năng lực liên quan:** META LAYER #9 (Attentional Control)
 
 #### **7. Mental Model Awareness** - Nhận Thức về Mô Hình Tâm Trí
 
