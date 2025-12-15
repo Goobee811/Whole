@@ -17,13 +17,13 @@
 
 ---
 
-# **[1] FOUNDATIONS - NỀN TẢNG**
+# [1]. FOUNDATIONS - NỀN TẢNG
 
 Miền này tập hợp các nguyên lý, mô hình tư duy và trí tuệ cốt lõi làm nền móng cho toàn bộ hệ thống. Nó trả lời câu hỏi: "Những quy luật và cấu trúc cơ bản nào chi phối cách chúng ta tư duy và nhận thức thực tại?"
 
 ---
 
-## **CHỨC NĂNG 1: FIRST PRINCIPLES & AXIOMS**
+## CHỨC NĂNG 1: FIRST PRINCIPLES & AXIOMS - NGUYÊN LÝ ĐẦU TIÊN & TIÊN ĐỀ
 
 ### **Tổng Quan**
 
@@ -561,7 +561,7 @@ Nền tảng toán học của tư duy hình thức và cấu trúc.
 
 ---
 
-## **CHỨC NĂNG 2: UNIVERSAL LAWS & PATTERNS**
+## CHỨC NĂNG 2: UNIVERSAL LAWS & PATTERNS - QUY LUẬT & MÔ THỨC PHỔ QUÁT
 
 ### **Tổng Quan**
 
@@ -1464,7 +1464,7 @@ Nhận thức về tính toàn vẹn và sự liên kết của mọi thứ.
 
 ---
 
-## **CHỨC NĂNG 3: CORE VALUES & ETHICS**
+## CHỨC NĂNG 3: CORE VALUES & ETHICS - GIÁ TRỊ CỐT LÕI & ĐẠO ĐỨC
 
 ### **Tổng Quan**
 
@@ -1812,7 +1812,7 @@ Nghệ thuật nấu ăn với mục đích chữa bệnh.
 
 ---
 
-## **CHỨC NĂNG 4: EASTERN & WESTERN WISDOM**
+## CHỨC NĂNG 4: EASTERN & WESTERN WISDOM - TRÍ TUỆ ĐÔNG & TÂY PHƯƠNG
 
 ### **Tổng Quan**
 
@@ -2573,7 +2573,7 @@ Các đường năng lượng trong cơ thể.
 
 ---
 
-## **CHỨC NĂNG 5: NATURAL PRINCIPLES & BIOMIMICRY**
+## CHỨC NĂNG 5: NATURAL PRINCIPLES & BIOMIMICRY - NGUYÊN LÝ TỰ NHIÊN & SINH HỌC BẮT CHƯỚC
 
 ### **Tổng Quan**
 
@@ -3279,13 +3279,13 @@ Nghệ thuật hài hước và trí tuệ.
 
 ---
 
-# **[2] DYNAMICS - ĐỘNG LỰC**
+# [2]. DYNAMICS - ĐỘNG LỰC HỌC
 
 Miền này khám phá các quy trình, dòng chảy và các lực lượng tạo nên sự thay đổi. Nó mô tả các mô thức vận động của tư duy, sự tăng trưởng, và các hệ thống phức tạp, trả lời câu hỏi: **"Các quy luật của sự thay đổi là gì?"**
 
 ---
 
-## **CHỨC NĂNG 1: EMERGENCE & FLOW UNDERSTANDING**
+## CHỨC NĂNG 1: EMERGENCE & FLOW UNDERSTANDING - HIỂU BIẾT VỀ NỔI TRỘI & DÒNG CHẢY
 
 ### **Tổng Quan**
 
@@ -3786,7 +3786,7 @@ Các hệ thống có khả năng liên tục tạo ra các sản phẩm, mẫu 
 
 ---
 
-## **CHỨC NĂNG 2: TRANSFORMATION DYNAMICS**
+## CHỨC NĂNG 2: TRANSFORMATION DYNAMICS - ĐỘNG LỰC CHUYỂN HÓA
 
 ### **Tổng Quan**
 
@@ -4708,7 +4708,7 @@ Các thực hành nhằm kích hoạt tiềm năng ẩn trong tế bào và DNA.
 
 ---
 
-## **CHỨC NĂNG 3: SYSTEM EVOLUTION PATTERNS**
+## CHỨC NĂNG 3: SYSTEM EVOLUTION PATTERNS - MÔ THỨC TIẾN HÓA HỆ THỐNG
 
 ### **Tổng Quan**
 
@@ -5524,7 +5524,7 @@ Các quá trình thay đổi xã hội tập thể quy mô lớn.
 
 ---
 
-## **CHỨC NĂNG 4: COGNITIVE FLEXIBILITY (CONVERGENT ↔ DIVERGENT)**
+## CHỨC NĂNG 4: COGNITIVE FLEXIBILITY (CONVERGENT ↔ DIVERGENT) - LINH HOẠT NHẬN THỨC (HỘI TỤ ↔ PHÂN KỲ)
 
 ### **Tổng Quan**
 
@@ -6458,7 +6458,7 @@ Tạo ra điều kiện cho các sự kiện ý nghĩa trùng hợp xảy ra.
 
 ---
 
-## **CHỨC NĂNG 5: EMOTIONAL INTELLIGENCE & ENERGY MANAGEMENT**
+## CHỨC NĂNG 5: EMOTIONAL INTELLIGENCE & ENERGY MANAGEMENT - TRÍ TUỆ CẢM XÚC & QUẢN LÝ NĂNG LƯỢNG
 
 ### **Tổng Quan**
 
@@ -7056,13 +7056,13 @@ Phát triển khả năng chờ đợi và cho phép mọi thứ triển khai t�
 
 ---
 
-# **[3] OPERATIONS - VẬN HÀNH**
+# [3]. OPERATIONS - VẬN HÀNH
 
 *Miền này chứa các công cụ và quy trình có cấu trúc để phân tích thông tin, xây dựng lập luận và đưa ra quyết định một cách hiệu quả. Nó trả lời câu hỏi: "Làm thế nào để tôi mổ xẻ vấn đề, suy luận một cách logic và lựa chọn hành động một cách khôn ngoan?"*
 
 ---
 
-## **CHỨC NĂNG 1: ANALYTICAL REASONING & LOGIC**
+## CHỨC NĂNG 1: ANALYTICAL REASONING & LOGIC - LẬP LUẬN PHÂN TÍCH & LOGIC
 
 ### **Tổng Quan**
 
@@ -7795,7 +7795,7 @@ Xác định các hướng chủ đạo và các yếu tố quan trọng nhất 
 
 ---
 
-## **CHỨC NĂNG 2: STRUCTURED PROBLEM-SOLVING**
+## CHỨC NĂNG 2: STRUCTURED PROBLEM-SOLVING - GIẢI QUYẾT VẤN ĐỀ CÓ CẤU TRÚC
 
 ### **Tổng Quan**
 
@@ -8537,7 +8537,7 @@ Nguyên tắc: "Mọi thứ nên được làm đơn giản nhất có thể, nh
 
 ---
 
-## **CHỨC NĂNG 3: SYSTEMATIC EXECUTION & PRACTICE**
+## CHỨC NĂNG 3: SYSTEMATIC EXECUTION & PRACTICE - THỰC THI HỆ THỐNG & THỰC HÀNH
 
 ### **Tổng Quan**
 
@@ -9094,7 +9094,7 @@ Bộ sưu tập các phương pháp và công nghệ tiên tiến từ nhiều l
 
 ---
 
-## **CHỨC NĂNG 4: LEARNING & MEMORY SYSTEMS**
+## CHỨC NĂNG 4: LEARNING & MEMORY SYSTEMS - HỆ THỐNG HỌC TẬP & GHI NHỚ
 
 ### **Tổng Quan**
 
@@ -9550,7 +9550,7 @@ Các quy trình và giao thức y tế chuẩn.
 
 ---
 
-## **CHỨC NĂNG 5: DECISION FRAMEWORKS (GAME THEORY, CYNEFIN)**
+## CHỨC NĂNG 5: DECISION FRAMEWORKS (GAME THEORY, CYNEFIN) - KHUNG RA QUYẾT ĐỊNH (LÝ THUYẾT GAME, CYNEFIN)
 
 ### **Tổng Quan**
 
@@ -10272,13 +10272,13 @@ Các quy trình cơ bản của tính toán và xử lý thông tin.
 
 ---
 
-# **[4] CREATION - SÁNG TẠO**
+# [4]. CREATION - SÁNG TẠO
 
 _Miền này tập hợp các công cụ, phương pháp và động lực để tạo ra những ý tưởng mới, phát triển chúng thành các giải pháp hữu ích và tạo ra những đột phá có ý nghĩa. Nó trả lời câu hỏi: "Làm thế nào để chúng ta tạo ra cái mới từ cái không có hoặc từ sự tái tổ hợp những cái đã có?"_
 
 ---
 
-## **CHỨC NĂNG 1: LATERAL THINKING & IDEATION**
+## CHỨC NĂNG 1: LATERAL THINKING & IDEATION - TƯ DUY NGANG & SÁNG TẠO Ý TƯỞNG
 
 ### **Tổng Quan**
 
@@ -10857,7 +10857,7 @@ Biến giảng dạy thành một hình thức nghệ thuật sáng tạo - nơi
 
 ---
 
-## **CHỨC NĂNG 2: BREAKTHROUGH INNOVATION**
+## CHỨC NĂNG 2: BREAKTHROUGH INNOVATION - ĐỔI MỚI ĐỘT PHÁ
 
 ### **Tổng Quan**
 
@@ -11360,7 +11360,7 @@ Hình thức báo chí tập trung vào các giải pháp thay vì chỉ vấn �
 
 ---
 
-## **CHỨC NĂNG 3: CREATIVE EVOLUTION & INTUITION**
+## CHỨC NĂNG 3: CREATIVE EVOLUTION & INTUITION - TIẾN HÓA SÁNG TẠO & TRỰC GIÁC
 
 ### **Tổng Quan**
 
@@ -11905,7 +11905,7 @@ Truyền thống kể chuyện và ma thuật ngôn từ Celtic.
 
 ---
 
-## **CHỨC NĂNG 4: PATTERN BREAKING & RECOMBINATION**
+## CHỨC NĂNG 4: PATTERN BREAKING & RECOMBINATION - PHÁ VỠ MÔ THỨC & TÁI KẾT HỢP
 
 ### **Tổng Quan**
 
@@ -12331,7 +12331,7 @@ Khám phá các hình thức truyền thông và biểu đạt mới nổi.
 
 ---
 
-## **CHỨC NĂNG 5: DESIGN THINKING (SCAMPER, TRIZ)**
+## CHỨC NĂNG 5: DESIGN THINKING (SCAMPER, TRIZ) - TƯ DUY THIẾT KẾ (SCAMPER, TRIZ)
 
 ### **Tổng Quan**
 
@@ -12992,13 +12992,13 @@ Tạo ra nước với cấu trúc phân tử đặc biệt.
 
 ---
 
-# **[5] NAVIGATION - ĐIỀU HƯỚNG**
+# [5]. NAVIGATION - ĐỊNH HƯỚNG
 
 _Miền này cung cấp các công cụ và phương pháp để xác định vị trí, định hướng, lập kế hoạch lộ trình và di chuyển một cách hiệu quả qua các cảnh quan phức tạp và không chắc chắn. Nó trả lời câu hỏi: "Làm thế nào để tôi biết mình đang ở đâu, mình muốn đi đâu, và làm thế nào để đến đó?"_
 
 ---
 
-## **CHỨC NĂNG 1: STRATEGIC WAYFINDING - TÌM ĐƯỜNG CHIẾN LƯỢC**
+## CHỨC NĂNG 1: STRATEGIC WAYFINDING - TÌM ĐƯỜNG CHIẾN LƯỢC
 
 _Các phương pháp và khung tư duy để điều hướng trong các môi trường cạnh tranh, không chắc chắn và có nhiều tác nhân thông minh khác._
 
@@ -13708,7 +13708,7 @@ Tạo ra một hệ sinh thái thị trường nơi trước đây không tồn 
 
 ---
 
-## **CHỨC NĂNG 2: MULTI-DIMENSIONAL PLANNING - LẬP KẾ HOẠCH ĐA CHIỀU**
+## CHỨC NĂNG 2: MULTI-DIMENSIONAL PLANNING - LẬP KẾ HOẠCH ĐA CHIỀU
 
 _Các công cụ và nguyên tắc để thiết lập khung tham chiếu, lập bản đồ lãnh thổ và lập kế hoạch trên nhiều chiều thời gian và không gian._
 
@@ -14297,7 +14297,7 @@ Mục đích không cố định mà tiến hóa và mở ra theo thời gian.
 
 ---
 
-## **CHỨC NĂNG 3: RESOURCE & PRIORITY MANAGEMENT - QUẢN LÝ TÀI NGUYÊN & ƯU TIÊN**
+## CHỨC NĂNG 3: RESOURCE & PRIORITY MANAGEMENT - QUẢN LÝ TÀI NGUYÊN & ƯU TIÊN
 
 _Các công cụ để phân bổ nguồn lực hữu hạn, thiết lập ưu tiên và tối ưu hóa hiệu suất._
 
@@ -14900,7 +14900,7 @@ Nguyên tắc ra quyết định dựa trên đánh giá lợi ích gia tăng c�
 
 ---
 
-## **CHỨC NĂNG 4: CONTEXT SENSING & ADAPTATION - CẢM BIẾN BỐI CẢNH & THÍCH ỨNG**
+## CHỨC NĂNG 4: CONTEXT SENSING & ADAPTATION - CẢM BIẾN BỐI CẢNH & THÍCH ỨNG
 
 _Khả năng cảm nhận và điều hướng trong các hệ thống phức tạp, phi tuyến và không thể dự đoán._
 
@@ -15166,7 +15166,7 @@ Khả năng NHẬN BIẾT, ĐÁP ỨNG và TẬN DỤNG các cơ hội ngẫu nh
 
 ---
 
-## **CHỨC NĂNG 5: TEMPORAL RHYTHM COORDINATION - ĐIỀU PHỐI NHỊP ĐIỆU THỜI GIAN**
+## CHỨC NĂNG 5: TEMPORAL RHYTHM COORDINATION - ĐIỀU PHỐI NHỊP ĐIỆU THỜI GIAN
 
 _Quản lý và đồng bộ hóa các nhịp điệu, chu kỳ và thời điểm trên nhiều tầng thời gian._
 
@@ -15616,13 +15616,13 @@ Chủ động can thiệp và thay đổi số phận được cho là định s
 
 ---
 
-# **[6] INTEGRATION - TÍCH HỢP**
+# [6]. INTEGRATION - TÍCH HỢP
 
 _Miền này chứa đựng các phương pháp, thực hành và nguyên lý để kết hợp các yếu tố riêng lẻ thành một tổng thể mạch lạc, thống nhất và mạnh mẽ hơn. Nó trả lời câu hỏi: "Làm thế nào để chúng ta tạo ra sự toàn vẹn và sức mạnh tổng hợp từ sự đa dạng?"_
 
 ---
 
-## **CHỨC NĂNG 1: KNOWLEDGE SYNTHESIS - TỔNG HỢP TRI THỨC**
+## CHỨC NĂNG 1: KNOWLEDGE SYNTHESIS - TỔNG HỢP TRI THỨC
 
 ### **Tổng Quan**
 
@@ -16343,7 +16343,7 @@ Biểu đạt trải nghiệm huyền bí thông qua thơ ca và biểu tượng
 
 ---
 
-## **CHỨC NĂNG 2: SYSTEM COHERENCE BUILDING - XÂY DỰNG SỰ MẠCH LẠC HỆ THỐNG**
+## CHỨC NĂNG 2: SYSTEM COHERENCE BUILDING - XÂY DỰNG SỰ MẠCH LẠC HỆ THỐNG
 
 ### **Tổng Quan**
 
@@ -17041,7 +17041,7 @@ Mô hình xem vũ trụ như một toàn ảnh.
 
 ---
 
-## **CHỨC NĂNG 3: CROSS-PARADIGM CONNECTION - KẾT NỐI XUYÊN MÔ THỨC**
+## CHỨC NĂNG 3: CROSS-PARADIGM CONNECTION - KẾT NỐI XUYÊN MÔ THỨC
 
 ### **Tổng Quan**
 
@@ -17843,7 +17843,7 @@ Kết hợp thế giới vật lý và kỹ thuật số.
 
 ---
 
-## **CHỨC NĂNG 4: COLLABORATIVE INTELLIGENCE - TRÍ TUỆ CỘNG TÁC**
+## CHỨC NĂNG 4: COLLABORATIVE INTELLIGENCE - TRÍ TUỆ CỘNG TÁC
 
 ### **Tổng Quan**
 
@@ -18686,7 +18686,7 @@ Quy trình có hệ thống để tích hợp thành viên vào cộng đồng.
 
 ---
 
-## **CHỨC NĂNG 5: COMMUNICATION & MEANING-MAKING - GIAO TIẾP & TẠO Ý NGHĨA**
+## CHỨC NĂNG 5: COMMUNICATION & MEANING-MAKING - GIAO TIẾP & TẠO Ý NGHĨA
 
 ### **Tổng Quan**
 
@@ -19532,13 +19532,13 @@ Khác với protocol cá nhân ở INTEGRATION #30, đây là về CỘNG ĐỒN
 
 ---
 
-# **[7] VALIDATION - KIỂM CHỨNG**
+# [7]. VALIDATION - KIỂM CHỨNG
 
 _Miền này chứa các phương pháp và hệ thống để kiểm tra ý tưởng, giả định và mô hình dựa trên thực tế, nhằm phân biệt tín hiệu khỏi nhiễu và đảm bảo tính vững chắc. Nó trả lời câu hỏi: "Làm thế nào để tôi biết điều gì là thật và hiệu quả?"_
 
 ---
 
-## **CHỨC NĂNG 1: REALITY TESTING & VERIFICATION**
+## CHỨC NĂNG 1: REALITY TESTING & VERIFICATION - KIỂM TRA THỰC TẾ & XÁC MINH
 
 ### **Tổng quan**
 
@@ -19835,7 +19835,7 @@ Xác thực bằng cách theo dõi trong một khoảng thời gian dài.
 
 ---
 
-## **CHỨC NĂNG 2: ERROR DETECTION & CORRECTION**
+## CHỨC NĂNG 2: ERROR DETECTION & CORRECTION - PHÁT HIỆN & SỬA LỖI
 
 ### **Tổng quan**
 
@@ -20212,7 +20212,7 @@ Kỹ năng phân biệt thông tin có ý nghĩa (tín hiệu) khỏi thông tin
 
 ---
 
-## **CHỨC NĂNG 3: FEEDBACK PROCESSING & CALIBRATION**
+## CHỨC NĂNG 3: FEEDBACK PROCESSING & CALIBRATION - XỬ LÝ PHẢN HỒI & HIỆU CHỈNH
 
 ### **Tổng quan**
 
@@ -20455,7 +20455,7 @@ Khả năng điều chỉnh hành động với thời điểm tối ưu.
 
 ---
 
-## **CHỨC NĂNG 4: EXPERIMENTAL PROTOCOLS**
+## CHỨC NĂNG 4: EXPERIMENTAL PROTOCOLS - GIAO THỨC THỰC NGHIỆM
 
 ### **Tổng quan**
 
@@ -20651,7 +20651,7 @@ Sử dụng thất bại hoặc đổ vỡ như một phương pháp để đạ
 
 ---
 
-## **CHỨC NĂNG 5: QUALITY ASSURANCE & RISK ASSESSMENT**
+## CHỨC NĂNG 5: QUALITY ASSURANCE & RISK ASSESSMENT - ĐẢM BẢO CHẤT LƯỢNG & ĐÁNH GIÁ RỦI RO
 
 ### **Tổng quan**
 
@@ -21494,13 +21494,13 @@ Trong đánh giá rủi ro và quản lý chất lượng, cần nhận biết c
 
 ---
 
-# **[8] AMPLIFICATION - KHUẾCH ĐẠI**
+# [8]. AMPLIFICATION - KHUẾCH ĐẠI
 
 _Miền này khám phá các nguyên lý và cơ chế tạo ra sự tăng trưởng phi tuyến tính, giúp một nỗ lực nhỏ có thể tạo ra tác động lớn. Nó trả lời câu hỏi: "Làm thế nào để nhân rộng tác động và tạo ra kết quả theo cấp số nhân?"_
 
 ---
 
-## **CHỨC NĂNG 1: NETWORK EFFECTS & SCALING**
+## CHỨC NĂNG 1: NETWORK EFFECTS & SCALING - HIỆU ỨNG MẠNG LƯỚI & MỞ RỘNG QUY MÔ
 
 > **📖 Ghi chú về cấu trúc tri thức:**
 > Network Effects xuất hiện như một **MẪU HÌNH TIẾN HÓA** cơ bản ở DYNAMICS (#5), nhưng được nghiên cứu CHUYÊN SÂU ở đây như một **CÔNG CỤ KHUẾCH ĐẠI CHIẾN LƯỢC**. Đây là ví dụ về cách một hiện tượng tự nhiên được khai thác có chủ đích để tạo ra tác động theo cấp số nhân.
@@ -21953,7 +21953,7 @@ Thiết kế và quản lý có chủ đích để tối đa hóa hiệu ứng m
 
 ---
 
-## **CHỨC NĂNG 2: FORCE MULTIPLICATION & LEVERAGE**
+## CHỨC NĂNG 2: FORCE MULTIPLICATION & LEVERAGE - NHÂN BỘI LỰC & ĐÒN BẨY
 
 ### **Tổng Quan**
 
@@ -22371,7 +22371,7 @@ Tìm giải pháp hoạt động tốt ngay cả khi có sự không chắc ch�
 
 ---
 
-## **CHỨC NĂNG 3: VIRAL MECHANICS & PROPAGATION**
+## CHỨC NĂNG 3: VIRAL MECHANICS & PROPAGATION - CƠ CHẾ LÂY LAN & TRUYỀN BÁ
 
 ### **Tổng Quan**
 
@@ -22835,7 +22835,7 @@ Giải pháp mà mọi người tự nhiên hội tụ khi không có giao tiế
 
 ---
 
-## **CHỨC NĂNG 4: EXPONENTIAL GROWTH PATTERNS**
+## CHỨC NĂNG 4: EXPONENTIAL GROWTH PATTERNS - MÔ THỨC TĂNG TRƯỞNG MŨ
 
 ### **Tổng Quan**
 
@@ -23345,7 +23345,7 @@ Cơ chế nhân rộng tác động qua nhiều thế hệ - mỗi thế hệ x�
 
 ---
 
-## **CHỨC NĂNG 5: PLATFORM & ECOSYSTEM BUILDING**
+## CHỨC NĂNG 5: PLATFORM & ECOSYSTEM BUILDING - XÂY DỰNG NỀN TẢNG & HỆ SINH THÁI
 
 ### **Tổng Quan**
 
@@ -24027,13 +24027,13 @@ Phá vỡ các mẫu hình tự động để tạo ra thay đổi.
 
 ---
 
-# **[9] TRANSCENDENCE - SIÊU VIỆT**
+# [9]. TRANSCENDENCE - SIÊU VIỆT
 
 Miền này khám phá các trạng thái, nguyên lý và thực hành để vượt qua các giới hạn của tư duy thông thường, hợp nhất các cặp đối lập và tiếp cận sự hiểu biết thống nhất về thực tại. Nó trả lời câu hỏi: "Điều gì nằm ngoài các cấu trúc và hệ thống tư duy đã biết?"
 
 ---
 
-## **CHỨC NĂNG 1: PARADOX RESOLUTION (BOTH/AND)**
+## CHỨC NĂNG 1: PARADOX RESOLUTION (BOTH/AND) - GIẢI QUYẾT NGHỊCH LÝ (CẢ HAI)
 
 ### **Tổng Quan**
 
@@ -24550,7 +24550,7 @@ Thực hành thiền Zen sử dụng các câu đố nghịch lý để phá v�
 
 ---
 
-## **CHỨC NĂNG 2: PARADIGM SHIFTS & BREAKTHROUGHS**
+## CHỨC NĂNG 2: PARADIGM SHIFTS & BREAKTHROUGHS - CHUYỂN DỊCH MÔ THỨC & ĐỘT PHÁ
 
 ### **Tổng Quan**
 
@@ -24937,7 +24937,7 @@ Những trải nghiệm siêu việt gợi lên cảm giác kinh ngạc, kính s
 
 ---
 
-## **CHỨC NĂNG 3: UNITY CONSCIOUSNESS & INTEGRATION**
+## CHỨC NĂNG 3: UNITY CONSCIOUSNESS & INTEGRATION - Ý THỨC THỐNG NHẤT & TÍCH HỢP
 
 ### **Tổng Quan**
 
@@ -25492,7 +25492,7 @@ Khái niệm về việc kích hoạt một mạng lưới năng lượng hoặc
 
 ---
 
-## **CHỨC NĂNG 4: SYSTEM METAMORPHOSIS**
+## CHỨC NĂNG 4: SYSTEM METAMORPHOSIS - BIẾN DẠNG HỆ THỐNG
 
 ### **Tổng Quan**
 
@@ -26223,7 +26223,7 @@ Sử dụng các tần số âm thanh và rung động cụ thể cho mục đí
 - **Frequency Medicine**: Y học tần số; chữa lành qua các rung động cụ thể.
 
 → **Liên kết:** DYNAMICS (Vibrational Energy), TRANSCENDENCE (Sound Healing).
-## **CHỨC NĂNG 5: WISDOM CRYSTALLIZATION**
+## CHỨC NĂNG 5: WISDOM CRYSTALLIZATION - KẾT TINH TRÍ TUỆ
 
 ### **Tổng Quan**
 
@@ -27289,11 +27289,11 @@ Việc sử dụng các liều rất nhỏ của các chất để tăng cườn
 
 ---
 
-# **[10] META LAYER - SIÊU TẦNG**
+# [10]. META - SIÊU NHẬN THỨC
 
 Siêu Tầng này chứa các khái niệm, quy trình và cấu trúc để quan sát, chỉ đạo và tối ưu hóa chính hoạt động tư duy. Nó là hệ điều hành của hệ điều hành tư duy, tương tác và nâng cao hiệu quả của tất cả các miền khác.
 
-## **CHỨC NĂNG 1: META-COGNITION & AWARENESS**
+## CHỨC NĂNG 1: META-COGNITION & AWARENESS - SIÊU NHẬN THỨC & NHẬN BIẾT
 
 ### **Tổng Quan**
 
@@ -27830,7 +27830,7 @@ Kỹ thuật huấn luyện não bộ thông qua phản hồi thời gian thực
 
 ---
 
-## **CHỨC NĂNG 2: SYSTEM SELF-OBSERVATION**
+## CHỨC NĂNG 2: SYSTEM SELF-OBSERVATION - TỰ QUAN SÁT HỆ THỐNG
 
 ### **Tổng Quan**
 
@@ -28162,7 +28162,7 @@ Sử dụng phản hồi thần kinh để quan sát và điều chỉnh hoạt 
 
 ---
 
-## **CHỨC NĂNG 3: PATTERN RECOGNITION ACROSS DOMAINS**
+## CHỨC NĂNG 3: PATTERN RECOGNITION ACROSS DOMAINS - NHẬN DIỆN MÔ THỨC XUYÊN LĨNH VỰC
 
 ### **Tổng Quan**
 
@@ -28784,7 +28784,7 @@ Sử dụng phản hồi thần kinh để nhận dạng và tối ưu hóa các
 
 ---
 
-## **CHỨC NĂNG 4: RECURSIVE SELF-IMPROVEMENT**
+## CHỨC NĂNG 4: RECURSIVE SELF-IMPROVEMENT - TỰ CẢI THIỆN ĐỆ QUY
 
 ### **Tổng Quan**
 
@@ -29229,7 +29229,7 @@ Trạng thái tri thức hoàn hảo và toàn diện về mọi thứ.
 
 ---
 
-## **CHỨC NĂNG 5: FRAMEWORK EVOLUTION & REGULATION**
+## CHỨC NĂNG 5: FRAMEWORK EVOLUTION & REGULATION - TIẾN HÓA & ĐIỀU TIẾT KHUNG TƯ DUY
 
 ### **Tổng Quan**
 
