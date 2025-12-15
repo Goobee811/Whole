@@ -1542,7 +1542,7 @@ Nguyên tắc đạo đức yêu cầu chỉ hành động theo những quy tắ
 
 → **Liên kết:** OPERATIONS (Reasoning Architectures), [META] LAYER (Axiomatic Systems)
 
-#### **9. Truthfulness (Chân Thực)**
+#### **9. Truthfulness** - Chân Thực
 
 Giá trị về sự cam kết với việc nhìn nhận, đại diện và truyền đạt thực tại một cách chính xác nhất có thể, không bị bóp méo bởi mong muốn hay thiên kiến.
 
@@ -1557,7 +1557,7 @@ Giá trị về sự cam kết với việc nhìn nhận, đại diện và truy
 
 → **Liên kết:** VALIDATION (Reality Testing), [META] LAYER (Bias Awareness), FOUNDATIONS (Map-Territory Distinction)
 
-#### **10. Compassion (Từ Bi)**
+#### **10. Compassion** - Từ Bi
 
 Giá trị kết hợp sự đồng cảm sâu sắc với động lực hành động để làm giảm bớt đau khổ và thúc đẩy sự thịnh vượng cho người khác.
 
@@ -1572,7 +1572,7 @@ Giá trị kết hợp sự đồng cảm sâu sắc với động lực hành �
 
 → **Liên kết:** INTEGRATION (Collaborative Intelligence), NAVIGATION (Guiding Principles), DYNAMICS (Emotional Intelligence)
 
-#### **11. Integrity (Toàn Vẹn)**
+#### **11. Integrity** - Toàn Vẹn
 
 Giá trị về sự nhất quán, trọn vẹn và không bị chia cắt giữa các nguyên tắc, giá trị và hành động của một cá nhân hay hệ thống.
 
@@ -1587,7 +1587,7 @@ Giá trị về sự nhất quán, trọn vẹn và không bị chia cắt giữ
 
 → **Liên kết:** [META] LAYER (Self-Observation), INTEGRATION (System Coherence Building), OPERATIONS (Systematic Execution)
 
-#### **12. Humility (Khiêm Tốn)**
+#### **12. Humility** - Khiêm Tốn
 
 Giá trị về việc có một nhận thức chính xác về các giới hạn, sự thiếu sót và vị trí của bản thân trong một tổng thể lớn hơn.
 
@@ -1602,7 +1602,7 @@ Giá trị về việc có một nhận thức chính xác về các giới hạ
 
 → **Liên kết:** OPERATIONS (Circle of Competence), VALIDATION (Feedback Processing), [META] LAYER (Meta-Cognition)
 
-#### **13. Courage (Can Đảm)**
+#### **13. Courage** - Can Đảm
 
 Giá trị về khả năng đối mặt và hành động một cách hiệu quả bất chấp sự hiện diện của nỗi sợ hãi, sự không chắc chắn hoặc rủi ro.
 
@@ -1617,7 +1617,7 @@ Giá trị về khả năng đối mặt và hành động một cách hiệu qu
 
 → **Liên kết:** NAVIGATION (Risk Navigation), CREATION (Pattern Breaking), OPERATIONS (Decision Frameworks)
 
-#### **14. Justice (Công Bằng)**
+#### **14. Justice** - Công Bằng
 
 Giá trị về cam kết đối với sự công bằng, bình đẳng và đối xử vô tư, đặc biệt là trong việc phân bổ nguồn lực và bảo vệ quyền lợi của các thành viên trong một hệ thống.
 
@@ -1633,7 +1633,7 @@ Giá trị về cam kết đối với sự công bằng, bình đẳng và đ�
 → **Liên kết:** INTEGRATION (Systemic Integration), AMPLIFICATION (Social Impact)
 → **Công cụ tư duy quan trọng:** EASTERN & WESTERN WISDOM #30 (The Veil of Ignorance - thought experiment của Rawls về công lý)
 
-#### **15. Wisdom (Trí Tuệ)**
+#### **15. Wisdom** - Trí Tuệ
 
 Giá trị về khả năng tích hợp kiến thức, kinh nghiệm và sự thấu hiểu sâu sắc để đưa ra những phán đoán đúng đắn và hành động khôn ngoan.
 
@@ -1648,7 +1648,7 @@ Giá trị về khả năng tích hợp kiến thức, kinh nghiệm và sự th
 
 → **Liên kết:** [META] LAYER (Wisdom Synthesis), NAVIGATION (Strategic Wayfinding), TRANSCENDENCE (Wisdom Crystallization)
 
-#### **16. Responsibility (Trách Nhiệm)**
+#### **16. Responsibility** - Trách Nhiệm
 
 Giá trị về việc chấp nhận và thực hiện nghĩa vụ của mình, đồng thời sở hữu các kết quả từ hành động và quyết định của bản thân.
 
