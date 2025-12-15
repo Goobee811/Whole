@@ -28,6 +28,15 @@ Specialized Claude skills for editing and expanding the Whole bilingual knowledg
 - English: Translation with conceptual precision
 
 ### Concept Format Standard
+
+#### Heading Levels (Bilingual Required)
+```
+## [số]. DOMAIN NAME - TÊN DOMAIN
+### CHỨC NĂNG [số]: FUNCTION NAME - TÊN CHỨC NĂNG
+#### **[số]. Concept Name - Tên Khái Niệm**
+```
+
+#### Concept Content
 ```
 #### **[số]. Tên English - Tên Tiếng Việt**
 
