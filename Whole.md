@@ -607,7 +607,7 @@ Nghiên cứu về cấu trúc, nguồn gốc và tiến hóa của vũ trụ.
 
 Các định luật phổ quát và mẫu hình là những cấu trúc lặp lại, các mô hình tư duy và quy luật vận hành được quan sát thấy ở nhiều lĩnh vực khác nhau - từ vật lý đến xã hội học, từ tâm lý học đến kinh tế học.
 
-### **Các Mô Hình Nền Tảng**
+### **Thinking Models & Mental Frameworks - Mô Hình Tư Duy & Khung Tinh Thần**
 
 #### **1. Mental Models - Mô Hình Tư Duy [Khung Diễn Giải Phổ Quát]**
 
@@ -774,6 +774,8 @@ Tiếp cận một vấn đề bằng cách suy nghĩ ngược lại.
 
 → **Liên kết:** OPERATIONS (Reverse Thinking), CREATION (Problem Reframing)
 
+### **System Robustness & Constraints - Độ Vững Chắc Hệ Thống & Ràng Buộc**
+
 #### **10. Leverage - Đòn Bẩy [Định Luật Cơ Học Cơ Bản]**
 
 Nguyên lý vật lý phổ quát của Archimedes: "Cho tôi một điểm tựa và tôi sẽ nâng cả Trái Đất". Đây là ĐỊNH LUẬT CƠ BẢN về cách một lực nhỏ có thể tạo ra tác động lớn thông qua việc sử dụng đúng cấu trúc cơ học.
@@ -840,6 +842,8 @@ Quy luật phổ quát rằng hiệu suất của BẤT KỲ hệ thống nào c
 → **Phương pháp áp dụng:** OPERATIONS (Constraint Analysis & Optimization)
 → **Khuếch đại:** AMPLIFICATION #17 (Constraints as Leverage)
 
+### **Economic & Information Dynamics - Động Lực Kinh Tế & Thông Tin**
+
 #### **14. Supply and Demand** - Cung và Cầu
 
 Mô hình kinh tế cơ bản mô tả mối quan hệ giữa sự sẵn có của một sản phẩm và mong muốn của người mua đối với nó.
@@ -878,7 +882,7 @@ Mô hình giải thích cách các cá nhân hoặc tổ chức truyền đạt 
 
 → **Liên kết:** OPERATIONS (Game Theory), VALIDATION (Peer Review)
 
-#### **17. Tragedy of the Commons** - Bi Kịch của Nguồn Lực Chung
+#### **17. Tragedy of the Commons - Bi Kịch của Nguồn Lực Chung**
 
 Mô hình mô tả một tình huống trong đó các cá nhân hành động vì lợi ích riêng của mình làm cạn kiệt một nguồn lực chung, trái với lợi ích chung của nhóm.
 
@@ -889,7 +893,9 @@ Mô hình mô tả một tình huống trong đó các cá nhân hành động v
 
 → **Liên kết:** DYNAMICS (System Dynamics), INTEGRATION (Systemic Integration)
 
-#### **18. Normal Distribution (The Bell Curve)** - Phân Phối Chuẩn (Đường Cong Chuông)
+### **Statistical Distributions & Probability - Phân Phối Thống Kê & Xác Suất**
+
+#### **18. Normal Distribution (The Bell Curve) - Phân Phối Chuẩn (Đường Cong Chuông)**
 
 Mô hình thống kê mô tả cách dữ liệu trong nhiều hiện tượng tự nhiên phân cụm quanh một giá trị trung tâm.
 
@@ -937,7 +943,9 @@ Sự khác biệt quan trọng giữa trung bình theo thời gian của một c
 
 → **Liên kết:** OPERATIONS (Probabilistic Thinking), NAVIGATION (Risk Navigation)
 
-#### **22. Maslow's Hierarchy of Needs** - Tháp Nhu Cầu của Maslow
+### **Human Psychology & Meaning-Making - Tâm Lý Con Người & Tạo Ý Nghĩa**
+
+#### **22. Maslow's Hierarchy of Needs - Tháp Nhu Cầu của Maslow**
 
 Mô hình cho rằng hành vi của con người được thúc đẩy bởi một hệ thống phân cấp các nhu cầu, từ sinh lý cơ bản đến tự thể hiện.
 
@@ -1003,7 +1011,9 @@ Mô hình cho rằng ham muốn của con người không phải là tự phát 
 
 → **Liên kết:** AMPLIFICATION (Viral Mechanics), DYNAMICS (System Dynamics)
 
-#### **28. Entropy (Second Law of Thermodynamics)** - Entropy
+### **Physical Laws & Natural Principles - Định Luật Vật Lý & Nguyên Lý Tự Nhiên**
+
+#### **28. Entropy (Second Law of Thermodynamics) - Entropy**
 
 Nguyên lý cho rằng trong một hệ thống cô lập, xu hướng tự nhiên là đi từ trật tự sang hỗn loạn.
 
@@ -1041,7 +1051,42 @@ Nguyên lý phổ quát từ VẬT LÝ LƯỢNG TỬ: Hành động quan sát m�
   • META LAYER #31 - Công cụ siêu nhận thức
 → **Ứng dụng:** DYNAMICS (Reflexivity), OPERATIONS (Experimental Design)
 
-#### **31. The Pareto Principle (80/20 Rule)** - Nguyên Lý Pareto
+#### **31. Natural Selection Principle - Nguyên Lý Chọn Lọc Tự Nhiên**
+
+Cơ chế cốt lõi của tiến hóa sinh học.
+
+- **Differential Survival**: Tồn tại khác biệt dựa trên thích nghi
+- **Heritable Variation**: Biến dị có thể di truyền
+- **Reproductive Success**: Thành công sinh sản quyết định tiến hóa
+- **Environmental Selection**: Môi trường là lực chọn lọc
+
+→ **Liên kết:** DYNAMICS (Evolution & Adaptation), FOUNDATIONS (Evolution & Selection)
+
+#### **32. Plate Tectonics Theory - Lý Thuyết Kiến Tạo Mảng**
+
+Lý thuyết về sự chuyển động của các mảng thạch quyển Trái Đất.
+
+- **Lithospheric Plates**: Các mảng cứng trên bề mặt Trái Đất
+- **Continental Drift**: Sự trôi dạt của lục địa
+- **Subduction & Rifting**: Các quá trình động lực mảng
+- **Geological Time**: Thời gian địa chất và biến đổi
+
+→ **Liên kết:** DYNAMICS (System Dynamics), FOUNDATIONS (Natural Laws)
+
+#### **33. Stellar Nucleosynthesis - Tổng Hợp Hạt Nhân Sao**
+
+Quá trình tạo ra các nguyên tố hóa học trong các ngôi sao.
+
+- **Fusion Processes**: Các quá trình kết hợp hạt nhân
+- **Element Formation**: Sự hình thành các nguyên tố
+- **Cosmic Creation**: Sáng tạo vũ trụ học
+- **Star Life Cycles**: Chu kỳ sống của sao
+
+→ **Liên kết:** FOUNDATIONS (Cosmology), CREATION (Emergence)
+
+### **Operational Laws & Heuristics - Định Luật Vận Hành & Quy Tắc Kinh Nghiệm**
+
+#### **34. The Pareto Principle (80/20 Rule) - Nguyên Lý Pareto**
 
 Mô hình cho rằng đối với nhiều sự kiện, khoảng 80% kết quả đến từ 20% nguyên nhân.
 
@@ -1052,7 +1097,7 @@ Mô hình cho rằng đối với nhiều sự kiện, khoảng 80% kết quả 
 
 → **Liên kết:** AMPLIFICATION (Leverage), OPERATIONS (Prioritization)
 
-#### **32. Parkinson's Law** - Định Luật Parkinson [Universal Pattern]
+#### **35. Parkinson's Law - Định Luật Parkinson [Universal Pattern]**
 
 QUY LUẬT PHỔ QUÁT về mối quan hệ giữa thời gian và công việc: "Công việc sẽ mở rộng để lấp đầy thời gian có sẵn cho việc hoàn thành nó."
 
@@ -1065,7 +1110,7 @@ QUY LUẬT PHỔ QUÁT về mối quan hệ giữa thời gian và công việc:
 
 → **Liên kết:** OPERATIONS #38 (Parkinson's Law - ứng dụng thực hành), OPERATIONS (Constraint Analysis), CREATION (Constraint-Based Creativity)
 
-#### **33. Goodhart's Law** - Định Luật Goodhart [Nguyên Lý Phổ Quát]
+#### **36. Goodhart's Law - Định Luật Goodhart [Nguyên Lý Phổ Quát]**
 
 ĐỊNH LUẬT PHỔ QUÁT: "Khi một thước đo trở thành mục tiêu, nó không còn là một thước đo tốt nữa."
 
@@ -1083,7 +1128,7 @@ QUY LUẬT PHỔ QUÁT về mối quan hệ giữa thời gian và công việc:
   • McNamara Fallacy (chỉ tin vào số liệu định lượng)
 → **Ứng dụng thực tiễn:** VALIDATION #27 (thiết kế hệ thống đo lường)
 
-#### **34. The Medium is the Message** - Phương Tiện là Thông Điệp
+#### **37. The Medium is the Message - Phương Tiện là Thông Điệp**
 
 Mô hình cho rằng bản chất của một phương tiện truyền thông (cách nó hoạt động) định hình và kiểm soát quy mô và hình thức của các hành động và liên kết của con người.
 
@@ -1094,7 +1139,9 @@ Mô hình cho rằng bản chất của một phương tiện truyền thông (c
 
 → **Liên kết:** INTEGRATION (Systemic Integration), DYNAMICS (System Dynamics)
 
-#### **35. The Red Queen Effect** - Hiệu Ứng Nữ Hoàng Đỏ
+### **Evolutionary Dynamics - Động Lực Tiến Hóa**
+
+#### **38. The Red Queen Effect - Hiệu Ứng Nữ Hoàng Đỏ**
 
 Một mô hình tiến hóa trong đó các loài phải liên tục thích nghi và tiến hóa không chỉ để giành lợi thế, mà còn để đơn giản là tồn tại trước các đối thủ cũng đang tiến hóa.
 
@@ -1105,7 +1152,7 @@ Một mô hình tiến hóa trong đó các loài phải liên tục thích nghi
 
 → **Liên kết:** DYNAMICS (Evolution & Adaptation), NAVIGATION (Strategic Wayfinding)
 
-#### **36. Punctuated Equilibrium** - Cân Bằng Gián Đoạn [Quy Luật Tiến Hóa]
+#### **39. Punctuated Equilibrium - Cân Bằng Gián Đoạn [Quy Luật Tiến Hóa]**
 
 Mô hình tiến hóa phổ quát: hầu hết sự thay đổi xảy ra trong các giai đoạn
 bùng nổ ngắn, xen kẽ với các giai đoạn ổn định dài. Đây là QUY LUẬT TỰ NHIÊN
@@ -1125,7 +1172,9 @@ xuất hiện ở mọi hệ thống - từ sinh học, địa chất, đến x�
   • TRANSCENDENCE #16 (siêu việt hệ thống)
   • Liên quan: FOUNDATIONS #15 (Spiral Development - tiến hóa xoắn ốc)
 
-#### **37. The Dunning-Kruger Effect** - Hiệu Ứng Dunning-Kruger [Universal Pattern]
+### **Cognitive Biases & Behavioral Patterns - Thiên Kiến Nhận Thức & Mô Thức Hành Vi**
+
+#### **40. The Dunning-Kruger Effect - Hiệu Ứng Dunning-Kruger [Universal Pattern]**
 
 Một thiên kiến nhận thức PHỔ QUÁT trong đó những người có năng lực thấp ở một lĩnh vực có xu hướng ĐÁNH GIÁ QUÁ CAO năng lực của mình, trong khi những người có năng lực cao có xu hướng ĐÁNH GIÁ THẤP hơn một cách tương đối.
 
@@ -1175,7 +1224,7 @@ Một thiên kiến nhận thức PHỔ QUÁT trong đó những người có n�
 
 → **Công cụ ứng dụng:** DYNAMICS #61 (Dunning-Kruger Razor)
 
-#### **38. The Pygmalion Effect (Self-Fulfilling Prophecy)** - Hiệu Ứng Pygmalion
+#### **41. The Pygmalion Effect (Self-Fulfilling Prophecy) - Hiệu Ứng Pygmalion**
 
 Hiện tượng mà kỳ vọng cao hơn đối với một người dẫn đến sự cải thiện hiệu suất của người đó.
 
@@ -1186,7 +1235,7 @@ Hiện tượng mà kỳ vọng cao hơn đối với một người dẫn đế
 
 → **Liên kết:** AMPLIFICATION (Positive Feedback Loops), DYNAMICS (System Dynamics)
 
-#### **39. The Butterfly Effect** - Hiệu Ứng Cánh Bướm [Nguyên Lý Phổ Quát]
+#### **42. The Butterfly Effect - Hiệu Ứng Cánh Bướm [Nguyên Lý Phổ Quát]**
 
 Một nguyên lý toán học nền tảng của Chaos Theory: sự nhạy cảm cực độ với điều kiện ban đầu trong các hệ thống phi tuyến. Một thay đổi cực nhỏ ở một điểm có thể dẫn đến những khác biệt khổng lồ sau này.
 
@@ -1210,7 +1259,7 @@ Butterfly Effect KHÔNG có nghĩa "mọi thứ đều ảnh hưởng mọi th�
 
 → **Liên kết:** DYNAMICS (Chaos Theory - thành phần cốt lõi), AMPLIFICATION (Leverage Points), VALIDATION (Uncertainty Management), NAVIGATION (Risk Awareness), CREATION (Breakthrough Innovation)
 
-#### **40. The Cargo Cult** - Tín Ngưỡng Hàng Hóa
+#### **43. The Cargo Cult - Tín Ngưỡng Hàng Hóa**
 
 Việc bắt chước các hình thức bên ngoài của một quá trình thành công mà không hiểu các nguyên tắc cơ bản đằng sau nó.
 
@@ -1221,7 +1270,7 @@ Việc bắt chước các hình thức bên ngoài của một quá trình thà
 
 → **Liên kết:** OPERATIONS (Root Cause Analysis), VALIDATION (Falsification)
 
-#### **41. The Streetlight Effect - Hiệu Ứng Đèn Đường [Quy Luật Nhận Thức]**
+#### **44. The Streetlight Effect - Hiệu Ứng Đèn Đường [Quy Luật Nhận Thức]**
 
 QUY LUẬT phổ quát về hành vi tìm kiếm thông tin của con người - xu hướng tự nhiên tìm kiếm ở nơi THUẬN TIỆN nhất thay vì nơi CÓ NHIỀU THÔNG TIN nhất. Đây là một PATTERN cơ bản của nhận thức con người, giống như "con người tìm chìa khóa dưới ánh đèn đường không phải vì đánh rơi ở đó, mà vì đó là nơi sáng nhất."
 
@@ -1234,7 +1283,7 @@ QUY LUẬT phổ quát về hành vi tìm kiếm thông tin của con người -
 → **Xuất hiện ở domain khác:** VALIDATION #9 (áp dụng để tránh lỗi)
 → **Liên kết:** CREATION (Exploring the Unknown - phá vỡ pattern này)
 
-#### **42. The Boiling Frog - Con Ếch Luộc [Universal Pattern - Mẫu Hình Phổ Quát]**
+#### **45. The Boiling Frog - Con Ếch Luộc [Universal Pattern - Mẫu Hình Phổ Quát]**
 
 Một QUY LUẬT TÂM LÝ/HỆ THỐNG PHỔ QUÁT về việc con người và tổ chức
 có xu hướng không phản ứng với các mối đe dọa phát triển từ từ,
@@ -1257,7 +1306,7 @@ hiện tượng này.
 → **Ứng dụng thực hành:** VALIDATION #10 (công cụ phát hiện rủi ro)
 → **Ví dụ lịch sử:** Sự sụp đổ của Kodak, Nokia; Biến đổi khí hậu
 
-#### **43. The Procrustean Bed - Chiếc Giường của Procrustes [Anti-Pattern]**
+#### **46. The Procrustean Bed - Chiếc Giường của Procrustes [Anti-Pattern]**
 
 **NGUỒN GỐC:** Thần thoại Hy Lạp - Procrustes ép khách phải vừa với giường của hắn bằng cách kéo dài hoặc chặt chân họ.
 
@@ -1278,11 +1327,9 @@ hiện tượng này.
 
 **CẢNH BÁO:** Đây là một cognitive bias PHỔ QUÁT - xuất hiện ở mọi lĩnh vực từ khoa học, kinh doanh, đến đời sống cá nhân. Đặc biệt nguy hiểm vì nó tạo ra ảo tưởng về sự hiểu biết trong khi thực chất đang BÓP MÉO thực tại.
 
----
+### **Hermetic & Sacred Principles - Nguyên Lý Hermetic & Thiêng Liêng**
 
-### **Các Mô Hình & Định Luật Bổ Sung**
-
-#### **44. As Above So Below** - Như Trên Như Dưới
+#### **47. As Above So Below - Như Trên Như Dưới**
 
 Nguyên lý Hermetic về sự tương ứng giữa các cấp độ thực tại.
 
@@ -1293,7 +1340,7 @@ Nguyên lý Hermetic về sự tương ứng giữa các cấp độ thực tạ
 
 → **Liên kết:** FOUNDATIONS (Fractal Thinking), INTEGRATION (Holographic Integration)
 
-#### **45. Kybalion Principles** - Nguyên Lý Kybalion
+#### **48. Kybalion Principles - Nguyên Lý Kybalion**
 
 Bảy nguyên lý Hermetic cơ bản: Mentalism, Correspondence, Vibration, Polarity, Rhythm, Cause & Effect, Gender.
 
@@ -1304,40 +1351,9 @@ Bảy nguyên lý Hermetic cơ bản: Mentalism, Correspondence, Vibration, Pola
 
 → **Liên kết:** FOUNDATIONS (Universal Principles), TRANSCENDENCE (Hermetic Wisdom)
 
-#### **46. Natural Selection Principle** - Nguyên Lý Chọn Lọc Tự Nhiên
+### **Sacred Arts & Aesthetic Patterns - Nghệ Thuật Thiêng Liêng & Mô Thức Thẩm Mỹ**
 
-Cơ chế cốt lõi của tiến hóa sinh học.
-
-- **Differential Survival**: Tồn tại khác biệt dựa trên thích nghi
-- **Heritable Variation**: Biến dị có thể di truyền
-- **Reproductive Success**: Thành công sinh sản quyết định tiến hóa
-- **Environmental Selection**: Môi trường là lực chọn lọc
-
-→ **Liên kết:** DYNAMICS (Evolution & Adaptation), FOUNDATIONS (Evolution & Selection)
-
-#### **47. Plate Tectonics Theory** - Lý Thuyết Kiến Tạo Mảng
-
-Lý thuyết về sự chuyển động của các mảng thạch quyển Trái Đất.
-
-- **Lithospheric Plates**: Các mảng cứng trên bề mặt Trái Đất
-- **Continental Drift**: Sự trôi dạt của lục địa
-- **Subduction & Rifting**: Các quá trình động lực mảng
-- **Geological Time**: Thời gian địa chất và biến đổi
-
-→ **Liên kết:** DYNAMICS (System Dynamics), FOUNDATIONS (Natural Laws)
-
-#### **48. Stellar Nucleosynthesis** - Tổng Hợp Hạt Nhân Sao
-
-Quá trình tạo ra các nguyên tố hóa học trong các ngôi sao.
-
-- **Fusion Processes**: Các quá trình kết hợp hạt nhân
-- **Element Formation**: Sự hình thành các nguyên tố
-- **Cosmic Creation**: Sáng tạo vũ trụ học
-- **Star Life Cycles**: Chu kỳ sống của sao
-
-→ **Liên kết:** FOUNDATIONS (Cosmology), CREATION (Emergence)
-
-#### **49. Sacred Geometry Base Principles** - Nguyên Lý Hình Học Thiêng Liêng
+#### **49. Sacred Geometry Base Principles - Nguyên Lý Hình Học Thiêng Liêng**
 
 Các tỷ lệ và hình dạng có ý nghĩa tâm linh và toán học.
 
@@ -1458,7 +1474,9 @@ Các hệ thống tỷ lệ trong kiến trúc cổ điển.
 
 → **Liên kết:** CREATION (Architecture), FOUNDATIONS (Sacred Geometry)
 
-#### **60. Universal Grammar** - Ngữ Pháp Phổ Quát
+### **Meta-Patterns & Universal Structures - Mô Thức Siêu Việt & Cấu Trúc Phổ Quát**
+
+#### **60. Universal Grammar - Ngữ Pháp Phổ Quát**
 
 Lý thuyết về cấu trúc ngôn ngữ bẩm sinh.
 
