@@ -27713,14 +27713,33 @@ Khoa học về hệ thống, phản hồi và kiểm soát trong cả hệ th�
 
 #### **37. Second-order Cybernetics** - Điều Khiển Học Bậc Hai
 
-Điều khiển học của các hệ thống điều khiển học - bao gồm cả người quan sát trong hệ thống.
+Điều khiển học áp dụng cho chính các hệ thống điều khiển học - nghiên cứu về "hệ thống quan sát" thay vì chỉ "hệ thống được quan sát". Đây là nền tảng lý thuyết cho việc bao gồm NGƯỜI QUAN SÁT vào trong hệ thống được nghiên cứu, tạo ra sự phản xạ và đệ quy trong nhận thức.
 
-- **Observing Systems**: Hệ thống quan sát.
-- **Reflexive Control**: Kiểm soát phản xạ.
-- **Recursive Feedback**: Phản hồi đệ quy.
-- **Observer Inclusion**: Bao gồm người quan sát trong phân tích.
+🔬 **Lý thuyết cốt lõi:**
+- **Observing Systems Theory**: Lý thuyết về các hệ thống quan sát
+- **Recursive Meta-Control**: Siêu kiểm soát đệ quy - kiểm soát về kiểm soát
+- **Observer Inclusion**: Bao gồm người quan sát như một phần của hệ thống
+- **Reflexive Control**: Kiểm soát phản xạ - hệ thống điều chỉnh chính nó
 
-→ **Liên kết:** [META] LAYER (Reflexivity), OPERATIONS (Systems Thinking).
+🎯 **Ứng dụng thực hành:**
+- **Self-Organizing Systems**: Hệ thống tự tổ chức mà không cần kiểm soát bên ngoài
+- **Autonomy & Control**: Cân bằng giữa tự chủ và kiểm soát trong hệ thống
+- **Recursive Feedback**: Phản hồi đệ quy - phản hồi về phản hồi
+- **Participatory Observation**: Quan sát có sự tham gia của người quan sát
+
+💡 **Ý nghĩa meta-nhận thức:**
+
+Đây là nền tảng lý thuyết để hiểu rằng:
+- Bạn không thể tách rời khỏi hệ thống mà bạn đang quan sát
+- Hành động quan sát đã thay đổi cả người quan sát lẫn đối tượng được quan sát
+- Hệ thống tư duy có thể tự quan sát và tự điều chỉnh chính nó
+- Không có "quan điểm khách quan" tuyệt đối - mọi quan sát đều có tính tham gia
+
+→ **Liên kết nội bộ domain:** [META] LAYER (Reflexivity, Self-Observation Protocol, Recursive Consciousness, Observer Effect, Meta-Feedback, Meta-Cognition).
+
+→ **Liên kết với domains khác:** FOUNDATIONS (Quantum Mechanics - Observer Effect), DYNAMICS (Self-Organization, System Dynamics), OPERATIONS (Systems Thinking, Control Theory), VALIDATION (Measurement Theory, Research Methods), INTEGRATION (Reflexive Sociology).
+
+→ **Nguồn gốc lý thuyết:** Heinz von Foerster (người sáng lập Second-order Cybernetics), Gregory Bateson (Mind and Nature), Humberto Maturana & Francisco Varela (Autopoiesis).
 
 #### **38. Reflexive Sociology** - Xã Hội Học Phản Tư
 
@@ -27788,6 +27807,8 @@ Kỹ thuật huấn luyện não bộ thông qua phản hồi thời gian thực
 ### **Tổng Quan**
 
 Chức năng này tập trung vào khả năng quan sát hệ thống tư duy của chính mình như một đối tượng - nhìn vào các mẫu hình, chu kỳ, điểm mạnh và điểm yếu của hệ thống nhận thức cá nhân.
+
+📌 **LƯU Ý:** Khái niệm "Second-order Cybernetics" trước đây có phiên bản "chi tiết" riêng (#25) nhưng đã được tích hợp vào khái niệm #37 ở CHỨC NĂNG 1: META-COGNITION & AWARENESS để tránh trùng lặp không cần thiết. Xem CHỨC NĂNG 1, khái niệm #37 để có thông tin đầy đủ về Second-order Cybernetics.
 
 ### **Các Khái Niệm Cốt Lõi**
 
@@ -28085,18 +28106,7 @@ Lý thuyết toán học về cách điều khiển các hệ thống động.
 
 → **Liên kết:** OPERATIONS (Optimization), DYNAMICS (System Dynamics).
 
-#### **25. Second-order Cybernetics (Detailed)** - Điều Khiển Học Bậc Hai (Chi Tiết)
-
-Điều khiển học áp dụng cho chính điều khiển học - bao gồm người quan sát.
-
-- **Observing Systems Theory**: Lý thuyết hệ thống quan sát.
-- **Recursive Meta-Control**: Siêu kiểm soát đệ quy.
-- **Self-Organizing Systems**: Hệ thống tự tổ chức.
-- **Autonomy & Control**: Tự chủ và kiểm soát.
-
-→ **Liên kết:** [META] LAYER (Second-order Cybernetics), DYNAMICS (Self-Organization).
-
-#### **26. Reflexive Sociology (Methodological)** - Xã Hội Học Phản Tư (Phương Pháp Luận)
+#### **25. Reflexive Sociology (Methodological)** - Xã Hội Học Phản Tư (Phương Pháp Luận)
 
 Áp dụng phương pháp phản tư vào nghiên cứu xã hội học.
 
