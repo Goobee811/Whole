@@ -10905,16 +10905,20 @@ Hiểu và tạo ra các đổi mới có khả năng thay thế các công ngh�
 
 → **Liên kết:** DYNAMICS (Paradigm Shift), NAVIGATION (Strategic Positioning)
 
-#### **5. Open Innovation** - Đổi Mới Mở
+#### **5. Open Innovation - Đổi Mới Mở [Phương Pháp Đột Phá]**
 
-Sử dụng ý tưởng và công nghệ từ bên ngoài tổ chức cũng như từ bên trong.
+Phương pháp đổi mới bằng cách MỞ CỬA tổ chức cho ý tưởng và công nghệ từ bên ngoài, đồng thời cho phép ý tưởng nội bộ chảy ra ngoài. Đây là CHIẾN LƯỢC SÁNG TẠO để tạo ra các đột phá mà tổ chức không thể tự làm.
 
-- **Inbound Innovation**: Đưa kiến thức và công nghệ từ bên ngoài vào
-- **Outbound Innovation**: Cho phép các ý tưởng không sử dụng được đưa ra ngoài
-- **Coupled Innovation**: Hợp tác với đối tác bên ngoài trong quá trình đồng sáng tạo
+- **Inbound Innovation**: Đưa tri thức và công nghệ từ BÊN NGOÀI vào bên trong
+- **Outbound Innovation**: Cho phép ý tưởng không dùng được ĐI RA NGOÀI
+- **Coupled Innovation**: HỢP TÁC với đối tác bên ngoài trong đồng sáng tạo
 - **Ecosystem Thinking**: Tư duy hệ sinh thái thay vì tổ chức đơn lẻ
 
-→ **Liên kết:** AMPLIFICATION (Network Effects), INTEGRATION (Ecosystem Building)
+→ **Liên kết nội bộ:** CREATION (Co-creation), INTEGRATION (Collaborative Creativity)
+→ **Khuếch đại tác động:** AMPLIFICATION #25 (xây dựng platform mở)
+→ **Huy động trí tuệ:** INTEGRATION #5 (Open Innovation - trí tuệ cộng tác) & #6 (Crowdsourcing)
+→ **Ví dụ:** Open Source, Innovation Challenges, External Partnerships
+→ **Khác biệt:** Ở CREATION, tập trung vào PHƯƠNG PHÁP tạo đột phá cho một dự án/sản phẩm cụ thể, chưa đến giai đoạn xây dựng platform quy mô lớn
 
 #### **6. Agile Innovation** - Đổi Mới Linh Hoạt
 
@@ -17815,20 +17819,39 @@ Một phương pháp giải quyết vấn đề lấy con người làm trung t�
 
 ---
 
-#### **5. Open Innovation & Crowdsourcing** - Đổi Mới Mở & Khai Thác Đám Đông
+#### **5. Open Innovation - Đổi Mới Mở [Trí Tuệ Cộng Tác]**
 
-Tận dụng trí tuệ tập thể từ một cộng đồng rộng lớn để giải quyết các vấn đề và tạo ra đổi mới.
+Tận dụng SỨC MẠNH CỘNG ĐỒNG và TRÍ TUỆ TẬP THỂ từ một mạng lưới rộng lớn để giải quyết vấn đề và đổi mới. Khác với phương pháp ở CREATION và nền tảng ở AMPLIFICATION, đây là về CỘNG ĐỒNG và CON NGƯỜI.
 
-- **Distributed Problem-Solving**: Giải quyết vấn đề phân tán; chia nhỏ vấn đề và để nhiều người giải quyết.
-- **Collective Wisdom**: Trí tuệ tập thể; "nhiều đầu óc tốt hơn một".
-- **Incentive Alignment**: Sắp xếp động lực để khuyến khích đóng góp.
-- **Harnessing Diversity**: Khai thác sự đa dạng của quan điểm và kỹ năng.
+- **Distributed Problem-Solving**: Giải quyết vấn đề phân tán qua CỘNG ĐỒNG
+- **Collective Wisdom**: Trí tuệ tập thể - "NHIỀU ĐẦU ÓC tốt hơn một"
+- **Collaborative Innovation**: Đổi mới cộng tác trên QUY MÔ TOÀN CẦU
+- **Community-Driven Development**: Phát triển được dẫn dắt bởi CỘNG ĐỒNG
 
-→ **Liên kết:** AMPLIFICATION (Crowd Dynamics), CREATION (Innovation).
+→ **Liên kết nội bộ:** INTEGRATION (Dialogue, Collaborative Problem-Solving)
+→ **Gốc lý thuyết:** CREATION #5 (phương pháp), AMPLIFICATION #25 (nền tảng)
+→ **Kết hợp với:** INTEGRATION #6 (Crowdsourcing - công cụ cụ thể)
+→ **Hỗ trợ bởi:** AMPLIFICATION (Community Intelligence, Wisdom of Crowds)
 
 ---
 
-#### **6. Facilitation & Group Process** - Tạo Điều Kiện & Quá Trình Nhóm
+#### **6. Crowdsourcing - Khai Thác Đám Đông**
+
+Phương pháp CỤ THỂ để huy động sức mạnh đám đông giải quyết vấn đề, tạo nội dung, hoặc tài trợ dự án. Đây là một DẠNG ỨNG DỤNG của Open Innovation tập trung vào QUY MÔ và ĐA DẠNG của người tham gia.
+
+- **Incentive Alignment**: Sắp xếp động lực để KHUYẾN KHÍCH đóng góp
+- **Harnessing Diversity**: Khai thác SỰ ĐA DẠNG của quan điểm và kỹ năng
+- **Scalable Participation**: Tham gia có thể MỞ RỘNG đến hàng ngàn người
+- **Democratic Innovation**: DÂN CHỦ HÓA quá trình đổi mới
+
+→ **Liên kết nội bộ:** INTEGRATION #5 (Open Innovation - khung tổng quát)
+→ **Ví dụ cụ thể:** Wikipedia, InnoCentive, Kickstarter, 99designs
+→ **Kỹ thuật:** AMPLIFICATION (Crowd Dynamics), CREATION (Ideation Challenges)
+→ **Khác biệt với Open Innovation:** Crowdsourcing là một CÔNG CỤ CỤ THỂ, trong khi Open Innovation là TRIẾT LÝ tổng quát hơn
+
+---
+
+#### **7. Facilitation & Group Process** - Tạo Điều Kiện & Quá Trình Nhóm
 
 Kỹ năng hướng dẫn và tạo điều kiện cho các nhóm làm việc hiệu quả và sáng tạo.
 
@@ -17841,7 +17864,7 @@ Kỹ năng hướng dẫn và tạo điều kiện cho các nhóm làm việc hi
 
 ---
 
-#### **7. Co-Creation & Participatory Design** - Đồng Sáng Tạo & Thiết Kế Tham Gia
+#### **8. Co-Creation & Participatory Design** - Đồng Sáng Tạo & Thiết Kế Tham Gia
 
 Tích cực thu hút người dùng hoặc bên liên quan vào quá trình thiết kế và sáng tạo.
 
@@ -17854,7 +17877,7 @@ Tích cực thu hút người dùng hoặc bên liên quan vào quá trình thi�
 
 ---
 
-#### **8. Networked Collaboration** - Cộng Tác Mạng Lưới
+#### **9. Networked Collaboration** - Cộng Tác Mạng Lưới
 
 Làm việc cùng nhau qua các mạng lưới phân tán, thường được hỗ trợ bởi công nghệ.
 
@@ -17867,7 +17890,7 @@ Làm việc cùng nhau qua các mạng lưới phân tán, thường được h�
 
 ---
 
-#### **9. Swarm Intelligence - Trí Tuệ Bầy Đàn [Trong Cộng Tác Con Người]**
+#### **10. Swarm Intelligence - Trí Tuệ Bầy Đàn [Trong Cộng Tác Con Người]**
 
 Áp dụng các nguyên tắc từ hành vi bầy đàn tự nhiên vào TỔ CHỨC CON NGƯỜI và cộng tác nhóm. Khác với nguyên lý tự nhiên ở DYNAMICS, đây là về THỰC HÀNH - làm thế nào để con người cộng tác như một bầy đàn thông minh.
 
@@ -17885,7 +17908,7 @@ Làm việc cùng nhau qua các mạng lưới phân tán, thường được h�
 
 ---
 
-#### **10. Holocracy & Self-Management** - Toàn Quyền & Tự Quản
+#### **11. Holocracy & Self-Management** - Toàn Quyền & Tự Quản
 
 Các hệ thống tổ chức dựa trên phân phối quyền lực và tự quản.
 
@@ -17898,7 +17921,7 @@ Các hệ thống tổ chức dựa trên phân phối quyền lực và tự qu
 
 ---
 
-#### **11. Team Synergy** - Hiệp Lực Nhóm
+#### **12. Team Synergy** - Hiệp Lực Nhóm
 
 Tạo ra một nhóm nơi tổng thể lớn hơn tổng các phần.
 
@@ -17911,7 +17934,7 @@ Tạo ra một nhóm nơi tổng thể lớn hơn tổng các phần.
 
 ---
 
-#### **12. Cross-Functional Collaboration** - Cộng Tác Xuyên Chức Năng
+#### **13. Cross-Functional Collaboration** - Cộng Tác Xuyên Chức Năng
 
 Làm việc cùng nhau qua các lĩnh vực chuyên môn và chức năng khác nhau.
 
@@ -17924,7 +17947,7 @@ Làm việc cùng nhau qua các lĩnh vực chuyên môn và chức năng khác 
 
 ---
 
-#### **13. Collective Sensemaking (lặp lại từ Chức năng 1)**
+#### **14. Collective Sensemaking (lặp lại từ Chức năng 1)**
 
 (Đã có ở Chức năng 1, nhưng cũng phù hợp với Collaborative Intelligence)
 
@@ -17934,7 +17957,7 @@ Quá trình một nhóm người cùng nhau diễn giải và tạo ra ý nghĩa
 
 ---
 
-#### **14. Distributed Leadership** - Lãnh Đạo Phân Tán
+#### **15. Distributed Leadership** - Lãnh Đạo Phân Tán
 
 Mô hình lãnh đạo nơi quyền lực và trách nhiệm được chia sẻ và luân chuyển.
 
@@ -17947,7 +17970,7 @@ Mô hình lãnh đạo nơi quyền lực và trách nhiệm được chia sẻ 
 
 ---
 
-#### **15. Knowledge Commons** - Tri Thức Chung
+#### **16. Knowledge Commons** - Tri Thức Chung
 
 Các hệ thống nơi tri thức được chia sẻ tự do và cộng tác được xây dựng.
 
@@ -17960,7 +17983,7 @@ Các hệ thống nơi tri thức được chia sẻ tự do và cộng tác đ�
 
 ---
 
-#### **16. Agile & Scrum** - Linh Hoạt & Scrum
+#### **17. Agile & Scrum** - Linh Hoạt & Scrum
 
 Các phương pháp phát triển lặp lại, gia tăng, tập trung vào cộng tác và phản hồi.
 
@@ -17973,7 +17996,7 @@ Các phương pháp phát triển lặp lại, gia tăng, tập trung vào cộn
 
 ---
 
-#### **17. Appreciative Inquiry** - Khám Phá Đánh Giá Cao
+#### **18. Appreciative Inquiry** - Khám Phá Đánh Giá Cao
 
 Một phương pháp thay đổi tổ chức tập trung vào những gì đang hoạt động tốt.
 
@@ -17986,7 +18009,7 @@ Một phương pháp thay đổi tổ chức tập trung vào những gì đang 
 
 ---
 
-#### **18. Sociocracy & Consent Decision-Making** - Xã Hội Học & Ra Quyết Định Bằng Đồng Thuận
+#### **19. Sociocracy & Consent Decision-Making** - Xã Hội Học & Ra Quyết Định Bằng Đồng Thuận
 
 Hệ thống quản trị dựa trên sự đồng thuận (không có phản đối nghiêm trọng) thay vì đa số.
 
@@ -17999,7 +18022,7 @@ Hệ thống quản trị dựa trên sự đồng thuận (không có phản đ
 
 ---
 
-#### **19. Wisdom Councils** - Hội Đồng Trí Tuệ
+#### **20. Wisdom Councils** - Hội Đồng Trí Tuệ
 
 Các nhóm tạm thời được triệu tập để cung cấp trí tuệ tập thể về các vấn đề quan trọng.
 
@@ -18012,7 +18035,7 @@ Các nhóm tạm thời được triệu tập để cung cấp trí tuệ tập
 
 ---
 
-#### **20. Relational Coordination** - Phối Hợp Quan Hệ
+#### **21. Relational Coordination** - Phối Hợp Quan Hệ
 
 Phối hợp công việc thông qua các mối quan hệ chất lượng cao được đặc trưng bởi giao tiếp thường xuyên, kịp thời, chính xác và giải quyết vấn đề.
 
@@ -18025,7 +18048,7 @@ Phối hợp công việc thông qua các mối quan hệ chất lượng cao đ
 
 ### **Nhóm Collective Mind - Tâm Trí Tập Thể (8 mục mới)**
 
-#### **21. Collective Wisdom** - Trí Tuệ Tập Thể
+#### **22. Collective Wisdom** - Trí Tuệ Tập Thể
 
 Sự xuất hiện của trí tuệ - bao gồm cả chiều sâu đạo đức, reflection và wisdom - vượt qua bất kỳ cá nhân nào từ một nhóm người. Khác với swarm intelligence trong tự nhiên (FOUNDATIONS #36), đây là về WISDOM - không chỉ intelligence - đòi hỏi consciousness và ethical reflection.
 
@@ -18040,7 +18063,7 @@ Sự xuất hiện của trí tuệ - bao gồm cả chiều sâu đạo đức,
 
 ---
 
-#### **22. Collective Intelligence (System)** - Trí Tuệ Tập Thể (Hệ Thống)
+#### **23. Collective Intelligence (System)** - Trí Tuệ Tập Thể (Hệ Thống)
 
 Khả năng giải quyết vấn đề và ra quyết định của nhóm.
 
@@ -18053,7 +18076,7 @@ Khả năng giải quyết vấn đề và ra quyết định của nhóm.
 
 ---
 
-#### **23. Swarm Intelligence Integration** - Tích Hợp Trí Tuệ Bầy Đàn
+#### **24. Swarm Intelligence Integration** - Tích Hợp Trí Tuệ Bầy Đàn
 
 Áp dụng các nguyên tắc từ hành vi bầy đàn vào tổ chức con người.
 
@@ -18066,7 +18089,7 @@ Khả năng giải quyết vấn đề và ra quyết định của nhóm.
 
 ---
 
-#### **24. Hive Mind Optimization** - Tối Ưu Hóa Tâm Trí Tổ Ong
+#### **25. Hive Mind Optimization** - Tối Ưu Hóa Tâm Trí Tổ Ong
 
 Tạo ra trạng thái tâm trí thống nhất trong nhóm.
 
@@ -18079,7 +18102,7 @@ Tạo ra trạng thái tâm trí thống nhất trong nhóm.
 
 ---
 
-#### **25. Global Brain Interface** - Giao Diện Não Bộ Toàn Cầu
+#### **26. Global Brain Interface** - Giao Diện Não Bộ Toàn Cầu
 
 Kết nối con người và máy tính thành một mạng lưới trí tuệ toàn cầu.
 
@@ -18092,7 +18115,7 @@ Kết nối con người và máy tính thành một mạng lưới trí tuệ t
 
 ---
 
-#### **26. AI Thinking Partners** - Đối Tác Tư Duy AI
+#### **27. AI Thinking Partners** - Đối Tác Tư Duy AI
 
 Sử dụng trí tuệ nhân tạo như công cụ mở rộng tư duy.
 
@@ -18105,7 +18128,7 @@ Sử dụng trí tuệ nhân tạo như công cụ mở rộng tư duy.
 
 ---
 
-#### **27. Distributed Cognition** - Nhận Thức Phân Tán
+#### **28. Distributed Cognition** - Nhận Thức Phân Tán
 
 Tư duy được phân tán qua nhiều cá nhân, công cụ và môi trường.
 
@@ -18118,7 +18141,7 @@ Tư duy được phân tán qua nhiều cá nhân, công cụ và môi trường
 
 ---
 
-#### **28. Extended Mind Thesis (Collaborative)** - Luận Đề Tâm Trí Mở Rộng (Cộng Tác)
+#### **29. Extended Mind Thesis (Collaborative)** - Luận Đề Tâm Trí Mở Rộng (Cộng Tác)
 
 Tâm trí mở rộng không chỉ ra môi trường mà cả vào các tâm trí khác.
 
@@ -18133,7 +18156,7 @@ Tâm trí mở rộng không chỉ ra môi trường mà cả vào các tâm tr�
 
 ### **Nhóm Community Practice - Thực Hành Cộng Đồng (8 mục mới)**
 
-#### **29. Community of Practice** - Cộng Đồng Thực Hành
+#### **30. Community of Practice** - Cộng Đồng Thực Hành
 
 Nhóm người cùng chia sẻ mối quan tâm và học hỏi lẫn nhau.
 
@@ -18146,7 +18169,7 @@ Nhóm người cùng chia sẻ mối quan tâm và học hỏi lẫn nhau.
 
 ---
 
-#### **30. Community Building [Tạo Sự Gắn Kết]** - Xây Dựng Cộng Đồng [Tạo Sự Gắn Kết]
+#### **31. Community Building [Tạo Sự Gắn Kết]** - Xây Dựng Cộng Đồng [Tạo Sự Gắn Kết]
 
 Nghệ thuật tạo ra và nuôi dưỡng cộng đồng gắn kết - nơi mọi người cảm thấy THUỘC VỀ, được CHÀO ĐÓN và KẾT NỐI sâu sắc với nhau. Khác với cách tiếp cận tăng trưởng ở AMPLIFICATION, đây là về CHẤT LƯỢNG quan hệ và không gian tâm lý an toàn.
 
@@ -18161,7 +18184,7 @@ Nghệ thuật tạo ra và nuôi dưỡng cộng đồng gắn kết - nơi m�
 
 ---
 
-#### **31. Community Dynamics** - Động Lực Cộng Đồng
+#### **32. Community Dynamics** - Động Lực Cộng Đồng
 
 Các mẫu hình năng lượng và tương tác trong cộng đồng.
 
@@ -18174,7 +18197,7 @@ Các mẫu hình năng lượng và tương tác trong cộng đồng.
 
 ---
 
-#### **32. Community Practice Circles** - Vòng Tròn Thực Hành Cộng Đồng
+#### **33. Community Practice Circles** - Vòng Tròn Thực Hành Cộng Đồng
 
 Các buổi họp thường xuyên của cộng đồng để thực hành chung.
 
@@ -18187,7 +18210,7 @@ Các buổi họp thường xuyên của cộng đồng để thực hành chung
 
 ---
 
-#### **33. Dialogue Integration** - Tích Hợp Đối Thoại
+#### **34. Dialogue Integration** - Tích Hợp Đối Thoại
 
 Sử dụng đối thoại sâu sắc để tích hợp quan điểm.
 
@@ -18200,7 +18223,7 @@ Sử dụng đối thoại sâu sắc để tích hợp quan điểm.
 
 ---
 
-#### **34. Cultural Integration (Community)** - Tích Hợp Văn Hóa (Cộng Đồng)
+#### **35. Cultural Integration (Community)** - Tích Hợp Văn Hóa (Cộng Đồng)
 
 Hòa nhập các yếu tố văn hóa khác nhau trong cộng đồng.
 
@@ -18213,7 +18236,7 @@ Hòa nhập các yếu tố văn hóa khác nhau trong cộng đồng.
 
 ---
 
-#### **35. Social Cohesion** - Gắn Kết Xã Hội
+#### **36. Social Cohesion** - Gắn Kết Xã Hội
 
 Sự gắn bó và kết nối trong cộng đồng hoặc xã hội.
 
@@ -18226,7 +18249,7 @@ Sự gắn bó và kết nối trong cộng đồng hoặc xã hội.
 
 ---
 
-#### **36. Restorative Justice Circles** - Vòng Tròn Công Lý Phục Hồi
+#### **37. Restorative Justice Circles** - Vòng Tròn Công Lý Phục Hồi
 
 Quá trình nhóm để chữa lành và hòa giải sau xung đột.
 
@@ -18241,7 +18264,7 @@ Quá trình nhóm để chữa lành và hòa giải sau xung đột.
 
 ### **Nhóm Relational Field - Trường Quan Hệ (7 mục mới)**
 
-#### **37. Interpersonal Integration** - Tích Hợp Liên Cá Nhân
+#### **38. Interpersonal Integration** - Tích Hợp Liên Cá Nhân
 
 Hòa hợp trong các mối quan hệ giữa các cá nhân.
 
@@ -18254,7 +18277,7 @@ Hòa hợp trong các mối quan hệ giữa các cá nhân.
 
 ---
 
-#### **38. Family System Integration** - Tích Hợp Hệ Thống Gia Đình
+#### **39. Family System Integration** - Tích Hợp Hệ Thống Gia Đình
 
 Chữa lành và hài hòa hóa các động lực gia đình.
 
@@ -18267,7 +18290,7 @@ Chữa lành và hài hòa hóa các động lực gia đình.
 
 ---
 
-#### **39. Global Integration** - Tích Hợp Toàn Cầu
+#### **40. Global Integration** - Tích Hợp Toàn Cầu
 
 Ý thức và kết nối ở cấp độ hành tinh.
 
@@ -18280,7 +18303,7 @@ Chữa lành và hài hòa hóa các động lực gia đình.
 
 ---
 
-#### **40. Family & Ancestral Healing** - Chữa Lành Gia Đình & Tổ Tiên
+#### **41. Family & Ancestral Healing** - Chữa Lành Gia Đình & Tổ Tiên
 
 Chữa lành các vết thương xuyên thế hệ.
 
@@ -18293,7 +18316,7 @@ Chữa lành các vết thương xuyên thế hệ.
 
 ---
 
-#### **41. Sacred Relationship Work** - Công Việc Quan Hệ Thiêng Liêng
+#### **42. Sacred Relationship Work** - Công Việc Quan Hệ Thiêng Liêng
 
 Xem mối quan hệ như con đường tâm linh.
 
@@ -18306,7 +18329,7 @@ Xem mối quan hệ như con đường tâm linh.
 
 ---
 
-#### **42. Sacred Relationship Practice** - Thực Hành Quan Hệ Thiêng Liêng
+#### **43. Sacred Relationship Practice** - Thực Hành Quan Hệ Thiêng Liêng
 
 Các thực hành cụ thể để nuôi dưỡng quan hệ thiêng liêng.
 
@@ -18319,7 +18342,7 @@ Các thực hành cụ thể để nuôi dưỡng quan hệ thiêng liêng.
 
 ---
 
-#### **43. Relational Field** - Trường Quan Hệ
+#### **44. Relational Field** - Trường Quan Hệ
 
 Không gian năng lượng giữa các người trong quan hệ.
 
@@ -18334,7 +18357,7 @@ Không gian năng lượng giữa các người trong quan hệ.
 
 ### **Nhóm Collaborative Creation - Sáng Tạo Cộng Tác (7 mục mới)**
 
-#### **44. Collaborative Integration** - Tích Hợp Cộng Tác
+#### **45. Collaborative Integration** - Tích Hợp Cộng Tác
 
 Quá trình tích hợp thông qua cộng tác.
 
@@ -18347,7 +18370,7 @@ Quá trình tích hợp thông qua cộng tác.
 
 ---
 
-#### **45. Team Alchemy** - Giả Kim Nhóm
+#### **46. Team Alchemy** - Giả Kim Nhóm
 
 Chuyển hóa một nhóm thành một đơn vị có hiệu suất cao.
 
@@ -18360,7 +18383,7 @@ Chuyển hóa một nhóm thành một đơn vị có hiệu suất cao.
 
 ---
 
-#### **46. Partnership Leverage** - Tận Dụng Đối Tác
+#### **47. Partnership Leverage** - Tận Dụng Đối Tác
 
 Khuếch đại tác động thông qua quan hệ đối tác chiến lược.
 
@@ -18373,7 +18396,7 @@ Khuếch đại tác động thông qua quan hệ đối tác chiến lược.
 
 ---
 
-#### **47. Ecosystem Orchestration** - Dàn Dựng Hệ Sinh Thái
+#### **48. Ecosystem Orchestration** - Dàn Dựng Hệ Sinh Thái
 
 Phối hợp một mạng lưới phức tạp của các bên liên quan.
 
@@ -18386,7 +18409,7 @@ Phối hợp một mạng lưới phức tạp của các bên liên quan.
 
 ---
 
-#### **48. Collective Leadership** - Lãnh Đạo Tập Thể
+#### **49. Collective Leadership** - Lãnh Đạo Tập Thể
 
 Lãnh đạo được chia sẻ và phân tán trong nhóm.
 
@@ -18399,7 +18422,7 @@ Lãnh đạo được chia sẻ và phân tán trong nhóm.
 
 ---
 
-#### **49. Group Decision Making** - Ra Quyết Định Nhóm
+#### **50. Group Decision Making** - Ra Quyết Định Nhóm
 
 Quá trình nhóm đi đến quyết định chung.
 
@@ -18412,7 +18435,7 @@ Quá trình nhóm đi đến quyết định chung.
 
 ---
 
-#### **50. Group Process Work** - Công Việc Quá Trình Nhóm
+#### **51. Group Process Work** - Công Việc Quá Trình Nhóm
 
 Làm việc với động lực và quá trình của nhóm.
 
@@ -18427,7 +18450,7 @@ Làm việc với động lực và quá trình của nhóm.
 
 ### **Nhóm Synergistic Value - Giá Trị Hiệp Lực (8 mục mới)**
 
-#### **51. Synergy (Collaborative)** - Hiệp Lực (Cộng Tác)
+#### **52. Synergy (Collaborative)** - Hiệp Lực (Cộng Tác)
 
 Sức mạnh tổng hợp khi các phần làm việc cùng nhau.
 
@@ -18440,7 +18463,7 @@ Sức mạnh tổng hợp khi các phần làm việc cùng nhau.
 
 ---
 
-#### **52. Complementarity (Collaborative)** - Bổ Sung (Cộng Tác)
+#### **53. Complementarity (Collaborative)** - Bổ Sung (Cộng Tác)
 
 Các phần khác nhau bổ sung cho nhau để tạo toàn vẹn.
 
@@ -18453,7 +18476,7 @@ Các phần khác nhau bổ sung cho nhau để tạo toàn vẹn.
 
 ---
 
-#### **53. Integration Magic** - Ma Thuật Tích Hợp
+#### **54. Integration Magic** - Ma Thuật Tích Hợp
 
 Sự kỳ diệu xảy ra khi tích hợp đạt đến đỉnh cao.
 
@@ -18466,7 +18489,7 @@ Sự kỳ diệu xảy ra khi tích hợp đạt đến đỉnh cao.
 
 ---
 
-#### **54. Fusion Dynamics** - Động Lực Kết Hợp
+#### **55. Fusion Dynamics** - Động Lực Kết Hợp
 
 Các lực lượng và quá trình của sự kết hợp.
 
@@ -18479,7 +18502,7 @@ Các lực lượng và quá trình của sự kết hợp.
 
 ---
 
-#### **55. Multi-Stakeholder Value** - Giá Trị Nhiều Bên Liên Quan
+#### **56. Multi-Stakeholder Value** - Giá Trị Nhiều Bên Liên Quan
 
 Tạo ra giá trị cho tất cả các bên liên quan.
 
@@ -18492,7 +18515,7 @@ Tạo ra giá trị cho tất cả các bên liên quan.
 
 ---
 
-#### **56. Value Chain Innovation** - Đổi Mới Chuỗi Giá Trị
+#### **57. Value Chain Innovation** - Đổi Mới Chuỗi Giá Trị
 
 Nâng cấp toàn bộ hệ thống tạo giá trị.
 
@@ -18505,7 +18528,7 @@ Nâng cấp toàn bộ hệ thống tạo giá trị.
 
 ---
 
-#### **57. Experience Multiplication** - Nhân Lên Trải Nghiệm
+#### **58. Experience Multiplication** - Nhân Lên Trải Nghiệm
 
 Khuếch đại trải nghiệm thông qua chia sẻ.
 
@@ -18518,7 +18541,7 @@ Khuếch đại trải nghiệm thông qua chia sẻ.
 
 ---
 
-#### **58. Learning Multiplication** - Nhân Lên Học Tập
+#### **59. Learning Multiplication** - Nhân Lên Học Tập
 
 Khuếch đại học tập thông qua chia sẻ tri thức.
 
@@ -18533,7 +18556,7 @@ Khuếch đại học tập thông qua chia sẻ tri thức.
 
 ### **Nhóm Protocol & Infrastructure - Giao Thức & Cơ Sở Hạ Tầng (3 mục mới)**
 
-#### **59. Collective Intelligence Protocols** - Giao Thức Trí Tuệ Tập Thể
+#### **60. Collective Intelligence Protocols** - Giao Thức Trí Tuệ Tập Thể
 
 Các phương pháp có cấu trúc để khai thác trí tuệ nhóm.
 
@@ -18546,7 +18569,7 @@ Các phương pháp có cấu trúc để khai thác trí tuệ nhóm.
 
 ---
 
-#### **60. Collective Intelligence Taps** - Vòi Trí Tuệ Tập Thể
+#### **61. Collective Intelligence Taps** - Vòi Trí Tuệ Tập Thể
 
 Công cụ và kỹ thuật để truy cập trí tuệ tập thể.
 
@@ -18559,7 +18582,7 @@ Công cụ và kỹ thuật để truy cập trí tuệ tập thể.
 
 ---
 
-#### **61. Community Integration Protocol** - Giao Thức Tích Hợp Cộng Đồng
+#### **62. Community Integration Protocol** - Giao Thức Tích Hợp Cộng Đồng
 
 Quy trình có hệ thống để tích hợp thành viên vào cộng đồng.
 
@@ -23428,15 +23451,21 @@ Phương pháp có cấu trúc để tạo ra đổi mới nhất quán.
 - **Repeatable Process**: Quy trình có thể lặp lại.  
     → **Liên kết:** OPERATIONS (Innovation Methods), CREATION (Systematic Creativity).
 
-#### **25. Open Innovation** - Đổi Mới Mở
+#### **25. Open Innovation - Đổi Mới Mở [Xây Dựng Nền Tảng]**
 
-Mô hình đổi mới dựa trên sự hợp tác và chia sẻ tri thức.
+Mô hình đổi mới dựa trên việc xây dựng NỀN TẢNG MỞ và HỆ SINH THÁI nơi nhiều bên cùng sáng tạo và chia sẻ tri thức. Khác với phương pháp ở CREATION, đây là về KIẾN TRÚC HỆ THỐNG để khuếch đại đổi mới quy mô lớn.
 
-- **Collaborative Creation**: Sáng tạo hợp tác.
-- **Distributed Development**: Phát triển phân tán.
-- **Knowledge Sharing**: Chia sẻ kiến thức.
-- **Boundary Permeability**: Ranh giới thấm được.  
-    → **Liên kết:** CREATION (Co-creation), INTEGRATION (Collaboration).
+- **Collaborative Creation**: Sáng tạo hợp tác trên PLATFORM CHUNG
+- **Distributed Development**: Phát triển phân tán qua MẠNG LƯỚI TOÀN CẦU
+- **Knowledge Sharing**: Chia sẻ kiến thức như ĐỘNG CƠ tăng trưởng
+- **Boundary Permeability**: Ranh giới thấm được - KHÔNG CÓ TƯỜNG THÀNH
+
+→ **Liên kết nội bộ:** AMPLIFICATION (API Economy, Developer Platform, Ecosystem Design)
+→ **Gốc lý thuyết:** CREATION #5 (Open Innovation - phương pháp đột phá)
+→ **Ứng dụng cộng đồng:** INTEGRATION #5 (Open Innovation - trí tuệ cộng tác) & #6 (Crowdsourcing)
+→ **Hỗ trợ bởi:** VALIDATION #14 (Feedback Loop Architecture)
+→ **Ví dụ:** GitHub, App Stores, Developer Platforms, Innovation Ecosystems
+→ **Khác biệt:** Ở AMPLIFICATION, tập trung vào XÂY DỰNG CẤU TRÚC nền tảng và hệ sinh thái mở để KHUẾCH ĐẠI sức mạnh đổi mới theo cấp số nhân
 
 #### **26. Platform Architecture Design** - Thiết Kế Kiến Trúc Nền Tảng
 
