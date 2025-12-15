@@ -13122,16 +13122,20 @@ Một tham vọng to lớn, dài hạn, có thể truyền cảm hứng, hướn
 
 → **Liên kết:** FOUNDATIONS (North Star), AMPLIFICATION (Vision Leverage).
 
-#### **8. Red Teaming** - Đội Đỏ (Tư Duy Đối Kháng)
+#### **8. Red Teaming** - Đội Đỏ [Công Cụ Chiến Lược Chủ Động]
 
-Thử thách chiến lược của bạn bằng cách chủ động tìm kiếm các lỗ hổng từ góc nhìn của đối thủ.
+Sử dụng tư duy đối kháng như CÔNG CỤ CHIẾN LƯỢC để xây dựng kế hoạch vững chắc TRƯỚC KHI triển khai. Đây là về ĐIỀU HƯỚNG CHIẾN LƯỢC - làm sao để thiết kế chiến lược kiên cường trước các đối thủ.
 
-- **Adversarial Perspective**: Nhìn chiến lược từ góc độ đối thủ hoặc kẻ thù.
-- **Assumption Challenging**: Thách thức tất cả các giả định cơ bản của chiến lược.
-- **Weakness Identification**: Nhận diện các điểm yếu, lỗ hổng trước khi đối thủ khai thác.
-- **Resilience Building**: Xây dựng sự kiên cường thông qua việc lường trước và chuẩn bị.
+- **Adversarial Perspective**: Nhìn chiến lược từ góc độ đối thủ cạnh tranh để tìm điểm yếu TIỀM TÀN.
+- **Assumption Challenging**: Thách thức GIẢ ĐỊNH CHIẾN LƯỢC cơ bản trước khi cam kết nguồn lực.
+- **Weakness Identification**: Nhận diện điểm yếu TRƯỚC KHI đối thủ khai thác - proactive defense.
+- **Resilience Building**: Xây dựng sự kiên cường qua việc LƯỜNG TRƯỚC và thiết kế phòng thủ từ đầu.
 
-→ **Liên kết:** VALIDATION (Stress Testing), OPERATIONS (Risk Management).
+**TIMING:** Sử dụng trong giai đoạn HOẠCH ĐỊNH CHIẾN LƯỢC (trước khi triển khai)
+**MỤC ĐÍCH:** Xây dựng chiến lược có khả năng chống chịu cao ngay từ giai đoạn thiết kế
+
+→ **Liên kết:** OPERATIONS (Risk Management), VALIDATION (Red Teaming #1 - kiểm chứng)
+→ **Công cụ liên quan:** Inversion Strategy (#9), Scenario Planning (#12), Strategic Intent (#7)
 
 #### **9. Inversion Strategy** - Chiến Lược Đảo Ngược
 
@@ -19744,13 +19748,21 @@ Tìm kiếm, phát hiện và khắc phục các điểm yếu, lỗi hổng và
 
 ### **Các Khái Niệm & Phương Pháp Cốt Lõi**
 
-#### **1. Red Teaming** - Đội Đỏ
-Một nhóm độc lập đóng vai trò đối thủ để thử thách các kế hoạch, chính sách và giả định của một tổ chức.
-- **Adversarial Perspective**: Tư duy như một kẻ thù để tìm ra các điểm yếu.
-- **Plan Stress-Testing**: Kiểm tra sức chịu đựng của kế hoạch trước các tình huống tồi tệ nhất.
-- **Assumption Challenge**: Thách thức một cách có hệ thống các giả định tiềm ẩn.
-- **Preparedness Enhancement**: Tăng cường sự chuẩn bị cho các tình huống xấu.
-→ **Liên kết:** OPERATIONS (Game Theory), NAVIGATION (Risk Management)
+#### **1. Red Teaming** - Đội Đỏ [Phương Pháp Kiểm Chứng Phản Biện]
+
+Nhóm độc lập đóng vai đối thủ để KIỂM TRA và PHÁT HIỆN LỖ HỔNG trong kế hoạch, chính sách và giả định. Đây là về KIỂM CHỨNG CHẤT LƯỢNG - làm sao để đảm bảo kế hoạch không có điểm yếu chết người.
+
+- **Adversarial Perspective**: Tư duy như KẺ THÙ để tìm điểm yếu THỰC SỰ trong hệ thống đã được thiết kế.
+- **Plan Stress-Testing**: Kiểm tra SỨC CHỊU ĐỰNG trước tình huống tồi tệ nhất - tìm breaking points.
+- **Assumption Challenge**: Thách thức GIẢ ĐỊNH TIỀM ẨN có hệ thống để phát hiện blind spots.
+- **Preparedness Enhancement**: Tăng cường CHUẨN BỊ sau khi phát hiện lỗ hổng - reactive improvement.
+
+**TIMING:** Sử dụng trong giai đoạn KIỂM CHỨNG & PHÁT HIỆN LỖI (sau khi lập kế hoạch)
+**MỤC ĐÍCH:** Đảm bảo chất lượng và phát hiện điểm yếu trước khi thực thi thực tế
+
+→ **Liên kết:** OPERATIONS (Game Theory)
+→ **Gốc chiến lược:** NAVIGATION (Red Teaming #8 - công cụ chiến lược)
+→ **Phương pháp liên quan:** Stress Testing (#3), Penetration Testing (#2), Pre-mortem Analysis (#5), Devil's Advocate (#6)
 
 #### **2. Penetration Testing** - Thử Nghiệm Xâm Nhập
 Mô phỏng một cuộc tấn công mạng để phát hiện các lỗ hổng bảo mật trong một hệ thống.
