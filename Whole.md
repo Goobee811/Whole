@@ -7565,7 +7565,7 @@ PHƯƠNG PHÁP SỬ DỤNG để vượt qua ranh giới ngành học trong quá
 → **Liên kết:** CREATION (Innovation)
 → **Kết quả mong đợi:** INTEGRATION #36 (Transdisciplinary Reasoning - nguyên tắc)
 → **Framework thực hành:** INTEGRATION #19 (Transdisciplinary Framework)
-→ **Cross-reference:** INTEGRATION #2 (Interdisciplinary Thinking - cấp độ liên ngành), INTEGRATION #3 (Cross-Paradigm Synthesis - cấp độ mô thức), META #19 (Meta-Paradigm Thinking - cấp độ siêu mô thức)
+→ **Cross-reference:** INTEGRATION #2 (Interdisciplinary Thinking - cấp độ liên ngành), META #27 (Cross-Paradigm Synthesis - cấp độ mô thức), META #19 (Meta-Paradigm Thinking - cấp độ siêu mô thức)
 
 #### **42. Applied Meta-Reasoning** - Ứng Dụng Siêu Suy Luận
 
@@ -15632,18 +15632,7 @@ Khả năng tích hợp tri thức, phương pháp và góc nhìn từ nhiều l
 
 → **Liên kết:** NAVIGATION (Complexity Navigation), META-STRUCTURES (Framework of Frameworks).
 
----
-
-#### **3. Cross-Paradigm Synthesis** - Tổng Hợp Xuyên Mô Thức
-
-Quá trình tạo ra một sự hiểu biết mới bằng cách tích hợp các hiểu biết từ các mô thức tư duy có vẻ không tương thích.
-
-- **Paradigm Deconstruction**: Phân rã các mô thức để hiểu các giả định cốt lõi của chúng.
-- **Finding Common Ground**: Tìm kiếm các nguyên tắc hoặc mẫu hình chung ẩn dưới các bề mặt khác biệt.
-- **Building Meta-Frameworks**: Xây dựng các siêu khung có thể chứa và giải thích các mô thức khác nhau.
-- **Transcendent Language**: Tạo ra một ngôn ngữ mới có thể nói về các mô thức khác nhau một cách không thiên vị.
-
-→ **Liên kết:** [META] LAYER (Meta-Structures), TRANSCENDENCE (Paradox Mastery).
+⚠️ **Lưu ý:** Với tích hợp ở cấp độ MÔ THỨC (paradigm level), xem META LAYER #27 (Cross-Paradigm Synthesis) - năng lực meta để thiết kế framework vượt qua ranh giới mô thức.
 
 ---
 
@@ -16106,7 +16095,7 @@ NGUYÊN TẮC NHẬN THỨC và MỤC TIÊU của việc suy luận vượt qua 
 
 → **Liên kết:** SYSTEMIC INTEGRATION (Transdisciplinary Framework #19), META-LAYER (Meta-Structure)
 → **Công cụ thực hiện:** OPERATIONS #40 (Transdisciplinary Reasoning - phương pháp)
-→ **Cross-reference:** INTEGRATION #2 (Interdisciplinary Thinking - mức cơ sở), INTEGRATION #3 (Cross-Paradigm Synthesis - mức cao hơn), FOUNDATIONS #1 (First Principles - nền tảng triết học)
+→ **Cross-reference:** INTEGRATION #2 (Interdisciplinary Thinking - mức cơ sở), META #27 (Cross-Paradigm Synthesis - mức cao hơn), FOUNDATIONS #1 (First Principles - nền tảng triết học)
 → **Spectrum phát triển:** Disciplinary → Multidisciplinary → Interdisciplinary → Transdisciplinary
 
 ---
@@ -29320,16 +29309,23 @@ Một khung để tích hợp chính các phương pháp tích hợp - siêu t�
 
 → **Liên kết:** Là điểm hội tụ của TẤT CẢ CÁC MIỀN.
 
-#### **27. Cross-Paradigm Synthesis** - Tổng Hợp Xuyên Mô Thức
+#### **27. Cross-Paradigm Synthesis** - Tổng Hợp Xuyên Mô Thức [META CAPABILITY]
 
-Quá trình tạo ra một sự hiểu biết mới bằng cách tích hợp các hiểu biết từ các mô thức tư duy có vẻ không tương thích.
+Năng lực META để tạo ra sự hiểu biết mới bằng cách tích hợp các hiểu biết từ các mô thức tư duy có vẻ không tương thích. Đây là CÔNG CỤ CỐT LÕI để thiết kế và điều chỉnh các siêu framework - khả năng vượt qua ranh giới mô thức.
 
-- **Paradigm Deconstruction**: Phân rã các mô thức để hiểu các giả định cốt lõi của chúng.
-- **Finding Common Ground**: Tìm kiếm các nguyên tắc hoặc mẫu hình chung ẩn dưới các bề mặt khác biệt.
-- **Building Meta-Frameworks**: Xây dựng các siêu khung có thể chứa và giải thích các mô thức khác nhau.
-- **Transcendent Language**: Tạo ra một ngôn ngữ mới có thể nói về các mô thức khác nhau một cách không thiên vị.
+- **Paradigm Deconstruction**: Phân rã các mô thức để hiểu giả định cốt lõi.
+- **Finding Common Ground**: Tìm nguyên tắc chung ẩn dưới bề mặt khác biệt.
+- **Building Meta-Frameworks**: Xây dựng siêu khung chứa các mô thức khác nhau.
+- **Transcendent Language**: Tạo ngôn ngữ mới nói về mô thức không thiên vị.
 
-→ **Liên kết:** [META] LAYER (Meta-Paradigm Thinking), TRANSCENDENCE (Paradox Mastery).
+💡 **Đây là NĂNG LỰC META** - không chỉ là một phương pháp tổng hợp thông thường. Nó cho phép thiết kế các framework có thể chứa và hòa giải các worldviews đối lập.
+
+→ **Liên kết nội bộ:**
+  • META-STRUCTURES (Meta-Paradigm Thinking)
+  • FRAMEWORK EVOLUTION (Ontology Engineering, Pattern Language)
+  • TRANSCENDENCE (Paradox Mastery)
+→ **Ứng dụng trong:** INTEGRATION (các phương pháp tổng hợp cụ thể)
+→ **Ví dụ thực tế:** Integral Theory (Ken Wilber), Theory of Everything frameworks
 
 #### **28. Living Integration** - Tích Hợp Sống
 
