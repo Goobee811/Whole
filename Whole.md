@@ -24654,16 +24654,18 @@ Tư duy về TIẾN HÓA ở cấp độ SIÊU VIỆT - nhìn thấy các mẫu 
 
 ### **Cognitive Mastery**
 
-#### **10. Cognitive Sovereignty** - Chủ Quyền Nhận Thức
+#### **10. Cognitive Sovereignty - Chủ Quyền Nhận Thức** [Giải Phóng Hoàn Toàn]
 
-Sự tự chủ hoàn toàn trong tư duy của bản thân, không bị điều khiển bởi các lực lượng bên ngoài hoặc các mẫu hình vô thức.
+Sự tự chủ **HOÀN TOÀN** trong tư duy của bản thân, không bị điều khiển bởi các lực lượng bên ngoài hoặc các mẫu hình vô thức. Đây là **TRẠNG THÁI SIÊU VIỆT** của sự giải phóng nhận thức - đỉnh cao của hành trình tự chủ tư duy.
 
-- **Mental Autonomy**: Tự chủ tinh thần; sở hữu hoàn toàn các quá trình tư duy của mình.
-- **Narrative Control**: Kiểm soát câu chuyện; tự viết kịch bản cho cuộc đời mình.
-- **Freedom from Conditioning**: Tự do khỏi điều kiện hóa; không bị các mẫu hình cũ chi phối.
-- **Self-Authorship**: Tự làm tác giả; tạo ra bản sắc và ý nghĩa của chính mình.
+- **Mental Autonomy**: Tự chủ tinh thần; **SỞ HỮU HOÀN TOÀN** các quá trình tư duy.
+- **Narrative Control**: Kiểm soát câu chuyện; **TỰ VIẾT KỊCH BẢN** cho cuộc đời mình.
+- **Freedom from Conditioning**: Tự do khỏi điều kiện hóa; **VƯỢT KHỎI** mọi mẫu hình cũ.
+- **Self-Authorship**: Tự làm tác giả; **TẠO RA** bản sắc và ý nghĩa của chính mình.
 
 → **Liên kết:** [META] LAYER (Meta-Cognition), TRANSCENDENCE (Liberation).
+→ **Nền tảng từ:** META #13 (Cognitive Sovereignty - kỹ năng nền tảng).
+→ **Trạng thái liên quan:** TRANSCENDENCE #11 (Transcendent Cognition), TRANSCENDENCE #12 (Cognitive Mastery).
 
 ---
 
@@ -27428,16 +27430,18 @@ Chú ý đến chính khả năng chú ý của mình - nhận thức về nơi 
 
 → **Liên kết:** OPERATIONS (Focus Management), DYNAMICS (Mindfulness).
 
-#### **13. Cognitive Sovereignty** - Chủ Quyền Nhận Thức
+#### **13. Cognitive Sovereignty - Chủ Quyền Nhận Thức** [Nền Tảng Tự Chủ]
 
-Khả năng tự chủ trong tư duy, không bị chi phối bởi các ảnh hưởng bên ngoài một cách vô thức.
+Khả năng tự chủ trong tư duy, không bị chi phối bởi các ảnh hưởng bên ngoài một cách vô thức. Đây là **KỸ NĂNG NỀN TẢNG** của việc sở hữu và điều khiển các quá trình nhận thức của bản thân - bước đầu tiên trên con đường giải phóng.
 
-- **Independent Thinking**: Tư duy độc lập, không phụ thuộc vào quan điểm đại chúng.
-- **Mental Autonomy**: Tự chủ tâm trí; tự quyết định quá trình tư duy của mình.
-- **Influence Awareness**: Nhận thức về các ảnh hưởng bên ngoài lên tư duy.
-- **Deliberate Choice**: Lựa chọn có ý thức trong mọi quyết định nhận thức.
+- **Independent Thinking**: Tư duy độc lập; **KHÔNG PHỤ THUỘC** vào quan điểm đại chúng.
+- **Mental Autonomy**: Tự chủ tâm trí; **TỰ QUYẾT ĐỊNH** quá trình tư duy của mình.
+- **Influence Awareness**: Nhận thức ảnh hưởng; **NHẬN RA** các tác động bên ngoài.
+- **Deliberate Choice**: Lựa chọn có ý thức; **CHỌN LỰA** một cách chủ động.
 
 → **Liên kết:** FOUNDATIONS (Autonomy), VALIDATION (Reality Testing).
+→ **Giai đoạn tiếp theo:** TRANSCENDENCE #10 (Cognitive Sovereignty - trạng thái siêu việt).
+→ **Các kỹ năng hỗ trợ:** META #1 (Metacognition), META #3 (Cognitive Flexibility), META #4 (Awareness of Bias), META #5 (Intellectual Humility).
 
 #### **14. Growth Mindset in Meta-Cognition** - Tư Duy Phát Triển trong Siêu Nhận Thức
 
