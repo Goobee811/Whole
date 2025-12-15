@@ -21,20 +21,24 @@
 
 ## Format Template
 
+### Tên khái niệm (chuẩn duy nhất)
+```
+#### **[số]. Tên English - Tên Tiếng Việt**
+```
+
+### Nội dung khái niệm
 ```markdown
-## Concept Name | Tên Khái Niệm
+#### **[số]. Tên English - Tên Tiếng Việt**
 
-**Definition | Định nghĩa**
-[English] | [Vietnamese]
+[Mô tả ngắn về khái niệm bằng tiếng Việt]
 
-**Context | Ngữ cảnh**
-[English] | [Vietnamese]
+- **[English term]**: [Vietnamese explanation]
+- **[English term]**: [Vietnamese explanation]
+- **[English term]**: [Vietnamese explanation]
+- **[English term]**: [Vietnamese explanation]
+- ... (tối thiểu 4 points, có thể nhiều hơn)
 
-**Application | Ứng dụng**
-[English] | [Vietnamese]
-
-**Integration | Tích hợp**
-[English] | [Vietnamese]
+→ **Liên kết:** [Cross-references đến domain/concept liên quan]
 ```
 
 ## Cultural Considerations
