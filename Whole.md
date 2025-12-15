@@ -10559,18 +10559,7 @@ Sử dụng cuộc đối thoại sâu sắc với người khác để tạo ra
 
 → **Liên kết:** INTEGRATION (Collaborative Intelligence), AMPLIFICATION (Network Effects)
 
-#### **26. World-Building** - Xây Dựng Thế Giới
-
-Một quy trình sáng tạo toàn diện, trong đó người ta xây dựng một thế giới hư cấu với các quy tắc, lịch sử và văn hóa riêng.
-
-- **Systemic Creation**: Tạo ra một hệ thống các yếu tố tương tác với nhau
-- **Internal Consistency**: Đảm bảo sự mạch lạc và logic nội tại
-- **Generative Platform**: Hoạt động như một nền tảng để tạo ra vô số câu chuyện và trải nghiệm
-- **Deep Immersion**: Cho phép sự đắm chìm sâu sắc vào một bối cảnh mới
-
-→ **Liên kết:** INTEGRATION (Systemic Integration), DYNAMICS (Emergence)
-
-#### **27. Doodling & Sketching** - Vẽ Nguệch Ngoạc & Phác Thảo
+#### **26. Doodling & Sketching** - Vẽ Nguệch Ngoạc & Phác Thảo
 
 Sử dụng hình thức vẽ không chủ đích hoặc phác thảo nhanh để khám phá ý tưởng một cách phi ngôn ngữ.
 
@@ -11081,16 +11070,30 @@ Một phiên bản đơn giản hóa của TRIZ, tập trung vào 5 mẫu hình 
 
 → **Liên kết:** OPERATIONS (Constraint Analysis), IDEA GENERATION
 
-#### **22. World-Building** - Xây Dựng Thế Giới
+#### **22. World-Building** - Xây Dựng Thế Giới [Comprehensive Creation Method]
 
-Một phương pháp đổi mới bằng cách thiết kế một "thế giới" tương lai mạch lạc và chi tiết.
+Một phương pháp sáng tạo toàn diện để thiết kế các hệ thống, thế giới hoặc tương lai mạch lạc với logic nội tại riêng. World-Building hoạt động ở HAI CẤP ĐỘ: như một CÔNG CỤ SÁNG TẠO (Ideation Platform) và như một PHƯƠNG PHÁP ĐỔI MỚI ĐỘT PHÁ (Innovation Method).
 
-- **Future Visioning**: Hình dung một thế giới tương lai một cách chi tiết
-- **Systemic Coherence**: Đảm bảo sự mạch lạc và nhất quán của các yếu tố
+**🎨 CẤP ĐỘ 1: IDEATION PLATFORM - Nền Tảng Sáng Tạo**
+- **Systemic Creation**: Tạo ra hệ thống các yếu tố tương tác với nhau
+- **Internal Consistency**: Đảm bảo sự mạch lạc và logic nội tại
+- **Generative Platform**: Hoạt động như nền tảng sinh ra vô số câu chuyện và trải nghiệm
+- **Deep Immersion**: Cho phép sự đắm chìm sâu sắc vào bối cảnh mới
+
+**🚀 CẤP ĐỘ 2: INNOVATION METHOD - Phương Pháp Đổi Mới**
+- **Future Visioning**: Hình dung thế giới tương lai một cách chi tiết và mạch lạc
+- **Systemic Coherence**: Đảm bảo tất cả yếu tố nhất quán với nhau
 - **Backcasting**: Làm việc ngược từ tương lai để xác định các bước cần thiết
-- **Narrative-Driven Innovation**: Đổi mới được dẫn dắt bởi một câu chuyện lớn
+- **Narrative-Driven Innovation**: Đổi mới được dẫn dắt bởi câu chuyện lớn
 
-→ **Liên kết:** NAVIGATION (Scenario Planning), INTEGRATION (Systemic Integration)
+**✨ ỨNG DỤNG ĐA DẠNG:**
+- Fictional worlds (văn học, phim, game) - Cấp độ 1
+- Future scenarios & strategic foresight - Cấp độ 2
+- Product ecosystems & service design - Cả 2 cấp độ
+- Organizational culture & vision - Cả 2 cấp độ
+
+→ **Liên kết chính:** INTEGRATION (Systemic Integration), DYNAMICS (Emergence), NAVIGATION (Scenario Planning), AMPLIFICATION (Reality Shaping)
+→ **Liên kết mở rộng:** META #16 (Conceptual Universe Design), NAVIGATION #32 (Reality Entrepreneurship), CREATION #23 (Speculative & Critical Design)
 
 #### **23. Speculative & Critical Design**
 
