@@ -984,7 +984,7 @@ Nguyên lý phổ quát từ VẬT LÝ LƯỢNG TỬ: Hành động quan sát m�
 → **Phát triển thành:**
   • FOUNDATIONS #3 (Ethics) - Trách nhiệm đạo đức của người quan sát
   • VALIDATION #26 - Vấn đề phương pháp luận
-  • META LAYER #32 - Công cụ siêu nhận thức
+  • META LAYER #31 - Công cụ siêu nhận thức
 → **Ứng dụng:** DYNAMICS (Reflexivity), OPERATIONS (Experimental Design)
 
 #### **32. The Pareto Principle (80/20 Rule)** - Nguyên Lý Pareto
@@ -1502,7 +1502,7 @@ Nguyên tắc ĐẠO ĐỨC xuất phát từ Observer Effect vật lý: Vì ch�
 → **Liên kết nội bộ:** [META] LAYER (Meta-Cognition), VALIDATION (Bias Awareness)
 → **Gốc lý thuyết:** FOUNDATIONS #31 (Observer Effect - định luật vật lý)
 → **Ứng dụng thực hành:** VALIDATION #26 (trong nghiên cứu)
-→ **Nâng cao:** META LAYER #32 (quan sát chính mình quan sát)
+→ **Nâng cao:** META LAYER #31 (quan sát chính mình quan sát)
 
 #### **4. Ahimsa → Không làm hại** [Xem EASTERN & WESTERN WISDOM #16]
 
@@ -15632,7 +15632,7 @@ Khả năng tích hợp tri thức, phương pháp và góc nhìn từ nhiều l
 
 → **Liên kết:** NAVIGATION (Complexity Navigation), META-STRUCTURES (Framework of Frameworks).
 
-⚠️ **Lưu ý:** Với tích hợp ở cấp độ MÔ THỨC (paradigm level), xem META LAYER #27 (Cross-Paradigm Synthesis) - năng lực meta để thiết kế framework vượt qua ranh giới mô thức.
+⚠️ **Lưu ý:** Với tích hợp ở cấp độ MÔ THỨC (paradigm level), xem META LAYER #26 (Cross-Paradigm Synthesis) - năng lực meta để thiết kế framework vượt qua ranh giới mô thức.
 
 ---
 
@@ -15683,14 +15683,16 @@ Sự "nhảy cùng nhau" của tri thức - khi các bằng chứng từ NHIỀU
 
 #### **7. Value System Integration** - Tích Hợp Hệ Thống Giá Trị
 
-Quá trình nhận diện, làm rõ và hài hòa các hệ thống giá trị khác nhau.
+Quá trình nhận diện, làm rõ và hài hòa các hệ thống giá trị khác nhau từ nhiều nguồn (cá nhân, văn hóa, tổ chức) để tạo ra sự thống nhất và hiệp lực.
 
-- **Value Hierarchy Mapping**: Lập bản đồ phân cấp các giá trị của một cá nhân, tổ chức hoặc xã hội.
-- **Conflict Resolution**: Giải quyết các xung đột phát sinh từ các hệ thống giá trị khác nhau.
-- **Shared Value Creation**: Tạo ra các giá trị chung làm nền tảng cho sự hợp tác và cộng đồng.
-- **Ethical Synthesis**: Tổng hợp một hệ thống đạo đức ở cấp độ cao hơn, có khả năng bao hàm nhiều quan điểm.
+- **Value Hierarchy Mapping**: Lập bản đồ phân cấp các giá trị.
+- **Conflict Resolution**: Giải quyết xung đột phát sinh từ các giá trị khác nhau.
+- **Shared Value Creation**: Tạo ra các giá trị chung làm nền tảng cho sự hợp tác.
+- **Ethical Synthesis**: Tổng hợp hệ thống đạo đức ở cấp độ cao hơn, bao hàm nhiều quan điểm.
 
 → **Liên kết:** NAVIGATION (Guiding Principles), OPERATIONS (Decision Frameworks).
+→ **Ứng dụng meta-level:** META LAYER (Quan sát và điều chỉnh các hệ thống giá trị).
+→ **Ghi chú:** Khái niệm này cũng liên quan đến Framework Evolution & Regulation ở META LAYER.
 
 ---
 
@@ -17460,7 +17462,7 @@ PHƯƠNG PHÁP THỰC HÀNH để vượt qua nghịch lý giữa các mô thứ
 - **Spiral Development**: Phát triển xoắn ốc - PHƯƠNG PHÁP tích hợp tiến bộ.
 - **Integration Leap**: Bước nhảy tích hợp - CÔNG CỤ vượt qua mâu thuẫn.
 
-→ **Liên kết:** KNOWLEDGE SYNTHESIS (Dialectical Thinking), TRANSCENDENCE (Evolution, Paradox Mastery, Both/And Thinking), META LAYER #25 (tiến hóa framework).
+→ **Liên kết:** KNOWLEDGE SYNTHESIS (Dialectical Thinking), TRANSCENDENCE (Evolution, Paradox Mastery, Both/And Thinking), META LAYER #24 (tiến hóa framework).
 
 ---
 
@@ -20957,7 +20959,7 @@ VẤN ĐỀ PHƯƠNG PHÁP LUẬN: Hành động quan sát và đo lường CAN 
 → **Liên kết nội bộ:** VALIDATION (Experimental Protocols), [META] LAYER (Meta-Cognition)
 → **Gốc lý thuyết:** FOUNDATIONS #31 (Observer Effect - định luật vật lý)
 → **Chiều đạo đức:** FOUNDATIONS #3 (trách nhiệm đạo đức)
-→ **Công cụ meta:** META LAYER #32 (quan sát việc quan sát)
+→ **Công cụ meta:** META LAYER #31 (quan sát việc quan sát)
 
 #### **27. Goodhart's Law** - Định Luật Goodhart [Trong Thiết Kế Đo Lường]
 
@@ -29276,18 +29278,7 @@ Việc tích hợp các hệ thống phức tạp, tự trị và có thể vậ
 
 → **Liên kết:** INTEGRATION (Systemic Integration), AMPLIFICATION (Network Effects).
 
-#### **24. Value System Integration** - Tích Hợp Hệ Thống Giá Trị
-
-Quá trình nhận diện, làm rõ và hài hòa các hệ thống giá trị khác nhau (cá nhân, văn hóa, tổ chức).
-
-- **Value Hierarchy Mapping**: Lập bản đồ phân cấp các giá trị.
-- **Conflict Resolution**: Giải quyết các xung đột phát sinh từ các giá trị khác nhau.
-- **Shared Value Creation**: Tạo ra các giá trị chung làm nền tảng cho sự hợp tác.
-- **Ethical Synthesis**: Tổng hợp một hệ thống đạo đức ở cấp độ cao hơn.
-
-→ **Liên kết:** FOUNDATIONS (Wisdom Traditions), NAVIGATION (Guiding Principles).
-
-#### **25. Dialectical Transcendence** - Siêu Việt Biện Chứng [Tiến Hóa Framework]
+#### **24. Dialectical Transcendence** - Siêu Việt Biện Chứng [Tiến Hóa Framework]
 
 NGUYÊN LÝ TIẾN HÓA cho phép framework tư duy tự nâng cấp lên cấp độ cao hơn. Khác với công cụ thực hành ở INTEGRATION, đây là về SỰ TIẾN HÓA FRAMEWORK - khi hệ thống tư duy vượt qua các giới hạn của chính nó, không qua "Hợp đề" đơn thuần mà qua SỰ THAY ĐỔI CẤP ĐỘ Ý THỨC.
 
@@ -29298,7 +29289,7 @@ NGUYÊN LÝ TIẾN HÓA cho phép framework tư duy tự nâng cấp lên cấp 
 
 → **Liên kết:** TRANSCENDENCE (Paradox Mastery), DYNAMICS (Transformation), INTEGRATION #36 (ứng dụng thực hành).
 
-#### **26. Meta-Integration Framework** - Khung Siêu Tích Hợp
+#### **25. Meta-Integration Framework** - Khung Siêu Tích Hợp
 
 Một khung để tích hợp chính các phương pháp tích hợp - siêu tầng của tích hợp.
 
@@ -29309,7 +29300,7 @@ Một khung để tích hợp chính các phương pháp tích hợp - siêu t�
 
 → **Liên kết:** Là điểm hội tụ của TẤT CẢ CÁC MIỀN.
 
-#### **27. Cross-Paradigm Synthesis** - Tổng Hợp Xuyên Mô Thức [META CAPABILITY]
+#### **26. Cross-Paradigm Synthesis** - Tổng Hợp Xuyên Mô Thức [META CAPABILITY]
 
 Năng lực META để tạo ra sự hiểu biết mới bằng cách tích hợp các hiểu biết từ các mô thức tư duy có vẻ không tương thích. Đây là CÔNG CỤ CỐT LÕI để thiết kế và điều chỉnh các siêu framework - khả năng vượt qua ranh giới mô thức.
 
@@ -29373,7 +29364,7 @@ Cấp độ quan sát và điều khiển cao hơn các cấp độ thông thư�
 
 → **Liên kết:** [META] LAYER (Meta-Cognition), TRANSCENDENCE (Higher Levels).
 
-#### **32. Meta-Reasoning** - Siêu Suy Luận [Khái Niệm Cốt Lõi]
+#### **31. Meta-Reasoning** - Siêu Suy Luận [Khái Niệm Cốt Lõi]
 
 Khả năng suy luận về chính BẢN CHẤT và QUÁ TRÌNH của suy luận - "reasoning about reasoning". Đây là nền tảng của metacognition, cho phép chúng ta quan sát, phân tích và tối ưu hóa cách chúng ta tư duy.
 
