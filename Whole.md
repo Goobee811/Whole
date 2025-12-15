@@ -20325,13 +20325,25 @@ Tư duy về các quá trình có yếu tố ngẫu nhiên hoặc không xác đ
 - **Uncertainty Modeling**: Mô hình hóa sự không chắc chắn.
 → **Liên kết:** OPERATIONS (Monte Carlo Validation), NAVIGATION (Risk Navigation)
 
-#### **18. Reflection Protocols** - Quy Trình Phản Tư
-Các phương pháp có cấu trúc để phản tư về kinh nghiệm và học hỏi.
-- **Structured Reflection**: Phản tư có cấu trúc.
-- **Learning Extraction**: Trích xuất bài học.
-- **Experience Processing**: Xử lý kinh nghiệm.
-- **Insight Generation**: Tạo ra insight.
-→ **Liên kết:** [META] LAYER (Meta-Learning), INTEGRATION (Knowledge Integration)
+#### **18. Reflection Protocols** - Quy Trình Phản Tư [Trong Xử Lý Phản Hồi]
+
+Các phương pháp có cấu trúc để phản tư về kinh nghiệm nhằm KIỂM CHỨNG và HIỆU CHỈNH. Khác với phản tư để tự quan sát (META LAYER), đây là phản tư như một CÔNG CỤ KIỂM CHỨNG - đảm bảo chất lượng thông qua after-action review.
+
+- **Structured Reflection**: Phản tư có cấu trúc - phương pháp có hệ thống.
+- **Learning Extraction**: Trích xuất bài học - từ thành công và thất bại.
+- **Experience Processing**: Xử lý kinh nghiệm - biến kinh nghiệm thành tri thức.
+- **Insight Generation**: Tạo ra insight - khám phá điều gì hiệu quả, điều gì không.
+
+**CỤ THỂ:**
+- **After-Action Review (AAR)**: Đánh giá sau hành động.
+- **Post-Mortem Analysis**: Phân tích hậu kỳ.
+- **Lessons Learned Documentation**: Ghi chép bài học kinh nghiệm.
+- **Quality Assurance through Reflection**: Đảm bảo chất lượng qua phản tư.
+
+→ **Liên kết nội bộ:** VALIDATION (Feedback Processing), OPERATIONS (Continuous Improvement)
+→ **Gốc nhận thức:** [META] LAYER #21 (Reflection Protocols - tự quan sát hệ thống)
+→ **Ứng dụng:** After-Action Review, Quality Improvement, Calibration
+→ **Phân biệt:** VALIDATION dùng phản tư để KIỂM CHỨNG; META dùng để TỰ QUAN SÁT
 
 #### **19. Integration Journaling** - Nhật Ký Tích Hợp
 Thực hành viết nhật ký để tích hợp và tổng hợp kinh nghiệm.
@@ -27975,16 +27987,25 @@ Phản hồi về chính hệ thống phản hồi - khả năng meta-cognition 
 
 → **Ghi chú:** Đây là CÔNG CỤ META-COGNITION để tối ưu hóa các vòng phản hồi ở tất cả các domain khác. OPERATIONS có thể ÁP DỤNG meta-feedback trong thực hành học tập nhưng không sở hữu khái niệm này.
 
-#### **21. Reflection Protocols** - Các Quy Trình Phản Tư
+#### **21. Reflection Protocols** - Các Quy Trình Phản Tư [Trong Tự Quan Sát]
 
-Các phương pháp có cấu trúc để xem xét và học hỏi từ kinh nghiệm.
+Các phương pháp có cấu trúc để xem xét và TỰ QUAN SÁT hệ thống nhận thức của chính mình. Khác với phản tư để kiểm chứng (VALIDATION), đây là phản tư như PHƯƠNG PHÁP NHẬN THỨC - nhìn vào chính quá trình tư duy như một đối tượng.
 
-- **Structured Review**: Đánh giá có cấu trúc.
-- **Systematic Reflection**: Phản tư có hệ thống.
-- **Learning Extraction**: Trích xuất bài học.
-- **Experience Processing**: Xử lý kinh nghiệm.
+- **Structured Review**: Đánh giá có cấu trúc - quan sát có hệ thống.
+- **Systematic Reflection**: Phản tư có hệ thống - phương pháp meta-nhận thức.
+- **Learning Extraction**: Trích xuất bài học - về chính cách tư duy.
+- **Experience Processing**: Xử lý kinh nghiệm - hiểu mẫu hình nhận thức cá nhân.
 
-→ **Liên kết:** OPERATIONS (Reflective Practice), VALIDATION (After-Action Review).
+**CỤ THỂ:**
+- **Thought Stream Observation**: Quan sát dòng tư tưởng.
+- **Cognitive Pattern Recognition**: Nhận dạng mẫu hình tư duy.
+- **Self-Observation Journaling**: Ghi nhật ký tự quan sát.
+- **Meta-Cognitive Review**: Xem xét meta-nhận thức.
+
+→ **Liên kết nội bộ:** [META] LAYER (Self-Observation Protocol), [META] LAYER (Meta-Cognition)
+→ **Ứng dụng kiểm chứng:** VALIDATION #18 (Reflection Protocols - xử lý phản hồi)
+→ **Ứng dụng học tập:** OPERATIONS (Reflective Practice)
+→ **Phân biệt:** META dùng phản tư để HIỂU BẢN THÂN; VALIDATION dùng để KIỂM CHỨNG
 
 #### **22. Contemplative Integration** - Tích Hợp Thiền Định [Trong Học Tập Meta]
 
