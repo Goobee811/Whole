@@ -10467,16 +10467,20 @@ Sử dụng các tuyên bố khiêu khích hoặc phi lý để phá vỡ các k
 
 → **Liên kết:** CREATION (Lateral Thinking), DYNAMICS (Chaos as Resource)
 
-#### **18. Analogical Thinking** - Tư Duy Tương Tự
+#### **18. Analogical Thinking - Tư Duy Tương Tự [Công Cụ Sáng Tạo]**
 
-Tìm kiếm và áp dụng các giải pháp từ các lĩnh vực hoàn toàn khác nhau.
+Tìm kiếm và áp dụng các giải pháp từ các lĩnh vực hoàn toàn khác nhau để TẠO RA CÁI MỚI. Khác với việc kết nối các lĩnh vực ở INTEGRATION, đây là về SÁNG TẠO - chuyển giao kiến thức để sinh ra giải pháp đột phá.
 
 - **Cross-Domain Transfer**: Chuyển giao kiến thức và giải pháp qua các lĩnh vực
 - **Pattern Recognition**: Nhận diện các mẫu hình tương đồng giữa các hệ thống khác nhau
 - **Structural Mapping**: Ánh xạ cấu trúc từ một miền sang miền khác
-- **Novel Solution Generation**: Tạo ra giải pháp mới từ sự chuyển đổi
+- **Novel Solution Generation**: TẠO RA giải pháp mới từ sự chuyển đổi
 
-→ **Liên kết:** FOUNDATIONS (Pattern Recognition), INTEGRATION (Cross-Paradigm)
+→ **Liên kết nội bộ:** CREATION (Lateral Thinking, Synectics)
+→ **Gốc lý thuyết:** FOUNDATIONS (Analogical Reasoning #15 - quá trình nhận thức)
+→ **Công cụ phân tích:** OPERATIONS (Analogical Reasoning #4 - kiến trúc suy luận)
+→ **Phương pháp kết nối:** INTEGRATION #26 (Analogical Thinking - kết nối lĩnh vực)
+→ **Ví dụ thực tế:** Velcro từ hạt cây cẩu, Đường ray tàu từ mô hình ong
 
 #### **19. Combinatorial Play** - Kết Hợp Tự Do
 
@@ -17253,16 +17257,20 @@ Tất cả các hệ thống và hiện tượng đều liên kết sâu sắc.
 
 ### **Nhóm Bridging Methods - Phương Pháp Kết Nối (8 mục mới)**
 
-#### **26. Analogical Thinking** - Tư Duy Tương Tự
+#### **26. Analogical Thinking - Tư Duy Tương Tự [Phương Pháp Kết Nối]**
 
-Sử dụng tương tự để hiểu cái mới qua cái quen.
+Sử dụng tương tự để hiểu cái mới qua cái quen và KẾT NỐI các lĩnh vực khác nhau. Khác với việc tạo giải pháp mới ở CREATION, đây là về TÍCH HỢP - xây dựng cầu nối giữa các miền tri thức để tạo ra sự hiểu biết thống nhất.
 
-- **Similarity Recognition**: Nhận diện tương đồng; tìm điểm chung giữa các lĩnh vực.
-- **Mapping Relationships**: Ánh xạ mối quan hệ; chuyển cấu trúc từ A sang B.
-- **Insight Transfer**: Chuyển giao hiểu biết; áp dụng bài học từ lĩnh vực này sang lĩnh vực khác.
-- **Analogy Creation**: Tạo ra tương tự; phát minh phép so sánh mới.
+- **Similarity Recognition**: Nhận diện tương đồng; TÌM điểm chung giữa các lĩnh vực
+- **Mapping Relationships**: Ánh xạ mối quan hệ; chuyển cấu trúc từ A sang B
+- **Insight Transfer**: Chuyển giao hiểu biết; áp dụng bài học từ lĩnh vực này sang lĩnh vực khác
+- **Analogy Creation**: Tạo ra tương tự; phát minh phép so sánh mới để GIẢI THÍCH
 
-→ **Liên kết:** KNOWLEDGE SYNTHESIS (Analogical Transfer), CREATION (Innovation).
+→ **Liên kết nội bộ:** INTEGRATION (Knowledge Synthesis, Analogical Transfer #39)
+→ **Gốc lý thuyết:** FOUNDATIONS (Analogical Reasoning #15 - quá trình nhận thức)
+→ **Công cụ phân tích:** OPERATIONS (Analogical Reasoning #4 - kiến trúc suy luận)
+→ **Công cụ sáng tạo:** CREATION #18 (Analogical Thinking - tạo giải pháp mới)
+→ **Ứng dụng:** Cross-Paradigm Connection, Metaphorical Thinking #27
 
 ---
 
