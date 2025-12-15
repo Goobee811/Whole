@@ -13919,16 +13919,18 @@ Khả năng tích hợp tất cả các công cụ lập kế hoạch đa chiề
 
 ### Các mục mới bổ sung
 
-#### **21. Dimensional Shifting** - Chuyển Đổi Chiều
+#### **21. Dimensional Shifting [Trong Lập Kế Hoạch]** - Chuyển Đổi Chiều [Trong Lập Kế Hoạch]
 
-Khả năng di chuyển tư duy và nhận thức giữa các chiều khác nhau của thực tại.
+Khả năng di chuyển tư duy và nhận thức giữa các chiều khác nhau của thực tại khi lập kế hoạch và điều hướng. Đây là CÔNG CỤ THỰC HÀNH để tư duy đa chiều trong quá trình hoạch định chiến lược và ra quyết định.
 
-- **Perspective Transition**: Chuyển đổi góc nhìn giữa các chiều.
-- **Multi-level Awareness**: Nhận thức đa cấp độ.
-- **Dimensional Fluidity**: Linh hoạt giữa các chiều không gian-thời gian-ý nghĩa.
-- **Reality Navigation**: Điều hướng qua các lớp thực tại.
+- **Perspective Transition**: Chuyển đổi góc nhìn giữa các chiều (không gian, thời gian, ý nghĩa).
+- **Multi-level Awareness**: Nhận thức đồng thời nhiều cấp độ khi lập kế hoạch.
+- **Dimensional Fluidity**: Linh hoạt di chuyển giữa không gian-thời gian-ý nghĩa.
+- **Reality Navigation**: Điều hướng qua các lớp thực tại để tìm giải pháp tối ưu.
 
-→ **Liên kết:** [META] LAYER (Meta-Cognition), TRANSCENDENCE (Multi-dimensional Awareness).
+→ **Liên kết nội bộ:** #27 Multidimensional Reality (khung lý thuyết), #29 Scenario Cartography (ứng dụng thực tế), #22 Parallel Navigation (phương pháp bổ sung).
+→ **Cấp độ cao hơn:** [META] #44 (Dimensional Shifting trong tiến hóa framework).
+→ **Ứng dụng cụ thể:** Lập kế hoạch chiến lược, ra quyết định đa chiều, thiết kế kịch bản.
 
 #### **22. Parallel Navigation** - Điều Hướng Song Song
 
@@ -29532,16 +29534,19 @@ Các nguyên tắc và trí tuệ cơ bản về điều hướng.
 
 → **Liên kết:** NAVIGATION (Strategic Wisdom), FOUNDATIONS (Philosophy).
 
-#### **44. Dimensional Shifting** - Chuyển Đổi Chiều
+#### **44. Dimensional Shifting [Trong Tiến Hóa Framework]** - Chuyển Đổi Chiều [Trong Tiến Hóa Framework]
 
-Khả năng chuyển đổi giữa các chiều và cấp độ thực tại khác nhau.
+Khả năng chuyển đổi giữa các chiều và cấp độ thực tại khác nhau để QUAN SÁT, PHÂN TÍCH và TIẾN HÓA các frameworks tư duy. Khác với ứng dụng thực hành ở NAVIGATION, đây là về SIÊU NHẬN THỨC - nhảy cấp độ để tái cấu trúc hệ thống.
 
-- **Dimension Transition**: Chuyển đổi chiều.
-- **Level Jumping**: Nhảy cấp độ.
-- **Reality Layer Navigation**: Điều hướng các tầng thực tại.
-- **Cross-Dimensional Movement**: Di chuyển xuyên chiều.
+- **Dimension Transition**: Chuyển đổi chiều quan sát (từ 1D → 2D → 3D → nD).
+- **Level Jumping**: Nhảy cấp độ trừu tượng (cụ thể ↔ trừu tượng ↔ meta).
+- **Reality Layer Navigation**: Điều hướng các tầng thực tại (vật lý ↔ tâm lý ↔ meta).
+- **Cross-Dimensional Movement**: Di chuyển xuyên chiều để tái cấu trúc framework.
 
-→ **Liên kết:** TRANSCENDENCE (Dimension Transcendence), NAVIGATION (Multi-Level).
+→ **Liên kết nội bộ:** #42 Meta-Wayfinding (điều hướng meta), NAVIGATION #19 Abstraction Ladder (công cụ chuyển cấp độ), NAVIGATION #20 Levels of Description (khung phân tích).
+→ **Gốc thực hành:** NAVIGATION #21 (Dimensional Shifting trong lập kế hoạch).
+→ **Liên kết cao hơn:** TRANSCENDENCE (Dimension Transcendence).
+→ **Ứng dụng cụ thể:** Tiến hóa mental models, tái cấu trúc frameworks, meta-design.
 
 #### **45. Holographic Navigation** - Điều Hướng Toàn Ảnh
 
