@@ -12879,16 +12879,19 @@ Tái tưởng tượng các hệ thống học tập.
 
 → **Liên kết:** CREATION (Innovation), OPERATIONS (Teaching Methods)
 
-#### **37. Community Art Practice** - Thực Hành Nghệ Thuật Cộng Đồng
+#### **37. Community Art Practice** - Thực Hành Nghệ Thuật Cộng Đồng [Phương Pháp Thiết Kế]
 
-Nghệ thuật được tạo ra bởi và cho cộng đồng.
+Phương pháp sáng tạo có cấu trúc trong đó nghệ thuật được tạo ra BỞI và CHO cộng đồng. Đây là CÔNG CỤ THIẾT KẾ trong bộ công cụ Design Thinking, sử dụng nghệ thuật như phương tiện để giải quyết vấn đề và tạo ra thay đổi xã hội.
 
-- **Collective Creation**: Sáng tạo tập thể
-- **Public Art**: Nghệ thuật công cộng
-- **Social Practice**: Thực hành xã hội
-- **Participatory Art**: Nghệ thuật tham gia
+- **Collective Creation**: Sáng tạo tập thể - quy trình đồng sáng tạo có hướng dẫn
+- **Public Art**: Nghệ thuật công cộng - thiết kế nghệ thuật cho không gian chung
+- **Social Practice**: Thực hành xã hội - nghệ thuật như công cụ thay đổi xã hội
+- **Participatory Art**: Nghệ thuật tham gia - cộng đồng là người sáng tạo, không chỉ khán giả
 
-→ **Liên kết:** INTEGRATION (Community Building), AMPLIFICATION (Collective Impact)
+→ **Liên kết:** INTEGRATION (Community Building), CREATION (Co-Creation)
+→ **Phương pháp liên quan:** Design Thinking, Service Design, Co-Creation, World-Building
+→ **Khuếch đại tác động:** AMPLIFICATION #49 (Community Art Practice - Platform chữa lành)
+→ **Ứng dụng:** Social innovation, community engagement, participatory design
 
 #### **38. Eco-Art & Land Art** - Nghệ Thuật Sinh Thái & Đất Đai
 
@@ -23757,15 +23760,20 @@ Thiết kế nội dung tâm linh có khả năng tự lan truyền qua các m�
     → **Liên kết:** VIRAL MECHANICS (Content Virality), CREATION (Sacred Art).
     → **Khuếch đại:** TRANSCENDENCE (Spiritual Transmission), INTEGRATION (Digital Community).
 
-#### **49. Community Art Practice** - Thực Hành Nghệ Thuật Cộng Đồng
+#### **49. Community Art Practice** - Thực Hành Nghệ Thuật Cộng Đồng [Platform Chữa Lành]
 
-Nghệ thuật như một thực hành tập thể chữa lành.
+Nghệ thuật như một NỀN TẢNG và HỆ SINH THÁI cho thực hành chữa lành tập thể. Khác với phương pháp thiết kế ở CREATION, đây là về KHUẾCH ĐẠI - xây dựng cơ chế bền vững để nghệ thuật cộng đồng tự duy trì và lan tỏa tác động.
 
-- **Collective Creation**: Sáng tạo tập thể.
-- **Healing Arts**: Nghệ thuật chữa lành.
-- **Community Expression**: Biểu hiện cộng đồng.
-- **Participatory Art**: Nghệ thuật tham gia.  
-    → **Liên kết:** INTEGRATION (Community Arts), TRANSCENDENCE (Healing).
+- **Collective Creation**: Sáng tạo tập thể - xây dựng năng lực sáng tạo cộng đồng
+- **Healing Arts**: Nghệ thuật chữa lành - platform cho phục hồi & biến đổi
+- **Community Expression**: Biểu hiện cộng đồng - kênh lên tiếng & được nhìn thấy
+- **Participatory Art**: Nghệ thuật tham gia - ecosystem tự tổ chức & phát triển
+
+→ **Liên kết:** INTEGRATION (Community Arts), AMPLIFICATION (Community Building)
+→ **Gốc phương pháp:** CREATION #37 (Community Art Practice - công cụ thiết kế)
+→ **Cơ chế khuếch đại:** Platform Dynamics, Network Effects, Ecosystem Design
+→ **Tác động:** TRANSCENDENCE (Healing), INTEGRATION (Social Cohesion)
+→ **Ví dụ thực tế:** Community art centers, healing circles, social art movements
 
 ### **Technology Integration (5 mục bổ sung)**
 
