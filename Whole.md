@@ -29,7 +29,7 @@ Miền này tập hợp các nguyên lý, mô hình tư duy và trí tuệ cốt
 
 Các nguyên lý đầu tiên và tiên đề là những chân lý tự hiển không thể giản lược thêm - nền tảng của mọi suy luận và tri thức. Chúng là các "nguyên tử" của tư duy, từ đó mọi cấu trúc phức tạp hơn được xây dựng.
 
-### **Các Nguyên Lý Cốt Lõi**
+### **Foundational Axioms & Logic - Tiên Đề & Logic Nền Tảng**
 
 #### **1. First Principles** - Nguyên Lý Đầu Tiên
 
@@ -42,7 +42,33 @@ Phân rã vấn đề về các chân lý cơ bản không thể chối cãi và
 
 → **Liên kết:** OPERATIONS (áp dụng trong Analytical Tools), CREATION (tạo ra đột phá)
 
-#### **2. Duality & Unity [Nguyên Lý Bản Thể]** - Nhị Nguyên & Thống Nhất Trong Thực Tại
+#### **2. Mathematical Axioms** - Tiên Đề Toán Học
+
+Các chân lý toán học được chấp nhận mà không cần chứng minh.
+
+- **Self-Evident Truths**: Chân lý tự hiển trong toán học
+- **Logical Foundation**: Nền tảng logic của hệ thống hình thức
+- **Consistency & Completeness**: Tính nhất quán và tính đầy đủ
+- **Axiomatic Systems**: Các hệ thống tiên đề
+
+→ **Liên kết:** OPERATIONS (Logical Reasoning), FOUNDATIONS (First Principles)
+
+#### **3. Set Theory and Logic** - Lý Thuyết Tập Hợp và Logic
+
+Nền tảng toán học của tư duy hình thức và cấu trúc.
+
+- **Set Operations**: Các phép toán trên tập hợp
+- **Formal Logic**: Logic hình thức và suy luận
+- **Proof Theory**: Lý thuyết chứng minh
+- **Mathematical Structures**: Các cấu trúc toán học cơ bản
+
+→ **Liên kết:** OPERATIONS (Reasoning Architectures), FOUNDATIONS (Laws & Constants)
+
+---
+
+### **Unity, Duality & Ultimate Reality - Thống Nhất, Nhị Nguyên & Thực Tại Tối Hậu**
+
+#### **4. Duality & Unity [Nguyên Lý Bản Thể]** - Nhị Nguyên & Thống Nhất Trong Thực Tại
 
 Nguyên lý phổ quát về sự tồn tại của các cặp đối lập và sự hợp nhất của chúng trong một tổng thể lớn hơn. Đây là **QUY LUẬT BẢN THỂ** - mô tả **CƠ CHẾ HOẠT ĐỘNG** của thực tại, không phải hướng dẫn đạo đức.
 
@@ -55,7 +81,74 @@ Nguyên lý phổ quát về sự tồn tại của các cặp đối lập và 
 → **Ứng dụng đạo đức:** Xem FOUNDATIONS #3.1 (Unity in Diversity - Giá Trị Đạo Đức)
 → **Ứng dụng thực hành:** TRANSCENDENCE (Both/And Thinking)
 
-#### **3. Emergence & Self-Organization** - Đột Sinh & Tự Tổ Chức [Nguyên Lý Phổ Quát]
+#### **5. The Absolute** - Cái Tuyệt Đối
+
+Thực tại không bị điều kiện hóa, nguồn gốc tối hậu.
+
+- **Unconditioned Reality**: Thực tại không phụ thuộc vào điều kiện
+- **Source of All**: Nguồn gốc của mọi hiện tượng
+- **Beyond Duality**: Vượt khỏi mọi phân biệt nhị nguyên
+- **Infinite Potential**: Tiềm năng vô hạn chưa biểu hiện
+
+→ **Liên kết:** TRANSCENDENCE (Ultimate Principles), FOUNDATIONS (Unity)
+
+#### **6. The One** - Cái Một
+
+**[CONCEPT RELOCATED TO: TRANSCENDENCE #21]**
+
+Khái niệm tối hậu về sự thống nhất tuyệt đối. Để có mô tả đầy đủ về cả chiều kích triết học và tâm linh của khái niệm này, xem:
+
+**→ TRANSCENDENCE #21: The One - Cái Một [Khái Niệm Tối Hậu Về Sự Thống Nhất]**
+
+Cross-reference: Đây là NGUYÊN LÝ NỀN TẢNG của:
+- Duality & Unity #4 (sự thống nhất của các đối lập)
+- The Absolute #5 (thực tại không điều kiện)
+- Emergence #8 (Một sinh ra Nhiều)
+
+→ **Liên kết:** TRANSCENDENCE (Unity Consciousness), FOUNDATIONS (Duality & Unity)
+
+#### **7. Agency & Communion - Tác Nhân & Cộng Đồng**
+**[Nguyên Lý Phổ Quát & Nguyên Tắc Đạo Đức]**
+
+Hai thôi thúc cơ bản và phổ quát của mọi thực thể sống: tự khẳng định bản thân như một cá thể độc lập (agency) và hòa nhập vào một tổng thể lớn hơn (communion). Đây vừa là NGUYÊN LÝ TỰ NHIÊN mô tả hiện thực, vừa là NGUYÊN TẮC ĐẠO ĐỨC hướng dẫn hành vi.
+
+**I. NGUYÊN LÝ TỰ NHIÊN (Descriptive - "IS"):**
+
+- **Self-Preservation Drive**: Thôi thúc tự bảo tồn và tự khẳng định - xu hướng duy trì ranh giới, bản sắc và tự chủ của bản thân
+- **Connection Drive**: Thôi thúc kết nối, thuộc về và tham gia - xu hướng hòa nhập vào các hệ thống lớn hơn, tìm kiếm ý nghĩa tập thể
+- **Part/Whole Tension**: Sự căng thẳng động giữa việc là một bộ phận và là một tổng thể - động lực tạo ra tiến hóa và sáng tạo
+- **Autonomy/Integration Balance**: Sự cân bằng giữa tính tự chủ và sự tích hợp là dấu hiệu của một hệ thống lành mạnh - từ tế bào đến xã hội
+
+**II. NGUYÊN TẮC ĐẠO ĐỨC (Prescriptive - "OUGHT"):**
+
+- **Individual Flourishing**: HỖ TRỢ sự phát triển và quyền tự chủ của mỗi cá nhân - tôn trọng agency như một giá trị đạo đức
+- **Collective Well-being**: HÀNH ĐỘNG vì lợi ích và sự thịnh vượng của cộng đồng hoặc hệ thống lớn hơn - communion như trách nhiệm đạo đức
+- **Synergistic Contribution**: TÌM CÁCH để sự thể hiện cá nhân độc đáo đóng góp một cách hiệp lực cho mục tiêu chung - hài hòa hai chiều
+- **Rights and Responsibilities**: CÂN BẰNG giữa quyền cá nhân và trách nhiệm đối với tập thể - giải quyết tension một cách đạo đức
+
+**III. LIÊN KẾT CROSS-DOMAIN:**
+
+→ Nguyên lý nền tảng: FOUNDATIONS (Duality & Unity), FOUNDATIONS (Holonic Theory)
+→ Ứng dụng thực hành: INTEGRATION (Personal & Systemic Integration), INTEGRATION (Individual-Collective Balance)
+→ Khuếch đại tác động: AMPLIFICATION (Network Effects - tension giữa nodes và network)
+→ Siêu nhận thức: META (Self & System - quan sát tension này ở cấp meta)
+→ Vượt thoát: TRANSCENDENCE (Unity Consciousness - hòa giải hai thôi thúc)
+
+**IV. GHI CHÚ QUAN TRỌNG:**
+
+⚠️ Khái niệm này từng xuất hiện ở hai vị trí trong FOUNDATIONS:
+  • Chức năng 1 #30 (First Principles) - góc nhìn nguyên lý tự nhiên
+  • Chức năng 3 #4 (Core Values & Ethics) - góc nhìn đạo đức ứng dụng
+
+✅ Đã được GỘP LẠI để tránh phân mảnh, nhưng giữ nguyên CẢ HAI CHIỀU HƯỚNG trong một mô tả thống nhất. Điều này phản ánh bản chất liên tục giữa "is" và "ought" trong triết học đạo đức tự nhiên.
+
+🔄 Đây là một ví dụ điển hình của **"Natural Law Ethics"** - nơi mà các nguyên tắc đạo đức được dẫn xuất từ quan sát về bản chất tự nhiên.
+
+---
+
+### **Emergence & Creative Principles - Đột Sinh & Nguyên Lý Sáng Tạo**
+
+#### **8. Emergence & Self-Organization** - Đột Sinh & Tự Tổ Chức [Nguyên Lý Phổ Quát]
 
 Một trong những nguyên lý CƠ BẢN NHẤT của vũ trụ - các cấu trúc phức tạp và
 trật tự tự động xuất hiện từ sự tương tác của các thành phần đơn giản, không
@@ -74,7 +167,116 @@ hình thành vũ trụ, sự sống, đến tổ chức xã hội.
   • AMPLIFICATION (Swarm Intelligence)
   • INTEGRATION (Decentralized Systems)
 
-#### **4. Feedback Loops - Vòng Lặp Phản Hồi [Nguyên Lý Nền Tảng]**
+#### **9. The Creative Principle** - Nguyên Lý Sáng Tạo
+
+Lực lượng cơ bản tạo ra sự đột sinh và sự mới lạ.
+
+- **Generative Force**: Lực tạo sinh cơ bản
+- **Novelty Emergence**: Sự xuất hiện của cái mới
+- **Creative Impulse**: Xung lực sáng tạo nguyên thủy
+- **Manifestation Power**: Sức mạnh biểu hiện từ tiềm năng sang hiện thực
+
+→ **Liên kết:** CREATION (Generative Systems), FOUNDATIONS (Emergence & Self-Organization)
+
+#### **10. Potentiality & Actuality** - Tiềm Năng & Hiện Thực
+
+Nguyên lý về sự khác biệt giữa những gì một hệ thống có thể trở thành (tiềm năng) và trạng thái hiện tại của nó (hiện thực).
+
+- **Field of Possibilities**: Tiềm năng là một trường các khả năng chưa được biểu hiện
+- **Collapse into Form**: Quá trình trở thành là sự "sụp đổ" của trường tiềm năng thành một hình thức hiện thực cụ thể
+- **Latent vs. Manifest**: Sự khác biệt giữa cái tiềm ẩn và cái biểu hiện
+- **Becoming Process**: Mọi thứ đều đang trong quá trình "trở thành", một sự chuyển động liên tục từ tiềm năng sang hiện thực
+
+→ **Liên kết:** CREATION (Idea Generation), DYNAMICS (Transformation Dynamics)
+
+#### **11. Evolution & Selection** - Tiến Hóa & Chọn Lọc
+
+Nguyên lý rằng các hệ thống phức tạp thay đổi theo thời gian thông qua một quá trình biến dị ngẫu nhiên và chọn lọc không ngẫu nhiên.
+
+- **Variation**: Sự tồn tại của sự đa dạng và các biến thể trong một quần thể
+- **Selection Pressure**: Các áp lực từ môi trường "chọn lọc" những biến thể phù hợp nhất để tồn tại và tái tạo
+- **Adaptation**: Quá trình các đặc điểm được chọn lọc trở nên phổ biến hơn, làm cho quần thể thích nghi tốt hơn
+- **Inheritance/Replication**: Cơ chế truyền lại các đặc điểm thành công cho các thế hệ tiếp theo
+
+→ **Liên kết:** DYNAMICS (Transformation Dynamics), CREATION (Innovation Methods)
+
+---
+
+### **Causality, Time & Transformation - Nhân Quả, Thời Gian & Chuyển Hóa**
+
+#### **12. Causality & Interdependence** - Nhân Quả & Tương Duyên [Nguyên Lý Nền Tảng]
+
+**NGUYÊN LÝ NỀN TẢNG - LÝ THUYẾT**: Nguyên lý phổ quát về mối quan hệ giữa nguyên nhân và kết quả, và sự thật rằng không có gì tồn tại một cách độc lập. Đây là **NỀN TẢNG LÝ THUYẾT** để hiểu cách vũ trụ vận hành - mọi thứ đều kết nối và ảnh hưởng lẫn nhau.
+
+- **Action-Consequence Unity**: Sự thống nhất giữa hành động và kết quả - NGUYÊN LÝ cơ bản của thực tại
+- **Dependent Origination** (Duyên khởi): Mọi hiện tượng đều do các điều kiện khác hợp thành - KHÔNG CÓ TỰ TÍNH độc lập
+- **Web of Causation**: Mạng lưới nhân quả chằng chịt - MỘT THAY ĐỔI lan tỏa khắp hệ thống
+- **Acausal Connection**: Khám phá các mối liên hệ PHI NHÂN QUẢ (Synchronicity - sự đồng thời)
+
+→ **Liên kết nội bộ:**
+  • OPERATIONS (Reasoning Architectures) - áp dụng vào lý luận
+  • DYNAMICS (System Dynamics) - hiểu động lực học hệ thống
+
+→ **Ứng dụng đạo đức:**
+  • FOUNDATIONS Chức năng 3 #2 (Causality & Interdependence - Trách nhiệm với hệ quả) - chuyển hóa nguyên lý này thành HÀNH ĐỘNG có ý thức đạo đức
+
+→ **Causality Constellation - Các biến thể:**
+  • **Khả năng nhận thức:** DYNAMICS #47 (Causal Reasoning - kỹ năng tư duy linh hoạt)
+  • **Công cụ phân tích:** OPERATIONS #5 (Causal Reasoning - phương pháp phân tích có cấu trúc)
+  • **Tư duy mạng lưới:** DYNAMICS #48 (Causal Networks)
+  • **Nhân quả thời gian:** DYNAMICS #50 (Temporal Causation)
+  • **Công cụ trực quan:** OPERATIONS #22 (Causal Loop Diagrams)
+  • **Vượt thoát:** TRANSCENDENCE #30 (Retroactive Causality)
+  • **Meta-pattern:** META #12 (Causality Patterns)
+
+→ **Ghi chú:** Đây là NGUYÊN LÝ LÝ THUYẾT giải thích "thực tại VẬN HÀNH như thế nào". Để thấy cách áp dụng nguyên lý này vào trách nhiệm đạo đức, xem Chức năng 3 #2.
+
+#### **13. Cycles & Rhythms** - Chu Kỳ & Nhịp Điệu [Nguyên Lý Phổ Quát]
+
+Nguyên lý phổ quát về sự lặp lại của các mẫu hình theo thời gian, từ các chu kỳ vi mô (nhịp tim) đến vĩ mô (kỷ nguyên). Đây là QUY LUẬT TỰ NHIÊN xuất hiện ở mọi hệ thống - vật lý, sinh học, tâm lý, xã hội và vũ trụ.
+
+- **Repetition & Oscillation**: Sự lặp lại và dao động - BẢN CHẤT của tự nhiên
+- **Spiral Development**: Các chu kỳ tiến hóa xoắn ốc - NGUYÊN LÝ phát triển
+- **Phase Recognition**: Nhận diện giai đoạn - CÔNG CỤ định hướng
+- **Rhythmic Entrainment**: Đồng bộ hóa nhịp điệu - HIỆN TƯỢNG phổ quát
+
+→ **Liên kết:** DYNAMICS (Transformation Dynamics), NAVIGATION (Timing Wisdom)
+
+→ **Biến thể cụ thể của nguyên lý này xuất hiện ở:**
+  - FOUNDATIONS #13 (Cycles within Cycles - lồng ghép đa tầng)
+  - FOUNDATIONS #15 (Spiral Development - tiến hóa xoắn ốc)
+  - DYNAMICS #27 (Oscillation - dao động cụ thể)
+  - DYNAMICS #45-46 (Recovery/Adaptation Cycles)
+  - NAVIGATION Chức năng 5 (Temporal Rhythm Coordination - ứng dụng)
+  - FOUNDATIONS Chức năng 5 (Natural Principles - chu kỳ tự nhiên)
+
+#### **14. Irreversibility & Entropy** - Bất Khả Đảo & Entropy
+
+Nguyên lý về "mũi tên thời gian" - một số quá trình chỉ có thể diễn ra theo một chiều, và xu hướng tự nhiên của các hệ thống cô lập là hướng tới sự mất trật tự ngày càng tăng.
+
+- **Arrow of Time**: Mũi tên thời gian; sự phân biệt giữa quá khứ và tương lai
+- **Disorder Tendency**: Xu hướng tự nhiên của các hệ thống hướng tới trạng thái hỗn loạn hơn, ít có cấu trúc hơn
+- **Path Dependence**: Lịch sử của một hệ thống ảnh hưởng đến tương lai của nó; một khi một con đường được chọn, có thể khó hoặc không thể quay lại
+- **One-Way Processes**: Các quá trình không thể đảo ngược (ví dụ: làm vỡ một quả trứng)
+
+→ **Liên kết:** DYNAMICS (Transformation Dynamics), NAVIGATION (Reversibility Principle)
+
+#### **15. Conservation & Transformation** - Bảo Toàn & Chuyển Hóa
+
+Nguyên lý kép rằng trong mọi sự thay đổi, có những thứ được bảo toàn (ví dụ: năng lượng) và có những thứ được chuyển hóa (ví dụ: hình thức).
+
+- **Invariant Quantities**: Tìm kiếm những đại lượng không đổi trong một quá trình biến đổi là một công cụ phân tích mạnh mẽ
+- **State Change**: Chuyển hóa là sự thay đổi về trạng thái hoặc cấu trúc
+- **Symmetry & Conservation Laws**: Trong vật lý, mỗi định luật bảo toàn tương ứng với một phép đối xứng của tự nhiên
+- **Permutation**: Sự hoán vị là một dạng chuyển hóa bảo toàn tất cả các yếu tố, chỉ thay đổi vị trí của chúng
+
+→ **Liên kết:** DYNAMICS (Transformation Dynamics), VALIDATION (Consistency Check)
+
+---
+
+### **System Dynamics & Feedback - Động Lực Hệ Thống & Phản Hồi**
+
+#### **16. Feedback Loops - Vòng Lặp Phản Hồi [Nguyên Lý Nền Tảng]**
 
 Nguyên lý phổ quát về việc đầu ra của một hệ thống quay trở lại làm đầu vào, tạo ra sự tự điều chỉnh hoặc tăng trưởng. Đây là QUY LUẬT TỰ NHIÊN cơ bản xuất hiện ở mọi hệ thống - từ sinh học, cơ học, đến tâm lý và xã hội.
 
@@ -90,14 +292,342 @@ Nguyên lý phổ quát về việc đầu ra của một hệ thống quay tr�
   • VALIDATION #14 (thiết kế kiến trúc)
   • META #20 (Meta-Feedback - phản hồi về phản hồi)
 
-#### **5. Causality & Interdependence** - Nhân Quả & Tương Duyên [Nguyên Lý Nền Tảng]
+#### **17. Inertia & Momentum** - Quán Tính & Động Lượng
 
-**NGUYÊN LÝ NỀN TẢNG - LÝ THUYẾT**: Nguyên lý phổ quát về mối quan hệ giữa nguyên nhân và kết quả, và sự thật rằng không có gì tồn tại một cách độc lập. Đây là **NỀN TẢNG LÝ THUYẾT** để hiểu cách vũ trụ vận hành - mọi thứ đều kết nối và ảnh hưởng lẫn nhau.
+Nguyên lý về xu hướng của các hệ thống chống lại sự thay đổi (quán tính) và duy trì trạng thái chuyển động hiện tại (động lượng).
 
-- **Action-Consequence Unity**: Sự thống nhất giữa hành động và kết quả - NGUYÊN LÝ cơ bản của thực tại
-- **Dependent Origination** (Duyên khởi): Mọi hiện tượng đều do các điều kiện khác hợp thành - KHÔNG CÓ TỰ TÍNH độc lập
-- **Web of Causation**: Mạng lưới nhân quả chằng chịt - MỘT THAY ĐỔI lan tỏa khắp hệ thống
-- **Acausal Connection**: Khám phá các mối liên hệ PHI NHÂN QUẢ (Synchronicity - sự đồng thời)
+- **Resistance to Change**: Quán tính là sự kháng cự tự nhiên đối với việc thay đổi trạng thái (nghỉ ngơi hoặc chuyển động)
+- **Conservation of State**: Động lượng là xu hướng bảo tồn trạng thái chuyển động hiện tại
+- **Critical Force**: Cần một lực tới hạn để vượt qua quán tính và bắt đầu một sự thay đổi
+- **Compounding Effect**: Động lượng có hiệu ứng lãi kép; thành công nhỏ ban đầu giúp việc đạt được thành công lớn hơn trở nên dễ dàng hơn
+
+→ **Liên kết:** DYNAMICS (Transformation Dynamics), AMPLIFICATION (Flywheel Effect)
+
+#### **18. Equilibrium & Homeostasis** - Cân Bằng & Cân Bằng Nội Môi
+
+Nguyên lý về xu hướng của các hệ thống tìm kiếm một trạng thái ổn định (cân bằng) và chủ động duy trì nó (cân bằng nội môi).
+
+- **Dynamic Stability**: Một trạng thái ổn định động, không phải là tĩnh, liên tục có các điều chỉnh nhỏ
+- **Balancing Feedback**: Được duy trì bởi các vòng lặp phản hồi âm, chống lại sự thay đổi
+- **Set Point**: Một điểm hoặc một phạm vi trạng thái mục tiêu mà hệ thống cố gắng duy trì
+- **Stasis & Adaptation**: Cân bằng có thể dẫn đến sự trì trệ (stasis), nhưng cũng là nền tảng cho sự thích ứng
+
+→ **Liên kết:** DYNAMICS (Cybernetics), VALIDATION (Feedback Systems)
+
+#### **19. Gradients & Flow** - Chênh Lệch & Dòng Chảy
+
+Nguyên lý rằng dòng chảy (năng lượng, thông tin, tài nguyên) xảy ra từ nơi có nồng độ cao đến nơi có nồng độ thấp, theo một gradient (độ chênh).
+
+- **Direction of Change**: Gradient xác định hướng tự nhiên của sự thay đổi
+- **Potential Difference**: Sự khác biệt về "thế năng" giữa hai điểm là động lực cho dòng chảy
+- **Path of Least Resistance**: Dòng chảy có xu hướng đi theo con đường ít kháng cự nhất
+- **Optimization Driver**: Di chuyển theo gradient là một cơ chế tối ưu hóa tự nhiên
+
+→ **Liên kết:** DYNAMICS (System Dynamics), NAVIGATION (Flow Optimization)
+
+---
+
+### **Structure, Scale & Organization - Cấu Trúc, Quy Mô & Tổ Chức**
+
+#### **20. Scale & Hierarchy** - Quy Mô & Phân Cấp
+
+Nguyên lý về sự tồn tại của các cấp độ tổ chức khác nhau, và cách các quy luật thay đổi khi di chuyển giữa các cấp độ đó.
+
+- **Nested Systems**: Các hệ thống được lồng vào nhau, mỗi cấp độ có các quy tắc riêng
+- **Scale Invariance**: Các thuộc tính không thay đổi khi quy mô thay đổi (ví dụ: trong các hệ fractal)
+- **Scale Variance**: Các thuộc tính thay đổi đáng kể khi quy mô thay đổi (ví dụ: vật lý lượng tử vs. vật lý cổ điển)
+- **Level of Analysis**: Lựa chọn cấp độ phân tích phù hợp là rất quan trọng để có được sự hiểu biết đúng đắn
+
+→ **Liên kết:** META-STRUCTURES (Holarchy), OPERATIONS (Decomposition)
+
+#### **21. Recursion & Self-Reference** - Đệ Quy & Tự Tham Chiếu
+
+Nguyên lý về các quy trình hoặc cấu trúc tự gọi lại chính nó, tạo ra sự phức tạp vô hạn từ các quy tắc đơn giản.
+
+- **Nested Structures**: Các cấu trúc được lồng vào bên trong các phiên bản của chính chúng
+- **Self-Similar Definition**: Một thứ được định nghĩa bằng chính nó (ví dụ: "danh sách là một mục, theo sau là một danh sách")
+- **Base Case**: Điều kiện dừng để ngăn chặn sự lùi vô hạn
+- **Strange Loops**: Các vòng lặp tự tham chiếu nghịch lý, nơi các cấp độ phân cấp bị xáo trộn
+
+→ **Liên kết:** [META] LAYER (Recursive Consciousness), FOUNDATIONS (Fractal Thinking)
+
+#### **22. Hologram** - Toàn Ảnh
+
+Nguyên lý rằng mỗi phần chứa đựng thông tin về toàn bộ.
+
+- **Whole in Part**: Toàn thể được phản chiếu trong từng bộ phận
+- **Fractal Information**: Thông tin được mã hóa ở mọi cấp độ
+- **Redundant Encoding**: Mã hóa dự phòng đảm bảo tính kiên cường
+- **Holographic Principle**: Nguyên lý vật lý về mã hóa thông tin
+
+→ **Liên kết:** INTEGRATION (Holographic Integration), FOUNDATIONS (Fractal Thinking)
+
+#### **23. Point** - Điểm
+
+Yếu tố cơ bản nhất, không có chiều không gian nhưng là khởi đầu của mọi hình thái.
+
+- **Zero Dimensionality**: Không có kích thước nhưng xác định vị trí
+- **Potential Locus**: Điểm tiềm năng cho mọi sự khai triển
+- **Singularity**: Trạng thái tập trung cực đại
+- **Origin Point**: Điểm khởi nguồn của các hệ tọa độ
+
+→ **Liên kết:** FOUNDATIONS (Space), CREATION (Minimal Element)
+
+#### **24. Link** - Liên Kết
+
+Kết nối cơ bản giữa các yếu tố, tạo ra mối quan hệ.
+
+- **Connection Creation**: Thiết lập mối quan hệ giữa các thực thể
+- **Relational Bridge**: Cầu nối tạo ra ý nghĩa qua tương tác
+- **Network Foundation**: Nền tảng của mọi cấu trúc mạng lưới
+- **Information Channel**: Kênh truyền tải thông tin và năng lượng
+
+→ **Liên kết:** INTEGRATION (Connection), AMPLIFICATION (Network Effects)
+
+---
+
+### **Boundaries, Constraints & Resources - Ranh Giới, Ràng Buộc & Nguồn Lực**
+
+#### **25. Constraints & Boundaries** - Ràng Buộc & Ranh Giới [Nguyên Lý Triết Học]
+
+Nguyên lý căn bản rằng các hệ thống được ĐỊNH HÌNH và XÁC ĐỊNH bởi các giới hạn và ranh giới của chúng. Không phải là về tìm và loại bỏ ràng buộc, mà là về HIỂU vai trò căn bản của ranh giới trong việc tạo ra bản sắc.
+
+- **Defining Function**: Ranh giới tạo ra BẢN SẮC - hệ thống là gì và không là gì
+- **Creative Constraints**: Ràng buộc như NGUỒN sáng tạo, không phải chướng ngại
+- **Boundary Permeability**: Độ thấm của ranh giới quyết định TƯƠNG TÁC với môi trường
+- **Limiting Factors**: Yếu tố giới hạn quyết định GIỚI HẠN của khả năng
+- **Resource Limitations**: Giới hạn tài nguyên - mọi hệ thống đều có sức chứa và ranh giới vật lý/sinh thái
+- **Carrying Capacity**: Sức chứa của hệ thống - giới hạn bền vững của tăng trưởng
+
+→ **Liên kết nội bộ:** OPERATIONS (Constraint Analysis & Optimization - phương pháp), CREATION (Creative Constraints - ứng dụng), AMPLIFICATION (Constraints as Leverage)
+→ **Xuất hiện ở các domain khác:**
+  • FOUNDATIONS #13 (Bottlenecks - quy luật cụ thể)
+  • OPERATIONS (Constraint Analysis & Optimization - phương pháp phân tích)
+  • CREATION (Creative Constraints - ứng dụng sáng tạo)
+  • CREATION (Constraint Transformation - biến đổi ràng buộc)
+  • AMPLIFICATION #17 (Constraints as Leverage - chiến lược khuếch đại)
+→ **Validation:** VALIDATION #16 (The Empty World Assumption - thiên kiến về việc bỏ qua các ràng buộc này khi đánh giá rủi ro)
+
+#### **26. Scarcity & Abundance** - Khan Hiếm & Dồi Dào
+
+Nguyên lý cho rằng nhận thức về sự sẵn có của các nguồn lực định hình sâu sắc hành vi và chiến lược.
+
+- **Zero-Sum vs. Positive-Sum**: Tư duy khan hiếm xem thế giới là một trò chơi có tổng bằng không; tư duy dồi dào xem nó là một trò chơi có tổng dương
+- **Mindset Frame**: Khan hiếm và dồi dào không chỉ là thực tế khách quan mà còn là một khung tư duy định hình thực tại
+- **Resource Perception**: Cách chúng ta nhận thức về tài nguyên (hữu hạn vs. có thể tái tạo) quyết định cách chúng ta sử dụng chúng
+- **Generativity**: Tư duy dồi dào thúc đẩy sự hào phóng, hợp tác và sáng tạo (tạo ra nhiều hơn)
+
+→ **Liên kết:** AMPLIFICATION (Exponential Multipliers), CREATION (Generative Systems)
+
+---
+
+### **Energy, Information & Flow - Năng Lượng, Thông Tin & Dòng Chảy**
+
+#### **27. Energy & Information** - Năng Lượng & Thông Tin
+
+Hai thành phần cơ bản cấu tạo nên thực tại và các hệ thống tư duy.
+
+- **Energy as Capacity to Act**: Năng lượng là khả năng thực hiện công việc hoặc tạo ra sự thay đổi
+- **Information as Form**: Thông tin là thứ định hình và tổ chức năng lượng
+- **Entropy & Negentropy**: Xu hướng tự nhiên hướng tới sự hỗn loạn (entropy) và xu hướng của các hệ thống sống tạo ra trật tự (negentropy)
+- **Signal-Noise Ratio**: Tỷ lệ giữa thông tin hữu ích (tín hiệu) và thông tin vô ích (nhiễu)
+
+→ **Liên kết:** DYNAMICS (System Dynamics), VALIDATION (Signal-Noise Separation)
+
+#### **28. Signal & Noise** - Tín Hiệu & Nhiễu
+
+Nguyên lý cơ bản rằng thông tin bao gồm các mẫu hình có ý nghĩa (tín hiệu) và các dao động ngẫu nhiên, không liên quan (nhiễu).
+
+- **Meaningful Pattern**: Tín hiệu là một mẫu hình có cấu trúc và có thể diễn giải được
+- **Random Fluctuation**: Nhiễu là những biến động ngẫu nhiên làm che khuất tín hiệu
+- **Signal-to-Noise Ratio (SNR)**: Tỷ lệ giữa sức mạnh của tín hiệu và sức mạnh của nhiễu, một thước đo quan trọng về chất lượng thông tin
+- **Filtering & Extraction**: Thao tác cốt lõi là lọc bỏ nhiễu để trích xuất tín hiệu
+
+→ **Liên kết:** VALIDATION (Signal-Noise Separation), OPERATIONS (Analytical Tools)
+
+---
+
+### **Form, Function & Design - Hình Thức, Chức Năng & Thiết Kế**
+
+#### **29. Form & Function** - Hình Thức & Chức Năng
+
+Mối quan hệ tương hỗ giữa hình dạng của một thứ và mục đích mà nó phục vụ.
+
+- **"Form follows function"**: "Hình thức đi theo chức năng" – nguyên tắc thiết kế cốt lõi
+- **"Function follows form"**: "Chức năng đi theo hình thức" – cách các cấu trúc hiện có tạo ra các khả năng mới
+- **Structural Integrity**: Sự toàn vẹn cấu trúc cần thiết để thực hiện chức năng
+- **Elegant Design**: Thiết kế thanh lịch, nơi hình thức và chức năng hợp nhất một cách hoàn hảo
+
+→ **Liên kết:** CREATION (Design Thinking), INTEGRATION (Systemic Integration)
+
+#### **30. Symmetry & Asymmetry - Đối Xứng & Bất Đối Xứng [Nguyên Lý Nền Tảng]**
+
+NGUYÊN LÝ PHỔ QUÁT về sự cân bằng, lặp lại và sự phá vỡ của chúng - nền tảng cho TRẬT TỰ, VẺ ĐẸP và SỰ THAY ĐỔI trong tự nhiên và tư duy. Đây là QUY LUẬT CƠ BẢN xuất hiện từ vật lý đến thẩm mỹ, từ toán học đến sinh học.
+
+- **Balance & Harmony**: Đối xứng → cảm giác cân bằng, ổn định, hài hòa
+- **Pattern Repetition**: Lặp lại theo quy tắc (đối xứng gương, quay, tịnh tiến)
+- **Symmetry Breaking**: CƠ CHẾ tạo đa dạng & phức tạp từ trạng thái đơn giản
+- **Information Content**: Bất đối xứng chứa NHIỀU THÔNG TIN hơn đối xứng hoàn hảo
+
+💡 **Ví dụ phổ quát:**
+- Vật lý: Định luật bảo toàn ↔ Phá vỡ đối xứng tạo vũ trụ
+- Sinh học: Cơ thể đối xứng hai bên ↔ Nội tạng bất đối xứng
+- Thẩm mỹ: Đối xứng = đẹp ↔ Bất đối xứng = thú vị, năng động
+- Xã hội: Công bằng (đối xứng) ↔ Đa dạng (bất đối xứng)
+
+→ **Liên kết:** CREATION (Design Principles), TRANSCENDENCE (Unity of Opposites), META LAYER #10 (công cụ phát hiện pattern này xuyên domains), CREATION - Chức Năng 5 - Khái niệm #3 (TRIZ Principle #4: Asymmetry - chuyển từ đối xứng sang bất đối xứng)
+
+---
+
+### **Interaction & Relationship - Tương Tác & Quan Hệ**
+
+#### **31. Resonance & Attunement** - Cộng Hưởng & Điều Hợp
+
+Nguyên lý về việc các hệ thống có xu hướng dao động đồng điệu và tự điều chỉnh để phù hợp với các tần số bên ngoài hoặc bên trong.
+
+- **Frequency Matching**: Sự khớp tần số; các hệ thống dễ dàng trao đổi năng lượng và thông tin khi chúng có cùng tần số dao động
+- **Sympathetic Vibration**: Dao động cảm ứng; một vật thể bắt đầu dao động khi tiếp xúc với một vật thể khác đang dao động ở tần số phù hợp
+- **Entrainment**: Sự cuốn theo; xu hướng các nhịp điệu độc lập tự đồng bộ hóa khi chúng tương tác với nhau
+- **Signal Amplification**: Sự khuếch đại tín hiệu xảy ra khi có sự cộng hưởng, làm cho các tín hiệu yếu trở nên mạnh mẽ hơn
+
+→ **Liên kết:** AMPLIFICATION (Synergy & Catalysts), DYNAMICS (Cognitive Dynamics)
+
+#### **32. Interference & Dissonance** - Giao Thoa & Bất Hòa
+
+Nguyên lý về việc các sóng hoặc các lực lượng tương tác với nhau, có thể tăng cường hoặc triệt tiêu lẫn nhau, tạo ra các mẫu hình mới hoặc sự xung đột.
+
+- **Constructive/Destructive**: Giao thoa mang tính xây dựng (tăng cường) hoặc phá hủy (triệt tiêu)
+- **Pattern Creation**: Sự giao thoa tạo ra các mẫu hình phức tạp mới (ví dụ: các vân giao thoa)
+- **Cognitive Dissonance**: Sự khó chịu về mặt nhận thức khi nắm giữ các niềm tin hoặc giá trị mâu thuẫn
+- **Signal Jamming**: Sự nhiễu loạn hoặc triệt tiêu một tín hiệu bởi một tín hiệu khác
+
+→ **Liên kết:** VALIDATION (Adversarial Testing), CREATION (Creative Tension)
+
+#### **33. Symbiosis & Competition** - Cộng Sinh & Cạnh Tranh
+
+Hai chế độ tương tác cơ bản giữa các tác nhân trong một hệ thống: hợp tác vì lợi ích chung và đấu tranh vì các nguồn lực hạn chế.
+
+- **Mutualism/Parasitism**: Cộng sinh có thể mang lại lợi ích cho cả hai bên (tương hỗ) hoặc chỉ một bên (ký sinh)
+- **Zero-Sum Game**: Cạnh tranh thường là một trò chơi có tổng bằng không, nơi lợi ích của người này là thiệt hại của người kia
+- **Co-evolution**: Cả cộng sinh và cạnh tranh đều thúc đẩy sự đồng tiến hóa của các tác nhân
+- **Niche Differentiation**: Một kết quả của cạnh tranh là sự khác biệt hóa để chiếm các "ngách" khác nhau, làm giảm xung đột
+
+→ **Liên kết:** AMPLIFICATION (Synergy), OPERATIONS (Game Theory)
+
+---
+
+### **Observation, Context & Perspective - Quan Sát, Bối Cảnh & Góc Nhìn**
+
+#### **34. Observer Effect & Participation** - Hiệu Ứng Người Quan Sát & Sự Tham Gia
+
+Nguyên lý rằng hành động quan sát một hệ thống không thể tách rời khỏi hệ thống đó và luôn ảnh hưởng đến nó.
+
+- **Measurement Impact**: Hành động đo lường làm thay đổi trạng thái của cái được đo
+- **Reality Co-creation**: Thực tại không tồn tại một cách khách quan hoàn toàn mà được đồng tạo ra bởi sự tham gia của người quan sát
+- **Subject-Object Entanglement**: Sự vướng víu không thể tách rời giữa chủ thể và khách thể
+- **Heisenberg's Principle (Generalized)**: Nguyên tắc bất định, càng biết rõ một khía cạnh, càng ít biết rõ một khía cạnh bổ sung khác
+
+→ **Liên kết:** VALIDATION (Bias Awareness), TRANSCENDENCE (Non-dual Awareness)
+
+#### **35. Relativity & Context** - Tương Đối & Bối Cảnh
+
+Nguyên lý rằng ý nghĩa, giá trị và thậm chí cả các thuộc tính vật lý của một thứ phụ thuộc vào hệ quy chiếu và bối cảnh của nó.
+
+- **Frame of Reference**: Mọi quan sát đều được thực hiện từ một hệ quy chiếu cụ thể
+- **Meaning is Contextual**: Ý nghĩa của một thông điệp hay một sự kiện được quyết định bởi bối cảnh xung quanh nó
+- **No Absolute Viewpoint**: Không có một điểm nhìn tuyệt đối, "từ hư không"
+- **Positional Understanding**: Sự hiểu biết phụ thuộc vào vị trí của người quan sát trong hệ thống
+
+→ **Liên kết:** NAVIGATION (Situational Awareness), [META] LAYER (Meta-Paradigm Thinking)
+
+#### **36. Representation & Reality** - Sự Biểu Đạt & Thực Tại
+
+Nguyên lý cơ bản rằng có một sự khác biệt không thể vượt qua giữa một thứ và sự biểu đạt của nó (ký hiệu, ngôn ngữ, mô hình).
+
+- **The Symbol is not the Thing**: Ký hiệu không phải là chính vật đó
+- **Loss of Information**: Bất kỳ sự biểu đạt nào cũng là một sự trừu tượng hóa và làm mất mát thông tin so với thực tại
+- **Power of Abstraction**: Sức mạnh của sự biểu đạt nằm ở khả năng trừu tượng hóa, cho phép chúng ta tư duy và giao tiếp về những thứ phức tạp
+- **Isomorphism**: Sự tương ứng một-đối-một về cấu trúc giữa sự biểu đạt và thực tại là mục tiêu của các mô hình chính xác
+
+→ **Liên kết:** FOUNDATIONS (Map-Territory Distinction), [META] LAYER (Symbol System Creation)
+
+#### **37. Holism & Reductionism** - Toàn Thể Luận & Giản Lược Luận
+
+Hai cách tiếp cận đối lập nhưng bổ sung cho nhau để hiểu thế giới: tập trung vào tổng thể và các mối quan hệ (toàn thể luận) hoặc tập trung vào các thành phần cấu thành (giản lược luận).
+
+- **The Whole is Primary**: Toàn thể luận cho rằng tổng thể có những thuộc tính đột sinh không thể tìm thấy ở các bộ phận
+- **The Parts are Primary**: Giản lược luận cho rằng có thể hiểu tổng thể bằng cách hiểu các bộ phận và sự tương tác của chúng
+- **Synthesis ↔ Analysis**: Sự căng thẳng và bổ sung giữa tổng hợp (holism) và phân tích (reductionism)
+- **Interplay of Levels**: Một sự hiểu biết hoàn chỉnh đòi hỏi sự tương tác giữa cả hai cách tiếp cận
+
+→ **Liên kết:** INTEGRATION (Systemic Integration), OPERATIONS (Decomposition)
+
+#### **38. Polarity & Spectrum** - Lưỡng Cực & Phổ
+
+Nguyên lý rằng nhiều khái niệm không phải là nhị phân (có/không) mà tồn tại trên một dải phổ liên tục giữa hai cực đối lập.
+
+- **Opposing Poles**: Các khái niệm thường được định nghĩa bởi hai cực đối lập (ví dụ: trật tự và hỗn loạn)
+- **Continuous Gradient**: Có một dải gradient liên tục của các trạng thái trung gian giữa hai cực
+- **Position on a Spectrum**: Hiểu một thứ gì đó là xác định vị trí của nó trên một dải phổ, thay vì gán nó vào một trong hai hộp
+- **Nuanced Understanding**: Tư duy theo phổ cho phép sự hiểu biết tinh tế và nhiều sắc thái hơn
+
+→ **Liên kết:** DYNAMICS (Oscillation), OPERATIONS (Analytical Tools)
+
+---
+
+### **Foundational Disciplines - Các Ngành Nền Tảng**
+
+#### **39. Ontology** - Bản Thể Học
+
+Nghiên cứu về bản chất của sự tồn tại và thực tại.
+
+- **Being as Such**: Nghiên cứu về "tồn tại" như là tồn tại
+- **Categories of Existence**: Các phạm trù của sự tồn tại
+- **Existence vs. Essence**: Phân biệt giữa sự tồn tại và bản chất
+- **Fundamental Ontology**: Bản thể học cơ bản về cấu trúc của tồn tại
+
+→ **Liên kết:** [META] LAYER (Meta-Structures), FOUNDATIONS (Knowledge & Truth)
+
+#### **40. Cosmology** - Vũ Trụ Học
+
+Nghiên cứu về cấu trúc, nguồn gốc và tiến hóa của vũ trụ.
+
+- **Universe Structure**: Cấu trúc quy mô lớn của vũ trụ
+- **Origin & Evolution**: Nguồn gốc và sự tiến hóa vũ trụ
+- **Cosmic Principles**: Các nguyên lý chi phối vũ trụ
+- **Space-Time Fabric**: Cấu trúc không-thời gian
+
+→ **Liên kết:** FOUNDATIONS (Universal Laws), DYNAMICS (System Evolution)
+
+---
+
+## CHỨC NĂNG 2: UNIVERSAL LAWS & PATTERNS - QUY LUẬT & MÔ THỨC PHỔ QUÁT
+
+### **Tổng Quan**
+
+Các định luật phổ quát và mẫu hình là những cấu trúc lặp lại, các mô hình tư duy và quy luật vận hành được quan sát thấy ở nhiều lĩnh vực khác nhau - từ vật lý đến xã hội học, từ tâm lý học đến kinh tế học.
+
+### **Các Mô Hình Nền Tảng**
+
+#### **1. Mental Models - Mô Hình Tư Duy [Khung Diễn Giải Phổ Quát]**
+
+Các khung diễn giải thực tại được lưu trữ trong tâm trí - những "lăng kính"
+qua đó chúng ta nhìn nhận và hiểu thế giới. Đây là NGUYÊN LÝ NỀN TẢNG về
+cách con người tạo ra ý nghĩa và đưa ra suy luận về thực tại phức tạp.
+
+• **Model Selection**: Lựa chọn KHUNG DIỄN GIẢI phù hợp với bối cảnh
+• **Model Latticework**: Xây dựng MẠNG LƯỚI mô hình đa chiều
+• **Model Limitations**: Nhận thức "bản đồ ≠ lãnh thổ" - GIỚI HẠN của mô hình
+• **Model Inversion**: Đảo ngược để thấy GÓC NHÌN khác
+
+→ **Liên kết nội bộ:** [META] LAYER (Meta-Structures), INTEGRATION (Knowledge Synthesis)
+→ **Xuất hiện ở các domain khác:**
+  • DYNAMICS #33 (công cụ chuyển đổi linh hoạt)
+  • OPERATIONS #53 (công cụ giải quyết vấn đề)
+  • AMPLIFICATION #15 (công cụ khuếch đại)
+→ **Ý nghĩa:** Nền tảng LÝ THUYẾT về cách tâm trí tạo ra biểu diễn nội tâm
+
+#### **2. Systems Thinking** - Tư Duy Hệ Thống
 
 → **Liên kết nội bộ:**
   • OPERATIONS (Reasoning Architectures) - áp dụng vào lý luận
