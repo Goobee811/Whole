@@ -18826,16 +18826,19 @@ Giao tiếp từ một nơi của sự hiểu biết cảm xúc và kết nối.
 
 ---
 
-#### **11. Memetic Engineering** - Kỹ Thuật Meme
+#### **11. Memetic Engineering** - Kỹ Thuật Meme [Thiết Kế Ý Nghĩa]
 
-Thiết kế và truyền bá các ý tưởng (memes) một cách chiến lược.
+Nghệ thuật và khoa học của việc thiết kế các ý tưởng (memes) có ý nghĩa, dễ hiểu và dễ truyền đạt. Khác với tối ưu hóa lan truyền ở AMPLIFICATION, đây là về tạo ý nghĩa - làm sao để ý tưởng "dính" trong tâm trí người nhận.
 
-- **Sticky Ideas**: Ý tưởng dính; làm cho ý tưởng dễ nhớ và chia sẻ.
-- **Viral Mechanisms**: Cơ chế lan truyền; thiết kế để lây lan nhanh.
-- **Cultural Fit**: Phù hợp văn hóa; ý tưởng cộng hưởng với bối cảnh văn hóa.
-- **Ethical Considerations**: Cân nhắc đạo đức; sử dụng có trách nhiệm.
+- **Sticky Ideas**: Ý tưởng dính; thiết kế để dễ nhớ và đáng nhớ.
+- **Cultural Fit**: Phù hợp văn hóa; ý tưởng cộng hưởng với bối cảnh.
+- **Semantic Packaging**: Đóng gói ngữ nghĩa; truyền đạt ý nghĩa rõ ràng.
+- **Ethical Considerations**: Cân nhắc đạo đức; thiết kế có trách nhiệm.
 
-→ **Liên kết:** AMPLIFICATION (Viral Mechanics), CREATION (Idea Generation).
+→ **Liên kết:** COMMUNICATION (Storytelling), CREATION (Idea Generation).
+→ **Xuất hiện ở domain khác:** AMPLIFICATION #29 (tối ưu hóa cơ chế lan truyền).
+→ **Giai đoạn tiếp theo:** AMPLIFICATION #29 (sau khi có ý nghĩa, tối ưu lan truyền).
+→ **Ứng dụng:** Branding, Education, Storytelling, Cultural Communication.
 
 ---
 
@@ -22606,15 +22609,19 @@ Quá trình các yếu tố văn hóa lan tỏa từ nhóm này sang nhóm khác
 - **Integration Process**: Quá trình hội nhập.  
     → **Liên kết:** INTEGRATION (Cultural Integration), DYNAMICS (Diffusion).
 
-#### **29. Memetic Engineering** - Kỹ Thuật Memetic
+#### **29. Memetic Engineering** - Kỹ Thuật Memetic [Tối Ưu Lan Truyền]
 
-Thiết kế có chủ đích các meme để đạt được mục tiêu lan truyền.
+Kỹ thuật thiết kế có chủ đích các meme để đạt được mục tiêu lan truyền tối đa. Khác với thiết kế ý nghĩa ở INTEGRATION, đây là về cơ chế - làm sao để ý tưởng tự sao chép và lan tóa như virus.
 
-- **Viral Design**: Thiết kế để lan truyền.
-- **Message Packaging**: Đóng gói thông điệp.
-- **Replication Optimization**: Tối ưu hóa sao chép.
-- **Cultural Hacking**: Hack văn hóa một cách có đạo đức.  
-    → **Liên kết:** CREATION (Design Strategy), OPERATIONS (Message Engineering).
+- **Viral Design**: Thiết kế để lan truyền; tích hợp cơ chế chia sẻ.
+- **Message Packaging**: Đóng gói thông điệp; định dạng tối ưu cho từng nền tảng.
+- **Replication Optimization**: Tối ưu hóa sao chép; tăng viral coefficient.
+- **Cultural Hacking**: Hack văn hóa; tận dụng xu hướng và động lực xã hội.
+    → **Liên kết:** VIRAL MECHANICS (Viral Loops), OPERATIONS (Growth Engineering).
+    → **Xuất hiện ở domain khác:** INTEGRATION #11 (thiết kế ý nghĩa cho meme).
+    → **Giai đoạn trước:** INTEGRATION #11 (trước khi lan truyền, cần có ý nghĩa).
+    → **Ứng dụng:** Viral Marketing, Social Media, Product Growth, Movement Building.
+    → **Các khái niệm liên quan:** Meme Propagation #27, Viral Content #26, Trend Amplification #13.
 
 #### **30. Narrative Architecture** - Kiến Trúc Tường Thuật
 
