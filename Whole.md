@@ -886,7 +886,7 @@ Mô hình về các sự kiện cực kỳ hiếm, có tác động cực lớn 
 
 → **Liên kết:** VALIDATION (Adversarial Testing), NAVIGATION (Scenario Planning)
 
-#### **22. Ergodicity** - Tính Ergodic
+#### **21. Ergodicity** - Tính Ergodic
 
 Sự khác biệt quan trọng giữa trung bình theo thời gian của một cá nhân và trung bình theo không gian của một nhóm.
 
@@ -897,7 +897,7 @@ Sự khác biệt quan trọng giữa trung bình theo thời gian của một c
 
 → **Liên kết:** OPERATIONS (Probabilistic Thinking), NAVIGATION (Risk Navigation)
 
-#### **23. Maslow's Hierarchy of Needs** - Tháp Nhu Cầu của Maslow
+#### **22. Maslow's Hierarchy of Needs** - Tháp Nhu Cầu của Maslow
 
 Mô hình cho rằng hành vi của con người được thúc đẩy bởi một hệ thống phân cấp các nhu cầu, từ sinh lý cơ bản đến tự thể hiện.
 
@@ -908,7 +908,7 @@ Mô hình cho rằng hành vi của con người được thúc đẩy bởi m�
 
 → **Liên kết:** DYNAMICS (Transformation Dynamics), INTEGRATION (Personal Integration)
 
-#### **24. The Elephant and the Rider** - Con Voi và Người Cưỡi
+#### **23. The Elephant and the Rider** - Con Voi và Người Cưỡi
 
 Một ẩn dụ về hai hệ thống trong tâm trí: hệ thống cảm xúc, bản năng (Con Voi) và hệ thống lý trí, có ý thức (Người Cưỡi).
 
@@ -919,7 +919,7 @@ Một ẩn dụ về hai hệ thống trong tâm trí: hệ thống cảm xúc, 
 
 → **Liên kết:** DYNAMICS (System 1 ↔ System 2), OPERATIONS (Decision Frameworks)
 
-#### **25. Narrative & Story** - Tường Thuật & Câu Chuyện
+#### **24. Narrative & Story** - Tường Thuật & Câu Chuyện
 
 Mô hình cho rằng con người là những sinh vật kể chuyện, sử dụng các câu chuyện để tạo ra ý nghĩa, cấu trúc kinh nghiệm và truyền đạt giá trị.
 
@@ -930,7 +930,7 @@ Mô hình cho rằng con người là những sinh vật kể chuyện, sử d�
 
 → **Liên kết:** CREATION (Narrative Crafting), INTEGRATION (Personal Integration)
 
-#### **26. Metaphor** - Ẩn Dụ
+#### **25. Metaphor** - Ẩn Dụ
 
 Mô hình hiểu và trải nghiệm một loại sự vật này thông qua một loại sự vật khác.
 
@@ -941,7 +941,7 @@ Mô hình hiểu và trải nghiệm một loại sự vật này thông qua m�
 
 → **Liên kết:** CREATION (Conceptual Blending), INTEGRATION (Knowledge Integration)
 
-#### **27. The Overton Window** - Cửa Sổ Overton
+#### **26. The Overton Window** - Cửa Sổ Overton
 
 Mô hình mô tả phạm vi các ý tưởng được công chúng chấp nhận trong một cuộc thảo luận.
 
@@ -952,7 +952,7 @@ Mô hình mô tả phạm vi các ý tưởng được công chúng chấp nhậ
 
 → **Liên kết:** DYNAMICS (Paradigm Shift), NAVIGATION (Strategic Communication)
 
-#### **28. Mimetic Theory** - Lý Thuyết Bắt Chước
+#### **27. Mimetic Theory** - Lý Thuyết Bắt Chước
 
 Mô hình cho rằng ham muốn của con người không phải là tự phát mà là bắt chước từ người khác, dẫn đến sự cạnh tranh và xung đột.
 
@@ -963,7 +963,7 @@ Mô hình cho rằng ham muốn của con người không phải là tự phát 
 
 → **Liên kết:** AMPLIFICATION (Viral Mechanics), DYNAMICS (System Dynamics)
 
-#### **29. Entropy (Second Law of Thermodynamics)** - Entropy
+#### **28. Entropy (Second Law of Thermodynamics)** - Entropy
 
 Nguyên lý cho rằng trong một hệ thống cô lập, xu hướng tự nhiên là đi từ trật tự sang hỗn loạn.
 
@@ -974,7 +974,7 @@ Nguyên lý cho rằng trong một hệ thống cô lập, xu hướng tự nhi�
 
 → **Liên kết:** DYNAMICS (System Dynamics), VALIDATION (Stress Testing)
 
-#### **30. Relativity** - Thuyết Tương Đối
+#### **29. Relativity** - Thuyết Tương Đối
 
 Nguyên lý cho rằng các phép đo về không gian và thời gian phụ thuộc vào hệ quy chiếu của người quan sát.
 
@@ -985,7 +985,7 @@ Nguyên lý cho rằng các phép đo về không gian và thời gian phụ thu
 
 → **Liên kết:** META-LAYER (Meta-Paradigm Thinking), VALIDATION (Perspective Triangulation)
 
-#### **31. Observer Effect - Hiệu Ứng Người Quan Sát [Định Luật Vật Lý]**
+#### **30. Observer Effect - Hiệu Ứng Người Quan Sát [Định Luật Vật Lý]**
 
 Nguyên lý phổ quát từ VẬT LÝ LƯỢNG TỬ: Hành động quan sát một hệ thống làm thay đổi trạng thái của hệ thống đó. Đây là ĐỊNH LUẬT TỰ NHIÊN cơ bản, không phải lỗi thí nghiệm hay thiên kiến con người.
 
@@ -1001,7 +1001,7 @@ Nguyên lý phổ quát từ VẬT LÝ LƯỢNG TỬ: Hành động quan sát m�
   • META LAYER #31 - Công cụ siêu nhận thức
 → **Ứng dụng:** DYNAMICS (Reflexivity), OPERATIONS (Experimental Design)
 
-#### **32. The Pareto Principle (80/20 Rule)** - Nguyên Lý Pareto
+#### **31. The Pareto Principle (80/20 Rule)** - Nguyên Lý Pareto
 
 Mô hình cho rằng đối với nhiều sự kiện, khoảng 80% kết quả đến từ 20% nguyên nhân.
 
@@ -1012,7 +1012,7 @@ Mô hình cho rằng đối với nhiều sự kiện, khoảng 80% kết quả 
 
 → **Liên kết:** AMPLIFICATION (Leverage), OPERATIONS (Prioritization)
 
-#### **33. Parkinson's Law** - Định Luật Parkinson [Universal Pattern]
+#### **32. Parkinson's Law** - Định Luật Parkinson [Universal Pattern]
 
 QUY LUẬT PHỔ QUÁT về mối quan hệ giữa thời gian và công việc: "Công việc sẽ mở rộng để lấp đầy thời gian có sẵn cho việc hoàn thành nó."
 
@@ -1025,7 +1025,7 @@ QUY LUẬT PHỔ QUÁT về mối quan hệ giữa thời gian và công việc:
 
 → **Liên kết:** OPERATIONS #38 (Parkinson's Law - ứng dụng thực hành), OPERATIONS (Constraint Analysis), CREATION (Constraint-Based Creativity)
 
-#### **34. Goodhart's Law** - Định Luật Goodhart [Nguyên Lý Phổ Quát]
+#### **33. Goodhart's Law** - Định Luật Goodhart [Nguyên Lý Phổ Quát]
 
 ĐỊNH LUẬT PHỔ QUÁT: "Khi một thước đo trở thành mục tiêu, nó không còn là một thước đo tốt nữa."
 
@@ -1043,7 +1043,7 @@ QUY LUẬT PHỔ QUÁT về mối quan hệ giữa thời gian và công việc:
   • McNamara Fallacy (chỉ tin vào số liệu định lượng)
 → **Ứng dụng thực tiễn:** VALIDATION #27 (thiết kế hệ thống đo lường)
 
-#### **35. The Medium is the Message** - Phương Tiện là Thông Điệp
+#### **34. The Medium is the Message** - Phương Tiện là Thông Điệp
 
 Mô hình cho rằng bản chất của một phương tiện truyền thông (cách nó hoạt động) định hình và kiểm soát quy mô và hình thức của các hành động và liên kết của con người.
 
@@ -1054,7 +1054,7 @@ Mô hình cho rằng bản chất của một phương tiện truyền thông (c
 
 → **Liên kết:** INTEGRATION (Systemic Integration), DYNAMICS (System Dynamics)
 
-#### **36. The Red Queen Effect** - Hiệu Ứng Nữ Hoàng Đỏ
+#### **35. The Red Queen Effect** - Hiệu Ứng Nữ Hoàng Đỏ
 
 Một mô hình tiến hóa trong đó các loài phải liên tục thích nghi và tiến hóa không chỉ để giành lợi thế, mà còn để đơn giản là tồn tại trước các đối thủ cũng đang tiến hóa.
 
@@ -1065,7 +1065,7 @@ Một mô hình tiến hóa trong đó các loài phải liên tục thích nghi
 
 → **Liên kết:** DYNAMICS (Evolution & Adaptation), NAVIGATION (Strategic Wayfinding)
 
-#### **37. Punctuated Equilibrium** - Cân Bằng Gián Đoạn [Quy Luật Tiến Hóa]
+#### **36. Punctuated Equilibrium** - Cân Bằng Gián Đoạn [Quy Luật Tiến Hóa]
 
 Mô hình tiến hóa phổ quát: hầu hết sự thay đổi xảy ra trong các giai đoạn
 bùng nổ ngắn, xen kẽ với các giai đoạn ổn định dài. Đây là QUY LUẬT TỰ NHIÊN
@@ -1085,7 +1085,7 @@ xuất hiện ở mọi hệ thống - từ sinh học, địa chất, đến x�
   • TRANSCENDENCE #16 (siêu việt hệ thống)
   • Liên quan: FOUNDATIONS #15 (Spiral Development - tiến hóa xoắn ốc)
 
-#### **39. The Dunning-Kruger Effect** - Hiệu Ứng Dunning-Kruger [Universal Pattern]
+#### **37. The Dunning-Kruger Effect** - Hiệu Ứng Dunning-Kruger [Universal Pattern]
 
 Một thiên kiến nhận thức PHỔ QUÁT trong đó những người có năng lực thấp ở một lĩnh vực có xu hướng ĐÁNH GIÁ QUÁ CAO năng lực của mình, trong khi những người có năng lực cao có xu hướng ĐÁNH GIÁ THẤP hơn một cách tương đối.
 
@@ -1135,7 +1135,7 @@ Một thiên kiến nhận thức PHỔ QUÁT trong đó những người có n�
 
 → **Công cụ ứng dụng:** DYNAMICS #61 (Dunning-Kruger Razor)
 
-#### **40. The Pygmalion Effect (Self-Fulfilling Prophecy)** - Hiệu Ứng Pygmalion
+#### **38. The Pygmalion Effect (Self-Fulfilling Prophecy)** - Hiệu Ứng Pygmalion
 
 Hiện tượng mà kỳ vọng cao hơn đối với một người dẫn đến sự cải thiện hiệu suất của người đó.
 
@@ -1146,7 +1146,7 @@ Hiện tượng mà kỳ vọng cao hơn đối với một người dẫn đế
 
 → **Liên kết:** AMPLIFICATION (Positive Feedback Loops), DYNAMICS (System Dynamics)
 
-#### **41. The Butterfly Effect** - Hiệu Ứng Cánh Bướm [Nguyên Lý Phổ Quát]
+#### **39. The Butterfly Effect** - Hiệu Ứng Cánh Bướm [Nguyên Lý Phổ Quát]
 
 Một nguyên lý toán học nền tảng của Chaos Theory: sự nhạy cảm cực độ với điều kiện ban đầu trong các hệ thống phi tuyến. Một thay đổi cực nhỏ ở một điểm có thể dẫn đến những khác biệt khổng lồ sau này.
 
@@ -1170,7 +1170,7 @@ Butterfly Effect KHÔNG có nghĩa "mọi thứ đều ảnh hưởng mọi th�
 
 → **Liên kết:** DYNAMICS (Chaos Theory - thành phần cốt lõi), AMPLIFICATION (Leverage Points), VALIDATION (Uncertainty Management), NAVIGATION (Risk Awareness), CREATION (Breakthrough Innovation)
 
-#### **42. The Cargo Cult** - Tín Ngưỡng Hàng Hóa
+#### **40. The Cargo Cult** - Tín Ngưỡng Hàng Hóa
 
 Việc bắt chước các hình thức bên ngoài của một quá trình thành công mà không hiểu các nguyên tắc cơ bản đằng sau nó.
 
@@ -1181,7 +1181,7 @@ Việc bắt chước các hình thức bên ngoài của một quá trình thà
 
 → **Liên kết:** OPERATIONS (Root Cause Analysis), VALIDATION (Falsification)
 
-#### **44. The Streetlight Effect - Hiệu Ứng Đèn Đường [Quy Luật Nhận Thức]**
+#### **41. The Streetlight Effect - Hiệu Ứng Đèn Đường [Quy Luật Nhận Thức]**
 
 QUY LUẬT phổ quát về hành vi tìm kiếm thông tin của con người - xu hướng tự nhiên tìm kiếm ở nơi THUẬN TIỆN nhất thay vì nơi CÓ NHIỀU THÔNG TIN nhất. Đây là một PATTERN cơ bản của nhận thức con người, giống như "con người tìm chìa khóa dưới ánh đèn đường không phải vì đánh rơi ở đó, mà vì đó là nơi sáng nhất."
 
@@ -1194,7 +1194,7 @@ QUY LUẬT phổ quát về hành vi tìm kiếm thông tin của con người -
 → **Xuất hiện ở domain khác:** VALIDATION #9 (áp dụng để tránh lỗi)
 → **Liên kết:** CREATION (Exploring the Unknown - phá vỡ pattern này)
 
-#### **45. The Boiling Frog - Con Ếch Luộc [Universal Pattern - Mẫu Hình Phổ Quát]**
+#### **42. The Boiling Frog - Con Ếch Luộc [Universal Pattern - Mẫu Hình Phổ Quát]**
 
 Một QUY LUẬT TÂM LÝ/HỆ THỐNG PHỔ QUÁT về việc con người và tổ chức
 có xu hướng không phản ứng với các mối đe dọa phát triển từ từ,
@@ -1217,7 +1217,7 @@ hiện tượng này.
 → **Ứng dụng thực hành:** VALIDATION #10 (công cụ phát hiện rủi ro)
 → **Ví dụ lịch sử:** Sự sụp đổ của Kodak, Nokia; Biến đổi khí hậu
 
-#### **48. The Procrustean Bed - Chiếc Giường của Procrustes [Anti-Pattern]**
+#### **43. The Procrustean Bed - Chiếc Giường của Procrustes [Anti-Pattern]**
 
 **NGUỒN GỐC:** Thần thoại Hy Lạp - Procrustes ép khách phải vừa với giường của hắn bằng cách kéo dài hoặc chặt chân họ.
 
@@ -1242,7 +1242,7 @@ hiện tượng này.
 
 ### **Các Mô Hình & Định Luật Bổ Sung**
 
-#### **50. As Above So Below** - Như Trên Như Dưới
+#### **44. As Above So Below** - Như Trên Như Dưới
 
 Nguyên lý Hermetic về sự tương ứng giữa các cấp độ thực tại.
 
@@ -1253,7 +1253,7 @@ Nguyên lý Hermetic về sự tương ứng giữa các cấp độ thực tạ
 
 → **Liên kết:** FOUNDATIONS (Fractal Thinking), INTEGRATION (Holographic Integration)
 
-#### **51. Kybalion Principles** - Nguyên Lý Kybalion
+#### **45. Kybalion Principles** - Nguyên Lý Kybalion
 
 Bảy nguyên lý Hermetic cơ bản: Mentalism, Correspondence, Vibration, Polarity, Rhythm, Cause & Effect, Gender.
 
@@ -1264,7 +1264,7 @@ Bảy nguyên lý Hermetic cơ bản: Mentalism, Correspondence, Vibration, Pola
 
 → **Liên kết:** FOUNDATIONS (Universal Principles), TRANSCENDENCE (Hermetic Wisdom)
 
-#### **52. Natural Selection Principle** - Nguyên Lý Chọn Lọc Tự Nhiên
+#### **46. Natural Selection Principle** - Nguyên Lý Chọn Lọc Tự Nhiên
 
 Cơ chế cốt lõi của tiến hóa sinh học.
 
@@ -1275,7 +1275,7 @@ Cơ chế cốt lõi của tiến hóa sinh học.
 
 → **Liên kết:** DYNAMICS (Evolution & Adaptation), FOUNDATIONS (Evolution & Selection)
 
-#### **53. Plate Tectonics Theory** - Lý Thuyết Kiến Tạo Mảng
+#### **47. Plate Tectonics Theory** - Lý Thuyết Kiến Tạo Mảng
 
 Lý thuyết về sự chuyển động của các mảng thạch quyển Trái Đất.
 
@@ -1286,7 +1286,7 @@ Lý thuyết về sự chuyển động của các mảng thạch quyển Trái 
 
 → **Liên kết:** DYNAMICS (System Dynamics), FOUNDATIONS (Natural Laws)
 
-#### **54. Stellar Nucleosynthesis** - Tổng Hợp Hạt Nhân Sao
+#### **48. Stellar Nucleosynthesis** - Tổng Hợp Hạt Nhân Sao
 
 Quá trình tạo ra các nguyên tố hóa học trong các ngôi sao.
 
@@ -1297,7 +1297,7 @@ Quá trình tạo ra các nguyên tố hóa học trong các ngôi sao.
 
 → **Liên kết:** FOUNDATIONS (Cosmology), CREATION (Emergence)
 
-#### **55. Sacred Geometry Base Principles** - Nguyên Lý Hình Học Thiêng Liêng
+#### **49. Sacred Geometry Base Principles** - Nguyên Lý Hình Học Thiêng Liêng
 
 Các tỷ lệ và hình dạng có ý nghĩa tâm linh và toán học.
 
@@ -1308,7 +1308,7 @@ Các tỷ lệ và hình dạng có ý nghĩa tâm linh và toán học.
 
 → **Liên kết:** CREATION (Design Principles), FOUNDATIONS (Form & Function)
 
-#### **56. Mandala Art** - Nghệ Thuật Mandala
+#### **50. Mandala Art** - Nghệ Thuật Mandala
 
 Các mẫu hình tròn đại diện cho vũ trụ và toàn thể.
 
@@ -1319,7 +1319,7 @@ Các mẫu hình tròn đại diện cho vũ trụ và toàn thể.
 
 → **Liên kết:** INTEGRATION (Systemic Integration), TRANSCENDENCE (Unity)
 
-#### **57. Islamic Patterns** - Họa Tiết Hồi Giáo
+#### **51. Islamic Patterns** - Họa Tiết Hồi Giáo
 
 Các mẫu hình lặp lại phức tạp trong nghệ thuật Hồi giáo.
 
@@ -1330,7 +1330,7 @@ Các mẫu hình lặp lại phức tạp trong nghệ thuật Hồi giáo.
 
 → **Liên kết:** CREATION (Pattern Breaking), FOUNDATIONS (Fractal Thinking)
 
-#### **58. Yantra Design** - Thiết Kế Yantra
+#### **52. Yantra Design** - Thiết Kế Yantra
 
 Biểu đồ hình học thiêng liêng trong truyền thống Hindu và Phật giáo.
 
@@ -1341,7 +1341,7 @@ Biểu đồ hình học thiêng liêng trong truyền thống Hindu và Phật 
 
 → **Liên kết:** TRANSCENDENCE (Sacred Symbols), CREATION (Design Thinking)
 
-#### **59. Fractal Art** - Nghệ Thuật Fractal
+#### **53. Fractal Art** - Nghệ Thuật Fractal
 
 Nghệ thuật dựa trên các mẫu hình tự lặp lại ở nhiều quy mô.
 
@@ -1352,7 +1352,7 @@ Nghệ thuật dựa trên các mẫu hình tự lặp lại ở nhiều quy mô
 
 → **Liên kết:** CREATION (Generative Art), FOUNDATIONS (Fractal Thinking)
 
-#### **60. Harmony & Counterpoint** - Hòa Âm & Đối Điểm
+#### **54. Harmony & Counterpoint** - Hòa Âm & Đối Điểm
 
 Các nguyên tắc về mối quan hệ âm thanh trong âm nhạc.
 
@@ -1363,7 +1363,7 @@ Các nguyên tắc về mối quan hệ âm thanh trong âm nhạc.
 
 → **Liên kết:** CREATION (Musical Composition), FOUNDATIONS (Resonance & Attunement)
 
-#### **61. Rhythm & Time** - Nhịp Điệu & Thời Gian
+#### **55. Rhythm & Time** - Nhịp Điệu & Thời Gian
 
 Tổ chức thời gian trong âm nhạc và tự nhiên.
 
@@ -1374,7 +1374,7 @@ Tổ chức thời gian trong âm nhạc và tự nhiên.
 
 → **Liên kết:** DYNAMICS (Rhythmic Patterns), FOUNDATIONS (Cycles & Rhythms)
 
-#### **62. Form & Structure** - Hình Thức & Cấu Trúc
+#### **56. Form & Structure** - Hình Thức & Cấu Trúc
 
 Tổ chức tổng thể của các tác phẩm nghệ thuật.
 
@@ -1385,7 +1385,7 @@ Tổ chức tổng thể của các tác phẩm nghệ thuật.
 
 → **Liên kết:** CREATION (Design Thinking), FOUNDATIONS (Form & Function)
 
-#### **63. Overtone Singing** - Hát Overtone
+#### **57. Overtone Singing** - Hát Overtone
 
 Kỹ thuật tạo ra nhiều âm thanh đồng thời.
 
@@ -1396,7 +1396,7 @@ Kỹ thuật tạo ra nhiều âm thanh đồng thời.
 
 → **Liên kết:** FOUNDATIONS (Resonance), CREATION (Sound Creation)
 
-#### **64. Color Theory & Composition** - Lý Thuyết Màu Sắc & Bố Cục
+#### **58. Color Theory & Composition** - Lý Thuyết Màu Sắc & Bố Cục
 
 Các nguyên tắc về màu sắc và tổ chức hình ảnh.
 
@@ -1407,7 +1407,7 @@ Các nguyên tắc về màu sắc và tổ chức hình ảnh.
 
 → **Liên kết:** CREATION (Visual Design), FOUNDATIONS (Harmony)
 
-#### **65. Classical Orders** - Trật Tự Cổ Điển
+#### **59. Classical Orders** - Trật Tự Cổ Điển
 
 Các hệ thống tỷ lệ trong kiến trúc cổ điển.
 
@@ -1418,7 +1418,7 @@ Các hệ thống tỷ lệ trong kiến trúc cổ điển.
 
 → **Liên kết:** CREATION (Architecture), FOUNDATIONS (Sacred Geometry)
 
-#### **66. Universal Grammar** - Ngữ Pháp Phổ Quát
+#### **60. Universal Grammar** - Ngữ Pháp Phổ Quát
 
 Lý thuyết về cấu trúc ngôn ngữ bẩm sinh.
 
@@ -1429,7 +1429,7 @@ Lý thuyết về cấu trúc ngôn ngữ bẩm sinh.
 
 → **Liên kết:** FOUNDATIONS (Language & Mind), OPERATIONS (Communication)
 
-#### **67. Archetype Activation** - Kích Hoạt Nguyên Mẫu
+#### **61. Archetype Activation** - Kích Hoạt Nguyên Mẫu
 
 Việc đánh thức các mẫu hình tâm lý phổ quát.
 
@@ -1440,7 +1440,7 @@ Việc đánh thức các mẫu hình tâm lý phổ quát.
 
 → **Liên kết:** CREATION (Narrative), TRANSCENDENCE (Archetypal Wisdom)
 
-#### **68. Universal Principles Mining** - Khai Thác Nguyên Lý Phổ Quát
+#### **62. Universal Principles Mining** - Khai Thác Nguyên Lý Phổ Quát
 
 Phương pháp tìm kiếm và trích xuất các quy luật cơ bản.
 
@@ -1451,7 +1451,7 @@ Phương pháp tìm kiếm và trích xuất các quy luật cơ bản.
 
 → **Liên kết:** [META] LAYER (Pattern Recognition), OPERATIONS (Discovery)
 
-#### **70. Holonomic Understanding** - Hiểu Biết Toàn Bộ
+#### **63. Holonomic Understanding** - Hiểu Biết Toàn Bộ
 
 Nhận thức về tính toàn vẹn và sự liên kết của mọi thứ.
 
@@ -1542,7 +1542,7 @@ Nguyên tắc đạo đức yêu cầu chỉ hành động theo những quy tắ
 
 → **Liên kết:** OPERATIONS (Reasoning Architectures), [META] LAYER (Axiomatic Systems)
 
-#### **9. Truthfulness** - Chân Thực
+#### **6. Truthfulness** - Chân Thực
 
 Giá trị về sự cam kết với việc nhìn nhận, đại diện và truyền đạt thực tại một cách chính xác nhất có thể, không bị bóp méo bởi mong muốn hay thiên kiến.
 
@@ -1557,7 +1557,7 @@ Giá trị về sự cam kết với việc nhìn nhận, đại diện và truy
 
 → **Liên kết:** VALIDATION (Reality Testing), [META] LAYER (Bias Awareness), FOUNDATIONS (Map-Territory Distinction)
 
-#### **10. Compassion** - Từ Bi
+#### **7. Compassion** - Từ Bi
 
 Giá trị kết hợp sự đồng cảm sâu sắc với động lực hành động để làm giảm bớt đau khổ và thúc đẩy sự thịnh vượng cho người khác.
 
@@ -1572,7 +1572,7 @@ Giá trị kết hợp sự đồng cảm sâu sắc với động lực hành �
 
 → **Liên kết:** INTEGRATION (Collaborative Intelligence), NAVIGATION (Guiding Principles), DYNAMICS (Emotional Intelligence)
 
-#### **11. Integrity** - Toàn Vẹn
+#### **8. Integrity** - Toàn Vẹn
 
 Giá trị về sự nhất quán, trọn vẹn và không bị chia cắt giữa các nguyên tắc, giá trị và hành động của một cá nhân hay hệ thống.
 
@@ -1587,7 +1587,7 @@ Giá trị về sự nhất quán, trọn vẹn và không bị chia cắt giữ
 
 → **Liên kết:** [META] LAYER (Self-Observation), INTEGRATION (System Coherence Building), OPERATIONS (Systematic Execution)
 
-#### **12. Humility** - Khiêm Tốn
+#### **9. Humility** - Khiêm Tốn
 
 Giá trị về việc có một nhận thức chính xác về các giới hạn, sự thiếu sót và vị trí của bản thân trong một tổng thể lớn hơn.
 
@@ -1602,7 +1602,7 @@ Giá trị về việc có một nhận thức chính xác về các giới hạ
 
 → **Liên kết:** OPERATIONS (Circle of Competence), VALIDATION (Feedback Processing), [META] LAYER (Meta-Cognition)
 
-#### **13. Courage** - Can Đảm
+#### **10. Courage** - Can Đảm
 
 Giá trị về khả năng đối mặt và hành động một cách hiệu quả bất chấp sự hiện diện của nỗi sợ hãi, sự không chắc chắn hoặc rủi ro.
 
@@ -1617,7 +1617,7 @@ Giá trị về khả năng đối mặt và hành động một cách hiệu qu
 
 → **Liên kết:** NAVIGATION (Risk Navigation), CREATION (Pattern Breaking), OPERATIONS (Decision Frameworks)
 
-#### **14. Justice** - Công Bằng
+#### **11. Justice** - Công Bằng
 
 Giá trị về cam kết đối với sự công bằng, bình đẳng và đối xử vô tư, đặc biệt là trong việc phân bổ nguồn lực và bảo vệ quyền lợi của các thành viên trong một hệ thống.
 
@@ -1633,7 +1633,7 @@ Giá trị về cam kết đối với sự công bằng, bình đẳng và đ�
 → **Liên kết:** INTEGRATION (Systemic Integration), AMPLIFICATION (Social Impact)
 → **Công cụ tư duy quan trọng:** EASTERN & WESTERN WISDOM #30 (The Veil of Ignorance - thought experiment của Rawls về công lý)
 
-#### **15. Wisdom** - Trí Tuệ
+#### **12. Wisdom** - Trí Tuệ
 
 Giá trị về khả năng tích hợp kiến thức, kinh nghiệm và sự thấu hiểu sâu sắc để đưa ra những phán đoán đúng đắn và hành động khôn ngoan.
 
@@ -1648,7 +1648,7 @@ Giá trị về khả năng tích hợp kiến thức, kinh nghiệm và sự th
 
 → **Liên kết:** [META] LAYER (Wisdom Synthesis), NAVIGATION (Strategic Wayfinding), TRANSCENDENCE (Wisdom Crystallization)
 
-#### **16. Responsibility** - Trách Nhiệm
+#### **13. Responsibility** - Trách Nhiệm
 
 Giá trị về việc chấp nhận và thực hiện nghĩa vụ của mình, đồng thời sở hữu các kết quả từ hành động và quyết định của bản thân.
 
@@ -1667,7 +1667,7 @@ Giá trị về việc chấp nhận và thực hiện nghĩa vụ của mình, 
 
 ### **Các Khung Đạo Đức Bổ Sung**
 
-#### **15. Virtue Ethics** - Đạo Đức Đức Hạnh
+#### **14. Virtue Ethics** - Đạo Đức Đức Hạnh
 
 Triết lý đạo đức tập trung vào tính cách và đức hạnh của người hành động.
 
@@ -1678,7 +1678,7 @@ Triết lý đạo đức tập trung vào tính cách và đức hạnh của n
 
 → **Liên kết:** FOUNDATIONS (Aristotelian Virtue Ethics), INTEGRATION (Character Building)
 
-#### **16. Deontology** - Thuyết Nghĩa Vụ
+#### **15. Deontology** - Thuyết Nghĩa Vụ
 
 Đạo đức dựa trên nghĩa vụ và quy tắc.
 
@@ -1689,7 +1689,7 @@ Triết lý đạo đức tập trung vào tính cách và đức hạnh của n
 
 → **Liên kết:** FOUNDATIONS (The Categorical Imperative), OPERATIONS (Decision Frameworks)
 
-#### **17. Natural Law** - Luật Tự Nhiên
+#### **16. Natural Law** - Luật Tự Nhiên
 
 Đạo đức dựa trên bản chất con người và trật tự tự nhiên.
 
@@ -1700,7 +1700,7 @@ Triết lý đạo đức tập trung vào tính cách và đức hạnh của n
 
 → **Liên kết:** FOUNDATIONS (Universal Principles), [META] LAYER (Ethical Frameworks)
 
-#### **18. Legal Philosophy** - Triết Học Pháp Luật
+#### **17. Legal Philosophy** - Triết Học Pháp Luật
 
 Nghiên cứu về bản chất của luật pháp và công lý.
 
@@ -1711,7 +1711,7 @@ Nghiên cứu về bản chất của luật pháp và công lý.
 
 → **Liên kết:** INTEGRATION (Social Systems), OPERATIONS (Legal Reasoning)
 
-#### **19. Theory of Justice & Rights** - Lý Thuyết Công Lý & Quyền
+#### **18. Theory of Justice & Rights** - Lý Thuyết Công Lý & Quyền
 
 Khung lý thuyết về công bằng và quyền cơ bản.
 
@@ -1722,7 +1722,7 @@ Khung lý thuyết về công bằng và quyền cơ bản.
 
 → **Liên kết:** EASTERN & WESTERN WISDOM #30 (The Veil of Ignorance), INTEGRATION (Systemic Integration)
 
-#### **20. Phronesis** - Trí Tuệ Thực Tiễn
+#### **19. Phronesis** - Trí Tuệ Thực Tiễn
 
 Khả năng phán đoán thực tiễn đúng đắn trong các tình huống cụ thể.
 
@@ -1733,7 +1733,7 @@ Khả năng phán đoán thực tiễn đúng đắn trong các tình huống c�
 
 → **Liên kết:** OPERATIONS (Decision Frameworks), FOUNDATIONS (Aristotelian Virtue Ethics)
 
-#### **21. Character Strengths Foundation** - Nền Tảng Điểm Mạnh Tính Cách
+#### **20. Character Strengths Foundation** - Nền Tảng Điểm Mạnh Tính Cách
 
 Khung tâm lý học tích cực về các đức hạnh phổ quát.
 
@@ -1744,7 +1744,7 @@ Khung tâm lý học tích cực về các đức hạnh phổ quát.
 
 → **Liên kết:** INTEGRATION (Personal Integration), DYNAMICS (Character Development)
 
-#### **22. Greek Tragedy** - Bi Kịch Hy Lạp
+#### **21. Greek Tragedy** - Bi Kịch Hy Lạp
 
 Hình thức nghệ thuật khám phá các vấn đề đạo đức sâu sắc.
 
@@ -1755,7 +1755,7 @@ Hình thức nghệ thuật khám phá các vấn đề đạo đức sâu sắc
 
 → **Liên kết:** CREATION (Narrative), INTEGRATION (Moral Education)
 
-#### **23. Shakespeare Drama** - Kịch Shakespeare
+#### **22. Shakespeare Drama** - Kịch Shakespeare
 
 Khám phá bản chất con người qua nghệ thuật kịch.
 
@@ -1766,7 +1766,7 @@ Khám phá bản chất con người qua nghệ thuật kịch.
 
 → **Liên kết:** CREATION (Narrative Crafting), INTEGRATION (Human Understanding)
 
-#### **24. Wisdom Literature** - Văn Học Trí Tuệ
+#### **23. Wisdom Literature** - Văn Học Trí Tuệ
 
 Các tác phẩm truyền đạt trí tuệ sống và giá trị.
 
@@ -1777,7 +1777,7 @@ Các tác phẩm truyền đạt trí tuệ sống và giá trị.
 
 → **Liên kết:** FOUNDATIONS (Wisdom Traditions), INTEGRATION (Knowledge Transmission)
 
-#### **25. Epic Poetry** - Thơ Sử Thi
+#### **24. Epic Poetry** - Thơ Sử Thi
 
 Các tác phẩm kể về anh hùng và giá trị văn hóa.
 
@@ -1788,7 +1788,7 @@ Các tác phẩm kể về anh hùng và giá trị văn hóa.
 
 → **Liên kết:** CREATION (Narrative), AMPLIFICATION (Cultural Transmission)
 
-#### **26. Sacred Foods** - Thực Phẩm Thiêng Liêng
+#### **25. Sacred Foods** - Thực Phẩm Thiêng Liêng
 
 Thực phẩm có ý nghĩa tâm linh và nghi lễ.
 
@@ -1799,7 +1799,7 @@ Thực phẩm có ý nghĩa tâm linh và nghi lễ.
 
 → **Liên kết:** INTEGRATION (Ritual Practice), FOUNDATIONS (Sacred Practices)
 
-#### **27. Medicinal Cooking** - Nấu Ăn Y Học
+#### **26. Medicinal Cooking** - Nấu Ăn Y Học
 
 Nghệ thuật nấu ăn với mục đích chữa bệnh.
 
@@ -2971,7 +2971,7 @@ Phục hồi tri thức cổ đại đã mất.
 
 → **Liên kết:** FOUNDATIONS (Wisdom Traditions), [META] LAYER (Historical Understanding)
 
-#### **31. Anti-Knowledge Investigation** - Nghiên Cứu Phản-Tri Thức
+#### **30. Anti-Knowledge Investigation** - Nghiên Cứu Phản-Tri Thức
 
 Khám phá giới hạn và điều chúng ta không biết.
 
@@ -2984,7 +2984,7 @@ Khám phá giới hạn và điều chúng ta không biết.
 
 ### **Nhóm Integration & Wisdom Research - Nghiên cứu hội nhập và trí tuệ**
 
-#### **34. Wisdom Synthesis** - Tổng Hợp Trí Tuệ [Kho Chứa Trí Tuệ]
+#### **31. Wisdom Synthesis** - Tổng Hợp Trí Tuệ [Kho Chứa Trí Tuệ]
 
 Tập hợp và bảo tồn các NGUỒN TRÍ TUỆ cốt lõi từ các truyền thống đa dạng trên khắp thế giới. Đây là KHO CHỨA nội dung - các nguyên lý, giá trị và hiểu biết đã được thời gian kiểm chứng, sẵn sàng để được tổng hợp.
 
@@ -2995,7 +2995,7 @@ Tập hợp và bảo tồn các NGUỒN TRÍ TUỆ cốt lõi từ các truyề
 
 → **Liên kết:** CHỨC NĂNG 4 (Eastern & Western Wisdom - nguồn gốc), INTEGRATION (Knowledge Synthesis - được tích hợp), được tổng hợp bởi [META] LAYER #19 (Wisdom Synthesis - meta-framework), được áp dụng qua TRANSCENDENCE #5 (Wisdom Crystallization)
 
-#### **35. Transcendent Wisdom** - Trí Tuệ Siêu Việt
+#### **32. Transcendent Wisdom** - Trí Tuệ Siêu Việt
 
 Trí tuệ vượt qua các giới hạn thông thường.
 
@@ -3006,7 +3006,7 @@ Trí tuệ vượt qua các giới hạn thông thường.
 
 → **Liên kết:** TRANSCENDENCE (Ultimate Wisdom), FOUNDATIONS #33 (The Perennial Philosophy - nền tảng học thuật)
 
-#### **36. Swarm Intelligence** - Trí Tuệ Bầy Đàn
+#### **33. Swarm Intelligence** - Trí Tuệ Bầy Đàn
 
 Hiện tượng trí thông minh tập thể xuất hiện từ hành vi bầy đàn trong tự nhiên - các cá thể đơn giản tạo ra hành vi phức tạp ở cấp độ nhóm mà không cần chỉ huy trung tâm. Đây là NGUYÊN LÝ TỰ NHIÊN về collective intelligence.
 
@@ -3019,7 +3019,7 @@ Hiện tượng trí thông minh tập thể xuất hiện từ hành vi bầy �
 → **Ứng dụng con người:** INTEGRATION #21 (Collective Wisdom)
 → **Khuếch đại:** AMPLIFICATION (Swarm Intelligence Integration)
 
-#### **37. Wisdom Crystallization** - Kết Tinh Trí Tuệ
+#### **34. Wisdom Crystallization** - Kết Tinh Trí Tuệ
 
 Chưng cất trí tuệ thành bản chất.
 
@@ -3030,7 +3030,7 @@ Chưng cất trí tuệ thành bản chất.
 
 → **Liên kết:** INTEGRATION (Essence), FOUNDATIONS (Core Principles)
 
-#### **38. Classical Text Study Methods** - Phương Pháp Nghiên Cứu Kinh Điển
+#### **35. Classical Text Study Methods** - Phương Pháp Nghiên Cứu Kinh Điển
 
 Các kỹ thuật nghiên cứu văn bản cổ.
 
@@ -3041,7 +3041,7 @@ Các kỹ thuật nghiên cứu văn bản cổ.
 
 → **Liên kết:** OPERATIONS (Textual Analysis), FOUNDATIONS (Wisdom Traditions)
 
-#### **39. Gnosis** - Tri Giác [Nhận Thức Luận]
+#### **36. Gnosis** - Tri Giác [Nhận Thức Luận]
 
 Một con đường NHẬN THỨC đặc biệt trong triết học và tâm linh - tri thức trực tiếp về thần tính không qua trung gian của lý trí, cảm giác hay khái niệm. Đây là NGUYÊN LÝ về một hình thức biết khác với episteme (tri thức lý luận).
 
@@ -3054,7 +3054,7 @@ Một con đường NHẬN THỨC đặc biệt trong triết học và tâm lin
 → **Trải nghiệm tại:** TRANSCENDENCE #4 (Gnosis như trải nghiệm huyền bí)
 → **Nhận thức về:** META LAYER #24 (hiểu về bản chất tri thức trực tiếp)
 
-#### **40. Elder Wisdom Cultivation** - Nuôi Dưỡng Trí Tuệ Người Lớn Tuổi
+#### **37. Elder Wisdom Cultivation** - Nuôi Dưỡng Trí Tuệ Người Lớn Tuổi
 
 Phát triển và truyền đạt trí tuệ qua tuổi tác.
 
@@ -3067,7 +3067,7 @@ Phát triển và truyền đạt trí tuệ qua tuổi tác.
 
 ### **Nhóm Sacred Arts & Expression - Nghệ thuật thiêng liêng và biểu hiện**
 
-#### **41. Sound Creation & Sacred Chanting** - Sáng Tạo Âm Thanh & Tụng Niệm
+#### **38. Sound Creation & Sacred Chanting** - Sáng Tạo Âm Thanh & Tụng Niệm
 
 Sử dụng âm thanh cho mục đích tâm linh.
 
@@ -3078,7 +3078,7 @@ Sử dụng âm thanh cho mục đích tâm linh.
 
 → **Liên kết:** TRANSCENDENCE (Sacred Practice), FOUNDATIONS (Resonance)
 
-#### **43. Mantra Composition** - Sáng Tác Mantra
+#### **39. Mantra Composition** - Sáng Tác Mantra
 
 NGUYÊN LÝ và NGHỆ THUẬT tạo ra các công thức âm thanh thiêng liêng có sức
 mạnh biến đổi ý thức. Kết hợp trí tuệ cổ đại về rung động, sự lặp lại
@@ -3130,7 +3130,7 @@ và cộng hưởng với kỹ thuật sáng tác âm nhạc hiện đại.
   - Vibrational medicine
   - Psychoacoustics
 
-#### **44. Sacred Architecture** - Kiến Trúc Thiêng Liêng
+#### **40. Sacred Architecture** - Kiến Trúc Thiêng Liêng
 
 Thiết kế không gian tâm linh.
 
@@ -3141,7 +3141,7 @@ Thiết kế không gian tâm linh.
 
 → **Liên kết:** CREATION (Architecture), FOUNDATIONS (Sacred Geometry)
 
-#### **45. Mythology** - Thần Thoại
+#### **41. Mythology** - Thần Thoại
 
 Các câu chuyện thiêng liêng và nguyên mẫu.
 
@@ -3152,7 +3152,7 @@ Các câu chuyện thiêng liêng và nguyên mẫu.
 
 → **Liên kết:** CREATION (Narrative), INTEGRATION (Cultural Wisdom)
 
-#### **46. Storytelling Art** - Nghệ Thuật Kể Chuyện
+#### **42. Storytelling Art** - Nghệ Thuật Kể Chuyện
 
 Nghệ thuật truyền đạt qua câu chuyện.
 
@@ -3163,7 +3163,7 @@ Nghệ thuật truyền đạt qua câu chuyện.
 
 → **Liên kết:** INTEGRATION (Knowledge Transmission), CREATION (Narrative Craft)
 
-#### **47. Bardic Arts** - Nghệ Thuật Thi Nhân
+#### **43. Bardic Arts** - Nghệ Thuật Thi Nhân
 
 Truyền thống thi ca và ký ức.
 
@@ -3176,7 +3176,7 @@ Truyền thống thi ca và ký ức.
 
 ### **Nhóm Mystical & Transformative Practices - Thực hành thần bí và biến đổi**
 
-#### **48. Via Mystica** - Con Đường Huyền Bí
+#### **44. Via Mystica** - Con Đường Huyền Bí
 
 Con đường trực tiếp đến trải nghiệm thần tính.
 
@@ -3187,7 +3187,7 @@ Con đường trực tiếp đến trải nghiệm thần tính.
 
 → **Liên kết:** TRANSCENDENCE (Mystical Path), FOUNDATIONS (Gnosis)
 
-#### **49. Dark Night Wisdom** - Trí Tuệ Đêm Tối
+#### **45. Dark Night Wisdom** - Trí Tuệ Đêm Tối
 
 Trí tuệ từ khủng hoảng và mất mát.
 
@@ -3198,7 +3198,7 @@ Trí tuệ từ khủng hoảng và mất mát.
 
 → **Liên kết:** DYNAMICS (Transformation), TRANSCENDENCE (Spiritual Crisis)
 
-#### **50. Illumination Principle** - Nguyên Lý Chiếu Sáng
+#### **46. Illumination Principle** - Nguyên Lý Chiếu Sáng
 
 Sự giác ngộ đột ngột.
 
@@ -3209,7 +3209,7 @@ Sự giác ngộ đột ngột.
 
 → **Liên kết:** TRANSCENDENCE (Awakening), CREATION (Breakthrough)
 
-#### **51. Akashic Wisdom** - Trí Tuệ Akashic
+#### **47. Akashic Wisdom** - Trí Tuệ Akashic
 
 Tri thức từ "hồ sơ vũ trụ".
 
@@ -3220,7 +3220,7 @@ Tri thức từ "hồ sơ vũ trụ".
 
 → **Liên kết:** TRANSCENDENCE (Universal Knowledge), [META] LAYER (Collective Unconscious)
 
-#### **52. Nature of Beauty** - Bản Chất Vẻ Đẹp
+#### **48. Nature of Beauty** - Bản Chất Vẻ Đẹp
 
 Triết lý về thẩm mỹ.
 
@@ -3231,7 +3231,7 @@ Triết lý về thẩm mỹ.
 
 → **Liên kết:** CREATION (Aesthetics), TRANSCENDENCE (Beauty as Truth)
 
-#### **53. Sublime Experience** - Trải Nghiệm Hùng Vĩ
+#### **49. Sublime Experience** - Trải Nghiệm Hùng Vĩ
 
 Kinh nghiệm vượt khỏi giới hạn thông thường.
 
@@ -3244,7 +3244,7 @@ Kinh nghiệm vượt khỏi giới hạn thông thường.
 
 ### **Nhóm Physical & Performance Arts - Nghệ thuật Thể chất & Biểu diễn**
 
-#### **54. Acrobatics** - Nhào Lộn
+#### **50. Acrobatics** - Nhào Lộn
 
 Nghệ thuật cơ thể và cân bằng.
 
@@ -3255,7 +3255,7 @@ Nghệ thuật cơ thể và cân bằng.
 
 → **Liên kết:** OPERATIONS (Physical Practice), DYNAMICS (Body Mastery)
 
-#### **55. Juggling** - Tung Hứng
+#### **51. Juggling** - Tung Hứng
 
 Nghệ thuật phối hợp và nhịp điệu.
 
@@ -3266,7 +3266,7 @@ Nghệ thuật phối hợp và nhịp điệu.
 
 → **Liên kết:** OPERATIONS (Skill Development), DYNAMICS (Flow)
 
-#### **56. Clowning** - Hề
+#### **52. Clowning** - Hề
 
 Nghệ thuật hài hước và trí tuệ.
 
@@ -3853,7 +3853,7 @@ Nguyên lý một hệ thống trở nên mạnh mẽ hơn khi tiếp xúc với
 
 → **Liên kết:** VALIDATION (Stress Testing), AMPLIFICATION (Catalysts)
 
-#### **7. Order ↔ Chaos Dynamics** - Động Lực Trật Tự ↔ Hỗn Loạn
+#### **6. Order ↔ Chaos Dynamics** - Động Lực Trật Tự ↔ Hỗn Loạn
 
 Sự tương tác biện chứng giữa các lực lượng tạo ra cấu trúc và các lực lượng tạo ra sự ngẫu nhiên.
 
@@ -3864,7 +3864,7 @@ Sự tương tác biện chứng giữa các lực lượng tạo ra cấu trúc
 
 → **Liên kết:** CREATION (Edge of Chaos), TRANSCENDENCE (Paradox Mastery)
 
-#### **8. Ego Death & Rebirth** - Cái Chết & Tái Sinh của Cái Tôi
+#### **7. Ego Death & Rebirth** - Cái Chết & Tái Sinh của Cái Tôi
 
 Quá trình chuyển hóa tâm lý sâu sắc, trong đó cấu trúc nhận dạng cũ tan rã để nhường chỗ cho ý thức rộng lớn hơn.
 
@@ -3875,7 +3875,7 @@ Quá trình chuyển hóa tâm lý sâu sắc, trong đó cấu trúc nhận d�
 
 → **Liên kết:** TRANSCENDENCE (Unity Consciousness), INTEGRATION (Personal Integration)
 
-#### **9. Crisis & Breakthrough** - Khủng Hoảng & Đột Phá
+#### **8. Crisis & Breakthrough** - Khủng Hoảng & Đột Phá
 
 Mô hình trong đó các giai đoạn khủng hoảng hoặc mâu thuẫn sâu sắc thường dẫn đến những đột phá quan trọng.
 
@@ -3886,13 +3886,13 @@ Mô hình trong đó các giai đoạn khủng hoảng hoặc mâu thuẫn sâu 
 
 → **Liên kết:** VALIDATION (Stress Testing), CREATION (Breakthrough Innovation)
 
-#### **10. Oscillation & Pulsation** → [XEM #27] - Reference Stub
+#### **9. Oscillation & Pulsation** → [XEM #27] - Reference Stub
 
 **Khái niệm này đã được GỘP vào #27 (System Evolution Patterns)** để tránh trùng lặp và tăng tính mạch lạc.
 
 → **Xem chi tiết tại:** DYNAMICS #27 (Oscillation & Pulsation - Mẫu Hình Chuyển Động)
 
-#### **11. Disruptive Innovation Dynamics** - Động Lực Đổi Mới Đột Phá
+#### **10. Disruptive Innovation Dynamics** - Động Lực Đổi Mới Đột Phá
 
 Quá trình các công nghệ hoặc mô hình kinh doanh mới phá vỡ thị trường hiện tại và thay thế các đối thủ đã có.
 
@@ -3903,7 +3903,7 @@ Quá trình các công nghệ hoặc mô hình kinh doanh mới phá vỡ thị 
 
 → **Liên kết:** CREATION (Disruptive Innovation), NAVIGATION (Strategic Wayfinding)
 
-#### **12. Growth & Decay Cycles** - Chu Kỳ Tăng Trưởng & Suy Thoái
+#### **11. Growth & Decay Cycles** - Chu Kỳ Tăng Trưởng & Suy Thoái
 
 Mô thức tự nhiên của các hệ thống trải qua sinh ra, phát triển, trưởng thành, suy tàn và tái sinh.
 
@@ -3914,7 +3914,7 @@ Mô thức tự nhiên của các hệ thống trải qua sinh ra, phát triển
 
 → **Liên kết:** FOUNDATIONS (Cycles & Rhythms), NAVIGATION (Lifecycle Awareness)
 
-#### **13. Unfolding (Entelechy)** - Sự Mở Ra
+#### **12. Unfolding (Entelechy)** - Sự Mở Ra
 
 Quá trình một hệ thống hiện thực hóa tiềm năng bẩm sinh của nó.
 
@@ -3925,7 +3925,7 @@ Quá trình một hệ thống hiện thực hóa tiềm năng bẩm sinh của 
 
 → **Liên kết:** INTEGRATION (Personal Integration), FOUNDATIONS (Core Principles)
 
-#### **14. Kairos & Chronos** - Thời Cơ & Thời Gian Tuyến Tính
+#### **13. Kairos & Chronos** - Thời Cơ & Thời Gian Tuyến Tính
 
 Sự tương tác giữa hai loại thời gian: Chronos (thời gian tuần tự) và Kairos (thời điểm thích hợp).
 
@@ -3936,7 +3936,7 @@ Sự tương tác giữa hai loại thời gian: Chronos (thời gian tuần t�
 
 → **Liên kết:** NAVIGATION (Timing Wisdom), [META] LAYER (Meta-Time)
 
-#### **15. Apoptosis & Regeneration** - Chết Theo Chương Trình & Tái Tạo
+#### **14. Apoptosis & Regeneration** - Chết Theo Chương Trình & Tái Tạo
 
 Động lực sinh học của việc loại bỏ các bộ phận cũ một cách có trật tự và sự tái tạo mới.
 
@@ -3947,7 +3947,7 @@ Sự tương tác giữa hai loại thời gian: Chronos (thời gian tuần t�
 
 → **Liên kết:** FOUNDATIONS (Via Negativa), INTEGRATION (Living Systems Integration)
 
-#### **16. Punctuated Equilibrium** - Cân Bằng Ngắt Quãng [Động Lực Chuyển Đổi]
+#### **15. Punctuated Equilibrium** - Cân Bằng Ngắt Quãng [Động Lực Chuyển Đổi]
 
 Mô hình chuyển đổi thực tế: các giai đoạn ổn định dài bị ngắt quãng bởi
 những giai đoạn thay đổi nhanh chóng. Khác với nguyên lý nền tảng ở FOUNDATIONS,
@@ -3968,7 +3968,7 @@ những giai đoạn thay đổi nhanh chóng. Khác với nguyên lý nền t�
 → **Siêu việt hóa:** TRANSCENDENCE #16 (biến thái hệ thống)
 → **So sánh:** DYNAMICS #17 (S-Curve Dynamics - tăng trưởng liên tục)
 
-#### **17. S-Curve Dynamics** - Động Lực Đường Cong S [Quy Luật Chuyển Đổi Tự Nhiên]
+#### **16. S-Curve Dynamics** - Động Lực Đường Cong S [Quy Luật Chuyển Đổi Tự Nhiên]
 
 Quy luật phổ quát mô tả sự tăng trưởng theo thời gian của MỌI HỆ THỐNG: bắt đầu chậm, tăng tốc theo cấp số nhân, rồi bão hòa và chuyển pha. Đây là ĐỘNG LỰC TỰ NHIÊN xuất hiện ở sinh học, công nghệ, tâm lý, xã hội.
 
@@ -3981,7 +3981,7 @@ Quy luật phổ quát mô tả sự tăng trưởng theo thời gian của MỌ
 → **Ứng dụng thực tế:** AMPLIFICATION #3 (S-Curves & Technology Adoption)
 → **Khái niệm liên quan:** DYNAMICS #12 (Growth & Decay Cycles - chu kỳ đầy đủ), FOUNDATIONS #6 (Cycles & Rhythms - nguyên lý chu kỳ), DYNAMICS #16 (Punctuated Equilibrium - chuyển đổi ngắt quãng)
 
-#### **18. Dialectical Process** - Quá Trình Biện Chứng
+#### **17. Dialectical Process** - Quá Trình Biện Chứng
 
 Quá trình phát triển thông qua mâu thuẫn và tổng hợp: luận đề → phản đề → hợp đề.
 
@@ -3993,7 +3993,7 @@ Quá trình phát triển thông qua mâu thuẫn và tổng hợp: luận đề
 
 → **Liên kết:** TRANSCENDENCE (Paradox Resolution), INTEGRATION (Synthesis)
 
-#### **19. Liminal Transition** - Chuyển Tiếp Ngưỡng Cửa
+#### **18. Liminal Transition** - Chuyển Tiếp Ngưỡng Cửa
 
 Giai đoạn trung gian trong một quá trình chuyển đổi, nơi bản sắc cũ đã tan rã nhưng bản sắc mới chưa hình thành.
 
@@ -4004,7 +4004,7 @@ Giai đoạn trung gian trong một quá trình chuyển đổi, nơi bản sắ
 
 → **Liên kết:** TRANSCENDENCE (Threshold Crossing), INTEGRATION (Identity Integration)
 
-#### **20. Alchemical Transformation** - Chuyển Hóa Giả Kim
+#### **19. Alchemical Transformation** - Chuyển Hóa Giả Kim
 
 Phép ẩn dụ của giả kim thuật về sự chuyển hóa từ "kim loại hèn" thành "vàng", từ trạng thái thấp kém đến hoàn thiện.
 
@@ -4015,7 +4015,7 @@ Phép ẩn dụ của giả kim thuật về sự chuyển hóa từ "kim loại
 
 → **Liên kết:** TRANSCENDENCE (Inner Alchemy), INTEGRATION (Wholeness)
 
-#### **21. Punctuation Dynamics** - Động Lực Dấu Chấm
+#### **20. Punctuation Dynamics** - Động Lực Dấu Chấm
 
 Sự xen kẽ giữa các giai đoạn ổn định và các khoảnh khắc biến đổi mạnh mẽ.
 
@@ -4026,7 +4026,7 @@ Sự xen kẽ giữa các giai đoạn ổn định và các khoảnh khắc bi�
 
 → **Liên kết:** CREATION (Breakthrough Moments), VALIDATION (Change Detection)
 
-#### **22. Morphogenesis** - Hình Thái Phát Sinh
+#### **21. Morphogenesis** - Hình Thái Phát Sinh
 
 Quá trình một hệ thống phát triển hình dạng và cấu trúc của nó, bị chi phối bởi các trường thông tin hoặc mẫu hình.
 
@@ -4037,7 +4037,7 @@ Quá trình một hệ thống phát triển hình dạng và cấu trúc của 
 
 → **Liên kết:** CREATION (Form Generation), INTEGRATION (Structure Development)
 
-#### **23. Threshold Crossing** - Vượt Qua Ngưỡng
+#### **22. Threshold Crossing** - Vượt Qua Ngưỡng
 
 Khoảnh khắc vượt qua một ranh giới quan trọng, dẫn đến sự thay đổi không thể đảo ngược.
 
@@ -4048,7 +4048,7 @@ Khoảnh khắc vượt qua một ranh giới quan trọng, dẫn đến sự th
 
 → **Liên kết:** NAVIGATION (Strategic Commitment), TRANSCENDENCE (Paradigm Leap)
 
-#### **24. Catalytic Transformation** - Chuyển Hóa Xúc Tác
+#### **23. Catalytic Transformation** - Chuyển Hóa Xúc Tác
 
 Quá trình một yếu tố nhỏ (chất xúc tác) tạo ra sự thay đổi lớn mà bản thân nó không bị thay đổi.
 
@@ -4059,7 +4059,7 @@ Quá trình một yếu tố nhỏ (chất xúc tác) tạo ra sự thay đổi 
 
 → **Liên kết:** AMPLIFICATION (Catalysts), OPERATIONS (Leverage Points)
 
-#### **25. Maturation & Ripening** - Chín Muồi & Hoàn Thiện
+#### **24. Maturation & Ripening** - Chín Muồi & Hoàn Thiện
 
 Quá trình tự nhiên của sự phát triển đến trạng thái hoàn thiện, không thể vội vàng.
 
@@ -4070,7 +4070,7 @@ Quá trình tự nhiên của sự phát triển đến trạng thái hoàn thi�
 
 → **Liên kết:** NAVIGATION (Patience & Timing), VALIDATION (Readiness Assessment)
 
-#### **26. Quantum Leap** - Bước Nhảy Lượng Tử
+#### **25. Quantum Leap** - Bước Nhảy Lượng Tử
 
 Sự thay đổi đột ngột và gián đoạn từ một trạng thái sang trạng thái khác mà không đi qua các trạng thái trung gian.
 
@@ -4081,7 +4081,7 @@ Sự thay đổi đột ngột và gián đoạn từ một trạng thái sang t
 
 → **Liên kết:** CREATION (Radical Innovation), TRANSCENDENCE (Quantum Consciousness)
 
-#### **27. Incubation & Emergence** - Ấp Ủ & Đột Sinh
+#### **26. Incubation & Emergence** - Ấp Ủ & Đột Sinh
 
 Giai đoạn "ấp ủ" im lặng trước khi cái mới đột ngột xuất hiện.
 
@@ -4092,7 +4092,7 @@ Giai đoạn "ấp ủ" im lặng trước khi cái mới đột ngột xuất h
 
 → **Liên kết:** CREATION (Incubation Process), VALIDATION (Timing Readiness)
 
-#### **28. Dissolution & Rebirth** - Hòa Tan & Tái Sinh
+#### **27. Dissolution & Rebirth** - Hòa Tan & Tái Sinh
 
 Chu kỳ các cấu trúc cũ hòa tan để giải phóng năng lượng và nguyên liệu cho sự tái sinh.
 
@@ -4103,7 +4103,7 @@ Chu kỳ các cấu trúc cũ hòa tan để giải phóng năng lượng và ng
 
 → **Liên kết:** TRANSCENDENCE (Death & Rebirth), CREATION (Radical Renewal)
 
-#### **29. Gradual vs. Punctuated Change** - Thay Đổi Tăng Dần vs. Gián Đoạn
+#### **28. Gradual vs. Punctuated Change** - Thay Đổi Tăng Dần vs. Gián Đoạn
 
 Sự phân biệt giữa thay đổi liên tục từ từ và thay đổi gián đoạn đột ngột.
 
@@ -4114,7 +4114,7 @@ Sự phân biệt giữa thay đổi liên tục từ từ và thay đổi gián
 
 → **Liên kết:** NAVIGATION (Change Strategy), OPERATIONS (Implementation Approach)
 
-#### **30. Transmutation** - Biến Hóa
+#### **29. Transmutation** - Biến Hóa
 
 Sự thay đổi bản chất cơ bản của một thứ, chuyển từ một dạng sang dạng khác hoàn toàn.
 
@@ -4125,7 +4125,7 @@ Sự thay đổi bản chất cơ bản của một thứ, chuyển từ một d
 
 → **Liên kết:** TRANSCENDENCE (Fundamental Change), CREATION (Radical Innovation)
 
-#### **31. Molting & Shedding** - Lột Xác & Rụng Lớp
+#### **30. Molting & Shedding** - Lột Xác & Rụng Lớp
 
 Quá trình loại bỏ lớp ngoài cũ để lộ ra lớp mới bên dưới, cho phép tăng trưởng.
 
@@ -4136,7 +4136,7 @@ Quá trình loại bỏ lớp ngoài cũ để lộ ra lớp mới bên dưới,
 
 → **Liên kết:** TRANSCENDENCE (Shedding Identities), VALIDATION (Growth Indicators)
 
-#### **32. Spiral Dynamics** - Động Lực Xoắn Ốc
+#### **31. Spiral Dynamics** - Động Lực Xoắn Ốc
 
 Mô hình phát triển theo hình xoắn ốc qua các cấp độ ngày càng phức tạp và tích hợp.
 
@@ -4151,7 +4151,7 @@ Mô hình phát triển theo hình xoắn ốc qua các cấp độ ngày càng 
 
 → **Liên kết:** TRANSCENDENCE (Vertical Growth), INTEGRATION (Developmental Lines), INTEGRATION (Cultural Patterns)
 
-#### **33. Hysteresis in Change** - Trễ Hồi Trong Thay Đổi
+#### **32. Hysteresis in Change** - Trễ Hồi Trong Thay Đổi
 
 Sự chậm trễ hoặc kháng cự trong việc thay đổi trạng thái, ngay cả khi điều kiện đã thay đổi.
 
@@ -4162,7 +4162,7 @@ Sự chậm trễ hoặc kháng cự trong việc thay đổi trạng thái, nga
 
 → **Liên kết:** VALIDATION (Change Resistance), OPERATIONS (Change Management)
 
-#### **34. Bifurcation Cascade** - Thác Phân Nhánh
+#### **33. Bifurcation Cascade** - Thác Phân Nhánh
 
 Chuỗi các điểm phân nhánh liên tiếp dẫn đến sự gia tăng nhanh chóng của độ phức tạp.
 
@@ -4173,7 +4173,7 @@ Chuỗi các điểm phân nhánh liên tiếp dẫn đến sự gia tăng nhanh
 
 → **Liên kết:** CREATION (Divergent Possibilities), NAVIGATION (Strategic Choices)
 
-#### **35. Reversibility & Irreversibility** - Có Thể Đảo Ngược & Không Thể Đảo Ngược
+#### **34. Reversibility & Irreversibility** - Có Thể Đảo Ngược & Không Thể Đảo Ngược
 
 Phân biệt giữa các thay đổi có thể quay lại và các thay đổi vĩnh viễn.
 
@@ -4186,7 +4186,7 @@ Phân biệt giữa các thay đổi có thể quay lại và các thay đổi v
 
 ### **Nhóm Bổ Sung: Phase Change Dynamics (7 mục mới)**
 
-#### **36. Melting** - Nóng Chảy
+#### **35. Melting** - Nóng Chảy
 
 Quá trình chuyển từ trạng thái rắn sang lỏng, biểu tượng cho sự mềm mại hóa các cấu trúc cứng nhắc.
 
@@ -4197,7 +4197,7 @@ Quá trình chuyển từ trạng thái rắn sang lỏng, biểu tượng cho s
 
 → **Liên kết:** TRANSCENDENCE (Softening), DYNAMICS (Flexibility)
 
-#### **37. Solidification** - Đông Cứng
+#### **36. Solidification** - Đông Cứng
 
 Quá trình chuyển từ trạng thái lỏng sang rắn, biểu tượng cho sự kết tinh của ý tưởng và cấu trúc.
 
@@ -4208,7 +4208,7 @@ Quá trình chuyển từ trạng thái lỏng sang rắn, biểu tượng cho s
 
 → **Liên kết:** INTEGRATION (Crystallization), OPERATIONS (Structure Building)
 
-#### **38. Evaporation** - Bốc Hơi
+#### **37. Evaporation** - Bốc Hơi
 
 Quá trình chuyển từ lỏng sang khí, biểu tượng cho sự giải phóng và mở rộng.
 
@@ -4219,7 +4219,7 @@ Quá trình chuyển từ lỏng sang khí, biểu tượng cho sự giải phó
 
 → **Liên kết:** TRANSCENDENCE (Liberation), CREATION (Expansion)
 
-#### **39. Condensation** - Ngưng Tụ
+#### **38. Condensation** - Ngưng Tụ
 
 Quá trình chuyển từ khí sang lỏng, biểu tượng cho sự tập trung và cô đọng.
 
@@ -4230,7 +4230,7 @@ Quá trình chuyển từ khí sang lỏng, biểu tượng cho sự tập trung
 
 → **Liên kết:** INTEGRATION (Concentration), OPERATIONS (Focus)
 
-#### **40. Sublimation** - Thăng Hoa
+#### **39. Sublimation** - Thăng Hoa
 
 Quá trình chuyển trực tiếp từ rắn sang khí, bỏ qua trạng thái lỏng, biểu tượng cho sự chuyển hóa trực tiếp.
 
@@ -4241,7 +4241,7 @@ Quá trình chuyển trực tiếp từ rắn sang khí, bỏ qua trạng thái 
 
 → **Liên kết:** TRANSCENDENCE (Quantum Leap), CREATION (Radical Innovation)
 
-#### **41. Plasma Instabilities** - Bất Ổn Plasma
+#### **40. Plasma Instabilities** - Bất Ổn Plasma
 
 Trạng thái năng lượng cao với các dao động và bất ổn định mạnh mẽ.
 
@@ -4256,7 +4256,7 @@ Trạng thái năng lượng cao với các dao động và bất ổn định m
 
 ### **Nhóm Bổ Sung: Cognitive Shift Patterns (7 mục mới)**
 
-#### **42. Paradigm Shifting** - Thay Đổi Mô Thức
+#### **41. Paradigm Shifting** - Thay Đổi Mô Thức
 
 Quá trình chuyển đổi từ một khung nhận thức sang khung nhận thức khác.
 
@@ -4267,7 +4267,7 @@ Quá trình chuyển đổi từ một khung nhận thức sang khung nhận th�
 
 → **Liên kết:** FOUNDATIONS (Mental Models), TRANSCENDENCE (Paradigm Leap)
 
-#### **43. Cognitive Reboot** - Khởi Động Lại Nhận Thức
+#### **42. Cognitive Reboot** - Khởi Động Lại Nhận Thức
 
 Quá trình "tắt và bật lại" hệ thống nhận thức để làm mới và tái cấu trúc.
 
@@ -4278,7 +4278,7 @@ Quá trình "tắt và bật lại" hệ thống nhận thức để làm mới 
 
 → **Liên kết:** VALIDATION (Error Correction), [META] LAYER (System Maintenance)
 
-#### **44. State Shifting** - Chuyển Đổi Trạng Thái
+#### **43. State Shifting** - Chuyển Đổi Trạng Thái
 
 Khả năng thay đổi có ý thức giữa các trạng thái nhận thức, chế độ tư duy, hoặc bối cảnh hoạt động khác nhau.
 
@@ -4289,7 +4289,7 @@ Khả năng thay đổi có ý thức giữa các trạng thái nhận thức, c
 
 → **Liên kết:** [META] LAYER (State Management), OPERATIONS (Mode Selection)
 
-#### **45. Recovery Cycles** - Chu Kỳ Phục Hồi
+#### **44. Recovery Cycles** - Chu Kỳ Phục Hồi
 
 Các giai đoạn nghỉ ngơi và tái tạo cần thiết sau những giai đoạn căng thẳng hoặc nỗ lực cao. Đây là ỨNG DỤNG CỤ THỂ của nguyên lý Cycles & Rhythms (FOUNDATIONS #6) trong bối cảnh năng lượng và phục hồi.
 
@@ -4301,7 +4301,7 @@ Các giai đoạn nghỉ ngơi và tái tạo cần thiết sau những giai đo
 → **Gốc lý thuyết:** FOUNDATIONS #6 (Cycles & Rhythms - Nguyên lý phổ quát)
 → **Ứng dụng:** DYNAMICS (Energy Management), VALIDATION (Sustainable Performance)
 
-#### **46. Adaptation Rhythms** - Nhịp Điệu Thích Ứng
+#### **45. Adaptation Rhythms** - Nhịp Điệu Thích Ứng
 
 Các chu kỳ tự nhiên của việc thay đổi và thích nghi với điều kiện mới. Đây là ỨNG DỤNG của Cycles & Rhythms (FOUNDATIONS #6) trong bối cảnh BIẾN ĐỔI và THÍCH ỨNG.
 
@@ -4313,7 +4313,7 @@ Các chu kỳ tự nhiên của việc thay đổi và thích nghi với điều
 → **Gốc lý thuyết:** FOUNDATIONS #6 (Cycles & Rhythms - Nguyên lý phổ quát)
 → **Ứng dụng:** NAVIGATION (Timing), DYNAMICS (Adaptation)
 
-#### **47. Evolutionary Thinking** - Tư Duy Tiến Hóa
+#### **46. Evolutionary Thinking** - Tư Duy Tiến Hóa
 
 Khả năng suy nghĩ về các quá trình phát triển và thay đổi theo thời gian.
 
@@ -4324,7 +4324,7 @@ Khả năng suy nghĩ về các quá trình phát triển và thay đổi theo t
 
 → **Liên kết:** NAVIGATION (Long-term Vision), FOUNDATIONS (Evolution)
 
-#### **48. Developmental Thinking** - Tư Duy Phát Triển
+#### **47. Developmental Thinking** - Tư Duy Phát Triển
 
 Nhận thức về các giai đoạn và cấp độ phát triển khác nhau.
 
@@ -4339,7 +4339,7 @@ Nhận thức về các giai đoạn và cấp độ phát triển khác nhau.
 
 ### **Nhóm Bổ Sung: Evolution & Design Systems (9 mục mới)**
 
-#### **49. Evolutionary Reasoning - Suy Luận Tiến Hóa [Nguyên Lý Biến Đổi]**
+#### **48. Evolutionary Reasoning - Suy Luận Tiến Hóa [Nguyên Lý Biến Đổi]**
 
 Sử dụng các nguyên lý TIẾN HÓA TỰ NHIÊN để hiểu sự biến đổi và chuyển hóa. Khác với công cụ phân tích ở OPERATIONS, đây là về ĐỘNG LỰC HỌC - làm thế nào hệ thống thực sự thay đổi, thích ứng và tiến hóa theo thời gian.
 
@@ -4353,7 +4353,7 @@ Sử dụng các nguyên lý TIẾN HÓA TỰ NHIÊN để hiểu sự biến đ
 → **Nhìn vĩ mô:** TRANSCENDENCE #9 (mẫu hình tiến hóa cao hơn)
 → **Ứng dụng:** CREATION (Evolutionary Innovation), VALIDATION (Selection Criteria)
 
-#### **50. Evolutionary Innovation** - Đổi Mới Tiến Hóa
+#### **49. Evolutionary Innovation** - Đổi Mới Tiến Hóa
 
 Sự đổi mới xuất hiện từ quá trình thử nghiệm và chọn lọc liên tục.
 
@@ -4364,7 +4364,7 @@ Sự đổi mới xuất hiện từ quá trình thử nghiệm và chọn lọc
 
 → **Liên kết:** CREATION (Innovation Process), VALIDATION (Selection Criteria)
 
-#### **51. Evolutionary Design** - Thiết Kế Tiến Hóa
+#### **50. Evolutionary Design** - Thiết Kế Tiến Hóa
 
 Phương pháp thiết kế sử dụng các nguyên lý tiến hóa để tối ưu hóa giải pháp.
 
@@ -4375,7 +4375,7 @@ Phương pháp thiết kế sử dụng các nguyên lý tiến hóa để tối
 
 → **Liên kết:** OPERATIONS (Design Methods), CREATION (Optimization)
 
-#### **52. Artificial Life Creativity** - Sáng Tạo Sự Sống Nhân Tạo
+#### **51. Artificial Life Creativity** - Sáng Tạo Sự Sống Nhân Tạo
 
 Sử dụng mô phỏng sự sống để tạo ra các hệ thống sáng tạo và thích ứng.
 
@@ -4386,7 +4386,7 @@ Sử dụng mô phỏng sự sống để tạo ra các hệ thống sáng tạo
 
 → **Liên kết:** CREATION (Generative Systems), OPERATIONS (Simulation)
 
-#### **53. Evolutionary Consciousness** - Ý Thức Tiến Hóa
+#### **52. Evolutionary Consciousness** - Ý Thức Tiến Hóa
 
 Nhận thức về bản thân như một phần của quá trình tiến hóa đang diễn ra.
 
@@ -4397,7 +4397,7 @@ Nhận thức về bản thân như một phần của quá trình tiến hóa �
 
 → **Liên kết:** TRANSCENDENCE (Cosmic Awareness), [META] LAYER (Self-Evolution)
 
-#### **54. Personal Evolution** - Tiến Hóa Cá Nhân
+#### **53. Personal Evolution** - Tiến Hóa Cá Nhân
 
 Quá trình phát triển có chủ đích của bản thân qua thời gian.
 
@@ -4412,7 +4412,7 @@ Quá trình phát triển có chủ đích của bản thân qua thời gian.
 
 ### **Nhóm Bổ Sung: Destruction & Renewal (7 mục mới)**
 
-#### **55. Assumption Annihilation** - Tiêu Diệt Giả Định
+#### **54. Assumption Annihilation** - Tiêu Diệt Giả Định
 
 Quá trình phát hiện và loại bỏ các giả định không được kiểm chứng.
 
@@ -4423,7 +4423,7 @@ Quá trình phát hiện và loại bỏ các giả định không được ki�
 
 → **Liên kết:** VALIDATION (Critical Thinking), TRANSCENDENCE (Freedom)
 
-#### **56. Conceptual Mutation** - Đột Biến Khái Niệm
+#### **55. Conceptual Mutation** - Đột Biến Khái Niệm
 
 Sự thay đổi đột ngột và sáng tạo trong cách hiểu hoặc sử dụng các khái niệm.
 
@@ -4434,7 +4434,7 @@ Sự thay đổi đột ngột và sáng tạo trong cách hiểu hoặc sử d�
 
 → **Liên kết:** CREATION (Conceptual Innovation), INTEGRATION (Meaning Making)
 
-#### **57. Paradigm Hacking** - Hack Mô Thức
+#### **56. Paradigm Hacking** - Hack Mô Thức
 
 Can thiệp có chủ đích vào các hệ thống niềm tin để tạo ra thay đổi nhanh chóng.
 
@@ -4445,7 +4445,7 @@ Can thiệp có chủ đích vào các hệ thống niềm tin để tạo ra th
 
 → **Liên kết:** OPERATIONS (System Design), AMPLIFICATION (Leverage)
 
-#### **58. Evolution Hacking** - Hack Tiến Hóa [Tăng Tốc Biến Đổi]
+#### **57. Evolution Hacking** - Hack Tiến Hóa [Tăng Tốc Biến Đổi]
 
 Tăng tốc quá trình tiến hóa tự nhiên thông qua can thiệp có chủ đích. Khác với việc THIẾT KẾ tiến hóa ở CREATION, đây là về ĐỘNG LỰC của sự biến đổi - làm cho các quá trình chuyển đổi diễn ra NHANH HƠN.
 
@@ -4456,7 +4456,7 @@ Tăng tốc quá trình tiến hóa tự nhiên thông qua can thiệp có chủ
 
 → **Liên kết:** NAVIGATION (Fast-Track Development), CREATION #15 (Evolution Hacking - định hướng tiến hóa), DYNAMICS #1 (Evolution & Adaptation), DYNAMICS #59 (Mutation Acceleration)
 
-#### **59. Mutation Acceleration** - Tăng Tốc Đột Biến
+#### **58. Mutation Acceleration** - Tăng Tốc Đột Biến
 
 Tăng tốc độ và tần suất của các biến đổi sáng tạo.
 
@@ -4467,7 +4467,7 @@ Tăng tốc độ và tần suất của các biến đổi sáng tạo.
 
 → **Liên kết:** CREATION (Rapid Prototyping), AMPLIFICATION (Acceleration)
 
-#### **60. Metamorphic Precision** - Chính Xác Biến Thái
+#### **59. Metamorphic Precision** - Chính Xác Biến Thái
 
 Kiểm soát chính xác quá trình chuyển đổi sâu sắc.
 
@@ -4478,7 +4478,7 @@ Kiểm soát chính xác quá trình chuyển đổi sâu sắc.
 
 → **Liên kết:** OPERATIONS (Precision Engineering), VALIDATION (Quality Control)
 
-#### **61. Transmutation Algorithms** - Thuật Toán Biến Hóa
+#### **60. Transmutation Algorithms** - Thuật Toán Biến Hóa
 
 Các quy trình hệ thống để chuyển đổi từ trạng thái này sang trạng thái khác.
 
@@ -4493,7 +4493,7 @@ Các quy trình hệ thống để chuyển đổi từ trạng thái này sang 
 
 ### **Nhóm Bổ Sung: Crisis Catalyst (6 mục mới)**
 
-#### **62. Crisis Optimization** - Tối Ưu Hóa Khủng Hoảng
+#### **61. Crisis Optimization** - Tối Ưu Hóa Khủng Hoảng
 
 Sử dụng khủng hoảng như cơ hội để tối ưu hóa và cải thiện hệ thống.
 
@@ -4504,7 +4504,7 @@ Sử dụng khủng hoảng như cơ hội để tối ưu hóa và cải thiệ
 
 → **Liên kết:** NAVIGATION (Crisis Management), CREATION (Emergency Innovation)
 
-#### **63. Crisis Farming** - Nuôi Trồng Khủng Hoảng
+#### **62. Crisis Farming** - Nuôi Trồng Khủng Hoảng
 
 Cố ý tạo ra hoặc khuếch đại khủng hoảng nhỏ để thúc đẩy tăng trưởng và thay đổi.
 
@@ -4515,7 +4515,7 @@ Cố ý tạo ra hoặc khuếch đại khủng hoảng nhỏ để thúc đẩy
 
 → **Liên kết:** VALIDATION (Stress Testing), DYNAMICS (Hormesis)
 
-#### **64. Pressure Catalysis** - Xúc Tác Áp Lực
+#### **63. Pressure Catalysis** - Xúc Tác Áp Lực
 
 Sử dụng áp lực như chất xúc tác để thúc đẩy chuyển đổi.
 
@@ -4526,7 +4526,7 @@ Sử dụng áp lực như chất xúc tác để thúc đẩy chuyển đổi.
 
 → **Liên kết:** AMPLIFICATION (Pressure Effects), CREATION (Innovation Under Constraint)
 
-#### **65. Emergency Emergence** - Đột Sinh Khẩn Cấp
+#### **64. Emergency Emergence** - Đột Sinh Khẩn Cấp
 
 Các thuộc tính hoặc giải pháp mới xuất hiện đột ngột trong tình huống khẩn cấp.
 
@@ -4537,7 +4537,7 @@ Các thuộc tính hoặc giải pháp mới xuất hiện đột ngột trong t
 
 → **Liên kết:** CREATION (Rapid Innovation), DYNAMICS (Crisis Dynamics)
 
-#### **66. Antifragile Mindset (Bổ sung)** - Tư Duy Phản Mong Manh
+#### **65. Antifragile Mindset (Bổ sung)** - Tư Duy Phản Mong Manh
 
 [Liên quan đến Antifragility đã có, bổ sung về mindset]
 
@@ -4548,7 +4548,7 @@ Các thuộc tính hoặc giải pháp mới xuất hiện đột ngột trong t
 
 → **Liên kết:** VALIDATION (Stress Testing), INTEGRATION (Resilience Building)
 
-#### **67. Black Swan Surfing** - Lướt Sóng Thiên Nga Đen
+#### **66. Black Swan Surfing** - Lướt Sóng Thiên Nga Đen
 
 Khả năng không chỉ sống sót mà còn phát triển từ các sự kiện không thể dự đoán.
 
@@ -4563,7 +4563,7 @@ Khả năng không chỉ sống sót mà còn phát triển từ các sự kiệ
 
 ### **Nhóm Bổ Sung: Practice & Integration (14 mục mới)**
 
-#### **68. Trauma Resolution** - Giải Quyết Chấn Thương
+#### **67. Trauma Resolution** - Giải Quyết Chấn Thương
 
 Các kỹ thuật và quá trình để chữa lành chấn thương tâm lý.
 
@@ -4574,7 +4574,7 @@ Các kỹ thuật và quá trình để chữa lành chấn thương tâm lý.
 
 → **Liên kết:** INTEGRATION (Healing), VALIDATION (Safety)
 
-#### **69. Inner Child Repair** - Sửa Chữa Đứa Trẻ Nội Tâm
+#### **68. Inner Child Repair** - Sửa Chữa Đứa Trẻ Nội Tâm
 
 Làm việc với các phần bị tổn thương trong tuổi thơ để chữa lành và tích hợp.
 
@@ -4585,7 +4585,7 @@ Làm việc với các phần bị tổn thương trong tuổi thơ để chữa
 
 → **Liên kết:** INTEGRATION (Personal History), TRANSCENDENCE (Wholeness)
 
-#### **70. Breathwork Transformation** - Chuyển Hóa Qua Hơi Thở
+#### **69. Breathwork Transformation** - Chuyển Hóa Qua Hơi Thở
 
 Sử dụng các kỹ thuật thở để tạo ra thay đổi về ý thức và chữa lành.
 
@@ -4596,7 +4596,7 @@ Sử dụng các kỹ thuật thở để tạo ra thay đổi về ý thức v�
 
 → **Liên kết:** DYNAMICS (Energy Management), TRANSCENDENCE (Altered States)
 
-#### **71. Energy Psychology** - Tâm Lý Năng Lượng
+#### **70. Energy Psychology** - Tâm Lý Năng Lượng
 
 Các phương pháp tâm lý kết hợp làm việc với hệ thống năng lượng của cơ thể.
 
@@ -4607,7 +4607,7 @@ Các phương pháp tâm lý kết hợp làm việc với hệ thống năng l�
 
 → **Liên kết:** INTEGRATION (Mind-Body), DYNAMICS (Energy Systems)
 
-#### **72. Post-traumatic Growth** - Tăng Trưởng Sau Chấn Thương
+#### **71. Post-traumatic Growth** - Tăng Trưởng Sau Chấn Thương
 
 Sự phát triển tích cực xuất hiện từ việc vượt qua chấn thương.
 
@@ -4618,7 +4618,7 @@ Sự phát triển tích cực xuất hiện từ việc vượt qua chấn thư
 
 → **Liên kết:** DYNAMICS (Antifragility), INTEGRATION (Growth)
 
-#### **73. Transformative Learning** - Học Tập Chuyển Hóa
+#### **72. Transformative Learning** - Học Tập Chuyển Hóa
 
 Quá trình học tập tạo ra thay đổi sâu sắc trong các khung tham chiếu.
 
@@ -4629,7 +4629,7 @@ Quá trình học tập tạo ra thay đổi sâu sắc trong các khung tham ch
 
 → **Liên kết:** OPERATIONS (Learning Systems), TRANSCENDENCE (Paradigm Shift)
 
-#### **74. Kundalini Awakening** - Đánh Thức Kundalini
+#### **73. Kundalini Awakening** - Đánh Thức Kundalini
 
 Quá trình kích hoạt năng lượng sáng tạo tiềm ẩn ở gốc cột sống.
 
@@ -4640,7 +4640,7 @@ Quá trình kích hoạt năng lượng sáng tạo tiềm ẩn ở gốc cột 
 
 → **Liên kết:** TRANSCENDENCE (Energy Awakening), DYNAMICS (Energy Systems)
 
-#### **75. Tummo Inner Fire** - Lửa Nội Tummo
+#### **74. Tummo Inner Fire** - Lửa Nội Tummo
 
 Thực hành Tây Tạng sử dụng hình dung và hơi thở để tạo ra nhiệt nội tại.
 
@@ -4651,7 +4651,7 @@ Thực hành Tây Tạng sử dụng hình dung và hơi thở để tạo ra nh
 
 → **Liên kết:** DYNAMICS (Energy Management), OPERATIONS (Body Mastery)
 
-#### **76. Holotropic Breathwork** - Thở Holotropic
+#### **75. Holotropic Breathwork** - Thở Holotropic
 
 Kỹ thuật thở mạnh mẽ để truy cập các trạng thái ý thức không thông thường.
 
@@ -4662,7 +4662,7 @@ Kỹ thuật thở mạnh mẽ để truy cập các trạng thái ý thức kh�
 
 → **Liên kết:** TRANSCENDENCE (Altered States), DYNAMICS (Breathwork)
 
-#### **77. Wim Hof Method** - Phương Pháp Wim Hof
+#### **76. Wim Hof Method** - Phương Pháp Wim Hof
 
 Kết hợp thở, tiếp xúc với lạnh và cam kết để tối ưu hóa sức khỏe.
 
@@ -4673,7 +4673,7 @@ Kết hợp thở, tiếp xúc với lạnh và cam kết để tối ưu hóa s
 
 → **Liên kết:** VALIDATION (Stress Adaptation), DYNAMICS (Body Control)
 
-#### **78. Sound & Vibrational Medicine** - Y Học Âm Thanh & Rung Động
+#### **77. Sound & Vibrational Medicine** - Y Học Âm Thanh & Rung Động
 
 Sử dụng tần số âm thanh và rung động để chữa lành và cân bằng.
 
@@ -4684,7 +4684,7 @@ Sử dụng tần số âm thanh và rung động để chữa lành và cân b�
 
 → **Liên kết:** DYNAMICS (Resonance), INTEGRATION (Energetic Healing)
 
-#### **79. Movement & Dance Therapy** - Liệu Pháp Chuyển Động & Múa
+#### **78. Movement & Dance Therapy** - Liệu Pháp Chuyển Động & Múa
 
 Sử dụng chuyển động và múa như công cụ trị liệu và biểu đạt.
 
@@ -4695,7 +4695,7 @@ Sử dụng chuyển động và múa như công cụ trị liệu và biểu đ
 
 → **Liên kết:** INTEGRATION (Embodiment), DYNAMICS (Movement Systems)
 
-#### **81. Cellular & DNA Activation** - Kích Hoạt Tế Bào & DNA
+#### **79. Cellular & DNA Activation** - Kích Hoạt Tế Bào & DNA
 
 Các thực hành nhằm kích hoạt tiềm năng ẩn trong tế bào và DNA.
 
@@ -4993,7 +4993,7 @@ Các cấu trúc hệ thống lặp lại tạo ra các mẫu hành vi đặc tr
 
 ### **Nhóm Bổ Sung: Core Dynamics (10 mục mới)**
 
-#### **23. Expansion** - Mở Rộng
+#### **22. Expansion** - Mở Rộng
 
 Quá trình phát triển ra ngoài, tăng quy mô hoặc phạm vi.
 
@@ -5004,7 +5004,7 @@ Quá trình phát triển ra ngoài, tăng quy mô hoặc phạm vi.
 
 → **Liên kết:** AMPLIFICATION (Scaling), CREATION (Growth)
 
-#### **24. Contraction** - Thu Hẹp
+#### **23. Contraction** - Thu Hẹp
 
 Quá trình co lại, giảm quy mô hoặc tập trung.
 
@@ -5015,7 +5015,7 @@ Quá trình co lại, giảm quy mô hoặc tập trung.
 
 → **Liên kết:** OPERATIONS (Focus), INTEGRATION (Concentration)
 
-#### **25. Evolution** - Tiến Hóa
+#### **24. Evolution** - Tiến Hóa
 
 Quá trình phát triển và thay đổi dần dần theo thời gian, trong đó các hệ thống thích ứng và xuất hiện các đặc tính mới.
 
@@ -5026,7 +5026,7 @@ Quá trình phát triển và thay đổi dần dần theo thời gian, trong đ
 
 → **Liên kết:** DYNAMICS (Evolution & Adaptation), TRANSCENDENCE (Development)
 
-#### **26. Balance** - Cân Bằng
+#### **25. Balance** - Cân Bằng
 
 Trạng thái cân bằng động giữa các lực đối lập.
 
@@ -5037,7 +5037,7 @@ Trạng thái cân bằng động giữa các lực đối lập.
 
 → **Liên kết:** FOUNDATIONS (Polarity), INTEGRATION (Harmony)
 
-#### **27. Oscillation & Pulsation** - Dao Động & Mạch Động [Mẫu Hình Chuyển Động]
+#### **26. Oscillation & Pulsation** - Dao Động & Mạch Động [Mẫu Hình Chuyển Động]
 
 Mẫu hình chuyển động qua lại giữa các trạng thái đối lập theo chu kỳ - một nguyên lý phổ biến từ vật lý đến sinh học, tâm lý và xã hội. Dao động tạo ra nhịp điệu và năng lượng cho sự sống, từ mạch đập tim, nhịp thở, đến chu kỳ kinh tế và văn hóa.
 
@@ -5057,7 +5057,7 @@ Mẫu hình chuyển động qua lại giữa các trạng thái đối lập th
 
 → **Ứng dụng trong tư duy:** OPERATIONS #52 (Oscillation - phương pháp xen kẽ giải quyết vấn đề)
 
-#### **28. Convergence - Hội Tụ [Mô Hình Tiến Hóa]**
+#### **27. Convergence - Hội Tụ [Mô Hình Tiến Hóa]**
 
 Quá trình TỰ NHIÊN trong đó các yếu tố riêng biệt di chuyển về phía một điểm chung trong quá trình tiến hóa của hệ thống. Đây là MÔ HÌNH TIẾN HÓA phổ biến - khi các con đường khác nhau cuối cùng dẫn đến những giải pháp tương tự.
 
@@ -5072,7 +5072,7 @@ Quá trình TỰ NHIÊN trong đó các yếu tố riêng biệt di chuyển v�
 
 → **Ví dụ:** Convergent evolution (tiến hóa hội tụ) trong sinh học; Các lý thuyết khoa học hội tụ về cùng một chân lý; Các nền văn hóa phát triển những giá trị đạo đức tương tự
 
-#### **29. Divergence** - Phân Kỳ
+#### **28. Divergence** - Phân Kỳ
 
 Quá trình các yếu tố tách ra khỏi một nguồn chung.
 
@@ -5083,7 +5083,7 @@ Quá trình các yếu tố tách ra khỏi một nguồn chung.
 
 → **Liên kết:** CREATION (Divergent Thinking), AMPLIFICATION (Diversity)
 
-#### **30. Interference** - Giao Thoa
+#### **29. Interference** - Giao Thoa
 
 Mẫu hình xuất hiện khi hai hoặc nhiều sóng/lực gặp nhau và tương tác.
 
@@ -5094,7 +5094,7 @@ Mẫu hình xuất hiện khi hai hoặc nhiều sóng/lực gặp nhau và tư�
 
 → **Liên kết:** DYNAMICS (Wave Dynamics), INTEGRATION (Pattern Synthesis)
 
-#### **31. Adaptation** - Thích Ứng
+#### **30. Adaptation** - Thích Ứng
 
 Quá trình điều chỉnh và thay đổi để phù hợp với môi trường hoặc điều kiện mới, đảm bảo khả năng tồn tại và phát triển.
 
@@ -5109,7 +5109,7 @@ Quá trình điều chỉnh và thay đổi để phù hợp với môi trườn
 
 ### **Nhóm Bổ Sung: System Laws & Paradoxes (21 mục mới)**
 
-#### **32. Campbell's Law** - Định Luật Campbell
+#### **31. Campbell's Law** - Định Luật Campbell
 
 "Một chỉ số xã hội định lượng càng được sử dụng cho quyết định xã hội, nó càng dễ bị tham nhũng."
 
@@ -5120,7 +5120,7 @@ Quá trình điều chỉnh và thay đổi để phù hợp với môi trườn
 
 → **Liên kết:** VALIDATION (System Integrity), OPERATIONS (Incentive Design)
 
-#### **33. McNamara Fallacy** - Ngụy Biện McNamara
+#### **32. McNamara Fallacy** - Ngụy Biện McNamara
 
 Đưa ra quyết định chỉ dựa trên thông tin định lượng, bỏ qua tất cả các yếu tố định tính.
 
@@ -5131,7 +5131,7 @@ Quá trình điều chỉnh và thay đổi để phù hợp với môi trườn
 
 → **Liên kết:** VALIDATION (Holistic Assessment), OPERATIONS (Balanced Analysis)
 
-#### **34. Cobra Effect** - Hiệu Ứng Rắn Hổ Mang
+#### **33. Cobra Effect** - Hiệu Ứng Rắn Hổ Mang
 
 Khi giải pháp cho một vấn đề làm vấn đề trở nên tồi tệ hơn.
 
@@ -5142,7 +5142,7 @@ Khi giải pháp cho một vấn đề làm vấn đề trở nên tồi tệ h�
 
 → **Liên kết:** VALIDATION (Consequence Analysis), NAVIGATION (Solution Design)
 
-#### **35. Streisand Effect** - Hiệu Ứng Streisand
+#### **34. Streisand Effect** - Hiệu Ứng Streisand
 
 Nỗ lực che giấu hoặc kiểm duyệt thông tin vô tình làm nó được công khai rộng rãi hơn.
 
@@ -5153,7 +5153,7 @@ Nỗ lực che giấu hoặc kiểm duyệt thông tin vô tình làm nó đư�
 
 → **Liên kết:** AMPLIFICATION (Viral Dynamics), VALIDATION (Strategy Assessment)
 
-#### **36. Jevons Paradox** - Nghịch Lý Jevons
+#### **35. Jevons Paradox** - Nghịch Lý Jevons
 
 Cải thiện hiệu quả trong sử dụng tài nguyên có thể dẫn đến tăng tiêu thụ tổng thể.
 
@@ -5164,7 +5164,7 @@ Cải thiện hiệu quả trong sử dụng tài nguyên có thể dẫn đến
 
 → **Liên kết:** OPERATIONS (Resource Management), VALIDATION (System Analysis)
 
-#### **37. Peter Principle** - Nguyên Tắc Peter
+#### **36. Peter Principle** - Nguyên Tắc Peter
 
 Trong một hệ thống phân cấp, mọi nhân viên có xu hướng thăng tiến đến cấp độ không còn thẩm quyền của họ.
 
@@ -5175,7 +5175,7 @@ Trong một hệ thống phân cấp, mọi nhân viên có xu hướng thăng t
 
 → **Liên kết:** OPERATIONS (Organizational Design), VALIDATION (Competence Assessment)
 
-#### **38. Parkinson's Law of Triviality** - Định Luật Tầm Thường của Parkinson
+#### **37. Parkinson's Law of Triviality** - Định Luật Tầm Thường của Parkinson
 
 Tổ chức dành thời gian không cân xứng cho các vấn đề tầm thường mà ai cũng hiểu, bỏ qua các vấn đề quan trọng phức tạp.
 
@@ -5186,7 +5186,7 @@ Tổ chức dành thời gian không cân xứng cho các vấn đề tầm thư
 
 → **Liên kết:** NAVIGATION (Priority Management), VALIDATION (Importance Assessment)
 
-#### **39. Brooks's Law** - Định Luật Brooks
+#### **38. Brooks's Law** - Định Luật Brooks
 
 "Thêm người vào một dự án phần mềm đang muộn làm nó muộn hơn."
 
@@ -5197,7 +5197,7 @@ Tổ chức dành thời gian không cân xứng cho các vấn đề tầm thư
 
 → **Liên kết:** OPERATIONS (Project Management), AMPLIFICATION (Scaling Challenges)
 
-#### **40. Lindy Effect** - Hiệu Ứng Lindy [Nguyên Lý Tiến Hóa]
+#### **39. Lindy Effect** - Hiệu Ứng Lindy [Nguyên Lý Tiến Hóa]
 
 NGUYÊN LÝ TIẾN HÓA: Tuổi thọ kỳ vọng trong tương lai của một thứ phi-hư hoại (ý tưởng, công nghệ, tổ chức, văn hóa) tỷ lệ thuận với tuổi hiện tại của nó. Đây là QUY LUẬT TỰ NHIÊN về cách thời gian hoạt động như một bộ lọc tiến hóa - những gì đã sống sót qua nhiều thử thách có cấu trúc nội tại vững chắc hơn.
 
@@ -5213,7 +5213,7 @@ NGUYÊN LÝ TIẾN HÓA: Tuổi thọ kỳ vọng trong tương lai của một 
 
 💡 **INSIGHT:** Đây là nguyên lý GIẢI THÍCH tại sao sách cổ, kiến trúc cổ, công nghệ cơ bản vẫn còn giá trị - chúng đã "survive" qua bộ lọc thời gian.
 
-#### **42. Gresham's Law** - Định Luật Gresham
+#### **40. Gresham's Law** - Định Luật Gresham
 
 "Tiền xấu đẩy tiền tốt ra khỏi lưu thông."
 
@@ -5224,7 +5224,7 @@ NGUYÊN LÝ TIẾN HÓA: Tuổi thọ kỳ vọng trong tương lai của một 
 
 → **Liên kết:** VALIDATION (Quality Control), OPERATIONS (Standard Maintenance)
 
-#### **43. Occam's Razor** - Dao Cạo Occam
+#### **41. Occam's Razor** - Dao Cạo Occam
 
 Nguyên lý ưu tiên những giải thích đơn giản nhất khi đối mặt với nhiều lựa chọn có giá trị giải thích tương đương.
 
@@ -5235,7 +5235,7 @@ Nguyên lý ưu tiên những giải thích đơn giản nhất khi đối mặt
 
 → **Liên kết:** OPERATIONS (Problem Solving), VALIDATION (Theory Selection)
 
-#### **45. Shirky Principle - Nguyên Tắc Shirky [Mẫu Hình Tự Duy Trì]**
+#### **42. Shirky Principle - Nguyên Tắc Shirky [Mẫu Hình Tự Duy Trì]**
 
 "Các tổ chức sẽ cố gắng bảo tồn vấn đề mà chúng là giải pháp."
 
@@ -5250,7 +5250,7 @@ Nguyên lý ưu tiên những giải thích đơn giản nhất khi đối mặt
 → **Công cụ phân tích:** OPERATIONS #35 (Shirky Principle trong decision-making)
 → **Các mẫu hình tương tự:** Liên quan đến các động lực tiến hóa và thay đổi tổ chức
 
-#### **46. Conway's Law** - Định Luật Conway [Định Luật Tiến Hóa Hệ Thống]
+#### **43. Conway's Law** - Định Luật Conway [Định Luật Tiến Hóa Hệ Thống]
 
 "Các tổ chức thiết kế hệ thống phản ánh cấu trúc giao tiếp của chính họ."
 
@@ -5285,7 +5285,7 @@ Nguyên lý ưu tiên những giải thích đơn giản nhất khi đối mặt
   - Spotify's squads → autonomous services
   - Microsoft's Windows → layered architecture theo org structure
 
-#### **47. Hofstadter's Law → [Xem OPERATIONS #39]**
+#### **44. Hofstadter's Law → [Xem OPERATIONS #39]**
 
 *Góc nhìn System Evolution về Định luật Hofstadter*
 
@@ -5314,7 +5314,7 @@ một "bug" tâm lý mà là một "feature" của sự phức tạp - nó phả
 chất BẢN CHẤT của các hệ thống phức tạp là luôn có những khía cạnh ẩn giấu,
 tương tác không dự đoán được, và đòi hỏi thời gian để "khám phá" chính mình.
 
-#### **49. Goodhart's Law (Meta-version)** - Định Luật Goodhart (Phiên bản Meta)
+#### **45. Goodhart's Law (Meta-version)** - Định Luật Goodhart (Phiên bản Meta)
 
 "Mọi mô hình quan sát về một hệ thống đều làm thay đổi hệ thống đó."
 
@@ -5325,7 +5325,7 @@ tương tác không dự đoán được, và đòi hỏi thời gian để "kh�
 
 → **Liên kết:** [META] LAYER (Observer Effects), VALIDATION (Measurement Impact)
 
-#### **50. Hyrum's Law** - Định Luật Hyrum
+#### **46. Hyrum's Law** - Định Luật Hyrum
 
 "Với đủ người dùng của một API, không quan trọng bạn hứa gì trong hợp đồng, mọi hành vi có thể quan sát đều sẽ được ai đó phụ thuộc vào."
 
@@ -5336,7 +5336,7 @@ tương tác không dự đoán được, và đòi hỏi thời gian để "kh�
 
 → **Liên kết:** OPERATIONS (API Design), VALIDATION (Dependency Management)
 
-#### **51. Metcalfe's Law** - Định Luật Metcalfe
+#### **47. Metcalfe's Law** - Định Luật Metcalfe
 
 Giá trị của một mạng lưới tỷ lệ với bình phương số lượng người dùng.
 
@@ -5351,7 +5351,7 @@ Giá trị của một mạng lưới tỷ lệ với bình phương số lượ
 
 ### **Nhóm Bổ Sung: Temporal & Process Patterns (4 mục mới)**
 
-#### **53. Temporal Hierarchy** - Phân Cấp Thời Gian
+#### **48. Temporal Hierarchy** - Phân Cấp Thời Gian
 
 Các quá trình hoạt động ở các tốc độ khác nhau tạo ra một hệ thống phân cấp thời gian.
 
@@ -5362,7 +5362,7 @@ Các quá trình hoạt động ở các tốc độ khác nhau tạo ra một h
 
 → **Liên kết:** FOUNDATIONS (Scale & Hierarchy), NAVIGATION (Timing)
 
-#### **54. Iterative Refinement** - Tinh Chỉnh Lặp Lại [Mẫu Hình Tiến Hóa]
+#### **49. Iterative Refinement** - Tinh Chỉnh Lặp Lại [Mẫu Hình Tiến Hóa]
 
 Mẫu hình tự nhiên của sự tiến hóa - cách các hệ thống tự điều chỉnh và cải thiện dần dần qua nhiều chu kỳ phản hồi. Đây là QUY LUẬT TỰ NHIÊN được quan sát ở mọi hệ thống sống và phi sống, từ tiến hóa sinh học đến phát triển công nghệ.
 
@@ -5382,7 +5382,7 @@ Mẫu hình tự nhiên của sự tiến hóa - cách các hệ thống tự đ
 
 → **Khuếch đại:** AMPLIFICATION (Compound Effect through Iteration)
 
-#### **55. Process Philosophy** - Triết Học Quá Trình
+#### **50. Process Philosophy** - Triết Học Quá Trình
 
 Thế giới quan coi quá trình và trở thành là cơ bản hơn vật thể và tồn tại.
 
@@ -5397,7 +5397,7 @@ Thế giới quan coi quá trình và trở thành là cơ bản hơn vật th�
 
 ### **Nhóm Bổ Sung: Natural System Patterns (5 mục mới)**
 
-#### **56. Chemical Reaction Dynamics** - Động Lực Phản Ứng Hóa Học
+#### **51. Chemical Reaction Dynamics** - Động Lực Phản Ứng Hóa Học
 
 Các mẫu hình của phản ứng hóa học như chất xúc tác, cân bằng, và động học.
 
@@ -5408,7 +5408,7 @@ Các mẫu hình của phản ứng hóa học như chất xúc tác, cân bằn
 
 → **Liên kết:** AMPLIFICATION (Catalysts), DYNAMICS (Transformation)
 
-#### **57. Evolution & Ecology Dynamics** - Động Lực Tiến Hóa & Sinh Thái
+#### **52. Evolution & Ecology Dynamics** - Động Lực Tiến Hóa & Sinh Thái
 
 Các tương tác phức tạp trong hệ sinh thái và quá trình tiến hóa.
 
@@ -5419,7 +5419,7 @@ Các tương tác phức tạp trong hệ sinh thái và quá trình tiến hóa
 
 → **Liên kết:** INTEGRATION (Ecosystem), DYNAMICS (Co-evolutionary Dynamics)
 
-#### **58. Climate Systems** - Hệ Thống Khí Hậu
+#### **53. Climate Systems** - Hệ Thống Khí Hậu
 
 Các động lực phức tạp của khí hậu toàn cầu và thời tiết.
 
@@ -5430,7 +5430,7 @@ Các động lực phức tạp của khí hậu toàn cầu và thời tiết.
 
 → **Liên kết:** DYNAMICS (Complex Systems), VALIDATION (Tipping Points)
 
-#### **59. Ocean Currents** - Dòng Chảy Đại Dương
+#### **54. Ocean Currents** - Dòng Chảy Đại Dương
 
 Các mẫu hình dòng chảy toàn cầu của đại dương.
 
@@ -5441,7 +5441,7 @@ Các mẫu hình dòng chảy toàn cầu của đại dương.
 
 → **Liên kết:** DYNAMICS (Flow Patterns), INTEGRATION (Global Systems)
 
-#### **60. Galaxy Formation** - Hình Thành Thiên Hà
+#### **55. Galaxy Formation** - Hình Thành Thiên Hà
 
 Các quá trình vũ trụ của sự hình thành và tiến hóa thiên hà.
 
@@ -5456,7 +5456,7 @@ Các quá trình vũ trụ của sự hình thành và tiến hóa thiên hà.
 
 ### **Nhóm Bổ Sung: Social Evolution (6 mục mới)**
 
-#### **61. Social Systems Theory** - Lý Thuyết Hệ Thống Xã Hội
+#### **56. Social Systems Theory** - Lý Thuyết Hệ Thống Xã Hội
 
 Cách các hệ thống xã hội tổ chức, thích ứng và tiến hóa.
 
@@ -5467,7 +5467,7 @@ Cách các hệ thống xã hội tổ chức, thích ứng và tiến hóa.
 
 → **Liên kết:** INTEGRATION (Social Integration), OPERATIONS (Organizational Theory)
 
-#### **62. Cultural Evolution** - Tiến Hóa Văn Hóa
+#### **57. Cultural Evolution** - Tiến Hóa Văn Hóa
 
 Sự truyền và biến đổi văn hóa qua thời gian.
 
@@ -5478,7 +5478,7 @@ Sự truyền và biến đổi văn hóa qua thời gian.
 
 → **Liên kết:** AMPLIFICATION (Memetics), INTEGRATION (Cultural Patterns)
 
-#### **63. Language Change & Variation** - Thay Đổi & Biến Thể Ngôn Ngữ
+#### **58. Language Change & Variation** - Thay Đổi & Biến Thể Ngôn Ngữ
 
 Các quá trình ngôn ngữ thay đổi và phân hóa.
 
@@ -5489,7 +5489,7 @@ Các quá trình ngôn ngữ thay đổi và phân hóa.
 
 → **Liên kết:** INTEGRATION (Communication), DYNAMICS (Cultural Change)
 
-#### **64. Economic Cycles & Behavioral Economics** - Chu Kỳ Kinh Tế & Kinh Tế Hành Vi
+#### **59. Economic Cycles & Behavioral Economics** - Chu Kỳ Kinh Tế & Kinh Tế Hành Vi
 
 Các mẫu hình chu kỳ trong kinh tế và tâm lý của quyết định kinh tế.
 
@@ -5500,7 +5500,7 @@ Các mẫu hình chu kỳ trong kinh tế và tâm lý của quyết định kin
 
 → **Liên kết:** VALIDATION (Market Analysis), OPERATIONS (Decision Making)
 
-#### **65. Power Dynamics & Conflict Theory** - Động Lực Quyền Lực & Lý Thuyết Xung Đột
+#### **60. Power Dynamics & Conflict Theory** - Động Lực Quyền Lực & Lý Thuyết Xung Đột
 
 Cách quyền lực được phân phối, sử dụng và tranh giành trong các hệ thống xã hội.
 
@@ -5511,7 +5511,7 @@ Cách quyền lực được phân phối, sử dụng và tranh giành trong c�
 
 → **Liên kết:** NAVIGATION (Power Navigation), VALIDATION (Conflict Analysis)
 
-#### **66. Social Movements & Revolutions** - Phong Trào Xã Hội & Cách Mạng
+#### **61. Social Movements & Revolutions** - Phong Trào Xã Hội & Cách Mạng
 
 Các quá trình thay đổi xã hội tập thể quy mô lớn.
 
@@ -5727,7 +5727,7 @@ Metacognition giúp nhận ra:
 → **Ứng dụng thực hành:** DYNAMICS (Cognitive Flexibility)
 → **Liên kết:** [META] LAYER (Meta-Awareness), VALIDATION (Self-Correction)
 
-#### **18. Automaticity** - Tính Tự Động
+#### **17. Automaticity** - Tính Tự Động
 
 Quá trình các hoạt động nhận thức trở nên tự động và không cần nỗ lực ý thức qua thực hành.
 
@@ -5738,7 +5738,7 @@ Quá trình các hoạt động nhận thức trở nên tự động và không
 
 → **Liên kết:** OPERATIONS (Deliberate Practice), [META] LAYER (Habit Formation)
 
-#### **19. Mind Wandering** - Tâm Trí Lang Thang
+#### **18. Mind Wandering** - Tâm Trí Lang Thang
 
 Sự chuyển đổi tự nhiên của sự chú ý khỏi nhiệm vụ chính sang các suy nghĩ nội tâm.
 
@@ -5749,7 +5749,7 @@ Sự chuyển đổi tự nhiên của sự chú ý khỏi nhiệm vụ chính s
 
 → **Liên kết:** CREATION (Incubation), [META] LAYER (Attention Management)
 
-#### **20. State-Dependent Learning** - Học Tập Phụ Thuộc Trạng Thái
+#### **19. State-Dependent Learning** - Học Tập Phụ Thuộc Trạng Thái
 
 Hiện tượng thông tin được học trong một trạng thái nhận thức/cảm xúc dễ được truy xuất trong cùng trạng thái đó.
 
@@ -5760,7 +5760,7 @@ Hiện tượng thông tin được học trong một trạng thái nhận thứ
 
 → **Liên kết:** OPERATIONS (Learning Optimization), VALIDATION (Recall Enhancement)
 
-#### **21. Cognitive Load** - Tải Nhận Thức
+#### **20. Cognitive Load** - Tải Nhận Thức
 
 Cách thức bộ nhớ làm việc bị chiếm dụng bởi độ phức tạp của thông tin hoặc nhiệm vụ.
 
@@ -5771,7 +5771,7 @@ Cách thức bộ nhớ làm việc bị chiếm dụng bởi độ phức tạp
 
 → **Liên kết:** OPERATIONS (Decomposition), [META] LAYER (Cognitive Offloading)
 
-#### **22. Decision Fatigue** - Mệt Mỏi Quyết Định
+#### **21. Decision Fatigue** - Mệt Mỏi Quyết Định
 
 Sự suy giảm chất lượng của các quyết định sau một chuỗi dài các lần ra quyết định.
 
@@ -5782,7 +5782,7 @@ Sự suy giảm chất lượng của các quyết định sau một chuỗi dà
 
 → **Liên kết:** OPERATIONS (Decision Frameworks), [META] LAYER (Energy Management)
 
-#### **23. Pattern Recognition** - Nhận Dạng Mẫu Hình
+#### **22. Pattern Recognition** - Nhận Dạng Mẫu Hình
 
 Khả năng phát hiện các quy luật, cấu trúc hoặc mối quan hệ trong dữ liệu hoặc kinh nghiệm.
 
@@ -5793,7 +5793,7 @@ Khả năng phát hiện các quy luật, cấu trúc hoặc mối quan hệ tro
 
 → **Liên kết:** VALIDATION (Pattern Verification), INTEGRATION (Knowledge Synthesis)
 
-#### **24. Cognitive Restructuring** - Tái Cấu Trúc Nhận Thức
+#### **23. Cognitive Restructuring** - Tái Cấu Trúc Nhận Thức
 
 Quá trình xác định và thay đổi các mẫu tư duy không hữu ích hoặc không chính xác.
 
@@ -5804,7 +5804,7 @@ Quá trình xác định và thay đổi các mẫu tư duy không hữu ích ho
 
 → **Liên kết:** VALIDATION (Belief Testing), [META] LAYER (Belief System Architecture)
 
-#### **25. Concept Formation** - Hình Thành Khái Niệm
+#### **24. Concept Formation** - Hình Thành Khái Niệm
 
 Quá trình phát triển các khái niệm mới từ kinh nghiệm cụ thể thông qua trừu tượng hóa.
 
@@ -5815,7 +5815,7 @@ Quá trình phát triển các khái niệm mới từ kinh nghiệm cụ thể 
 
 → **Liên kết:** INTEGRATION (Knowledge Organization), OPERATIONS (Conceptual Thinking)
 
-#### **26. Transfer of Learning** - Chuyển Giao Học Tập
+#### **25. Transfer of Learning** - Chuyển Giao Học Tập
 
 Ứng dụng kiến thức hoặc kỹ năng học được trong một ngữ cảnh vào ngữ cảnh khác.
 
@@ -5826,7 +5826,7 @@ Quá trình phát triển các khái niệm mới từ kinh nghiệm cụ thể 
 
 → **Liên kết:** INTEGRATION (Knowledge Application), OPERATIONS (Skill Generalization)
 
-#### **27. Cognitive Dissonance** - Mâu Thuẫn Nhận Thức
+#### **26. Cognitive Dissonance** - Mâu Thuẫn Nhận Thức
 
 Trạng thái khó chịu khi giữ các niềm tin, ý tưởng hoặc giá trị mâu thuẫn nhau.
 
@@ -5837,7 +5837,7 @@ Trạng thái khó chịu khi giữ các niềm tin, ý tưởng hoặc giá tr�
 
 → **Liên kết:** VALIDATION (Consistency Check), INTEGRATION (Belief Integration)
 
-#### **28. Conceptual Blending** - Pha Trộn Khái Niệm [Năng Lực Nhận Thức]
+#### **27. Conceptual Blending** - Pha Trộn Khái Niệm [Năng Lực Nhận Thức]
 
 Khả năng nhận thức động để kết hợp các yếu tố từ các không gian tâm trí khác nhau nhằm tạo ra ý nghĩa mới. Đây là NĂNG LỰC CƠ BẢN của tư duy linh hoạt - khả năng di chuyển và hợp nhất các không gian khái niệm một cách tự nhiên.
 
@@ -5858,7 +5858,7 @@ Khả năng nhận thức động để kết hợp các yếu tố từ các kh
 - Nhấn mạnh LINH HOẠT NHẬN THỨC và khả năng mode-switching
 - Là một CHỨC NĂNG TỰ NHIÊN của tâm trí, không nhất thiết có chủ đích
 
-#### **29. Dual Coding** - Mã Hóa Kép
+#### **28. Dual Coding** - Mã Hóa Kép
 
 Sử dụng cả hệ thống mã hóa ngôn ngữ và hình ảnh để cải thiện việc học và ghi nhớ.
 
@@ -5880,7 +5880,7 @@ Các cấu trúc kiến thức tổ chức giúp giải thích và dự đoán c
 
 → **Liên kết:** INTEGRATION (Knowledge Organization), VALIDATION (Expectation Checking)
 
-#### **29. Spreading Activation** - Kích Hoạt Lan Truyền
+#### **30. Spreading Activation** - Kích Hoạt Lan Truyền
 
 Mô hình về cách các khái niệm trong bộ nhớ được kích hoạt và lan truyền qua mạng lưới liên kết.
 
@@ -5891,7 +5891,7 @@ Mô hình về cách các khái niệm trong bộ nhớ được kích hoạt v�
 
 → **Liên kết:** INTEGRATION (Knowledge Networks), [META] LAYER (Associative Thinking)
 
-#### **29. Mental Models - Mô Hình Tinh Thần [Trong Linh Hoạt Nhận Thức]**
+#### **31. Mental Models - Mô Hình Tinh Thần [Trong Linh Hoạt Nhận Thức]**
 
 Các biểu diễn nội tâm về cách thế giới hoạt động - CÓ THỂ THAY ĐỔI và
 CẬP NHẬT khi gặp thông tin mới. Khác với nguyên lý nền tảng ở FOUNDATIONS,
@@ -5908,7 +5908,7 @@ CẬP NHẬT khi gặp thông tin mới. Khác với nguyên lý nền tảng �
 → **Khuếch đại:** AMPLIFICATION #15 (nhân rộng ảnh hưởng)
 → **Ý nghĩa:** Tập trung vào KHẢ NĂNG THAY ĐỔI và LINH HOẠT của mô hình
 
-#### **29. Perceptual Set** - Thiết Lập Tri Giác
+#### **32. Perceptual Set** - Thiết Lập Tri Giác
 
 Xu hướng tri giác những gì chúng ta mong đợi dựa trên kinh nghiệm, ngữ cảnh và động cơ.
 
@@ -5919,7 +5919,7 @@ Xu hướng tri giác những gì chúng ta mong đợi dựa trên kinh nghiệ
 
 → **Liên kết:** VALIDATION (Observation Bias), [META] LAYER (Perception Awareness)
 
-#### **29. Cognitive Momentum** - Động Lượng Nhận Thức
+#### **33. Cognitive Momentum** - Động Lượng Nhận Thức
 
 Xu hướng tiếp tục với một chuỗi suy nghĩ hoặc hành động một khi đã bắt đầu.
 
@@ -5930,7 +5930,7 @@ Xu hướng tiếp tục với một chuỗi suy nghĩ hoặc hành động mộ
 
 → **Liên kết:** AMPLIFICATION (Flywheel Effect), CREATION (Creative Momentum)
 
-#### **29. Incubation Effect** - Hiệu Ứng Ấp Ủ
+#### **34. Incubation Effect** - Hiệu Ứng Ấp Ủ
 
 Hiện tượng giải pháp cho một vấn đề xuất hiện sau khi tạm dừng làm việc trực tiếp với nó.
 
@@ -5941,7 +5941,7 @@ Hiện tượng giải pháp cho một vấn đề xuất hiện sau khi tạm d
 
 → **Liên kết:** CREATION (Creative Process), [META] LAYER (Strategic Pausing)
 
-#### **29. Productive Failure** - Thất Bại Năng Suất
+#### **35. Productive Failure** - Thất Bại Năng Suất
 
 Quá trình học được tăng cường khi người học phải vật lộn với vấn đề trước khi được hướng dẫn.
 
@@ -5952,7 +5952,7 @@ Quá trình học được tăng cường khi người học phải vật lộn 
 
 → **Liên kết:** OPERATIONS (Learning Design), VALIDATION (Mistake Learning)
 
-#### **29. Curiosity Drive** - Động Lực Tò Mò
+#### **36. Curiosity Drive** - Động Lực Tò Mò
 
 Động cơ nội tại để tìm kiếm thông tin mới và trải nghiệm mới.
 
@@ -5963,7 +5963,7 @@ Quá trình học được tăng cường khi người học phải vật lộn 
 
 → **Liên kết:** CREATION (Exploration), OPERATIONS (Self-Directed Learning)
 
-#### **29. Cognitive Flexibility in Problem-Solving** - Linh Hoạt Nhận Thức Trong Giải Quyết Vấn Đề
+#### **37. Cognitive Flexibility in Problem-Solving** - Linh Hoạt Nhận Thức Trong Giải Quyết Vấn Đề
 
 Khả năng chuyển đổi giữa các chiến lược giải quyết vấn đề khác nhau.
 
@@ -5974,7 +5974,7 @@ Khả năng chuyển đổi giữa các chiến lược giải quyết vấn đ�
 
 → **Liên kết:** OPERATIONS (Problem-Solving), NAVIGATION (Adaptive Tactics)
 
-#### **29. Meta-Cognitive Flow** - Dòng Chảy Siêu Nhận Thức
+#### **38. Meta-Cognitive Flow** - Dòng Chảy Siêu Nhận Thức
 
 Trạng thái động, trong đó việc giám sát và điều chỉnh các quá trình nhận thức diễn ra một cách trôi chảy và không cần nỗ lực.
 
@@ -5987,7 +5987,7 @@ Trạng thái động, trong đó việc giám sát và điều chỉnh các qu�
 
 ### **Nhóm Bổ Sung: Processing Modes (8 mục mới)**
 
-#### **29. Analysis ↔ Synthesis** - Phân Tích ↔ Tổng Hợp
+#### **39. Analysis ↔ Synthesis** - Phân Tích ↔ Tổng Hợp
 
 Hai quá trình bổ sung: phân tách để hiểu và kết hợp để tạo ra toàn thể mới.
 
@@ -5998,7 +5998,7 @@ Hai quá trình bổ sung: phân tách để hiểu và kết hợp để tạo 
 
 → **Liên kết:** OPERATIONS (Decomposition), INTEGRATION (Synthesis)
 
-#### **29. Linear ↔ Non-linear** - Tuyến Tính ↔ Phi Tuyến Tính
+#### **40. Linear ↔ Non-linear** - Tuyến Tính ↔ Phi Tuyến Tính
 
 Hai cách tiếp cận tư duy: tuần tự từng bước và nhảy vọt không tuần tự.
 
@@ -6009,7 +6009,7 @@ Hai cách tiếp cận tư duy: tuần tự từng bước và nhảy vọt khô
 
 → **Liên kết:** OPERATIONS (Sequential Processing), CREATION (Non-linear Thinking)
 
-#### **29. Sequential ↔ Parallel** - Tuần Tự ↔ Song Song
+#### **41. Sequential ↔ Parallel** - Tuần Tự ↔ Song Song
 
 Xử lý thông tin từng cái một hoặc nhiều cái cùng lúc.
 
@@ -6020,7 +6020,7 @@ Xử lý thông tin từng cái một hoặc nhiều cái cùng lúc.
 
 → **Liên kết:** OPERATIONS (Processing Architecture), [META] LAYER (Cognitive Design)
 
-#### **29. Focused ↔ Diffuse Mode** - Chế Độ Tập Trung ↔ Lan Tỏa
+#### **42. Focused ↔ Diffuse Mode** - Chế Độ Tập Trung ↔ Lan Tỏa
 
 Hai chế độ chú ý: tập trung cao độ và chú ý lan tỏa rộng.
 
@@ -6031,7 +6031,7 @@ Hai chế độ chú ý: tập trung cao độ và chú ý lan tỏa rộng.
 
 → **Liên kết:** OPERATIONS (Attention Management), CREATION (Diffuse Thinking)
 
-#### **29. System 1 ↔ System 2** - Hệ Thống 1 ↔ Hệ Thống 2
+#### **43. System 1 ↔ System 2** - Hệ Thống 1 ↔ Hệ Thống 2
 
 Hai hệ thống tư duy khác biệt: Hệ thống 1 (nhanh, trực giác, tự động) và Hệ thống 2 (chậm, có logic, kiểm soát).
 
@@ -6043,7 +6043,7 @@ Hai hệ thống tư duy khác biệt: Hệ thống 1 (nhanh, trực giác, tự
 
 → **Liên kết:** OPERATIONS (Dual Process, Decision Making), VALIDATION (Decision Quality)
 
-#### **29. Hot ↔ Cold Cognition** - Nhận Thức Nóng ↔ Lạnh
+#### **44. Hot ↔ Cold Cognition** - Nhận Thức Nóng ↔ Lạnh
 
 Tư duy bị ảnh hưởng bởi cảm xúc (nóng) so với tư duy trung lập cảm xúc (lạnh).
 
@@ -6058,7 +6058,7 @@ Tư duy bị ảnh hưởng bởi cảm xúc (nóng) so với tư duy trung lậ
 
 ### **Nhóm Bổ Sung: Reasoning Dynamics (8 mục mới)**
 
-#### **29. Causal Reasoning** - Suy Luận Nhân Quả [Kỹ Năng Nhận Thức]
+#### **45. Causal Reasoning** - Suy Luận Nhân Quả [Kỹ Năng Nhận Thức]
 
 Khả năng nhận thức để suy luận về các mối quan hệ nguyên nhân-kết quả một cách linh hoạt và thích ứng. Khác với phương pháp phân tích có cấu trúc ở OPERATIONS, đây là về **KHẢ NĂNG TƯ DUY** - năng lực chuyển đổi giữa các cách hiểu nhân quả khác nhau.
 
@@ -6072,7 +6072,7 @@ Khả năng nhận thức để suy luận về các mối quan hệ nguyên nh�
 → **Nền tảng lý thuyết:** FOUNDATIONS #5 (Causality & Interdependence - nguyên lý)
 → **Tư duy cao hơn:** OPERATIONS #27 (Counterfactual Reasoning), DYNAMICS #48 (Causal Networks), #50 (Temporal Causation)
 
-#### **29. Causal Networks** - Mạng Lưới Nhân Quả
+#### **46. Causal Networks** - Mạng Lưới Nhân Quả
 
 Khả năng nhìn thấy và hiểu các hệ thống phức tạp của các mối quan hệ nhân quả tương tác. Mở rộng từ **suy luận nhân quả tuyến tính** (A→B) sang **tư duy mạng lưới** (A↔B↔C↔D...).
 
@@ -6086,7 +6086,7 @@ Khả năng nhìn thấy và hiểu các hệ thống phức tạp của các m�
 → **Khả năng cơ bản:** DYNAMICS #47 (Causal Reasoning)
 → **Công cụ trực quan:** OPERATIONS #22 (Causal Loop Diagrams)
 
-#### **29. Intervention Reasoning** - Suy Luận Can Thiệp
+#### **47. Intervention Reasoning** - Suy Luận Can Thiệp
 
 Suy luận về hậu quả của các hành động và can thiệp.
 
@@ -6097,7 +6097,7 @@ Suy luận về hậu quả của các hành động và can thiệp.
 
 → **Liên kết:** NAVIGATION (Action Planning), VALIDATION (Consequence Analysis)
 
-#### **29. Temporal Causation** - Nhân Quả Thời Gian
+#### **48. Temporal Causation** - Nhân Quả Thời Gian
 
 Khả năng nhận thức về cách các nguyên nhân và kết quả triển khai theo thời gian. Hiểu rằng nhân quả không tức thì - có **độ trễ**, **tích lũy**, và **mẫu hình thời gian**.
 
@@ -6111,7 +6111,7 @@ Khả năng nhận thức về cách các nguyên nhân và kết quả triển 
 → **Khả năng cơ bản:** DYNAMICS #47 (Causal Reasoning)
 → **Vượt thoát:** TRANSCENDENCE #30 (Retroactive Causality - nhân quả ngược thời gian)
 
-#### **29. Adaptive Reasoning** - Suy Luận Thích Ứng
+#### **49. Adaptive Reasoning** - Suy Luận Thích Ứng
 
 Điều chỉnh chiến lược suy luận dựa trên ngữ cảnh và phản hồi.
 
@@ -6122,7 +6122,7 @@ Khả năng nhận thức về cách các nguyên nhân và kết quả triển 
 
 → **Liên kết:** NAVIGATION (Adaptive Strategy), [META] LAYER (Strategic Thinking)
 
-#### **29. Portfolio Reasoning** - Suy Luận Danh Mục
+#### **50. Portfolio Reasoning** - Suy Luận Danh Mục
 
 Suy nghĩ về tập hợp các lựa chọn thay vì lựa chọn đơn lẻ.
 
@@ -6133,7 +6133,7 @@ Suy nghĩ về tập hợp các lựa chọn thay vì lựa chọn đơn lẻ.
 
 → **Liên kết:** NAVIGATION (Portfolio Strategy), VALIDATION (Risk Management)
 
-#### **29. Complex Systems Decisions** - Quyết Định Hệ Thống Phức Tạp
+#### **51. Complex Systems Decisions** - Quyết Định Hệ Thống Phức Tạp
 
 Ra quyết định trong các tình huống có nhiều biến số tương tác.
 
@@ -6148,7 +6148,7 @@ Ra quyết định trong các tình huống có nhiều biến số tương tác
 
 ### **Nhóm Bổ Sung: Creative Systems (6 mục mới)**
 
-#### **29. Adaptive Systems (Creativity) - Hệ Thống Thích Ứng Sáng Tạo**
+#### **52. Adaptive Systems (Creativity) - Hệ Thống Thích Ứng Sáng Tạo**
 
 ỨNG DỤNG các nguyên lý thích nghi tự nhiên vào QUÁ TRÌNH SÁNG TẠO - thiết kế các hệ thống có khả năng tự tổ chức, phản hồi và tạo sinh để sản xuất các giải pháp sáng tạo. Khác với nguyên lý sinh học ở FOUNDATIONS, đây là về CÔNG CỤ & KỸ THUẬT sáng tạo dựa trên cơ chế thích nghi.
 
@@ -6176,7 +6176,7 @@ Ra quyết định trong các tình huống có nhiều biến số tương tác
 → **Phân biệt:** FOUNDATIONS #9 = "Tự nhiên thích nghi NHƯ THẾ NÀO?" (quan sát) | DYNAMICS #29 = "ÁP DỤNG nguyên lý đó để sáng tạo NHƯ THẾ NÀO?" (hành động)
 
 
-#### **29. Feedback Loop Creativity** - Sáng Tạo Vòng Lặp Phản Hồi
+#### **53. Feedback Loop Creativity** - Sáng Tạo Vòng Lặp Phản Hồi
 
 Sử dụng vòng lặp phản hồi để tạo ra các mẫu hình sáng tạo phức tạp.
 
@@ -6187,7 +6187,7 @@ Sử dụng vòng lặp phản hồi để tạo ra các mẫu hình sáng tạo
 
 → **Liên kết:** AMPLIFICATION (Feedback Loops), CREATION (Recursive Creation)
 
-#### **29. Attractor Dynamics (Creativity)** - Động Lực Hấp Dẫn (Sáng Tạo)
+#### **54. Attractor Dynamics (Creativity)** - Động Lực Hấp Dẫn (Sáng Tạo)
 
 Sử dụng các hấp dẫn tử để tạo ra các mẫu hình sáng tạo ổn định. Đây là ứng dụng cụ thể của Strange Attractors vào quá trình sáng tạo, sử dụng attractor dynamics để tạo patterns sáng tạo ổn định.
 
@@ -6202,7 +6202,7 @@ Sử dụng các hấp dẫn tử để tạo ra các mẫu hình sáng tạo �
 
 → **Liên kết:** DYNAMICS (Strange Attractors), CREATION (Pattern Design)
 
-#### **29. Nonlinear Creativity** - Sáng Tạo Phi Tuyến
+#### **55. Nonlinear Creativity** - Sáng Tạo Phi Tuyến
 
 Các quá trình sáng tạo với các hiệu ứng không tỷ lệ và đột phá bất ngờ.
 
@@ -6213,7 +6213,7 @@ Các quá trình sáng tạo với các hiệu ứng không tỷ lệ và đột
 
 → **Liên kết:** DYNAMICS (Chaos Theory), CREATION (Radical Innovation)
 
-#### **29. Swarm Creativity** - Sáng Tạo Bầy Đàn
+#### **56. Swarm Creativity** - Sáng Tạo Bầy Đàn
 
 Sáng tạo tập thể xuất hiện từ tương tác của nhiều tác nhân đơn giản.
 
@@ -6224,7 +6224,7 @@ Sáng tạo tập thể xuất hiện từ tương tác của nhiều tác nhân
 
 → **Liên kết:** AMPLIFICATION (Swarm Intelligence), CREATION (Collaborative Creation)
 
-#### **29. Phase Transition Creativity** - Sáng Tạo Chuyển Pha
+#### **57. Phase Transition Creativity** - Sáng Tạo Chuyển Pha
 
 Đổi mới xuất hiện ở các điểm chuyển pha giữa các trạng thái khác nhau.
 
@@ -6239,7 +6239,7 @@ Sáng tạo tập thể xuất hiện từ tương tác của nhiều tác nhân
 
 ### **Nhóm Bổ Sung: Navigation Biases & Skills (8 mục mới)**
 
-#### **29. Dunning-Kruger Razor** - Dao Cạo Dunning-Kruger
+#### **58. Dunning-Kruger Razor** - Dao Cạo Dunning-Kruger
 
 Nhận thức về xu hướng đánh giá quá cao năng lực khi thiếu năng lực.
 
@@ -6251,7 +6251,7 @@ Nhận thức về xu hướng đánh giá quá cao năng lực khi thiếu năn
 → **Liên kết:** [META] LAYER (Meta-Competence), VALIDATION (Self-Assessment)
 → **Gốc lý thuyết:** FOUNDATIONS #39 (The Dunning-Kruger Effect)
 
-#### **29. Fredkin's Paradox** - Nghịch Lý Fredkin
+#### **59. Fredkin's Paradox** - Nghịch Lý Fredkin
 
 "Càng quyết định giữa các lựa chọn tương đương, càng ít quan trọng việc chọn cái nào."
 
@@ -6262,7 +6262,7 @@ Nhận thức về xu hướng đánh giá quá cao năng lực khi thiếu năn
 
 → **Liên kết:** OPERATIONS (Decision Making), NAVIGATION (Priority Setting)
 
-#### **29. Sayre's Law** - Định Luật Sayre
+#### **60. Sayre's Law** - Định Luật Sayre
 
 "Trong bất kỳ tranh cãi nào, cường độ cảm xúc tỷ lệ nghịch với giá trị của vấn đề đang bàn."
 
@@ -6273,7 +6273,7 @@ Nhận thức về xu hướng đánh giá quá cao năng lực khi thiếu năn
 
 → **Liên kết:** VALIDATION (Conflict Analysis), NAVIGATION (Energy Allocation)
 
-#### **29. Bikeshedding Law** - Định Luật Bikeshedding
+#### **61. Bikeshedding Law** - Định Luật Bikeshedding
 
 Xu hướng dành thời gian không cân xứng cho các vấn đề tầm thường dễ hiểu.
 
@@ -6284,7 +6284,7 @@ Xu hướng dành thời gian không cân xứng cho các vấn đề tầm thư
 
 → **Liên kết:** NAVIGATION (Priority Management), VALIDATION (Importance Assessment)
 
-#### **29. Decision Velocity** - Tốc Độ Quyết Định
+#### **62. Decision Velocity** - Tốc Độ Quyết Định
 
 Khả năng ra quyết định nhanh chóng mà vẫn duy trì chất lượng.
 
@@ -6295,7 +6295,7 @@ Khả năng ra quyết định nhanh chóng mà vẫn duy trì chất lượng.
 
 → **Liên kết:** NAVIGATION (Fast Decision Making), OPERATIONS (Execution Speed)
 
-#### **29. Option Preservation - Bảo Tồn Lựa Chọn [Trong Tư Duy]**
+#### **63. Option Preservation - Bảo Tồn Lựa Chọn [Trong Tư Duy]**
 
 Nguyên tắc duy trì sự linh hoạt NHẬN THỨC bằng cách không khóa tư duy vào một hướng duy nhất. Đây là về COGNITIVE FLEXIBILITY - khả năng giữ nhiều góc nhìn, nhiều khả năng suy luận đồng thời mà không bị cứng nhắc trong một paradigm.
 
@@ -6309,7 +6309,7 @@ Nguyên tắc duy trì sự linh hoạt NHẬN THỨC bằng cách không khóa 
 → **Gốc lý thuyết:** FOUNDATIONS (Real Options Theory)
 → **Công cụ thực hành:** OPERATIONS (Reversible vs Irreversible Decisions)
 
-#### **29. Decision Stack** - Chồng Quyết Định
+#### **64. Decision Stack** - Chồng Quyết Định
 
 Quản lý nhiều quyết định ở các cấp độ khác nhau.
 
@@ -6320,7 +6320,7 @@ Quản lý nhiều quyết định ở các cấp độ khác nhau.
 
 → **Liên kết:** OPERATIONS (Hierarchical Processing), NAVIGATION (Multi-level Strategy)
 
-#### **29. Decision Momentum** - Động Lượng Quyết Định
+#### **65. Decision Momentum** - Động Lượng Quyết Định
 
 Sự tích lũy của các quyết định tạo ra động lượng hành động.
 
@@ -6346,7 +6346,7 @@ Sự tích lũy của các quyết định tạo ra động lượng hành độ
 
 → **Liên kết:** NAVIGATION (Adaptive Strategy), VALIDATION (Context Assessment)
 
-#### **70. Emergent Wayfinding** - Tìm Đường Đột Sinh
+#### **66. Emergent Wayfinding** - Tìm Đường Đột Sinh
 
 Khám phá đường đi khi không có bản đồ được xác định trước.
 
@@ -6357,7 +6357,7 @@ Khám phá đường đi khi không có bản đồ được xác định trư�
 
 → **Liên kết:** CREATION (Exploration), NAVIGATION (Discovery)
 
-#### **71. Antifragile Navigation** - Điều Hướng Phản Mong Manh
+#### **67. Antifragile Navigation** - Điều Hướng Phản Mong Manh
 
 Chiến lược không chỉ chống lại mà còn phát triển từ rối loạn và bất ngờ.
 
@@ -6368,7 +6368,7 @@ Chiến lược không chỉ chống lại mà còn phát triển từ rối lo�
 
 → **Liên kết:** DYNAMICS (Antifragility), VALIDATION (Stress Testing)
 
-#### **72. Quantum Navigation - Điều Hướng Lượng Tử [Phương Thức Tư Duy]**
+#### **68. Quantum Navigation - Điều Hướng Lượng Tử [Phương Thức Tư Duy]**
 
 Khả năng TƯ DUY đồng thời nhiều khả năng cho đến khi cần "sụp đổ" thành một quyết định - áp dụng nguyên lý chồng chập lượng tử vào NHẬN THỨC. Đây là về COGNITIVE FLEXIBILITY, không phải về chiến lược điều hướng.
 
@@ -6386,7 +6386,7 @@ Khả năng TƯ DUY đồng thời nhiều khả năng cho đến khi cần "s�
 - Đây là về TƯ DUY (thinking mode), không phải về HÀNH ĐỘNG (strategic action)
 - Nằm trong DYNAMICS vì nó về sự linh hoạt nhận thức và khả năng chuyển đổi giữa các phương thức tư duy khác nhau
 
-#### **74. Collective Navigation** - Điều Hướng Tập Thể
+#### **69. Collective Navigation** - Điều Hướng Tập Thể
 
 Tìm đường như một nhóm, tận dụng trí tuệ tập thể.
 
@@ -6401,7 +6401,7 @@ Tìm đường như một nhóm, tận dụng trí tuệ tập thể.
 
 ### **Nhóm Bổ Sung: Edge Dynamics (5 mục mới)**
 
-#### **75. Liminal Navigation** - Điều Hướng Ngưỡng Cửa
+#### **70. Liminal Navigation** - Điều Hướng Ngưỡng Cửa
 
 Làm việc trong các không gian chuyển tiếp và ranh giới.
 
@@ -6412,7 +6412,7 @@ Làm việc trong các không gian chuyển tiếp và ranh giới.
 
 → **Liên kết:** TRANSCENDENCE (Liminal States), DYNAMICS (Threshold Crossing)
 
-#### **76. Boundary Dissolution** - Hòa Tan Ranh Giới
+#### **71. Boundary Dissolution** - Hòa Tan Ranh Giới
 
 Vượt qua hoặc xóa bỏ các giới hạn và phân chia.
 
@@ -6423,7 +6423,7 @@ Vượt qua hoặc xóa bỏ các giới hạn và phân chia.
 
 → **Liên kết:** TRANSCENDENCE (Boundary Transcendence), INTEGRATION (Unity)
 
-#### **77. Chaos Surfing** - Lướt Sóng Hỗn Loạn
+#### **72. Chaos Surfing** - Lướt Sóng Hỗn Loạn
 
 Kỹ năng điều hướng và tận dụng các tình huống hỗn loạn.
 
@@ -6434,7 +6434,7 @@ Kỹ năng điều hướng và tận dụng các tình huống hỗn loạn.
 
 → **Liên kết:** DYNAMICS (Chaos Theory), NAVIGATION (Crisis Navigation)
 
-#### **78. Avalanche Triggering** - Kích Hoạt Tuyết Lở
+#### **73. Avalanche Triggering** - Kích Hoạt Tuyết Lở
 
 Cố ý tạo ra các hiệu ứng cascade để thúc đẩy thay đổi lớn.
 
@@ -6445,7 +6445,7 @@ Cố ý tạo ra các hiệu ứng cascade để thúc đẩy thay đổi lớn.
 
 → **Liên kết:** AMPLIFICATION (Cascade Dynamics), DYNAMICS (Tipping Points)
 
-#### **79. Synchronicity Engineering** - Kỹ Thuật Đồng Thời
+#### **74. Synchronicity Engineering** - Kỹ Thuật Đồng Thời
 
 Tạo ra điều kiện cho các sự kiện ý nghĩa trùng hợp xảy ra.
 
@@ -7004,7 +7004,7 @@ Các kỹ thuật thở để quản lý và biến đổi năng lượng.
 
 → **Liên kết:** DYNAMICS (Breathwork), TRANSCENDENCE (Energy Awakening)
 
-#### **48. Silence Practice** - Thực Hành Im Lặng
+#### **47. Silence Practice** - Thực Hành Im Lặng
 
 Thực hành nuôi dưỡng im lặng bên trong và bên ngoài - một công cụ mạnh mẽ cho cả QUẢN LÝ NĂNG LƯỢNG và SÁNG TẠO. Im lặng không phải là sự vắng mặt của âm thanh mà là KHÔNG GIAN NĂNG LƯỢNG nơi cả sự điều hòa lẫn sự đột sinh có thể xảy ra.
 
@@ -7032,7 +7032,7 @@ Thực hành nuôi dưỡng im lặng bên trong và bên ngoài - một công c
   - Problem Solving: Clarity through quieting mental noise
   - Stress Reduction: Parasympathetic activation
 
-#### **49. Patience Cultivation** - Nuôi Dưỡng Kiên Nhẫn
+#### **48. Patience Cultivation** - Nuôi Dưỡng Kiên Nhẫn
 
 Phát triển khả năng chờ đợi và cho phép mọi thứ triển khai tự nhiên.
 
@@ -7043,7 +7043,7 @@ Phát triển khả năng chờ đợi và cho phép mọi thứ triển khai t�
 
 → **Liên kết:** NAVIGATION (Timing Wisdom), INTEGRATION (Acceptance)
 
-#### **50. Complexity Science Applications** - Ứng Dụng Khoa Học Phức Tạp
+#### **49. Complexity Science Applications** - Ứng Dụng Khoa Học Phức Tạp
 
 Áp dụng nguyên lý hệ thống phức tạp vào quản lý năng lượng và cảm xúc.
 
@@ -7628,7 +7628,7 @@ Chuyển đổi một cách trôi chảy giữa các kiến trúc suy luận kh�
 
 ### **Các Mục Bổ Sung**
 
-#### **46. Fundamental Cognitive Operations** - Các Thao Tác Nhận Thức Cơ Bản
+#### **45. Fundamental Cognitive Operations** - Các Thao Tác Nhận Thức Cơ Bản
 
 Bốn thao tác nhận thức cốt lõi làm nền tảng cho mọi quá trình tư duy.
 
@@ -7857,7 +7857,7 @@ Nghệ thuật xác định và định nghĩa một vấn đề theo cách mở
 
 → **Liên kết:** CREATION (Reframing), META (Perspective Shifting)
 
-#### **6. Gap Analysis** - Phân Tích Khoảng Cách
+#### **5. Gap Analysis** - Phân Tích Khoảng Cách
 
 So sánh trạng thái hiện tại với trạng thái mong muốn để xác định khoảng cách cần lấp đầy.
 
@@ -7868,7 +7868,7 @@ So sánh trạng thái hiện tại với trạng thái mong muốn để xác �
 
 → **Liên kết:** NAVIGATION (Goal Setting), VALIDATION (Performance Metrics)
 
-#### **7. Pareto Analysis (80/20 Rule)** - Phân Tích Pareto
+#### **6. Pareto Analysis (80/20 Rule)** - Phân Tích Pareto
 
 Nguyên tắc rằng 80% kết quả đến từ 20% nguyên nhân, tập trung vào các yếu tố quan trọng nhất.
 
@@ -7879,7 +7879,7 @@ Nguyên tắc rằng 80% kết quả đến từ 20% nguyên nhân, tập trung 
 
 → **Liên kết:** AMPLIFICATION (Leverage), NAVIGATION (Prioritization)
 
-#### **8. Kepner-Tregoe Problem Analysis** - Phân Tích Vấn Đề Kepner-Tregoe
+#### **7. Kepner-Tregoe Problem Analysis** - Phân Tích Vấn Đề Kepner-Tregoe
 
 Một phương pháp có cấu trúc cao để phân tích và giải quyết vấn đề phức tạp thông qua việc so sánh IS/IS NOT - xác định chính xác điều kiện có vấn đề và phân biệt với điều kiện bình thường.
 
@@ -7890,7 +7890,7 @@ Một phương pháp có cấu trúc cao để phân tích và giải quyết v�
 
 → **Liên kết:** OPERATIONS (Root Cause Analysis), VALIDATION (Hypothesis Testing), FOUNDATIONS (Logical Reasoning)
 
-#### **9. Force Field Analysis** - Phân Tích Trường Lực
+#### **8. Force Field Analysis** - Phân Tích Trường Lực
 
 Xác định và phân tích các lực thúc đẩy và kìm hãm sự thay đổi.
 
@@ -7901,7 +7901,7 @@ Xác định và phân tích các lực thúc đẩy và kìm hãm sự thay đ�
 
 → **Liên kết:** DYNAMICS (Change Management), NAVIGATION (Strategy)
 
-#### **10. Decision Matrix (Multi-Criteria Decision Analysis)** - Ma Trận Quyết Định
+#### **9. Decision Matrix (Multi-Criteria Decision Analysis)** - Ma Trận Quyết Định
 
 Một công cụ có cấu trúc để đánh giá và so sánh nhiều lựa chọn dựa trên nhiều tiêu chí.
 
@@ -7912,7 +7912,7 @@ Một công cụ có cấu trúc để đánh giá và so sánh nhiều lựa ch
 
 → **Liên kết:** OPERATIONS (Decision Frameworks), VALIDATION (Objective Evaluation)
 
-#### **11. Cost-Benefit Analysis** - Phân Tích Chi Phí-Lợi Ích
+#### **10. Cost-Benefit Analysis** - Phân Tích Chi Phí-Lợi Ích
 
 Một quy trình có hệ thống để tính toán và so sánh chi phí và lợi ích của một quyết định.
 
@@ -7923,7 +7923,7 @@ Một quy trình có hệ thống để tính toán và so sánh chi phí và l�
 
 → **Liên kết:** OPERATIONS (Decision Frameworks), VALIDATION (Empirical Validation)
 
-#### **12. Stakeholder Analysis** - Phân Tích Các Bên Liên Quan
+#### **11. Stakeholder Analysis** - Phân Tích Các Bên Liên Quan
 
 Quá trình xác định các cá nhân hoặc nhóm bị ảnh hưởng bởi một dự án và phân loại họ.
 
@@ -7934,7 +7934,7 @@ Quá trình xác định các cá nhân hoặc nhóm bị ảnh hưởng bởi m
 
 → **Liên kết:** NAVIGATION (Social Navigation), INTEGRATION (Systemic Integration)
 
-#### **13. Process Analysis / Mapping** - Phân Tích / Lập Bản Đồ Quy Trình
+#### **12. Process Analysis / Mapping** - Phân Tích / Lập Bản Đồ Quy Trình
 
 Kỹ thuật trực quan hóa một quy trình làm việc để hiểu và cải thiện nó.
 
@@ -7945,7 +7945,7 @@ Kỹ thuật trực quan hóa một quy trình làm việc để hiểu và cả
 
 → **Liên kết:** AMPLIFICATION (Flow Optimization), FOUNDATIONS (Systems Thinking)
 
-#### **14. Trend Analysis** - Phân Tích Xu Hướng
+#### **13. Trend Analysis** - Phân Tích Xu Hướng
 
 Kỹ thuật thu thập và phân tích dữ liệu theo thời gian để xác định các mẫu hình và dự đoán xu hướng.
 
@@ -7956,7 +7956,7 @@ Kỹ thuật thu thập và phân tích dữ liệu theo thời gian để xác 
 
 → **Liên kết:** NAVIGATION (Scenario Planning), VALIDATION (Signal-Noise Separation)
 
-#### **15. Comparative Analysis** - Phân Tích So Sánh [Công Cụ Ra Quyết Định]
+#### **14. Comparative Analysis** - Phân Tích So Sánh [Công Cụ Ra Quyết Định]
 
 Đánh giá hai hoặc nhiều đối tượng bằng cách so sánh chúng dựa trên các tiêu chí đã xác định để ĐƯA RA QUYẾT ĐỊNH. Đây là CÔNG CỤ PHÂN TÍCH trong giải quyết vấn đề, tập trung vào việc xác định ưu/nhược điểm để lựa chọn phương án tốt nhất.
 
@@ -7972,7 +7972,7 @@ Kỹ thuật thu thập và phân tích dữ liệu theo thời gian để xác 
   • OPERATIONS #29 (Correlation Analysis - so sánh mối quan hệ)
   • OPERATIONS #33 (Trade-off Analysis - so sánh đánh đổi)
 
-#### **16. Scenario Analysis** - Phân Tích Kịch Bản
+#### **15. Scenario Analysis** - Phân Tích Kịch Bản
 
 Khám phá các kịch bản tương lai khả thi khác nhau và hậu quả của chúng.
 
@@ -7983,7 +7983,7 @@ Khám phá các kịch bản tương lai khả thi khác nhau và hậu quả c�
 
 → **Liên kết:** NAVIGATION (Strategic Planning), VALIDATION (Risk Assessment, Stress Testing)
 
-#### **17. Sensitivity Analysis** - Phân Tích Độ Nhạy [Công Cụ Giải Quyết Vấn Đề]
+#### **16. Sensitivity Analysis** - Phân Tích Độ Nhạy [Công Cụ Giải Quyết Vấn Đề]
 
 Kỹ thuật phân tích có hệ thống để hiểu cách kết quả của một mô hình, quyết định, hoặc hệ thống thay đổi khi các giả định và đầu vào thay đổi. Đây là CÔNG CỤ THIẾT YẾU trong giải quyết vấn đề để:
 - Xác định các biến quan trọng nhất (key drivers)
@@ -8011,7 +8011,7 @@ Kỹ thuật phân tích có hệ thống để hiểu cách kết quả của m
 → **Liên kết khác:** VALIDATION #17 (Sensitivity Analysis - phát hiện lỗi & điểm yếu)
 → **Ứng dụng:** NAVIGATION (Scenario Planning), VALIDATION (Stress Testing)
 
-#### **19. Dimensionality Reduction** - Giảm Chiều Dữ Liệu
+#### **17. Dimensionality Reduction** - Giảm Chiều Dữ Liệu
 
 Các kỹ thuật để giảm số lượng biến đang được xem xét, tập trung vào các yếu tố quan trọng nhất.
 
@@ -8022,7 +8022,7 @@ Các kỹ thuật để giảm số lượng biến đang được xem xét, t�
 
 → **Liên kết:** VALIDATION (Signal-Noise Separation), FOUNDATIONS (Essence Extraction)
 
-#### **20. Black Box Analysis** - Phân Tích Hộp Đen
+#### **18. Black Box Analysis** - Phân Tích Hộp Đen
 
 Kỹ thuật phân tích một hệ thống bằng cách chỉ xem xét đầu vào và đầu ra, mà không cần biết cấu trúc bên trong.
 
@@ -8033,7 +8033,7 @@ Kỹ thuật phân tích một hệ thống bằng cách chỉ xem xét đầu v
 
 → **Liên kết:** FOUNDATIONS (Systems Thinking), VALIDATION (Empirical Testing)
 
-#### **21. FMEA (Failure Mode and Effects Analysis)** - Phân Tích Hình Thức Lỗi và Tác Động
+#### **19. FMEA (Failure Mode and Effects Analysis)** - Phân Tích Hình Thức Lỗi và Tác Động
 
 Một phương pháp có hệ thống để xác định các lỗi tiềm tàng trong một thiết kế, quy trình hoặc sản phẩm.
 
@@ -8044,7 +8044,7 @@ Một phương pháp có hệ thống để xác định các lỗi tiềm tàng
 
 → **Liên kết:** VALIDATION (Risk Assessment), DYNAMICS (System Dynamics)
 
-#### **22. Causal Loop Diagrams** - Sơ Đồ Vòng Lặp Nhân Quả
+#### **20. Causal Loop Diagrams** - Sơ Đồ Vòng Lặp Nhân Quả
 
 **CÔNG CỤ TRỰC QUAN** để lập bản đồ các mối quan hệ và các vòng lặp phản hồi trong một hệ thống phức tạp. Biến **khả năng nhận thức** về nhân quả thành **biểu đồ cụ thể** có thể phân tích.
 
@@ -8058,7 +8058,7 @@ Một phương pháp có hệ thống để xác định các lỗi tiềm tàng
 → **Khả năng nhận thức:** DYNAMICS #48 (Causal Networks - tư duy mạng lưới)
 → **Phương pháp phân tích:** OPERATIONS #5 (Causal Reasoning - công cụ phân tích)
 
-#### **23. Argument Deconstruction** - Phân Rã Lập Luận
+#### **21. Argument Deconstruction** - Phân Rã Lập Luận
 
 Quá trình chia nhỏ một lập luận thành các thành phần cấu thành để đánh giá tính hợp lệ.
 
@@ -8069,7 +8069,7 @@ Quá trình chia nhỏ một lập luận thành các thành phần cấu thành
 
 → **Liên kết:** OPERATIONS (Reasoning Architectures), VALIDATION (Coherence Check)
 
-#### **24. Content Analysis** - Phân Tích Nội Dung
+#### **22. Content Analysis** - Phân Tích Nội Dung
 
 Kỹ thuật nghiên cứu để xác định một cách khách quan sự hiện diện của các từ, khái niệm trong văn bản.
 
@@ -8080,7 +8080,7 @@ Kỹ thuật nghiên cứu để xác định một cách khách quan sự hiệ
 
 → **Liên kết:** VALIDATION (Empirical Validation), INTEGRATION (Knowledge Synthesis)
 
-#### **25. Benchmarking** - Chuẩn So Sánh [Phân Tích Cạnh Tranh]
+#### **23. Benchmarking** - Chuẩn So Sánh [Phân Tích Cạnh Tranh]
 
 Công cụ phân tích để SO SÁNH quy trình, sản phẩm, hoặc hiệu suất của mình với các đối thủ hàng đầu hoặc tiêu chuẩn ngành. Đây là về HỌC TẬP từ những người giỏi nhất để CẢI THIỆN hoạt động của mình.
 
@@ -8094,7 +8094,7 @@ Công cụ phân tích để SO SÁNH quy trình, sản phẩm, hoặc hiệu su
 → **Ứng dụng meta:** META #11 (áp dụng cho tự cải thiện nhận thức)
 → **Khác biệt chính:** Tập trung vào SO SÁNH với BÊN NGOÀI để học hỏi
 
-#### **26. Inversion (Analytical Tool)** - Đảo Ngược
+#### **24. Inversion (Analytical Tool)** - Đảo Ngược
 
 Phân tích một vấn đề bằng cách bắt đầu từ kết quả mong muốn và làm việc ngược lại.
 
@@ -8105,7 +8105,7 @@ Phân tích một vấn đề bằng cách bắt đầu từ kết quả mong mu
 
 → **Liên kết:** FOUNDATIONS (Via Negativa), CREATION (Reverse Thinking)
 
-#### **27. Checklist Analysis** - Phân Tích Bằng Checklist
+#### **25. Checklist Analysis** - Phân Tích Bằng Checklist
 
 Sử dụng một danh sách kiểm tra được chuẩn bị trước để phân tích một tình huống một cách có hệ thống.
 
@@ -8116,7 +8116,7 @@ Sử dụng một danh sách kiểm tra được chuẩn bị trước để ph�
 
 → **Liên kết:** VALIDATION (Error Correction Mechanisms), OPERATIONS (Process Analysis)
 
-#### **28. Distribution Analysis** - Phân Tích Phân Phối
+#### **26. Distribution Analysis** - Phân Tích Phân Phối
 
 Kiểm tra cách dữ liệu được phân phối hoặc trải rộng để hiểu các đặc tính của nó.
 
@@ -8127,7 +8127,7 @@ Kiểm tra cách dữ liệu được phân phối hoặc trải rộng để hi
 
 → **Liên kết:** VALIDATION (Statistical Significance), FOUNDATIONS (Probability)
 
-#### **29. Correlation Analysis** - Phân Tích Tương Quan
+#### **27. Correlation Analysis** - Phân Tích Tương Quan
 
 Đánh giá mối quan hệ thống kê giữa hai hoặc nhiều biến số.
 
@@ -8138,7 +8138,7 @@ Kiểm tra cách dữ liệu được phân phối hoặc trải rộng để hi
 
 → **Liên kết:** OPERATIONS (Causal Reasoning), VALIDATION (Data Triangulation)
 
-#### **30. Value Chain Analysis** - Phân Tích Chuỗi Giá Trị
+#### **28. Value Chain Analysis** - Phân Tích Chuỗi Giá Trị
 
 Một mô hình phân rã một công ty thành các hoạt động chính và hỗ trợ.
 
@@ -8149,7 +8149,7 @@ Một mô hình phân rã một công ty thành các hoạt động chính và h
 
 → **Liên kết:** NAVIGATION (Strategic Positioning), AMPLIFICATION (Leverage)
 
-#### **31. Scenario Cross-Impact Analysis** - Phân Tích Tác Động Chéo Kịch Bản
+#### **29. Scenario Cross-Impact Analysis** - Phân Tích Tác Động Chéo Kịch Bản
 
 Một phương pháp để phân tích cách các sự kiện hoặc xu hướng khác nhau trong tương lai có thể ảnh hưởng lẫn nhau.
 
@@ -8160,7 +8160,7 @@ Một phương pháp để phân tích cách các sự kiện hoặc xu hướng
 
 → **Liên kết:** NAVIGATION (Scenario Planning), DYNAMICS (System Dynamics)
 
-#### **32. System Interface Analysis** - Phân Tích Giao Diện Hệ Thống
+#### **30. System Interface Analysis** - Phân Tích Giao Diện Hệ Thống
 
 Phân tích các điểm kết nối và các dòng chảy giữa các hệ thống hoặc các thành phần con.
 
@@ -8171,7 +8171,7 @@ Phân tích các điểm kết nối và các dòng chảy giữa các hệ th�
 
 → **Liên kết:** INTEGRATION (Systemic Integration), FOUNDATIONS (Systems Thinking)
 
-#### **33. Cognitive Load Analysis** - Phân Tích Tải Nhận Thức
+#### **31. Cognitive Load Analysis** - Phân Tích Tải Nhận Thức
 
 Đánh giá lượng nỗ lực tinh thần cần thiết cho một nhiệm vụ hoặc hệ thống.
 
@@ -8182,7 +8182,7 @@ Phân tích các điểm kết nối và các dòng chảy giữa các hệ th�
 
 → **Liên kết:** OPERATIONS (Learning), CREATION (Design)
 
-#### **34. Trade-off Analysis** - Phân Tích Đánh Đổi
+#### **32. Trade-off Analysis** - Phân Tích Đánh Đổi
 
 Công cụ phân tích có hệ thống để đánh giá các lựa chọn khi các mục tiêu cạnh tranh hoặc xung đột với nhau. Đây là công cụ kỹ thuật cốt lõi trong giải quyết vấn đề phức tạp với nhiều ràng buộc, cho phép ra quyết định tối ưu khi không thể tối đa hóa tất cả các chiều cùng lúc.
 
@@ -8199,7 +8199,7 @@ Công cụ phân tích có hệ thống để đánh giá các lựa chọn khi 
 
 _Ghi chú: Đây là công cụ phân tích căn bản. Các domain khác sử dụng công cụ này trong các ngữ cảnh riêng nhưng không cần định nghĩa lại._
 
-#### **35. Inversion for Problem Prevention** - Đảo Ngược để Phòng Ngừa Vấn Đề
+#### **33. Inversion for Problem Prevention** - Đảo Ngược để Phòng Ngừa Vấn Đề
 
 Sử dụng nguyên tắc đảo ngược để thiết kế các hệ thống phòng ngừa lỗi.
 
@@ -8210,7 +8210,7 @@ Sử dụng nguyên tắc đảo ngược để thiết kế các hệ thống p
 
 → **Liên kết:** VALIDATION #5 (Pre-mortem Analysis - công cụ kiểm chứng chi tiết), FOUNDATIONS (Via Negativa)
 
-#### **36. Predecessor-Successor Analysis** - Phân Tích Tiền Nhiệm-Kế Nhiệm
+#### **34. Predecessor-Successor Analysis** - Phân Tích Tiền Nhiệm-Kế Nhiệm
 
 Phân tích các mối quan hệ phụ thuộc tuần tự trong một quy trình hoặc dự án.
 
@@ -8221,7 +8221,7 @@ Phân tích các mối quan hệ phụ thuộc tuần tự trong một quy trìn
 
 → **Liên kết:** NAVIGATION (Waypoint System), OPERATIONS (Process Mapping)
 
-#### **37. What-You-See-Is-All-There-Is (WYSIATI) Analysis**
+#### **35. What-You-See-Is-All-There-Is (WYSIATI) Analysis**
 
 Một công cụ meta để tự phân tích xu hướng của bộ não đưa ra kết luận chỉ dựa trên thông tin có sẵn.
 
@@ -8232,7 +8232,7 @@ Một công cụ meta để tự phân tích xu hướng của bộ não đưa r
 
 → **Liên kết:** META (Thinking about Biases), VALIDATION (Blind Spot Analysis)
 
-#### **38. Second-Order Thinking Analysis** - Phân Tích Tư Duy Bậc Hai
+#### **36. Second-Order Thinking Analysis** - Phân Tích Tư Duy Bậc Hai
 
 Một QUY TRÌNH CÓ CẤU TRÚC để phân tích các hệ quả tức thời và các hệ quả dây chuyền. Đây là CÔNG CỤ ỨNG DỤNG nguyên lý Second-Order Thinking (FOUNDATIONS #8) vào ra quyết định thực tế.
 
@@ -8251,7 +8251,7 @@ Một QUY TRÌNH CÓ CẤU TRÚC để phân tích các hệ quả tức thời 
   • FOUNDATIONS #8 = Nguyên lý "là gì" (phương pháp tư duy)
   • OPERATIONS #37 = Quy trình "làm thế nào" (công cụ phân tích)
 
-#### **39. Devil's Advocate** → **XEM VALIDATION #6**
+#### **37. Devil's Advocate** → **XEM VALIDATION #6**
 
 Phương pháp phản biện có cấu trúc - chi tiết đầy đủ tại:
 → **VALIDATION - Error Detection & Correction - Khái niệm #6**
@@ -8266,7 +8266,7 @@ Trong ngữ cảnh OPERATIONS, Devil's Advocate được sử dụng như:
 - Phân tích vấn đề → cần góc nhìn đối lập
 - Đánh giá ý tưởng → cần stress-test lập luận
 
-#### **40. The Master Analytical Tool: Clarity** - Công Cụ Phân Tích Bậc Thầy: Sự Rõ Ràng
+#### **38. The Master Analytical Tool: Clarity** - Công Cụ Phân Tích Bậc Thầy: Sự Rõ Ràng
 
 Coi chính sự rõ ràng là công cụ và mục tiêu cuối cùng của mọi phân tích.
 
@@ -8279,7 +8279,7 @@ Coi chính sự rõ ràng là công cụ và mục tiêu cuối cùng của mọ
 
 ### **Các Mục Bổ Sung**
 
-#### **41. Connection** - Kết Nối
+#### **39. Connection** - Kết Nối
 
 Thao tác tạo ra hoặc nhận diện các mối liên hệ giữa các yếu tố.
 
@@ -8290,7 +8290,7 @@ Thao tác tạo ra hoặc nhận diện các mối liên hệ giữa các yếu 
 
 → **Liên kết:** INTEGRATION (Connection Building), AMPLIFICATION (Network Effects)
 
-#### **42. Separation** - Phân Tách
+#### **40. Separation** - Phân Tách
 
 Thao tác tách biệt hoặc phân biệt các yếu tố để phân tích rõ ràng hơn.
 
@@ -8301,7 +8301,7 @@ Thao tác tách biệt hoặc phân biệt các yếu tố để phân tích rõ
 
 → **Liên kết:** OPERATIONS (Decomposition), VALIDATION (Controlled Testing)
 
-#### **43. Comparison** - So Sánh
+#### **41. Comparison** - So Sánh
 
 Thao tác đánh giá sự tương đồng và khác biệt giữa các đối tượng.
 
@@ -8312,7 +8312,7 @@ Thao tác đánh giá sự tương đồng và khác biệt giữa các đối t
 
 → **Liên kết:** OPERATIONS (Comparative Analysis), VALIDATION #12 (Benchmarking - kiểm chứng chất lượng)
 
-#### **44. Transformation** - Chuyển Đổi
+#### **42. Transformation** - Chuyển Đổi
 
 Thao tác thay đổi hình thức, cấu trúc hoặc bản chất của một yếu tố.
 
@@ -8323,7 +8323,7 @@ Thao tác thay đổi hình thức, cấu trúc hoặc bản chất của một 
 
 → **Liên kết:** DYNAMICS (Transformation Dynamics), CREATION (Innovation)
 
-#### **45. Replication - Sao Chép [Thao Tác Giải Quyết Vấn Đề]**
+#### **43. Replication - Sao Chép [Thao Tác Giải Quyết Vấn Đề]**
 
 Thao tác kỹ thuật để tạo ra các bản sao hoặc nhân rộng các mẫu hình THÀNH CÔNG đã được xác minh. Đây là CÔNG CỤ trong giải quyết vấn đề có cấu trúc - nhận diện những gì hiệu quả rồi áp dụng lại nhiều lần.
 
@@ -8337,7 +8337,7 @@ Thao tác kỹ thuật để tạo ra các bản sao hoặc nhân rộng các m�
 → **Nền tảng lý thuyết:** AMPLIFICATION #6 (Standardization & Replication)
 → **Ứng dụng:** VALIDATION (Proof of Concept - chứng minh trước khi nhân rộng)
 
-#### **46. Addition** - Cộng Thêm
+#### **44. Addition** - Cộng Thêm
 
 Phương pháp kết hợp bằng cách cộng thêm các yếu tố.
 
@@ -8348,7 +8348,7 @@ Phương pháp kết hợp bằng cách cộng thêm các yếu tố.
 
 → **Liên kết:** AMPLIFICATION (Growth), CREATION (Composition)
 
-#### **47. Multiplication** - Nhân Lên
+#### **45. Multiplication** - Nhân Lên
 
 Phương pháp kết hợp tạo ra sự khuếch đại phi tuyến tính.
 
@@ -8359,7 +8359,7 @@ Phương pháp kết hợp tạo ra sự khuếch đại phi tuyến tính.
 
 → **Liên kết:** AMPLIFICATION (Exponential Growth), FOUNDATIONS (Compound Effects)
 
-#### **48. Intersection** - Giao Thoa
+#### **46. Intersection** - Giao Thoa
 
 Phương pháp tìm ra các yếu tố chung hoặc khu vực chồng lấp.
 
@@ -8370,7 +8370,7 @@ Phương pháp tìm ra các yếu tố chung hoặc khu vực chồng lấp.
 
 → **Liên kết:** INTEGRATION (Synthesis), OPERATIONS (Set Theory)
 
-#### **49. Union** - Hợp Nhất
+#### **47. Union** - Hợp Nhất
 
 Phương pháp kết hợp tất cả các yếu tố từ nhiều nguồn.
 
@@ -8381,7 +8381,7 @@ Phương pháp kết hợp tất cả các yếu tố từ nhiều nguồn.
 
 → **Liên kết:** INTEGRATION (Holistic Thinking), OPERATIONS (Set Theory)
 
-#### **50. Mapping** - Ánh Xạ
+#### **48. Mapping** - Ánh Xạ
 
 Phương pháp thiết lập tương ứng giữa các yếu tố của hai miền.
 
@@ -8392,7 +8392,7 @@ Phương pháp thiết lập tương ứng giữa các yếu tố của hai mi�
 
 → **Liên kết:** OPERATIONS (Analogical Reasoning), FOUNDATIONS (Structure Preservation)
 
-#### **51. Rotation** - Xoay Chuyển
+#### **49. Rotation** - Xoay Chuyển
 
 Phương pháp thay đổi góc nhìn hoặc khung tham chiếu.
 
@@ -8403,7 +8403,7 @@ Phương pháp thay đổi góc nhìn hoặc khung tham chiếu.
 
 → **Liên kết:** CREATION (Reframing), META (Perspective Taking)
 
-#### **52. Oscillation** - Dao Động [Phương Pháp Tư Duy]
+#### **50. Oscillation** - Dao Động [Phương Pháp Tư Duy]
 
 Phương pháp TƯ DUY xen kẽ hoặc chuyển đổi giữa các trạng thái, phương pháp hoặc góc nhìn khác nhau trong giải quyết vấn đề. Khác với dao động VẬT LÝ ở DYNAMICS, đây là KỸ THUẬT NHẬN THỨC - chủ động sử dụng chuyển động biện chứng để đạt hiểu biết sâu hơn.
 
@@ -8419,7 +8419,7 @@ Phương pháp TƯ DUY xen kẽ hoặc chuyển đổi giữa các trạng thái
 
 → **Ứng dụng nâng cao:** [META] LAYER (Meta-Cognitive Flexibility Awareness)
 
-#### **53. Mental Models - Mô Hình Tinh Thần [Công Cụ Giải Quyết Vấn Đề]**
+#### **51. Mental Models - Mô Hình Tinh Thần [Công Cụ Giải Quyết Vấn Đề]**
 
 Các biểu diễn nội tâm được SỬ DỤNG như CÔNG CỤ để phân tích, suy luận
 và giải quyết vấn đề. Khác với lý thuyết ở FOUNDATIONS và tính linh hoạt
@@ -8436,7 +8436,7 @@ và giải quyết vấn đề. Khác với lý thuyết ở FOUNDATIONS và tí
 → **Khuếch đại ảnh hưởng:** AMPLIFICATION #15 (nhân rộng hiệu quả)
 → **Ý nghĩa:** Tập trung vào CÔNG CỤ ỨNG DỤNG và SỬ DỤNG THỰC TẾ
 
-#### **54. Framework Synthesis** - Tổng Hợp Khung
+#### **52. Framework Synthesis** - Tổng Hợp Khung
 
 Quá trình tạo ra các khung mới bằng cách kết hợp các khung hiện có.
 
@@ -8447,7 +8447,7 @@ Quá trình tạo ra các khung mới bằng cách kết hợp các khung hiện
 
 → **Liên kết:** INTEGRATION (Synthesis), META (Meta-Frameworks)
 
-#### **55. Schema Construction** - Xây Dựng Schema
+#### **53. Schema Construction** - Xây Dựng Schema
 
 Quá trình tổ chức tri thức thành các cấu trúc có ý nghĩa.
 
@@ -8458,7 +8458,7 @@ Quá trình tổ chức tri thức thành các cấu trúc có ý nghĩa.
 
 → **Liên kết:** OPERATIONS (Knowledge Organization), INTEGRATION (Structure Building)
 
-#### **56. Taxonomy Development** - Phát Triển Phân Loại
+#### **54. Taxonomy Development** - Phát Triển Phân Loại
 
 Tạo ra các hệ thống phân loại và phân cấp.
 
@@ -8469,7 +8469,7 @@ Tạo ra các hệ thống phân loại và phân cấp.
 
 → **Liên kết:** FOUNDATIONS (Category Theory), OPERATIONS (Classification)
 
-#### **57. Search-Based Reasoning** - Suy Luận Dựa Trên Tìm Kiếm
+#### **55. Search-Based Reasoning** - Suy Luận Dựa Trên Tìm Kiếm
 
 Phương pháp giải quyết vấn đề bằng cách khám phá không gian giải pháp.
 
@@ -8480,7 +8480,7 @@ Phương pháp giải quyết vấn đề bằng cách khám phá không gian gi
 
 → **Liên kết:** OPERATIONS (Problem-Solving), CREATION (Exploration)
 
-#### **58. Newton's Flaming Laser Sword** - Kiếm Laser Rực Lửa của Newton
+#### **56. Newton's Flaming Laser Sword** - Kiếm Laser Rực Lửa của Newton
 
 Nguyên tắc rằng những gì không thể giải quyết bằng thí nghiệm không đáng để tranh luận.
 
@@ -8491,7 +8491,7 @@ Nguyên tắc rằng những gì không thể giải quyết bằng thí nghiệ
 
 → **Liên kết:** VALIDATION (Empirical Testing), OPERATIONS (Scientific Method)
 
-#### **59. Grice's Razor** - Dao Cạo Grice [Nguyên Tắc Hợp Tác]
+#### **57. Grice's Razor** - Dao Cạo Grice [Nguyên Tắc Hợp Tác]
 
 Nguyên tắc trong DIỄN GIẢI giao tiếp: ưu tiên hiểu theo nghĩa đơn giản, trực tiếp; giả định người nói đang hợp tác và có ý định truyền đạt ý nghĩa rõ ràng. Đừng quy cho ý định phức tạp những gì có thể giải thích đơn giản.
 
@@ -8513,7 +8513,7 @@ Nguyên tắc trong DIỄN GIẢI giao tiếp: ưu tiên hiểu theo nghĩa đơ
 → **Gốc lý thuyết:** Triết học ngôn ngữ (Paul Grice, 1975)
 → **Ứng dụng:** Giao tiếp hàng ngày, đàm phán, phân tích văn bản, giải quyết hiểu lầm
 
-#### **60. Morgan's Canon** - Quy Tắc của Morgan
+#### **58. Morgan's Canon** - Quy Tắc của Morgan
 
 Nguyên tắc trong tâm lý học so sánh: không nên diễn giải hành vi động vật ở mức nhận thức cao hơn nếu có thể giải thích ở mức thấp hơn.
 
@@ -8524,7 +8524,7 @@ Nguyên tắc trong tâm lý học so sánh: không nên diễn giải hành vi 
 
 → **Liên kết:** OPERATIONS (Parsimony Principle), FOUNDATIONS (Evolutionary Thinking)
 
-#### **60. Einstein's Razor** - Dao Cạo của Einstein
+#### **59. Einstein's Razor** - Dao Cạo của Einstein
 
 Nguyên tắc: "Mọi thứ nên được làm đơn giản nhất có thể, nhưng không đơn giản hơn".
 
@@ -8655,7 +8655,7 @@ Tài liệu hóa các quy trình từng bước cho các nhiệm vụ thường 
 
 → **Liên kết:** OPERATIONS (Process Mapping), AMPLIFICATION (Scalability)
 
-#### **12. Implementation Review & Iteration** - Đánh Giá Thực Hiện & Lặp Lại
+#### **11. Implementation Review & Iteration** - Đánh Giá Thực Hiện & Lặp Lại
 
 Quy trình có cấu trúc để đánh giá việc thực hiện, học hỏi từ kết quả và cải tiến các phương pháp.
 
@@ -8666,7 +8666,7 @@ Quy trình có cấu trúc để đánh giá việc thực hiện, học hỏi t
 
 → **Liên kết:** META (Meta-Learning), VALIDATION (Feedback Processing)
 
-#### **13. Progress Tracking & Metrics** - Theo Dõi Tiến Độ & Chỉ Số
+#### **12. Progress Tracking & Metrics** - Theo Dõi Tiến Độ & Chỉ Số
 
 Thiết lập các hệ thống để đo lường và theo dõi tiến độ hướng tới mục tiêu.
 
@@ -8677,7 +8677,7 @@ Thiết lập các hệ thống để đo lường và theo dõi tiến độ h�
 
 → **Liên kết:** VALIDATION (Performance Metrics), NAVIGATION (Goal Tracking)
 
-#### **14. Context Design & Environment Shaping** - Thiết Kế Bối Cảnh & Định Hình Môi Trường
+#### **13. Context Design & Environment Shaping** - Thiết Kế Bối Cảnh & Định Hình Môi Trường
 
 Chủ động thiết kế môi trường vật lý và xã hội để hỗ trợ các hành vi mong muốn.
 
@@ -8688,7 +8688,7 @@ Chủ động thiết kế môi trường vật lý và xã hội để hỗ tr�
 
 → **Liên kết:** DYNAMICS (Behavior Design), CREATION (Design Thinking)
 
-#### **15. Execution Mastery** - Tinh Thông Thực Thi
+#### **14. Execution Mastery** - Tinh Thông Thực Thi
 
 Khả năng tích hợp tất cả các phương pháp thực thi thành một hệ thống thực hành liền mạch.
 
@@ -8701,7 +8701,7 @@ Khả năng tích hợp tất cả các phương pháp thực thi thành một h
 
 ### **Các Mục Bổ Sung**
 
-#### **16. Elaborative Interrogation** - Thẩm Vấn Mở Rộng
+#### **15. Elaborative Interrogation** - Thẩm Vấn Mở Rộng
 
 Kỹ thuật học tập bằng cách tự đặt câu hỏi "Tại sao?" để tạo ra sự hiểu biết sâu sắc hơn.
 
@@ -8712,7 +8712,7 @@ Kỹ thuật học tập bằng cách tự đặt câu hỏi "Tại sao?" để 
 
 → **Liên kết:** OPERATIONS (Learning Systems), FOUNDATIONS (Causal Reasoning)
 
-#### **17. Retrieval Practice** - Thực Hành Truy Xuất
+#### **16. Retrieval Practice** - Thực Hành Truy Xuất
 
 Kỹ thuật chủ động gợi nhớ thông tin từ bộ nhớ để củng cố học tập.
 
@@ -8723,7 +8723,7 @@ Kỹ thuật chủ động gợi nhớ thông tin từ bộ nhớ để củng c
 
 → **Liên kết:** OPERATIONS (Active Recall), VALIDATION (Self-Testing)
 
-#### **18. Continuous Monitoring** - Giám Sát Liên Tục
+#### **17. Continuous Monitoring** - Giám Sát Liên Tục
 
 Theo dõi và đánh giá tiến độ một cách liên tục trong quá trình thực hành.
 
@@ -8734,7 +8734,7 @@ Theo dõi và đánh giá tiến độ một cách liên tục trong quá trình
 
 → **Liên kết:** VALIDATION (Feedback Processing), OPERATIONS (Progress Tracking)
 
-#### **19. Action Tracking** - Theo Dõi Hành Động
+#### **18. Action Tracking** - Theo Dõi Hành Động
 
 Ghi lại và phân tích các hành động cụ thể được thực hiện.
 
@@ -8745,7 +8745,7 @@ Ghi lại và phân tích các hành động cụ thể được thực hiện.
 
 → **Liên kết:** OPERATIONS (Implementation), DYNAMICS (Habit Formation)
 
-#### **20. Impact Measurement** - Đo Lường Tác Động
+#### **19. Impact Measurement** - Đo Lường Tác Động
 
 Đánh giá hiệu quả thực sự của các hành động đã thực hiện.
 
@@ -8756,7 +8756,7 @@ Ghi lại và phân tích các hành động cụ thể được thực hiện.
 
 → **Liên kết:** VALIDATION (Performance Metrics), OPERATIONS (Assessment)
 
-#### **21. Somatic Integration** - Tích Hợp Thể Xác
+#### **20. Somatic Integration** - Tích Hợp Thể Xác
 
 Tích hợp nhận thức cơ thể vào quá trình học tập và thực hành.
 
@@ -8767,7 +8767,7 @@ Tích hợp nhận thức cơ thể vào quá trình học tập và thực hàn
 
 → **Liên kết:** OPERATIONS (Embodied Reasoning), INTEGRATION (Body-Mind)
 
-#### **22. Breath-Mind Integration** - Tích Hợp Hơi Thở-Tâm Trí
+#### **21. Breath-Mind Integration** - Tích Hợp Hơi Thở-Tâm Trí
 
 Sử dụng hơi thở như một cầu nối giữa cơ thể và tâm trí.
 
@@ -8778,7 +8778,7 @@ Sử dụng hơi thở như một cầu nối giữa cơ thể và tâm trí.
 
 → **Liên kết:** DYNAMICS (Emotional Intelligence), TRANSCENDENCE (Mindfulness)
 
-#### **23. Heart-Brain Coherence** - Đồng Nhất Tim-Não
+#### **22. Heart-Brain Coherence** - Đồng Nhất Tim-Não
 
 Trạng thái đồng bộ giữa nhịp tim và hoạt động não bộ.
 
@@ -8789,7 +8789,7 @@ Trạng thái đồng bộ giữa nhịp tim và hoạt động não bộ.
 
 → **Liên kết:** DYNAMICS (Coherence), FOUNDATIONS (Heart-Brain Connection)
 
-#### **24. Movement Integration [Học Tập & Thực Hành]** - Tích Hợp Chuyển Động [Học Tập & Thực Hành]
+#### **23. Movement Integration [Học Tập & Thực Hành]** - Tích Hợp Chuyển Động [Học Tập & Thực Hành]
 
 Học tập và thực hành thông qua chuyển động cơ thể - sử dụng chuyển động như CÔNG CỤ để mã hóa tri thức, phát triển kỹ năng và củng cố hiểu biết. Khác với việc sử dụng chuyển động để SÁNG TẠO (ở CREATION), đây là về việc RÈN LUYỆN và HỌC TẬP có hệ thống qua cơ thể.
 
@@ -8802,7 +8802,7 @@ Học tập và thực hành thông qua chuyển động cơ thể - sử dụng
 → **Ứng dụng sáng tạo:** CREATION #28 (Movement Integration - tổng hợp sáng tạo)
 → **Thực hành liên quan:** OPERATIONS #21 (Somatic Integration), OPERATIONS #26 (Walking Meditation), DYNAMICS (Embodied Learning)
 
-#### **25. Sensory Integration** - Tích Hợp Giác Quan
+#### **24. Sensory Integration** - Tích Hợp Giác Quan
 
 Kết hợp thông tin từ nhiều kênh giác quan để tạo ra trải nghiệm toàn diện.
 
@@ -8813,7 +8813,7 @@ Kết hợp thông tin từ nhiều kênh giác quan để tạo ra trải nghi�
 
 → **Liên kết:** OPERATIONS (Perception), INTEGRATION (Holistic Processing)
 
-#### **26. Walking Meditation** - Thiền Đi Bộ
+#### **25. Walking Meditation** - Thiền Đi Bộ
 
 Thực hành chánh niệm trong khi đi bộ chậm và có ý thức.
 
@@ -8824,7 +8824,7 @@ Thực hành chánh niệm trong khi đi bộ chậm và có ý thức.
 
 → **Liên kết:** TRANSCENDENCE (Mindfulness), OPERATIONS (Practice)
 
-#### **27. Qigong Standing** - Đứng Qigong
+#### **26. Qigong Standing** - Đứng Qigong
 
 Thực hành đứng yên để tu luyện năng lượng và trạng thái tĩnh lặng.
 
@@ -8835,7 +8835,7 @@ Thực hành đứng yên để tu luyện năng lượng và trạng thái tĩn
 
 → **Liên kết:** DYNAMICS (Energy Management), TRANSCENDENCE (Stillness)
 
-#### **28. Pranayama** - Điều Hòa Hơi Thở
+#### **27. Pranayama** - Điều Hòa Hơi Thở
 
 Các kỹ thuật điều khiển hơi thở trong yoga.
 
@@ -8846,7 +8846,7 @@ Các kỹ thuật điều khiển hơi thở trong yoga.
 
 → **Liên kết:** DYNAMICS (Energy Transformation), TRANSCENDENCE (Yogic Practices)
 
-#### **29. Morning Integration Practice** - Thực Hành Tích Hợp Buổi Sáng
+#### **28. Morning Integration Practice** - Thực Hành Tích Hợp Buổi Sáng
 
 Nghi thức buổi sáng để kích hoạt và định hướng ngày mới.
 
@@ -8857,7 +8857,7 @@ Nghi thức buổi sáng để kích hoạt và định hướng ngày mới.
 
 → **Liên kết:** OPERATIONS (Daily Rhythms), DYNAMICS (Energy Management)
 
-#### **30. Evening Integration Review** - Đánh Giá Tích Hợp Buổi Tối
+#### **29. Evening Integration Review** - Đánh Giá Tích Hợp Buổi Tối
 
 Nghi thức buổi tối để xem xét, học hỏi và củng cố.
 
@@ -8868,7 +8868,7 @@ Nghi thức buổi tối để xem xét, học hỏi và củng cố.
 
 → **Liên kết:** META (Reflection), OPERATIONS (Learning Integration)
 
-#### **31. Transition Rituals** - Nghi Thức Chuyển Tiếp
+#### **30. Transition Rituals** - Nghi Thức Chuyển Tiếp
 
 Các thực hành đánh dấu sự chuyển đổi giữa các hoạt động hoặc trạng thái khác nhau.
 
@@ -8879,7 +8879,7 @@ Các thực hành đánh dấu sự chuyển đổi giữa các hoạt động h
 
 → **Liên kết:** DYNAMICS (State Management), OPERATIONS (Context Design)
 
-#### **32. Micro-Practice Integration** - Tích Hợp Thực Hành Vi Mô
+#### **31. Micro-Practice Integration** - Tích Hợp Thực Hành Vi Mô
 
 Các đợt thực hành ngắn nhưng thường xuyên được tích hợp vào ngày.
 
@@ -8890,7 +8890,7 @@ Các đợt thực hành ngắn nhưng thường xuyên được tích hợp và
 
 → **Liên kết:** OPERATIONS (Practice Design), AMPLIFICATION (Compound Effects)
 
-#### **33. Weekly Rhythm Practices** - Thực Hành Nhịp Điệu Hàng Tuần
+#### **32. Weekly Rhythm Practices** - Thực Hành Nhịp Điệu Hàng Tuần
 
 Các thực hành có cấu trúc theo chu kỳ tuần để hoạch định và xem xét.
 
@@ -8901,7 +8901,7 @@ Các thực hành có cấu trúc theo chu kỳ tuần để hoạch định và
 
 → **Liên kết:** NAVIGATION (Planning), OPERATIONS (Temporal Rhythm)
 
-#### **34. Energy Management Systems** - Hệ Thống Quản Lý Năng Lượng
+#### **33. Energy Management Systems** - Hệ Thống Quản Lý Năng Lượng
 
 Các phương pháp để tối ưu hóa và duy trì năng lượng cá nhân.
 
@@ -8912,7 +8912,7 @@ Các phương pháp để tối ưu hóa và duy trì năng lượng cá nhân.
 
 → **Liên kết:** DYNAMICS (Energy Management), OPERATIONS (Resource Allocation)
 
-#### **35. Course Correction** - Điều Chỉnh Hướng Đi
+#### **34. Course Correction** - Điều Chỉnh Hướng Đi
 
 Quá trình phát hiện và sửa chữa các lệch hướng từ mục tiêu.
 
@@ -8923,7 +8923,7 @@ Quá trình phát hiện và sửa chữa các lệch hướng từ mục tiêu.
 
 → **Liên kết:** VALIDATION (Feedback Processing), NAVIGATION (Waypoint Adjustment)
 
-#### **36. Learning Integration** - Tích Hợp Học Tập
+#### **35. Learning Integration** - Tích Hợp Học Tập
 
 Quá trình tổng hợp và áp dụng những gì đã học vào thực hành.
 
@@ -8934,7 +8934,7 @@ Quá trình tổng hợp và áp dụng những gì đã học vào thực hành
 
 → **Liên kết:** INTEGRATION (Knowledge Synthesis), OPERATIONS (Practice)
 
-#### **37. Surgical Precision Thinking** - Tư Duy Chính Xác Phẫu Thuật
+#### **36. Surgical Precision Thinking** - Tư Duy Chính Xác Phẫu Thuật
 
 Tư duy với độ chính xác và tập trung cao độ, như một bác sĩ phẫu thuật.
 
@@ -8945,7 +8945,7 @@ Tư duy với độ chính xác và tập trung cao độ, như một bác sĩ p
 
 → **Liên kết:** OPERATIONS (Precision), DYNAMICS (Focused Attention)
 
-#### **38. Zero-Defect Thinking** - Tư Duy Không Khuyết Tật
+#### **37. Zero-Defect Thinking** - Tư Duy Không Khuyết Tật
 
 Phương pháp tư duy nhằm đạt chất lượng hoàn hảo, không có lỗi.
 
@@ -8956,7 +8956,7 @@ Phương pháp tư duy nhằm đạt chất lượng hoàn hảo, không có l�
 
 → **Liên kết:** VALIDATION (Quality Assurance), OPERATIONS (Standards)
 
-#### **39. Six Sigma Mind** - Tâm Trí Six Sigma
+#### **38. Six Sigma Mind** - Tâm Trí Six Sigma
 
 Tư duy theo phương pháp Six Sigma để cải tiến quy trình có hệ thống.
 
@@ -8967,7 +8967,7 @@ Tư duy theo phương pháp Six Sigma để cải tiến quy trình có hệ th�
 
 → **Liên kết:** OPERATIONS (Process Analysis), VALIDATION (Statistical Quality Control)
 
-#### **40. Quantum Error Correction** - Hiệu Chỉnh Lỗi Lượng Tử
+#### **39. Quantum Error Correction** - Hiệu Chỉnh Lỗi Lượng Tử
 
 Áp dụng nguyên lý hiệu chỉnh lỗi từ điện toán lượng tử vào tư duy.
 
@@ -8978,7 +8978,7 @@ Tư duy theo phương pháp Six Sigma để cải tiến quy trình có hệ th�
 
 → **Liên kết:** VALIDATION (Error Correction), FOUNDATIONS (Quantum Principles)
 
-#### **41. Trataka** - Trataka (Nhìn Chăm Chú)
+#### **40. Trataka** - Trataka (Nhìn Chăm Chú)
 
 Thực hành yoga tập trung bằng cách nhìn chăm chú vào một điểm.
 
@@ -8989,7 +8989,7 @@ Thực hành yoga tập trung bằng cách nhìn chăm chú vào một điểm.
 
 → **Liên kết:** DYNAMICS (Concentration), TRANSCENDENCE (Meditative Practice)
 
-#### **42. Dream Yoga** - Yoga Giấc Mơ
+#### **41. Dream Yoga** - Yoga Giấc Mơ
 
 Thực hành tu tập ý thức trong giấc mơ và giấc ngủ.
 
@@ -9000,7 +9000,7 @@ Thực hành tu tập ý thức trong giấc mơ và giấc ngủ.
 
 → **Liên kết:** TRANSCENDENCE (Consciousness), META (Awareness)
 
-#### **43. Biofield Therapies** - Liệu Pháp Trường Sinh Học
+#### **42. Biofield Therapies** - Liệu Pháp Trường Sinh Học
 
 Các phương pháp chữa lành làm việc với trường năng lượng sinh học.
 
@@ -9011,7 +9011,7 @@ Các phương pháp chữa lành làm việc với trường năng lượng sinh
 
 → **Liên kết:** DYNAMICS (Energy Transformation), FOUNDATIONS (Energy Fields)
 
-#### **44. Bodywork & Manual Energy** - Công Việc Cơ Thể & Năng Lượng Thủ Công
+#### **43. Bodywork & Manual Energy** - Công Việc Cơ Thể & Năng Lượng Thủ Công
 
 Các kỹ thuật chạm và thao tác cơ thể để điều hòa năng lượng.
 
@@ -9022,7 +9022,7 @@ Các kỹ thuật chạm và thao tác cơ thể để điều hòa năng lượ
 
 → **Liên kết:** OPERATIONS (Somatic Integration), DYNAMICS (Energy Work)
 
-#### **45. Meridian-Based Therapies** - Liệu Pháp Dựa Trên Kinh Lạc
+#### **44. Meridian-Based Therapies** - Liệu Pháp Dựa Trên Kinh Lạc
 
 Các phương pháp chữa bệnh làm việc với hệ thống kinh lạc.
 
@@ -9033,7 +9033,7 @@ Các phương pháp chữa bệnh làm việc với hệ thống kinh lạc.
 
 → **Liên kết:** FOUNDATIONS (Traditional Chinese Medicine), DYNAMICS (Energy Channels)
 
-#### **46. Biofield Assessment Tools** - Công Cụ Đánh Giá Trường Sinh Học
+#### **45. Biofield Assessment Tools** - Công Cụ Đánh Giá Trường Sinh Học
 
 Các công cụ và phương pháp đo lường trường năng lượng sinh học.
 
@@ -9044,7 +9044,7 @@ Các công cụ và phương pháp đo lường trường năng lượng sinh h�
 
 → **Liên kết:** VALIDATION (Assessment), DYNAMICS (Energy Diagnosis)
 
-#### **47. Hypnotherapy & Trance Work** - Thôi Miên & Công Việc Trans
+#### **46. Hypnotherapy & Trance Work** - Thôi Miên & Công Việc Trans
 
 Các kỹ thuật làm việc với trạng thái ý thức thay đổi để chữa lành và biến đổi.
 
@@ -9055,7 +9055,7 @@ Các kỹ thuật làm việc với trạng thái ý thức thay đổi để ch
 
 → **Liên kết:** DYNAMICS (Consciousness States), TRANSCENDENCE (Altered States)
 
-#### **48. Gestalt Therapy Experiments** - Thí Nghiệm Liệu Pháp Gestalt
+#### **47. Gestalt Therapy Experiments** - Thí Nghiệm Liệu Pháp Gestalt
 
 Các bài tập trải nghiệm để tăng cường nhận thức và tích hợp.
 
@@ -9066,7 +9066,7 @@ Các bài tập trải nghiệm để tăng cường nhận thức và tích h�
 
 → **Liên kết:** INTEGRATION (Awareness), DYNAMICS (Experiential)
 
-#### **49. Art Therapy Transformation** - Biến Đổi Qua Liệu Pháp Nghệ Thuật
+#### **48. Art Therapy Transformation** - Biến Đổi Qua Liệu Pháp Nghệ Thuật
 
 Sử dụng quá trình sáng tạo nghệ thuật như một phương tiện trị liệu có hệ thống để chữa lành tâm lý và biến đổi cảm xúc. Đây là một thực hành trị liệu được đào tạo và thực hiện theo các giao thức lâm sàng, kết hợp cả khía cạnh sáng tạo và chữa lành.
 
@@ -9078,7 +9078,7 @@ Sử dụng quá trình sáng tạo nghệ thuật như một phương tiện tr
 → **Liên kết:** INTEGRATION (Healing, Self-Integration), DYNAMICS (Emotional Processing, Healing Process), CREATION (Creative Therapies)
 → **Phân biệt:** Khác với CREATION #19 (Creative Therapies - khái niệm tổng quát) - đây là phương pháp trị liệu CỤ THỂ có cấu trúc lâm sàng sử dụng nghệ thuật thị giác
 
-#### **50. Applied Technical Methods** - Các Phương Pháp Kỹ Thuật Ứng Dụng
+#### **49. Applied Technical Methods** - Các Phương Pháp Kỹ Thuật Ứng Dụng
 
 Bộ sưu tập các phương pháp và công nghệ tiên tiến từ nhiều lĩnh vực khoa học và kỹ thuật.
 
@@ -9412,7 +9412,7 @@ Khả năng truy cập trực tiếp vào bản chất hoặc nguồn gốc củ
 
 → **Liên kết:** TRANSCENDENCE (Direct Knowing), FOUNDATIONS (Essence)
 
-#### **28. Pattern Compression** - Nén Mẫu Hình
+#### **27. Pattern Compression** - Nén Mẫu Hình
 
 Khả năng mã hóa thông tin phức tạp thành các biểu diễn súc tích.
 
@@ -9423,7 +9423,7 @@ Khả năng mã hóa thông tin phức tạp thành các biểu diễn súc tíc
 
 → **Liên kết:** OPERATIONS (Chunking), FOUNDATIONS (Efficiency)
 
-#### **29. Signal-Noise Separation** - Phân Tách Tín Hiệu-Nhiễu
+#### **28. Signal-Noise Separation** - Phân Tách Tín Hiệu-Nhiễu
 
 Khả năng phân biệt thông tin quan trọng (tín hiệu) khỏi thông tin không liên quan (nhiễu).
 
@@ -9434,7 +9434,7 @@ Khả năng phân biệt thông tin quan trọng (tín hiệu) khỏi thông tin
 
 → **Liên kết:** OPERATIONS (Analysis), VALIDATION (Quality Control)
 
-#### **30. Feedback Synthesis** - Tổng Hợp Phản Hồi
+#### **29. Feedback Synthesis** - Tổng Hợp Phản Hồi
 
 Khả năng tích hợp phản hồi từ nhiều nguồn thành một hiểu biết mạch lạc.
 
@@ -9445,7 +9445,7 @@ Khả năng tích hợp phản hồi từ nhiều nguồn thành một hiểu bi
 
 → **Liên kết:** INTEGRATION (Synthesis), VALIDATION (Feedback Processing)
 
-#### **31. Priority Weighting** - Cân Nhắc Ưu Tiên
+#### **30. Priority Weighting** - Cân Nhắc Ưu Tiên
 
 Gán trọng số cho các yếu tố dựa trên tầm quan trọng.
 
@@ -9456,7 +9456,7 @@ Gán trọng số cho các yếu tố dựa trên tầm quan trọng.
 
 → **Liên kết:** OPERATIONS (Decision Frameworks), NAVIGATION (Prioritization)
 
-#### **32. Feedback Validation** - Xác Thực Phản Hồi
+#### **31. Feedback Validation** - Xác Thực Phản Hồi
 
 Đánh giá độ tin cậy và chính xác của phản hồi.
 
@@ -9467,7 +9467,7 @@ Gán trọng số cho các yếu tố dựa trên tầm quan trọng.
 
 → **Liên kết:** VALIDATION (Quality Assessment), OPERATIONS (Verification)
 
-#### **34. Calibrated Response** - Phản Ứng Được Hiệu Chỉnh
+#### **32. Calibrated Response** - Phản Ứng Được Hiệu Chỉnh
 
 Phản ứng được điều chỉnh phù hợp với tình huống.
 
@@ -9478,7 +9478,7 @@ Phản ứng được điều chỉnh phù hợp với tình huống.
 
 → **Liên kết:** OPERATIONS (Adaptive Response), VALIDATION (Calibration)
 
-#### **35. Adaptive Response** - Phản Ứng Thích Ứng
+#### **33. Adaptive Response** - Phản Ứng Thích Ứng
 
 Khả năng thay đổi phản ứng dựa trên bối cảnh và phản hồi.
 
@@ -9489,7 +9489,7 @@ Khả năng thay đổi phản ứng dựa trên bối cảnh và phản hồi.
 
 → **Liên kết:** DYNAMICS (Adaptation), NAVIGATION (Context Sensing)
 
-#### **36. Threshold Response** - Phản Ứng Ngưỡng
+#### **34. Threshold Response** - Phản Ứng Ngưỡng
 
 Phản ứng được kích hoạt khi đạt đến một ngưỡng nhất định.
 
@@ -9500,7 +9500,7 @@ Phản ứng được kích hoạt khi đạt đến một ngưỡng nhất đ�
 
 → **Liên kết:** DYNAMICS (Threshold Effects), FOUNDATIONS (Non-Linearity)
 
-#### **37. Feedback Loops - Vòng Lặp Phản Hồi [Trong Học Tập & Ký Ức]**
+#### **35. Feedback Loops - Vòng Lặp Phản Hồi [Trong Học Tập & Ký Ức]**
 
 Cơ chế phản hồi tuần hoàn trong học tập - đầu ra của quá trình học trở thành đầu vào cho chu kỳ học tiếp theo. Khác với nguyên lý nền tảng ở FOUNDATIONS, đây là CÔNG CỤ THỰC HÀNH để tự cải thiện và tự điều chỉnh trong học tập.
 
@@ -9515,7 +9515,7 @@ Cơ chế phản hồi tuần hoàn trong học tập - đầu ra của quá tr�
 → **Siêu nhận thức:** META #20 (Meta-Feedback - tối ưu hóa vòng phản hồi)
 → **Kiến trúc thiết kế:** VALIDATION #14 (Feedback Loop Architecture)
 
-#### **38. Teaching Methods & Pedagogical Techniques** - Phương Pháp Giảng Dạy & Kỹ Thuật Sư Phạm
+#### **36. Teaching Methods & Pedagogical Techniques** - Phương Pháp Giảng Dạy & Kỹ Thuật Sư Phạm
 
 Các phương pháp và kỹ thuật để truyền đạt tri thức hiệu quả.
 
@@ -9526,7 +9526,7 @@ Các phương pháp và kỹ thuật để truyền đạt tri thức hiệu qu�
 
 → **Liên kết:** INTEGRATION (Knowledge Transmission), OPERATIONS (Teaching)
 
-#### **39. Clinical Psychology Practices** - Thực Hành Tâm Lý Lâm Sàng
+#### **37. Clinical Psychology Practices** - Thực Hành Tâm Lý Lâm Sàng
 
 Các phương pháp can thiệp và trị liệu tâm lý.
 
@@ -9537,7 +9537,7 @@ Các phương pháp can thiệp và trị liệu tâm lý.
 
 → **Liên kết:** DYNAMICS (Transformation), INTEGRATION (Healing)
 
-#### **40. Medical Procedures & Treatments** - Thủ Tục Y Tế & Điều Trị
+#### **38. Medical Procedures & Treatments** - Thủ Tục Y Tế & Điều Trị
 
 Các quy trình và giao thức y tế chuẩn.
 
@@ -9888,7 +9888,7 @@ Siêu kỹ năng lựa chọn và kết hợp các khung ra quyết định khá
 
 ### **Các Mục Bổ Sung**
 
-#### **26. Sequential Decision Making** - Ra Quyết Định Tuần Tự
+#### **25. Sequential Decision Making** - Ra Quyết Định Tuần Tự
 
 Phương pháp ra quyết định trong đó các lựa chọn được thực hiện theo chuỗi thời gian.
 
@@ -9899,7 +9899,7 @@ Phương pháp ra quyết định trong đó các lựa chọn được thực h
 
 → **Liên kết:** OPERATIONS (Decision Trees), NAVIGATION (Strategic Planning)
 
-#### **27. PDCA Cycle** - Chu Trình PDCA
+#### **26. PDCA Cycle** - Chu Trình PDCA
 
 Chu trình cải tiến liên tục: Plan-Do-Check-Act (Hoạch định-Thực hiện-Kiểm tra-Hành động).
 
@@ -9910,7 +9910,7 @@ Chu trình cải tiến liên tục: Plan-Do-Check-Act (Hoạch định-Thực h
 
 → **Liên kết:** DYNAMICS (Iterative Refinement), VALIDATION (Continuous Improvement)
 
-#### **28. Jobs-to-be-Done Framework - Khung Công Việc Cần Hoàn Thành [Core Tool]**
+#### **27. Jobs-to-be-Done Framework - Khung Công Việc Cần Hoàn Thành [Core Tool]**
 
 Framework phân tích tập trung vào CÔNG VIỆC mà khách hàng "thuê" một sản phẩm/dịch vụ để hoàn thành, thay vì tập trung vào đặc tính sản phẩm hay phân khúc khách hàng truyền thống. Đây là CÔNG CỤ TRUNG TÂM được áp dụng xuyên suốt từ phân tích nhu cầu đến đổi mới sản phẩm và thiết kế nền tảng.
 
@@ -9951,7 +9951,7 @@ Framework phân tích tập trung vào CÔNG VIỆC mà khách hàng "thuê" m�
 
 → **Liên kết:** CREATION #4 (Innovation Application), AMPLIFICATION #28 (Platform Application), INTEGRATION (User Understanding), VALIDATION (Problem-Solution Fit)
 
-#### **29. OKRs (Objectives & Key Results)** - Mục Tiêu & Kết Quả Chính
+#### **28. OKRs (Objectives & Key Results)** - Mục Tiêu & Kết Quả Chính
 
 Khung thiết lập mục tiêu và đo lường tiến độ.
 
@@ -9962,7 +9962,7 @@ Khung thiết lập mục tiêu và đo lường tiến độ.
 
 → **Liên kết:** NAVIGATION (Goal Management), VALIDATION (Measurement)
 
-#### **30. Expected Value Thinking** - Tư Duy Giá Trị Kỳ Vọng
+#### **29. Expected Value Thinking** - Tư Duy Giá Trị Kỳ Vọng
 
 Ra quyết định dựa trên tính toán giá trị kỳ vọng của các lựa chọn.
 
@@ -9973,7 +9973,7 @@ Ra quyết định dựa trên tính toán giá trị kỳ vọng của các l�
 
 → **Liên kết:** OPERATIONS (Probabilistic Thinking), FOUNDATIONS (Expected Value)
 
-#### **31. BATNA Principle** - Nguyên Tắc BATNA
+#### **30. BATNA Principle** - Nguyên Tắc BATNA
 
 Best Alternative To a Negotiated Agreement - Lựa chọn tốt nhất thay thế cho thỏa thuận đàm phán.
 
@@ -9984,7 +9984,7 @@ Best Alternative To a Negotiated Agreement - Lựa chọn tốt nhất thay th�
 
 → **Liên kết:** OPERATIONS (Negotiation), NAVIGATION (Strategic Positioning)
 
-#### **32. Flow Optimization** - Tối Ưu Hóa Dòng Chảy
+#### **31. Flow Optimization** - Tối Ưu Hóa Dòng Chảy
 
 Nguyên tắc tối đa hóa hiệu quả của các dòng chảy (thông tin, vật liệu, năng lượng).
 
@@ -9995,7 +9995,7 @@ Nguyên tắc tối đa hóa hiệu quả của các dòng chảy (thông tin, v
 
 → **Liên kết:** OPERATIONS (Process Optimization), DYNAMICS (Flow State)
 
-#### **33. Grey's Law** - Định Luật Grey
+#### **32. Grey's Law** - Định Luật Grey
 
 "Any sufficiently advanced incompetence is indistinguishable from malice" - Sự bất tài đủ tiên tiến không thể phân biệt với ác ý.
 
@@ -10006,7 +10006,7 @@ Nguyên tắc tối đa hóa hiệu quả của các dòng chảy (thông tin, v
 
 → **Liên kết:** OPERATIONS (Hanlon's Razor), VALIDATION (Attribution Analysis)
 
-#### **34. Shirky Principle - Nguyên Tắc Shirky [Công Cụ Phát Hiện Bias]**
+#### **33. Shirky Principle - Nguyên Tắc Shirky [Công Cụ Phát Hiện Bias]**
 
 "Institutions will try to preserve the problem to which they are the solution"
 
@@ -10022,7 +10022,7 @@ Nguyên tắc tối đa hóa hiệu quả của các dòng chảy (thông tin, v
 → **Các công cụ tương tự:** OPERATIONS (Hanlon's Razor #35)
 → **Ứng dụng:** Khi phân tích đề xuất từ bộ phận nội bộ, luôn hỏi: "Họ có lợi ích gì trong việc duy trì vấn đề này?"
 
-#### **35. Actor-Observer Bias** - Thiên Kiến Người Hành Động-Người Quan Sát
+#### **34. Actor-Observer Bias** - Thiên Kiến Người Hành Động-Người Quan Sát
 
 Xu hướng quy kết hành vi của người khác cho tính cách nhưng hành vi của bản thân cho hoàn cảnh.
 
@@ -10033,7 +10033,7 @@ Xu hướng quy kết hành vi của người khác cho tính cách nhưng hành
 
 → **Liên kết:** OPERATIONS (Social Reasoning), META (Self-Awareness)
 
-#### **36. Eisenhower's Razor** - Dao Cạo của Eisenhower [Nguyên Tắc Urgent vs Important]
+#### **35. Eisenhower's Razor** - Dao Cạo của Eisenhower [Nguyên Tắc Urgent vs Important]
 
 "What is important is seldom urgent, and what is urgent is seldom important" - Điều quan trọng hiếm khi khẩn cấp, và điều khẩn cấp hiếm khi quan trọng.
 
@@ -10053,7 +10053,7 @@ Xu hướng quy kết hành vi của người khác cho tính cách nhưng hành
 → **Liên kết nội bộ:** OPERATIONS #37 (Parkinson's Law - về bản chất thời gian), META (Bias Awareness - thiên kiến ưu tiên urgent)
 → **Các Razor liên quan:** OPERATIONS #34 (Hanlon's Razor), #35 (Occam's Razor) - cùng nhóm analytical razors
 
-#### **37. Parkinson's Law** - Định Luật Parkinson [Time & Resource Management]
+#### **36. Parkinson's Law** - Định Luật Parkinson [Time & Resource Management]
 
 ỨNG DỤNG THỰC HÀNH của Parkinson's Law trong quản lý thời gian, tài nguyên và ra quyết định. Khác với nguyên lý phổ quát ở FOUNDATIONS #33, đây là về CÔNG CỤ và KỸ THUẬT để tận dụng hoặc chống lại định luật này.
 
@@ -10072,7 +10072,7 @@ Xu hướng quy kết hành vi của người khác cho tính cách nhưng hành
 → **Liên kết:** FOUNDATIONS #33 (Parkinson's Law - quy luật phổ quát), NAVIGATION (Time Management), VALIDATION (Productivity Analysis)
 → **Định luật liên quan:** Hofstadter's Law #38 (dự đoán thời gian), Parkinson's Law of Triviality (bikeshedding)
 
-#### **38. Hofstadter's Law** - Định Luật Hofstadter
+#### **37. Hofstadter's Law** - Định Luật Hofstadter
 
 "It always takes longer than you expect, even when you take into account
 Hofstadter's Law" - Luôn mất nhiều thời gian hơn dự kiến, ngay cả khi bạn
@@ -10102,7 +10102,7 @@ Hofstadter's Law" - Luôn mất nhiều thời gian hơn dự kiến, ngay cả 
 
 → **Tags:** #decision-making #planning #time-estimation #bias #complexity
 
-#### **39. Murphy's Law** - Định Luật Murphy
+#### **38. Murphy's Law** - Định Luật Murphy
 
 "Anything that can go wrong will go wrong" - Mọi thứ có thể sai sẽ sai.
 
@@ -10113,7 +10113,7 @@ Hofstadter's Law" - Luôn mất nhiều thời gian hơn dự kiến, ngay cả 
 
 → **Liên kết:** VALIDATION (Risk Assessment), VALIDATION #5 (Pre-mortem Analysis)
 
-#### **40. Opportunity Cost Razor** - Dao Cạo Chi Phí Cơ Hội
+#### **39. Opportunity Cost Razor** - Dao Cạo Chi Phí Cơ Hội
 
 Luôn xem xét giá trị của lựa chọn tốt nhất tiếp theo mà bạn từ bỏ.
 
@@ -10124,7 +10124,7 @@ Luôn xem xét giá trị của lựa chọn tốt nhất tiếp theo mà bạn 
 
 → **Liên kết:** OPERATIONS (Opportunity Cost Thinking), NAVIGATION (Resource Management)
 
-#### **41. Sunk Cost Razor** - Dao Cạo Chi Phí Chìm
+#### **40. Sunk Cost Razor** - Dao Cạo Chi Phí Chìm
 
 Nguyên tắc ra quyết định: Không nên xem xét chi phí đã bỏ ra (không thể thu hồi) khi ra quyết định về tương lai. Chi phí chìm là KHÔNG LIÊN QUAN đến quyết định hợp lý - chỉ nên tập trung vào giá trị tương lai.
 
@@ -10148,7 +10148,7 @@ Nguyên tắc ra quyết định: Không nên xem xét chi phí đã bỏ ra (kh
   • Personal: Rời khỏi mối quan hệ độc hại mặc dù đã "đầu tư" nhiều năm
   • Investment: Bán cổ phiếu thua lỗ thay vì giữ để "gỡ vốn"
 
-#### **42. Progress Indicators** - Chỉ Báo Tiến Độ
+#### **41. Progress Indicators** - Chỉ Báo Tiến Độ
 
 Các chỉ số theo dõi sự tiến bộ hướng tới mục tiêu.
 
@@ -10159,7 +10159,7 @@ Các chỉ số theo dõi sự tiến bộ hướng tới mục tiêu.
 
 → **Liên kết:** OPERATIONS (Progress Tracking), VALIDATION (Metrics)
 
-#### **43. Navigation KPIs** - Chỉ Số Hiệu Suất Chính Điều Hướng
+#### **42. Navigation KPIs** - Chỉ Số Hiệu Suất Chính Điều Hướng
 
 Các chỉ số quan trọng để đánh giá hiệu quả điều hướng.
 
@@ -10170,7 +10170,7 @@ Các chỉ số quan trọng để đánh giá hiệu quả điều hướng.
 
 → **Liên kết:** NAVIGATION (Strategic Management), VALIDATION (Performance Assessment)
 
-#### **45. Waypoint Metrics** - Chỉ Số Điểm Đến
+#### **43. Waypoint Metrics** - Chỉ Số Điểm Đến
 
 Các chỉ số đánh giá tiến độ tại các điểm kiểm tra trung gian.
 
@@ -10181,7 +10181,7 @@ Các chỉ số đánh giá tiến độ tại các điểm kiểm tra trung gia
 
 → **Liên kết:** NAVIGATION (Waypoint System), VALIDATION (Milestone Assessment)
 
-#### **46. Course Efficiency** - Hiệu Quả Hành Trình
+#### **44. Course Efficiency** - Hiệu Quả Hành Trình
 
 Đo lường mức độ hiệu quả của đường đi được chọn.
 
@@ -10192,14 +10192,14 @@ Các chỉ số đánh giá tiến độ tại các điểm kiểm tra trung gia
 
 → **Liên kết:** NAVIGATION (Route Optimization), OPERATIONS (Efficiency)
 
-#### **47. [CROSS-REFERENCE → NAVIGATION #40]** - Navigation ROI
+#### **45. [CROSS-REFERENCE → NAVIGATION #40]** - Navigation ROI
 
 Để đánh giá ROI của các quyết định điều hướng, xem:
 → **NAVIGATION #40: Navigation ROI - Lợi Nhuận Đầu Tư Điều Hướng**
 
 Khái niệm này được đặt tại NAVIGATION vì đó là domain tự nhiên cho việc quản lý và đo lường hiệu quả của hoạt động điều hướng chiến lược
 
-#### **48. Applied Decision Domains** - Các Lĩnh Vực Quyết Định Ứng Dụng
+#### **46. Applied Decision Domains** - Các Lĩnh Vực Quyết Định Ứng Dụng
 
 Bộ sưu tập các lĩnh vực chuyên ngành áp dụng khung ra quyết định.
 
@@ -10215,7 +10215,7 @@ Bộ sưu tập các lĩnh vực chuyên ngành áp dụng khung ra quyết đ�
 
 → **Liên kết:** OPERATIONS (Domain Expertise), FOUNDATIONS (Wisdom Traditions)
 
-#### **49. Karma** - Nghiệp (Hành Động & Hệ Quả)
+#### **47. Karma** - Nghiệp (Hành Động & Hệ Quả)
 
 Nguyên lý về hành động và hệ quả trong triết học Đông phương.
 
@@ -10226,7 +10226,7 @@ Nguyên lý về hành động và hệ quả trong triết học Đông phươn
 
 → **Liên kết:** FOUNDATIONS (Karma), OPERATIONS (Causal Reasoning)
 
-#### **50. Morphogenetic Fields** - Trường Hình Thái
+#### **48. Morphogenetic Fields** - Trường Hình Thái
 
 Giả thuyết về các trường ảnh hưởng đến sự phát triển hình thái và hành vi.
 
@@ -10237,7 +10237,7 @@ Giả thuyết về các trường ảnh hưởng đến sự phát triển hìn
 
 → **Liên kết:** FOUNDATIONS (Primordial Principles), DYNAMICS (Field Effects)
 
-#### **51. Adaptation Algorithms** - Thuật Toán Thích Ứng
+#### **49. Adaptation Algorithms** - Thuật Toán Thích Ứng
 
 Các quy trình có hệ thống để thích ứng với thay đổi.
 
@@ -10248,7 +10248,7 @@ Các quy trình có hệ thống để thích ứng với thay đổi.
 
 → **Liên kết:** DYNAMICS (Adaptation), OPERATIONS (Algorithms)
 
-#### **52. Creation** - Sáng Tạo
+#### **50. Creation** - Sáng Tạo
 
 Nguyên lý cơ bản về việc tạo ra cái mới từ tiềm năng.
 
@@ -10259,7 +10259,7 @@ Nguyên lý cơ bản về việc tạo ra cái mới từ tiềm năng.
 
 → **Liên kết:** CREATION (All functions), FOUNDATIONS (Primordial Forces)
 
-#### **54. Algorithms & Computation** - Thuật Toán & Tính Toán
+#### **51. Algorithms & Computation** - Thuật Toán & Tính Toán
 
 Các quy trình cơ bản của tính toán và xử lý thông tin.
 
@@ -10593,7 +10593,7 @@ Sử dụng hình thức vẽ không chủ đích hoặc phác thảo nhanh đ�
 
 → **Liên kết:** DYNAMICS (Diffuse Mode), INTEGRATION (Embodied Cognition)
 
-#### **29. Negative Space Thinking** - Tư Duy Không Gian Âm
+#### **27. Negative Space Thinking** - Tư Duy Không Gian Âm
 
 Tập trung vào những gì bị bỏ sót, vắng mặt hoặc nằm giữa các yếu tố chính.
 
@@ -10604,7 +10604,7 @@ Tập trung vào những gì bị bỏ sót, vắng mặt hoặc nằm giữa c�
 
 → **Liên kết:** FOUNDATIONS (Via Negativa), NAVIGATION (White Space Identification)
 
-#### **30. Incubation** - "Ủ" Ý Tưởng
+#### **28. Incubation** - "Ủ" Ý Tưởng
 
 Giai đoạn tạm thời rời khỏi một vấn đề một cách có ý thức để cho phép tiềm thức xử lý.
 
@@ -10615,7 +10615,7 @@ Giai đoạn tạm thời rời khỏi một vấn đề một cách có ý th�
 
 → **Liên kết:** DYNAMICS (Conscious ↔ Unconscious), [META] LAYER (Insight Cultivation)
 
-#### **31. Forcing Connections** - Ép Buộc Kết Nối
+#### **29. Forcing Connections** - Ép Buộc Kết Nối
 
 Lấy hai hoặc nhiều đối tượng hoặc ý tưởng không liên quan và buộc chúng phải có một mối liên hệ.
 
@@ -10626,7 +10626,7 @@ Lấy hai hoặc nhiều đối tượng hoặc ý tưởng không liên quan v�
 
 → **Liên kết:** CREATION (Random Stimulation), INTEGRATION (Conceptual Blending)
 
-#### **32. The Gallery Walk** - "Tham Quan Triển Lãm"
+#### **30. The Gallery Walk** - "Tham Quan Triển Lãm"
 
 Một kỹ thuật nhóm trong đó các ý tưởng được dán lên tường và mọi người đi vòng quanh, thêm các bình luận mới.
 
@@ -10637,7 +10637,7 @@ Một kỹ thuật nhóm trong đó các ý tưởng được dán lên tường
 
 → **Liên kết:** AMPLIFICATION (Collective Intelligence), DYNAMICS (Embodied Cognition)
 
-#### **33. Question Burst** - Bùng Nổ Câu Hỏi
+#### **31. Question Burst** - Bùng Nổ Câu Hỏi
 
 Một kỹ thuật tập trung hoàn toàn vào việc đặt câu hỏi về một vấn đề, thay vì cố gắng trả lời chúng.
 
@@ -10648,7 +10648,7 @@ Một kỹ thuật tập trung hoàn toàn vào việc đặt câu hỏi về m�
 
 → **Liên kết:** OPERATIONS (Problem Definition), FOUNDATIONS (Socratic Wisdom)
 
-#### **34. Science Fiction Prototyping** - Tạo Mẫu Khoa Học Viễn Tưởng
+#### **32. Science Fiction Prototyping** - Tạo Mẫu Khoa Học Viễn Tưởng
 
 Sử dụng các câu chuyện khoa học viễn tưởng để khám phá các tác động và khả năng của các công nghệ tương lai.
 
@@ -10659,7 +10659,7 @@ Sử dụng các câu chuyện khoa học viễn tưởng để khám phá các 
 
 → **Liên kết:** NAVIGATION (Scenario Planning), CREATION (World-Building)
 
-#### **35. Crowdsourcing Ideas** - Huy Động Ý Tưởng Từ Đám Đông
+#### **33. Crowdsourcing Ideas** - Huy Động Ý Tưởng Từ Đám Đông
 
 Khai thác trí tuệ tập thể của một nhóm lớn người để giải quyết vấn đề hoặc tạo ra ý tưởng.
 
@@ -10670,7 +10670,7 @@ Khai thác trí tuệ tập thể của một nhóm lớn người để giải 
 
 → **Liên kết:** AMPLIFICATION (Network Effects), INTEGRATION (Collaborative Intelligence)
 
-#### **36. Improv Techniques** - Kỹ Thuật Ứng Biến
+#### **34. Improv Techniques** - Kỹ Thuật Ứng Biến
 
 Áp dụng các kỹ thuật từ kịch ứng tác để tạo ý tưởng một cách tự phát.
 
@@ -10681,7 +10681,7 @@ Khai thác trí tuệ tập thể của một nhóm lớn người để giải 
 
 → **Liên kết:** DYNAMICS (Spontaneity), AMPLIFICATION (Collaborative Building)
 
-#### **37. Cross-Pollination - Thụ Phấn Chéo [Kỹ Thuật Tư Duy]**
+#### **35. Cross-Pollination - Thụ Phấn Chéo [Kỹ Thuật Tư Duy]**
 
 Kỹ thuật tư duy sáng tạo: kết hợp các ý tưởng, phương pháp hoặc quan điểm từ các lĩnh vực hoặc ngành khác nhau để tạo ra giải pháp mới. Đây là PHƯƠNG PHÁP CÁ NHÂN/NHÓM NHỎ trong quá trình ý tưởng hóa và sáng tạo.
 
@@ -10698,7 +10698,7 @@ Kỹ thuật tư duy sáng tạo: kết hợp các ý tưởng, phương pháp h
     • Interdisciplinary Fusion #41 (kết hợp liên ngành)
     → **Ứng dụng:** Brainstorming đa ngành, Design Thinking, Innovation Labs
 
-#### **38. Pattern Breaking - Phá Vỡ Mẫu Hình** [Cấp Độ Cá Nhân]
+#### **36. Pattern Breaking - Phá Vỡ Mẫu Hình** [Cấp Độ Cá Nhân]
 
 Hành động có chủ đích phá vỡ các thói quen và quy trình tư duy cá nhân để kích thích các kết nối thần kinh mới và mở ra không gian sáng tạo. Đây là công cụ SÁNG TẠO ở cấp độ vi mô - làm việc với bộ não và tâm trí cá nhân.
 
@@ -10714,7 +10714,7 @@ Hành động có chủ đích phá vỡ các thói quen và quy trình tư duy 
   • INTEGRATION #39 (phá vỡ ở cấp độ hệ thống và paradigm)
   • Sự khác biệt: CREATION tập trung vào CÁ NHÂN để kích thích sáng tạo, INTEGRATION tập trung vào HỆ THỐNG để tạo chuyển đổi mô thức
 
-#### **39. "Yes, and..." Thinking** - Tư Duy "Vâng, và..."
+#### **37. "Yes, and..." Thinking** - Tư Duy "Vâng, và..."
 
 Áp dụng nguyên tắc cốt lõi của kịch ứng tác để xây dựng dựa trên các ý tưởng thay vì chặn chúng.
 
@@ -10725,7 +10725,7 @@ Hành động có chủ đích phá vỡ các thói quen và quy trình tư duy 
 
 → **Liên kết:** AMPLIFICATION (Synergy), CREATION (Brainstorming)
 
-#### **40. The Master Generative Skill** - Kỹ Năng Tạo Sinh Bậc Thầy
+#### **38. The Master Generative Skill** - Kỹ Năng Tạo Sinh Bậc Thầy
 
 Khả năng tích hợp và áp dụng tất cả các kỹ thuật tạo ý tưởng một cách linh hoạt và phù hợp với bối cảnh.
 
@@ -10738,7 +10738,7 @@ Khả năng tích hợp và áp dụng tất cả các kỹ thuật tạo ý tư
 
 ### **Các Mục Mới Bổ Sung**
 
-#### **41. Alternative Thinking** - Tư Duy Thay Thế
+#### **39. Alternative Thinking** - Tư Duy Thay Thế
 
 Khả năng tạo ra và đánh giá nhiều lựa chọn thay thế khác nhau.
 
@@ -10749,7 +10749,7 @@ Khả năng tạo ra và đánh giá nhiều lựa chọn thay thế khác nhau.
 
 → **Liên kết:** NAVIGATION (Sequential Path Analysis #9), OPERATIONS (Scenario Analysis)
 
-#### **42. Provocative Operations** - Các Thao Tác Khiêu Khích
+#### **40. Provocative Operations** - Các Thao Tác Khiêu Khích
 
 Sử dụng các tuyên bố và hành động khiêu khích để phá vỡ tư duy thông thường.
 
@@ -10760,7 +10760,7 @@ Sử dụng các tuyên bố và hành động khiêu khích để phá vỡ tư
 
 → **Liên kết:** CREATION (Lateral Thinking), DYNAMICS (Disruption)
 
-#### **43. Thought Experiment Design** - Thiết Kế Thí Nghiệm Tư Duy
+#### **41. Thought Experiment Design** - Thiết Kế Thí Nghiệm Tư Duy
 
 Tạo ra các thí nghiệm trong tâm trí để kiểm tra ý tưởng và khái niệm.
 
@@ -10771,7 +10771,7 @@ Tạo ra các thí nghiệm trong tâm trí để kiểm tra ý tưởng và kh�
 
 → **Liên kết:** OPERATIONS (Mental Models), VALIDATION (Hypothesis Testing)
 
-#### **44. Mental Simulation** - Mô Phỏng Tinh Thần
+#### **42. Mental Simulation** - Mô Phỏng Tinh Thần
 
 Chạy các kịch bản và tình huống trong tâm trí để dự đoán kết quả.
 
@@ -10782,7 +10782,7 @@ Chạy các kịch bản và tình huống trong tâm trí để dự đoán k�
 
 → **Liên kết:** NAVIGATION (Future Scenarios), VALIDATION (Risk Assessment)
 
-#### **45. Idea Quotas** - Hạn Ngạch Ý Tưởng
+#### **43. Idea Quotas** - Hạn Ngạch Ý Tưởng
 
 Đặt ra yêu cầu tối thiểu về số lượng ý tưởng để buộc tư duy sáng tạo.
 
@@ -10793,7 +10793,7 @@ Chạy các kịch bản và tình huống trong tâm trí để dự đoán k�
 
 → **Liên kết:** OPERATIONS (Productivity Systems), AMPLIFICATION (Volume Effects)
 
-#### **46. Serendipity Engineering** - Kỹ Thuật Tạo May Mắn Ngẫu Nhiên
+#### **44. Serendipity Engineering** - Kỹ Thuật Tạo May Mắn Ngẫu Nhiên
 
 Thiết kế có chủ đích các môi trường, quy trình và điều kiện để tăng xác suất của những PHÁT HIỆN SÁNG TẠO ngẫu nhiên có giá trị. Đây là nghệ thuật tạo ra "tai nạn may mắn" trong quá trình sáng tạo và đổi mới.
 
@@ -10804,7 +10804,7 @@ Thiết kế có chủ đích các môi trường, quy trình và điều kiện
 
 → **Liên kết:** DYNAMICS (Emergence), AMPLIFICATION (Opportunity Creation), NAVIGATION #26 (Luck Surface Area Expansion), NAVIGATION #25 (Opportunity Magnetism), INTEGRATION #32 (Serendipity Systems)
 
-#### **47. Creative Problem Definition** - Định Nghĩa Vấn Đề Sáng Tạo
+#### **45. Creative Problem Definition** - Định Nghĩa Vấn Đề Sáng Tạo
 
 Nghệ thuật tái định hình vấn đề để mở ra không gian giải pháp mới.
 
@@ -10815,7 +10815,7 @@ Nghệ thuật tái định hình vấn đề để mở ra không gian giải p
 
 → **Liên kết:** OPERATIONS (Problem Definition), INTEGRATION (Framing)
 
-#### **48. Sonic Storytelling** - Kể Chuyện Qua Âm Thanh
+#### **46. Sonic Storytelling** - Kể Chuyện Qua Âm Thanh
 
 Sử dụng âm thanh và âm nhạc như phương tiện kể chuyện và biểu đạt ý tưởng.
 
@@ -10826,7 +10826,7 @@ Sử dụng âm thanh và âm nhạc như phương tiện kể chuyện và bi�
 
 → **Liên kết:** INTEGRATION (Narrative Weaving), CREATION (Multi-Modal Expression)
 
-#### **49. Writing as Spiritual Practice** - Viết Như Thực Hành Tâm Linh
+#### **47. Writing as Spiritual Practice** - Viết Như Thực Hành Tâm Linh
 
 Sử dụng việc viết như phương tiện kết nối với chiều sâu tâm linh và nguồn sáng tạo. Viết không chỉ là công cụ tu tập (contemplative practice) mà còn là kênh để biểu đạt và tạo ra nội dung thiêng liêng, nghệ thuật có ý nghĩa sâu xa.
 
@@ -10839,7 +10839,7 @@ Sử dụng việc viết như phương tiện kết nối với chiều sâu t�
 → **Khía cạnh thực hành cá nhân:** DYNAMICS (Contemplative Practice)
 → **Gốc lý thuyết:** FOUNDATIONS/Chức năng 4 (Eastern Wisdom - Contemplative Arts)
 
-#### **50. Teaching Artistry** - Nghệ Thuật Giảng Dạy
+#### **48. Teaching Artistry** - Nghệ Thuật Giảng Dạy
 
 Biến giảng dạy thành một hình thức nghệ thuật sáng tạo - nơi sư phạm không chỉ là truyền đạt tri thức mà là một HÀNH ĐỘNG SÁNG TẠO biến đổi cả người dạy và người học. Kết hợp nghệ thuật, sáng tạo và giáo dục thành một thực hành toàn vẹn.
 
@@ -10964,7 +10964,7 @@ Một quy trình có cấu trúc để quản lý và kiểm soát các dự án
 
 → **Liên kết:** NAVIGATION (Project Management), VALIDATION (Milestone Reviews)
 
-#### **9. Innovation Portfolio Management - Quản Lý Danh Mục Đổi Mới**
+#### **8. Innovation Portfolio Management - Quản Lý Danh Mục Đổi Mới**
 
 Quản lý một danh mục đầu tư đổi mới cân bằng giữa rủi ro và lợi nhuận.
 
@@ -10975,7 +10975,7 @@ Quản lý một danh mục đầu tư đổi mới cân bằng giữa rủi ro 
 
 → **Liên kết:** NAVIGATION (Strategic Resource Management), VALIDATION (Portfolio Assessment)
 
-#### **10. Innovation Ambition Matrix - Ma Trận Tham Vọng Đổi Mới**
+#### **9. Innovation Ambition Matrix - Ma Trận Tham Vọng Đổi Mới**
 
 Một công cụ để phân loại và cân bằng các sáng kiến đổi mới.
 
@@ -11008,7 +11008,7 @@ Tạo ra các nền tảng kết nối nhiều nhóm người dùng và tạo hi
 
 → **Liên kết:** AMPLIFICATION (Network Effects), INTEGRATION (Ecosystem Building)
 
-#### **13. Combinatorial Innovation** - Đổi Mới Kết Hợp
+#### **12. Combinatorial Innovation** - Đổi Mới Kết Hợp
 
 Kết hợp các công nghệ, ý tưởng hoặc khả năng hiện có theo những cách mới.
 
@@ -11019,7 +11019,7 @@ Kết hợp các công nghệ, ý tưởng hoặc khả năng hiện có theo nh
 
 → **Liên kết:** AMPLIFICATION (Synergy), INTEGRATION (Cross-Domain Synthesis)
 
-#### **14. Breakthrough Breeding** - Nhân Giống Đột Phá
+#### **13. Breakthrough Breeding** - Nhân Giống Đột Phá
 
 Chủ động tạo ra một môi trường và các quy trình để nuôi dưỡng và nhân rộng các đột phá.
 
@@ -11030,7 +11030,7 @@ Chủ động tạo ra một môi trường và các quy trình để nuôi dư�
 
 → **Liên kết:** CREATION (Innovation Methods), AMPLIFICATION (Catalysts)
 
-#### **15. Evolution Hacking** - Hack Tiến Hóa [Thiết Kế & Định Hướng]
+#### **14. Evolution Hacking** - Hack Tiến Hóa [Thiết Kế & Định Hướng]
 
 Chủ động thiết kế và định hướng các quy trình tiến hóa thay vì chờ đợi sự thay đổi tự nhiên. Khác với việc TĂNG TỐC ở DYNAMICS, đây là về KIỂM SOÁT và ĐỊNH HÌNH - tạo ra tiến hóa có MỤC ĐÍCH.
 
@@ -11041,7 +11041,7 @@ Chủ động thiết kế và định hướng các quy trình tiến hóa thay
 
 → **Liên kết:** [META] LAYER (Meta-Learning), DYNAMICS #58 (Evolution Hacking - tăng tốc biến đổi), DYNAMICS #1 (Evolution & Adaptation), OPERATIONS (Genetic Algorithms, A/B Testing)
 
-#### **16. Genius Mode Activation** - Kích Hoạt Chế Độ Thiên Tài
+#### **15. Genius Mode Activation** - Kích Hoạt Chế Độ Thiên Tài
 
 Đi vào một trạng thái nhận thức đỉnh cao, nơi các đột phá sáng tạo và sự thấu suốt sâu sắc xảy ra một cách tự nhiên.
 
@@ -11052,7 +11052,7 @@ Chủ động thiết kế và định hướng các quy trình tiến hóa thay
 
 → **Liên kết:** DYNAMICS (Flow State Dynamics), TRANSCENDENCE (Gnosis)
 
-#### **17. Creative Singularity** - Điểm Kỳ Dị Sáng Tạo
+#### **16. Creative Singularity** - Điểm Kỳ Dị Sáng Tạo
 
 Một điểm giả định nơi khả năng tạo ra ý tưởng và đổi mới tăng tốc đến vô hạn.
 
@@ -11063,7 +11063,7 @@ Một điểm giả định nơi khả năng tạo ra ý tưởng và đổi m�
 
 → **Liên kết:** AMPLIFICATION (Exponential Multipliers), TRANSCENDENCE (Infinity)
 
-#### **18. Alchemical Creation** - Sáng Tạo Giả Kim
+#### **17. Alchemical Creation** - Sáng Tạo Giả Kim
 
 Quá trình biến đổi một thứ gì đó thông thường, cơ bản (chì) thành một thứ có giá trị, tinh túy (vàng).
 
@@ -11074,7 +11074,7 @@ Quá trình biến đổi một thứ gì đó thông thường, cơ bản (chì
 
 → **Liên kết:** TRANSCENDENCE (Transformation), DYNAMICS (Phase Transition)
 
-#### **19. Narrative-Driven Innovation** - Đổi Mới Dẫn Dắt Bởi Câu Chuyện
+#### **18. Narrative-Driven Innovation** - Đổi Mới Dẫn Dắt Bởi Câu Chuyện
 
 Sử dụng câu chuyện mạnh mẽ để định hướng và truyền cảm hứng cho quá trình đổi mới.
 
@@ -11085,7 +11085,7 @@ Sử dụng câu chuyện mạnh mẽ để định hướng và truyền cảm 
 
 → **Liên kết:** INTEGRATION (Narrative Weaving), AMPLIFICATION (Viral Mechanics)
 
-#### **20. Prototyping** - Tạo Mẫu
+#### **19. Prototyping** - Tạo Mẫu
 
 Quá trình xây dựng các phiên bản thử nghiệm của một ý tưởng để học hỏi, kiểm tra và giao tiếp.
 
@@ -11096,7 +11096,7 @@ Quá trình xây dựng các phiên bản thử nghiệm của một ý tưởng
 
 → **Liên kết:** VALIDATION (A/B Testing), DYNAMICS (Iterative Refinement)
 
-#### **21. Systematic Inventive Thinking (SIT) - Tư Duy Sáng Tạo Có Hệ Thống**
+#### **20. Systematic Inventive Thinking (SIT) - Tư Duy Sáng Tạo Có Hệ Thống**
 
 Một phiên bản đơn giản hóa của TRIZ, tập trung vào 5 mẫu hình tư duy để đổi mới.
 
@@ -11108,7 +11108,7 @@ Một phiên bản đơn giản hóa của TRIZ, tập trung vào 5 mẫu hình 
 
 → **Liên kết:** OPERATIONS (Constraint Analysis), IDEA GENERATION
 
-#### **22. World-Building** - Xây Dựng Thế Giới [Comprehensive Creation Method]
+#### **21. World-Building** - Xây Dựng Thế Giới [Comprehensive Creation Method]
 
 Một phương pháp sáng tạo toàn diện để thiết kế các hệ thống, thế giới hoặc tương lai mạch lạc với logic nội tại riêng. World-Building hoạt động ở HAI CẤP ĐỘ: như một CÔNG CỤ SÁNG TẠO (Ideation Platform) và như một PHƯƠNG PHÁP ĐỔI MỚI ĐỘT PHÁ (Innovation Method).
 
@@ -11133,7 +11133,7 @@ Một phương pháp sáng tạo toàn diện để thiết kế các hệ thố
 → **Liên kết chính:** INTEGRATION (Systemic Integration), DYNAMICS (Emergence), NAVIGATION (Scenario Planning), AMPLIFICATION (Reality Shaping)
 → **Liên kết mở rộng:** META #16 (Conceptual Universe Design), NAVIGATION #32 (Reality Entrepreneurship), CREATION #23 (Speculative & Critical Design)
 
-#### **23. Speculative & Critical Design - Thiết Kế Đầu Cơ & Phê Phán**
+#### **22. Speculative & Critical Design - Thiết Kế Đầu Cơ & Phê Phán**
 
 Sử dụng thiết kế như một phương tiện để đặt câu hỏi, khiêu khích và khám phá các tương lai có thể có.
 
@@ -11144,7 +11144,7 @@ Sử dụng thiết kế như một phương tiện để đặt câu hỏi, khi
 
 → **Liên kết:** TRANSCENDENCE (Paradigm Questioning), NAVIGATION (Futures Thinking)
 
-#### **24. Service Design** - Thiết Kế Dịch Vụ
+#### **23. Service Design** - Thiết Kế Dịch Vụ
 
 Thiết kế dịch vụ từ góc nhìn toàn diện, xem xét cả trải nghiệm người dùng và hệ thống hậu trường.
 
@@ -11155,7 +11155,7 @@ Thiết kế dịch vụ từ góc nhìn toàn diện, xem xét cả trải nghi
 
 → **Liên kết:** INTEGRATION (System Design), VALIDATION (User Experience Testing)
 
-#### **25. Co-Creation** - Đồng Sáng Tạo [Phương Pháp Đổi Mới Đột Phá]
+#### **24. Co-Creation** - Đồng Sáng Tạo [Phương Pháp Đổi Mới Đột Phá]
 
 Phương pháp đổi mới trong đó NGƯỜI SÁNG TẠO làm việc trực tiếp cùng KHÁCH HÀNG, NGƯỜI DÙNG hoặc CÁC BÊN LIÊN QUAN để cùng nhau tạo ra giá trị mới và đột phá. Khác với INTEGRATION #8 tập trung vào QUÁ TRÌNH hợp tác, đây là về KẾT QUẢ SÁNG TẠO - những sản phẩm/giải pháp mới xuất hiện từ sự đồng sáng tạo.
 
@@ -11169,7 +11169,7 @@ Phương pháp đổi mới trong đó NGƯỜI SÁNG TẠO làm việc trực t
 → **Khuếch đại:** AMPLIFICATION (Collective Intelligence, Community Building)
 → **Ví dụ thực tế:** LEGO Ideas, Wikipedia, Open Source Software, Design Thinking Workshops với người dùng
 
-#### **26. Innovation Labs & Sandboxes - Phòng Thí Nghiệm Đổi Mới & Hộp Cát**
+#### **25. Innovation Labs & Sandboxes - Phòng Thí Nghiệm Đổi Mới & Hộp Cát**
 
 Tạo ra các không gian riêng biệt để thử nghiệm và đổi mới mà không bị ràng buộc bởi quy trình thông thường.
 
@@ -11180,7 +11180,7 @@ Tạo ra các không gian riêng biệt để thử nghiệm và đổi mới m�
 
 → **Liên kết:** VALIDATION (Safe Experimentation), OPERATIONS (Process Innovation)
 
-#### **27. Reverse Innovation** - Đổi Mới Ngược
+#### **26. Reverse Innovation** - Đổi Mới Ngược
 
 Phát triển sản phẩm cho thị trường mới nổi sau đó đưa về thị trường phát triển.
 
@@ -11191,7 +11191,7 @@ Phát triển sản phẩm cho thị trường mới nổi sau đó đưa về t
 
 → **Liên kết:** NAVIGATION (Market Strategy), OPERATIONS (Resource Optimization)
 
-#### **28. Innovation Accounting** - Kế Toán Đổi Mới
+#### **27. Innovation Accounting** - Kế Toán Đổi Mới
 
 Đo lường tiến bộ của các sáng kiến đổi mới một cách có ý nghĩa.
 
@@ -11202,7 +11202,7 @@ Phát triển sản phẩm cho thị trường mới nổi sau đó đưa về t
 
 → **Liên kết:** VALIDATION (Measurement Systems), NAVIGATION (Performance Management)
 
-#### **29. Technology Scouting** - Trinh Sát Công Nghệ
+#### **28. Technology Scouting** - Trinh Sát Công Nghệ
 
 Tìm kiếm và đánh giá các công nghệ mới nổi có thể tạo ra cơ hội đổi mới.
 
@@ -11213,7 +11213,7 @@ Tìm kiếm và đánh giá các công nghệ mới nổi có thể tạo ra cơ
 
 → **Liên kết:** NAVIGATION (Strategic Foresight), AMPLIFICATION (Technology Leverage)
 
-#### **30. Innovation Sprints** - Chạy Nước Rút Đổi Mới
+#### **29. Innovation Sprints** - Chạy Nước Rút Đổi Mới
 
 Các giai đoạn tập trung cao độ, giới hạn thời gian để giải quyết các thách thức đổi mới cụ thể.
 
@@ -11224,7 +11224,7 @@ Các giai đoạn tập trung cao độ, giới hạn thời gian để giải q
 
 → **Liên kết:** OPERATIONS (Sprint Methodology), DYNAMICS (Focused Intensity)
 
-#### **31. Innovation Challenges & Competitions - Thách Thức & Cuộc Thi Đổi Mới**
+#### **30. Innovation Challenges & Competitions - Thách Thức & Cuộc Thi Đổi Mới**
 
 Sử dụng các thách thức và cuộc thi để kích thích đổi mới.
 
@@ -11235,7 +11235,7 @@ Sử dụng các thách thức và cuộc thi để kích thích đổi mới.
 
 → **Liên kết:** AMPLIFICATION (Competition Dynamics), CREATION (Ideation Events)
 
-#### **32. Innovation Partnerships & Alliances - Đối Tác & Liên Minh Đổi Mới**
+#### **31. Innovation Partnerships & Alliances - Đối Tác & Liên Minh Đổi Mới**
 
 Hình thành các mối quan hệ đối tác chiến lược để tăng cường khả năng đổi mới.
 
@@ -11246,7 +11246,7 @@ Hình thành các mối quan hệ đối tác chiến lược để tăng cườ
 
 → **Liên kết:** INTEGRATION (Ecosystem Building), AMPLIFICATION (Resource Pooling)
 
-#### **33. Corporate Venturing** - Đầu Tư Mạo Hiểm Doanh Nghiệp
+#### **32. Corporate Venturing** - Đầu Tư Mạo Hiểm Doanh Nghiệp
 
 Đầu tư vào hoặc tạo ra các doanh nghiệp mới để thúc đẩy đổi mới.
 
@@ -11257,7 +11257,7 @@ Hình thành các mối quan hệ đối tác chiến lược để tăng cườ
 
 → **Liên kết:** AMPLIFICATION (Portfolio Approach), NAVIGATION (Strategic Investment)
 
-#### **34. Innovation Culture Building - Xây Dựng Văn Hóa Đổi Mới**
+#### **33. Innovation Culture Building - Xây Dựng Văn Hóa Đổi Mới**
 
 Xây dựng một văn hóa tổ chức hỗ trợ và khuyến khích đổi mới.
 
@@ -11268,7 +11268,7 @@ Xây dựng một văn hóa tổ chức hỗ trợ và khuyến khích đổi m�
 
 → **Liên kết:** [META] LAYER (Culture Design), DYNAMICS (Organizational Evolution)
 
-#### **35. Innovation Capability Development - Phát Triển Năng Lực Đổi Mới**
+#### **34. Innovation Capability Development - Phát Triển Năng Lực Đổi Mới**
 
 Phát triển các khả năng và kỹ năng đổi mới trong tổ chức.
 
@@ -11281,7 +11281,7 @@ Phát triển các khả năng và kỹ năng đổi mới trong tổ chức.
 
 ### **Các Mục Mới Bổ Sung**
 
-#### **36. Reality Hacking** - Hack Thực Tại
+#### **35. Reality Hacking** - Hack Thực Tại
 
 Tìm kiếm và khai thác các "lỗ hổng" trong hệ thống hiện thực để tạo ra sự thay đổi.
 
@@ -11292,7 +11292,7 @@ Tìm kiếm và khai thác các "lỗ hổng" trong hệ thống hiện thực �
 
 → **Liên kết:** OPERATIONS (Systems Thinking), DYNAMICS (Disruption)
 
-#### **37. Phoenix Innovation** - Đổi Mới Phượng Hoàng
+#### **36. Phoenix Innovation** - Đổi Mới Phượng Hoàng
 
 Tạo ra sự đổi mới từ tro tàn của thất bại hoặc khủng hoảng.
 
@@ -11303,7 +11303,7 @@ Tạo ra sự đổi mới từ tro tàn của thất bại hoặc khủng hoả
 
 → **Liên kết:** TRANSCENDENCE (Death & Rebirth), DYNAMICS (Phase Transition)
 
-#### **38. Innovation Cascades** - Thác Đổi Mới
+#### **37. Innovation Cascades** - Thác Đổi Mới
 
 Tạo ra chuỗi phản ứng đổi mới, trong đó một đổi mới dẫn đến nhiều đổi mới khác.
 
@@ -11314,7 +11314,7 @@ Tạo ra chuỗi phản ứng đổi mới, trong đó một đổi mới dẫn 
 
 → **Liên kết:** AMPLIFICATION (Chain Reactions), DYNAMICS (Cascade Effects)
 
-#### **39. Alternative Economics Models** - Các Mô Hình Kinh Tế Thay Thế
+#### **38. Alternative Economics Models** - Các Mô Hình Kinh Tế Thay Thế
 
 Phát triển các hệ thống kinh tế không truyền thống.
 
@@ -11325,7 +11325,7 @@ Phát triển các hệ thống kinh tế không truyền thống.
 
 → **Liên kết:** NAVIGATION (System Design), INTEGRATION (Social Innovation)
 
-#### **40. Innovative Governance Systems** - Hệ Thống Quản Trị Đổi Mới
+#### **39. Innovative Governance Systems** - Hệ Thống Quản Trị Đổi Mới
 
 Thử nghiệm với các hình thức quản trị và tổ chức mới.
 
@@ -11336,7 +11336,7 @@ Thử nghiệm với các hình thức quản trị và tổ chức mới.
 
 → **Liên kết:** OPERATIONS (Organizational Design), AMPLIFICATION (Network Governance)
 
-#### **41. New Relationship Models** - Các Mô Hình Quan Hệ Mới
+#### **40. New Relationship Models** - Các Mô Hình Quan Hệ Mới
 
 Tái tưởng tượng cách con người liên kết với nhau.
 
@@ -11347,7 +11347,7 @@ Tái tưởng tượng cách con người liên kết với nhau.
 
 → **Liên kết:** INTEGRATION (Social Systems), TRANSCENDENCE (New Paradigms)
 
-#### **42. Solutions Journalism** - Báo Chí Giải Pháp
+#### **41. Solutions Journalism** - Báo Chí Giải Pháp
 
 Hình thức báo chí tập trung vào các giải pháp thay vì chỉ vấn đề.
 
@@ -12588,7 +12588,7 @@ Hệ thống meta để kết hợp và áp dụng linh hoạt các công cụ t
 
 → **Liên kết:** FOUNDATIONS (Biomimicry), OPERATIONS (Systems Thinking)
 
-#### **8. Artificial Life** - Sự Sống Nhân Tạo
+#### **7. Artificial Life** - Sự Sống Nhân Tạo
 
 Tạo ra các hệ thống mô phỏng đặc tính của sự sống.
 
@@ -12599,7 +12599,7 @@ Tạo ra các hệ thống mô phỏng đặc tính của sự sống.
 
 → **Liên kết:** DYNAMICS (Emergence), OPERATIONS (Simulation)
 
-#### **9. Synthetic Biology** - Sinh Học Tổng Hợp
+#### **8. Synthetic Biology** - Sinh Học Tổng Hợp
 
 Thiết kế và xây dựng các hệ thống sinh học mới.
 
@@ -12610,7 +12610,7 @@ Thiết kế và xây dựng các hệ thống sinh học mới.
 
 → **Liên kết:** CREATION (Engineering Life), OPERATIONS (Precision Design)
 
-#### **10. Molecular Machines Design** - Thiết Kế Máy Phân Tử
+#### **9. Molecular Machines Design** - Thiết Kế Máy Phân Tử
 
 Thiết kế các cơ chế ở cấp độ phân tử.
 
@@ -12621,7 +12621,7 @@ Thiết kế các cơ chế ở cấp độ phân tử.
 
 → **Liên kết:** OPERATIONS (Precision Engineering), FOUNDATIONS (Molecular Principles)
 
-#### **11. Metamaterials Engineering** - Kỹ Thuật Siêu Vật Liệu
+#### **10. Metamaterials Engineering** - Kỹ Thuật Siêu Vật Liệu
 
 Thiết kế vật liệu với các tính chất không tồn tại trong tự nhiên.
 
@@ -12634,7 +12634,7 @@ Thiết kế vật liệu với các tính chất không tồn tại trong tự 
 
 ### **Nhóm Nghệ Thuật Sáng Tạo Ứng Dụng**
 
-#### **12. Composition & Songwriting** - Sáng Tác & Viết Nhạc
+#### **11. Composition & Songwriting** - Sáng Tác & Viết Nhạc
 
 Nghệ thuật tạo ra các tác phẩm âm nhạc.
 
@@ -12645,7 +12645,7 @@ Nghệ thuật tạo ra các tác phẩm âm nhạc.
 
 → **Liên kết:** CREATION (Artistic Expression), INTEGRATION (Composition)
 
-#### **13. Choreography** - Biên Đạo Múa
+#### **12. Choreography** - Biên Đạo Múa
 
 Thiết kế chuyển động và múa.
 
@@ -12656,7 +12656,7 @@ Thiết kế chuyển động và múa.
 
 → **Liên kết:** CREATION (Physical Expression), DYNAMICS (Movement Patterns)
 
-#### **14. Screenplay Writing** - Viết Kịch Bản
+#### **13. Screenplay Writing** - Viết Kịch Bản
 
 Cấu trúc và tạo ra các tường thuật điện ảnh.
 
@@ -12667,7 +12667,7 @@ Cấu trúc và tạo ra các tường thuật điện ảnh.
 
 → **Liên kết:** INTEGRATION (Narrative Design), OPERATIONS (Structure)
 
-#### **15. Generative Art** - Nghệ Thuật Tạo Sinh
+#### **14. Generative Art** - Nghệ Thuật Tạo Sinh
 
 Nghệ thuật được tạo ra thông qua các thuật toán và hệ thống tự động.
 
@@ -12678,7 +12678,7 @@ Nghệ thuật được tạo ra thông qua các thuật toán và hệ thống 
 
 → **Liên kết:** DYNAMICS (Emergence), OPERATIONS (Algorithms)
 
-#### **16. Experimental Forms** - Các Hình Thức Thử Nghiệm
+#### **15. Experimental Forms** - Các Hình Thức Thử Nghiệm
 
 Khám phá các biên giới và hình thức nghệ thuật mới.
 
@@ -12689,7 +12689,7 @@ Khám phá các biên giới và hình thức nghệ thuật mới.
 
 → **Liên kết:** CREATION (Innovation), TRANSCENDENCE (Beyond Forms)
 
-#### **17. Icon Painting Meditation** - Thiền Vẽ Biểu Tượng
+#### **16. Icon Painting Meditation** - Thiền Vẽ Biểu Tượng
 
 Vẽ biểu tượng thiêng liêng như thực hành thiền định.
 
@@ -12700,7 +12700,7 @@ Vẽ biểu tượng thiêng liêng như thực hành thiền định.
 
 → **Liên kết:** FOUNDATIONS (Sacred Arts), DYNAMICS (Meditative States)
 
-#### **18. Calligraphy Practice** - Thực Hành Thư Pháp
+#### **17. Calligraphy Practice** - Thực Hành Thư Pháp
 
 Nghệ thuật viết đẹp như thực hành chánh niệm.
 
@@ -12713,7 +12713,7 @@ Nghệ thuật viết đẹp như thực hành chánh niệm.
 
 ### **Nhóm Liệu Pháp Sáng Tạo & Chữa Lành**
 
-#### **19. Creative Therapies** - Các Liệu Pháp Sáng Tạo
+#### **18. Creative Therapies** - Các Liệu Pháp Sáng Tạo
 
 Sử dụng sáng tạo cho chữa lành và biến đổi.
 
@@ -12724,7 +12724,7 @@ Sử dụng sáng tạo cho chữa lành và biến đổi.
 
 → **Liên kết:** DYNAMICS (Healing), TRANSCENDENCE (Transformation)
 
-#### **20. Sound & Vibration Healing** - Chữa Lành Bằng Âm Thanh & Rung Động
+#### **19. Sound & Vibration Healing** - Chữa Lành Bằng Âm Thanh & Rung Động
 
 Sử dụng tần số và rung động để chữa lành.
 
@@ -12735,7 +12735,7 @@ Sử dụng tần số và rung động để chữa lành.
 
 → **Liên kết:** FOUNDATIONS (Vibrational Principles), DYNAMICS (Resonance)
 
-#### **22. Movement Medicine** - Y Học Chuyển Động
+#### **20. Movement Medicine** - Y Học Chuyển Động
 
 Chữa lành thông qua chuyển động có ý thức.
 
@@ -12746,7 +12746,7 @@ Chữa lành thông qua chuyển động có ý thức.
 
 → **Liên kết:** DYNAMICS (Embodied Practice), OPERATIONS (Movement)
 
-#### **23. Theater of the Oppressed** - Sân Khấu Của Người Bị Áp Bức
+#### **21. Theater of the Oppressed** - Sân Khấu Của Người Bị Áp Bức
 
 Sân khấu như công cụ giải phóng và trao quyền.
 
@@ -12757,7 +12757,7 @@ Sân khấu như công cụ giải phóng và trao quyền.
 
 → **Liên kết:** INTEGRATION (Social Change), TRANSCENDENCE (Liberation)
 
-#### **24. Light & Color Therapies** - Liệu Pháp Ánh Sáng & Màu Sắc
+#### **22. Light & Color Therapies** - Liệu Pháp Ánh Sáng & Màu Sắc
 
 Sử dụng ánh sáng và màu sắc để chữa lành.
 
@@ -12768,7 +12768,7 @@ Sử dụng ánh sáng và màu sắc để chữa lành.
 
 → **Liên kết:** FOUNDATIONS (Color Theory), DYNAMICS (Perception)
 
-#### **25. Water & Fluid Energy** - Năng Lượng Nước & Chất Lỏng
+#### **23. Water & Fluid Energy** - Năng Lượng Nước & Chất Lỏng
 
 Làm việc với năng lượng của nước và chất lỏng.
 
@@ -12781,7 +12781,7 @@ Làm việc với năng lượng của nước và chất lỏng.
 
 ### **Nhóm Nghệ Thuật Thiêng Liêng & Chiêm Nghiệm**
 
-#### **26. Sacred Art & Mandala Creation** - Nghệ Thuật Thiêng Liêng & Tạo Mandala
+#### **24. Sacred Art & Mandala Creation** - Nghệ Thuật Thiêng Liêng & Tạo Mandala
 
 Tạo ra nghệ thuật thiêng liêng và các mẫu hình mandala.
 
@@ -12792,7 +12792,7 @@ Tạo ra nghệ thuật thiêng liêng và các mẫu hình mandala.
 
 → **Liên kết:** FOUNDATIONS (Sacred Geometry), DYNAMICS (Meditation)
 
-#### **27. Sound Creation & Sacred Music** - Sáng Tạo Âm Thanh & Âm Nhạc Thiêng Liêng
+#### **25. Sound Creation & Sacred Music** - Sáng Tạo Âm Thanh & Âm Nhạc Thiêng Liêng
 
 Tạo ra âm nhạc cho mục đích tâm linh.
 
@@ -12803,7 +12803,7 @@ Tạo ra âm nhạc cho mục đích tâm linh.
 
 → **Liên kết:** FOUNDATIONS (Sacred Music), INTEGRATION (Ritual)
 
-#### **28. Movement as Art Practice** - Chuyển Động Như Thực Hành Nghệ Thuật
+#### **26. Movement as Art Practice** - Chuyển Động Như Thực Hành Nghệ Thuật
 
 Chuyển động có ý thức như một hình thức nghệ thuật và cầu nguyện.
 
@@ -12814,7 +12814,7 @@ Chuyển động có ý thức như một hình thức nghệ thuật và cầu 
 
 → **Liên kết:** DYNAMICS (Sacred Movement), TRANSCENDENCE (Prayer)
 
-#### **30. Sound Sculpture** - Điêu Khắc Âm Thanh
+#### **27. Sound Sculpture** - Điêu Khắc Âm Thanh
 
 Tạo ra các tác phẩm không gian âm thanh.
 
@@ -12825,7 +12825,7 @@ Tạo ra các tác phẩm không gian âm thanh.
 
 → **Liên kết:** INTEGRATION (Space Design), OPERATIONS (Acoustic Engineering)
 
-#### **31. Vibrational Therapy Design** - Thiết Kế Liệu Pháp Rung Động
+#### **28. Vibrational Therapy Design** - Thiết Kế Liệu Pháp Rung Động
 
 Thiết kế các liệu pháp chữa lành dựa trên nguyên lý tần số và rung động -
 kết hợp nghệ thuật, khoa học và trực giác để tạo ra các giao thức điều trị mới.
@@ -12844,7 +12844,7 @@ kết hợp nghệ thuật, khoa học và trực giác để tạo ra các giao
 → **Ghi chú:** Để ứng dụng thực tế các liệu pháp rung động trong quản lý
 năng lượng và cảm xúc, xem DYNAMICS #78 (Sound & Vibrational Medicine)
 
-#### **32. Algorithmic Sacred Music** - Nhạc Thiêng Liêng Thuật Toán
+#### **29. Algorithmic Sacred Music** - Nhạc Thiêng Liêng Thuật Toán
 
 Tạo nhạc thiêng liêng thông qua các mẫu hình và thuật toán.
 
@@ -12855,7 +12855,7 @@ Tạo nhạc thiêng liêng thông qua các mẫu hình và thuật toán.
 
 → **Liên kết:** FOUNDATIONS (Sacred Mathematics), OPERATIONS (Algorithms)
 
-#### **33. Binaural Beat Meditation** - Thiền Nhịp Kép
+#### **30. Binaural Beat Meditation** - Thiền Nhịp Kép
 
 Sử dụng nhịp kép để thay đổi trạng thái ý thức.
 
@@ -12868,7 +12868,7 @@ Sử dụng nhịp kép để thay đổi trạng thái ý thức.
 
 ### **Nhóm Đổi Mới & Cộng Đồng**
 
-#### **34. Educational Innovation** - Đổi Mới Giáo Dục
+#### **31. Educational Innovation** - Đổi Mới Giáo Dục
 
 Tái tưởng tượng các hệ thống học tập.
 
@@ -12879,7 +12879,7 @@ Tái tưởng tượng các hệ thống học tập.
 
 → **Liên kết:** INTEGRATION (Knowledge Transfer), AMPLIFICATION (Social Impact)
 
-#### **35. Gamification** - Trò Chơi Hóa
+#### **32. Gamification** - Trò Chơi Hóa
 
 Áp dụng cơ chế trò chơi vào các ngữ cảnh không phải trò chơi.
 
@@ -12890,7 +12890,7 @@ Tái tưởng tượng các hệ thống học tập.
 
 → **Liên kết:** OPERATIONS (System Design), AMPLIFICATION (Engagement)
 
-#### **36. Flipped Classroom** - Lớp Học Đảo Ngược
+#### **33. Flipped Classroom** - Lớp Học Đảo Ngược
 
 Đảo ngược mô hình giảng dạy truyền thống.
 
@@ -12901,7 +12901,7 @@ Tái tưởng tượng các hệ thống học tập.
 
 → **Liên kết:** CREATION (Innovation), OPERATIONS (Teaching Methods)
 
-#### **37. Community Art Practice** - Thực Hành Nghệ Thuật Cộng Đồng [Phương Pháp Thiết Kế]
+#### **34. Community Art Practice** - Thực Hành Nghệ Thuật Cộng Đồng [Phương Pháp Thiết Kế]
 
 Phương pháp sáng tạo có cấu trúc trong đó nghệ thuật được tạo ra BỞI và CHO cộng đồng. Đây là CÔNG CỤ THIẾT KẾ trong bộ công cụ Design Thinking, sử dụng nghệ thuật như phương tiện để giải quyết vấn đề và tạo ra thay đổi xã hội.
 
@@ -12915,7 +12915,7 @@ Phương pháp sáng tạo có cấu trúc trong đó nghệ thuật được t�
 → **Khuếch đại tác động:** AMPLIFICATION #49 (Community Art Practice - Platform chữa lành)
 → **Ứng dụng:** Social innovation, community engagement, participatory design
 
-#### **38. Eco-Art & Land Art** - Nghệ Thuật Sinh Thái & Đất Đai
+#### **35. Eco-Art & Land Art** - Nghệ Thuật Sinh Thái & Đất Đai
 
 Hình thức nghệ thuật tương tác trực tiếp với môi trường tự nhiên và cảnh quan, vừa là QUÁ TRÌNH SÁNG TẠO vừa là PHƯƠNG TIỆN GIAO TIẾP về ý thức sinh thái. Nghệ sĩ sử dụng chính thiên nhiên - đất, đá, cây, nước - như vật liệu và không gian tác phẩm, tạo ra các tác phẩm thường mang tính tạm thời và thay đổi theo thời gian.
 
@@ -12933,7 +12933,7 @@ Hình thức nghệ thuật tương tác trực tiếp với môi trường tự
   • James Turrell - *Roden Crater*
   • Christo & Jeanne-Claude - Wrapped landscapes
 
-#### **39. Digital Sacred Art** - Nghệ Thuật Thiêng Liêng Kỹ Thuật Số
+#### **36. Digital Sacred Art** - Nghệ Thuật Thiêng Liêng Kỹ Thuật Số
 
 Phương pháp sáng tạo nghệ thuật tâm linh sử dụng công nghệ kỹ thuật số làm phương tiện biểu đạt và trải nghiệm. Đây là sự HỢP NHẤT giữa công nghệ hiện đại và truyền thống tâm linh - tạo ra không gian thiêng liêng trong thế giới số.
 
@@ -12955,7 +12955,7 @@ Phương pháp sáng tạo nghệ thuật tâm linh sử dụng công nghệ k�
 → **Phân phối:** Qua các nền tảng trong AMPLIFICATION (Social Media Arts, Streaming Services)
 → **Cộng đồng:** Community Art Practice (AMPLIFICATION)
 
-#### **40. VR Meditation Environments** - Môi Trường Thiền Thực Tế Ảo
+#### **37. VR Meditation Environments** - Môi Trường Thiền Thực Tế Ảo
 
 Tạo không gian thiền định trong thực tế ảo.
 
@@ -12966,7 +12966,7 @@ Tạo không gian thiền định trong thực tế ảo.
 
 → **Liên kết:** DYNAMICS (Consciousness Tech), AMPLIFICATION (Immersion)
 
-#### **41. Meta-Creative Practice** - Thực Hành Siêu Sáng Tạo **[Nghệ Thuật Phản Chiếu]**
+#### **38. Meta-Creative Practice** - Thực Hành Siêu Sáng Tạo **[Nghệ Thuật Phản Chiếu]**
 
 Nghệ thuật và thực hành sáng tạo VỀ CHÍNH SỰ SÁNG TẠO - khi quá trình sáng tạo trở thành chủ đề của tác phẩm. Khác với việc thiết kế hệ thống sáng tạo (INTEGRATION), đây là về BIỂU ĐẠT NGHỆ THUẬT có tính tự quy chiếu.
 
@@ -12979,7 +12979,7 @@ Nghệ thuật và thực hành sáng tạo VỀ CHÍNH SỰ SÁNG TẠO - khi q
 → **Phiên bản khác:** INTEGRATION #43 (thiết kế HỆ THỐNG sáng tạo, không phải TÁC PHẨM)
 → **Ví dụ thực tế:** "Adaptation" (phim về viết kịch bản phim), Jackson Pollock's action painting (quá trình = tác phẩm), Meta-theater (kịch về diễn kịch)
 
-#### **42. Structured Water Creation** - Tạo Nước Có Cấu Trúc
+#### **39. Structured Water Creation** - Tạo Nước Có Cấu Trúc
 
 Tạo ra nước với cấu trúc phân tử đặc biệt.
 
@@ -14025,7 +14025,7 @@ Hiểu không gian và thời gian như một thực thể thống nhất, liên
 
 → **Liên kết:** FOUNDATIONS (Physics), DYNAMICS (Relativity).
 
-#### **27. Multidimensional Reality** - Thực Tại Đa Chiều
+#### **26. Multidimensional Reality** - Thực Tại Đa Chiều
 
 Nhận thức rằng thực tại tồn tại trên nhiều chiều và tầng lớp.
 
@@ -14036,7 +14036,7 @@ Nhận thức rằng thực tại tồn tại trên nhiều chiều và tầng l
 
 → **Liên kết:** TRANSCENDENCE (Expanded Awareness), [META] LAYER (Reality Models).
 
-#### **28. Parallel Universes** - Vũ Trụ Song Song
+#### **27. Parallel Universes** - Vũ Trụ Song Song
 
 Khái niệm về các thực tại thay thế có thể tồn tại đồng thời.
 
@@ -14047,7 +14047,7 @@ Khái niệm về các thực tại thay thế có thể tồn tại đồng th�
 
 → **Liên kết:** CREATION (Possibility Thinking), DYNAMICS (Quantum Mechanics).
 
-#### **29. Scenario Cartography** - Lập Bản Đồ Kịch Bản
+#### **28. Scenario Cartography** - Lập Bản Đồ Kịch Bản
 
 Lập bản đồ chi tiết các kịch bản tương lai có thể xảy ra.
 
@@ -14058,7 +14058,7 @@ Lập bản đồ chi tiết các kịch bản tương lai có thể xảy ra.
 
 → **Liên kết:** OPERATIONS (Future Planning), CREATION (Scenario Design).
 
-#### **30. Alternative Timeline Surfing** - Lướt Trên Các Dòng Thời Gian Thay Thế
+#### **29. Alternative Timeline Surfing** - Lướt Trên Các Dòng Thời Gian Thay Thế
 
 Khám phá các dòng thời gian có thể khác nhau từ các quyết định.
 
@@ -14069,7 +14069,7 @@ Khám phá các dòng thời gian có thể khác nhau từ các quyết định
 
 → **Liên kết:** CREATION (Alternative Thinking), VALIDATION (Counterfactual Analysis).
 
-#### **31. Future History Writing** - Viết Lịch Sử Tương Lai
+#### **30. Future History Writing** - Viết Lịch Sử Tương Lai
 
 Tạo ra các câu chuyện chi tiết về tương lai như thể chúng đã xảy ra.
 
@@ -14080,7 +14080,7 @@ Tạo ra các câu chuyện chi tiết về tương lai như thể chúng đã x
 
 → **Liên kết:** CREATION (Future Visioning), INTEGRATION (Narrative Creation).
 
-#### **32. Prophetic Engineering** - Kỹ Thuật Tiên Tri
+#### **31. Prophetic Engineering** - Kỹ Thuật Tiên Tri
 
 Thiết kế tương lai một cách có chủ đích để nó trở thành hiện thực.
 
@@ -14091,7 +14091,7 @@ Thiết kế tương lai một cách có chủ đích để nó trở thành hi�
 
 → **Liên kết:** CREATION (Manifestation), AMPLIFICATION (Vision Realization).
 
-#### **33. Reality Fiction Techniques** - Kỹ Thuật Hư Cấu Thực Tại
+#### **32. Reality Fiction Techniques** - Kỹ Thuật Hư Cấu Thực Tại
 
 Sử dụng tưởng tượng và kể chuyện để định hình thực tại.
 
@@ -14102,7 +14102,7 @@ Sử dụng tưởng tượng và kể chuyện để định hình thực tại
 
 → **Liên kết:** CREATION (Creative Manifestation), INTEGRATION (Storytelling).
 
-#### **34. Story Structure Hacking** - Đột Nhập Cấu Trúc Câu Chuyện
+#### **33. Story Structure Hacking** - Đột Nhập Cấu Trúc Câu Chuyện
 
 Sử dụng và điều chỉnh các cấu trúc câu chuyện để định hình trải nghiệm và kết quả.
 
@@ -14113,7 +14113,7 @@ Sử dụng và điều chỉnh các cấu trúc câu chuyện để định hì
 
 → **Liên kết:** CREATION (Narrative Design), INTEGRATION (Experience Shaping).
 
-#### **35. Archetype Invocation** - Triệu Hồi Nguyên Mẫu
+#### **34. Archetype Invocation** - Triệu Hồi Nguyên Mẫu
 
 Kích hoạt các mẫu hình tâm lý nguyên thủy để tạo ra ảnh hưởng và hành động.
 
@@ -14124,7 +14124,7 @@ Kích hoạt các mẫu hình tâm lý nguyên thủy để tạo ra ảnh hư�
 
 → **Liên kết:** FOUNDATIONS (Jungian Psychology), AMPLIFICATION (Symbolic Power).
 
-#### **36. Myth Modernization** - Hiện Đại Hóa Thần Thoại
+#### **35. Myth Modernization** - Hiện Đại Hóa Thần Thoại
 
 Điều chỉnh các thần thoại cổ xưa cho bối cảnh và thách thức hiện đại.
 
@@ -14135,7 +14135,7 @@ Kích hoạt các mẫu hình tâm lý nguyên thủy để tạo ra ảnh hư�
 
 → **Liên kết:** FOUNDATIONS (Mythology), INTEGRATION (Cultural Bridge).
 
-#### **37. Quantum Computing Navigation** - Điều Hướng Điện Toán Lượng Tử
+#### **36. Quantum Computing Navigation** - Điều Hướng Điện Toán Lượng Tử
 
 Sử dụng các nguyên lý điện toán lượng tử để xử lý song song nhiều con đường.
 
@@ -14146,7 +14146,7 @@ Sử dụng các nguyên lý điện toán lượng tử để xử lý song son
 
 → **Liên kết:** OPERATIONS (Advanced Computing), DYNAMICS (Quantum Mechanics).
 
-#### **38. Quantum Tunneling Focus** - Tập Trung Xuyên Qua Rào Cản Lượng Tử
+#### **37. Quantum Tunneling Focus** - Tập Trung Xuyên Qua Rào Cản Lượng Tử
 
 Khả năng "xuyên qua" các rào cản tưởng chừng không thể vượt qua.
 
@@ -14157,7 +14157,7 @@ Khả năng "xuyên qua" các rào cản tưởng chừng không thể vượt q
 
 → **Liên kết:** CREATION (Breakthrough Innovation), TRANSCENDENCE (Limitation Transcendence).
 
-#### **39. Evolutionary Navigation** - Điều Hướng Tiến Hóa
+#### **38. Evolutionary Navigation** - Điều Hướng Tiến Hóa
 
 Áp dụng các nguyên lý tiến hóa sinh học vào điều hướng chiến lược: tạo biến thể, kiểm nghiệm trong thực tế, chọn lọc những gì hiệu quả, và nhân rộng các giải pháp tốt nhất.
 
@@ -14192,7 +14192,7 @@ Khả năng "xuyên qua" các rào cản tưởng chừng không thể vượt q
   • Nghiên cứu khoa học với nhiều giả thuyết song song
   • Lập kế hoạch cuộc sống linh hoạt
 
-#### **40. Co-evolutionary Navigation** - Điều Hướng Đồng Tiến Hóa
+#### **39. Co-evolutionary Navigation** - Điều Hướng Đồng Tiến Hóa
 
 Chiến lược điều hướng trong các hệ thống nơi các bên cùng tiến hóa và ảnh hưởng lẫn nhau. Khác với DYNAMICS #8 (về cơ chế), đây là về THỰC HÀNH điều hướng có chiến lược khi bạn là một phần của hệ sinh thái cùng tiến hóa. Đây là CHIẾN LƯỢC & THỰC HÀNH - LÀM THẾ NÀO để điều hướng trong môi trường cùng tiến hóa.
 
@@ -14206,7 +14206,7 @@ Chiến lược điều hướng trong các hệ thống nơi các bên cùng ti
 → **Siêu việt hóa:** TRANSCENDENCE #31 (Transcendent Co-evolution - nâng lên mức độ ý thức cao hơn)
 → **Khác với:** TRANSCENDENCE #31 (chiến lược thực hành vs. nhận thức siêu việt)
 
-#### **41. Meta-Strategy** - Siêu Chiến Lược **[Công Cụ Lập Kế Hoạch]**
+#### **40. Meta-Strategy** - Siêu Chiến Lược **[Công Cụ Lập Kế Hoạch]**
 
 Chiến lược về cách TẠO RA và ĐIỀU CHỈNH các chiến lược trong thực hành. Khác với Meta-Strategy ở META LAYER (thiết kế framework), đây là về THỰC HÀNH - cách áp dụng tư duy meta vào việc lập kế hoạch cụ thể.
 
@@ -14225,7 +14225,7 @@ Chiến lược về cách TẠO RA và ĐIỀU CHỈNH các chiến lược tro
 → **Cấp độ cao hơn:** [META] LAYER #33 (Meta-Strategy - thiết kế framework).
 → **Siêu nhận thức:** [META] LAYER (Meta-Cognition), TRANSCENDENCE (Strategic Wisdom).
 
-#### **42. Meta-Wayfinding** - Siêu Tìm Đường **[Khám Phá Phương Pháp]**
+#### **41. Meta-Wayfinding** - Siêu Tìm Đường **[Khám Phá Phương Pháp]**
 
 Tìm đường để tìm đường - NGHỆ THUẬT khám phá các phương pháp điều hướng mới. Đây là về THỰC HÀNH: làm thế nào để phát hiện ra các cách tiếp cận mới để điều hướng trong bất kỳ không gian nào (vật lý, tri thức, chiến lược).
 
@@ -14240,7 +14240,7 @@ Tìm đường để tìm đường - NGHỆ THUẬT khám phá các phương ph
 → **Ứng dụng:** OPERATIONS (Strategic Planning).
 → **Đổi mới:** CREATION #25 (Novel Path Discovery).
 
-#### **43. Meta-Narrative Awareness** - Nhận Thức Siêu Tường Thuật
+#### **42. Meta-Narrative Awareness** - Nhận Thức Siêu Tường Thuật
 
 Nhận thức về các câu chuyện lớn hơn đang định hình nhận thức và hành vi.
 
@@ -14251,7 +14251,7 @@ Nhận thức về các câu chuyện lớn hơn đang định hình nhận th�
 
 → **Liên kết:** [META] LAYER (Narrative Analysis), INTEGRATION (Meaning-Making).
 
-#### **44. Life Design Architecture** - Kiến Trúc Thiết Kế Cuộc Sống
+#### **43. Life Design Architecture** - Kiến Trúc Thiết Kế Cuộc Sống
 
 Thiết kế có chủ đích các cấu trúc và hệ thống của cuộc sống.
 
@@ -14262,7 +14262,7 @@ Thiết kế có chủ đích các cấu trúc và hệ thống của cuộc s�
 
 → **Liên kết:** INTEGRATION (Personal Integration), OPERATIONS (Life Planning).
 
-#### **45. Life Planning & Purpose Finding** - Lập Kế Hoạch Cuộc Sống & Tìm Mục Đích
+#### **44. Life Planning & Purpose Finding** - Lập Kế Hoạch Cuộc Sống & Tìm Mục Đích
 
 Quá trình xác định và theo đuổi mục đích sống.
 
@@ -14273,7 +14273,7 @@ Quá trình xác định và theo đuổi mục đích sống.
 
 → **Liên kết:** FOUNDATIONS (Purpose), INTEGRATION (Life Integration).
 
-#### **46. Career Counseling** - Tư Vấn Nghề Nghiệp
+#### **45. Career Counseling** - Tư Vấn Nghề Nghiệp
 
 Hướng dẫn về các quyết định và phát triển nghề nghiệp.
 
@@ -14284,7 +14284,7 @@ Hướng dẫn về các quyết định và phát triển nghề nghiệp.
 
 → **Liên kết:** OPERATIONS (Career Development), INTEGRATION (Professional Identity).
 
-#### **47. Evolutionary Purpose Discovery** - Khám Phá Mục Đích Tiến Hóa
+#### **46. Evolutionary Purpose Discovery** - Khám Phá Mục Đích Tiến Hóa
 
 Mục đích không cố định mà tiến hóa và mở ra theo thời gian.
 
@@ -14392,7 +14392,7 @@ Lập danh sách và đánh giá tất cả các tài nguyên có sẵn.
 
 → **Liên kết:** AMPLIFICATION (Leverage), OPERATIONS (Resource Management).
 
-#### **9. Lean Thinking** - Tư Duy Tinh Gọn
+#### **8. Lean Thinking** - Tư Duy Tinh Gọn
 
 Loại bỏ lãng phí (Muda) và tập trung vào giá trị.
 
@@ -14403,7 +14403,7 @@ Loại bỏ lãng phí (Muda) và tập trung vào giá trị.
 
 → **Liên kết:** OPERATIONS (Process Optimization), VALIDATION (Value Analysis).
 
-#### **10. Opportunity Cost Awareness** - Nhận Thức Chi Phí Cơ Hội
+#### **9. Opportunity Cost Awareness** - Nhận Thức Chi Phí Cơ Hội
 
 Luôn xem xét giá trị của lựa chọn tốt nhất tiếp theo mà bạn từ bỏ.
 
@@ -14414,7 +14414,7 @@ Luôn xem xét giá trị của lựa chọn tốt nhất tiếp theo mà bạn 
 
 → **Liên kết:** OPERATIONS (Decision Economics), VALIDATION (Rationality Check).
 
-#### **11. Capacity Planning** - Lập Kế Hoạch Công Suất
+#### **10. Capacity Planning** - Lập Kế Hoạch Công Suất
 
 Đảm bảo rằng tài nguyên có sẵn phù hợp với nhu cầu dự kiến.
 
@@ -14425,7 +14425,7 @@ Luôn xem xét giá trị của lựa chọn tốt nhất tiếp theo mà bạn 
 
 → **Liên kết:** OPERATIONS (Operations Management), DYNAMICS (System Scalability).
 
-#### **12. Energy Management - Quản Lý Năng Lượng [Tài Nguyên Chiến Lược]**
+#### **11. Energy Management - Quản Lý Năng Lượng [Tài Nguyên Chiến Lược]**
 
 Quản lý năng lượng cá nhân (vật lý, tinh thần, cảm xúc) như một TÀI NGUYÊN CHIẾN LƯỢC hữu hạn cần được phân bổ khôn ngoan. Đây là về QUYẾT ĐỊNH - đầu tư năng lượng vào đâu, khi nào, và với cường độ bao nhiêu.
 
@@ -14440,7 +14440,7 @@ Quản lý năng lượng cá nhân (vật lý, tinh thần, cảm xúc) như m�
   • DYNAMICS: Tăng cường NGUỒN năng lượng (increase capacity)
   • NAVIGATION: Tối ưu CÁCH SỬ DỤNG năng lượng (optimize allocation)
 
-#### **13. Attention Management** - Quản Lý Sự Chú Ý
+#### **12. Attention Management** - Quản Lý Sự Chú Ý
 
 Quản lý sự chú ý như tài nguyên khan hiếm nhất trong thế giới hiện đại.
 
@@ -14451,7 +14451,7 @@ Quản lý sự chú ý như tài nguyên khan hiếm nhất trong thế giới 
 
 → **Liên kết:** OPERATIONS (Productivity), DYNAMICS (Cognitive Load).
 
-#### **14. Decision Fatigue Awareness** - Nhận Thức Về Mệt Mỏi Quyết Định
+#### **13. Decision Fatigue Awareness** - Nhận Thức Về Mệt Mỏi Quyết Định
 
 Nhận ra rằng khả năng ra quyết định giảm dần sau mỗi quyết định.
 
@@ -14462,7 +14462,7 @@ Nhận ra rằng khả năng ra quyết định giảm dần sau mỗi quyết �
 
 → **Liên kết:** DYNAMICS (Cognitive Dynamics), OPERATIONS (Decision Hygiene).
 
-#### **15. Master Resource Allocator** - Bậc Thầy Phân Bổ Tài Nguyên
+#### **14. Master Resource Allocator** - Bậc Thầy Phân Bổ Tài Nguyên
 
 Khả năng tích hợp tất cả các nguyên tắc quản lý tài nguyên và ưu tiên một cách tự nhiên.
 
@@ -14475,7 +14475,7 @@ Khả năng tích hợp tất cả các nguyên tắc quản lý tài nguyên v�
 
 ### Các mục mới bổ sung
 
-#### **16. Resource Alchemy** - Giả Kim Tài Nguyên
+#### **15. Resource Alchemy** - Giả Kim Tài Nguyên
 
 Chuyển đổi các tài nguyên từ dạng này sang dạng khác để tăng giá trị.
 
@@ -14486,7 +14486,7 @@ Chuyển đổi các tài nguyên từ dạng này sang dạng khác để tăng
 
 → **Liên kết:** CREATION (Value Innovation), OPERATIONS (Resource Optimization).
 
-#### **17. Supply Chain Navigation** - Điều Hướng Chuỗi Cung Ứng
+#### **16. Supply Chain Navigation** - Điều Hướng Chuỗi Cung Ứng
 
 Quản lý và tối ưu hóa dòng chảy tài nguyên qua mạng lưới phức tạp.
 
@@ -14497,7 +14497,7 @@ Quản lý và tối ưu hóa dòng chảy tài nguyên qua mạng lưới phứ
 
 → **Liên kết:** OPERATIONS (Supply Chain), INTEGRATION (Network Coordination).
 
-#### **18. Conservation Principle** - Nguyên Tắc Bảo Tồn [Chiến Lược Tài Nguyên]
+#### **17. Conservation Principle** - Nguyên Tắc Bảo Tồn [Chiến Lược Tài Nguyên]
 
 Nguyên tắc chiến lược về bảo vệ và duy trì các tài nguyên quan trọng cho tương lai. Khác với các chiến lược tối ưu hóa ngắn hạn, nguyên tắc này tập trung vào SỰ BỀN VỮNG và khả năng TÁI TẠO của hệ thống theo thời gian.
 
@@ -14536,7 +14536,7 @@ Nguyên tắc chiến lược về bảo vệ và duy trì các tài nguyên qua
 → **Khuếch đại:** AMPLIFICATION (Sustainable Scaling)
 → **Tích hợp:** INTEGRATION (System Coherence)
 
-#### **19. Investment Wisdom - Trí Tuệ Đầu Tư** [Phân Bổ Tài Nguyên Chiến Lược]
+#### **18. Investment Wisdom - Trí Tuệ Đầu Tư** [Phân Bổ Tài Nguyên Chiến Lược]
 
 Nghệ thuật và khoa học về phân bổ nguồn lực khan hiếm (thời gian, tiền bạc, năng lượng, chú ý) để tạo ra lợi nhuận tối ưu trong dài hạn. Đây là trí tuệ cốt lõi của quản lý tài nguyên chiến lược - biết ĐẦU TƯ vào đâu, bao nhiêu, và khi nào.
 
@@ -14570,7 +14570,7 @@ Nghệ thuật và khoa học về phân bổ nguồn lực khan hiếm (thời 
   • Time allocation và priority management
   • Relationship investment và network building
 
-#### **20. Risk Matrix** - Ma Trận Rủi Ro
+#### **19. Risk Matrix** - Ma Trận Rủi Ro
 
 Công cụ trực quan để đánh giá và ưu tiên rủi ro.
 
@@ -14581,7 +14581,7 @@ Công cụ trực quan để đánh giá và ưu tiên rủi ro.
 
 → **Liên kết:** VALIDATION (Risk Assessment), OPERATIONS (Risk Management).
 
-#### **21. Margin of Safety - Biên Độ An Toàn** [Trong Quản Lý Tài Nguyên]
+#### **20. Margin of Safety - Biên Độ An Toàn** [Trong Quản Lý Tài Nguyên]
 
 ỨNG DỤNG của nguyên lý biên an toàn vào QUẢN LÝ TÀI NGUYÊN & ƯU TIÊN. Đây là CÔNG CỤ THỰC HÀNH để duy trì đệm bảo vệ trong phân bổ nguồn lực, giúp hấp thụ các cú sốc và sai số trong điều hướng chiến lược.
 
@@ -14610,7 +14610,7 @@ Công cụ trực quan để đánh giá và ưu tiên rủi ro.
 3. Irreversibility cao (hard to undo)
 4. Complexity cao (nhiều phụ thuộc)
 
-#### **22. Signal Processing** - Xử Lý Tín Hiệu
+#### **21. Signal Processing** - Xử Lý Tín Hiệu
 
 Lọc nhiễu để nhận diện tín hiệu có ý nghĩa.
 
@@ -14621,7 +14621,7 @@ Lọc nhiễu để nhận diện tín hiệu có ý nghĩa.
 
 → **Liên kết:** VALIDATION (Signal vs Noise), OPERATIONS (Information Processing).
 
-#### **23. Knowledge Navigation** - Điều Hướng Tri Thức
+#### **22. Knowledge Navigation** - Điều Hướng Tri Thức
 
 Tìm kiếm và kết nối các phần kiến thức.
 
@@ -14632,7 +14632,7 @@ Tìm kiếm và kết nối các phần kiến thức.
 
 → **Liên kết:** INTEGRATION (Knowledge Synthesis), OPERATIONS (Research Methods).
 
-#### **24. Option Preservation - Bảo Tồn Quyền Chọn [Trong Chiến Lược]**
+#### **23. Option Preservation - Bảo Tồn Quyền Chọn [Trong Chiến Lược]**
 
 Nguyên tắc duy trì sự linh hoạt CHIẾN LƯỢC bằng cách trì hoãn cam kết tài nguyên cho đến khi có thông tin rõ ràng hơn. Đây là về STRATEGIC FLEXIBILITY - quản lý các quyền chọn trong hành động, không phải trong tư duy.
 
@@ -14646,7 +14646,7 @@ Nguyên tắc duy trì sự linh hoạt CHIẾN LƯỢC bằng cách trì hoãn 
 → **Công cụ định giá:** OPERATIONS (Real Options Framework)
 → **Quyết định thông minh:** OPERATIONS (Reversible vs Irreversible Decisions)
 
-#### **25. Opportunity Magnetism** - Từ Tính Cơ Hội
+#### **24. Opportunity Magnetism** - Từ Tính Cơ Hội
 
 Tạo ra sự hấp dẫn để cơ hội tự đến.
 
@@ -14657,7 +14657,7 @@ Tạo ra sự hấp dẫn để cơ hội tự đến.
 
 → **Liên kết:** AMPLIFICATION (Attraction), INTEGRATION (Network Building).
 
-#### **26. Luck Surface Area Expansion** - Mở Rộng Diện Tích May Mắn
+#### **25. Luck Surface Area Expansion** - Mở Rộng Diện Tích May Mắn
 
 Tăng xác suất gặp may mắn bằng cách tăng sự tiếp xúc và hành động.
 
@@ -14668,7 +14668,7 @@ Tăng xác suất gặp may mắn bằng cách tăng sự tiếp xúc và hành 
 
 → **Liên kết:** CREATION #46 (Serendipity Engineering), NAVIGATION #22 (Serendipity Navigation), AMPLIFICATION (Opportunity Multiplication), OPERATIONS (Activity Management).
 
-#### **27. Barrier Detection** - Phát Hiện Rào Cản
+#### **26. Barrier Detection** - Phát Hiện Rào Cản
 
 Nhận diện sớm các chướng ngại vật và trở ngại.
 
@@ -14679,7 +14679,7 @@ Nhận diện sớm các chướng ngại vật và trở ngại.
 
 → **Liên kết:** VALIDATION (Risk Detection), OPERATIONS (Proactive Management).
 
-#### **28. Circumvention Strategies** - Chiến Lược Vượt Qua
+#### **27. Circumvention Strategies** - Chiến Lược Vượt Qua
 
 Các phương pháp để đi vòng hoặc tránh các chướng ngại vật.
 
@@ -14690,7 +14690,7 @@ Các phương pháp để đi vòng hoặc tránh các chướng ngại vật.
 
 → **Liên kết:** CREATION (Alternative Solutions), OPERATIONS (Problem Solving).
 
-#### **29. Breakthrough Navigation** - Điều Hướng Đột Phá
+#### **28. Breakthrough Navigation** - Điều Hướng Đột Phá
 
 Vượt qua các rào cản bằng cách tạo ra đột phá.
 
@@ -14701,7 +14701,7 @@ Vượt qua các rào cản bằng cách tạo ra đột phá.
 
 → **Liên kết:** CREATION (Breakthrough Innovation), TRANSCENDENCE (Limitation Transcendence).
 
-#### **30. Thiel's Competition Razor** - Dao Cạo Cạnh Tranh của Thiel
+#### **29. Thiel's Competition Razor** - Dao Cạo Cạnh Tranh của Thiel
 
 "Cạnh tranh là dành cho kẻ thua cuộc" - tìm kiếm độc quyền và khác biệt.
 
@@ -14712,7 +14712,7 @@ Vượt qua các rào cản bằng cách tạo ra đột phá.
 
 → **Liên kết:** NAVIGATION (Blue Ocean Strategy #5), OPERATIONS (Strategic Positioning).
 
-#### **31. Adjacent Possible Surfing** - Lướt Trên Khả Năng Kế Cận
+#### **30. Adjacent Possible Surfing** - Lướt Trên Khả Năng Kế Cận
 
 Khám phá và khai thác các khả năng ngay cạnh trạng thái hiện tại.
 
@@ -14723,7 +14723,7 @@ Khám phá và khai thác các khả năng ngay cạnh trạng thái hiện tạ
 
 → **Liên kết:** CREATION (Innovation Frontier), DYNAMICS (Evolution).
 
-#### **32. Reality Entrepreneurship** - Khởi Nghiệp Thực Tại
+#### **31. Reality Entrepreneurship** - Khởi Nghiệp Thực Tại
 
 Tạo ra các thực tại và paradigm mới thông qua hành động khởi nghiệp.
 
@@ -14734,7 +14734,7 @@ Tạo ra các thực tại và paradigm mới thông qua hành động khởi ng
 
 → **Liên kết:** CREATION (Paradigm Innovation), AMPLIFICATION (Reality Shaping).
 
-#### **33. Production Management** - Quản Lý Sản Xuất
+#### **32. Production Management** - Quản Lý Sản Xuất
 
 Điều phối các quy trình để tạo ra đầu ra.
 
@@ -14745,7 +14745,7 @@ Tạo ra các thực tại và paradigm mới thông qua hành động khởi ng
 
 → **Liên kết:** OPERATIONS (Process Management), VALIDATION (Quality Assurance).
 
-#### **34. Creative Project Management** - Quản Lý Dự Án Sáng Tạo
+#### **33. Creative Project Management** - Quản Lý Dự Án Sáng Tạo
 
 Quản lý các dự án nghệ thuật và sáng tạo với sự linh hoạt đặc biệt.
 
@@ -14756,7 +14756,7 @@ Quản lý các dự án nghệ thuật và sáng tạo với sự linh hoạt �
 
 → **Liên kết:** CREATION (Creative Process), OPERATIONS (Project Management).
 
-#### **35. Exhibition Planning** - Lập Kế Hoạch Triển Lãm
+#### **34. Exhibition Planning** - Lập Kế Hoạch Triển Lãm
 
 Thiết kế và tổ chức trải nghiệm triển lãm.
 
@@ -14767,7 +14767,7 @@ Thiết kế và tổ chức trải nghiệm triển lãm.
 
 → **Liên kết:** INTEGRATION (Experience Design), OPERATIONS (Event Planning).
 
-#### **36. Tour Planning** - Lập Kế Hoạch Lưu Diễn
+#### **35. Tour Planning** - Lập Kế Hoạch Lưu Diễn
 
 Tổ chức và điều phối các chuyến lưu diễn và tour.
 
@@ -14778,7 +14778,7 @@ Tổ chức và điều phối các chuyến lưu diễn và tour.
 
 → **Liên kết:** OPERATIONS (Logistics), NAVIGATION (Journey Planning).
 
-#### **37. Urban Development Strategies** - Chiến Lược Phát Triển Đô Thị
+#### **36. Urban Development Strategies** - Chiến Lược Phát Triển Đô Thị
 
 Lập kế hoạch và quản lý sự phát triển của các khu đô thị.
 
@@ -14789,7 +14789,7 @@ Lập kế hoạch và quản lý sự phát triển của các khu đô thị.
 
 → **Liên kết:** OPERATIONS (Large-Scale Planning), INTEGRATION (System Coordination).
 
-#### **38. Valuable Uniqueness** - Sự Độc Đáo Có Giá Trị
+#### **37. Valuable Uniqueness** - Sự Độc Đáo Có Giá Trị
 
 Tạo ra và duy trì sự khác biệt có giá trị thực sự.
 
@@ -14800,7 +14800,7 @@ Tạo ra và duy trì sự khác biệt có giá trị thực sự.
 
 → **Liên kết:** CREATION (Differentiation), AMPLIFICATION (Competitive Advantage).
 
-#### **39. Irreplaceable Perspectives** - Quan Điểm Không Thể Thay Thế
+#### **38. Irreplaceable Perspectives** - Quan Điểm Không Thể Thay Thế
 
 Phát triển góc nhìn độc nhất mà không ai khác có thể cung cấp.
 
@@ -14811,7 +14811,7 @@ Phát triển góc nhìn độc nhất mà không ai khác có thể cung cấp.
 
 → **Liên kết:** CREATION (Original Thinking), INTEGRATION (Voice Development).
 
-#### **40. Navigation ROI** - Lợi Nhuận Đầu Tư Điều Hướng
+#### **39. Navigation ROI** - Lợi Nhuận Đầu Tư Điều Hướng
 
 Đo lường và tối ưu hóa lợi nhuận từ các quyết định, nỗ lực và nguồn lực được đầu tư vào hoạt động điều hướng chiến lược. Khái niệm này giúp đánh giá hiệu quả của việc phân bổ tài nguyên cho các hoạt động lập kế hoạch, ra quyết định và điều hướng.
 
@@ -14826,7 +14826,7 @@ Phát triển góc nhìn độc nhất mà không ai khác có thể cung cấp.
 
 → **Ứng dụng:** Đánh giá hiệu quả của hệ thống điều hướng; tối ưu hóa phân bổ tài nguyên cho hoạt động chiến lược; đo lường giá trị của các quyết định điều hướng; cải thiện quy trình ra quyết định dựa trên dữ liệu ROI.
 
-#### **41. Bezos' Reversibility Razor** - Dao Cạo Khả Đảo Ngược của Bezos
+#### **40. Bezos' Reversibility Razor** - Dao Cạo Khả Đảo Ngược của Bezos
 
 Phân loại quyết định: dễ đảo ngược (Type 2) vs khó đảo ngược (Type 1).
 
@@ -14837,7 +14837,7 @@ Phân loại quyết định: dễ đảo ngược (Type 2) vs khó đảo ngư�
 
 → **Liên kết:** OPERATIONS (Decision Speed), VALIDATION (Decision Analysis).
 
-#### **42. Gates' Complexity Razor** - Dao Cạo Phức Tạp của Gates
+#### **41. Gates' Complexity Razor** - Dao Cạo Phức Tạp của Gates
 
 Đơn giản hóa và quản lý phức tạp một cách hệ thống.
 
@@ -14848,7 +14848,7 @@ Phân loại quyết định: dễ đảo ngược (Type 2) vs khó đảo ngư�
 
 → **Liên kết:** OPERATIONS (Simplification), [META] LAYER (Complexity Navigation).
 
-#### **43. Sunk Cost Razor in Resource Management** - Áp Dụng Dao Cạo Chi Phí Chìm
+#### **42. Sunk Cost Razor in Resource Management** - Áp Dụng Dao Cạo Chi Phí Chìm
 
 💡 **Lưu ý về Sunk Cost trong Resource Management:**
 
@@ -14866,7 +14866,7 @@ Khi phân bổ tài nguyên và thiết lập ưu tiên, hãy áp dụng nguyên
 → **Kết hợp với:** NAVIGATION #10 (Opportunity Cost Awareness) để ra quyết định tối ưu
 → **Liên kết:** VALIDATION (Bias Correction), OPERATIONS (Rational Decision Making)
 
-#### **44. Marginal Utility Razor** - Dao Cạo Lợi Ích Biên [Tối Ưu Hóa Phân Bổ]
+#### **43. Marginal Utility Razor** - Dao Cạo Lợi Ích Biên [Tối Ưu Hóa Phân Bổ]
 
 Nguyên tắc ra quyết định dựa trên đánh giá lợi ích gia tăng của mỗi đơn vị tài nguyên bổ sung tiếp theo, thay vì nhìn vào tổng thể. Đây là công cụ CỐT LÕI để phân bổ tài nguyên khan hiếm một cách tối ưu.
 
@@ -15658,7 +15658,7 @@ Khả năng tích hợp tri thức, phương pháp và góc nhìn từ nhiều l
 
 ---
 
-#### **4. Living Systems Integration** - Tích Hợp Hệ Thống Sống
+#### **3. Living Systems Integration** - Tích Hợp Hệ Thống Sống
 
 Các nguyên tắc tích hợp được rút ra từ việc nghiên cứu các hệ thống sống, như hệ sinh thái.
 
@@ -15671,7 +15671,7 @@ Các nguyên tắc tích hợp được rút ra từ việc nghiên cứu các h
 
 ---
 
-#### **5. System of Systems Thinking** - Tư Duy Hệ Thống của các Hệ Thống
+#### **4. System of Systems Thinking** - Tư Duy Hệ Thống của các Hệ Thống
 
 Khả năng mô hình hóa và tích hợp các tập hợp các hệ thống độc lập, có thể tương tác với nhau.
 
@@ -15684,7 +15684,7 @@ Khả năng mô hình hóa và tích hợp các tập hợp các hệ thống đ
 
 ---
 
-#### **6. Consilience - Sự Hội Quy [Công Cụ Tổng Hợp]**
+#### **5. Consilience - Sự Hội Quy [Công Cụ Tổng Hợp]**
 
 Sự "nhảy cùng nhau" của tri thức - khi các bằng chứng từ NHIỀU LĨNH VỰC KHÔNG LIÊN QUAN hội tụ để tạo ra một lý thuyết thống nhất mạnh mẽ. Đây là PHƯƠNG PHÁP TỔNG HỢP để xây dựng tri thức mới từ sự đồng thuận xuyên ngành.
 
@@ -15703,7 +15703,7 @@ Sự "nhảy cùng nhau" của tri thức - khi các bằng chứng từ NHIỀU
 
 ---
 
-#### **7. Value System Integration** - Tích Hợp Hệ Thống Giá Trị
+#### **6. Value System Integration** - Tích Hợp Hệ Thống Giá Trị
 
 Quá trình nhận diện, làm rõ và hài hòa các hệ thống giá trị khác nhau từ nhiều nguồn (cá nhân, văn hóa, tổ chức) để tạo ra sự thống nhất và hiệp lực.
 
@@ -15718,7 +15718,7 @@ Quá trình nhận diện, làm rõ và hài hòa các hệ thống giá trị k
 
 ---
 
-#### **8. Worldview Integration** - Tích Hợp Thế Giới Quan
+#### **7. Worldview Integration** - Tích Hợp Thế Giới Quan
 
 Quá trình tích hợp các thế giới quan khác nhau (ví dụ: truyền thống, hiện đại, hậu hiện đại) vào một viễn kiến lớn hơn.
 
@@ -15731,7 +15731,7 @@ Quá trình tích hợp các thế giới quan khác nhau (ví dụ: truyền th
 
 ---
 
-#### **9. Technology-Humanity Integration** - Tích Hợp Công Nghệ-Nhân Loại
+#### **8. Technology-Humanity Integration** - Tích Hợp Công Nghệ-Nhân Loại
 
 Tích hợp một cách có ý thức công nghệ vào xã hội và cuộc sống con người một cách hài hòa.
 
@@ -15744,7 +15744,7 @@ Tích hợp một cách có ý thức công nghệ vào xã hội và cuộc s�
 
 ---
 
-#### **10. Global Brain Integration** - Tích Hợp Não Bộ Toàn Cầu
+#### **9. Global Brain Integration** - Tích Hợp Não Bộ Toàn Cầu
 
 Sự xuất hiện của một cấp độ trí tuệ tập thể cao hơn thông qua sự kết nối của con người và máy tính trên toàn cầu.
 
@@ -15757,7 +15757,7 @@ Sự xuất hiện của một cấp độ trí tuệ tập thể cao hơn thôn
 
 ---
 
-#### **11. Cultural Integration** - Tích Hợp Văn Hóa
+#### **10. Cultural Integration** - Tích Hợp Văn Hóa
 
 Quá trình các cá nhân hoặc nhóm từ các nền văn hóa khác nhau đến với nhau và tạo ra một nền văn hóa chung.
 
@@ -15770,7 +15770,7 @@ Quá trình các cá nhân hoặc nhóm từ các nền văn hóa khác nhau đ�
 
 ---
 
-#### **12. Historical Integration** - Tích Hợp Lịch Sử
+#### **11. Historical Integration** - Tích Hợp Lịch Sử
 
 Kết nối hiện tại với quá khứ để tạo ra một cảm giác liên tục và học hỏi từ lịch sử.
 
@@ -15783,7 +15783,7 @@ Kết nối hiện tại với quá khứ để tạo ra một cảm giác liên
 
 ---
 
-#### **13. Comparative Analysis** - Phân Tích So Sánh [Phương Pháp Tổng Hợp]
+#### **12. Comparative Analysis** - Phân Tích So Sánh [Phương Pháp Tổng Hợp]
 
 Phương pháp xem xét hai hoặc nhiều đối tượng, hệ thống hoặc ý tưởng cùng nhau để TRÍCH XUẤT NGUYÊN TẮC PHỔ QUÁT và tạo ra tri thức mới. Khác với công cụ so sánh trong OPERATIONS (để quyết định), đây là PHƯƠNG PHÁP TỔNG HỢP TRI THỨC - tìm kiếm mẫu hình chung và siêu-nguyên tắc xuyên suốt các ngữ cảnh khác nhau.
 
@@ -15801,7 +15801,7 @@ Phương pháp xem xét hai hoặc nhiều đối tượng, hệ thống hoặc 
 
 ---
 
-#### **14. Data Integration & Analysis** - Tích Hợp & Phân Tích Dữ Liệu
+#### **13. Data Integration & Analysis** - Tích Hợp & Phân Tích Dữ Liệu
 
 Quá trình kết hợp dữ liệu từ nhiều nguồn khác nhau để tạo ra một cái nhìn thống nhất và có ý nghĩa.
 
@@ -15814,7 +15814,7 @@ Quá trình kết hợp dữ liệu từ nhiều nguồn khác nhau để tạo 
 
 ---
 
-#### **15. Semantic Integration** - Tích Hợp Ngữ Nghĩa
+#### **14. Semantic Integration** - Tích Hợp Ngữ Nghĩa
 
 Quá trình hiểu và liên kết ý nghĩa của thông tin từ các nguồn và ngữ cảnh khác nhau.
 
@@ -15827,7 +15827,7 @@ Quá trình hiểu và liên kết ý nghĩa của thông tin từ các nguồn 
 
 ---
 
-#### **16. Pattern Synthesis** - Tổng Hợp Mẫu Hình
+#### **15. Pattern Synthesis** - Tổng Hợp Mẫu Hình
 
 Khả năng nhận diện, phân tích và kết hợp các mẫu hình từ nhiều lĩnh vực, nguồn và cấp độ khác nhau để tạo ra các hiểu biết mới và toàn diện. Đây là nghệ thuật nhìn thấy "mẫu hình của các mẫu hình" và tạo ra sự tổng hợp có ý nghĩa từ sự đa dạng.
 
@@ -15843,7 +15843,7 @@ Khả năng nhận diện, phân tích và kết hợp các mẫu hình từ nhi
 
 ---
 
-#### **17. Knowledge Graph Construction** - Xây Dựng Đồ Thị Tri Thức
+#### **16. Knowledge Graph Construction** - Xây Dựng Đồ Thị Tri Thức
 
 Tạo ra các biểu diễn có cấu trúc của tri thức, trong đó các thực thể và mối quan hệ của chúng được kết nối một cách rõ ràng.
 
@@ -15856,7 +15856,7 @@ Tạo ra các biểu diễn có cấu trúc của tri thức, trong đó các th
 
 ---
 
-#### **18. Meta-Synthesis** - Siêu Tổng Hợp
+#### **17. Meta-Synthesis** - Siêu Tổng Hợp
 
 Quá trình tổng hợp các kết quả từ nhiều nghiên cứu hoặc quan điểm để đạt được một hiểu biết toàn diện hơn. Đây là CÔNG CỤ THỰC HÀNH trong nghiên cứu học thuật.
 
@@ -15871,7 +15871,7 @@ Quá trình tổng hợp các kết quả từ nhiều nghiên cứu hoặc quan
 
 ---
 
-#### **19. Transdisciplinary Framework** - Khung Xuyên Ngành
+#### **18. Transdisciplinary Framework** - Khung Xuyên Ngành
 
 Một cách tiếp cận vượt qua ranh giới các ngành để tạo ra một khung lý thuyết thống nhất cho các vấn đề phức tạp.
 
@@ -15884,7 +15884,7 @@ Một cách tiếp cận vượt qua ranh giới các ngành để tạo ra mộ
 
 ---
 
-#### **20. Narrative Integration** - Tích Hợp Tường Thuật
+#### **19. Narrative Integration** - Tích Hợp Tường Thuật
 
 Quá trình dệt các câu chuyện, sự kiện và hiểu biết khác nhau thành một câu chuyện mạch lạc và có ý nghĩa.
 
@@ -15897,7 +15897,7 @@ Quá trình dệt các câu chuyện, sự kiện và hiểu biết khác nhau t
 
 ---
 
-#### **21. Temporal Integration** - Tích Hợp Thời Gian
+#### **20. Temporal Integration** - Tích Hợp Thời Gian
 
 Kết nối quá khứ, hiện tại và tương lai thành một câu chuyện liên tục và mạch lạc.
 
@@ -15910,7 +15910,7 @@ Kết nối quá khứ, hiện tại và tương lai thành một câu chuyện 
 
 ---
 
-#### **22. Multi-Modal Learning** - Học Tập Đa Phương Thức
+#### **21. Multi-Modal Learning** - Học Tập Đa Phương Thức
 
 Tích hợp thông tin từ nhiều giác quan và phương thức học tập khác nhau để tăng cường sự hiểu biết.
 
@@ -15923,7 +15923,7 @@ Tích hợp thông tin từ nhiều giác quan và phương thức học tập k
 
 ---
 
-#### **23. Memetic Integration** - Tích Hợp Meme
+#### **22. Memetic Integration** - Tích Hợp Meme
 
 Quá trình kết hợp các ý tưởng, văn hóa và các đơn vị thông tin (memes) từ nhiều nguồn khác nhau.
 
@@ -15936,7 +15936,7 @@ Quá trình kết hợp các ý tưởng, văn hóa và các đơn vị thông t
 
 ---
 
-#### **24. Cognitive Cartography** - Bản Đồ Nhận Thức
+#### **23. Cognitive Cartography** - Bản Đồ Nhận Thức
 
 Việc lập bản đồ các cấu trúc và mối quan hệ của tri thức, ý tưởng và các khái niệm.
 
@@ -15949,7 +15949,7 @@ Việc lập bản đồ các cấu trúc và mối quan hệ của tri thức, 
 
 ---
 
-#### **25. Collective Sensemaking** - Cùng Nhau Cảm Nhận Ý Nghĩa
+#### **24. Collective Sensemaking** - Cùng Nhau Cảm Nhận Ý Nghĩa
 
 Quá trình một nhóm người cùng nhau diễn giải và tạo ra ý nghĩa từ các tình huống phức tạp hoặc mơ hồ.
 
@@ -15964,7 +15964,7 @@ Quá trình một nhóm người cùng nhau diễn giải và tạo ra ý nghĩa
 
 ### **Nhóm Foundational Methods - Phương Pháp Nền Tảng (5 mục mới)**
 
-#### **26. Feynman Technique** - Kỹ Thuật Feynman
+#### **25. Feynman Technique** - Kỹ Thuật Feynman
 
 Phương pháp học tập thông qua việc giải thích đơn giản như thể đang dạy người khác.
 
@@ -15977,7 +15977,7 @@ Phương pháp học tập thông qua việc giải thích đơn giản như th�
 
 ---
 
-#### **27. Zettelkasten Method** - Phương Pháp Zettelkasten
+#### **26. Zettelkasten Method** - Phương Pháp Zettelkasten
 
 Hệ thống ghi chú liên kết để xây dựng mạng lưới tri thức.
 
@@ -15990,7 +15990,7 @@ Hệ thống ghi chú liên kết để xây dựng mạng lưới tri thức.
 
 ---
 
-#### **28. Progressive Summarization** - Tóm Tắt Tiến Bộ
+#### **27. Progressive Summarization** - Tóm Tắt Tiến Bộ
 
 Phương pháp chắt lọc thông tin qua nhiều lớp tóm tắt.
 
@@ -16003,7 +16003,7 @@ Phương pháp chắt lọc thông tin qua nhiều lớp tóm tắt.
 
 ---
 
-#### **29. Knowledge Synthesis Protocol** - Giao Thức Tổng Hợp Tri Thức
+#### **28. Knowledge Synthesis Protocol** - Giao Thức Tổng Hợp Tri Thức
 
 Quy trình có hệ thống để tích hợp tri thức từ nhiều nguồn.
 
@@ -16016,7 +16016,7 @@ Quy trình có hệ thống để tích hợp tri thức từ nhiều nguồn.
 
 ---
 
-#### **30. Meta-Learning Protocols - Giao Thức Siêu Học** [Tổng Hợp Đa Phương Pháp]
+#### **29. Meta-Learning Protocols - Giao Thức Siêu Học** [Tổng Hợp Đa Phương Pháp]
 
 PROTOCOL để tích hợp nhiều framework và phương pháp meta-learning thành một hệ thống học tập toàn diện. Không chỉ dùng một công cụ mà TỔNG HỢP nhiều công cụ để tối ưu học tập.
 
@@ -16036,7 +16036,7 @@ Khác với framework đơn lẻ ở OPERATIONS #24, đây là về TÍCH HỢP:
 
 ### **Nhóm Thinking Modes - Các Chế Độ Tư Duy (7 mục mới)**
 
-#### **31. Dialectical Thinking** - Tư Duy Biện Chứng
+#### **30. Dialectical Thinking** - Tư Duy Biện Chứng
 
 Tư duy thông qua sự tổng hợp các mặt đối lập (thesis-antithesis-synthesis).
 
@@ -16049,7 +16049,7 @@ Tư duy thông qua sự tổng hợp các mặt đối lập (thesis-antithesis-
 
 ---
 
-#### **32. Both/And Thinking - Tư Duy Cả Hai [Công Cụ Tổng Hợp]**
+#### **31. Both/And Thinking - Tư Duy Cả Hai [Công Cụ Tổng Hợp]**
 
 Công cụ tư duy để tích hợp các quan điểm tưởng chừng như mâu thuẫn trong quá trình tổng hợp tri thức. Đây là PHƯƠNG PHÁP THỰC HÀNH giúp kết nối các nguồn tri thức đa dạng, khác với trạng thái siêu việt ở TRANSCENDENCE.
 
@@ -16072,7 +16072,7 @@ Công cụ tư duy để tích hợp các quan điểm tưởng chừng như mâ
 
 ---
 
-#### **33. Holistic Integration Thinking** - Tư Duy Tích Hợp Toàn Diện
+#### **32. Holistic Integration Thinking** - Tư Duy Tích Hợp Toàn Diện
 
 Nhìn nhận các hệ thống như một tổng thể thống nhất.
 
@@ -16085,7 +16085,7 @@ Nhìn nhận các hệ thống như một tổng thể thống nhất.
 
 ---
 
-#### **34. Integral Thinking** - Tư Duy Tích Hợp (AQAL)
+#### **33. Integral Thinking** - Tư Duy Tích Hợp (AQAL)
 
 Áp dụng framework AQAL để tư duy đa chiều.
 
@@ -16098,7 +16098,7 @@ Nhìn nhận các hệ thống như một tổng thể thống nhất.
 
 ---
 
-#### **35. Integrative Reasoning** - Suy Luận Tích Hợp
+#### **34. Integrative Reasoning** - Suy Luận Tích Hợp
 
 Kết hợp nhiều phương pháp suy luận để đạt kết luận toàn diện.
 
@@ -16111,7 +16111,7 @@ Kết hợp nhiều phương pháp suy luận để đạt kết luận toàn di
 
 ---
 
-#### **36. Transdisciplinary Reasoning - Suy Luận Xuyên Ngành [Nguyên Tắc & Mục Tiêu]**
+#### **35. Transdisciplinary Reasoning - Suy Luận Xuyên Ngành [Nguyên Tắc & Mục Tiêu]**
 
 NGUYÊN TẮC NHẬN THỨC và MỤC TIÊU của việc suy luận vượt qua ranh giới các ngành. Đây không phải là công cụ mà là TRIẾT HỌC và ĐỊNH HƯỚNG - tập trung vào "TẠI SAO" và "ĐIỀU GÌ" đạt được khi vượt qua các ranh giới ngành học.
 
@@ -16127,7 +16127,7 @@ NGUYÊN TẮC NHẬN THỨC và MỤC TIÊU của việc suy luận vượt qua 
 
 ---
 
-#### **37. Holographic Reasoning** - Suy Luận Toàn Ảnh
+#### **36. Holographic Reasoning** - Suy Luận Toàn Ảnh
 
 Tư duy dựa trên nguyên lý toàn ảnh: mỗi phần chứa đựng thông tin về toàn bộ.
 
@@ -16142,7 +16142,7 @@ Tư duy dựa trên nguyên lý toàn ảnh: mỗi phần chứa đựng thông 
 
 ### **Nhóm Creative Bridging - Kết Nối Sáng Tạo (8 mục mới)**
 
-#### **38. Conceptual Bridging** - Kết Nối Khái Niệm
+#### **37. Conceptual Bridging** - Kết Nối Khái Niệm
 
 Tạo cầu nối giữa các khái niệm từ các lĩnh vực khác nhau.
 
@@ -16155,7 +16155,7 @@ Tạo cầu nối giữa các khái niệm từ các lĩnh vực khác nhau.
 
 ---
 
-#### **39. Analogical Transfer** - Chuyển Giao Tương Tự
+#### **38. Analogical Transfer** - Chuyển Giao Tương Tự
 
 Áp dụng kiến thức từ một lĩnh vực sang lĩnh vực khác thông qua tương tự.
 
@@ -16168,7 +16168,7 @@ Tạo cầu nối giữa các khái niệm từ các lĩnh vực khác nhau.
 
 ---
 
-#### **40. Hybrid Thinking** - Tư Duy Lai
+#### **39. Hybrid Thinking** - Tư Duy Lai
 
 Kết hợp các phương pháp tư duy khác nhau để tạo ra cách tiếp cận mới.
 
@@ -16181,7 +16181,7 @@ Kết hợp các phương pháp tư duy khác nhau để tạo ra cách tiếp c
 
 ---
 
-#### **41. Interdisciplinary Fusion** - Kết Hợp Liên Ngành
+#### **40. Interdisciplinary Fusion** - Kết Hợp Liên Ngành
 
 Hợp nhất các ngành học khác nhau để tạo ra lĩnh vực mới.
 
@@ -16194,7 +16194,7 @@ Hợp nhất các ngành học khác nhau để tạo ra lĩnh vực mới.
 
 ---
 
-#### **42. Fusion Methodology** - Phương Pháp Luận Kết Hợp
+#### **41. Fusion Methodology** - Phương Pháp Luận Kết Hợp
 
 Cách tiếp cận có hệ thống để hợp nhất các phương pháp khác nhau.
 
@@ -16207,7 +16207,7 @@ Cách tiếp cận có hệ thống để hợp nhất các phương pháp khác
 
 ---
 
-#### **43. Creative Alchemy** - Giả Kim Sáng Tạo
+#### **42. Creative Alchemy** - Giả Kim Sáng Tạo
 
 Quá trình chuyển hóa các yếu tố khác nhau thành cái gì đó hoàn toàn mới.
 
@@ -16220,7 +16220,7 @@ Quá trình chuyển hóa các yếu tố khác nhau thành cái gì đó hoàn 
 
 ---
 
-#### **44. Synthesis Protocols** - Giao Thức Tổng Hợp [Tri Thức]
+#### **43. Synthesis Protocols** - Giao Thức Tổng Hợp [Tri Thức]
 
 Quy trình có cấu trúc để tổng hợp thông tin và tri thức từ nhiều nguồn. Đây là PHƯƠNG PHÁP CÓ HỆ THỐNG để tạo ra hiểu biết mạch lạc từ các yếu tố phân tán - khác với việc tái kết hợp tự do trong sáng tạo.
 
@@ -16237,7 +16237,7 @@ Quy trình có cấu trúc để tổng hợp thông tin và tri thức từ nhi
 
 ### **Nhóm Knowledge Architecture - Kiến Trúc Tri Thức (4 mục mới)**
 
-#### **45. Second Brain Systems** - Hệ Thống Bộ Não Thứ Hai
+#### **44. Second Brain Systems** - Hệ Thống Bộ Não Thứ Hai
 
 Các công cụ và hệ thống bên ngoài để lưu trữ và tổ chức tri thức.
 
@@ -16250,7 +16250,7 @@ Các công cụ và hệ thống bên ngoài để lưu trữ và tổ chức tr
 
 ---
 
-#### **46. Knowledge Graphs** - Đồ Thị Tri Thức
+#### **45. Knowledge Graphs** - Đồ Thị Tri Thức
 
 Biểu diễn tri thức dưới dạng mạng lưới các node và mối quan hệ.
 
@@ -16263,7 +16263,7 @@ Biểu diễn tri thức dưới dạng mạng lưới các node và mối quan 
 
 ---
 
-#### **47. Semantic Networks** - Mạng Lưới Ngữ Nghĩa
+#### **46. Semantic Networks** - Mạng Lưới Ngữ Nghĩa
 
 Cấu trúc tri thức dựa trên ý nghĩa và mối quan hệ giữa các khái niệm.
 
@@ -16276,7 +16276,7 @@ Cấu trúc tri thức dựa trên ý nghĩa và mối quan hệ giữa các kh�
 
 ---
 
-#### **48. Thought Scaffolding** - Giàn Giáo Tư Duy
+#### **47. Thought Scaffolding** - Giàn Giáo Tư Duy
 
 Các cấu trúc hỗ trợ để phát triển và tổ chức tư duy.
 
@@ -16291,7 +16291,7 @@ Các cấu trúc hỗ trợ để phát triển và tổ chức tư duy.
 
 ### **Nhóm Wisdom Traditions - Truyền Thống Trí Tuệ (4 mục mới)**
 
-#### **49. Vedanta Synthesis** - Tổng Hợp Vedanta
+#### **48. Vedanta Synthesis** - Tổng Hợp Vedanta
 
 Hệ thống triết học Ấn Độ tích hợp các con đường để đạt giác ngộ.
 
@@ -16304,7 +16304,7 @@ Hệ thống triết học Ấn Độ tích hợp các con đường để đạ
 
 ---
 
-#### **50. Neo-Confucian Integration** - Tích Hợp Tân Nho
+#### **49. Neo-Confucian Integration** - Tích Hợp Tân Nho
 
 Tổng hợp Nho giáo với các yếu tố Phật giáo và Đạo giáo.
 
@@ -16317,7 +16317,7 @@ Tổng hợp Nho giáo với các yếu tố Phật giáo và Đạo giáo.
 
 ---
 
-#### **51. Syncretic Traditions** - Các Truyền Thống Dung Hợp
+#### **50. Syncretic Traditions** - Các Truyền Thống Dung Hợp
 
 Các tôn giáo và triết học kết hợp nhiều truyền thống khác nhau.
 
@@ -16330,7 +16330,7 @@ Các tôn giáo và triết học kết hợp nhiều truyền thống khác nha
 
 ---
 
-#### **52. Sufi Poetry/Love Synthesis** - Tổng Hợp Thơ Ca/Tình Yêu Sufi
+#### **51. Sufi Poetry/Love Synthesis** - Tổng Hợp Thơ Ca/Tình Yêu Sufi
 
 Biểu đạt trải nghiệm huyền bí thông qua thơ ca và biểu tượng tình yêu.
 
@@ -18035,7 +18035,7 @@ Làm việc cùng nhau qua các lĩnh vực chuyên môn và chức năng khác 
 
 ---
 
-#### **13. Collective Sensemaking - Cùng Nhau Cảm Nhận Ý Nghĩa** (lặp lại từ Chức năng 1)
+#### **14. Collective Sensemaking - Cùng Nhau Cảm Nhận Ý Nghĩa** (lặp lại từ Chức năng 1)
 
 Quá trình một nhóm người cùng nhau diễn giải và tạo ra ý nghĩa từ các tình huống phức tạp hoặc mơ hồ trong bối cảnh hợp tác.
 
@@ -20252,7 +20252,7 @@ Phân tích hành vi của một nhóm người dùng (thuần tập) có cùng 
 - **Product/Market Fit Validation**: Một công cụ quan trọng để xác thực sự phù hợp của sản phẩm với thị trường.
 → **Liên kết:** DYNAMICS (System Dynamics), NAVIGATION (Progress Tracking)
 
-#### **6. Instrument Validation** - Xác Thực Công Cụ Đo
+#### **5. Instrument Validation** - Xác Thực Công Cụ Đo
 Quá trình đảm bảo rằng một công cụ đo lường (ví dụ: bảng câu hỏi, cảm biến) là đáng tin cậy và hợp lệ.
 - **Reliability**: Độ tin cậy; tính nhất quán và ổn định của phép đo.
 - **Validity**: Hiệu lực; mức độ mà công cụ đo đúng cái mà nó dự định đo.
@@ -20260,7 +20260,7 @@ Quá trình đảm bảo rằng một công cụ đo lường (ví dụ: bảng 
 - **Measurement Error Assessment**: Đánh giá và giảm thiểu sai số đo lường.
 → **Liên kết:** OPERATIONS (Data Quality), [META] LAYER (Meta-Cognition)
 
-#### **7. Peer Debriefing** - Gỡ Rối Cùng Đồng Cấp
+#### **6. Peer Debriefing** - Gỡ Rối Cùng Đồng Cấp
 Quá trình một nhà nghiên cứu thảo luận về công việc của họ với một đồng nghiệp không thiên vị để khám phá các thiên kiến.
 - **External Scrutiny**: Có một "con mắt bên ngoài" xem xét quy trình và kết quả.
 - **Bias Exploration**: Giúp khám phá và thách thức các thiên kiến và giả định của nhà nghiên cứu.
@@ -20268,7 +20268,7 @@ Quá trình một nhà nghiên cứu thảo luận về công việc của họ 
 - **Credibility Enhancement**: Tăng cường độ tin cậy và tính hợp lệ của nghiên cứu.
 → **Liên kết:** VALIDATION (Peer Review), INTEGRATION (Dialogue)
 
-#### **8. Meta-Analysis** - Phân Tích Tổng Hợp [Phương Pháp Nghiên Cứu]
+#### **7. Meta-Analysis** - Phân Tích Tổng Hợp [Phương Pháp Nghiên Cứu]
 Phương pháp thống kê kết hợp kết quả từ NHIỀU NGHIÊN CỨU KHOA HỌC độc lập để rút ra một kết luận tổng thể có sức mạnh thống kê cao hơn. Đây là CÔNG CỤ KIỂM CHỨNG cao cấp nhất trong nghiên cứu khoa học.
 - **Synthesis of Evidence**: Tổng hợp bằng chứng từ toàn bộ văn liệu nghiên cứu.
 - **Increased Statistical Power**: Tăng sức mạnh thống kê - phát hiện hiệu ứng nhỏ.
@@ -20279,7 +20279,7 @@ Phương pháp thống kê kết hợp kết quả từ NHIỀU NGHIÊN CỨU KH
 → **Tích hợp tri thức:** INTEGRATION (Knowledge Integration, Cross-Domain Validation #30)
 💡 **Phân biệt:** Meta-Analysis (phương pháp thống kê) vs. Meta-Synthesis (tổng hợp các tổng hợp ở cấp độ triết học/meta-cognitive)
 
-#### **9. Construct Validity** - Hiệu Lực Cấu Trúc
+#### **8. Construct Validity** - Hiệu Lực Cấu Trúc
 Mức độ mà một công cụ đo lường đo lường chính xác cấu trúc lý thuyết mà nó dự định đo.
 - **Theoretical Grounding**: Nền tảng lý thuyết; công cụ đo phải phù hợp với lý thuyết về cấu trúc.
 - **Convergent Validity**: Tương quan cao với các công cụ khác đo cùng một cấu trúc.
@@ -20287,7 +20287,7 @@ Mức độ mà một công cụ đo lường đo lường chính xác cấu tr�
 - **Measurement Integrity**: Đảm bảo tính toàn vẹn và ý nghĩa của việc đo lường.
 → **Liên kết:** [META] LAYER (Meta-Structures), FOUNDATIONS (Mental Models)
 
-#### **10. Ablation Study** - Nghiên Cứu Loại Bỏ
+#### **9. Ablation Study** - Nghiên Cứu Loại Bỏ
 Một phương pháp trong đó các thành phần của một hệ thống được loại bỏ để hiểu sự đóng góp của chúng.
 - **Component Contribution Analysis**: Phân tích sự đóng góp của từng thành phần vào hiệu suất tổng thể.
 - **System Simplification**: Giúp hiểu xem có thể đơn giản hóa hệ thống mà không làm giảm đáng kể hiệu suất hay không.
@@ -20295,7 +20295,7 @@ Một phương pháp trong đó các thành phần của một hệ thống đư
 - **Debugging and Understanding**: Hỗ trợ việc gỡ lỗi và hiểu sâu hơn về cách hệ thống hoạt động.
 → **Liên kết:** OPERATIONS (Decomposition), FOUNDATIONS (Via Negativa)
 
-#### **11. Robustness Check** - Kiểm Tra Độ Vững Chắc
+#### **10. Robustness Check** - Kiểm Tra Độ Vững Chắc
 Thực hiện các phân tích bổ sung để kiểm tra xem kết quả chính có thay đổi khi các giả định hoặc phương pháp bị thay đổi hay không.
 - **Assumption Variation**: Thay đổi các giả định cốt lõi của phân tích.
 - **Methodological Sensitivity**: Kiểm tra độ nhạy của kết quả đối với các lựa chọn phương pháp khác nhau.
@@ -20303,7 +20303,7 @@ Thực hiện các phân tích bổ sung để kiểm tra xem kết quả chính
 - **Confidence Building**: Tăng cường niềm tin vào kết quả nếu chúng vẫn giữ nguyên qua các bài kiểm tra.
 → **Liên kết:** VALIDATION (Sensitivity Analysis), OPERATIONS (Constraint Analysis)
 
-#### **12. Prediction Market** - Thị Trường Dự Đoán
+#### **11. Prediction Market** - Thị Trường Dự Đoán
 Sử dụng cơ chế thị trường để tổng hợp thông tin và dự đoán kết quả của các sự kiện trong tương lai.
 - **Information Aggregation**: Tổng hợp niềm tin và thông tin phân tán từ nhiều người tham gia.
 - **Incentivized Forecasting**: Cung cấp động cơ (tài chính) cho các dự báo chính xác.
@@ -20311,7 +20311,7 @@ Sử dụng cơ chế thị trường để tổng hợp thông tin và dự đo
 - **Real-time Probability**: Cung cấp xác suất cập nhật theo thời gian thực về một sự kiện.
 → **Liên kết:** AMPLIFICATION (Wisdom of Crowds), OPERATIONS (Game Theory)
 
-#### **13. 360-Degree Feedback** - Phản Hồi 360 Độ
+#### **12. 360-Degree Feedback** - Phản Hồi 360 Độ
 Một quy trình thu thập phản hồi ẩn danh về một cá nhân từ nhiều nguồn (cấp trên, cấp dưới, đồng nghiệp, khách hàng).
 - **Multi-Perspective View**: Cung cấp một cái nhìn đa chiều và toàn diện hơn về hiệu suất và hành vi.
 - **Blind Spot Illumination**: Giúp cá nhân nhận ra những điểm mù mà họ không thể tự thấy.
@@ -20319,7 +20319,7 @@ Một quy trình thu thập phản hồi ẩn danh về một cá nhân từ nhi
 - **Developmental Focus**: Thường được sử dụng cho mục đích phát triển cá nhân hơn là đánh giá hiệu suất.
 → **Liên kết:** [META] LAYER (Self-Awareness), INTEGRATION (Personal Integration)
 
-#### **14. Feedback Loop Architecture** - Kiến Trúc Vòng Lặp Phản Hồi
+#### **13. Feedback Loop Architecture** - Kiến Trúc Vòng Lặp Phản Hồi
 Thiết kế các cơ chế trong đó đầu ra của một hành động được thu thập và đưa trở lại làm đầu vào cho các hành động tương lai.
 - **Reinforcing Loops (Positive)**: Các vòng lặp củng cố, khuếch đại sự thay đổi.
 - **Balancing Loops (Negative)**: Các vòng lặp cân bằng, giúp hệ thống duy trì sự ổn định.
@@ -20329,7 +20329,7 @@ Thiết kế các cơ chế trong đó đầu ra của một hành động đư�
 
 ### **Các Khái Niệm & Phương Pháp Bổ Sung**
 
-#### **15. Bayesian Thinking** - Tư Duy Bayesian
+#### **14. Bayesian Thinking** - Tư Duy Bayesian
 Phương pháp cập nhật niềm tin dựa trên bằng chứng mới sử dụng định lý Bayes.
 - **Prior Probability**: Xác suất tiên nghiệm (niềm tin ban đầu).
 - **Evidence Integration**: Tích hợp bằng chứng mới.
@@ -20337,7 +20337,7 @@ Phương pháp cập nhật niềm tin dựa trên bằng chứng mới sử d�
 - **Continuous Updating**: Cập nhật liên tục khi có thông tin mới.
 → **Liên kết:** OPERATIONS (Statistical Reasoning), VALIDATION (Replication Studies)
 
-#### **16. Frequentist Reasoning** - Lý Luận Tần Suất
+#### **15. Frequentist Reasoning** - Lý Luận Tần Suất
 Phương pháp thống kê dựa trên tần suất xuất hiện của sự kiện trong các thử nghiệm lặp lại.
 - **Long-Run Frequency**: Tần suất trong dài hạn.
 - **Hypothesis Testing**: Kiểm định giả thuyết thống kê.
@@ -20345,7 +20345,7 @@ Phương pháp thống kê dựa trên tần suất xuất hiện của sự ki�
 - **Confidence Intervals**: Khoảng tin cậy.
 → **Liên kết:** OPERATIONS (Hypothesis Testing), VALIDATION (A/B Testing)
 
-#### **17. Stochastic Reasoning** - Lý Luận Ngẫu Nhiên
+#### **16. Stochastic Reasoning** - Lý Luận Ngẫu Nhiên
 Tư duy về các quá trình có yếu tố ngẫu nhiên hoặc không xác định.
 - **Random Processes**: Các quá trình ngẫu nhiên.
 - **Probability Distributions**: Các phân phối xác suất.
@@ -20353,7 +20353,7 @@ Tư duy về các quá trình có yếu tố ngẫu nhiên hoặc không xác đ
 - **Uncertainty Modeling**: Mô hình hóa sự không chắc chắn.
 → **Liên kết:** OPERATIONS (Monte Carlo Validation), NAVIGATION (Risk Navigation)
 
-#### **18. Reflection Protocols** - Quy Trình Phản Tư [Trong Xử Lý Phản Hồi]
+#### **17. Reflection Protocols** - Quy Trình Phản Tư [Trong Xử Lý Phản Hồi]
 
 Các phương pháp có cấu trúc để phản tư về kinh nghiệm nhằm KIỂM CHỨNG và HIỆU CHỈNH. Khác với phản tư để tự quan sát (META LAYER), đây là phản tư như một CÔNG CỤ KIỂM CHỨNG - đảm bảo chất lượng thông qua after-action review.
 
@@ -20373,7 +20373,7 @@ Các phương pháp có cấu trúc để phản tư về kinh nghiệm nhằm K
 → **Ứng dụng:** After-Action Review, Quality Improvement, Calibration
 → **Phân biệt:** VALIDATION dùng phản tư để KIỂM CHỨNG; META dùng để TỰ QUAN SÁT
 
-#### **19. Integration Journaling** - Nhật Ký Tích Hợp
+#### **18. Integration Journaling** - Nhật Ký Tích Hợp
 Thực hành viết nhật ký để tích hợp và tổng hợp kinh nghiệm.
 - **Documentation Practice**: Thực hành ghi chép.
 - **Pattern Recognition**: Nhận dạng mẫu qua thời gian.
@@ -20381,7 +20381,7 @@ Thực hành viết nhật ký để tích hợp và tổng hợp kinh nghiệm.
 - **Memory Crystallization**: Kết tinh ký ức và học hỏi.
 → **Liên kết:** INTEGRATION (Narrative Weaving), [META] LAYER (Meta-Cognition)
 
-#### **20. Contemplative Integration** - Tích Hợp Trầm Tư [Xử Lý Phản Hồi Sâu]
+#### **19. Contemplative Integration** - Tích Hợp Trầm Tư [Xử Lý Phản Hồi Sâu]
 Sử dụng thiền định và các thực hành trầm tư để XỬ LÝ VÀ TÍCH HỢP kinh nghiệm và phản hồi ở cấp độ sâu. Khác với việc phản ánh lý trí (Reflection Protocols), đây là phương pháp XỬ LÝ PHI KHÁI NIỆM - cho phép insight xuất hiện tự nhiên từ trạng thái tĩnh lặng và nhận thức sâu.
 - **Meditative Processing**: Xử lý qua thiền định - cho phép phản hồi "lắng đọng".
 - **Non-Conceptual Integration**: Tích hợp phi khái niệm - vượt qua tầng lý trí.
@@ -20389,7 +20389,7 @@ Sử dụng thiền định và các thực hành trầm tư để XỬ LÝ VÀ 
 - **Deep Processing**: Xử lý sâu - chuyển hóa ở cấp độ vô thức.
 → **Liên kết:** TRANSCENDENCE (Meditative States), FOUNDATIONS (Eastern & Western Wisdom - các truyền thống thiền định), [META] LAYER #22 (Contemplative Integration - trong học tập và phát triển), VALIDATION #18 (Reflection Protocols - phản tư lý trí)
 
-#### **21. Dream Integration** - Tích Hợp Giấc Mơ
+#### **20. Dream Integration** - Tích Hợp Giấc Mơ
 Sử dụng giấc mơ và trạng thái vô thức để xử lý thông tin và tạo ra insight.
 - **Unconscious Processing**: Xử lý vô thức.
 - **Symbolic Integration**: Tích hợp biểu tượng.
@@ -20397,7 +20397,7 @@ Sử dụng giấc mơ và trạng thái vô thức để xử lý thông tin v�
 - **Problem Solving**: Giải quyết vấn đề trong giấc ngủ.
 → **Liên kết:** CREATION (Unconscious Creativity), [META] LAYER (Meta-Cognition)
 
-#### **22. Perturbation Analysis** - Phân Tích Nhiễu Loạn
+#### **21. Perturbation Analysis** - Phân Tích Nhiễu Loạn
 Nghiên cứu cách hệ thống phản ứng với các nhiễu loạn nhỏ.
 - **Small Disturbances**: Các nhiễu loạn nhỏ.
 - **System Response**: Phản ứng của hệ thống.
@@ -20405,7 +20405,7 @@ Nghiên cứu cách hệ thống phản ứng với các nhiễu loạn nhỏ.
 - **Resilience Measurement**: Đo lường khả năng phục hồi.
 → **Liên kết:** DYNAMICS (System Dynamics), VALIDATION (Stress Testing)
 
-#### **23. Model Stability** - Ổn Định Mô Hình
+#### **22. Model Stability** - Ổn Định Mô Hình
 Kiểm tra xem mô hình có cho kết quả nhất quán qua thời gian và bối cảnh khác nhau không.
 - **Temporal Consistency**: Nhất quán theo thời gian.
 - **Cross-Context Validation**: Xác thực qua các bối cảnh.
@@ -20413,7 +20413,7 @@ Kiểm tra xem mô hình có cho kết quả nhất quán qua thời gian và b�
 - **Robustness to Change**: Vững chắc trước sự thay đổi.
 → **Liên kết:** VALIDATION (Robustness Check), OPERATIONS (Model Comparison)
 
-#### **24. Meta-Testing** - Kiểm Thử Siêu Cấp
+#### **23. Meta-Testing** - Kiểm Thử Siêu Cấp
 Kiểm tra các quy trình kiểm thử để đảm bảo chúng hoạt động hiệu quả.
 - **Validation of Validation**: Kiểm chứng các quy trình kiểm chứng.
 - **Recursive Testing**: Kiểm thử đệ quy.
@@ -20421,7 +20421,7 @@ Kiểm tra các quy trình kiểm thử để đảm bảo chúng hoạt động
 - **Quality Assurance of QA**: Đảm bảo chất lượng của đảm bảo chất lượng.
 → **Liên kết:** [META] LAYER (Recursive Improvement), VALIDATION (Quality Assurance & Risk Assessment)
 
-#### **25. Validation Metrics** - Các Chỉ Số Kiểm Chứng
+#### **24. Validation Metrics** - Các Chỉ Số Kiểm Chứng
 Đo lường hiệu quả của các quy trình kiểm chứng.
 - **Effectiveness Measurement**: Đo lường hiệu quả.
 - **Performance Indicators**: Các chỉ số hiệu suất.
@@ -20429,7 +20429,7 @@ Kiểm tra các quy trình kiểm thử để đảm bảo chúng hoạt động
 - **Quality Metrics**: Chỉ số chất lượng.
 → **Liên kết:** OPERATIONS (Metrics Design), VALIDATION #12 (Benchmarking - kiểm chứng chất lượng)
 
-#### **26. Validation Evolution** - Tiến Hóa Kiểm Chứng
+#### **25. Validation Evolution** - Tiến Hóa Kiểm Chứng
 Cải thiện liên tục các quy trình kiểm chứng dựa trên phản hồi và học hỏi.
 - **Continuous Improvement**: Cải tiến liên tục.
 - **Adaptive Validation**: Kiểm chứng thích nghi.
@@ -20437,7 +20437,7 @@ Cải thiện liên tục các quy trình kiểm chứng dựa trên phản hồ
 - **Learning Organization**: Tổ chức học hỏi.
 → **Liên kết:** DYNAMICS (Evolution & Adaptation), [META] LAYER (Meta-Learning)
 
-#### **27. Calibrated Response Systems** - Hệ Thống Phản Ứng Được Hiệu Chỉnh
+#### **26. Calibrated Response Systems** - Hệ Thống Phản Ứng Được Hiệu Chỉnh
 Hệ thống điều chỉnh phản ứng dựa trên bối cảnh cụ thể.
 - **Context-Aware**: Nhận thức bối cảnh.
 - **Proportional Response**: Phản ứng tỷ lệ.
@@ -20445,7 +20445,7 @@ Hệ thống điều chỉnh phản ứng dựa trên bối cảnh cụ thể.
 - **Dynamic Adjustment**: Điều chỉnh động.
 → **Liên kết:** OPERATIONS (Adaptive Systems), NAVIGATION (Situational Awareness)
 
-#### **28. Precision Timing Mastery** - Làm Chủ Thời Điểm Chính Xác
+#### **27. Precision Timing Mastery** - Làm Chủ Thời Điểm Chính Xác
 Khả năng điều chỉnh hành động với thời điểm tối ưu.
 - **Temporal Optimization**: Tối ưu hóa thời gian.
 - **Kairos Recognition**: Nhận biết "kairos" (thời điểm phù hợp).
@@ -21011,7 +21011,7 @@ Công cụ framework 2x2 để đánh giá và cải thiện sự tự nhận th
 
 → **Lưu ý:** Đây là CÔNG CỤ THỰC HÀNH, không phải nguyên lý nền tảng.
 
-#### **20. The Pygmalion Effect** - Hiệu Ứng Pygmalion (Lời Tiên Tri Tự Hoàn Thành)
+#### **19. The Pygmalion Effect** - Hiệu Ứng Pygmalion (Lời Tiên Tri Tự Hoàn Thành)
 Hiện tượng mà kỳ vọng cao hơn đối với một người dẫn đến sự cải thiện hiệu suất của người đó.
 - **Expectation Shapes Reality**: Kỳ vọng định hình thực tại.
 - **Positive Reinforcement Loop**: Vòng lặp củng cố tích cực.
@@ -21019,7 +21019,7 @@ Hiện tượng mà kỳ vọng cao hơn đối với một người dẫn đế
 - **The Golem Effect**: Hiệu ứng Golem (ngược lại); kỳ vọng thấp dẫn đến hiệu suất kém.
 → **Liên kết:** AMPLIFICATION (Feedback Loops), DYNAMICS (System Dynamics)
 
-#### **21. The Cobra Effect** - Hiệu Ứng Rắn Hổ Mang
+#### **20. The Cobra Effect** - Hiệu Ứng Rắn Hổ Mang
 Khi một giải pháp được đưa ra cho một vấn đề thực sự làm cho vấn đề trở nên tồi tệ hơn, thường do các hậu quả không lường trước.
 - **Perverse Incentive**: Động cơ thúc đẩy sai lệch tạo ra hành vi ngược lại với ý định.
 - **Unintended Consequences**: Các hậu quả không lường trước của một can thiệp.
@@ -21027,7 +21027,7 @@ Khi một giải pháp được đưa ra cho một vấn đề thực sự làm 
 - **Goodhart's Law**: "Khi một thước đo trở thành mục tiêu, nó không còn là một thước đo tốt nữa".
 → **Liên kết:** DYNAMICS (System Dynamics), OPERATIONS (Incentive Design)
 
-#### **23. Moral Hazard** - Rủi Ro Đạo Đức
+#### **21. Moral Hazard** - Rủi Ro Đạo Đức
 Tình huống trong đó một bên được khuyến khích chấp nhận rủi ro vì họ không phải chịu toàn bộ hậu quả.
 - **Risk Transfer**: Chuyển giao rủi ro từ người chịu hành động sang người khác.
 - **Asymmetric Information**: Thông tin bất cân xứng giữa các bên.
@@ -21035,7 +21035,7 @@ Tình huống trong đó một bên được khuyến khích chấp nhận rủi
 - **Systemic Risk**: Có thể tạo ra rủi ro hệ thống nếu phổ biến rộng rãi.
 → **Liên kết:** NAVIGATION (Risk Navigation), OPERATIONS (Game Theory)
 
-#### **24. Selection Bias** - Thiên Kiến Lựa Chọn
+#### **22. Selection Bias** - Thiên Kiến Lựa Chọn
 Sai lầm trong việc chọn các cá nhân, nhóm hoặc dữ liệu để phân tích theo cách không đại diện cho tổng thể.
 - **Non-Representative Sample**: Mẫu không đại diện cho tổng thể.
 - **Sampling Error**: Lỗi lấy mẫu dẫn đến kết luận sai.
@@ -21043,7 +21043,7 @@ Sai lầm trong việc chọn các cá nhân, nhóm hoặc dữ liệu để ph�
 - **Berkson's Paradox**: Mối tương quan giả mạo do lựa chọn có điều kiện.
 → **Liên kết:** VALIDATION (Controlled Experiment), OPERATIONS (Statistical Reasoning)
 
-#### **25. Regression to the Mean** - Hồi Quy về Trung Bình
+#### **23. Regression to the Mean** - Hồi Quy về Trung Bình
 Hiện tượng các giá trị cực đoan có xu hướng được theo sau bởi các giá trị gần trung bình hơn trong các phép đo tiếp theo.
 - **Natural Variation**: Biến thiên tự nhiên trong các phép đo.
 - **Misattribution of Causality**: Quy kết sai nguyên nhân cho sự thay đổi.
@@ -21051,7 +21051,7 @@ Hiện tượng các giá trị cực đoan có xu hướng được theo sau b�
 - **Statistical Understanding**: Cần hiểu biết thống kê để tránh nhầm lẫn.
 → **Liên kết:** OPERATIONS (Statistical Thinking), [META] LAYER (Causal Reasoning)
 
-#### **26. Observer Effect - Hiệu Ứng Quan Sát [Thách Thức Phương Pháp Luận]**
+#### **24. Observer Effect - Hiệu Ứng Quan Sát [Thách Thức Phương Pháp Luận]**
 
 VẤN ĐỀ PHƯƠNG PHÁP LUẬN: Hành động quan sát và đo lường CAN THIỆP vào hiện tượng được nghiên cứu. Đây là THÁCH THỨC trung tâm trong thiết kế nghiên cứu, đặc biệt trong khoa học xã hội và tâm lý học.
 
@@ -21065,7 +21065,7 @@ VẤN ĐỀ PHƯƠNG PHÁP LUẬN: Hành động quan sát và đo lường CAN 
 → **Chiều đạo đức:** FOUNDATIONS #3 (trách nhiệm đạo đức)
 → **Công cụ meta:** META LAYER #31 (quan sát việc quan sát)
 
-#### **27. Goodhart's Law** - Định Luật Goodhart [Trong Thiết Kế Đo Lường]
+#### **25. Goodhart's Law** - Định Luật Goodhart [Trong Thiết Kế Đo Lường]
 
 CẢNH BÁO THIẾT KẾ: "Khi một thước đo trở thành mục tiêu, nó không còn là một thước đo tốt nữa."
 
@@ -21093,7 +21093,7 @@ Khác với nguyên lý phổ quát ở FOUNDATIONS, đây là ứng dụng CỤ
   ✗ KPI: "Test scores" → Giáo viên "teaching to the test"
   ✓ BETTER: Đo outcome thực sự, không chỉ proxy
 
-#### **28. The Texas Sharpshooter Fallacy** - Ngụy Biện Xạ Thủ Texas
+#### **26. The Texas Sharpshooter Fallacy** - Ngụy Biện Xạ Thủ Texas
 Lỗi logic trong đó thông tin không có mối quan hệ được diễn giải, thao túng hoặc bị bỏ qua để tạo ra ảo tưởng về một mẫu.
 - **Cherry-Picking Clusters**: Lựa chọn các cụm dữ liệu có vẻ có ý nghĩa.
 - **Pattern Imposition**: Áp đặt các mẫu lên dữ liệu ngẫu nhiên.
@@ -21101,7 +21101,7 @@ Lỗi logic trong đó thông tin không có mối quan hệ được diễn gi�
 - **Statistical Significance Abuse**: Lạm dụng ý nghĩa thống kê.
 → **Liên kết:** VALIDATION (Confirmation Bias), OPERATIONS (Hypothesis Testing)
 
-#### **29. The McNamara Fallacy** - Ngụy Biện McNamara
+#### **27. The McNamara Fallacy** - Ngụy Biện McNamara
 Đưa ra quyết định chỉ dựa trên thông tin định lượng và bỏ qua tất cả các yếu tố khác.
 - **Quantifiable Bias**: Thiên kiến về những gì có thể định lượng.
 - **Qualitative Blindness**: Mù lòa trước các yếu tố định tính quan trọng.
@@ -21109,7 +21109,7 @@ Lỗi logic trong đó thông tin không có mối quan hệ được diễn gi�
 - **What Gets Measured Gets Managed**: "Những gì được đo lường sẽ được quản lý" - nhưng không phải tất cả những gì quan trọng đều có thể đo lường.
 → **Liên kết:** OPERATIONS (Decision Frameworks), [META] LAYER (Epistemology)
 
-#### **30. The Narrative Fallacy** - Ngụy Biện Tường Thuật
+#### **28. The Narrative Fallacy** - Ngụy Biện Tường Thuật
 Khuynh hướng tạo ra các câu chuyện có cấu trúc, mạch lạc để giải thích các sự kiện phức tạp hoặc ngẫu nhiên.
 - **Story-Seeking Brain**: Bộ não tìm kiếm câu chuyện.
 - **Causality Imposition**: Áp đặt quan hệ nhân quả lên các sự kiện.
@@ -21117,7 +21117,7 @@ Khuynh hướng tạo ra các câu chuyện có cấu trúc, mạch lạc để 
 - **Randomness Denial**: Từ chối chấp nhận sự ngẫu nhiên.
 → **Liên kết:** VALIDATION (Platonicity), INTEGRATION (Narrative Weaving)
 
-#### **31. Recency Bias** - Thiên Kiến Gần Đây
+#### **29. Recency Bias** - Thiên Kiến Gần Đây
 Khuynh hướng đánh giá cao hơn các sự kiện hoặc thông tin gần đây.
 - **Short-Term Memory Dominance**: Ký ức ngắn hạn chi phối.
 - **Trend Extrapolation**: Ngoại suy xu hướng từ dữ liệu gần đây.
@@ -21125,7 +21125,7 @@ Khuynh hướng đánh giá cao hơn các sự kiện hoặc thông tin gần đ
 - **Market Psychology**: Đặc biệt phổ biến trong tâm lý thị trường.
 → **Liên kết:** NAVIGATION (Temporal Dynamics), OPERATIONS (Time Series Analysis)
 
-#### **32. The Peak-End Rule** - Quy Tắc Đỉnh-Kết Thúc
+#### **30. The Peak-End Rule** - Quy Tắc Đỉnh-Kết Thúc
 Con người đánh giá một trải nghiệm chủ yếu dựa trên cảm giác tại đỉnh điểm (tốt nhất hoặc tệ nhất) và ở cuối.
 - **Experience Sampling Error**: Lỗi trong cách chúng ta ghi nhớ trải nghiệm.
 - **Duration Neglect**: Bỏ qua thời lượng của trải nghiệm.
@@ -21133,7 +21133,7 @@ Con người đánh giá một trải nghiệm chủ yếu dựa trên cảm gi�
 - **Customer Experience Design**: Ứng dụng trong thiết kế trải nghiệm khách hàng.
 → **Liên kết:** INTEGRATION (Personal Integration), [META] LAYER (Meta-Cognition)
 
-#### **33. The Planning Fallacy** - Ngụy Biện Lập Kế Hoạch
+#### **31. The Planning Fallacy** - Ngụy Biện Lập Kế Hoạch
 Khuynh hướng đánh giá thấp thời gian, chi phí và rủi ro của các hành động trong tương lai.
 - **Optimism Bias**: Thiên kiến lạc quan về năng lực của bản thân.
 - **Inside View**: Chỉ nhìn vào dự án cụ thể mà bỏ qua dữ liệu thống kê.
@@ -21141,7 +21141,7 @@ Khuynh hướng đánh giá thấp thời gian, chi phí và rủi ro của các
 - **Reference Class Forecasting**: Sử dụng dự báo theo lớp tham chiếu để khắc phục.
 → **Liên kết:** NAVIGATION (Project Management), OPERATIONS (Estimation)
 
-#### **34. Base Rate Neglect** - Bỏ Qua Tỷ Lệ Cơ Sở
+#### **32. Base Rate Neglect** - Bỏ Qua Tỷ Lệ Cơ Sở
 Khuynh hướng bỏ qua thông tin thống kê chung (tỷ lệ cơ sở) và tập trung quá mức vào thông tin cụ thể về trường hợp.
 - **Specific Information Bias**: Thiên kiến về thông tin cụ thể.
 - **Statistical Base Rate**: Tỷ lệ thống kê tổng thể bị bỏ qua.
@@ -21149,7 +21149,7 @@ Khuynh hướng bỏ qua thông tin thống kê chung (tỷ lệ cơ sở) và t
 - **Bayesian Reasoning Failure**: Thất bại trong suy luận Bayesian.
 → **Liên kết:** OPERATIONS (Bayesian Thinking), VALIDATION (Statistical Process Control)
 
-#### **35. The Master Validator** - Bậc Thầy Kiểm Chứng
+#### **33. The Master Validator** - Bậc Thầy Kiểm Chứng
 Khả năng tích hợp và điều phối tất cả các phương pháp kiểm chứng một cách linh hoạt và thích nghi.
 - **Multi-Method Mastery**: Thành thạo nhiều phương pháp kiểm chứng.
 - **Context-Sensitive Selection**: Chọn lựa phương pháp phù hợp với bối cảnh.
@@ -21159,7 +21159,7 @@ Khả năng tích hợp và điều phối tất cả các phương pháp kiểm
 
 ### **Các Khái Niệm & Phương Pháp Bổ Sung**
 
-#### **36. Risk Assessment** - Đánh Giá Rủi Ro [Quy Trình Kiểm Định Hệ Thống]
+#### **34. Risk Assessment** - Đánh Giá Rủi Ro [Quy Trình Kiểm Định Hệ Thống]
 
 Quy trình có hệ thống để nhận diện, phân tích và ưu tiên rủi ro trong bất kỳ hệ thống, dự án hay quyết định nào. Đây là CÔNG CỤ KIỂM ĐỊNH cốt lõi để đảm bảo chất lượng và an toàn, giúp chuyển đổi sự bất định thành thông tin có thể hành động được.
 
@@ -21188,7 +21188,7 @@ Quy trình có hệ thống để nhận diện, phân tích và ưu tiên rủi
   • Bow-tie Analysis
   • Risk Register
 
-#### **37. Uncertainty Quantification** - Định Lượng Không Chắc Chắn
+#### **35. Uncertainty Quantification** - Định Lượng Không Chắc Chắn
 Đo lường và biểu diễn độ không chắc chắn trong các dự đoán và quyết định.
 - **Error Bounds**: Giới hạn lỗi.
 - **Confidence Intervals**: Khoảng tin cậy.
@@ -21196,7 +21196,7 @@ Quy trình có hệ thống để nhận diện, phân tích và ưu tiên rủi
 - **Probability Distribution**: Phân phối xác suất.
 → **Liên kết:** OPERATIONS (Statistical Reasoning), VALIDATION (Sensitivity Analysis)
 
-#### **38. Confidence Estimation** - Ước Tính Độ Tin Cậy
+#### **36. Confidence Estimation** - Ước Tính Độ Tin Cậy
 Đánh giá mức độ tin cậy vào một kết quả hoặc dự đoán.
 - **Reliability Assessment**: Đánh giá độ tin cậy.
 - **Statistical Confidence**: Độ tin cậy thống kê.
@@ -21204,7 +21204,7 @@ Quy trình có hệ thống để nhận diện, phân tích và ưu tiên rủi
 - **Epistemic Uncertainty**: Bất định nhận thức.
 → **Liên kết:** OPERATIONS (Bayesian Thinking), VALIDATION (Peer Review)
 
-#### **40. Signal Harvesting** - Thu Hoạch Tín Hiệu
+#### **37. Signal Harvesting** - Thu Hoạch Tín Hiệu
 Thực hành phát hiện và thu thập các tín hiệu sớm về thay đổi hoặc rủi ro.
 - **Early Warning Detection**: Phát hiện cảnh báo sớm.
 - **Weak Signal Recognition**: Nhận diện tín hiệu yếu.
@@ -21212,7 +21212,7 @@ Thực hành phát hiện và thu thập các tín hiệu sớm về thay đổi
 - **Anticipatory Intelligence**: Trí tuệ dự báo.
 → **Liên kết:** NAVIGATION (Leading Indicators), VALIDATION (Signal vs Noise Separation)
 
-#### **41. Reality Checking** - Kiểm Tra Thực Tế
+#### **38. Reality Checking** - Kiểm Tra Thực Tế
 Thực hành liên tục xác minh các giả định và mô hình với thực tế.
 - **Continuous Verification**: Xác minh liên tục.
 - **Ground Truth Comparison**: So sánh với sự thật nền.
@@ -21220,7 +21220,7 @@ Thực hành liên tục xác minh các giả định và mô hình với thực
 - **Model Recalibration**: Hiệu chỉnh lại mô hình.
 → **Liên kết:** VALIDATION (Ground Truth Validation), OPERATIONS (Empiricism)
 
-#### **42. Sturgeon's Law** - Định Luật Sturgeon
+#### **39. Sturgeon's Law** - Định Luật Sturgeon
 "90% của mọi thứ đều là rác rưởi" - nhắc nhở về sự phổ biến của chất lượng thấp.
 - **Quality Distribution**: Phân phối chất lượng không đồng đều.
 - **90-Percent Rule**: Quy tắc 90%.
@@ -21228,7 +21228,7 @@ Thực hành liên tục xác minh các giả định và mô hình với thực
 - **Excellence Rarity**: Sự xuất sắc là hiếm.
 → **Liên kết:** VALIDATION (Peer Review), OPERATIONS (Prioritization)
 
-#### **43. Pareto Principle** - Nguyên Tắc Pareto
+#### **40. Pareto Principle** - Nguyên Tắc Pareto
 Quy tắc 80/20: 80% kết quả đến từ 20% nguyên nhân.
 - **80-20 Distribution**: Phân phối 80-20.
 - **Unequal Impact**: Tác động không đồng đều.
@@ -21236,7 +21236,7 @@ Quy tắc 80/20: 80% kết quả đến từ 20% nguyên nhân.
 - **Vital Few**: Số ít quan trọng.
 → **Liên kết:** NAVIGATION (Leverage), OPERATIONS (Prioritization)
 
-#### **44. Price's Law** - Định Luật Price
+#### **41. Price's Law** - Định Luật Price
 Một nửa sản lượng được tạo ra bởi căn bậc hai số lượng người đóng góp.
 - **Square Root Law**: Định luật căn bậc hai.
 - **Contribution Distribution**: Phân phối đóng góp.
@@ -21244,7 +21244,7 @@ Một nửa sản lượng được tạo ra bởi căn bậc hai số lượng 
 - **Elite Performance**: Hiệu suất ưu tú.
 → **Liên kết:** AMPLIFICATION (Power Law Distribution), OPERATIONS (Team Dynamics)
 
-#### **45. Benford's Law** - Định Luật Benford
+#### **42. Benford's Law** - Định Luật Benford
 Trong nhiều tập dữ liệu, chữ số đầu tiên là 1 xuất hiện khoảng 30% thời gian - hữu ích để phát hiện gian lận.
 - **Leading Digit Distribution**: Phân phối chữ số đầu.
 - **Numerical Pattern**: Mẫu số tự nhiên.
@@ -21252,7 +21252,7 @@ Trong nhiều tập dữ liệu, chữ số đầu tiên là 1 xuất hiện kho
 - **Data Authenticity**: Tính xác thực của dữ liệu.
 → **Liên kết:** VALIDATION (Error Detection & Correction), OPERATIONS (Data Analysis)
 
-#### **46. Bradford's Law** - Định Luật Bradford
+#### **43. Bradford's Law** - Định Luật Bradford
 Phân phối thông tin trong các tài liệu theo nhóm: một số ít nguồn chứa phần lớn thông tin.
 - **Information Concentration**: Tập trung thông tin.
 - **Core-Periphery**: Lõi và ngoại vi.
@@ -21260,7 +21260,7 @@ Phân phối thông tin trong các tài liệu theo nhóm: một số ít nguồ
 - **Source Prioritization**: Ưu tiên nguồn.
 → **Liên kết:** INTEGRATION (Knowledge Integration), NAVIGATION (Research Strategy)
 
-#### **47. Lindy Effect** - Hiệu Ứng Lindy [Heuristic Kiểm Chứng]
+#### **44. Lindy Effect** - Hiệu Ứng Lindy [Heuristic Kiểm Chứng]
 
 CÔNG CỤ KIỂM CHỨNG: Sử dụng tuổi thọ hiện tại như một heuristic để đánh giá độ tin cậy, chất lượng và rủi ro của các thứ phi-hư hoại. Đây là PHƯƠNG PHÁP THỰC TIỄN để ra quyết định khi thiếu dữ liệu - "cái gì đã tồn tại 10 năm có khả năng tồn tại thêm 10 năm nữa, cái gì tồn tại 100 năm có khả năng tồn tại thêm 100 năm".
 
@@ -21280,7 +21280,7 @@ CÔNG CỤ KIỂM CHỨNG: Sử dụng tuổi thọ hiện tại như một heur
 - **Công nghệ**: Linux (1991) > framework JavaScript mới (2024)
 - **Rủi ro**: Hệ thống banking truyền thống < crypto mới
 
-#### **48. Chesterton's Fence** - Hàng Rào của Chesterton
+#### **45. Chesterton's Fence** - Hàng Rào của Chesterton
 
 Nguyên tắc kiểm chứng: Đừng phá bỏ một hàng rào (hoặc thay đổi một hệ thống) cho đến khi bạn hiểu đầy đủ TẠI SAO nó được dựng lên ngay từ đầu.
 
@@ -21309,7 +21309,7 @@ Nguyên tắc kiểm chứng: Đừng phá bỏ một hàng rào (hoặc thay đ
 
 → **Lưu ý**: Trước đây khái niệm này cũng xuất hiện ở DYNAMICS #43 (System Evolution Patterns) nhưng đã được loại bỏ vì Chesterton's Fence VỀ BẢN CHẤT là một công cụ VALIDATION, không phải một quy luật tiến hóa hệ thống
 
-#### **49. Gall's Law** - Định Luật Gall
+#### **46. Gall's Law** - Định Luật Gall
 "Một hệ thống phức tạp hoạt động luôn phát triển từ một hệ thống đơn giản hoạt động."
 - **Complexity Evolution**: Tiến hóa phức tạp.
 - **Incremental Development**: Phát triển từng bước.
@@ -21317,7 +21317,7 @@ Nguyên tắc kiểm chứng: Đừng phá bỏ một hàng rào (hoặc thay đ
 - **Bottom-Up Design**: Thiết kế từ dưới lên.
 → **Liên kết:** CREATION (Iterative Design), DYNAMICS (Emergence & Self-Organization)
 
-#### **50. [REMOVED - See DYNAMICS #46]**
+#### **47. [REMOVED - See DYNAMICS #46]**
 
 Conway's Law đã được di chuyển hoàn toàn sang DYNAMICS (Domain 2, #46) vì đây là bản chất của nó - một ĐỊNH LUẬT về tiến hóa hệ thống.
 
@@ -21333,7 +21333,7 @@ Các công cụ kiểm chứng liên quan vẫn còn trong VALIDATION:
 • System Architecture Review
 • Team Structure Assessment
 
-#### **51. Amara's Law** - Định Luật Amara
+#### **48. Amara's Law** - Định Luật Amara
 "Chúng ta có xu hướng đánh giá quá cao tác động của công nghệ trong ngắn hạn và đánh giá thấp tác động trong dài hạn."
 - **Technology Timeline**: Dòng thời gian công nghệ.
 - **Short-term Hype**: Cường điệu ngắn hạn.
@@ -21341,7 +21341,7 @@ Các công cụ kiểm chứng liên quan vẫn còn trong VALIDATION:
 - **Expectation Management**: Quản lý kỳ vọng.
 → **Liên kết:** NAVIGATION (Strategic Wayfinding), VALIDATION (Ground Truth Validation)
 
-#### **52. Survivorship Bias Filter** - Bộ Lọc Thiên Kiến Sống Sót
+#### **49. Survivorship Bias Filter** - Bộ Lọc Thiên Kiến Sống Sót
 Công cụ để nhận diện và điều chỉnh thiên kiến chỉ nhìn vào những gì tồn tại.
 - **Invisible Failures**: Những thất bại vô hình.
 - **Selection Effect**: Hiệu ứng lựa chọn.
@@ -21349,7 +21349,7 @@ Công cụ để nhận diện và điều chỉnh thiên kiến chỉ nhìn và
 - **Bias Correction**: Điều chỉnh thiên kiến.
 → **Liên kết:** VALIDATION (Survivorship Bias), OPERATIONS (Statistical Reasoning)
 
-#### **53. Anthropic Principle - Nguyên Lý Nhân Trạng [Weak Version - Selection Bias Tool]**
+#### **50. Anthropic Principle - Nguyên Lý Nhân Trạng [Weak Version - Selection Bias Tool]**
 
 Công cụ kiểm chứng dựa trên Weak Anthropic Principle: Các quan sát của chúng ta về vũ trụ tất yếu phải tương thích với sự tồn tại của chúng ta như những người quan sát. Đây là CÔNG CỤ để nhận diện và điều chỉnh SELECTION BIAS.
 
@@ -21369,7 +21369,7 @@ Công cụ kiểm chứng dựa trên Weak Anthropic Principle: Các quan sát c
 → **Version mạnh hơn:** [META] LAYER #55 (Strong Anthropic Principle - participatory reality)
 → **Ví dụ thực tế:** Fine-tuning constants in physics, survivorship bias in investing
 
-#### **54. Ergodicity Razor** - Dao Cạo Ergodic
+#### **51. Ergodicity Razor** - Dao Cạo Ergodic
 Công cụ để phân biệt khi nào có thể lấy trung bình theo ensemble và khi nào phải theo dõi theo thời gian.
 - **Time vs Ensemble**: Thời gian vs tập hợp.
 - **Averaging Validity**: Tính hợp lệ của lấy trung bình.
@@ -21377,7 +21377,7 @@ Công cụ để phân biệt khi nào có thể lấy trung bình theo ensemble
 - **Irreversibility**: Tính không đảo ngược.
 → **Liên kết:** OPERATIONS (Statistical Reasoning), DYNAMICS (Path Dependence)
 
-#### **55. Mediocrity Principle** - Nguyên Lý Tầm Thường
+#### **52. Mediocrity Principle** - Nguyên Lý Tầm Thường
 Giả định rằng trong trường hợp không có bằng chứng khác, một thứ gì đó có thể là điển hình, không phải đặc biệt.
 - **Typical Assumption**: Giả định điển hình.
 - **Default Position**: Vị trí mặc định.
@@ -21385,7 +21385,7 @@ Giả định rằng trong trường hợp không có bằng chứng khác, mộ
 - **Bayesian Prior**: Prior Bayesian.
 → **Liên kết:** OPERATIONS (Bayesian Thinking), VALIDATION (Sagan Standard)
 
-#### **56. Shannon's Razor** - Dao Cạo Shannon
+#### **53. Shannon's Razor** - Dao Cạo Shannon
 Tối đa hóa entropy (thông tin) trong khi tối thiểu hóa độ phức tạp không cần thiết.
 - **Information Optimization**: Tối ưu hóa thông tin.
 - **Entropy Maximization**: Tối đa hóa entropy.
@@ -21393,7 +21393,7 @@ Tối đa hóa entropy (thông tin) trong khi tối thiểu hóa độ phức t�
 - **Signal Efficiency**: Hiệu quả tín hiệu.
 → **Liên kết:** OPERATIONS (Information Theory), VALIDATION (Signal vs Noise Separation)
 
-#### **57. Deutsch's Razor** - Dao Cạo Deutsch
+#### **54. Deutsch's Razor** - Dao Cạo Deutsch
 Ưu tiên các lý thuyết có khả năng giải thích nhiều hơn với ít giả định hơn (mở rộng của Occam).
 - **Explanatory Power**: Sức mạnh giải thích.
 - **Quantum Context**: Bối cảnh lượng tử.
@@ -21401,7 +21401,7 @@ Tối đa hóa entropy (thông tin) trong khi tối thiểu hóa độ phức t�
 - **Deep Explanation**: Giải thích sâu sắc.
 → **Liên kết:** OPERATIONS (Analytical Razors), FOUNDATIONS (Universal Laws & Patterns)
 
-#### **58. Feynman's Razor** - Dao Cạo Feynman
+#### **55. Feynman's Razor** - Dao Cạo Feynman
 "Nếu bạn không thể giải thích đơn giản, bạn chưa hiểu đủ tốt."
 - **Understanding Test**: Kiểm tra sự hiểu biết.
 - **Simplicity Requirement**: Yêu cầu đơn giản.
@@ -21409,7 +21409,7 @@ Tối đa hóa entropy (thông tin) trong khi tối thiểu hóa độ phức t�
 - **Teaching Criterion**: Tiêu chí giảng dạy.
 → **Liên kết:** INTEGRATION (Knowledge Integration), [META] LAYER (Meta-Cognition)
 
-#### **59. Brandolini's Law** - Định Luật Brandolini
+#### **56. Brandolini's Law** - Định Luật Brandolini
 "Lượng năng lượng cần thiết để bác bỏ nhảm nhí lớn hơn một bậc so với lượng năng lượng cần để tạo ra nó."
 - **Bullshit Asymmetry**: Bất đối xứng nhảm nhí.
 - **Effort Imbalance**: Mất cân bằng nỗ lực.
@@ -21417,7 +21417,7 @@ Tối đa hóa entropy (thông tin) trong khi tối thiểu hóa độ phức t�
 - **Prevention Focus**: Tập trung phòng ngừa.
 → **Liên kết:** VALIDATION (Peer Review), OPERATIONS (Efficiency)
 
-#### **60. Antifragility Testing** - Kiểm Thử Tính Phản Mỏng Manh
+#### **57. Antifragility Testing** - Kiểm Thử Tính Phản Mỏng Manh
 Kiểm tra xem hệ thống có được lợi từ stress và biến động không.
 - **Stress Benefit**: Lợi ích từ stress.
 - **Hormesis Effect**: Hiệu ứng hormesis.
@@ -21425,7 +21425,7 @@ Kiểm tra xem hệ thống có được lợi từ stress và biến động kh
 - **Optionality**: Tính lựa chọn.
 → **Liên kết:** DYNAMICS (Antifragile Systems), INTEGRATION (System Resilience)
 
-#### **61. Boundary Testing** - Kiểm Thử Ranh Giới
+#### **58. Boundary Testing** - Kiểm Thử Ranh Giới
 Kiểm tra hệ thống tại các giới hạn và trường hợp biên.
 - **Edge Cases**: Các trường hợp biên.
 - **Limit Conditions**: Điều kiện giới hạn.
@@ -21433,7 +21433,7 @@ Kiểm tra hệ thống tại các giới hạn và trường hợp biên.
 - **Boundary Behavior**: Hành vi tại ranh giới.
 → **Liên kết:** VALIDATION (Boundary Condition Testing), OPERATIONS (Constraint Analysis)
 
-#### **62. Mutation Testing** - Kiểm Thử Đột Biến
+#### **59. Mutation Testing** - Kiểm Thử Đột Biến
 Trong kiểm thử phần mềm, thay đổi (đột biến) mã để kiểm tra xem bộ test có phát hiện ra không.
 - **Code Verification**: Xác minh mã.
 - **Test Quality**: Chất lượng bộ test.
@@ -21441,7 +21441,7 @@ Trong kiểm thử phần mềm, thay đổi (đột biến) mã để kiểm tr
 - **Fault Injection**: Tiêm lỗi có kiểm soát.
 → **Liên kết:** OPERATIONS (Software Testing), VALIDATION (Error Detection & Correction)
 
-#### **63. Adversarial Examples** - Các Ví Dụ Đối Kháng
+#### **60. Adversarial Examples** - Các Ví Dụ Đối Kháng
 Đầu vào được thiết kế đặc biệt để đánh lừa mô hình machine learning.
 - **Attack Vectors**: Các vector tấn công.
 - **Model Vulnerability**: Lỗ hổng của mô hình.
@@ -21449,7 +21449,7 @@ Trong kiểm thử phần mềm, thay đổi (đột biến) mã để kiểm tr
 - **Defense Mechanisms**: Cơ chế phòng thủ.
 → **Liên kết:** OPERATIONS (Machine Learning), VALIDATION (Red Teaming)
 
-#### **64. Bayesian Validation** - Kiểm Chứng Bayesian
+#### **61. Bayesian Validation** - Kiểm Chứng Bayesian
 Sử dụng phương pháp Bayesian để cập nhật độ tin cậy dựa trên bằng chứng.
 - **Probability Updating**: Cập nhật xác suất.
 - **Evidence Integration**: Tích hợp bằng chứng.
@@ -21457,7 +21457,7 @@ Sử dụng phương pháp Bayesian để cập nhật độ tin cậy dựa tr�
 - **Credible Intervals**: Khoảng tin cậy Bayesian.
 → **Liên kết:** OPERATIONS (Bayesian Thinking), VALIDATION (Feedback Processing & Calibration)
 
-#### **65. Ensemble Validation** - Kiểm Chứng Tập Hợp
+#### **62. Ensemble Validation** - Kiểm Chứng Tập Hợp
 Sử dụng nhiều mô hình hoặc phương pháp và kết hợp kết quả để tăng độ tin cậy.
 - **Multiple Models**: Nhiều mô hình.
 - **Consensus Building**: Xây dựng đồng thuận.
@@ -21465,7 +21465,7 @@ Sử dụng nhiều mô hình hoặc phương pháp và kết hợp kết quả 
 - **Variance Reduction**: Giảm phương sai.
 → **Liên kết:** AMPLIFICATION (Wisdom of Crowds), VALIDATION (Triangulation)
 
-#### **66. Systemic Validation** - Kiểm Chứng Hệ Thống
+#### **63. Systemic Validation** - Kiểm Chứng Hệ Thống
 Xác thực toàn bộ hệ thống như một thể thống nhất, không chỉ các thành phần riêng lẻ.
 - **Holistic Testing**: Kiểm thử toàn diện.
 - **Interaction Effects**: Hiệu ứng tương tác.
@@ -23048,7 +23048,7 @@ Các cấu trúc tự tương tự ở các quy mô khác nhau.
 - **Scale-Free Structure**: Cấu trúc không phụ thuộc vào quy mô.  
     → **Liên kết:** FOUNDATIONS (Natural Patterns), CREATION (Generative Design).
 
-#### **21. Iteration** - Lặp Đi Lặp Lại
+#### **20. Iteration** - Lặp Đi Lặp Lại
 
 Quá trình lặp lại một hành động hoặc quy trình để cải thiện dần.
 
@@ -23060,7 +23060,7 @@ Quá trình lặp lại một hành động hoặc quy trình để cải thiệ
 
 ### **Fractal & Recursive (3 mục bổ sung)**
 
-#### **22. Fractal Growth** - Tăng Trưởng Phân Hình
+#### **21. Fractal Growth** - Tăng Trưởng Phân Hình
 
 Mẫu hình tăng trưởng lặp lại cấu trúc tương tự ở các quy mô khác nhau.
 
@@ -23070,7 +23070,7 @@ Mẫu hình tăng trưởng lặp lại cấu trúc tương tự ở các quy m�
 - **Nested Structure**: Cấu trúc lồng nhau.  
     → **Liên kết:** FOUNDATIONS (Fractal Geometry), CREATION (Natural Design).
 
-#### **23. L-System Creativity** - Sáng Tạo Hệ L
+#### **22. L-System Creativity** - Sáng Tạo Hệ L
 
 Hệ thống viết lại đệ quy để tạo ra các cấu trúc phức tạp từ các quy tắc đơn giản.
 
@@ -23080,7 +23080,7 @@ Hệ thống viết lại đệ quy để tạo ra các cấu trúc phức tạp
 - **Algorithmic Growth**: Tăng trưởng theo thuật toán.  
     → **Liên kết:** CREATION (Algorithmic Art), OPERATIONS (Formal Systems).
 
-#### **24. Recursive Patterns** - Các Mẫu Hình Đệ Quy
+#### **23. Recursive Patterns** - Các Mẫu Hình Đệ Quy
 
 Các mẫu hình có tham chiếu hoặc chứa đựng chính nó.
 
@@ -23092,7 +23092,7 @@ Các mẫu hình có tham chiếu hoặc chứa đựng chính nó.
 
 ### **Feedback & Amplification (5 mục bổ sung)**
 
-#### **25. Feedback Acceleration** - Gia Tốc Phản Hồi
+#### **24. Feedback Acceleration** - Gia Tốc Phản Hồi
 
 Tăng tốc độ và cường độ của các vòng lặp phản hồi.
 
@@ -23102,7 +23102,7 @@ Tăng tốc độ và cường độ của các vòng lặp phản hồi.
 - **Rapid Iteration**: Lặp nhanh chóng.  
     → **Liên kết:** DYNAMICS (Acceleration), VALIDATION (Rapid Feedback).
 
-#### **26. Process Acceleration** - Gia Tốc Quy Trình
+#### **25. Process Acceleration** - Gia Tốc Quy Trình
 
 Tăng tốc độ của các quy trình để đạt kết quả nhanh hơn.
 
@@ -23112,7 +23112,7 @@ Tăng tốc độ của các quy trình để đạt kết quả nhanh hơn.
 - **Parallel Processing**: Xử lý song song.  
     → **Liên kết:** OPERATIONS (Process Optimization), AUTOMATION (Speed).
 
-#### **27. Amplification Systems** - Hệ Thống Khuếch Đại
+#### **26. Amplification Systems** - Hệ Thống Khuếch Đại
 
 Các hệ thống được thiết kế để nhân rộng đầu vào thành đầu ra lớn hơn nhiều.
 
@@ -23122,7 +23122,7 @@ Các hệ thống được thiết kế để nhân rộng đầu vào thành đ
 - **Systematic Amplification**: Khuếch đại có hệ thống.  
     → **Liên kết:** OPERATIONS (System Design), FORCE MULTIPLICATION (Leverage).
 
-#### **28. System Catalysis** - Xúc Tác Hệ Thống
+#### **27. System Catalysis** - Xúc Tác Hệ Thống
 
 Kích hoạt và tăng tốc sự thay đổi ở cấp độ hệ thống.
 
@@ -23134,7 +23134,7 @@ Kích hoạt và tăng tốc sự thay đổi ở cấp độ hệ thống.
 
 ### **Replication & Scaling (5 mục bổ sung)**
 
-#### **29. Replication - Sao Chép [Cơ Chế Tăng Trưởng]**
+#### **28. Replication - Sao Chép [Cơ Chế Tăng Trưởng]**
 
 Quá trình hệ thống hóa việc tạo ra các bản sao của một thực thể hoặc quy trình để đạt TĂNG TRƯỞNG THEO CẤP SỐ NHÂN. Khác với thao tác kỹ thuật ở OPERATIONS, đây là về XÂY DỰNG CƠ CHẾ sao chép tự động, quy mô lớn và bền vững.
 
@@ -23148,7 +23148,7 @@ Quá trình hệ thống hóa việc tạo ra các bản sao của một thực 
 → **Nền tảng chiến lược:** AMPLIFICATION #6 (Standardization & Replication)
 → **Mô hình thực tế:** Franchise Systems, Platform Businesses, Open Source
 
-#### **30. Scale What Works** - Mở Rộng Cái Đã Hiệu Quả
+#### **29. Scale What Works** - Mở Rộng Cái Đã Hiệu Quả
 
 Chiến lược tập trung vào việc nhân rộng những gì đã được chứng minh thành công.
 
@@ -23158,7 +23158,7 @@ Chiến lược tập trung vào việc nhân rộng những gì đã được c
 - **Risk Reduction**: Giảm rủi ro qua bằng chứng.  
     → **Liên kết:** VALIDATION (Proof of Concept), OPERATIONS (Scaling Strategy).
 
-#### **31. Innovation Scaling** - Mở Rộng Đổi Mới
+#### **30. Innovation Scaling** - Mở Rộng Đổi Mới
 
 Quá trình đưa đổi mới từ thử nghiệm đến chấp nhận rộng rãi.
 
@@ -23168,7 +23168,7 @@ Quá trình đưa đổi mới từ thử nghiệm đến chấp nhận rộng r
 - **Ecosystem Integration**: Tích hợp vào hệ sinh thái.  
     → **Liên kết:** CREATION (Innovation), NAVIGATION (Market Strategy).
 
-#### **32. Educational Scaling** - Mở Rộng Giáo Dục
+#### **31. Educational Scaling** - Mở Rộng Giáo Dục
 
 Nhân rộng tri thức và kỹ năng đến nhiều người hơn.
 
@@ -23178,7 +23178,7 @@ Nhân rộng tri thức và kỹ năng đến nhiều người hơn.
 - **Impact Amplification**: Khuếch đại tác động giáo dục.  
     → **Liên kết:** INTEGRATION (Knowledge Transfer), PLATFORM (Educational Platforms).
 
-#### **33. The Many** - Cái Nhiều
+#### **32. The Many** - Cái Nhiều
 
 Khái niệm về sức mạnh của số đông, đa dạng và phân tán.
 
@@ -23190,7 +23190,7 @@ Khái niệm về sức mạnh của số đông, đa dạng và phân tán.
 
 ### **Activation & Catalyst (5 mục bổ sung)**
 
-#### **34. Activation Energy** - Năng Lượng Kích Hoạt
+#### **33. Activation Energy** - Năng Lượng Kích Hoạt
 
 Năng lượng tối thiểu cần thiết để bắt đầu một quá trình hoặc phản ứng.
 
@@ -23200,7 +23200,7 @@ Năng lượng tối thiểu cần thiết để bắt đầu một quá trình 
 - **Start-up Cost**: Chi phí khởi động.  
     → **Liên kết:** FOUNDATIONS (Chemical Kinetics), DYNAMICS (Activation).
 
-#### **35. Trigger Points** - Các Điểm Kích Hoạt
+#### **34. Trigger Points** - Các Điểm Kích Hoạt
 
 Các điểm hoặc sự kiện cụ thể kích hoạt sự thay đổi lớn hơn.
 
@@ -23210,7 +23210,7 @@ Các điểm hoặc sự kiện cụ thể kích hoạt sự thay đổi lớn h
 - **Action Initiation**: Khởi động hành động.  
     → **Liên kết:** NAVIGATION (Strategic Timing), VIRAL MECHANICS (Tipping Points).
 
-#### **36. Catalyst** - Chất Xúc Tác
+#### **35. Catalyst** - Chất Xúc Tác
 
 Yếu tố làm tăng tốc một quá trình mà không bị tiêu hao (đã có ở chức năng trước, góc nhìn growth).
 
@@ -23220,7 +23220,7 @@ Yếu tố làm tăng tốc một quá trình mà không bị tiêu hao (đã c�
 - **Process Enabler**: Người tạo điều kiện cho quá trình.  
     → **Liên kết:** FOUNDATIONS (Catalysis), DYNAMICS (Acceleration).
 
-#### **37. Catalyst Identification** - Nhận Diện Chất Xúc Tác
+#### **36. Catalyst Identification** - Nhận Diện Chất Xúc Tác
 
 Phương pháp tìm ra các yếu tố có thể xúc tác cho sự thay đổi.
 
@@ -23230,7 +23230,7 @@ Phương pháp tìm ra các yếu tố có thể xúc tác cho sự thay đổi.
 - **Pattern Recognition**: Nhận dạng mẫu hình.  
     → **Liên kết:** OPERATIONS (Analysis Methods), NAVIGATION (Strategic Selection).
 
-#### **38. Growth Catalysis** - Xúc Tác Tăng Trưởng
+#### **37. Growth Catalysis** - Xúc Tác Tăng Trưởng
 
 Quá trình kích thích và gia tốc sự tăng trưởng.
 
@@ -23242,7 +23242,7 @@ Quá trình kích thích và gia tốc sự tăng trưởng.
 
 ### **Emergence & Evolution (6 mục bổ sung)**
 
-#### **39. Emergence Acceleration** - Gia Tốc Đột Sinh
+#### **38. Emergence Acceleration** - Gia Tốc Đột Sinh
 
 Tăng tốc độ mà các thuộc tính mới xuất hiện từ hệ thống phức tạp.
 
@@ -23252,7 +23252,7 @@ Tăng tốc độ mà các thuộc tính mới xuất hiện từ hệ thống p
 - **Innovation Velocity**: Vận tốc đổi mới.  
     → **Liên kết:** DYNAMICS (Emergence), CREATION (Innovation Speed).
 
-#### **40. Emergence Riding** - Cưỡi Đột Sinh
+#### **39. Emergence Riding** - Cưỡi Đột Sinh
 
 Chiến lược thích ứng và tận dụng các hiện tượng đột sinh.
 
@@ -23262,7 +23262,7 @@ Chiến lược thích ứng và tận dụng các hiện tượng đột sinh.
 - **Emergent Advantage**: Lợi thế từ đột sinh.  
     → **Liên kết:** NAVIGATION (Adaptive Strategy), DYNAMICS (Emergence).
 
-#### **41. Capability Emergence** - Đột Sinh Năng Lực
+#### **40. Capability Emergence** - Đột Sinh Năng Lực
 
 Sự xuất hiện của các khả năng mới từ sự tương tác của các yếu tố hiện có.
 
@@ -23272,7 +23272,7 @@ Sự xuất hiện của các khả năng mới từ sự tương tác của cá
 - **System Evolution**: Tiến hóa hệ thống.  
     → **Liên kết:** DYNAMICS (Capability Development), INTEGRATION (Synergy).
 
-#### **42. Potential Actualization** - Hiện Thực Hóa Tiềm Năng
+#### **41. Potential Actualization** - Hiện Thực Hóa Tiềm Năng
 
 Quá trình biến tiềm năng thành hiện thực.
 
@@ -23282,7 +23282,7 @@ Quá trình biến tiềm năng thành hiện thực.
 - **Latent Activation**: Kích hoạt tiềm ẩn.  
     → **Liên kết:** CREATION (Manifestation), DYNAMICS (Actualization).
 
-#### **43. Swarm Intelligence - Trí Tuệ Bầy Đàn [Động Cơ Khuếch Đại]**
+#### **42. Swarm Intelligence - Trí Tuệ Bầy Đàn [Động Cơ Khuếch Đại]**
 
 Sử dụng trí tuệ bầy đàn như ĐỘNG CƠ để khuếch đại năng lực giải quyết vấn đề theo cấp số nhân. Khác với hiện tượng tự nhiên (DYNAMICS) và ứng dụng cộng tác (INTEGRATION), đây là về KHUẾCH ĐẠI - làm sao để N cá nhân tạo ra >N² hiệu quả.
 
@@ -23298,7 +23298,7 @@ Sử dụng trí tuệ bầy đàn như ĐỘNG CƠ để khuếch đại năng 
 
 📌 **TIÊU ĐIỂM:** KHUẾCH ĐẠI sức mạnh tập thể theo cấp số nhân
 
-#### **44. Collective Intelligence Surfing** - Lướt Trí Tuệ Tập Thể
+#### **43. Collective Intelligence Surfing** - Lướt Trí Tuệ Tập Thể
 
 Chiến lược tận dụng và điều hướng trí tuệ tập thể.
 
@@ -23310,7 +23310,7 @@ Chiến lược tận dụng và điều hướng trí tuệ tập thể.
 
 ### **Mindset & Philosophy (3 mục bổ sung)**
 
-#### **45. Abundance Mindset** - Tâm Thế Dồi Dào
+#### **44. Abundance Mindset** - Tâm Thế Dồi Dào
 
 Niềm tin rằng có đủ nguồn lực và cơ hội cho tất cả mọi người.
 
@@ -23320,7 +23320,7 @@ Niềm tin rằng có đủ nguồn lực và cơ hội cho tất cả mọi ng�
 - **Generosity Principle**: Nguyên tắc hào phóng.  
     → **Liên kết:** FOUNDATIONS (Mindset), TRANSCENDENCE (Paradigm Shift).
 
-#### **46. Regenerative Practice** - Thực Hành Tái Sinh
+#### **45. Regenerative Practice** - Thực Hành Tái Sinh
 
 Các phương pháp không chỉ duy trì mà còn cải thiện và phục hồi hệ thống.
 
@@ -23330,7 +23330,7 @@ Các phương pháp không chỉ duy trì mà còn cải thiện và phục hồ
 - **Vitality Restoration**: Khôi phục sức sống.  
     → **Liên kết:** FOUNDATIONS (Regeneration), DYNAMICS (Sustainability).
 
-#### **47. Intergenerational Amplification** - Khuếch Đại Liên Thế Hệ
+#### **46. Intergenerational Amplification** - Khuếch Đại Liên Thế Hệ
 
 Cơ chế nhân rộng tác động qua nhiều thế hệ - mỗi thế hệ xây dựng trên thành quả của thế hệ trước, tạo ra HIỆU ỨNG LÃI KÉP qua thời gian. Khác với Legacy Integration (tích hợp cá nhân với nhận thức di sản), đây là về CƠ CHẾ KHUẾCH ĐẠI theo cấp số nhân của tác động qua thời gian.
 
@@ -23841,7 +23841,7 @@ Phục vụ người khác như một con đường tu luyện và phát triển
 - **Practice Integration**: Tích hợp thực hành.  
     → **Liên kết:** FOUNDATIONS (Karma Yoga), INTEGRATION (Service).
 
-#### **43. Missionary Traditions** - Truyền Thống Truyền Giáo
+#### **42. Missionary Traditions** - Truyền Thống Truyền Giáo
 
 Các phương pháp lan truyền niềm tin và giá trị.
 
@@ -23851,7 +23851,7 @@ Các phương pháp lan truyền niềm tin và giá trị.
 - **Evangelism**: Truyền bá.  
     → **Liên kết:** VIRAL MECHANICS (Cultural Transmission), INTEGRATION (Belief Systems).
 
-#### **44. Dharma Spreading** - Lan Truyền Pháp
+#### **43. Dharma Spreading** - Lan Truyền Pháp
 
 Truyền bá giáo lý và trí tuệ tâm linh.
 
@@ -23863,7 +23863,7 @@ Truyền bá giáo lý và trí tuệ tâm linh.
 
 ### **Sacred Amplification (5 mục bổ sung)**
 
-#### **45. Spiritual Movement Building** - Xây Dựng Phong Trào Tâm Linh
+#### **44. Spiritual Movement Building** - Xây Dựng Phong Trào Tâm Linh
 
 Khuếch đại tác động xã hội thông qua việc xây dựng các phong trào được thúc đẩy bởi giá trị tâm linh và đạo đức. Đây là PHƯƠNG PHÁP để biến các giá trị thiêng liêng (như Tikkun Olam, Dharma, Sacred Activism) thành hành động tập thể quy mô lớn.
 
@@ -23875,7 +23875,7 @@ Khuếch đại tác động xã hội thông qua việc xây dựng các phong 
     → **Gốc giá trị:** Các giáo lý như Tikkun Olam (FOUNDATIONS #35), Karma Yoga, Sacred Activism.
     → **Phương pháp:** Sacred Activism (#46), Community Art Practice (#49), Teaching & Transmission (FOUNDATIONS #39).
 
-#### **46. Sacred Activism** - Hành Động Thiêng Liêng
+#### **45. Sacred Activism** - Hành Động Thiêng Liêng
 
 Kết hợp hoạt động xã hội với thực hành tâm linh.
 
@@ -23885,7 +23885,7 @@ Kết hợp hoạt động xã hội với thực hành tâm linh.
 - **Purpose-Driven**: Hướng đến mục đích.  
     → **Liên kết:** TRANSCENDENCE (Sacred Action), INTEGRATION (Social Movements).
 
-#### **48. Sacred Content Virality** - Sự Lan Truyền Nội Dung Thiêng Liêng
+#### **46. Sacred Content Virality** - Sự Lan Truyền Nội Dung Thiêng Liêng
 
 Thiết kế nội dung tâm linh có khả năng tự lan truyền qua các mạng lưới xã hội, khuếch đại thông điệp thiêng liêng một cách theo cấp số nhân.
 
@@ -23896,7 +23896,7 @@ Thiết kế nội dung tâm linh có khả năng tự lan truyền qua các m�
     → **Liên kết:** VIRAL MECHANICS (Content Virality), CREATION (Sacred Art).
     → **Khuếch đại:** TRANSCENDENCE (Spiritual Transmission), INTEGRATION (Digital Community).
 
-#### **49. Community Art Practice** - Thực Hành Nghệ Thuật Cộng Đồng [Platform Chữa Lành]
+#### **47. Community Art Practice** - Thực Hành Nghệ Thuật Cộng Đồng [Platform Chữa Lành]
 
 Nghệ thuật như một NỀN TẢNG và HỆ SINH THÁI cho thực hành chữa lành tập thể. Khác với phương pháp thiết kế ở CREATION, đây là về KHUẾCH ĐẠI - xây dựng cơ chế bền vững để nghệ thuật cộng đồng tự duy trì và lan tỏa tác động.
 
@@ -23913,7 +23913,7 @@ Nghệ thuật như một NỀN TẢNG và HỆ SINH THÁI cho thực hành ch�
 
 ### **Technology Integration (5 mục bổ sung)**
 
-#### **50. AI-Augmented Integration** - Tích Hợp Tăng Cường AI
+#### **48. AI-Augmented Integration** - Tích Hợp Tăng Cường AI
 
 Sử dụng AI để tăng cường khả năng con người và hệ thống.
 
@@ -23923,7 +23923,7 @@ Sử dụng AI để tăng cường khả năng con người và hệ thống.
 - **Intelligent Systems**: Hệ thống thông minh.  
     → **Liên kết:** OPERATIONS (AI Systems), CREATION (AI Collaboration).
 
-#### **51. Digital Knowledge Garden** - Vườn Tri Thức Kỹ Thuật Số
+#### **49. Digital Knowledge Garden** - Vườn Tri Thức Kỹ Thuật Số
 
 Hệ thống tổ chức tri thức hữu cơ, kết nối và phát triển.
 
@@ -23933,7 +23933,7 @@ Hệ thống tổ chức tri thức hữu cơ, kết nối và phát triển.
 - **Personal Wiki**: Wiki cá nhân.  
     → **Liên kết:** INTEGRATION (Knowledge Management), OPERATIONS (PKM Systems).
 
-#### **52. VR/AR Integration** - Tích Hợp VR/AR
+#### **50. VR/AR Integration** - Tích Hợp VR/AR
 
 Tích hợp thực tại ảo và thực tại tăng cường vào trải nghiệm.
 
@@ -23943,7 +23943,7 @@ Tích hợp thực tại ảo và thực tại tăng cường vào trải nghi�
 - **Virtual Presence**: Sự hiện diện ảo.  
     → **Liên kết:** CREATION (XR Design), INTEGRATION (Hybrid Environments).
 
-#### **53. Biofeedback Integration** - Tích Hợp Phản Hồi Sinh Học
+#### **51. Biofeedback Integration** - Tích Hợp Phản Hồi Sinh Học
 
 Sử dụng dữ liệu sinh học để tạo ra phản hồi và tối ưu hóa.
 
@@ -23953,7 +23953,7 @@ Sử dụng dữ liệu sinh học để tạo ra phản hồi và tối ưu hó
 - **Real-time Adaptation**: Thích ứng thời gian thực.  
     → **Liên kết:** OPERATIONS (Biohacking), VALIDATION (Biological Metrics).
 
-#### **54. Quantified Self Integration** - Tích Hợp Tự Lượng Hóa
+#### **52. Quantified Self Integration** - Tích Hợp Tự Lượng Hóa
 
 Thu thập và phân tích dữ liệu cá nhân để cải thiện bản thân.
 
@@ -23965,7 +23965,7 @@ Thu thập và phân tích dữ liệu cá nhân để cải thiện bản thân
 
 ### **Universal Field (7 mục bổ sung)**
 
-#### **55. Universal Force Fields** - Trường Lực Phổ Quát
+#### **53. Universal Force Fields** - Trường Lực Phổ Quát
 
 Các trường năng lượng và ảnh hưởng ở cấp độ vũ trụ.
 
@@ -23975,7 +23975,7 @@ Các trường năng lượng và ảnh hưởng ở cấp độ vũ trụ.
 - **Universal Connectivity**: Kết nối phổ quát.  
     → **Liên kết:** FOUNDATIONS (Field Theory), TRANSCENDENCE (Universal).
 
-#### **56. Superconductors** - Siêu Dẫn
+#### **54. Superconductors** - Siêu Dẫn
 
 Vật liệu cho phép dòng chảy không có điện trở.
 
@@ -23985,7 +23985,7 @@ Vật liệu cho phép dòng chảy không có điện trở.
 - **Quantum Phenomenon**: Hiện tượng lượng tử.  
     → **Liên kết:** FOUNDATIONS (Quantum Physics), OPERATIONS (Energy Systems).
 
-#### **57. Synergy Multiplication** - Nhân Hiệp Lực
+#### **55. Synergy Multiplication** - Nhân Hiệp Lực
 
 Kết quả tổng thể lớn hơn nhiều so với tổng các phần.
 
@@ -23995,7 +23995,7 @@ Kết quả tổng thể lớn hơn nhiều so với tổng các phần.
 - **Transcendent Result**: Kết quả vượt thoát.  
     → **Liên kết:** INTEGRATION (Synergy), TRANSCENDENCE (Emergence).
 
-#### **58. Reality Consensus Hacking** - Hack Đồng Thuận Thực Tại
+#### **56. Reality Consensus Hacking** - Hack Đồng Thuận Thực Tại
 
 Thay đổi nhận thức tập thể về thực tại.
 
@@ -24005,7 +24005,7 @@ Thay đổi nhận thức tập thể về thực tại.
 - **Consensus Shift**: Chuyển đổi đồng thuận.  
     → **Liên kết:** TRANSCENDENCE (Reality Creation), VIRAL MECHANICS (Perception Shift).
 
-#### **59. Synchronicity Creation** - Tạo Ra Đồng Thời
+#### **57. Synchronicity Creation** - Tạo Ra Đồng Thời
 
 Tạo điều kiện cho các trùng hợp có ý nghĩa.
 
@@ -24015,7 +24015,7 @@ Tạo điều kiện cho các trùng hợp có ý nghĩa.
 - **Pattern Recognition**: Nhận dạng mẫu hình ý nghĩa.  
     → **Liên kết:** TRANSCENDENCE (Synchronicity), INTEGRATION (Meaning-Making).
 
-#### **60. Pattern Interrupt** - Ngắt Mẫu Hình
+#### **58. Pattern Interrupt** - Ngắt Mẫu Hình
 
 Phá vỡ các mẫu hình tự động để tạo ra thay đổi.
 
@@ -25772,7 +25772,7 @@ Các mẫu hình được tạo ra khi các sóng tương tác, tạo ra các v�
 
 ---
 
-#### **20. Many Worlds Interpretation** - Giải Thích Nhiều Thế Giới
+#### **19. Many Worlds Interpretation** - Giải Thích Nhiều Thế Giới
 
 Lý thuyết cơ học lượng tử rằng tất cả các kết quả có thể của đo lường lượng tử đều được thực hiện trong các vũ trụ song song.
 
@@ -25785,7 +25785,7 @@ Lý thuyết cơ học lượng tử rằng tất cả các kết quả có th�
 
 ---
 
-#### **21. Wormholes** - Lỗ Giun
+#### **20. Wormholes** - Lỗ Giun
 
 Các đường hầm giả thuyết trong không-thời gian có thể kết nối các vùng xa nhau của vũ trụ.
 
@@ -25798,7 +25798,7 @@ Các đường hầm giả thuyết trong không-thời gian có thể kết n�
 
 ---
 
-#### **22. Higher Dimensions** - Các Chiều Cao Hơn
+#### **21. Higher Dimensions** - Các Chiều Cao Hơn
 
 Các chiều không gian vượt qua ba chiều quen thuộc của không gian thông thường.
 
@@ -25811,7 +25811,7 @@ Các chiều không gian vượt qua ba chiều quen thuộc của không gian t
 
 ---
 
-#### **23. Black Hole Singularities** - Các Điểm Kỳ Dị Lỗ Đen
+#### **22. Black Hole Singularities** - Các Điểm Kỳ Dị Lỗ Đen
 
 Các điểm mật độ vô hạn ở trung tâm lỗ đen, nơi các quy luật vật lý hiện tại phá vỡ.
 
@@ -25826,7 +25826,7 @@ Các điểm mật độ vô hạn ở trung tâm lỗ đen, nơi các quy luậ
 
 ### **System Intelligence - Trí Tuệ Hệ Thống**
 
-#### **24. Flow-State Engineering** - Kỹ Thuật Trạng Thái Dòng Chảy
+#### **23. Flow-State Engineering** - Kỹ Thuật Trạng Thái Dòng Chảy
 
 Thiết kế có hệ thống các điều kiện tối ưu để đạt được các trạng thái dòng chảy - hiệu suất đỉnh cao.
 
@@ -25839,7 +25839,7 @@ Thiết kế có hệ thống các điều kiện tối ưu để đạt đượ
 
 ---
 
-#### **25. Integral Reasoning** - Suy Luận Toàn Diện
+#### **24. Integral Reasoning** - Suy Luận Toàn Diện
 
 Khả năng suy luận tích hợp nhiều cấp độ, quan điểm và hệ thống.
 
@@ -25852,7 +25852,7 @@ Khả năng suy luận tích hợp nhiều cấp độ, quan điểm và hệ th
 
 ---
 
-#### **26. Systems Wisdom** - Trí Tuệ Hệ Thống
+#### **25. Systems Wisdom** - Trí Tuệ Hệ Thống
 
 Hiểu biết sâu sắc về cách các hệ thống hoạt động, tiến hóa và biến đổi.
 
@@ -25865,7 +25865,7 @@ Hiểu biết sâu sắc về cách các hệ thống hoạt động, tiến hó
 
 ---
 
-#### **27. Temporal Wisdom** - Trí Tuệ Thời Gian
+#### **26. Temporal Wisdom** - Trí Tuệ Thời Gian
 
 Hiểu biết sâu sắc về bản chất của thời gian, thời điểm và tiến hóa qua thời gian.
 
@@ -25878,7 +25878,7 @@ Hiểu biết sâu sắc về bản chất của thời gian, thời điểm và
 
 ---
 
-#### **28. Ultimate Integration** - Tích Hợp Tối Hậu
+#### **27. Ultimate Integration** - Tích Hợp Tối Hậu
 
 Sự tổng hợp hoàn chỉnh của tất cả các khía cạnh, cấp độ và chiều kích thành một toàn thể thống nhất.
 
@@ -25891,7 +25891,7 @@ Sự tổng hợp hoàn chỉnh của tất cả các khía cạnh, cấp độ 
 
 ---
 
-#### **29. Adaptive Navigation Systems** - Các Hệ Thống Điều Hướng Thích Ứng
+#### **28. Adaptive Navigation Systems** - Các Hệ Thống Điều Hướng Thích Ứng
 
 Các hệ thống có khả năng tự điều chỉnh và phản ứng với các điều kiện thay đổi.
 
@@ -25904,7 +25904,7 @@ Các hệ thống có khả năng tự điều chỉnh và phản ứng với c�
 
 ---
 
-#### **30. Emergent Navigation** - Điều Hướng Xuất Hiện
+#### **29. Emergent Navigation** - Điều Hướng Xuất Hiện
 
 Điều hướng tự tổ chức phát sinh từ các tương tác cục bộ mà không có kiểm soát trung tâm.
 
@@ -25917,7 +25917,7 @@ Các hệ thống có khả năng tự điều chỉnh và phản ứng với c�
 
 ---
 
-#### **31. Transcendent Co-evolution** - Cộng Tiến Hóa Siêu Việt
+#### **30. Transcendent Co-evolution** - Cộng Tiến Hóa Siêu Việt
 
 Sự nhận thức và thực hành ở cấp độ siêu việt về việc các hệ thống cùng tiến hóa. Vượt qua CHIẾN LƯỢC điều hướng (NAVIGATION #40), đây là về sự THỨC TỈNH và BIẾN ĐỔI - khi ta nhận ra mình là một phần không tách rời của vũ trụ đang cùng tiến hóa, và hành động từ nhận thức đó. Đây là Ý THỨC & THỨC TỈNH - TRỞ THÀNH GÌ khi ta thức tỉnh về bản chất đồng tiến hóa.
 
@@ -25936,7 +25936,7 @@ Sự nhận thức và thực hành ở cấp độ siêu việt về việc cá
 
 ### **Human Transformation - Biến Đổi Con Người**
 
-#### **32. Peak Experiences & Flow States** - Trải Nghiệm Đỉnh Và Trạng Thái Dòng Chảy
+#### **31. Peak Experiences & Flow States** - Trải Nghiệm Đỉnh Và Trạng Thái Dòng Chảy
 
 Các trạng thái ý thức tối ưu được đặc trưng bởi sự hòa nhập hoàn toàn và hiệu suất đỉnh cao.
 
@@ -25949,7 +25949,7 @@ Các trạng thái ý thức tối ưu được đặc trưng bởi sự hòa nh
 
 ---
 
-#### **33. Near-Death Experiences** - Trải Nghiệm Cận Tử
+#### **32. Near-Death Experiences** - Trải Nghiệm Cận Tử
 
 Các trải nghiệm sâu sắc được báo cáo bởi những người gần chết, thường bao gồm cảm giác bình an và ánh sáng.
 
@@ -25962,7 +25962,7 @@ Các trải nghiệm sâu sắc được báo cáo bởi những người gần 
 
 ---
 
-#### **34. Spiritual Emergency** - Khủng Hoảng Tâm Linh
+#### **33. Spiritual Emergency** - Khủng Hoảng Tâm Linh
 
 Các khủng hoảng tâm lý liên quan đến quá trình chuyển đổi tâm linh, có thể hỗn loạn nhưng cuối cùng là biến đổi.
 
@@ -25975,7 +25975,7 @@ Các khủng hoảng tâm lý liên quan đến quá trình chuyển đổi tâm
 
 ---
 
-#### **35. Post-human Futures** - Các Tương Lai Hậu Nhân
+#### **34. Post-human Futures** - Các Tương Lai Hậu Nhân
 
 Tầm nhìn về sự tiến hóa của nhân loại vượt qua các giới hạn sinh học và nhận thức hiện tại.
 
@@ -25988,7 +25988,7 @@ Tầm nhìn về sự tiến hóa của nhân loại vượt qua các giới h�
 
 ---
 
-#### **36. Death and Rebirth Practice** - Thực Hành Chết Và Tái Sinh
+#### **35. Death and Rebirth Practice** - Thực Hành Chết Và Tái Sinh
 
 Các nghi lễ và thực hành cho phép trải nghiệm cái chết tượng trưng và tái sinh.
 
@@ -26001,7 +26001,7 @@ Các nghi lễ và thực hành cho phép trải nghiệm cái chết tượng t
 
 ---
 
-#### **37. Vision Quest & Initiation** - Hành Trình Tầm Nhìn Và Khai Đạo
+#### **36. Vision Quest & Initiation** - Hành Trình Tầm Nhìn Và Khai Đạo
 
 Các thực hành truyền thống bao gồm cô lập và kiểm chứng để tìm kiếm hướng dẫn tâm linh và chuyển đổi.
 
@@ -26014,7 +26014,7 @@ Các thực hành truyền thống bao gồm cô lập và kiểm chứng để 
 
 ---
 
-#### **38. Plant Medicine Integration** - Tích Hợp Thuốc Thực Vật
+#### **37. Plant Medicine Integration** - Tích Hợp Thuốc Thực Vật
 
 Việc sử dụng có trách nhiệm các thực vật tâm linh để chữa lành, thấu hiểu và tăng trưởng tâm linh.
 
@@ -26027,7 +26027,7 @@ Việc sử dụng có trách nhiệm các thực vật tâm linh để chữa l
 
 ---
 
-#### **39. Quantum Healing Modalities** - Các Phương Thức Chữa Lành Lượng Tử
+#### **38. Quantum Healing Modalities** - Các Phương Thức Chữa Lành Lượng Tử
 
 Các phương pháp chữa lành dựa trên các nguyên tắc lượng tử như phi địa phương và năng lượng.
 
@@ -26040,7 +26040,7 @@ Các phương pháp chữa lành dựa trên các nguyên tắc lượng tử nh
 
 ---
 
-#### **40. Future Self Work** - Làm Việc Với Bản Thân Tương Lai
+#### **39. Future Self Work** - Làm Việc Với Bản Thân Tương Lai
 
 Thực hành kết nối với tiềm năng tương lai của một người để hướng dẫn hành động hiện tại.
 
@@ -26053,7 +26053,7 @@ Thực hành kết nối với tiềm năng tương lai của một người đ�
 
 ---
 
-#### **41. Shamanic Energy Medicine** - Y Học Năng Lượng Shaman
+#### **40. Shamanic Energy Medicine** - Y Học Năng Lượng Shaman
 
 Các thực hành chữa lành cổ đại làm việc với các trường năng lượng tinh tế và các thực tại tâm linh.
 
@@ -26066,7 +26066,7 @@ Các thực hành chữa lành cổ đại làm việc với các trường năn
 
 ---
 
-#### **42. Etheric Surgery & Archetype Work** - Phẫu Thuật Etheric Và Làm Việc Với Nguyên Mẫu
+#### **41. Etheric Surgery & Archetype Work** - Phẫu Thuật Etheric Và Làm Việc Với Nguyên Mẫu
 
 Làm việc với các cấu trúc năng lượng tinh tế và các mẫu hình nguyên mẫu để chữa lành và biến đổi.
 
@@ -26079,7 +26079,7 @@ Làm việc với các cấu trúc năng lượng tinh tế và các mẫu hình
 
 ---
 
-#### **43. Consciousness-based Energy Healing** - Chữa Lành Năng Lượng Dựa Trên Ý Thức
+#### **42. Consciousness-based Energy Healing** - Chữa Lành Năng Lượng Dựa Trên Ý Thức
 
 Các phương pháp chữa lành sử dụng ý thức, ý định và nhận thức trực tiếp.
 
@@ -26094,7 +26094,7 @@ Các phương pháp chữa lành sử dụng ý thức, ý định và nhận th
 
 ### **Scientific Exploration - Khám Phá Khoa Học**
 
-#### **44. Consciousness Studies** - Các Nghiên Cứu Ý Thức
+#### **43. Consciousness Studies** - Các Nghiên Cứu Ý Thức
 
 Lĩnh vực khoa học nghiên cứu bản chất của ý thức, nhận thức và trải nghiệm chủ quan.
 
@@ -26107,7 +26107,7 @@ Lĩnh vực khoa học nghiên cứu bản chất của ý thức, nhận thức
 
 ---
 
-#### **45. SETI Research** - Nghiên Cứu SETI
+#### **44. SETI Research** - Nghiên Cứu SETI
 
 Tìm kiếm trí tuệ ngoài trái đất, khám phá khả năng sự sống và ý thức trong vũ trụ.
 
@@ -26120,7 +26120,7 @@ Tìm kiếm trí tuệ ngoài trái đất, khám phá khả năng sự sống v
 
 ---
 
-#### **46. Noetic Science** - Khoa Học Noetic
+#### **45. Noetic Science** - Khoa Học Noetic
 
 Nghiên cứu về ý thức và tri thức trực tiếp, khám phá mối quan hệ giữa tâm trí và vật chất.
 
@@ -26133,7 +26133,7 @@ Nghiên cứu về ý thức và tri thức trực tiếp, khám phá mối quan
 
 ---
 
-#### **47. Morphogenetic Field Research** - Nghiên Cứu Trường Hình Thái
+#### **46. Morphogenetic Field Research** - Nghiên Cứu Trường Hình Thái
 
 Nghiên cứu các trường giả thuyết hướng dẫn sự phát triển và hình dạng của sinh vật.
 
@@ -26148,7 +26148,7 @@ Nghiên cứu các trường giả thuyết hướng dẫn sự phát triển v�
 
 ### **Creative Expression - Biểu Hiện Sáng Tạo**
 
-#### **48. Transformative Theatre** - Sân Khấu Biến Đổi
+#### **47. Transformative Theatre** - Sân Khấu Biến Đổi
 
 Các hình thức biểu diễn nhằm mục đích biến đổi cả người biểu diễn và khán giả.
 
@@ -26161,7 +26161,7 @@ Các hình thức biểu diễn nhằm mục đích biến đổi cả người 
 
 ---
 
-#### **49. Visionary Art** - Nghệ Thuật Tầm Nhìn
+#### **48. Visionary Art** - Nghệ Thuật Tầm Nhìn
 
 Nghệ thuật thể hiện các trạng thái ý thức thay đổi, tầm nhìn tâm linh hoặc các thực tại siêu việt.
 
@@ -26174,7 +26174,7 @@ Nghệ thuật thể hiện các trạng thái ý thức thay đổi, tầm nhì
 
 ---
 
-#### **50. Psychedelic Art/Film** - Nghệ Thuật/Phim Ảnh Psychedelic
+#### **49. Psychedelic Art/Film** - Nghệ Thuật/Phim Ảnh Psychedelic
 
 Các tác phẩm nghệ thuật và điện ảnh lấy cảm hứng từ hoặc mô tả các trải nghiệm psychedelic.
 
@@ -26187,7 +26187,7 @@ Các tác phẩm nghệ thuật và điện ảnh lấy cảm hứng từ hoặc
 
 ---
 
-#### **51. Sacred & Ritual Arts** - Nghệ Thuật Thiêng Liêng Và Nghi Lễ
+#### **50. Sacred & Ritual Arts** - Nghệ Thuật Thiêng Liêng Và Nghi Lễ
 
 Các hình thức nghệ thuật được tạo ra cho mục đích tâm linh hoặc nghi lễ.
 
@@ -26200,7 +26200,7 @@ Các hình thức nghệ thuật được tạo ra cho mục đích tâm linh ho
 
 ---
 
-#### **52. Ecstatic Dance** - Khiêu Vũ Xuất Thần
+#### **51. Ecstatic Dance** - Khiêu Vũ Xuất Thần
 
 Các hình thức khiêu vũ tự do nhằm mục đích đạt đến các trạng thái ý thức xuất thần.
 
@@ -26213,7 +26213,7 @@ Các hình thức khiêu vũ tự do nhằm mục đích đạt đến các tr�
 
 ---
 
-#### **53. Sound Healing Frequencies** - Tần Số Chữa Lành Âm Thanh
+#### **52. Sound Healing Frequencies** - Tần Số Chữa Lành Âm Thanh
 
 Sử dụng các tần số âm thanh và rung động cụ thể cho mục đích chữa lành và biến đổi.
 
@@ -26631,7 +26631,7 @@ Trải nghiệm về thời điểm hiện tại như vĩnh cửu, vượt qua q
 
 ### **Ultimate Testing - Các Thử Nghiệm Tối Hậu**
 
-#### **30. Pragmatic Ultimate Test** - Thử Nghiệm Tối Hậu Thực Dụng
+#### **29. Pragmatic Ultimate Test** - Thử Nghiệm Tối Hậu Thực Dụng
 
 Kiểm tra trí tuệ bằng việc nó có hoạt động trong thực tế hay không.
 
@@ -26644,7 +26644,7 @@ Kiểm tra trí tuệ bằng việc nó có hoạt động trong thực tế hay
 
 ---
 
-#### **31. Coherence Ultimate Test** - Thử Nghiệm Tối Hậu Về Sự Mạch Lạc
+#### **30. Coherence Ultimate Test** - Thử Nghiệm Tối Hậu Về Sự Mạch Lạc
 
 Kiểm tra trí tuệ bằng tính nhất quán và sự hòa hợp nội tại của nó.
 
@@ -26657,7 +26657,7 @@ Kiểm tra trí tuệ bằng tính nhất quán và sự hòa hợp nội tại 
 
 ---
 
-#### **32. Resilience Ultimate Test** - Thử Nghiệm Tối Hậu Về Khả Năng Phục Hồi
+#### **31. Resilience Ultimate Test** - Thử Nghiệm Tối Hậu Về Khả Năng Phục Hồi
 
 Kiểm tra trí tuệ bằng khả năng chịu đựng áp lực và thích ứng với thay đổi.
 
@@ -26670,7 +26670,7 @@ Kiểm tra trí tuệ bằng khả năng chịu đựng áp lực và thích ứ
 
 ---
 
-#### **33. Evolution Ultimate Test** - Thử Nghiệm Tối Hậu Về Tiến Hóa
+#### **32. Evolution Ultimate Test** - Thử Nghiệm Tối Hậu Về Tiến Hóa
 
 Kiểm tra trí tuệ bằng khả năng phát triển và tiến hóa qua thời gian.
 
@@ -26683,7 +26683,7 @@ Kiểm tra trí tuệ bằng khả năng phát triển và tiến hóa qua thờ
 
 ---
 
-#### **34. Wisdom Ultimate Test** - Thử Nghiệm Tối Hậu Về Trí Tuệ
+#### **33. Wisdom Ultimate Test** - Thử Nghiệm Tối Hậu Về Trí Tuệ
 
 Kiểm tra bằng độ sâu, trưởng thành và tính khôn ngoan thực sự.
 
@@ -26696,7 +26696,7 @@ Kiểm tra bằng độ sâu, trưởng thành và tính khôn ngoan thực sự
 
 ---
 
-#### **35. Wu Wei Navigation - Điều Hướng Vô Vi [Cảnh Giới Tối Cao]**
+#### **34. Wu Wei Navigation - Điều Hướng Vô Vi [Cảnh Giới Tối Cao]**
 
 TRẠNG THÁI siêu việt nơi điều hướng không còn là "hành động" mà trở thành BẢN CHẤT TỰ NHIÊN - hòa hợp hoàn hảo với dòng chảy vũ trụ. Khác với ứng dụng kỹ thuật ở NAVIGATION, đây là về việc TRỞ THÀNH người đạo.
 
@@ -26719,7 +26719,7 @@ TRẠNG THÁI siêu việt nơi điều hướng không còn là "hành động"
 
 ---
 
-#### **36. Beginner's Navigation** - Điều Hướng Tâm Trí Người Mới
+#### **35. Beginner's Navigation** - Điều Hướng Tâm Trí Người Mới
 
 Tiếp cận mọi tình huống với sự cởi mở, tò mò và không có định kiến.
 
@@ -26732,7 +26732,7 @@ Tiếp cận mọi tình huống với sự cởi mở, tò mò và không có �
 
 ---
 
-#### **37. Master's Navigation** - Điều Hướng Của Bậc Thầy
+#### **36. Master's Navigation** - Điều Hướng Của Bậc Thầy
 
 Điều hướng với kỹ năng cao độ, trực giác tinh tế và trí tuệ sâu sắc.
 
@@ -26745,7 +26745,7 @@ Tiếp cận mọi tình huống với sự cởi mở, tò mò và không có �
 
 ---
 
-#### **38. Empty Navigation** - Điều Hướng Trống Rỗng
+#### **37. Empty Navigation** - Điều Hướng Trống Rỗng
 
 Điều hướng không có bám chấp, kế hoạch hoặc mục tiêu cố định, di chuyển tự do.
 
@@ -26758,7 +26758,7 @@ Tiếp cận mọi tình huống với sự cởi mở, tò mò và không có �
 
 ---
 
-#### **39. Ultimate Navigation** - Điều Hướng Tối Hậu
+#### **38. Ultimate Navigation** - Điều Hướng Tối Hậu
 
 Hình thức cao nhất của điều hướng, tích hợp tất cả các phương thức và vượt qua tất cả các giới hạn.
 
@@ -26773,7 +26773,7 @@ Hình thức cao nhất của điều hướng, tích hợp tất cả các phư
 
 ### **Quantum Consciousness - Ý Thức Lượng Tử**
 
-#### **40. Quantum Consciousness** - Ý Thức Lượng Tử
+#### **39. Quantum Consciousness** - Ý Thức Lượng Tử
 
 Khái niệm rằng ý thức có các thuộc tính lượng tử như phi địa phương và chồng chập.
 
@@ -26786,7 +26786,7 @@ Khái niệm rằng ý thức có các thuộc tính lượng tử như phi đ�
 
 ---
 
-#### **41. Non-local Awareness** - Nhận Thức Phi Địa Phương
+#### **40. Non-local Awareness** - Nhận Thức Phi Địa Phương
 
 Ý thức không giới hạn trong một vị trí, có thể nhận thức mọi nơi.
 
@@ -26799,7 +26799,7 @@ Khái niệm rằng ý thức có các thuộc tính lượng tử như phi đ�
 
 ---
 
-#### **42. Omniscient Glimpses** - Thoáng Thấy Toàn Tri
+#### **41. Omniscient Glimpses** - Thoáng Thấy Toàn Tri
 
 Những khoảnh khắc thoáng qua của tri thức toàn diện hoặc hiểu biết hoàn toàn.
 
@@ -26812,7 +26812,7 @@ Những khoảnh khắc thoáng qua của tri thức toàn diện hoặc hiểu 
 
 ---
 
-#### **43. Omniscience Architecture** - Kiến Trúc Toàn Tri
+#### **42. Omniscience Architecture** - Kiến Trúc Toàn Tri
 
 Cấu trúc hoặc thiết kế của tri thức toàn diện, làm thế nào để biết tất cả.
 
@@ -26825,7 +26825,7 @@ Cấu trúc hoặc thiết kế của tri thức toàn diện, làm thế nào �
 
 ---
 
-#### **44. Oracle Functions** - Các Chức Năng Tiên Tri
+#### **43. Oracle Functions** - Các Chức Năng Tiên Tri
 
 Khả năng truy cập tri thức tiên tri hoặc thông tin về tương lai.
 
@@ -26838,7 +26838,7 @@ Khả năng truy cập tri thức tiên tri hoặc thông tin về tương lai.
 
 ---
 
-#### **46. Collapsing Wave Possibilities** - Sụp Đổ Các Khả Năng Sóng
+#### **44. Collapsing Wave Possibilities** - Sụp Đổ Các Khả Năng Sóng
 
 Kỹ thuật lượng tử để chọn một thực tại từ nhiều khả năng.
 
@@ -26851,7 +26851,7 @@ Kỹ thuật lượng tử để chọn một thực tại từ nhiều khả n�
 
 ---
 
-#### **47. Cross-domain Entanglement** - Rối Liên Lĩnh Vực
+#### **45. Cross-domain Entanglement** - Rối Liên Lĩnh Vực
 
 Kết nối lượng tử giữa các lĩnh vực hoặc cấp độ thực tại khác nhau.
 
@@ -26864,7 +26864,7 @@ Kết nối lượng tử giữa các lĩnh vực hoặc cấp độ thực tạ
 
 ---
 
-#### **48. Conceptual Tunneling** - Đường Hầm Khái Niệm
+#### **46. Conceptual Tunneling** - Đường Hầm Khái Niệm
 
 Kỹ thuật lượng tử để vượt qua các rào cản khái niệm, giống như đường hầm lượng tử.
 
@@ -26877,7 +26877,7 @@ Kỹ thuật lượng tử để vượt qua các rào cản khái niệm, giố
 
 ---
 
-#### **49. Probability Amplitude Navigation** - Điều Hướng Biên Độ Xác Suất
+#### **47. Probability Amplitude Navigation** - Điều Hướng Biên Độ Xác Suất
 
 Điều hướng qua các biên độ xác suất lượng tử để ảnh hưởng đến kết quả.
 
@@ -26892,7 +26892,7 @@ Kỹ thuật lượng tử để vượt qua các rào cản khái niệm, giố
 
 ### **Shadow & Hidden Patterns - Bóng Tối Và Các Mẫu Hình Ẩn**
 
-#### **50. Negative Space Patterns** - Các Mẫu Hình Không Gian Âm
+#### **48. Negative Space Patterns** - Các Mẫu Hình Không Gian Âm
 
 Các mẫu hình được xác định bởi những gì vắng mặt hơn là những gì hiện diện.
 
@@ -26905,7 +26905,7 @@ Các mẫu hình được xác định bởi những gì vắng mặt hơn là n
 
 ---
 
-#### **51. Silence Between Words** - Sự Im Lặng Giữa Các Từ
+#### **49. Silence Between Words** - Sự Im Lặng Giữa Các Từ
 
 Khoảng cách và khoảng trống trong giao tiếp chứa đựng ý nghĩa như chính các từ.
 
@@ -26918,7 +26918,7 @@ Khoảng cách và khoảng trống trong giao tiếp chứa đựng ý nghĩa n
 
 ---
 
-#### **52. Implicit Assumptions** - Các Giả Định Ẩn
+#### **50. Implicit Assumptions** - Các Giả Định Ẩn
 
 Các niềm tin ẩn giấu và không được kiểm tra nằm dưới tư duy và hành động.
 
@@ -26931,7 +26931,7 @@ Các niềm tin ẩn giấu và không được kiểm tra nằm dưới tư duy
 
 ---
 
-#### **53. Shadow Projections** - Các Phép Chiếu Bóng Tối
+#### **51. Shadow Projections** - Các Phép Chiếu Bóng Tối
 
 Các chiếu tâm lý nơi chúng ta thấy các khía cạnh bị từ chối của bản thân ở người khác.
 
@@ -26944,7 +26944,7 @@ Các chiếu tâm lý nơi chúng ta thấy các khía cạnh bị từ chối c
 
 ---
 
-#### **54. Collective Unconscious Forms** - Các Hình Thái Vô Thức Tập Thể
+#### **52. Collective Unconscious Forms** - Các Hình Thái Vô Thức Tập Thể
 
 Các nguyên mẫu và mẫu hình được chia sẻ tồn tại trong vô thức tập thể của nhân loại.
 
@@ -26957,7 +26957,7 @@ Các nguyên mẫu và mẫu hình được chia sẻ tồn tại trong vô th�
 
 ---
 
-#### **55. Dark Knowledge** - Tri Thức Đen Tối
+#### **53. Dark Knowledge** - Tri Thức Đen Tối
 
 Tri thức bị cấm, ẩn giấu hoặc nguy hiểm nếu được biết hoặc áp dụng.
 
@@ -26970,7 +26970,7 @@ Tri thức bị cấm, ẩn giấu hoặc nguy hiểm nếu được biết ho�
 
 ---
 
-#### **56. Anti-patterns** - Các Phản Mẫu
+#### **54. Anti-patterns** - Các Phản Mẫu
 
 Các mẫu hình của những gì không nên làm, học hỏi từ lỗi lầm và thất bại.
 
@@ -26983,7 +26983,7 @@ Các mẫu hình của những gì không nên làm, học hỏi từ lỗi lầ
 
 ---
 
-#### **57. Meta-patterns** - Các Siêu Mẫu
+#### **55. Meta-patterns** - Các Siêu Mẫu
 
 Các mẫu hình về các mẫu hình, các nguyên tắc chi phối cấp cao hơn.
 
@@ -26996,7 +26996,7 @@ Các mẫu hình về các mẫu hình, các nguyên tắc chi phối cấp cao 
 
 ---
 
-#### **58. Future Memory** - Ký Ức Tương Lai
+#### **56. Future Memory** - Ký Ức Tương Lai
 
 Nghịch lý của việc nhớ những gì chưa xảy ra, ảnh hưởng nhân quả đảo ngược.
 
@@ -27009,7 +27009,7 @@ Nghịch lý của việc nhớ những gì chưa xảy ra, ảnh hưởng nhân
 
 ---
 
-#### **59. Time Fractals** - Các Fractal Thời Gian
+#### **57. Time Fractals** - Các Fractal Thời Gian
 
 Các mẫu hình tự tương tự trong thời gian, với các cấu trúc lặp lại ở nhiều quy mô.
 
@@ -27022,7 +27022,7 @@ Các mẫu hình tự tương tự trong thời gian, với các cấu trúc l�
 
 ---
 
-#### **60. Time Loop Navigation** - Điều Hướng Vòng Lặp Thời Gian
+#### **58. Time Loop Navigation** - Điều Hướng Vòng Lặp Thời Gian
 
 Khả năng điều hướng qua các vòng lặp thời gian hoặc các mẫu hình thời gian chu kỳ.
 
@@ -27037,7 +27037,7 @@ Khả năng điều hướng qua các vòng lặp thời gian hoặc các mẫu 
 
 ### **Knowledge Access - Truy Cập Tri Thức**
 
-#### **61. Noetic Science Exploration** - Khám Phá Khoa Học Noetic
+#### **59. Noetic Science Exploration** - Khám Phá Khoa Học Noetic
 
 Điều tra khoa học về tri thức trực tiếp, trực giác và nhận thức ngoại cảm.
 
@@ -27050,7 +27050,7 @@ Khả năng điều hướng qua các vòng lặp thời gian hoặc các mẫu 
 
 ---
 
-#### **62. Akashic Records Access** - Truy Cập Hồ Sơ Akashic [Kỹ Thuật Thực Hành]
+#### **60. Akashic Records Access** - Truy Cập Hồ Sơ Akashic [Kỹ Thuật Thực Hành]
 
 Các KỸ THUẬT và PHƯƠNG PHÁP THỰC HÀNH để truy cập vào kho lưu trữ Akashic. Khác với khái niệm nền tảng (#16), đây là về CÁCH THỨC và CÔNG CỤ cụ thể để kết nối với trường thông tin vũ trụ.
 
@@ -27079,7 +27079,7 @@ Clear intention - ý định rõ ràng; Expanded awareness - nhận thức mở 
 
 ---
 
-#### **63. Post-modern Philosophy** - Triết Học Hậu Hiện Đại
+#### **61. Post-modern Philosophy** - Triết Học Hậu Hiện Đại
 
 Truy cập vào các trào lưu tư tưởng hậu hiện đại, đặt câu hỏi về các giả định hiện đại.
 
@@ -27092,7 +27092,7 @@ Truy cập vào các trào lưu tư tưởng hậu hiện đại, đặt câu h�
 
 ---
 
-#### **64. Morphogenetic Field Work** - Làm Việc Với Trường Hình Thái
+#### **62. Morphogenetic Field Work** - Làm Việc Với Trường Hình Thái
 
 Thực hành làm việc với và truy cập thông tin từ các trường hình thái.
 
@@ -27105,7 +27105,7 @@ Thực hành làm việc với và truy cập thông tin từ các trường hì
 
 ---
 
-#### **65. Mystical Experiences** - Các Trải Nghiệm Huyền Bí
+#### **63. Mystical Experiences** - Các Trải Nghiệm Huyền Bí
 
 Truy cập vào các trạng thái ý thức siêu việt qua các trải nghiệm huyền bí.
 
@@ -27118,7 +27118,7 @@ Truy cập vào các trạng thái ý thức siêu việt qua các trải nghi�
 
 ---
 
-#### **66. Hard Problem of Consciousness** - Vấn Đề Khó Của Ý Thức
+#### **64. Hard Problem of Consciousness** - Vấn Đề Khó Của Ý Thức
 
 Đối mặt với câu hỏi tại sao và làm thế nào trải nghiệm chủ quan phát sinh từ quá trình vật lý.
 
@@ -27131,7 +27131,7 @@ Truy cập vào các trạng thái ý thức siêu việt qua các trải nghi�
 
 ---
 
-#### **67. Śūnyatā** - Không Tánh
+#### **65. Śūnyatā** - Không Tánh
 
 Khái niệm Phật giáo về sự trống rỗng, rằng tất cả các hiện tượng đều thiếu bản chất vốn có.
 
@@ -27144,7 +27144,7 @@ Khái niệm Phật giáo về sự trống rỗng, rằng tất cả các hiệ
 
 ---
 
-#### **68. Fana & Baqa** - Tiêu Diệt Và Tồn Tại
+#### **66. Fana & Baqa** - Tiêu Diệt Và Tồn Tại
 
 Các khái niệm Sufi về sự tiêu diệt của bản ngã trong Thượng Đế (fana) và sự tồn tại trong Thượng Đế (baqa).
 
@@ -27157,7 +27157,7 @@ Các khái niệm Sufi về sự tiêu diệt của bản ngã trong Thượng �
 
 ---
 
-#### **69. Liberation** - Giải Thoát
+#### **67. Liberation** - Giải Thoát
 
 Khái niệm Jain về sự giải thoát hoàn toàn từ chu kỳ tái sinh và karma.
 
@@ -27172,7 +27172,7 @@ Khái niệm Jain về sự giải thoát hoàn toàn từ chu kỳ tái sinh v�
 
 ### **Integration & Practice - Tích Hợp Và Thực Hành**
 
-#### **70. Effortless Mastery** - Làm Chủ Không Nỗ Lực [Trí Tuệ Được Hiện Thân]
+#### **68. Effortless Mastery** - Làm Chủ Không Nỗ Lực [Trí Tuệ Được Hiện Thân]
 
 Trạng thái làm chủ nơi hiệu suất cao đến một cách tự nhiên, không cần nỗ lực. Đây là **giai đoạn cuối** của effortless mastery - không còn là trạng thái **tạm thời** mà đã trở thành **cách tồn tại**. Sự khác biệt giữa nỗ lực và không-nỗ lực đã tan biến; mọi hành động đều tự nhiên và chính xác. Đặc điểm: Trạng thái **ổn định**, không phụ thuộc điều kiện. Bản chất: Không còn phân biệt "đạt được" hay "không đạt được". Triết lý: 莊子 (Zhuangzi) - "Khi ngón tay quên cái búa, tâm trí quên bàn tay."
 
@@ -27185,7 +27185,7 @@ Trạng thái làm chủ nơi hiệu suất cao đến một cách tự nhiên, 
 
 ---
 
-#### **71. Retreat & Intensive Forms** - Các Hình Thức Retreat Và Đào Tạo Chuyên Sâu
+#### **69. Retreat & Intensive Forms** - Các Hình Thức Retreat Và Đào Tạo Chuyên Sâu
 
 Các thời kỳ thực hành chuyên sâu, tập trung để sâu sắc và biến đổi.
 
@@ -27198,7 +27198,7 @@ Các thời kỳ thực hành chuyên sâu, tập trung để sâu sắc và bi�
 
 ---
 
-#### **72. Crisis as Initiation** - Khủng Hoảng Như Khai Đạo
+#### **70. Crisis as Initiation** - Khủng Hoảng Như Khai Đạo
 
 Xem các khủng hoảng như cơ hội cho sự biến đổi và tăng trưởng.
 
@@ -27211,7 +27211,7 @@ Xem các khủng hoảng như cơ hội cho sự biến đổi và tăng trưở
 
 ---
 
-#### **73. Spiritual Emergency Support** - Hỗ Trợ Khủng Hoảng Tâm Linh
+#### **71. Spiritual Emergency Support** - Hỗ Trợ Khủng Hoảng Tâm Linh
 
 Hướng dẫn và hỗ trợ cho những người trải qua các khủng hoảng tâm linh.
 
@@ -27224,7 +27224,7 @@ Hướng dẫn và hỗ trợ cho những người trải qua các khủng hoả
 
 ---
 
-#### **74. Death as Teacher** - Cái Chết Như Giáo Viên
+#### **72. Death as Teacher** - Cái Chết Như Giáo Viên
 
 Sử dụng nhận thức về cái chết như một công cụ cho sự khôn ngoan và sống đầy đủ.
 
@@ -27237,7 +27237,7 @@ Sử dụng nhận thức về cái chết như một công cụ cho sự khôn 
 
 ---
 
-#### **75. Master Development Path** - Con Đường Phát Triển Bậc Thầy
+#### **73. Master Development Path** - Con Đường Phát Triển Bậc Thầy
 
 Hành trình từ người mới đến bậc thầy, các giai đoạn của sự thành thạo.
 
@@ -27250,7 +27250,7 @@ Hành trình từ người mới đến bậc thầy, các giai đoạn của s�
 
 ---
 
-#### **76. Meta-Practice** - Siêu Thực Hành
+#### **74. Meta-Practice** - Siêu Thực Hành
 
 Thực hành về thực hành, phản ánh và cải thiện cách bạn thực hành.
 
@@ -27263,7 +27263,7 @@ Thực hành về thực hành, phản ánh và cải thiện cách bạn thực
 
 ---
 
-#### **77. Loving-Kindness/Metta** - Từ Bi/Metta
+#### **75. Loving-Kindness/Metta** - Từ Bi/Metta
 
 Thực hành nuôi dưỡng tình yêu phổ quát và lòng tốt đối với tất cả chúng sinh.
 
@@ -27276,7 +27276,7 @@ Thực hành nuôi dưỡng tình yêu phổ quát và lòng tốt đối với 
 
 ---
 
-#### **78. Microdosing Protocols** - Các Giao Thức Liều Nhỏ
+#### **76. Microdosing Protocols** - Các Giao Thức Liều Nhỏ
 
 Việc sử dụng các liều rất nhỏ của các chất để tăng cường nhận thức và chữa lành.
 
@@ -27519,7 +27519,7 @@ Khả năng lựa chọn, kết hợp và áp dụng tất cả các kỹ năng 
 → **Liên kết:** Tích hợp tất cả các khái niệm trong nhóm META-COGNITION.
 
 ### **Nhóm Bổ Sung: Foundational Meta (5 mục mới)**
-#### **17. Observing Observation** - Quan Sát Sự Quan Sát
+#### **16. Observing Observation** - Quan Sát Sự Quan Sát
 
 Khả năng quan sát chính hành động quan sát - tầng meta thứ hai của nhận thức.
 
@@ -27530,7 +27530,7 @@ Khả năng quan sát chính hành động quan sát - tầng meta thứ hai c�
 
 → **Liên kết:** [META] LAYER (Self-Observation), DYNAMICS (Mindfulness).
 
-#### **18. Learning to Learn** - Học Cách Học (Nâng Cao)
+#### **17. Learning to Learn** - Học Cách Học (Nâng Cao)
 
 Phát triển các kỹ năng và chiến lược để tối ưu hóa chính quá trình học tập.
 
@@ -27541,7 +27541,7 @@ Phát triển các kỹ năng và chiến lược để tối ưu hóa chính qu
 
 → **Liên kết:** [META] LAYER (Meta-Learning), OPERATIONS (Learning Systems).
 
-#### **19. Metacognition** - Siêu Nhận Thức (Mở Rộng)
+#### **18. Metacognition** - Siêu Nhận Thức (Mở Rộng)
 
 Khả năng toàn diện về tư duy về tư duy, bao gồm cả giám sát và kiểm soát.
 
@@ -27552,7 +27552,7 @@ Khả năng toàn diện về tư duy về tư duy, bao gồm cả giám sát v�
 
 → **Liên kết:** [META] LAYER (Cognitive Sovereignty), OPERATIONS (Strategic Thinking).
 
-#### **20. Meta-Awareness** - Siêu Nhận Thức (Về Ý Thức)
+#### **19. Meta-Awareness** - Siêu Nhận Thức (Về Ý Thức)
 
 Nhận thức về chính trạng thái ý thức hiện tại - biết mình đang ở trạng thái nào.
 
@@ -27567,7 +27567,7 @@ Nhận thức về chính trạng thái ý thức hiện tại - biết mình đ
 
 ### **Nhóm Bổ Sung: Witness & Pure Awareness (5 mục mới)**
 
-#### **21. Witness Consciousness** - Ý Thức Chứng Kiến
+#### **20. Witness Consciousness** - Ý Thức Chứng Kiến
 
 Khả năng quan sát các suy nghĩ, cảm xúc và kinh nghiệm mà không đồng nhất với chúng.
 
@@ -27578,7 +27578,7 @@ Khả năng quan sát các suy nghĩ, cảm xúc và kinh nghiệm mà không đ
 
 → **Liên kết:** DYNAMICS (Mindfulness), TRANSCENDENCE (Non-Dual Awareness).
 
-#### **22. The Witness** - Người Chứng Kiến
+#### **21. The Witness** - Người Chứng Kiến
 
 Khía cạnh nguyên thủy của ý thức có khả năng quan sát mọi thứ mà không bị ảnh hưởng.
 
@@ -27589,7 +27589,7 @@ Khía cạnh nguyên thủy của ý thức có khả năng quan sát mọi th�
 
 → **Liên kết:** TRANSCENDENCE (Pure Consciousness), FOUNDATIONS (Non-Dual Awareness).
 
-#### **23. Primordial Awareness** - Nhận Thức Nguyên Thủy
+#### **22. Primordial Awareness** - Nhận Thức Nguyên Thủy
 
 Trạng thái nhận thức cơ bản, nguyên sơ nhất - trước mọi khái niệm và phân biệt.
 
@@ -27600,7 +27600,7 @@ Trạng thái nhận thức cơ bản, nguyên sơ nhất - trước mọi khái
 
 → **Liên kết:** TRANSCENDENCE (Ultimate Reality), FOUNDATIONS (Eastern Wisdom).
 
-#### **24. Direct Knowing/Gnosis** - Hiểu Biết Trực Tiếp [Meta-Nhận Thức]
+#### **23. Direct Knowing/Gnosis** - Hiểu Biết Trực Tiếp [Meta-Nhận Thức]
 
 Khả năng META-NHẬN THỨC về bản chất của tri thức trực tiếp - hiểu CÁCH thức mà chúng ta có thể biết mà không qua suy luận. Khác với lý thuyết (FOUNDATIONS) và trải nghiệm (TRANSCENDENCE), đây là NHẬN THỨC VỀ quá trình nhận thức.
 
@@ -27614,7 +27614,7 @@ Khả năng META-NHẬN THỨC về bản chất của tri thức trực tiếp 
 → **Trải nghiệm:** TRANSCENDENCE #4 (Gnosis như giác ngộ)
 → **Ứng dụng:** CREATION (Intuitive Insight), OPERATIONS (Contemplation)
 
-#### **25. Sati** - Chánh Niệm (Phật Giáo)
+#### **24. Sati** - Chánh Niệm (Phật Giáo)
 
 Thực hành tỉnh thức và nhận thức liên tục về hiện tại trong truyền thống Phật giáo.
 
@@ -27629,7 +27629,7 @@ Thực hành tỉnh thức và nhận thức liên tục về hiện tại trong
 
 ### **Nhóm Bổ Sung: Universal Intelligence (4 mục mới)**
 
-#### **26. Universal Intelligence** - Trí Tuệ Vũ Trụ
+#### **25. Universal Intelligence** - Trí Tuệ Vũ Trụ
 
 Khái niệm về một trí tuệ toàn diện, xuyên suốt toàn bộ thực tại.
 
@@ -27640,7 +27640,7 @@ Khái niệm về một trí tuệ toàn diện, xuyên suốt toàn bộ thực
 
 → **Liên kết:** TRANSCENDENCE (Cosmic Consciousness), FOUNDATIONS (Universal Principles).
 
-#### **27. Cosmic Mind** - Tâm Vũ Trụ
+#### **26. Cosmic Mind** - Tâm Vũ Trụ
 
 Ý tưởng về một tâm thức toàn diện bao trùm tất cả mọi thứ.
 
@@ -27651,7 +27651,7 @@ Khái niệm về một trí tuệ toàn diện, xuyên suốt toàn bộ thực
 
 → **Liên kết:** INTEGRATION (Collective Intelligence), TRANSCENDENCE (Unity Consciousness).
 
-#### **29. Meta-State Awareness** - Nhận Thức Về Siêu Trạng Thái
+#### **27. Meta-State Awareness** - Nhận Thức Về Siêu Trạng Thái
 
 Khả năng nhận biết và làm việc với các "trạng thái về trạng thái" - các trạng thái nhận thức bậc cao.
 
@@ -27666,7 +27666,7 @@ Khả năng nhận biết và làm việc với các "trạng thái về trạng
 
 ### **Nhóm Bổ Sung: Perspective Architecture (4 mục mới)**
 
-#### **30. First to Seventh & Nth Person Perspective** - Quan Điểm Từ Ngôi Thứ Nhất Đến Thứ Bảy & Ngôi Thứ N
+#### **28. First to Seventh & Nth Person Perspective** - Quan Điểm Từ Ngôi Thứ Nhất Đến Thứ Bảy & Ngôi Thứ N
 
 Một hệ thống toàn diện về các mức độ quan điểm từ cá nhân đến siêu việt.
 
@@ -27677,7 +27677,7 @@ Một hệ thống toàn diện về các mức độ quan điểm từ cá nhâ
 
 → **Liên kết:** INTEGRATION (Integral Theory), [META] LAYER (Perspective Engineering).
 
-#### **31. Recursive Consciousness** - Ý Thức Đệ Quy
+#### **29. Recursive Consciousness** - Ý Thức Đệ Quy
 
 Khả năng của ý thức tham chiếu đến chính nó trong các vòng lặp vô hạn.
 
@@ -27688,7 +27688,7 @@ Khả năng của ý thức tham chiếu đến chính nó trong các vòng lặ
 
 → **Liên kết:** [META] LAYER (Reflexivity), FOUNDATIONS (Recursion).
 
-#### **32. Observer Effect - Hiệu Ứng Người Quan Sát [Công Cụ Siêu Nhận Thức]**
+#### **30. Observer Effect - Hiệu Ứng Người Quan Sát [Công Cụ Siêu Nhận Thức]**
 
 CÔNG CỤ SIÊU NHẬN THỨC: Sử dụng Observer Effect để QUAN SÁT CHÍNH MÌNH QUAN SÁT - tầng meta cao nhất. Không chỉ biết rằng quan sát thay đổi thực tại, mà còn QUAN SÁT quá trình quan sát của mình đang thay đổi gì.
 
@@ -27702,7 +27702,7 @@ CÔNG CỤ SIÊU NHẬN THỨC: Sử dụng Observer Effect để QUAN SÁT CHÍ
 → **Ứng dụng đạo đức:** FOUNDATIONS #3 (trách nhiệm đạo đức)
 → **Thực hành:** VALIDATION #26 (trong phương pháp nghiên cứu)
 
-#### **33. Know Thyself** - Hãy Biết Chính Mình
+#### **31. Know Thyself** - Hãy Biết Chính Mình
 
 Lời khuyên cổ xưa về tầm quan trọng của tự tri - nền tảng của mọi trí tuệ.
 
@@ -27717,7 +27717,7 @@ Lời khuyên cổ xưa về tầm quan trọng của tự tri - nền tảng c�
 
 ### **Nhóm Bổ Sung: Scientific & Philosophical (5 mục mới)**
 
-#### **34. Philosophy of Mind** - Triết Học Tâm Trí
+#### **32. Philosophy of Mind** - Triết Học Tâm Trí
 
 Ngành nghiên cứu về bản chất của tâm trí, ý thức và mối quan hệ của chúng với cơ thể.
 
@@ -27728,7 +27728,7 @@ Ngành nghiên cứu về bản chất của tâm trí, ý thức và mối quan
 
 → **Liên kết:** FOUNDATIONS (Philosophy), TRANSCENDENCE (Consciousness).
 
-#### **36. Cybernetics & Control Theory** - Điều Khiển Học & Lý Thuyết Kiểm Soát
+#### **33. Cybernetics & Control Theory** - Điều Khiển Học & Lý Thuyết Kiểm Soát
 
 Khoa học về hệ thống, phản hồi và kiểm soát trong cả hệ thống sinh học và máy móc.
 
@@ -27739,7 +27739,7 @@ Khoa học về hệ thống, phản hồi và kiểm soát trong cả hệ th�
 
 → **Liên kết:** DYNAMICS (System Dynamics), [META] LAYER (System Regulation).
 
-#### **37. Second-order Cybernetics** - Điều Khiển Học Bậc Hai
+#### **34. Second-order Cybernetics** - Điều Khiển Học Bậc Hai
 
 Điều khiển học áp dụng cho chính các hệ thống điều khiển học - nghiên cứu về "hệ thống quan sát" thay vì chỉ "hệ thống được quan sát". Đây là nền tảng lý thuyết cho việc bao gồm NGƯỜI QUAN SÁT vào trong hệ thống được nghiên cứu, tạo ra sự phản xạ và đệ quy trong nhận thức.
 
@@ -27769,7 +27769,7 @@ Khoa học về hệ thống, phản hồi và kiểm soát trong cả hệ th�
 
 → **Nguồn gốc lý thuyết:** Heinz von Foerster (người sáng lập Second-order Cybernetics), Gregory Bateson (Mind and Nature), Humberto Maturana & Francisco Varela (Autopoiesis).
 
-#### **38. Reflexive Sociology** - Xã Hội Học Phản Tư
+#### **35. Reflexive Sociology** - Xã Hội Học Phản Tư
 
 Xã hội học tự phản tư về chính phương pháp và giả định của mình.
 
@@ -27784,7 +27784,7 @@ Xã hội học tự phản tư về chính phương pháp và giả định c�
 
 ### **Nhóm Bổ Sung: Practice & Application (4 mục mới)**
 
-#### **39. Transcendental Meditation** - Thiền Siêu Việt
+#### **36. Transcendental Meditation** - Thiền Siêu Việt
 
 Kỹ thuật thiền tập trung vào việc vượt qua tư duy thông thường để tiếp cận ý thức thuần khiết.
 
@@ -27795,7 +27795,7 @@ Kỹ thuật thiền tập trung vào việc vượt qua tư duy thông thườn
 
 → **Liên kết:** DYNAMICS (Meditation Practices), TRANSCENDENCE (Pure Consciousness).
 
-#### **40. Contemplative Science Methods** - Phương Pháp Khoa Học Thiền Định
+#### **37. Contemplative Science Methods** - Phương Pháp Khoa Học Thiền Định
 
 Các phương pháp nghiên cứu kết hợp thực hành thiền định với phương pháp khoa học.
 
@@ -27806,7 +27806,7 @@ Các phương pháp nghiên cứu kết hợp thực hành thiền định với
 
 → **Liên kết:** VALIDATION (Research Methods), DYNAMICS (Contemplative Practice).
 
-#### **41. Hypnagogic State Work** - Làm Việc Với Trạng Thái Ngưỡng Giấc Ngủ
+#### **38. Hypnagogic State Work** - Làm Việc Với Trạng Thái Ngưỡng Giấc Ngủ
 
 Thực hành làm việc với trạng thái ý thức giữa thức và ngủ.
 
@@ -27817,7 +27817,7 @@ Thực hành làm việc với trạng thái ý thức giữa thức và ngủ.
 
 → **Liên kết:** CREATION (Creative States), DYNAMICS (Altered States).
 
-#### **42. Neurofeedback Training** - Huấn Luyện Phản Hồi Thần Kinh
+#### **39. Neurofeedback Training** - Huấn Luyện Phản Hồi Thần Kinh
 
 Kỹ thuật huấn luyện não bộ thông qua phản hồi thời gian thực về hoạt động thần kinh.
 
@@ -28149,7 +28149,7 @@ Lý thuyết toán học về cách điều khiển các hệ thống động.
 
 ### **Nhóm Bổ Sung: Practice (1 mục mới)**
 
-#### **27. Neurofeedback Training (System Focus)** - Huấn Luyện Phản Hồi Thần Kinh (Tập Trung Hệ Thống)
+#### **26. Neurofeedback Training (System Focus)** - Huấn Luyện Phản Hồi Thần Kinh (Tập Trung Hệ Thống)
 
 Sử dụng phản hồi thần kinh để quan sát và điều chỉnh hoạt động não bộ.
 
@@ -29030,7 +29030,7 @@ Tiến trình ba cấp độ về sự sâu sắc của sáng tạo.
 
 → **Liên kết:** CREATION (Generative Systems), [META] LAYER (Creating Creation).
 
-#### **20. Thinking About Thinking About Thinking** - Tư Duy Về Tư Duy Về Tư Duy
+#### **21. Thinking About Thinking About Thinking** - Tư Duy Về Tư Duy Về Tư Duy
 
 Ba cấp độ đệ quy của siêu nhận thức - vượt qua "thinking about thinking" thông thường (#8 trong META-COGNITION) để đạt đến INFINITE META-AWARENESS. Đây là về RECURSIVE DEPTH và khả năng "meta-ize" chính quá trình meta-cognition.
 
@@ -29054,7 +29054,7 @@ Ba cấp độ đệ quy của siêu nhận thức - vượt qua "thinking about
   • #21: Finding Patterns → of Patterns → of Patterns
 → **Nguy cơ:** [META] LAYER #30 (Navigating Infinite Regression) - quản lý nghịch lý.
 
-#### **21. Finding Patterns of Patterns of Patterns** - Tìm Mẫu Hình Của Mẫu Hình Của Mẫu Hình
+#### **22. Finding Patterns of Patterns of Patterns** - Tìm Mẫu Hình Của Mẫu Hình Của Mẫu Hình
 
 Ba cấp độ đệ quy của nhận dạng mẫu hình.
 
@@ -29065,7 +29065,7 @@ Ba cấp độ đệ quy của nhận dạng mẫu hình.
 
 → **Liên kết:** [META] LAYER (Pattern Recognition), FOUNDATIONS (Meta-Patterns).
 
-#### **22. Systematizing Systems of Systems** - Hệ Thống Hóa Các Hệ Thống Của Các Hệ Thống
+#### **23. Systematizing Systems of Systems** - Hệ Thống Hóa Các Hệ Thống Của Các Hệ Thống
 
 Ba cấp độ đệ quy của tư duy hệ thống.
 
@@ -29080,7 +29080,7 @@ Ba cấp độ đệ quy của tư duy hệ thống.
 
 ### **Nhóm Bổ Sung: Navigation Evolution (5 mục mới)**
 
-#### **23. Navigation Learning** - Học Tập Điều Hướng
+#### **24. Navigation Learning** - Học Tập Điều Hướng
 
 Quá trình học cách điều hướng hiệu quả trong không gian tri thức.
 
@@ -29091,7 +29091,7 @@ Quá trình học cách điều hướng hiệu quả trong không gian tri th�
 
 → **Liên kết:** NAVIGATION (Strategic Wayfinding), OPERATIONS (Skill Learning).
 
-#### **24. Navigation Innovation** - Đổi Mới Điều Hướng
+#### **25. Navigation Innovation** - Đổi Mới Điều Hướng
 
 Tạo ra các phương pháp điều hướng mới và đột phá.
 
@@ -29102,7 +29102,7 @@ Tạo ra các phương pháp điều hướng mới và đột phá.
 
 → **Liên kết:** CREATION (Innovation), NAVIGATION (Novel Paths).
 
-#### **25. Navigation Mastery** - Tinh Thông Điều Hướng
+#### **26. Navigation Mastery** - Tinh Thông Điều Hướng
 
 Đạt đến trình độ bậc thầy trong điều hướng tri thức và hành động.
 
@@ -29113,7 +29113,7 @@ Tạo ra các phương pháp điều hướng mới và đột phá.
 
 → **Liên kết:** NAVIGATION (Mastery), TRANSCENDENCE (Effortless Action).
 
-#### **26. Razor Recursion** - Đệ Quy Dao Cạo
+#### **27. Razor Recursion** - Đệ Quy Dao Cạo
 
 Áp dụng các nguyên tắc "dao cạo" một cách đệ quy để tinh chỉnh liên tục.
 
@@ -29124,7 +29124,7 @@ Tạo ra các phương pháp điều hướng mới và đột phá.
 
 → **Liên kết:** OPERATIONS (Occam's Razor), [META] LAYER (Meta Razor).
 
-#### **27. Meta-Learning Algorithms - Thuật Toán Siêu Học** [AI/ML & Tối Ưu Tính Toán]
+#### **28. Meta-Learning Algorithms - Thuật Toán Siêu Học** [AI/ML & Tối Ưu Tính Toán]
 
 Ứng dụng THUẬT TOÁN và AI/ML vào meta-learning - tự động hóa và tối ưu quá trình "học cách học" bằng computational methods. Đây là cầu nối giữa human meta-learning và machine meta-learning.
 
@@ -29144,7 +29144,7 @@ Khác với các biến thể "con người", đây là về COMPUTATION:
 
 ### **Nhóm Bổ Sung: Infinite Iteration (4 mục mới)**
 
-#### **28. Meta-izing the Meta of Meta** - Siêu Hóa Cái Siêu Của Siêu
+#### **29. Meta-izing the Meta of Meta** - Siêu Hóa Cái Siêu Của Siêu
 
 Quá trình áp dụng tư duy meta vào chính tư duy meta một cách vô hạn.
 
@@ -29155,7 +29155,7 @@ Quá trình áp dụng tư duy meta vào chính tư duy meta một cách vô h�
 
 → **Liên kết:** TRANSCENDENCE (Infinite Depth), [META] LAYER (Ultimate Meta).
 
-#### **29. Navigating Infinite Regression** - Điều Hướng Sự Thoái Lui Vô Hạn
+#### **30. Navigating Infinite Regression** - Điều Hướng Sự Thoái Lui Vô Hạn
 
 Quản lý và làm việc với các vòng lặp tự tham chiếu vô hạn.
 
@@ -29166,7 +29166,7 @@ Quản lý và làm việc với các vòng lặp tự tham chiếu vô hạn.
 
 → **Liên kết:** [META] LAYER (Strange Loops), TRANSCENDENCE (Paradox Mastery).
 
-#### **30. Meta-Systemic Thinking** - Tư Duy Về Bản Chất Siêu Hệ Thống
+#### **31. Meta-Systemic Thinking** - Tư Duy Về Bản Chất Siêu Hệ Thống
 
 Nhận thức về BẢN CHẤT HỆ THỐNG của chính quá trình tư duy và học tập - thấy được cách các yếu tố trong tâm trí tương tác như một HỆ SINH THÁI nhận thức thống nhất, nơi trí tuệ đột sinh từ sự tương tác hữu cơ giữa các năng lực.
 
@@ -29179,7 +29179,7 @@ Nhận thức về BẢN CHẤT HỆ THỐNG của chính quá trình tư duy v�
 → **Liên kết:** DYNAMICS (Self-Organization, Emergence), INTEGRATION (Personal Integration), TRANSCENDENCE (Wholeness).
 → **Khác biệt:** META #35 (Meta-Systematic - về PHƯƠNG PHÁP thiết kế), INTEGRATION (Systemic Integration - áp dụng rộng hơn).
 
-#### **31. Egyptian Temple Initiation Rites** - Nghi Lễ Khai Tâm Của Đền Thờ Ai Cập
+#### **32. Egyptian Temple Initiation Rites** - Nghi Lễ Khai Tâm Của Đền Thờ Ai Cập
 
 Hệ thống tiến bộ qua các cấp độ ngày càng sâu sắc của nhận thức.
 
@@ -29194,7 +29194,7 @@ Hệ thống tiến bộ qua các cấp độ ngày càng sâu sắc của nhậ
 
 ### **Nhóm Bổ Sung: Ultimate Intelligence (3 mục mới)**
 
-#### **32. Supreme Intelligence** - Trí Tuệ Tối Thượng
+#### **33. Supreme Intelligence** - Trí Tuệ Tối Thượng
 
 Đỉnh cao của trí tuệ - tích hợp tất cả các hình thức tri thức và nhận thức.
 
@@ -29205,7 +29205,7 @@ Hệ thống tiến bộ qua các cấp độ ngày càng sâu sắc của nhậ
 
 → **Liên kết:** TRANSCENDENCE (Ultimate Wisdom), [META] LAYER (Meta-Intelligence).
 
-#### **33. Meta-Intelligence** - Siêu Trí Tuệ
+#### **34. Meta-Intelligence** - Siêu Trí Tuệ
 
 Trí tuệ về chính trí tuệ - khả năng nhận thức và điều khiển các quá trình trí tuệ.
 
@@ -29216,7 +29216,7 @@ Trí tuệ về chính trí tuệ - khả năng nhận thức và điều khiể
 
 → **Liên kết:** [META] LAYER (Metacognition), TRANSCENDENCE (Self-Aware Systems).
 
-#### **34. Omniscience** - Toàn Tri
+#### **35. Omniscience** - Toàn Tri
 
 Trạng thái tri thức hoàn hảo và toàn diện về mọi thứ.
 
@@ -29490,7 +29490,7 @@ Nguyên tắc META để ĐÁNH GIÁ tính vững chắc của các framework, m
 → **Ứng dụng từ:** INTEGRATION #6 (phương pháp tổng hợp cơ bản).
 → **Mục đích cao hơn:** Đảm bảo "Whole" framework có tính nhất quán nội tại.
 
-#### **23. System of Systems Integration** - Tích Hợp Hệ Thống của các Hệ Thống
+#### **22. System of Systems Integration** - Tích Hợp Hệ Thống của các Hệ Thống
 
 Việc tích hợp các hệ thống phức tạp, tự trị và có thể vận hành thành một tổng thể lớn hơn.
 
@@ -29501,7 +29501,7 @@ Việc tích hợp các hệ thống phức tạp, tự trị và có thể vậ
 
 → **Liên kết:** INTEGRATION (Systemic Integration), AMPLIFICATION (Network Effects).
 
-#### **24. Dialectical Transcendence** - Siêu Việt Biện Chứng [Tiến Hóa Framework]
+#### **23. Dialectical Transcendence** - Siêu Việt Biện Chứng [Tiến Hóa Framework]
 
 NGUYÊN LÝ TIẾN HÓA cho phép framework tư duy tự nâng cấp lên cấp độ cao hơn. Khác với công cụ thực hành ở INTEGRATION, đây là về SỰ TIẾN HÓA FRAMEWORK - khi hệ thống tư duy vượt qua các giới hạn của chính nó, không qua "Hợp đề" đơn thuần mà qua SỰ THAY ĐỔI CẤP ĐỘ Ý THỨC.
 
@@ -29512,7 +29512,7 @@ NGUYÊN LÝ TIẾN HÓA cho phép framework tư duy tự nâng cấp lên cấp 
 
 → **Liên kết:** TRANSCENDENCE (Paradox Mastery), DYNAMICS (Transformation), INTEGRATION #36 (ứng dụng thực hành).
 
-#### **25. Meta-Integration Framework** - Khung Siêu Tích Hợp
+#### **24. Meta-Integration Framework** - Khung Siêu Tích Hợp
 
 Một khung để tích hợp chính các phương pháp tích hợp - siêu tầng của tích hợp.
 
@@ -29523,7 +29523,7 @@ Một khung để tích hợp chính các phương pháp tích hợp - siêu t�
 
 → **Liên kết:** Là điểm hội tụ của TẤT CẢ CÁC MIỀN.
 
-#### **26. Cross-Paradigm Synthesis** - Tổng Hợp Xuyên Mô Thức [META CAPABILITY]
+#### **25. Cross-Paradigm Synthesis** - Tổng Hợp Xuyên Mô Thức [META CAPABILITY]
 
 Năng lực META để tạo ra sự hiểu biết mới bằng cách tích hợp các hiểu biết từ các mô thức tư duy có vẻ không tương thích. Đây là CÔNG CỤ CỐT LÕI để thiết kế và điều chỉnh các siêu framework - khả năng vượt qua ranh giới mô thức.
 
@@ -29541,7 +29541,7 @@ Năng lực META để tạo ra sự hiểu biết mới bằng cách tích hợ
 → **Ứng dụng trong:** INTEGRATION (các phương pháp tổng hợp cụ thể)
 → **Ví dụ thực tế:** Integral Theory (Ken Wilber), Theory of Everything frameworks
 
-#### **28. Living Integration** - Tích Hợp Sống
+#### **26. Living Integration** - Tích Hợp Sống
 
 Trạng thái trong đó việc tích hợp không còn là một hành động có chủ đích mà là một quá trình tự nhiên, sống động.
 
@@ -29554,7 +29554,7 @@ Trạng thái trong đó việc tích hợp không còn là một hành động 
 
 ### **Nhóm Bổ Sung: Meta-Architecture (7 mục mới)**
 
-#### **29. Framework of Frameworks (Extended)** - Khung Của Các Khung (Mở Rộng)
+#### **27. Framework of Frameworks (Extended)** - Khung Của Các Khung (Mở Rộng)
 
 Siêu cấu trúc chứa và tổ chức tất cả các khung tư duy khác.
 
@@ -29565,7 +29565,7 @@ Siêu cấu trúc chứa và tổ chức tất cả các khung tư duy khác.
 
 → **Liên kết:** [META] LAYER (Framework Design), INTEGRATION (Meta-Integration).
 
-#### **30. Language of Languages** - Ngôn Ngữ Của Các Ngôn Ngữ
+#### **28. Language of Languages** - Ngôn Ngữ Của Các Ngôn Ngữ
 
 Siêu ngôn ngữ có thể mô tả và dịch giữa tất cả các ngôn ngữ khác.
 
@@ -29576,7 +29576,7 @@ Siêu ngôn ngữ có thể mô tả và dịch giữa tất cả các ngôn ng�
 
 → **Liên kết:** [META] LAYER (Meta-Language Design), INTEGRATION (Linguistic Integration).
 
-#### **31. Meta Level** - Cấp Độ Meta
+#### **29. Meta Level** - Cấp Độ Meta
 
 Cấp độ quan sát và điều khiển cao hơn các cấp độ thông thường.
 
@@ -29587,7 +29587,7 @@ Cấp độ quan sát và điều khiển cao hơn các cấp độ thông thư�
 
 → **Liên kết:** [META] LAYER (Meta-Cognition), TRANSCENDENCE (Higher Levels).
 
-#### **31. Meta-Reasoning** - Siêu Suy Luận [Khái Niệm Cốt Lõi]
+#### **30. Meta-Reasoning** - Siêu Suy Luận [Khái Niệm Cốt Lõi]
 
 Khả năng suy luận về chính BẢN CHẤT và QUÁ TRÌNH của suy luận - "reasoning about reasoning". Đây là nền tảng của metacognition, cho phép chúng ta quan sát, phân tích và tối ưu hóa cách chúng ta tư duy.
 
@@ -29608,7 +29608,7 @@ Khả năng suy luận về chính BẢN CHẤT và QUÁ TRÌNH của suy luận
   • VALIDATION (đánh giá chất lượng suy luận)
   • NAVIGATION (lựa chọn chiến lược suy luận)
 
-#### **33. Meta-Strategy** - Siêu Chiến Lược **[Thiết Kế Framework]**
+#### **31. Meta-Strategy** - Siêu Chiến Lược **[Thiết Kế Framework]**
 
 Chiến lược về cách THIẾT KẾ và ĐIỀU TIẾT các hệ thống chiến lược. Khác với Meta-Strategy ở NAVIGATION (công cụ thực hành), đây là về THIẾT KẾ FRAMEWORK - quan sát và tiến hóa chính cách chúng ta tạo chiến lược.
 
@@ -29628,7 +29628,7 @@ Chiến lược về cách THIẾT KẾ và ĐIỀU TIẾT các hệ thống chi
 → **Gốc lý thuyết:** FOUNDATIONS (First Principles), [META] LAYER (Meta-Patterns).
 → **Ví dụ thực tế:** Thiết kế hệ thống OKRs, tạo ra phương pháp Scenario Planning.
 
-#### **34. Meta-Integration (Extended)** - Siêu Tích Hợp (Mở Rộng)
+#### **32. Meta-Integration (Extended)** - Siêu Tích Hợp (Mở Rộng)
 
 Tích hợp ở cấp độ cao nhất - tích hợp các phương pháp tích hợp.
 
@@ -29639,7 +29639,7 @@ Tích hợp ở cấp độ cao nhất - tích hợp các phương pháp tích h
 
 → **Liên kết:** INTEGRATION (Meta-Integration), TRANSCENDENCE (Unity).
 
-#### **35. Meta-Systematic Thinking** - Tư Duy Phương Pháp Siêu Hệ Thống
+#### **33. Meta-Systematic Thinking** - Tư Duy Phương Pháp Siêu Hệ Thống
 
 Khả năng thiết kế và áp dụng PHƯƠNG PHÁP CÓ HỆ THỐNG ở cấp độ cao nhất - tạo ra các quy trình, giao thức và khung làm việc để tổ chức và quản lý các hệ thống phức tạp một cách có PHƯƠNG PHÁP LUẬN. Đây là về "kiến trúc của các phương pháp".
 
@@ -29656,7 +29656,7 @@ Khả năng thiết kế và áp dụng PHƯƠNG PHÁP CÓ HỆ THỐNG ở cấ
 
 ### **Nhóm Bổ Sung: Perspective Engineering (6 mục mới)**
 
-#### **36. Perspective Taking** - Chuyển Đổi Quan Điểm
+#### **34. Perspective Taking** - Chuyển Đổi Quan Điểm
 
 Khả năng chủ động áp dụng nhiều quan điểm khác nhau.
 
@@ -29667,7 +29667,7 @@ Khả năng chủ động áp dụng nhiều quan điểm khác nhau.
 
 → **Liên kết:** [META] LAYER (Cognitive Flexibility), INTEGRATION (Multi-Perspective).
 
-#### **37. Reference Frame Shifting** - Chuyển Đổi Khung Tham Chiếu
+#### **35. Reference Frame Shifting** - Chuyển Đổi Khung Tham Chiếu
 
 Khả năng chuyển đổi giữa các khung tham chiếu khác nhau.
 
@@ -29678,7 +29678,7 @@ Khả năng chuyển đổi giữa các khung tham chiếu khác nhau.
 
 → **Liên kết:** FOUNDATIONS (Relativity), [META] LAYER (Perspective Architecture).
 
-#### **38. Vantage Point Multiplication** - Nhân Điểm Quan Sát
+#### **36. Vantage Point Multiplication** - Nhân Điểm Quan Sát
 
 Sử dụng đồng thời nhiều điểm quan sát khác nhau.
 
@@ -29689,7 +29689,7 @@ Sử dụng đồng thời nhiều điểm quan sát khác nhau.
 
 → **Liên kết:** [META] LAYER (Parallel Processing), CREATION (Multiple Perspectives).
 
-#### **39. Questioning → Questioning Questions → Questioning the Framework of Questioning** - Đặt Câu Hỏi → Đặt Câu Hỏi Về Câu Hỏi → Đặt Câu Hỏi Về Khung Đặt Câu Hỏi
+#### **37. Questioning → Questioning Questions → Questioning the Framework of Questioning** - Đặt Câu Hỏi → Đặt Câu Hỏi Về Câu Hỏi → Đặt Câu Hỏi Về Khung Đặt Câu Hỏi
 
 Ba cấp độ đệ quy của việc đặt câu hỏi.
 
@@ -29700,7 +29700,7 @@ Ba cấp độ đệ quy của việc đặt câu hỏi.
 
 → **Liên kết:** OPERATIONS (Inquiry Methods), [META] LAYER (Progressive Depth).
 
-#### **40. Meta Razor** - Siêu Dao Cạo
+#### **38. Meta Razor** - Siêu Dao Cạo
 
 Nguyên tắc lựa chọn giữa các nguyên tắc lựa chọn.
 
@@ -29711,7 +29711,7 @@ Nguyên tắc lựa chọn giữa các nguyên tắc lựa chọn.
 
 → **Liên kết:** [META] LAYER (Razor Selection), OPERATIONS (Decision Criteria).
 
-#### **41. Meta Lens** - Siêu Thấu Kính
+#### **39. Meta Lens** - Siêu Thấu Kính
 
 Thấu kính quan sát qua đó nhìn thấy tất cả các thấu kính khác.
 
@@ -29726,7 +29726,7 @@ Thấu kính quan sát qua đó nhìn thấy tất cả các thấu kính khác.
 
 ### **Nhóm Bổ Sung: Navigation & Transformation (7 mục mới)**
 
-#### **42. Meta-Wayfinding** - Siêu Tìm Đường **[Không Gian Của Các Không Gian]**
+#### **40. Meta-Wayfinding** - Siêu Tìm Đường **[Không Gian Của Các Không Gian]**
 
 Điều hướng ở cấp độ meta - KIẾN TRÚC cho việc hiểu và thiết kế các không gian điều hướng. Khác với ứng dụng thực hành ở NAVIGATION, đây là về CẤU TRÚC: làm thế nào các không gian điều hướng được tổ chức và liên kết.
 
@@ -29742,7 +29742,7 @@ Thấu kính quan sát qua đó nhìn thấy tất cả các thấu kính khác.
 → **Thiết kế:** [META] #16 (Conceptual Universe Design).
 → **Xem thêm:** NAVIGATION #24 (Quantum Navigation States) - áp dụng meta-feedback vào quantum decision making và tối ưu hóa decision collapse timing.
 
-#### **43. Navigation Philosophy** - Triết Học Điều Hướng
+#### **41. Navigation Philosophy** - Triết Học Điều Hướng
 
 Các nguyên tắc và trí tuệ cơ bản về điều hướng.
 
@@ -29753,7 +29753,7 @@ Các nguyên tắc và trí tuệ cơ bản về điều hướng.
 
 → **Liên kết:** NAVIGATION (Strategic Wisdom), FOUNDATIONS (Philosophy).
 
-#### **44. Dimensional Shifting [Trong Tiến Hóa Framework]** - Chuyển Đổi Chiều [Trong Tiến Hóa Framework]
+#### **42. Dimensional Shifting [Trong Tiến Hóa Framework]** - Chuyển Đổi Chiều [Trong Tiến Hóa Framework]
 
 Khả năng chuyển đổi giữa các chiều và cấp độ thực tại khác nhau để QUAN SÁT, PHÂN TÍCH và TIẾN HÓA các frameworks tư duy. Khác với ứng dụng thực hành ở NAVIGATION, đây là về SIÊU NHẬN THỨC - nhảy cấp độ để tái cấu trúc hệ thống.
 
@@ -29767,7 +29767,7 @@ Khả năng chuyển đổi giữa các chiều và cấp độ thực tại kh�
 → **Liên kết cao hơn:** TRANSCENDENCE (Dimension Transcendence).
 → **Ứng dụng cụ thể:** Tiến hóa mental models, tái cấu trúc frameworks, meta-design.
 
-#### **45. Holographic Navigation - Điều Hướng Toàn Ảnh** [Nguyên Tắc Meta]
+#### **43. Holographic Navigation - Điều Hướng Toàn Ảnh** [Nguyên Tắc Meta]
 
 Điều hướng ở cấp độ meta trong đó mỗi điểm quan sát chứa thông tin về toàn bộ không gian khái niệm. Khác với công cụ lập kế hoạch ở NAVIGATION, đây là về NGUYÊN TẮC META - cách TƯ DUY và QUAN SÁT bản thân quá trình điều hướng.
 
@@ -29780,7 +29780,7 @@ Khả năng chuyển đổi giữa các chiều và cấp độ thực tại kh�
 → **Ứng dụng thực hành:** NAVIGATION #23 (công cụ lập kế hoạch đa chiều).
 → **Bản chất:** Quan sát meta về chính quá trình điều hướng và framework evolution - khái niệm này TỰ THỂ HIỆN nguyên lý toàn ảnh bằng cách xuất hiện ở nhiều cấp độ trong Whole.
 
-#### **46. Integral Navigation** - Điều Hướng Toàn Diện [AQAL Framework]
+#### **44. Integral Navigation** - Điều Hướng Toàn Diện [AQAL Framework]
 
 Framework meta-navigation tích hợp TẤT CẢ các góc nhìn, cấp độ và chiều của thực tại sử dụng mô hình AQAL (All Quadrants, All Levels, All Lines, All States, All Types) của Ken Wilber. Đây là SIÊU CÔNG CỤ để quan sát và điều hướng bất kỳ hệ thống nào - một meta-framework chứa tất cả các frameworks khác.
 
@@ -29822,7 +29822,7 @@ AQAL không phải là một framework cụ thể trong một domain - nó là f
 
 ### **Nhóm Bổ Sung: Selection & Optimization (6 mục mới)**
 
-#### **48. Razor Selection Razor** - Dao Cạo Lựa Chọn Dao Cạo
+#### **45. Razor Selection Razor** - Dao Cạo Lựa Chọn Dao Cạo
 
 Nguyên tắc meta để lựa chọn giữa các nguyên tắc lựa chọn.
 
@@ -29833,7 +29833,7 @@ Nguyên tắc meta để lựa chọn giữa các nguyên tắc lựa chọn.
 
 → **Liên kết:** [META] LAYER (Meta Razor), OPERATIONS (Decision Frameworks).
 
-#### **49. Complementarity Razor** - Dao Cạo Bổ Sung
+#### **46. Complementarity Razor** - Dao Cạo Bổ Sung
 
 Nguyên tắc tích hợp các mặt đối lập thay vì loại bỏ.
 
@@ -29844,7 +29844,7 @@ Nguyên tắc tích hợp các mặt đối lập thay vì loại bỏ.
 
 → **Liên kết:** TRANSCENDENCE (Paradox Resolution), INTEGRATION (Both-And).
 
-#### **50. Synthesis Razor** - Dao Cạo Tổng Hợp
+#### **47. Synthesis Razor** - Dao Cạo Tổng Hợp
 
 Nguyên tắc tạo ra sự kết hợp tối ưu thay vì lựa chọn đơn giản.
 
@@ -29855,7 +29855,7 @@ Nguyên tắc tạo ra sự kết hợp tối ưu thay vì lựa chọn đơn gi
 
 → **Liên kết:** INTEGRATION (Synthesis), [META] LAYER (Integration Methods).
 
-#### **51. Transcendence Razor** - Dao Cạo Siêu Việt
+#### **48. Transcendence Razor** - Dao Cạo Siêu Việt
 
 Nguyên tắc vượt qua chính nhu cầu lựa chọn.
 
@@ -29866,7 +29866,7 @@ Nguyên tắc vượt qua chính nhu cầu lựa chọn.
 
 → **Liên kết:** TRANSCENDENCE (Beyond Duality), [META] LAYER (Transcendence).
 
-#### **52. Transcending Transcendence** - Siêu Việt Sự Siêu Việt
+#### **49. Transcending Transcendence** - Siêu Việt Sự Siêu Việt
 
 Vượt qua chính khái niệm siêu việt.
 
@@ -29877,7 +29877,7 @@ Vượt qua chính khái niệm siêu việt.
 
 → **Liên kết:** TRANSCENDENCE (Ultimate Freedom), [META] LAYER (Infinite Iteration).
 
-#### **53. Going Beyond Going Beyond** - Vượt Qua Sự Vượt Qua
+#### **50. Going Beyond Going Beyond** - Vượt Qua Sự Vượt Qua
 
 Quá trình vô hạn của việc vượt qua các giới hạn.
 
@@ -29892,7 +29892,7 @@ Quá trình vô hạn của việc vượt qua các giới hạn.
 
 ### **Nhóm Bổ Sung: Knowledge Foundation (6 mục mới)**
 
-#### **54. Philosophy of Mathematics** - Triết Học Toán Học
+#### **51. Philosophy of Mathematics** - Triết Học Toán Học
 
 Nghiên cứu về nền tảng, phương pháp và hàm ý của toán học.
 
@@ -29903,7 +29903,7 @@ Nghiên cứu về nền tảng, phương pháp và hàm ý của toán học.
 
 → **Liên kết:** FOUNDATIONS (Mathematics), OPERATIONS (Logical Reasoning).
 
-#### **55. Anthropic Principle - Nguyên Lý Nhân Trạng [Strong Version - Participatory Universe]**
+#### **52. Anthropic Principle - Nguyên Lý Nhân Trạng [Strong Version - Participatory Universe]**
 
 Nguyên lý triết học dựa trên Strong Anthropic Principle: Vũ trụ PHẢI có những thuộc tính cho phép sự phát triển của observer tại một số giai đoạn trong lịch sử của nó. Đây là NGUYÊN LÝ về BẢN CHẤT THỰC TẠI và vai trò của ý thức.
 
@@ -29924,7 +29924,7 @@ Nguyên lý triết học dựa trên Strong Anthropic Principle: Vũ trụ PH�
 → **Liên kết siêu việt:** TRANSCENDENCE (Participatory Universe, Unity Consciousness)
 → **Ứng dụng:** Framework Evolution, understanding consciousness and reality
 
-#### **56. Historiography & Meta-history** - Sử Học & Siêu Sử
+#### **53. Historiography & Meta-history** - Sử Học & Siêu Sử
 
 Nghiên cứu về cách viết và hiểu lịch sử.
 
@@ -29935,7 +29935,7 @@ Nghiên cứu về cách viết và hiểu lịch sử.
 
 → **Liên kết:** FOUNDATIONS (Time), [META] LAYER (Narrative Structures).
 
-#### **57. Critical Theory** - Lý Thuyết Phê Phán
+#### **54. Critical Theory** - Lý Thuyết Phê Phán
 
 Phương pháp phân tích và phê phán các cấu trúc xã hội và văn hóa.
 
@@ -29946,7 +29946,7 @@ Phương pháp phân tích và phê phán các cấu trúc xã hội và văn h�
 
 → **Liên kết:** VALIDATION (Critical Analysis), INTEGRATION (Social Systems).
 
-#### **58. Tree of Life Structure** - Cấu Trúc Cây Sự Sống
+#### **55. Tree of Life Structure** - Cấu Trúc Cây Sự Sống
 
 Hệ thống Kabbalah về các tầng thực tại và ý thức.
 
@@ -29957,7 +29957,7 @@ Hệ thống Kabbalah về các tầng thực tại và ý thức.
 
 → **Liên kết:** FOUNDATIONS (Mystical Traditions), TRANSCENDENCE (Spiritual Hierarchies).
 
-#### **59. Egyptian Temple Initiation Rites (Foundation)** - Nghi Lễ Khai Tâm Đền Ai Cập (Nền Tảng)
+#### **56. Egyptian Temple Initiation Rites (Foundation)** - Nghi Lễ Khai Tâm Đền Ai Cập (Nền Tảng)
 
 Hệ thống cổ đại về các giai đoạn chuyển hóa ý thức.
 
@@ -29972,7 +29972,7 @@ Hệ thống cổ đại về các giai đoạn chuyển hóa ý thức.
 
 ### **Nhóm Bổ Sung: Creative Expression (7 mục mới)**
 
-#### **61. Art Theory & Criticism** - Lý Thuyết Nghệ Thuật & Phê Bình
+#### **57. Art Theory & Criticism** - Lý Thuyết Nghệ Thuật & Phê Bình
 
 Nghiên cứu và đánh giá về nghệ thuật và ý nghĩa của nó.
 
@@ -29983,7 +29983,7 @@ Nghiên cứu và đánh giá về nghệ thuật và ý nghĩa của nó.
 
 → **Liên kết:** CREATION (Artistic Expression), VALIDATION (Critical Evaluation).
 
-#### **62. Aesthetics Philosophy** - Triết Học Thẩm Mỹ
+#### **58. Aesthetics Philosophy** - Triết Học Thẩm Mỹ
 
 Nghiên cứu về bản chất của cái đẹp, nghệ thuật và thẩm mỹ.
 
@@ -29994,7 +29994,7 @@ Nghiên cứu về bản chất của cái đẹp, nghệ thuật và thẩm m�
 
 → **Liên kết:** FOUNDATIONS (Beauty), CREATION (Aesthetic Creation).
 
-#### **63. Creative Process Studies** - Nghiên Cứu Quá Trình Sáng Tạo
+#### **59. Creative Process Studies** - Nghiên Cứu Quá Trình Sáng Tạo
 
 Nghiên cứu về cách diễn ra sự sáng tạo.
 
@@ -30005,7 +30005,7 @@ Nghiên cứu về cách diễn ra sự sáng tạo.
 
 → **Liên kết:** CREATION (Creative Process), DYNAMICS (Emergence).
 
-#### **64. Performance Studies** - Nghiên Cứu Biểu Diễn
+#### **60. Performance Studies** - Nghiên Cứu Biểu Diễn
 
 Nghiên cứu về nghệ thuật biểu diễn và thể hiện qua cơ thể.
 
@@ -30016,7 +30016,7 @@ Nghiên cứu về nghệ thuật biểu diễn và thể hiện qua cơ thể.
 
 → **Liên kết:** CREATION (Embodied Creation), INTEGRATION (Mind-Body).
 
-#### **65. Medium Theory** - Lý Thuyết Phương Tiện
+#### **61. Medium Theory** - Lý Thuyết Phương Tiện
 
 Nghiên cứu về cách phương tiện truyền thông ảnh hưởng đến thông điệp.
 
@@ -30027,7 +30027,7 @@ Nghiên cứu về cách phương tiện truyền thông ảnh hưởng đến t
 
 → **Liên kết:** INTEGRATION (Communication Theory), [META] LAYER (Meta-Language).
 
-#### **66. Semiotics in Arts (Framework)** - Ký Hiệu Học Trong Nghệ Thuật (Khung)
+#### **62. Semiotics in Arts (Framework)** - Ký Hiệu Học Trong Nghệ Thuật (Khung)
 
 Hệ thống nghiên cứu ký hiệu và ý nghĩa trong nghệ thuật.
 
@@ -30038,7 +30038,7 @@ Hệ thống nghiên cứu ký hiệu và ý nghĩa trong nghệ thuật.
 
 → **Liên kết:** CREATION (Symbolic Expression), [META] LAYER (Language Systems).
 
-#### **67. Cultural Analysis (Framework)** - Phân Tích Văn Hóa (Khung)
+#### **63. Cultural Analysis (Framework)** - Phân Tích Văn Hóa (Khung)
 
 Hệ thống phân tích các mẫu hình và cấu trúc văn hóa.
 
