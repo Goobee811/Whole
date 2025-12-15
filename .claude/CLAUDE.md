@@ -6,7 +6,7 @@ Specialized Claude skills for editing and expanding the Whole bilingual knowledg
 ## Core Philosophy
 - **Only Add, Never Subtract**: Never delete existing content without explicit approval
 - **Bilingual Integrity**: Vietnamese primary, English secondary
-- **Structural Preservation**: Maintain 10 domains, 5 functions each, 4-point descriptions
+- **Structural Preservation**: Maintain 10 domains, 5 functions each, 4-point (at least 4, can have more) descriptions
 
 ## Skills Available
 - `whole-editor`: Main editing skill for content expansion
@@ -19,7 +19,7 @@ Specialized Claude skills for editing and expanding the Whole bilingual knowledg
 ## Document Structure
 - **10 Domains**: Foundations, Dynamics, Operations, Creation, Navigation, Integration, Validation, Amplification, Transcendence, Meta
 - **5 Functions per Domain**: Understanding, Analysis, Synthesis, Application, Integration
-- **4-Point Descriptions**: Definition, Context, Application, Integration
+- **4-Point Descriptions**: Definition, Context, Application, Integration...
 
 ## Content Guidelines
 
@@ -31,8 +31,8 @@ Specialized Claude skills for editing and expanding the Whole bilingual knowledg
 
 #### Heading Levels (Bilingual Required)
 ```
-## [số]. DOMAIN NAME - TÊN DOMAIN
-### CHỨC NĂNG [số]: FUNCTION NAME - TÊN CHỨC NĂNG
+# [số]. DOMAIN NAME - TÊN DOMAIN
+## CHỨC NĂNG [số]: FUNCTION NAME - TÊN CHỨC NĂNG
 #### **[số]. Concept Name - Tên Khái Niệm**
 ```
 
