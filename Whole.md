@@ -1887,7 +1887,8 @@ Nghệ thuật nấu ăn với mục đích chữa bệnh.
 
 Trí tuệ từ các truyền thống tư tưởng lớn của nhân loại, được chưng cất thành các nguyên lý sống và tư duy đã được thời gian kiểm chứng.
 
-### **Các Truyền Thống Trí Tuệ**
+
+### **Western Philosophical Foundations - Nền Tảng Triết Học Phương Tây**
 
 #### **1. Stoicism** - Chủ Nghĩa Khắc Kỷ
 
@@ -1900,29 +1901,7 @@ Triết lý tập trung vào việc phân biệt những gì ta có thể và kh
 
 → **Liên kết:** VALIDATION (Reality Testing), DYNAMICS (State Management)
 
-#### **2. Taoist Principles** - Nguyên Lý Đạo Gia
-
-Các nguyên lý dựa trên việc sống hòa hợp với "Đạo" - dòng chảy tự nhiên của vũ trụ.
-
-- **Wu Wei (Effortless Action)**: Hành động không gắng gượng, nương theo dòng chảy tự nhiên để đạt hiệu quả tối đa
-- **The Uncarved Block (Pu)**: Trạng thái tiềm năng nguyên sơ, chưa bị định hình bởi các khái niệm
-- **Following The Way (Tao)**: Nhận biết và hòa mình vào các quy luật và mẫu hình tự nhiên của vạn vật
-- **Simplicity & Humility**: Đề cao sự đơn giản, khiêm tốn và tránh những phức tạp không cần thiết
-
-→ **Liên kết:** INTEGRATION (Personal Integration), CREATION (Emergence)
-
-#### **3. Buddhist Principles** - Nguyên Lý Phật Giáo
-
-Các hiểu biết cốt lõi về bản chất của thực tại, khổ đau và con đường dẫn đến giải thoát.
-
-- **Three Marks of Existence**: Ba dấu ấn của sự tồn tại: Vô thường (Anicca), Khổ (Dukkha), và Vô ngã (Anatta)
-- **Dependent Origination**: Duyên khởi; mọi hiện tượng đều phụ thuộc vào các điều kiện khác để tồn tại
-- **The Middle Way**: Con đường trung đạo, tránh hai thái cực của sự ép xác khổ hạnh và sự hưởng thụ dục lạc
-- **Mindfulness & Awareness**: Thực hành chánh niệm và nhận thức không phán xét về khoảnh khắc hiện tại
-
-→ **Liên kết:** TRANSCENDENCE (Consciousness States), VALIDATION (Reality Testing)
-
-#### **4. Socratic Wisdom** - Trí Tuệ Socrates
+#### **2. Socratic Wisdom** - Trí Tuệ Socrates
 
 Phương pháp tiếp cận tri thức dựa trên sự khiêm tốn, đối thoại và truy vấn không ngừng.
 
@@ -1933,46 +1912,7 @@ Phương pháp tiếp cận tri thức dựa trên sự khiêm tốn, đối tho
 
 → **Liên kết:** [META] LAYER (Meta-Cognition), VALIDATION (Adversarial Testing)
 
-#### **5. Via Negativa** - Con Đường Phủ Định
-
-NGUYÊN LÝ TRI THỨC LUẬN cơ bản: Đạt được hiểu biết chân thực bằng cách loại bỏ những gì SAI LẦM, thay vì cố gắng thêm vào những gì được cho là đúng. Đây là PHƯƠNG PHÁP TƯ DUY nền tảng xuất phát từ thần học phủ định (apophatic theology) - tiếp cận Thượng Đế bằng cách nói những gì Ngài KHÔNG PHẢI.
-
-- **Knowledge by Subtraction**: Tri thức qua LOẠI TRỪ - phép trừ thay vì cộng
-- **Robustness**: Những gì TỒN TẠI sau phủ định là vững chắc hơn
-- **Simplicity & Clarity**: Bản chất lộ ra qua việc BỚT ĐI
-- **Avoiding Harm**: Tránh ngu ngốc quan trọng hơn cố gắng thông minh
-
-→ **Liên kết nội bộ:** OPERATIONS (Analytical Razors), FOUNDATIONS (First Principles)
-→ **Ứng dụng vượt thoát:** TRANSCENDENCE #6 (công cụ giải quyết nghịch lý)
-→ **Ứng dụng thực hành:**
-  • NAVIGATION #10 (Apophatic Navigation - điều hướng bằng tránh)
-  • VALIDATION #9 (Inversion Strategy - chiến lược đảo ngược)
-  • FOUNDATIONS #42 (Negative Space - không gian âm)
-  • CREATION #29 (Negative Space Thinking - tư duy không gian âm)
-
-#### **6. Zen Principles** - Nguyên Lý Thiền Tông
-
-Các nguyên tắc tập trung vào kinh nghiệm trực tiếp, sự giác ngộ và hiện hữu trong khoảnh khắc hiện tại.
-
-- **Shoshin (Beginner's Mind)**: Tâm người mới bắt đầu, cởi mở và không có định kiến
-- **Mushin (No-Mind)**: Trạng thái vô tâm, hành động một cách tự phát và trực giác mà không có sự can thiệp của cái tôi
-- **Zazen (Sitting Meditation)**: Thiền tọa, thực hành cốt lõi để quan sát tâm trí
-- **Direct Pointing**: Chỉ thẳng vào bản tâm, vượt qua kinh sách và lý thuyết
-
-→ **Liên kết:** DYNAMICS (Flow State), TRANSCENDENCE (Witness Consciousness)
-
-#### **7. Epicureanism** - Chủ Nghĩa Khoái Lạc (Kiểu Epicurus)
-
-Triết lý tìm kiếm hạnh phúc thông qua các thú vui giản dị, sự thanh thản và tình bạn.
-
-- **Ataraxia (Tranquility)**: Sự thanh thản trong tâm hồn, không bị xáo trộn bởi nỗi sợ hãi hay lo lắng
-- **Aponia (Absence of Pain)**: Trạng thái không có nỗi đau về thể xác
-- **Hierarchy of Desires**: Phân biệt giữa các ham muốn tự nhiên & cần thiết, tự nhiên & không cần thiết, và không tự nhiên & không cần thiết
-- **Friendship & Community**: Coi tình bạn và cộng đồng là một trong những nguồn hạnh phúc lớn nhất
-
-→ **Liên kết:** DYNAMICS (State Management), INTEGRATION (Personal Integration)
-
-#### **8. Aristotelian Virtue Ethics** - Đạo Đức Học Đức Hạnh (Kiểu Aristotle)
+#### **3. Aristotelian Virtue Ethics** - Đạo Đức Học Đức Hạnh (Kiểu Aristotle)
 
 Triết lý cho rằng mục đích cuối cùng của con người là Eudaimonia (sự thịnh vượng) đạt được qua việc thực hành các đức hạnh.
 
@@ -1983,7 +1923,442 @@ Triết lý cho rằng mục đích cuối cùng của con người là Eudaimon
 
 → **Liên kết:** OPERATIONS (Decision Frameworks), [META] LAYER (Meta-Cognition)
 
-#### **9. The Golden Rule - Quy Tắc Vàng [Trí Tuệ Phổ Quát]**
+#### **4. Epicureanism** - Chủ Nghĩa Khoái Lạc (Kiểu Epicurus)
+
+Triết lý tìm kiếm hạnh phúc thông qua các thú vui giản dị, sự thanh thản và tình bạn.
+
+- **Ataraxia (Tranquility)**: Sự thanh thản trong tâm hồn, không bị xáo trộn bởi nỗi sợ hãi hay lo lắng
+- **Aponia (Absence of Pain)**: Trạng thái không có nỗi đau về thể xác
+- **Hierarchy of Desires**: Phân biệt giữa các ham muốn tự nhiên & cần thiết, tự nhiên & không cần thiết, và không tự nhiên & không cần thiết
+- **Friendship & Community**: Coi tình bạn và cộng đồng là một trong những nguồn hạnh phúc lớn nhất
+
+→ **Liên kết:** DYNAMICS (State Management), INTEGRATION (Personal Integration)
+
+#### **5. Existentialism** - Chủ Nghĩa Hiện Sinh
+
+Triết lý nhấn mạnh sự tự do, trách nhiệm và việc tìm kiếm ý nghĩa trong một thế giới vô nghĩa.
+
+- **Existence Precedes Essence**: Sự tồn tại đi trước bản chất; con người tự định nghĩa bản thân qua hành động
+- **Radical Freedom & Responsibility**: Tự do triệt để đi kèm với trách nhiệm to lớn
+- **Meaning Creation**: Con người có nhiệm vụ tạo ra ý nghĩa cho chính mình
+- **Authenticity**: Sống một cuộc đời chân thực, phù hợp với các giá trị tự mình lựa chọn
+
+→ **Liên kết:** CREATION (Generative Systems), NAVIGATION (Guiding Principles)
+
+#### **6. Pragmatism** - Chủ Nghĩa Thực Dụng
+
+Triết lý đánh giá các lý thuyết hoặc niềm tin dựa trên sự thành công của ứng dụng thực tế của chúng.
+
+- **Truth is what works**: Chân lý là những gì hoạt động hiệu quả
+- **Practical Consequences**: Tập trung vào các hệ quả thực tế
+- **Experimental Attitude**: Thái độ thực nghiệm đối với cuộc sống và tri thức
+- **Instrumentalism**: Xem các ý tưởng như những công cụ để giải quyết vấn đề
+
+→ **Liên kết:** VALIDATION (Empirical Validation), OPERATIONS (Decision Frameworks)
+
+#### **7. Platonic Forms** - Ý Niệm (Kiểu Plato)
+
+Lý thuyết cho rằng thế giới vật chất không phải là thế giới thực, mà chỉ là bản sao hoặc cái bóng của thế giới ý niệm trừu tượng, hoàn hảo và bất biến.
+
+- **World of Being vs. World of Becoming**: Thế giới của sự tồn tại (ý niệm) vs. Thế giới của sự hình thành (vật chất)
+- **Abstract Reality**: Thực tại trừu tượng là thực tại tối hậu
+- **Allegory of the Cave**: Dụ ngôn về cái hang, minh họa cho hành trình từ vô minh đến giác ngộ
+- **Foundation of Western Metaphysics**: Nền tảng của siêu hình học phương Tây
+
+→ **Liên kết:** TRANSCENDENCE (Ultimate Principles), [META] LAYER (Meta-Structures)
+
+#### **8. Pyrrhonian Skepticism** - Chủ Nghĩa Hoài Nghi (Kiểu Pyrrho)
+
+Triết lý cho rằng nên đình chỉ phán xét (epoché) về những vấn đề không rõ ràng để đạt được sự bình thản (ataraxia).
+
+- **Suspension of Judgment (Epoché)**: Đình chỉ phán xét
+- **Equipollence**: Sự ngang bằng của các lập luận đối lập
+- **Quietude (Ataraxia)**: Mục tiêu là sự bình thản, không bị xáo trộn
+- **Continuous Inquiry**: Tiếp tục tra vấn mà không đi đến một kết luận chắc chắn
+
+→ **Liên kết:** VALIDATION (Adversarial Testing), [META] LAYER (Intellectual Humility)
+
+#### **9. The Categorical Imperative** - Mệnh Lệnh Tuyệt Đối (Kant)
+
+Nguyên tắc đạo đức tối cao cho rằng nên hành động theo một quy tắc mà bạn có thể muốn nó trở thành một quy luật phổ quát.
+
+- **Universalizability Principle**: Nguyên tắc phổ quát hóa
+- **Humanity as an End**: Đối xử với con người như một mục đích, không bao giờ chỉ như một phương tiện
+- **Duty-Based Ethics**: Đạo đức dựa trên nghĩa vụ
+- **Rational Moral Law**: Quy luật đạo đức có thể được suy ra từ lý trí
+
+→ **Liên kết:** [META] LAYER (Axiomatic Systems), OPERATIONS (Reasoning Architectures)
+
+#### **10. Utilitarianism** - Chủ Nghĩa Vị Lợi
+
+Thuyết đạo đức cho rằng hành động đúng đắn là hành động tối đa hóa hạnh phúc hoặc sự hữu dụng cho số đông người nhất.
+
+- **Greatest Good for the Greatest Number**: Lợi ích lớn nhất cho số đông người nhất
+- **Consequence-Based Ethics**: Đạo đức dựa trên hậu quả
+- **Utility Maximization**: Tối đa hóa sự hữu dụng
+- **Hedonic Calculus**: Một phép tính (giả định) để đo lường khoái lạc và đau khổ
+
+→ **Liên kết:** OPERATIONS (Decision Frameworks), AMPLIFICATION (Systemic Impact)
+
+#### **11. Amor Fati** - Yêu Thương Định Mệnh
+
+Thái độ chấp nhận và yêu thương mọi thứ xảy ra trong cuộc đời mình, cả tốt lẫn xấu, như một điều cần thiết.
+
+- **Fateful Acceptance**: Chấp nhận định mệnh
+- **Embracing All of Life**: Ôm lấy tất cả cuộc sống, không chỉ những phần tốt đẹp
+- **No Regrets**: Không hối tiếc
+- **Affirmation of Existence**: Sự khẳng định sự tồn tại một cách trọn vẹn
+
+→ **Liên kết:** DYNAMICS (Transformation Dynamics), TRANSCENDENCE (Paradox Mastery)
+
+#### **12. The Veil of Ignorance** - Bức Màn Vô Tri (Rawls)
+
+Thí nghiệm tư duy nổi tiếng của John Rawls về công lý xã hội: thiết kế các nguyên tắc cho một xã hội công bằng từ "vị trí ban đầu" mà ở đó chúng ta không biết vị trí, tài năng hay hoàn cảnh của mình sẽ như thế nào. Đây là một trong những tư tưởng có ảnh hưởng nhất trong triết học chính trị đương đại về công lý và công bằng xã hội.
+
+- **Original Position**: Vị trí ban đầu - đứng sau "bức màn vô tri"
+- **Justice as Fairness**: Công lý như là sự công bằng
+- **Impartial Decision-Making**: Ra quyết định hoàn toàn vô tư
+- **Protecting the Least Advantaged**: Bảo vệ người yếu thế nhất (Difference Principle)
+
+→ **Liên kết:** [META] LAYER (Thought Experiments), INTEGRATION (Systemic Integration)
+→ **Ứng dụng thực hành:** CORE VALUES & ETHICS (Justice #12, Fairness principles)
+→ **Nguồn gốc:** "A Theory of Justice" (1971) - tác phẩm đột phá của triết học thế kỷ 20
+
+#### **13. I and Thou** - Tôi và Ngươi (Buber)
+
+Triết lý về mối quan hệ, phân biệt giữa việc đối xử với người khác như một đối tượng (I-It) và việc gặp gỡ họ trong một mối quan hệ chân thực (I-Thou).
+
+- **I-It vs. I-Thou Relation**: Mối quan hệ Tôi-Nó vs. Tôi-Ngươi
+- **Authentic Encounter**: Cuộc gặp gỡ chân thực
+- **Relational Reality**: Thực tại mang tính quan hệ
+- **Presence and Mutuality**: Sự hiện diện và tính tương hỗ
+
+→ **Liên kết:** INTEGRATION (Personal Integration), AMPLIFICATION (Community Dynamics)
+
+#### **14. Humanism** - Chủ Nghĩa Nhân Văn
+
+Một thế giới quan tập trung vào giá trị, năng lực và sự tự quyết của con người, thường ưu tiên lý trí và khoa học hơn là giáo điều.
+
+- **Human Agency and Potential**: Năng lực và tiềm năng của con người
+- **Reason and Free Inquiry**: Lý trí và sự tra vấn tự do
+- **Secular Ethics**: Đạo đức thế tục
+- **Focus on the Here and Now**: Tập trung vào cuộc sống ở đây và bây giờ
+
+→ **Liên kết:** [META] LAYER (Cognitive Sovereignty), OPERATIONS (Scientific Reasoning)
+
+#### **15. The Trivium** - Tam Khoa
+
+Mô hình giáo dục cổ điển bao gồm ba nghệ thuật tự do cơ bản: Ngữ pháp, Logic, và Tu từ học.
+
+- **Grammar**: Ngữ pháp; kiến thức cơ bản và các quy tắc của một lĩnh vực
+- **Logic**: Logic; nghệ thuật suy luận và xây dựng các lập luận chặt chẽ
+- **Rhetoric**: Tu từ học; nghệ thuật giao tiếp và thuyết phục một cách hiệu quả
+- **Foundation of Learning**: Nền tảng của việc học tập và tư duy rõ ràng
+
+→ **Liên kết:** OPERATIONS (Reasoning Architectures), [META] LAYER (Meta-Learning)
+
+### **Eastern Spiritual & Philosophical Paths - Con Đường Tâm Linh & Triết Học Đông Phương**
+
+#### **16. Taoist Principles** - Nguyên Lý Đạo Gia
+
+Các nguyên lý dựa trên việc sống hòa hợp với "Đạo" - dòng chảy tự nhiên của vũ trụ.
+
+- **Wu Wei (Effortless Action)**: Hành động không gắng gượng, nương theo dòng chảy tự nhiên để đạt hiệu quả tối đa
+- **The Uncarved Block (Pu)**: Trạng thái tiềm năng nguyên sơ, chưa bị định hình bởi các khái niệm
+- **Following The Way (Tao)**: Nhận biết và hòa mình vào các quy luật và mẫu hình tự nhiên của vạn vật
+- **Simplicity & Humility**: Đề cao sự đơn giản, khiêm tốn và tránh những phức tạp không cần thiết
+
+→ **Liên kết:** INTEGRATION (Personal Integration), CREATION (Emergence)
+
+#### **17. Buddhist Principles** - Nguyên Lý Phật Giáo
+
+Các hiểu biết cốt lõi về bản chất của thực tại, khổ đau và con đường dẫn đến giải thoát.
+
+- **Three Marks of Existence**: Ba dấu ấn của sự tồn tại: Vô thường (Anicca), Khổ (Dukkha), và Vô ngã (Anatta)
+- **Dependent Origination**: Duyên khởi; mọi hiện tượng đều phụ thuộc vào các điều kiện khác để tồn tại
+- **The Middle Way**: Con đường trung đạo, tránh hai thái cực của sự ép xác khổ hạnh và sự hưởng thụ dục lạc
+- **Mindfulness & Awareness**: Thực hành chánh niệm và nhận thức không phán xét về khoảnh khắc hiện tại
+
+→ **Liên kết:** TRANSCENDENCE (Consciousness States), VALIDATION (Reality Testing)
+
+#### **18. The Four Noble Truths** - Tứ Diệu Đế
+
+Bốn chân lý cốt lõi của Phật giáo, mô tả bản chất của khổ đau và con đường giải thoát.
+
+- **The Truth of Suffering (Dukkha)**: Chân lý về sự khổ
+- **The Truth of the Origin of Suffering (Samudāya)**: Chân lý về nguyên nhân của sự khổ
+- **The Truth of the Cessation of Suffering (Nirodha)**: Chân lý về sự diệt khổ
+- **The Truth of the Path to the Cessation of Suffering (Magga)**: Chân lý về con đường dẫn đến sự diệt khổ
+
+→ **Liên kết:** OPERATIONS (Root Cause Analysis), NAVIGATION (Waypoint System)
+
+#### **19. The Eightfold Path** - Bát Chánh Đạo
+
+Con đường thực hành của Phật giáo để chấm dứt khổ đau, bao gồm tám yếu tố.
+
+- **Wisdom (Prajñā)**: Trí tuệ (Chánh kiến, Chánh tư duy)
+- **Ethical Conduct (Śīla)**: Đạo đức (Chánh ngữ, Chánh nghiệp, Chánh mạng)
+- **Mental Discipline (Samādhi)**: Thiền định (Chánh tinh tấn, Chánh niệm, Chánh định)
+- **Integrated Practice**: Một thực hành tích hợp, không phải là các bước tuần tự
+
+→ **Liên kết:** INTEGRATION (Integral Life Practice), [META] LAYER (Meta-Cognition)
+
+#### **20. Bodhisattva Ideal** - Lý Tưởng Bồ Tát
+
+Hình mẫu giác ngộ trong Phật giáo Đại thừa, người trì hoãn Niết bàn của chính mình để cứu độ tất cả chúng sinh.
+
+- **Great Compassion (Mahākaruṇā)**: Lòng đại bi
+- **Enlightenment for All Beings**: Giác ngộ vì lợi ích của tất cả chúng sinh
+- **Skillful Means (Upāya)**: Phương tiện thiện xảo để giúp đỡ người khác
+- **Selfless Service**: Phụng sự vị tha
+
+→ **Liên kết:** TRANSCENDENCE (Unity Consciousness), AMPLIFICATION (Collective Uplift)
+
+#### **21. Zen Principles** - Nguyên Lý Thiền Tông
+
+Các nguyên tắc tập trung vào kinh nghiệm trực tiếp, sự giác ngộ và hiện hữu trong khoảnh khắc hiện tại.
+
+- **Shoshin (Beginner's Mind)**: Tâm người mới bắt đầu, cởi mở và không có định kiến
+- **Mushin (No-Mind)**: Trạng thái vô tâm, hành động một cách tự phát và trực giác mà không có sự can thiệp của cái tôi
+- **Zazen (Sitting Meditation)**: Thiền tọa, thực hành cốt lõi để quan sát tâm trí
+- **Direct Pointing**: Chỉ thẳng vào bản tâm, vượt qua kinh sách và lý thuyết
+
+→ **Liên kết:** DYNAMICS (Flow State), TRANSCENDENCE (Witness Consciousness)
+
+#### **22. Advaita Vedanta** - Bất Nhị Vedanta
+
+Trường phái triết học Ấn Độ cho rằng bản ngã cá nhân (Atman) và thực tại tối hậu (Brahman) là một.
+
+- **Atman is Brahman**: Tiểu ngã chính là Đại ngã
+- **Maya (Illusion of Separation)**: Ảo tưởng về sự tách biệt và thế giới hiện tượng
+- **Witness Consciousness**: Ý thức chứng kiến là con đường để nhận ra bản chất thực sự
+- **Ultimate Unity**: Sự thống nhất tối hậu là chân lý duy nhất
+
+→ **Liên kết:** TRANSCENDENCE (Non-dual Awareness, Unity Consciousness)
+
+#### **23. Karma Yoga** - Yoga Hành Động
+
+Con đường tâm linh thông qua hành động vị tha, không dính mắc vào kết quả.
+
+- **Action without Attachment**: Hành động mà không dính mắc vào thành quả của hành động
+- **Duty for Duty's Sake (Dharma)**: Thực hiện nghĩa vụ vì đó là nghĩa vụ, không vì phần thưởng
+- **Offering of Actions**: Dâng hiến mọi hành động cho một mục đích cao cả hơn
+- **Spiritual Practice in Daily Life**: Biến cuộc sống hàng ngày thành một thực hành tâm linh
+
+→ **Liên kết:** OPERATIONS (Decision Frameworks), DYNAMICS (State Management)
+
+#### **24. Confucian Ethics** - Đạo Đức Nho Giáo
+
+Hệ thống đạo đức tập trung vào việc tu dưỡng cá nhân, sự hài hòa xã hội và các mối quan hệ đúng đắn.
+
+- **Ren (Nhân)**: Lòng nhân ái, lòng trắc ẩn
+- **Yi (Nghĩa)**: Sự công chính, chính trực
+- **Li (Lễ)**: Các nghi lễ, quy tắc ứng xử xã hội
+- **Filial Piety (Hiếu)**: Lòng hiếu thảo, sự tôn trọng đối với cha mẹ và tổ tiên
+
+→ **Liên kết:** INTEGRATION (Systemic Integration), [META] LAYER (Ethical Frameworks)
+
+#### **25. Yin-Yang** - Âm-Dương
+
+Nguyên lý về sự tương tác của hai lực lượng đối lập và bổ sung.
+
+- **Dynamic Balance**: Cân bằng động giữa hai cực
+- **Mutual Arising**: Đồng sinh lẫn nhau
+- **Complementary Forces**: Các lực lượng bổ sung
+- **Cyclical Transformation**: Chuyển hóa tuần hoàn
+
+→ **Liên kết:** FOUNDATIONS (Duality & Unity), DYNAMICS (Polarity Management)
+
+#### **26. Middle Way** - Trung Đạo
+
+Con đường cân bằng giữa các thái cực.
+
+- **Avoiding Extremes**: Tránh các cực đoan
+- **Moderation**: Sự điều độ
+- **Balanced Path**: Con đường cân bằng
+- **Practical Wisdom**: Trí tuệ thực tiễn
+
+→ **Liên kết:** FOUNDATIONS (Buddhist Principles), NAVIGATION (Strategic Balance)
+
+#### **27. Brahman-Atman** - Phạm-Ngã
+
+Sự đồng nhất giữa bản ngã cá nhân và thực tại tối thượng.
+
+- **Self-Ultimate Unity**: Thống nhất giữa ngã và đại ngã
+- **Non-Dual Reality**: Thực tại bất nhị
+- **Consciousness is Brahman**: Ý thức là Brahman
+- **Liberation through Knowledge**: Giải thoát qua tri thức
+
+→ **Liên kết:** TRANSCENDENCE (Advaita Vedanta), FOUNDATIONS (Unity)
+
+#### **28. Ren (仁)** - Nhân
+
+Đức nhân ái, lòng trắc ẩn trong Nho giáo.
+
+- **Benevolence**: Lòng nhân từ
+- **Compassion**: Lòng trắc ẩn
+- **Human-Heartedness**: Tính nhân bản
+- **Social Virtue**: Đức hạnh xã hội
+
+→ **Liên kết:** FOUNDATIONS (Confucian Ethics), INTEGRATION (Social Harmony)
+
+#### **29. Li (禮)** - Lễ
+
+Các nghi lễ và quy tắc ứng xử trong Nho giáo.
+
+- **Ritual Propriety**: Nghi lễ đúng mực
+- **Social Harmony**: Hài hòa xã hội
+- **Cultural Forms**: Hình thức văn hóa
+- **Respectful Conduct**: Ứng xử tôn trọng
+
+→ **Liên kết:** FOUNDATIONS (Confucian Ethics), INTEGRATION (Social Order)
+
+### **Contemplative & Meditative Practices - Các Thực Hành Thiền Định & Nội Quán**
+
+#### **30. Shamatha** - Thiền Định Tĩnh Lặng
+
+Thiền định để phát triển sự an tĩnh và tập trung.
+
+- **Calm Abiding**: An trú tĩnh lặng
+- **Mental Stability**: Ổn định tâm trí
+- **Single-Pointed Focus**: Tập trung một điểm
+- **Concentration Practice**: Thực hành định tâm
+
+→ **Liên kết:** DYNAMICS (State Management), OPERATIONS (Focus Training)
+
+#### **31. Vipassana** - Thiền Quán
+
+Thiền định để phát triển trí tuệ sâu sắc và nhận thức.
+
+- **Insight Meditation**: Thiền quán sâu
+- **Direct Observation**: Quan sát trực tiếp
+- **Impermanence Awareness**: Nhận thức vô thường
+- **Wisdom Development**: Phát triển trí tuệ
+
+→ **Liên kết:** VALIDATION (Reality Testing), TRANSCENDENCE (Insight)
+
+#### **32. Zen Shikantaza** - Thiền Chỉ Là Ngồi
+
+Thiền định "chỉ là ngồi" không đối tượng.
+
+- **Just Sitting**: Chỉ là ngồi
+- **Objectless Meditation**: Thiền không đối tượng
+- **Pure Awareness**: Nhận thức thuần khiết
+- **Effortless Presence**: Hiện diện không gắng gượng
+
+→ **Liên kết:** FOUNDATIONS (Zen Principles), TRANSCENDENCE (Pure Consciousness)
+
+#### **33. Dzogchen Sky Gazing** - Thiền Dzogchen Nhìn Trời
+
+Thực hành thiền định nhìn vào bầu trời rộng mở.
+
+- **Sky-Like Mind**: Tâm như bầu trời
+- **Openness Practice**: Thực hành cởi mở
+- **Natural Awareness**: Nhận thức tự nhiên
+- **Primordial Purity**: Thanh tịnh nguyên sơ
+
+→ **Liên kết:** TRANSCENDENCE (Natural State), DYNAMICS (Spacious Awareness)
+
+#### **34. Atma Vichara** - Tự Vấn
+
+Phương pháp tự tra vấn "Ta là ai?".
+
+- **Self-Inquiry**: Tự tra vấn
+- **"Who am I?"**: "Ta là ai?"
+- **Direct Path**: Con đường trực tiếp
+- **Self-Realization**: Tự chứng ngộ
+
+→ **Liên kết:** TRANSCENDENCE (Self-Inquiry), [META] LAYER (Self-Awareness)
+
+#### **35. Shoshin** - Tâm Người Mới Bắt Đầu
+
+Thái độ cởi mở, nhiệt tình như người mới học.
+
+- **Beginner's Mind**: Tâm người mới
+- **Openness**: Cởi mở không định kiến
+- **Fresh Perspective**: Góc nhìn mới mẻ
+- **Learning Attitude**: Thái độ học hỏi
+
+→ **Liên kết:** FOUNDATIONS (Zen Principles), [META] LAYER (Meta-Learning)
+
+### **Japanese Aesthetic & Life Philosophy - Thẩm Mỹ & Triết Sống Nhật Bản**
+
+#### **36. Kintsugi Philosophy** - Triết Lý Kintsugi
+
+Nghệ thuật sửa chữa đồ gốm vỡ bằng sơn mài trộn với vàng, tôn vinh lịch sử và sự không hoàn hảo.
+
+- **Embracing Imperfection**: Ôm lấy những vết sẹo và sự không hoàn hảo như một phần của vẻ đẹp
+- **History as Beauty**: Xem lịch sử và những tổn thương là một phần làm nên giá trị, không phải để che giấu
+- **Resilience Made Visible**: Khả năng phục hồi được làm cho hữu hình và đẹp đẽ
+- **Antifragile Aesthetics**: Một thẩm mỹ phản mỏng manh, nơi những gì bị phá vỡ trở nên mạnh mẽ và đẹp hơn
+
+→ **Liên kết:** DYNAMICS (Transformation Dynamics), VALIDATION (coi lỗi lầm là giá trị)
+
+#### **37. Wabi-Sabi** - Vẻ Đẹp của Sự Không Hoàn Hảo
+
+Thẩm mỹ và thế giới quan của Nhật Bản tập trung vào việc chấp nhận sự vô thường và không hoàn hảo.
+
+- **Impermanence (Mujō)**: Vô thường; vẻ đẹp của những thứ thoáng qua và tàn phai
+- **Imperfection (Fukinsei)**: Bất toàn; vẻ đẹp của sự bất đối xứng và không hoàn hảo
+- **Incompleteness (Fukanzen)**: Bất trọn vẹn; vẻ đẹp của sự dở dang và quá trình
+- **Simplicity & Authenticity**: Đánh giá cao sự đơn giản, mộc mạc và chân thực
+
+→ **Liên kết:** TRANSCENDENCE (chấp nhận sự vô thường), CREATION (Aesthetic Principles)
+
+#### **38. Ikigai** - Lý Do Để Tồn Tại
+
+Một khái niệm của Nhật Bản về việc tìm kiếm điểm giao thoa giữa đam mê, sứ mệnh, nghề nghiệp và chuyên môn.
+
+- **Intersection Point**: Điểm giao thoa của "bạn yêu thích điều gì", "thế giới cần điều gì", "bạn được trả tiền cho việc gì", và "bạn giỏi việc gì"
+- **Source of Value & Meaning**: Nguồn gốc của giá trị và ý nghĩa trong cuộc sống
+- **Purpose Navigation**: Một công cụ để điều hướng và tìm kiếm mục đích sống
+- **Holistic Life Integration**: Tích hợp một cách toàn diện các khía cạnh khác nhau của cuộc sống
+
+→ **Liên kết:** NAVIGATION (North Star), INTEGRATION (Personal Integration)
+
+#### **39. Japanese Gardens** - Vườn Nhật Bản
+
+Nghệ thuật thiết kế vườn thiền.
+
+- **Zen Aesthetics**: Thẩm mỹ Thiền
+- **Natural Miniature**: Thiên nhiên thu nhỏ
+- **Contemplative Space**: Không gian chiêm ngưỡng
+- **Symbolic Landscape**: Cảnh quan biểu tượng
+
+→ **Liên kết:** CREATION (Landscape Design), FOUNDATIONS (Wabi-Sabi)
+
+### **Sacred Traditions & Mysticism - Truyền Thống Thiêng Liêng & Huyền Bí**
+
+#### **40. Sufi Wisdom** - Trí Tuệ Sufi
+
+Con đường huyền bí của Hồi giáo, tập trung vào tình yêu, sự tận hiến và sự hợp nhất trực tiếp với Thượng Đế.
+
+- **Annihilation of the Self (Fana)**: Sự tiêu diệt cái tôi
+- **The Beloved**: Thượng Đế như người yêu dấu
+- **The Heart as the Organ of Perception**: Trái tim là cơ quan của nhận thức
+- **Love as the Path**: Tình yêu là con đường
+
+→ **Liên kết:** TRANSCENDENCE (Unity Consciousness), INTEGRATION (Personal Integration)
+
+#### **41. Ahimsa - Bất Bạo Động** [Truyền Thống Hindu-Buddhist-Jain]
+
+Nguyên tắc cốt lõi trong Hindu-Buddhist-Jain về việc không làm hại đến bất kỳ sinh vật sống nào trong suy nghĩ, lời nói và hành động. Ahimsa không chỉ là một giá trị đạo đức mà là một CON ĐƯỜNG TÂM LINH - một phương tiện để giải thoát qua lòng từ bi và tình yêu thương phổ quát.
+
+- **Non-harming**: Không gây tổn hại - TIÊU CỰC (tránh làm hại)
+- **Universal Compassion**: Lòng từ bi phổ quát - TÍCH CỰC (chủ động yêu thương)
+- **Active Love**: Tình yêu thương chủ động - NĂNG ĐỘNG (hành động từ bi)
+- **Strength, not Weakness**: Sức mạnh, không yếu đuối - NHẬN THỨC (ahimsa = dũng cảm)
+
+→ **Liên kết nội bộ:** INTEGRATION (Personal Integration), DYNAMICS (Emotional Regulation)
+→ **Ứng dụng đạo đức:** Xem FOUNDATIONS #3 (Core Values & Ethics) cho nguyên tắc không làm hại trong bối cảnh đạo đức ứng dụng hiện đại
+→ **Ngữ cảnh lịch sử:**
+  • Jainism: Ahimsa là giá trị tối thượng
+  • Buddhism: Giới đầu tiên trong Ngũ Giới
+  • Hinduism: Một trong các Yamas (điều răn) trong Yoga Sutras
+  • Gandhi: Biến ahimsa thành vũ khí chính trị (Satyagraha)
+→ **Nguyên lý liên quan:** FOUNDATIONS #8 (Compassion - Từ bi), [META] LAYER (Ethical Frameworks)
+
+#### **42. The Golden Rule - Quy Tắc Vàng [Trí Tuệ Phổ Quát]**
 
 Nguyên tắc đạo đức phổ quát xuất hiện độc lập trong HẦU HẾT các nền văn hóa và tôn giáo lớn trên thế giới - minh chứng cho "Perennial Philosophy" (Triết Học Trường Tồn). Đây là nền tảng của mọi tương tác đạo đức giữa con người với con người.
 
@@ -2012,269 +2387,59 @@ Nguyên tắc đạo đức phổ quát xuất hiện độc lập trong HẦU H
   • FOUNDATIONS #8 (Compassion - Từ bi)
   • FOUNDATIONS #33 (The Perennial Philosophy - Triết Học Vĩnh Cửu [Nền Tảng Học Thuật])
 
-#### **10. Memento Mori** - Hãy Nhớ Rằng Ngươi Sẽ Chết
+#### **43. Tikkun Olam** - Sửa Chữa Thế Giới
 
-Thực hành suy ngẫm về cái chết để sống một cuộc đời có ý nghĩa và trọn vẹn hơn.
+Một khái niệm sâu sắc trong Do Thái giáo về trách nhiệm của con người trong việc sửa chữa và cải thiện thế giới. Đây là GIÁO LÝ TÂM LINH-ĐẠO ĐỨC về sứ mệnh con người, không chỉ là một phương pháp hay công cụ.
 
-- **Mortality Awareness**: Nhận thức về sự hữu hạn của đời người
-- **Priority Clarification**: Làm rõ các ưu tiên thực sự trong cuộc sống
-- **Urgency & Action**: Tạo ra sự khẩn trương để hành động và không trì hoãn
-- **Appreciation of the Present**: Trân trọng khoảnh khắc hiện tại
+- **Repairing the World**: Sửa chữa thế giới - trách nhiệm thiêng liêng
+- **Partnership with Creation**: Quan hệ đối tác với Đấng Sáng Tạo - con người như đồng tác giả của sáng tạo
+- **Social Justice as Spiritual Practice**: Công bằng xã hội như thực hành tâm linh - hành động vì công lý là con đường tu tập
+- **Restoring Wholeness**: Phục hồi sự toàn vẹn - chữa lành sự vỡ vụn
 
-→ **Liên kết:** NAVIGATION (Guiding Principles), OPERATIONS (Decision Frameworks)
+→ **Liên kết:** INTEGRATION (Systemic Integration), CREATION (Generative Systems)
+→ **Tác động khuếch đại:** Khi được sống, khái niệm này tự nhiên tạo ra AMPLIFICATION qua Sacred Activism (AMPLIFICATION #46), Community Art Practice (AMPLIFICATION #49), và Movement Building trong INTEGRATION
+→ **Khác biệt:** Đây là NGUYÊN TẮC SỐNG, không phải phương pháp khuếch đại
 
-#### **11. Kintsugi Philosophy** - Triết Lý Kintsugi
+#### **44. Via Negativa** - Con Đường Phủ Định
 
-Nghệ thuật sửa chữa đồ gốm vỡ bằng sơn mài trộn với vàng, tôn vinh lịch sử và sự không hoàn hảo.
+NGUYÊN LÝ TRI THỨC LUẬN cơ bản: Đạt được hiểu biết chân thực bằng cách loại bỏ những gì SAI LẦM, thay vì cố gắng thêm vào những gì được cho là đúng. Đây là PHƯƠNG PHÁP TƯ DUY nền tảng xuất phát từ thần học phủ định (apophatic theology) - tiếp cận Thượng Đế bằng cách nói những gì Ngài KHÔNG PHẢI.
 
-- **Embracing Imperfection**: Ôm lấy những vết sẹo và sự không hoàn hảo như một phần của vẻ đẹp
-- **History as Beauty**: Xem lịch sử và những tổn thương là một phần làm nên giá trị, không phải để che giấu
-- **Resilience Made Visible**: Khả năng phục hồi được làm cho hữu hình và đẹp đẽ
-- **Antifragile Aesthetics**: Một thẩm mỹ phản mỏng manh, nơi những gì bị phá vỡ trở nên mạnh mẽ và đẹp hơn
+- **Knowledge by Subtraction**: Tri thức qua LOẠI TRỪ - phép trừ thay vì cộng
+- **Robustness**: Những gì TỒN TẠI sau phủ định là vững chắc hơn
+- **Simplicity & Clarity**: Bản chất lộ ra qua việc BỚT ĐI
+- **Avoiding Harm**: Tránh ngu ngốc quan trọng hơn cố gắng thông minh
 
-→ **Liên kết:** DYNAMICS (Transformation Dynamics), VALIDATION (coi lỗi lầm là giá trị)
+→ **Liên kết nội bộ:** OPERATIONS (Analytical Razors), FOUNDATIONS (First Principles)
+→ **Ứng dụng vượt thoát:** TRANSCENDENCE #6 (công cụ giải quyết nghịch lý)
+→ **Ứng dụng thực hành:**
+  • NAVIGATION #10 (Apophatic Navigation - điều hướng bằng tránh)
+  • VALIDATION #9 (Inversion Strategy - chiến lược đảo ngược)
+  • FOUNDATIONS #42 (Negative Space - không gian âm)
+  • CREATION #29 (Negative Space Thinking - tư duy không gian âm)
 
-#### **12. Wabi-Sabi** - Vẻ Đẹp của Sự Không Hoàn Hảo
+#### **45. Ein Sof** - Vô Hạn (Kabbalah)
 
-Thẩm mỹ và thế giới quan của Nhật Bản tập trung vào việc chấp nhận sự vô thường và không hoàn hảo.
+Thượng Đế vô hạn và không thể nắm bắt trong Kabbalah.
 
-- **Impermanence (Mujō)**: Vô thường; vẻ đẹp của những thứ thoáng qua và tàn phai
-- **Imperfection (Fukinsei)**: Bất toàn; vẻ đẹp của sự bất đối xứng và không hoàn hảo
-- **Incompleteness (Fukanzen)**: Bất trọn vẹn; vẻ đẹp của sự dở dang và quá trình
-- **Simplicity & Authenticity**: Đánh giá cao sự đơn giản, mộc mạc và chân thực
+- **Infinite Godhead**: Thần tính vô hạn
+- **Beyond Comprehension**: Vượt khỏi nhận thức
+- **Source of Emanation**: Nguồn của sự phát xuất
+- **Hidden Essence**: Bản chất ẩn giấu
 
-→ **Liên kết:** TRANSCENDENCE (chấp nhận sự vô thường), CREATION (Aesthetic Principles)
+→ **Liên kết:** TRANSCENDENCE (Mystical Traditions), FOUNDATIONS (The Absolute)
 
-#### **13. Ikigai** - Lý Do Để Tồn Tại
+#### **46. Ma'at** - Ma'at (Ai Cập)
 
-Một khái niệm của Nhật Bản về việc tìm kiếm điểm giao thoa giữa đam mê, sứ mệnh, nghề nghiệp và chuyên môn.
+Nguyên lý trật tự, chân lý và hài hòa trong văn hóa Ai Cập cổ.
 
-- **Intersection Point**: Điểm giao thoa của "bạn yêu thích điều gì", "thế giới cần điều gì", "bạn được trả tiền cho việc gì", và "bạn giỏi việc gì"
-- **Source of Value & Meaning**: Nguồn gốc của giá trị và ý nghĩa trong cuộc sống
-- **Purpose Navigation**: Một công cụ để điều hướng và tìm kiếm mục đích sống
-- **Holistic Life Integration**: Tích hợp một cách toàn diện các khía cạnh khác nhau của cuộc sống
+- **Cosmic Order**: Trật tự vũ trụ
+- **Truth & Justice**: Chân lý và công lý
+- **Balance**: Cân bằng
+- **Harmony**: Hài hòa
 
-→ **Liên kết:** NAVIGATION (North Star), INTEGRATION (Personal Integration)
+→ **Liên kết:** FOUNDATIONS (Core Values), INTEGRATION (Cosmic Harmony)
 
-#### **14. Advaita Vedanta** - Bất Nhị Vedanta
-
-Trường phái triết học Ấn Độ cho rằng bản ngã cá nhân (Atman) và thực tại tối hậu (Brahman) là một.
-
-- **Atman is Brahman**: Tiểu ngã chính là Đại ngã
-- **Maya (Illusion of Separation)**: Ảo tưởng về sự tách biệt và thế giới hiện tượng
-- **Witness Consciousness**: Ý thức chứng kiến là con đường để nhận ra bản chất thực sự
-- **Ultimate Unity**: Sự thống nhất tối hậu là chân lý duy nhất
-
-→ **Liên kết:** TRANSCENDENCE (Non-dual Awareness, Unity Consciousness)
-
-#### **15. Karma Yoga** - Yoga Hành Động
-
-Con đường tâm linh thông qua hành động vị tha, không dính mắc vào kết quả.
-
-- **Action without Attachment**: Hành động mà không dính mắc vào thành quả của hành động
-- **Duty for Duty's Sake (Dharma)**: Thực hiện nghĩa vụ vì đó là nghĩa vụ, không vì phần thưởng
-- **Offering of Actions**: Dâng hiến mọi hành động cho một mục đích cao cả hơn
-- **Spiritual Practice in Daily Life**: Biến cuộc sống hàng ngày thành một thực hành tâm linh
-
-→ **Liên kết:** OPERATIONS (Decision Frameworks), DYNAMICS (State Management)
-
-#### **16. Ahimsa - Bất Bạo Động** [Truyền Thống Hindu-Buddhist-Jain]
-
-Nguyên tắc cốt lõi trong Hindu-Buddhist-Jain về việc không làm hại đến bất kỳ sinh vật sống nào trong suy nghĩ, lời nói và hành động. Ahimsa không chỉ là một giá trị đạo đức mà là một CON ĐƯỜNG TÂM LINH - một phương tiện để giải thoát qua lòng từ bi và tình yêu thương phổ quát.
-
-- **Non-harming**: Không gây tổn hại - TIÊU CỰC (tránh làm hại)
-- **Universal Compassion**: Lòng từ bi phổ quát - TÍCH CỰC (chủ động yêu thương)
-- **Active Love**: Tình yêu thương chủ động - NĂNG ĐỘNG (hành động từ bi)
-- **Strength, not Weakness**: Sức mạnh, không yếu đuối - NHẬN THỨC (ahimsa = dũng cảm)
-
-→ **Liên kết nội bộ:** INTEGRATION (Personal Integration), DYNAMICS (Emotional Regulation)
-→ **Ứng dụng đạo đức:** Xem FOUNDATIONS #3 (Core Values & Ethics) cho nguyên tắc không làm hại trong bối cảnh đạo đức ứng dụng hiện đại
-→ **Ngữ cảnh lịch sử:**
-  • Jainism: Ahimsa là giá trị tối thượng
-  • Buddhism: Giới đầu tiên trong Ngũ Giới
-  • Hinduism: Một trong các Yamas (điều răn) trong Yoga Sutras
-  • Gandhi: Biến ahimsa thành vũ khí chính trị (Satyagraha)
-→ **Nguyên lý liên quan:** FOUNDATIONS #8 (Compassion - Từ bi), [META] LAYER (Ethical Frameworks)
-
-#### **17. Existentialism** - Chủ Nghĩa Hiện Sinh
-
-Triết lý nhấn mạnh sự tự do, trách nhiệm và việc tìm kiếm ý nghĩa trong một thế giới vô nghĩa.
-
-- **Existence Precedes Essence**: Sự tồn tại đi trước bản chất; con người tự định nghĩa bản thân qua hành động
-- **Radical Freedom & Responsibility**: Tự do triệt để đi kèm với trách nhiệm to lớn
-- **Meaning Creation**: Con người có nhiệm vụ tạo ra ý nghĩa cho chính mình
-- **Authenticity**: Sống một cuộc đời chân thực, phù hợp với các giá trị tự mình lựa chọn
-
-→ **Liên kết:** CREATION (Generative Systems), NAVIGATION (Guiding Principles)
-
-#### **18. Pragmatism** - Chủ Nghĩa Thực Dụng
-
-Triết lý đánh giá các lý thuyết hoặc niềm tin dựa trên sự thành công của ứng dụng thực tế của chúng.
-
-- **Truth is what works**: Chân lý là những gì hoạt động hiệu quả
-- **Practical Consequences**: Tập trung vào các hệ quả thực tế
-- **Experimental Attitude**: Thái độ thực nghiệm đối với cuộc sống và tri thức
-- **Instrumentalism**: Xem các ý tưởng như những công cụ để giải quyết vấn đề
-
-→ **Liên kết:** VALIDATION (Empirical Validation), OPERATIONS (Decision Frameworks)
-
-#### **19. Seven Generation Stewardship** - Quản Trị Bảy Thế Hệ
-
-Nguyên tắc của người Iroquois về việc đưa ra quyết định dựa trên tác động của chúng đối với bảy thế hệ tương lai.
-
-- **Long-Term Thinking**: Tư duy dài hạn ở quy mô nhiều thế hệ
-- **Intergenerational Responsibility**: Trách nhiệm liên thế hệ
-- **Ecological Wisdom**: Trí tuệ sinh thái
-- **Legacy Awareness**: Nhận thức về di sản để lại
-
-→ **Liên kết:** NAVIGATION (Strategic Wayfinding), DYNAMICS (System Dynamics)
-
-#### **20. The Hero's Journey** - Hành Trình Của Người Hùng
-
-Một mẫu hình câu chuyện phổ quát được tìm thấy trong các huyền thoại, liên quan đến một người hùng dấn thân vào một cuộc phiêu lưu, chiến thắng khủng hoảng và trở về với sự thay đổi.
-
-- **Departure - Initiation - Return**: Rời đi - Khai tâm - Trở về; cấu trúc ba hồi cơ bản
-- **Archetypal Pattern**: Một mẫu hình nguyên mẫu của sự chuyển hóa cá nhân
-- **Facing the Shadow**: Đối mặt với bóng tối và những thử thách
-- **Transformation & Reintegration**: Quá trình chuyển hóa và tái hòa nhập với cộng đồng
-
-→ **Liên kết:** DYNAMICS (Transformation Dynamics), INTEGRATION (Personal Integration)
-
-#### **21. Confucian Ethics** - Đạo Đức Nho Giáo
-
-Hệ thống đạo đức tập trung vào việc tu dưỡng cá nhân, sự hài hòa xã hội và các mối quan hệ đúng đắn.
-
-- **Ren (Nhân)**: Lòng nhân ái, lòng trắc ẩn
-- **Yi (Nghĩa)**: Sự công chính, chính trực
-- **Li (Lễ)**: Các nghi lễ, quy tắc ứng xử xã hội
-- **Filial Piety (Hiếu)**: Lòng hiếu thảo, sự tôn trọng đối với cha mẹ và tổ tiên
-
-→ **Liên kết:** INTEGRATION (Systemic Integration), [META] LAYER (Ethical Frameworks)
-
-#### **22. Platonic Forms** - Ý Niệm (Kiểu Plato)
-
-Lý thuyết cho rằng thế giới vật chất không phải là thế giới thực, mà chỉ là bản sao hoặc cái bóng của thế giới ý niệm trừu tượng, hoàn hảo và bất biến.
-
-- **World of Being vs. World of Becoming**: Thế giới của sự tồn tại (ý niệm) vs. Thế giới của sự hình thành (vật chất)
-- **Abstract Reality**: Thực tại trừu tượng là thực tại tối hậu
-- **Allegory of the Cave**: Dụ ngôn về cái hang, minh họa cho hành trình từ vô minh đến giác ngộ
-- **Foundation of Western Metaphysics**: Nền tảng của siêu hình học phương Tây
-
-→ **Liên kết:** TRANSCENDENCE (Ultimate Principles), [META] LAYER (Meta-Structures)
-
-#### **23. Pyrrhonian Skepticism** - Chủ Nghĩa Hoài Nghi (Kiểu Pyrrho)
-
-Triết lý cho rằng nên đình chỉ phán xét (epoché) về những vấn đề không rõ ràng để đạt được sự bình thản (ataraxia).
-
-- **Suspension of Judgment (Epoché)**: Đình chỉ phán xét
-- **Equipollence**: Sự ngang bằng của các lập luận đối lập
-- **Quietude (Ataraxia)**: Mục tiêu là sự bình thản, không bị xáo trộn
-- **Continuous Inquiry**: Tiếp tục tra vấn mà không đi đến một kết luận chắc chắn
-
-→ **Liên kết:** VALIDATION (Adversarial Testing), [META] LAYER (Intellectual Humility)
-
-#### **24. The Four Noble Truths** - Tứ Diệu Đế
-
-Bốn chân lý cốt lõi của Phật giáo, mô tả bản chất của khổ đau và con đường giải thoát.
-
-- **The Truth of Suffering (Dukkha)**: Chân lý về sự khổ
-- **The Truth of the Origin of Suffering (Samudāya)**: Chân lý về nguyên nhân của sự khổ
-- **The Truth of the Cessation of Suffering (Nirodha)**: Chân lý về sự diệt khổ
-- **The Truth of the Path to the Cessation of Suffering (Magga)**: Chân lý về con đường dẫn đến sự diệt khổ
-
-→ **Liên kết:** OPERATIONS (Root Cause Analysis), NAVIGATION (Waypoint System)
-
-#### **25. The Eightfold Path** - Bát Chánh Đạo
-
-Con đường thực hành của Phật giáo để chấm dứt khổ đau, bao gồm tám yếu tố.
-
-- **Wisdom (Prajñā)**: Trí tuệ (Chánh kiến, Chánh tư duy)
-- **Ethical Conduct (Śīla)**: Đạo đức (Chánh ngữ, Chánh nghiệp, Chánh mạng)
-- **Mental Discipline (Samādhi)**: Thiền định (Chánh tinh tấn, Chánh niệm, Chánh định)
-- **Integrated Practice**: Một thực hành tích hợp, không phải là các bước tuần tự
-
-→ **Liên kết:** INTEGRATION (Integral Life Practice), [META] LAYER (Meta-Cognition)
-
-#### **26. Bodhisattva Ideal** - Lý Tưởng Bồ Tát
-
-Hình mẫu giác ngộ trong Phật giáo Đại thừa, người trì hoãn Niết bàn của chính mình để cứu độ tất cả chúng sinh.
-
-- **Great Compassion (Mahākaruṇā)**: Lòng đại bi
-- **Enlightenment for All Beings**: Giác ngộ vì lợi ích của tất cả chúng sinh
-- **Skillful Means (Upāya)**: Phương tiện thiện xảo để giúp đỡ người khác
-- **Selfless Service**: Phụng sự vị tha
-
-→ **Liên kết:** TRANSCENDENCE (Unity Consciousness), AMPLIFICATION (Collective Uplift)
-
-#### **27. The Categorical Imperative** - Mệnh Lệnh Tuyệt Đối (Kant)
-
-Nguyên tắc đạo đức tối cao cho rằng nên hành động theo một quy tắc mà bạn có thể muốn nó trở thành một quy luật phổ quát.
-
-- **Universalizability Principle**: Nguyên tắc phổ quát hóa
-- **Humanity as an End**: Đối xử với con người như một mục đích, không bao giờ chỉ như một phương tiện
-- **Duty-Based Ethics**: Đạo đức dựa trên nghĩa vụ
-- **Rational Moral Law**: Quy luật đạo đức có thể được suy ra từ lý trí
-
-→ **Liên kết:** [META] LAYER (Axiomatic Systems), OPERATIONS (Reasoning Architectures)
-
-#### **28. Utilitarianism** - Chủ Nghĩa Vị Lợi
-
-Thuyết đạo đức cho rằng hành động đúng đắn là hành động tối đa hóa hạnh phúc hoặc sự hữu dụng cho số đông người nhất.
-
-- **Greatest Good for the Greatest Number**: Lợi ích lớn nhất cho số đông người nhất
-- **Consequence-Based Ethics**: Đạo đức dựa trên hậu quả
-- **Utility Maximization**: Tối đa hóa sự hữu dụng
-- **Hedonic Calculus**: Một phép tính (giả định) để đo lường khoái lạc và đau khổ
-
-→ **Liên kết:** OPERATIONS (Decision Frameworks), AMPLIFICATION (Systemic Impact)
-
-#### **29. Amor Fati** - Yêu Thương Định Mệnh
-
-Thái độ chấp nhận và yêu thương mọi thứ xảy ra trong cuộc đời mình, cả tốt lẫn xấu, như một điều cần thiết.
-
-- **Fateful Acceptance**: Chấp nhận định mệnh
-- **Embracing All of Life**: Ôm lấy tất cả cuộc sống, không chỉ những phần tốt đẹp
-- **No Regrets**: Không hối tiếc
-- **Affirmation of Existence**: Sự khẳng định sự tồn tại một cách trọn vẹn
-
-→ **Liên kết:** DYNAMICS (Transformation Dynamics), TRANSCENDENCE (Paradox Mastery)
-
-#### **30. The Veil of Ignorance** - Bức Màn Vô Tri (Rawls)
-
-Thí nghiệm tư duy nổi tiếng của John Rawls về công lý xã hội: thiết kế các nguyên tắc cho một xã hội công bằng từ "vị trí ban đầu" mà ở đó chúng ta không biết vị trí, tài năng hay hoàn cảnh của mình sẽ như thế nào. Đây là một trong những tư tưởng có ảnh hưởng nhất trong triết học chính trị đương đại về công lý và công bằng xã hội.
-
-- **Original Position**: Vị trí ban đầu - đứng sau "bức màn vô tri"
-- **Justice as Fairness**: Công lý như là sự công bằng
-- **Impartial Decision-Making**: Ra quyết định hoàn toàn vô tư
-- **Protecting the Least Advantaged**: Bảo vệ người yếu thế nhất (Difference Principle)
-
-→ **Liên kết:** [META] LAYER (Thought Experiments), INTEGRATION (Systemic Integration)
-→ **Ứng dụng thực hành:** CORE VALUES & ETHICS (Justice #12, Fairness principles)
-→ **Nguồn gốc:** "A Theory of Justice" (1971) - tác phẩm đột phá của triết học thế kỷ 20
-
-#### **31. I and Thou** - Tôi và Ngươi (Buber)
-
-Triết lý về mối quan hệ, phân biệt giữa việc đối xử với người khác như một đối tượng (I-It) và việc gặp gỡ họ trong một mối quan hệ chân thực (I-Thou).
-
-- **I-It vs. I-Thou Relation**: Mối quan hệ Tôi-Nó vs. Tôi-Ngươi
-- **Authentic Encounter**: Cuộc gặp gỡ chân thực
-- **Relational Reality**: Thực tại mang tính quan hệ
-- **Presence and Mutuality**: Sự hiện diện và tính tương hỗ
-
-→ **Liên kết:** INTEGRATION (Personal Integration), AMPLIFICATION (Community Dynamics)
-
-#### **32. Synchronicity** - Sự Đồng Thời Tính (Jung)
-
-Sự trùng hợp có ý nghĩa của các sự kiện bên ngoài và các trạng thái tâm lý bên trong, không có mối liên hệ nhân quả rõ ràng.
-
-- **Meaningful Coincidence**: Sự trùng hợp có ý nghĩa
-- **Acausal Connecting Principle**: Nguyên tắc kết nối phi nhân quả
-- **Outer and Inner Alignment**: Sự thẳng hàng giữa bên ngoài và bên trong
-- **Guidance from the Unconscious**: Sự dẫn dắt từ vô thức
-
-→ **Liên kết:** DYNAMICS (System Dynamics), NAVIGATION (Intuitive Wayfinding)
-
-#### **33. The Perennial Philosophy** - Triết Học Vĩnh Cửu [Nền Tảng Học Thuật]
+#### **47. The Perennial Philosophy** - Triết Học Vĩnh Cửu [Nền Tảng Học Thuật]
 
 Học thuyết cho rằng tất cả các truyền thống tâm linh vĩ đại trên thế giới đều chia sẻ một chân lý hoặc nguồn gốc siêu hình chung. Đây là KHUNG LÝ THUYẾT, NỀN TẢNG TRÍ THỨC giúp ta HIỂU BIẾT về sự thống nhất cốt lõi của các truyền thống.
 
@@ -2290,7 +2455,53 @@ Học thuyết cho rằng tất cả các truyền thống tâm linh vĩ đại 
 
 📚 **Đây là về BIẾT - studying the map**
 
-#### **34. The Art of War Wisdom** - Trí Tuệ Binh Pháp Tôn Tử
+### **Universal Patterns & Archetypes - Trí Tuệ Nguyên Mẫu & Mẫu Hình Phổ Quát**
+
+#### **48. The Hero's Journey** - Hành Trình Của Người Hùng
+
+Một mẫu hình câu chuyện phổ quát được tìm thấy trong các huyền thoại, liên quan đến một người hùng dấn thân vào một cuộc phiêu lưu, chiến thắng khủng hoảng và trở về với sự thay đổi.
+
+- **Departure - Initiation - Return**: Rời đi - Khai tâm - Trở về; cấu trúc ba hồi cơ bản
+- **Archetypal Pattern**: Một mẫu hình nguyên mẫu của sự chuyển hóa cá nhân
+- **Facing the Shadow**: Đối mặt với bóng tối và những thử thách
+- **Transformation & Reintegration**: Quá trình chuyển hóa và tái hòa nhập với cộng đồng
+
+→ **Liên kết:** DYNAMICS (Transformation Dynamics), INTEGRATION (Personal Integration)
+
+#### **49. Synchronicity** - Sự Đồng Thời Tính (Jung)
+
+Sự trùng hợp có ý nghĩa của các sự kiện bên ngoài và các trạng thái tâm lý bên trong, không có mối liên hệ nhân quả rõ ràng.
+
+- **Meaningful Coincidence**: Sự trùng hợp có ý nghĩa
+- **Acausal Connecting Principle**: Nguyên tắc kết nối phi nhân quả
+- **Outer and Inner Alignment**: Sự thẳng hàng giữa bên ngoài và bên trong
+- **Guidance from the Unconscious**: Sự dẫn dắt từ vô thức
+
+→ **Liên kết:** DYNAMICS (System Dynamics), NAVIGATION (Intuitive Wayfinding)
+
+#### **50. Seven Generation Stewardship** - Quản Trị Bảy Thế Hệ
+
+Nguyên tắc của người Iroquois về việc đưa ra quyết định dựa trên tác động của chúng đối với bảy thế hệ tương lai.
+
+- **Long-Term Thinking**: Tư duy dài hạn ở quy mô nhiều thế hệ
+- **Intergenerational Responsibility**: Trách nhiệm liên thế hệ
+- **Ecological Wisdom**: Trí tuệ sinh thái
+- **Legacy Awareness**: Nhận thức về di sản để lại
+
+→ **Liên kết:** NAVIGATION (Strategic Wayfinding), DYNAMICS (System Dynamics)
+
+#### **51. Memento Mori** - Hãy Nhớ Rằng Ngươi Sẽ Chết
+
+Thực hành suy ngẫm về cái chết để sống một cuộc đời có ý nghĩa và trọn vẹn hơn.
+
+- **Mortality Awareness**: Nhận thức về sự hữu hạn của đời người
+- **Priority Clarification**: Làm rõ các ưu tiên thực sự trong cuộc sống
+- **Urgency & Action**: Tạo ra sự khẩn trương để hành động và không trì hoãn
+- **Appreciation of the Present**: Trân trọng khoảnh khắc hiện tại
+
+→ **Liên kết:** NAVIGATION (Guiding Principles), OPERATIONS (Decision Frameworks)
+
+#### **52. The Art of War Wisdom** - Trí Tuệ Binh Pháp Tôn Tử
 
 Các nguyên lý chiến lược không chỉ áp dụng cho chiến tranh mà còn cho kinh doanh và cuộc sống, nhấn mạnh sự chuẩn bị, sự lừa dối và chiến thắng mà không cần giao chiến.
 
@@ -2301,53 +2512,7 @@ Các nguyên lý chiến lược không chỉ áp dụng cho chiến tranh mà c
 
 → **Liên kết:** NAVIGATION (Strategic Wayfinding), OPERATIONS (Game Theory)
 
-#### **35. Tikkun Olam** - Sửa Chữa Thế Giới
-
-Một khái niệm sâu sắc trong Do Thái giáo về trách nhiệm của con người trong việc sửa chữa và cải thiện thế giới. Đây là GIÁO LÝ TÂM LINH-ĐẠO ĐỨC về sứ mệnh con người, không chỉ là một phương pháp hay công cụ.
-
-- **Repairing the World**: Sửa chữa thế giới - trách nhiệm thiêng liêng
-- **Partnership with Creation**: Quan hệ đối tác với Đấng Sáng Tạo - con người như đồng tác giả của sáng tạo
-- **Social Justice as Spiritual Practice**: Công bằng xã hội như thực hành tâm linh - hành động vì công lý là con đường tu tập
-- **Restoring Wholeness**: Phục hồi sự toàn vẹn - chữa lành sự vỡ vụn
-
-→ **Liên kết:** INTEGRATION (Systemic Integration), CREATION (Generative Systems)
-→ **Tác động khuếch đại:** Khi được sống, khái niệm này tự nhiên tạo ra AMPLIFICATION qua Sacred Activism (AMPLIFICATION #46), Community Art Practice (AMPLIFICATION #49), và Movement Building trong INTEGRATION
-→ **Khác biệt:** Đây là NGUYÊN TẮC SỐNG, không phải phương pháp khuếch đại
-
-#### **36. Sufi Wisdom** - Trí Tuệ Sufi
-
-Con đường huyền bí của Hồi giáo, tập trung vào tình yêu, sự tận hiến và sự hợp nhất trực tiếp với Thượng Đế.
-
-- **Annihilation of the Self (Fana)**: Sự tiêu diệt cái tôi
-- **The Beloved**: Thượng Đế như người yêu dấu
-- **The Heart as the Organ of Perception**: Trái tim là cơ quan của nhận thức
-- **Love as the Path**: Tình yêu là con đường
-
-→ **Liên kết:** TRANSCENDENCE (Unity Consciousness), INTEGRATION (Personal Integration)
-
-#### **37. Humanism** - Chủ Nghĩa Nhân Văn
-
-Một thế giới quan tập trung vào giá trị, năng lực và sự tự quyết của con người, thường ưu tiên lý trí và khoa học hơn là giáo điều.
-
-- **Human Agency and Potential**: Năng lực và tiềm năng của con người
-- **Reason and Free Inquiry**: Lý trí và sự tra vấn tự do
-- **Secular Ethics**: Đạo đức thế tục
-- **Focus on the Here and Now**: Tập trung vào cuộc sống ở đây và bây giờ
-
-→ **Liên kết:** [META] LAYER (Cognitive Sovereignty), OPERATIONS (Scientific Reasoning)
-
-#### **38. The Trivium** - Tam Khoa
-
-Mô hình giáo dục cổ điển bao gồm ba nghệ thuật tự do cơ bản: Ngữ pháp, Logic, và Tu từ học.
-
-- **Grammar**: Ngữ pháp; kiến thức cơ bản và các quy tắc của một lĩnh vực
-- **Logic**: Logic; nghệ thuật suy luận và xây dựng các lập luận chặt chẽ
-- **Rhetoric**: Tu từ học; nghệ thuật giao tiếp và thuyết phục một cách hiệu quả
-- **Foundation of Learning**: Nền tảng của việc học tập và tư duy rõ ràng
-
-→ **Liên kết:** OPERATIONS (Reasoning Architectures), [META] LAYER (Meta-Learning)
-
-#### **39. Ubuntu** - Tinh Thần Cộng Đồng
+#### **53. Ubuntu** - Tinh Thần Cộng Đồng
 
 Triết lý châu Phi nhấn mạnh rằng "Tôi tồn tại bởi vì chúng ta tồn tại".
 
@@ -2358,7 +2523,7 @@ Triết lý châu Phi nhấn mạnh rằng "Tôi tồn tại bởi vì chúng ta
 
 → **Liên kết:** INTEGRATION (Systemic Integration), AMPLIFICATION (Community Dynamics)
 
-#### **40. Master Wisdom Tradition** - Truyền Thống Trí Tuệ Bậc Thầy
+#### **54. Master Wisdom Tradition** - Truyền Thống Trí Tuệ Bậc Thầy
 
 Khả năng tích hợp và hiện thân các nguyên lý từ tất cả các truyền thống một cách linh hoạt và phù hợp.
 
@@ -2369,22 +2534,9 @@ Khả năng tích hợp và hiện thân các nguyên lý từ tất cả các t
 
 → **Liên kết:** [META] LAYER (Wisdom Synthesis), TRANSCENDENCE (Living Wisdom)
 
----
 
-### **Các Nguyên Lý Thực Hành Bổ Sung**
 
-#### **41. Yin-Yang** - Âm-Dương
-
-Nguyên lý về sự tương tác của hai lực lượng đối lập và bổ sung.
-
-- **Dynamic Balance**: Cân bằng động giữa hai cực
-- **Mutual Arising**: Đồng sinh lẫn nhau
-- **Complementary Forces**: Các lực lượng bổ sung
-- **Cyclical Transformation**: Chuyển hóa tuần hoàn
-
-→ **Liên kết:** FOUNDATIONS (Duality & Unity), DYNAMICS (Polarity Management)
-
-#### **42. Negative Space** - Không Gian Âm
+#### **55. Negative Space** - Không Gian Âm
 
 Giá trị của sự trống rỗng và khoảng trống.
 
@@ -2395,139 +2547,9 @@ Giá trị của sự trống rỗng và khoảng trống.
 
 → **Liên kết:** CREATION (Design), FOUNDATIONS (Via Negativa)
 
-#### **43. Middle Way** - Trung Đạo
+### **Cultural Arts & Sacred Expression - Nghệ Thuật Văn Hóa & Biểu Đạt Thiêng Liêng**
 
-Con đường cân bằng giữa các thái cực.
-
-- **Avoiding Extremes**: Tránh các cực đoan
-- **Moderation**: Sự điều độ
-- **Balanced Path**: Con đường cân bằng
-- **Practical Wisdom**: Trí tuệ thực tiễn
-
-→ **Liên kết:** FOUNDATIONS (Buddhist Principles), NAVIGATION (Strategic Balance)
-
-#### **44. Shoshin** - Tâm Người Mới Bắt Đầu
-
-Thái độ cởi mở, nhiệt tình như người mới học.
-
-- **Beginner's Mind**: Tâm người mới
-- **Openness**: Cởi mở không định kiến
-- **Fresh Perspective**: Góc nhìn mới mẻ
-- **Learning Attitude**: Thái độ học hỏi
-
-→ **Liên kết:** FOUNDATIONS (Zen Principles), [META] LAYER (Meta-Learning)
-
-#### **45. Brahman-Atman** - Phạm-Ngã
-
-Sự đồng nhất giữa bản ngã cá nhân và thực tại tối thượng.
-
-- **Self-Ultimate Unity**: Thống nhất giữa ngã và đại ngã
-- **Non-Dual Reality**: Thực tại bất nhị
-- **Consciousness is Brahman**: Ý thức là Brahman
-- **Liberation through Knowledge**: Giải thoát qua tri thức
-
-→ **Liên kết:** TRANSCENDENCE (Advaita Vedanta), FOUNDATIONS (Unity)
-
-#### **46. Ein Sof** - Vô Hạn (Kabbalah)
-
-Thượng Đế vô hạn và không thể nắm bắt trong Kabbalah.
-
-- **Infinite Godhead**: Thần tính vô hạn
-- **Beyond Comprehension**: Vượt khỏi nhận thức
-- **Source of Emanation**: Nguồn của sự phát xuất
-- **Hidden Essence**: Bản chất ẩn giấu
-
-→ **Liên kết:** TRANSCENDENCE (Mystical Traditions), FOUNDATIONS (The Absolute)
-
-#### **47. Ma'at** - Ma'at (Ai Cập)
-
-Nguyên lý trật tự, chân lý và hài hòa trong văn hóa Ai Cập cổ.
-
-- **Cosmic Order**: Trật tự vũ trụ
-- **Truth & Justice**: Chân lý và công lý
-- **Balance**: Cân bằng
-- **Harmony**: Hài hòa
-
-→ **Liên kết:** FOUNDATIONS (Core Values), INTEGRATION (Cosmic Harmony)
-
-#### **48. Shamatha** - Thiền Định Tĩnh Lặng
-
-Thiền định để phát triển sự an tĩnh và tập trung.
-
-- **Calm Abiding**: An trú tĩnh lặng
-- **Mental Stability**: Ổn định tâm trí
-- **Single-Pointed Focus**: Tập trung một điểm
-- **Concentration Practice**: Thực hành định tâm
-
-→ **Liên kết:** DYNAMICS (State Management), OPERATIONS (Focus Training)
-
-#### **49. Vipassana** - Thiền Quán
-
-Thiền định để phát triển trí tuệ sâu sắc và nhận thức.
-
-- **Insight Meditation**: Thiền quán sâu
-- **Direct Observation**: Quan sát trực tiếp
-- **Impermanence Awareness**: Nhận thức vô thường
-- **Wisdom Development**: Phát triển trí tuệ
-
-→ **Liên kết:** VALIDATION (Reality Testing), TRANSCENDENCE (Insight)
-
-#### **50. Zen Shikantaza** - Thiền Chỉ Là Ngồi
-
-Thiền định "chỉ là ngồi" không đối tượng.
-
-- **Just Sitting**: Chỉ là ngồi
-- **Objectless Meditation**: Thiền không đối tượng
-- **Pure Awareness**: Nhận thức thuần khiết
-- **Effortless Presence**: Hiện diện không gắng gượng
-
-→ **Liên kết:** FOUNDATIONS (Zen Principles), TRANSCENDENCE (Pure Consciousness)
-
-#### **51. Dzogchen Sky Gazing** - Thiền Dzogchen Nhìn Trời
-
-Thực hành thiền định nhìn vào bầu trời rộng mở.
-
-- **Sky-Like Mind**: Tâm như bầu trời
-- **Openness Practice**: Thực hành cởi mở
-- **Natural Awareness**: Nhận thức tự nhiên
-- **Primordial Purity**: Thanh tịnh nguyên sơ
-
-→ **Liên kết:** TRANSCENDENCE (Natural State), DYNAMICS (Spacious Awareness)
-
-#### **52. Atma Vichara** - Tự Vấn
-
-Phương pháp tự tra vấn "Ta là ai?".
-
-- **Self-Inquiry**: Tự tra vấn
-- **"Who am I?"**: "Ta là ai?"
-- **Direct Path**: Con đường trực tiếp
-- **Self-Realization**: Tự chứng ngộ
-
-→ **Liên kết:** TRANSCENDENCE (Self-Inquiry), [META] LAYER (Self-Awareness)
-
-#### **53. Ren (仁)** - Nhân
-
-Đức nhân ái, lòng trắc ẩn trong Nho giáo.
-
-- **Benevolence**: Lòng nhân từ
-- **Compassion**: Lòng trắc ẩn
-- **Human-Heartedness**: Tính nhân bản
-- **Social Virtue**: Đức hạnh xã hội
-
-→ **Liên kết:** FOUNDATIONS (Confucian Ethics), INTEGRATION (Social Harmony)
-
-#### **54. Li (禮)** - Lễ
-
-Các nghi lễ và quy tắc ứng xử trong Nho giáo.
-
-- **Ritual Propriety**: Nghi lễ đúng mực
-- **Social Harmony**: Hài hòa xã hội
-- **Cultural Forms**: Hình thức văn hóa
-- **Respectful Conduct**: Ứng xử tôn trọng
-
-→ **Liên kết:** FOUNDATIONS (Confucian Ethics), INTEGRATION (Social Order)
-
-#### **55. Islamic Gardens** - Vườn Hồi Giáo
+#### **56. Islamic Gardens** - Vườn Hồi Giáo
 
 Biểu tượng thiên đường trên trái đất.
 
@@ -2538,7 +2560,7 @@ Biểu tượng thiên đường trên trái đất.
 
 → **Liên kết:** CREATION (Sacred Architecture), INTEGRATION (Sacred Space)
 
-#### **56. Raga System** - Hệ Thống Raga
+#### **57. Raga System** - Hệ Thống Raga
 
 Các khung giai điệu trong âm nhạc cổ điển Ấn Độ.
 
@@ -2549,7 +2571,7 @@ Các khung giai điệu trong âm nhạc cổ điển Ấn Độ.
 
 → **Liên kết:** CREATION (Musical Composition), DYNAMICS (Emotional Expression)
 
-#### **57. Gamelan Orchestra** - Dàn Nhạc Gamelan
+#### **58. Gamelan Orchestra** - Dàn Nhạc Gamelan
 
 Ensemble âm nhạc truyền thống Indonesia.
 
@@ -2560,7 +2582,7 @@ Ensemble âm nhạc truyền thống Indonesia.
 
 → **Liên kết:** AMPLIFICATION (Collective Creation), INTEGRATION (Group Harmony)
 
-#### **58. Noh & Kabuki** - Noh và Kabuki
+#### **59. Noh & Kabuki** - Noh và Kabuki
 
 Các hình thức sân khấu truyền thống Nhật Bản.
 
@@ -2571,7 +2593,7 @@ Các hình thức sân khấu truyền thống Nhật Bản.
 
 → **Liên kết:** CREATION (Performance Art), INTEGRATION (Cultural Identity)
 
-#### **59. Indian Classical Dance** - Múa Cổ Điển Ấn Độ
+#### **60. Indian Classical Dance** - Múa Cổ Điển Ấn Độ
 
 Các hình thức múa thiêng liêng truyền thống Ấn Độ.
 
@@ -2582,16 +2604,7 @@ Các hình thức múa thiêng liêng truyền thống Ấn Độ.
 
 → **Liên kết:** CREATION (Performance), TRANSCENDENCE (Sacred Art)
 
-#### **60. Japanese Gardens** - Vườn Nhật Bản
-
-Nghệ thuật thiết kế vườn thiền.
-
-- **Zen Aesthetics**: Thẩm mỹ Thiền
-- **Natural Miniature**: Thiên nhiên thu nhỏ
-- **Contemplative Space**: Không gian chiêm ngưỡng
-- **Symbolic Landscape**: Cảnh quan biểu tượng
-
-→ **Liên kết:** CREATION (Landscape Design), FOUNDATIONS (Wabi-Sabi)
+### **Holistic Health & Natural Systems - Sức Khỏe Toàn Diện & Hệ Thống Tự Nhiên**
 
 #### **61. TCM (Traditional Chinese Medicine)** - Y Học Cổ Truyền Trung Hoa
 
@@ -2639,6 +2652,7 @@ Các đường năng lượng trong cơ thể.
 - **Meridian Network**: Mạng lưới kinh mạch
 
 → **Liên kết:** INTEGRATION (Energy Systems), FOUNDATIONS (Flow Patterns)
+
 
 ---
 
