@@ -2662,7 +2662,7 @@ Các đường năng lượng trong cơ thể.
 
 Học hỏi từ 3.8 tỷ năm nghiên cứu và phát triển của tự nhiên - các nguyên lý thiết kế, tối ưu hóa và tồn tại đã được kiểm chứng qua tiến hóa.
 
-### **Các Nguyên Lý Tự Nhiên và Mẫu Hình Bắt Chước Tự Nhiên Cốt lõi**
+### **Core Natural Principles - Nguyên Lý Tự Nhiên Cốt Lõi**
 
 #### **1. Đột Sinh & Tự Tổ Chức** - Emergence & Self-Organization
 
@@ -2784,6 +2784,8 @@ Khả năng của các hệ thống sống duy trì một trạng thái cân b�
 
 → **Liên kết:** DYNAMICS (Cybernetics), VALIDATION (Feedback Systems)
 
+### **Biomimicry Applications - Ứng Dụng Sinh Học Bắt Chước**
+
 #### **9. Adaptive Systems - Hệ Thống Thích Ứng [Nguyên Lý Sinh Học]**
 
 Mô phỏng khả năng của các HỆ SINH THÁI SỐNG trong việc học hỏi, thay đổi và tiến hóa để phản ứng với môi trường biến động. Đây là NGUYÊN LÝ TỰ NHIÊN được trích xuất từ 3.8 tỷ năm tiến hóa của sự sống trên Trái Đất - học từ cách tự nhiên thích nghi để sinh tồn và phát triển.
@@ -2883,7 +2885,7 @@ Thiết kế các vật liệu, cấu trúc hoặc hệ thống có khả năng 
 
 ---
 
-### **Nhóm Indigenous Wisdom & Natural Practices - Trí tuệ bản địa và thực hành tự nhiên**
+### **Indigenous Wisdom & Earth-Based Practices - Trí Tuệ Bản Địa & Thực Hành Gắn Với Đất**
 
 #### **15. Great Spirit Concepts** - Khái Niệm Đại Linh
 
@@ -2940,7 +2942,7 @@ Vườn để chiêm ngưỡng và trồng dược liệu.
 
 → **Liên kết:** INTEGRATION (Sacred Space), FOUNDATIONS (Natural Healing)
 
-### **Nhóm Craft & Material Culture - Thủ công & Văn hóa vật chất**
+### **Traditional Crafts & Material Arts - Thủ Công Truyền Thống & Nghệ Thuật Vật Liệu**
 
 #### **20. Ceramics & Pottery** - Gốm Sứ
 
@@ -3030,7 +3032,7 @@ Chuyển hóa thực phẩm qua vi sinh vật.
 
 → **Liên kết:** DYNAMICS (Transformation), FOUNDATIONS (Natural Processes)
 
-### **Nhóm Analytical Razors & Methods - Dao cạo và phương pháp phân tích**
+### **Analytical Methods & Knowledge Systems - Phương Pháp Phân Tích & Hệ Thống Tri Thức**
 
 #### **28. Newton's Razor** - Dao Cạo Newton
 
@@ -3065,7 +3067,7 @@ Khám phá giới hạn và điều chúng ta không biết.
 
 → **Liên kết:** FOUNDATIONS (Via Negativa), [META] LAYER (Epistemology)
 
-### **Nhóm Integration & Wisdom Research - Nghiên cứu hội nhập và trí tuệ**
+### **Wisdom Synthesis & Integration - Tổng Hợp & Tích Hợp Trí Tuệ**
 
 #### **31. Wisdom Synthesis** - Tổng Hợp Trí Tuệ [Kho Chứa Trí Tuệ]
 
@@ -3148,7 +3150,7 @@ Phát triển và truyền đạt trí tuệ qua tuổi tác.
 
 → **Liên kết:** INTEGRATION (Wisdom Transfer), NAVIGATION (Long-term Perspective)
 
-### **Nhóm Sacred Arts & Expression - Nghệ thuật thiêng liêng và biểu hiện**
+### **Sacred Arts & Creative Expression - Nghệ Thuật Thiêng Liêng & Biểu Đạt Sáng Tạo**
 
 #### **38. Sound Creation & Sacred Chanting** - Sáng Tạo Âm Thanh & Tụng Niệm
 
@@ -3257,7 +3259,7 @@ Truyền thống thi ca và ký ức.
 
 → **Liên kết:** CREATION (Poetry), AMPLIFICATION (Cultural Transmission)
 
-### **Nhóm Mystical & Transformative Practices - Thực hành thần bí và biến đổi**
+### **Mystical Practices & Transformative Experiences - Thực Hành Thần Bí & Trải Nghiệm Biến Đổi**
 
 #### **44. Via Mystica** - Con Đường Huyền Bí
 
@@ -3325,7 +3327,7 @@ Kinh nghiệm vượt khỏi giới hạn thông thường.
 
 → **Liên kết:** TRANSCENDENCE (Peak Experience), CREATION (Art Experience)
 
-### **Nhóm Physical & Performance Arts - Nghệ thuật Thể chất & Biểu diễn**
+### **Physical & Performance Arts - Nghệ Thuật Thể Chất & Biểu Diễn**
 
 #### **50. Acrobatics** - Nhào Lộn
 
