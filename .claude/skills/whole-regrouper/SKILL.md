@@ -5,13 +5,57 @@ description: |
   Use when: (1) Tái cấu trúc các nhóm khái niệm trong một chức năng,
   (2) Đặt tên mới cho các nhóm dựa trên phân tích nội dung,
   (3) Viết lại toàn bộ một CHỨC NĂNG với cấu trúc gom nhóm mới.
-version: 1.0.0
+version: 1.1.0
 ---
 
 # Whole Concept Regrouper
 
 ## Purpose
 Phân tích và gom nhóm lại các khái niệm trong từng CHỨC NĂNG để tạo cấu trúc logic và dễ hiểu hơn.
+
+## Workflow với Checkpoint (BẮT BUỘC)
+
+### BƯỚC 1: TÌM VỊ TRÍ
+```
+📍 CHECKPOINT 1: TÌM VỊ TRÍ
+- Grep để tìm CHỨC NĂNG trong Whole.md
+- Output: Dòng bắt đầu và kết thúc của CHỨC NĂNG
+```
+
+### BƯỚC 2: ĐỌC NỘI DUNG
+```
+📍 CHECKPOINT 2: ĐỌC NỘI DUNG
+- Đọc toàn bộ CHỨC NĂNG
+- Output: Danh sách tất cả khái niệm hiện có (tên + số thứ tự)
+```
+
+### BƯỚC 3: ĐỀ XUẤT GOM NHÓM
+```
+📍 CHECKPOINT 3: ĐỀ XUẤT GOM NHÓM
+- Phân tích và đề xuất cách gom nhóm
+- Output: Bảng phân nhóm mới
+  | Nhóm | Khái niệm thuộc nhóm |
+  |------|---------------------|
+  | [Tên Nhóm 1] | Concept A, Concept B |
+  | [Tên Nhóm 2] | Concept C, Concept D |
+
+⏸️ CHỜ USER XÁC NHẬN trước khi tiếp tục
+```
+
+### BƯỚC 4: VIẾT LẠI
+```
+📍 CHECKPOINT 4: VIẾT LẠI
+- Sau khi user xác nhận, viết lại toàn bộ CHỨC NĂNG
+- Output: Số lượng edit đã thực hiện
+```
+
+### BƯỚC 5: COMMIT & PUSH
+```
+📍 CHECKPOINT 5: COMMIT & PUSH
+- Commit với message mô tả
+- Push lên branch
+- Output: Commit hash
+```
 
 ## Cấu trúc output
 
@@ -50,15 +94,8 @@ Phân tích và gom nhóm lại các khái niệm trong từng CHỨC NĂNG đ�
 - Mô tả rõ nội dung chung của nhóm
 - Ngắn gọn, dễ hiểu
 
-## Workflow
-1. Đọc toàn bộ CHỨC NĂNG hiện tại
-2. Liệt kê tất cả khái niệm
-3. Phân tích và phân loại theo tiêu chí
-4. Đề xuất cấu trúc nhóm mới
-5. Viết lại toàn bộ CHỨC NĂNG với cấu trúc mới
-6. Đánh số lại khái niệm (1, 2, 3... liên tục)
-
 ## Lưu ý
 - **Giữ nguyên nội dung**: Chỉ thay đổi cấu trúc nhóm, không thay đổi nội dung khái niệm
 - **Giữ nguyên Tổng Quan**: Phần ### **Tổng Quan** không được thay đổi
 - **Đánh số liên tục**: Sau khi gom nhóm, đánh số lại từ 1 đến N
+- **CHỜ XÁC NHẬN**: Luôn chờ user xác nhận tại Checkpoint 3 trước khi viết lại
