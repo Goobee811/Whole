@@ -3376,7 +3376,11 @@ Miền này khám phá các quy trình, dòng chảy và các lực lượng t�
 
 Khả năng nhận diện và làm việc với các thuộc tính đột sinh - những gì xuất hiện từ sự tương tác phức tạp - và hiểu các trạng thái dòng chảy tối ưu trong tư duy và hành động.
 
-### **Các Khái Niệm Cốt Lõi (20 mục)**
+### **Các Khái Niệm Cốt Lõi (38 mục)**
+
+---
+
+### **Core Emergence Principles - Nguyên Lý Đột Sinh Cốt Lõi**
 
 #### **1. Emergence** - Đột Sinh
 
@@ -3389,18 +3393,7 @@ Hiện tượng các thuộc tính, hành vi hoặc cấu trúc mới xuất hi�
 
 → **Liên kết:** FOUNDATIONS (Emergence & Self-Organization), CREATION (Generative Systems)
 
-#### **2. Flow State** - Trạng Thái Dòng Chảy
-
-Trạng thái nhận thức tối ưu, nơi một người hoàn toàn hòa mình vào hoạt động với sự tập trung cao độ, năng suất cao và cảm giác thời gian thay đổi.
-
-- **Challenge-Skill Balance**: Cân bằng giữa độ khó của nhiệm vụ và kỹ năng cá nhân
-- **Clear Goals & Feedback**: Mục tiêu rõ ràng và phản hồi tức thời về tiến độ
-- **Merging of Action & Awareness**: Hành động và nhận thức hợp nhất thành một
-- **Timelessness & Effortlessness**: Cảm giác thời gian biến mất và công việc diễn ra tự nhiên
-
-→ **Liên kết:** OPERATIONS (Deliberate Practice), CREATION (Creative Flow)
-
-#### **3. Complexity** - Phức Tạp
+#### **2. Complexity** - Phức Tạp
 
 Thuộc tính của các hệ thống có nhiều thành phần tương tác theo những cách phi tuyến tính, tạo ra hành vi không thể dự đoán và các thuộc tính đột sinh.
 
@@ -3411,7 +3404,7 @@ Thuộc tính của các hệ thống có nhiều thành phần tương tác the
 
 → **Liên kết:** NAVIGATION (Complexity Navigation), OPERATIONS (Systems Thinking)
 
-#### **4. Self-Organization** - Tự Tổ Chức [Quá Trình & Dynamics]
+#### **3. Self-Organization** - Tự Tổ Chức [Quá Trình & Dynamics]
 
 Quá trình động lực học mà qua đó một hệ thống tự động tạo ra cấu trúc và
 trật tự từ sự tương tác cục bộ. Khác với nguyên lý nền tảng ở FOUNDATIONS,
@@ -3428,7 +3421,67 @@ thời gian thực - làm thế nào nó xảy ra, các giai đoạn, các patte
 → **Ứng dụng sáng tạo:** CREATION #38 (Self-Organization như công cụ thiết kế)
 → **Khác biệt:** FOUNDATIONS giải thích "TẠI SAO", DYNAMICS mô tả "NHƯ THẾ NÀO"
 
-#### **5. Edge of Chaos** - Bờ Rìa Hỗn Loạn
+#### **4. Dissipative Structures** - Cấu Trúc Tiêu Tán
+
+Các cấu trúc có trật tự xuất hiện và được duy trì trong các hệ thống xa cân bằng thông qua việc tiêu tán năng lượng.
+
+- **Far From Equilibrium**: Tồn tại xa trạng thái cân bằng nhiệt động
+- **Energy Flow Maintenance**: Cần dòng năng lượng liên tục để duy trì
+- **Spontaneous Organization**: Tự tổ chức tự phát từ hỗn loạn
+- **Entropy Export**: Xuất entropy ra môi trường để duy trì trật tự nội bộ
+
+→ **Liên kết:** FOUNDATIONS (Thermodynamics), INTEGRATION (Living Systems)
+
+#### **5. Autopoiesis** - Tự Tạo Sinh
+
+Khả năng của hệ thống sống TỰ TẠO RA và DUY TRÌ chính mình, liên tục tái tạo các thành phần cấu thành nó từ các quá trình nội tại. Đây là một dạng EMERGENCE đặc biệt - sự đột sinh của bản sắc và tính tự trị.
+
+- **Self-Production**: Tự sản xuất - hệ thống tạo ra chính các thành phần của mình
+- **Operational Closure**: Khép kín hoạt động - các quá trình tạo thành một mạng khép kín
+- **Identity Maintenance**: Duy trì bản sắc - giữ được "cái là gì" bất chấp thay đổi
+- **Autonomous Organization**: Tổ chức tự trị - tự quản lý mà không cần điều khiển ngoại lai
+- **Structural Coupling**: Ghép nối cấu trúc - tương tác với môi trường mà vẫn giữ tính khép kín
+
+→ **Liên kết:** INTEGRATION (Living Systems), TRANSCENDENCE (Self-Creation, Self-Reference)
+
+#### **6. Meta-Emergence** - Đột Sinh Bậc Cao
+
+Sự xuất hiện của các thuộc tính đột sinh từ các thuộc tính đột sinh khác - đột sinh của đột sinh.
+
+- **Higher-Order Properties**: Các thuộc tính bậc cao hơn
+- **Recursive Emergence**: Đột sinh đệ quy
+- **Complexity Layers**: Các lớp phức tạp
+- **Emergence Hierarchy**: Hệ thống phân cấp đột sinh
+
+→ **Liên kết:** [META] LAYER (Meta-Patterns), TRANSCENDENCE (Transcendent Properties)
+
+#### **7. Recombination Engine** - Động Cơ Tái Kết Hợp
+
+Cơ chế sáng tạo mới bằng cách kết hợp lại các yếu tố hiện có theo những cách mới.
+
+- **Combinatorial Innovation**: Đổi mới tổ hợp
+- **Element Mixing**: Trộn lẫn các yếu tố
+- **Novel Configurations**: Các cấu hình mới
+- **Creative Recombination**: Tái kết hợp sáng tạo
+
+→ **Liên kết:** CREATION (Innovation Methods), INTEGRATION (Synthesis)
+
+#### **8. Generative Systems** - Hệ Thống Sinh Tạo
+
+Các hệ thống có khả năng liên tục tạo ra các sản phẩm, mẫu hình hoặc hành vi mới.
+
+- **Continuous Production**: Sản xuất liên tục
+- **Self-Reproducing**: Tự sao chép
+- **Evolutionary Output**: Đầu ra tiến hóa
+- **Creative Engines**: Động cơ sáng tạo
+
+→ **Liên kết:** CREATION (Generative Design), AMPLIFICATION (Production Scaling)
+
+---
+
+### **Chaos & Criticality Dynamics - Động Lực Hỗn Loạn & Tới Hạn**
+
+#### **9. Edge of Chaos** - Bờ Rìa Hỗn Loạn
 
 Vùng chuyển tiếp giữa trật tự và hỗn loạn, nơi các hệ thống phức tạp có tính sáng tạo và khả năng thích ứng cao nhất.
 
@@ -3441,7 +3494,7 @@ Vùng chuyển tiếp giữa trật tự và hỗn loạn, nơi các hệ thốn
 
 → **Liên kết:** CREATION (Breakthrough Innovation, Innovation Zone), TRANSCENDENCE (Paradox Resolution, Paradox Space)
 
-#### **6. Strange Attractors** - Hấp Dẫn Kỳ Lạ
+#### **10. Strange Attractors** - Hấp Dẫn Kỳ Lạ
 
 Các mẫu hình phức tạp trong không gian pha mà các hệ thống hỗn loạn có xu hướng tiến tới và dao động xung quanh. Đây là khái niệm cốt lõi từ Chaos Theory để hiểu cách các hệ thống phức tạp tạo ra patterns ổn định trong sự hỗn loạn.
 
@@ -3465,7 +3518,7 @@ Các mẫu hình phức tạp trong không gian pha mà các hệ thống hỗn 
   • #2: Chaos Theory (framework tổng thể)
   • #5: Edge of Chaos (vùng tối ưu)
   • #7: Criticality (trạng thái tới hạn)
-#### **7. Criticality** - Trạng Thái Tới Hạn
+#### **11. Criticality** - Trạng Thái Tới Hạn
 
 Trạng thái của hệ thống ở điểm chuyển pha, nơi các thay đổi nhỏ có thể dẫn đến các phản ứng liên tục lớn (hiệu ứng domino).
 
@@ -3476,29 +3529,7 @@ Trạng thái của hệ thống ở điểm chuyển pha, nơi các thay đổi
 
 → **Liên kết:** AMPLIFICATION (Tipping Points), NAVIGATION (Risk Management)
 
-#### **8. Synchronization** - Đồng Bộ Hóa
-
-Hiện tượng các dao động hoặc chu kỳ độc lập tự động điều chỉnh để hoạt động cùng nhịp với nhau.
-
-- **Spontaneous Coordination**: Sự phối hợp tự phát không cần tín hiệu điều khiển
-- **Phase Locking**: Các dao động khóa pha với nhau
-- **Collective Rhythm**: Nhịp điệu tập thể xuất hiện từ tương tác cục bộ
-- **Emergent Harmony**: Sự hài hòa đột sinh từ sự đồng bộ
-
-→ **Liên kết:** INTEGRATION (Collective Intelligence), AMPLIFICATION (Network Effects)
-
-#### **9. Metastability** - Bán Ổn Định
-
-Trạng thái tương đối ổn định nhưng không phải trạng thái năng lượng thấp nhất, có thể chuyển sang trạng thái khác khi bị kích động.
-
-- **Temporary Stability**: Ổn định tạm thời chứ không phải vĩnh viễn
-- **Multiple Basins**: Nhiều trạng thái bán ổn định có thể tồn tại
-- **Transition Readiness**: Sẵn sàng chuyển đổi khi có đủ năng lượng kích hoạt
-- **Dynamic Equilibrium**: Cân bằng động có thể thay đổi
-
-→ **Liên kết:** DYNAMICS (Phase Transitions), NAVIGATION (Strategic Flexibility)
-
-#### **10. Nonlinearity** - Phi Tuyến Tính
+#### **12. Nonlinearity** - Phi Tuyến Tính
 
 Mối quan hệ trong đó đầu ra không tỷ lệ thuận với đầu vào, tạo ra các hiệu ứng bất ngờ và khó dự đoán.
 
@@ -3509,18 +3540,7 @@ Mối quan hệ trong đó đầu ra không tỷ lệ thuận với đầu vào,
 
 → **Liên kết:** AMPLIFICATION (Exponential Growth), VALIDATION (Sensitivity Analysis)
 
-#### **11. Coherence** - Tính Mạch Lạc
-
-Trạng thái trong đó các phần của một hệ thống hoạt động hài hòa và đồng bộ, tạo ra hiệu quả cao.
-
-- **Phase Alignment**: Các thành phần hoạt động cùng pha
-- **Constructive Interference**: Các hiệu ứng cộng hưởng tích cực
-- **System Integration**: Các phần được tích hợp chặt chẽ
-- **Optimal Performance**: Hiệu suất tối ưu từ sự hài hòa
-
-→ **Liên kết:** INTEGRATION (System Coherence), VALIDATION (Quality Assessment)
-
-#### **12. Turbulence** - Hỗn Loạn Dòng Chảy
+#### **13. Turbulence** - Hỗn Loạn Dòng Chảy
 
 Chế độ dòng chảy hỗn loạn với các xoáy ở nhiều quy mô, đại diện cho một dạng phức tạp khó kiểm soát nhưng đầy năng lượng.
 
@@ -3531,7 +3551,116 @@ Chế độ dòng chảy hỗn loạn với các xoáy ở nhiều quy mô, đ�
 
 → **Liên kết:** CREATION (Creative Chaos), OPERATIONS (Complexity Management)
 
-#### **13. Resonance** - Cộng Hưởng
+#### **14. Bifurcation** - Phân Nhánh
+
+Điểm trong không gian tham số nơi hành vi của hệ thống thay đổi định tính, thường dẫn đến sự xuất hiện của các trạng thái mới.
+
+- **Qualitative Change**: Thay đổi về chất, không chỉ về lượng
+- **Multiple Futures**: Một điểm phân nhánh mở ra nhiều tương lai có thể
+- **Instability Point**: Điểm bất ổn định trong sự phát triển
+- **New Attractor Emergence**: Các hấp dẫn tử mới xuất hiện
+
+→ **Liên kết:** NAVIGATION (Strategic Choice Points), CREATION (Breakthrough Moments)
+
+#### **15. Cascade Dynamics** - Động Lực Thác Nước
+
+Quá trình một sự kiện khởi đầu kích hoạt chuỗi sự kiện tiếp theo, trong đó mỗi sự kiện kích hoạt NHIỀU sự kiện hơn, tạo ra hiệu ứng lan truyền tầng thác qua nhiều cấp độ của hệ thống. Giống như hiệu ứng domino được khuếch đại - mỗi viên domino đổ hạ nhiều viên khác.
+
+- **Chain Reaction**: Phản ứng dây chuyền tự duy trì và tự khuếch đại
+- **Amplification Through Stages**: Khuếch đại qua từng giai đoạn lan truyền
+- **Multi-level Propagation**: Lan truyền qua nhiều cấp độ và tầng lớp hệ thống
+- **Information/Energy Cascade**: Thác thông tin hoặc năng lượng từ trên xuống
+- **Avalanche Effects**: Hiệu ứng tuyết lở - khối lượng tăng theo cấp số nhân
+- **Systemic Spread**: Sự lan tỏa có tính hệ thống, ảnh hưởng toàn diện
+
+→ **Liên kết:** AMPLIFICATION (Viral Dynamics, Cascade Effects, Avalanche Dynamics), VALIDATION (Risk Assessment, Risk Management)
+
+---
+
+### **System Stability & Transitions - Ổn Định & Chuyển Đổi Hệ Thống**
+
+#### **16. Metastability** - Bán Ổn Định
+
+Trạng thái tương đối ổn định nhưng không phải trạng thái năng lượng thấp nhất, có thể chuyển sang trạng thái khác khi bị kích động.
+
+- **Temporary Stability**: Ổn định tạm thời chứ không phải vĩnh viễn
+- **Multiple Basins**: Nhiều trạng thái bán ổn định có thể tồn tại
+- **Transition Readiness**: Sẵn sàng chuyển đổi khi có đủ năng lượng kích hoạt
+- **Dynamic Equilibrium**: Cân bằng động có thể thay đổi
+
+→ **Liên kết:** DYNAMICS (Phase Transitions), NAVIGATION (Strategic Flexibility)
+
+#### **17. Hysteresis** - Trễ Hồi
+
+Hiện tượng trạng thái hiện tại của hệ thống phụ thuộc vào lịch sử của nó, không chỉ vào điều kiện hiện tại.
+
+- **Path Dependence**: Đường đi quan trọng, không chỉ điểm đến
+- **Memory Effect**: Hệ thống "nhớ" trạng thái trước đó
+- **Different Forward/Backward Paths**: Đường đi tới và lui khác nhau
+- **Historical Lock-in**: Bị khóa trong các quyết định quá khứ
+
+→ **Liên kết:** OPERATIONS (Decision Making), VALIDATION (Historical Analysis)
+
+#### **18. Metastable Switching** - Chuyển Đổi Bán Ổn Định
+
+Khả năng chuyển đổi linh hoạt giữa các trạng thái bán ổn định khác nhau, cho phép thích ứng nhanh.
+
+- **Flexible State Transitions**: Chuyển đổi trạng thái linh hoạt
+- **Multiple Operating Modes**: Nhiều chế độ hoạt động có thể
+- **Context-Dependent Stability**: Ổn định phụ thuộc ngữ cảnh
+- **Adaptive Reconfiguration**: Tái cấu hình thích ứng
+
+→ **Liên kết:** NAVIGATION (Adaptive Strategy), OPERATIONS (Mode Switching)
+
+#### **19. Keystone Elements** - Các Yếu Tố Chìa Khóa
+
+Các thành phần quan trọng mà sự tồn tại của chúng ảnh hưởng không cân xứng đến toàn bộ hệ thống.
+
+- **Disproportionate Impact**: Tác động không cân xứng
+- **System Stability**: Ổn định hệ thống
+- **Critical Components**: Các thành phần tới hạn
+- **Leverage Points**: Điểm đòn bẩy
+
+→ **Liên kết:** OPERATIONS (Critical Path), NAVIGATION (Priority Identification)
+
+#### **20. Flywheel Effect** - Hiệu Ứng Bánh Đà
+
+Động lượng tích lũy theo thời gian, trong đó mỗi vòng quay thành công làm cho vòng tiếp theo dễ dàng hơn.
+
+- **Momentum Accumulation**: Tích lũy động lượng
+- **Self-Reinforcing Cycles**: Các chu kỳ tự củng cố
+- **Compounding Progress**: Tiến bộ gộp lại
+- **Sustainable Growth**: Tăng trưởng bền vững
+
+→ **Liên kết:** AMPLIFICATION (Positive Feedback), NAVIGATION (Long-term Strategy)
+
+---
+
+### **Synchronization & Harmony - Đồng Bộ & Hài Hòa**
+
+#### **21. Synchronization** - Đồng Bộ Hóa
+
+Hiện tượng các dao động hoặc chu kỳ độc lập tự động điều chỉnh để hoạt động cùng nhịp với nhau.
+
+- **Spontaneous Coordination**: Sự phối hợp tự phát không cần tín hiệu điều khiển
+- **Phase Locking**: Các dao động khóa pha với nhau
+- **Collective Rhythm**: Nhịp điệu tập thể xuất hiện từ tương tác cục bộ
+- **Emergent Harmony**: Sự hài hòa đột sinh từ sự đồng bộ
+
+→ **Liên kết:** INTEGRATION (Collective Intelligence), AMPLIFICATION (Network Effects)
+
+#### **22. Coherence** - Tính Mạch Lạc
+
+Trạng thái trong đó các phần của một hệ thống hoạt động hài hòa và đồng bộ, tạo ra hiệu quả cao.
+
+- **Phase Alignment**: Các thành phần hoạt động cùng pha
+- **Constructive Interference**: Các hiệu ứng cộng hưởng tích cực
+- **System Integration**: Các phần được tích hợp chặt chẽ
+- **Optimal Performance**: Hiệu suất tối ưu từ sự hài hòa
+
+→ **Liên kết:** INTEGRATION (System Coherence), VALIDATION (Quality Assessment)
+
+#### **23. Resonance** - Cộng Hưởng
 
 Hiện tượng một hệ thống dao động với biên độ lớn khi được kích thích ở tần số tự nhiên của nó.
 
@@ -3545,64 +3674,7 @@ Hiện tượng một hệ thống dao động với biên độ lớn khi đư�
 
 → **Liên kết:** AMPLIFICATION (Resonance Effects), INTEGRATION (Harmonic Integration)
 
-#### **14. Dissipative Structures** - Cấu Trúc Tiêu Tán
-
-Các cấu trúc có trật tự xuất hiện và được duy trì trong các hệ thống xa cân bằng thông qua việc tiêu tán năng lượng.
-
-- **Far From Equilibrium**: Tồn tại xa trạng thái cân bằng nhiệt động
-- **Energy Flow Maintenance**: Cần dòng năng lượng liên tục để duy trì
-- **Spontaneous Organization**: Tự tổ chức tự phát từ hỗn loạn
-- **Entropy Export**: Xuất entropy ra môi trường để duy trì trật tự nội bộ
-
-→ **Liên kết:** FOUNDATIONS (Thermodynamics), INTEGRATION (Living Systems)
-
-#### **15. Hysteresis** - Trễ Hồi
-
-Hiện tượng trạng thái hiện tại của hệ thống phụ thuộc vào lịch sử của nó, không chỉ vào điều kiện hiện tại.
-
-- **Path Dependence**: Đường đi quan trọng, không chỉ điểm đến
-- **Memory Effect**: Hệ thống "nhớ" trạng thái trước đó
-- **Different Forward/Backward Paths**: Đường đi tới và lui khác nhau
-- **Historical Lock-in**: Bị khóa trong các quyết định quá khứ
-
-→ **Liên kết:** OPERATIONS (Decision Making), VALIDATION (Historical Analysis)
-
-#### **16. Bifurcation** - Phân Nhánh
-
-Điểm trong không gian tham số nơi hành vi của hệ thống thay đổi định tính, thường dẫn đến sự xuất hiện của các trạng thái mới.
-
-- **Qualitative Change**: Thay đổi về chất, không chỉ về lượng
-- **Multiple Futures**: Một điểm phân nhánh mở ra nhiều tương lai có thể
-- **Instability Point**: Điểm bất ổn định trong sự phát triển
-- **New Attractor Emergence**: Các hấp dẫn tử mới xuất hiện
-
-→ **Liên kết:** NAVIGATION (Strategic Choice Points), CREATION (Breakthrough Moments)
-
-#### **17. Cascade Dynamics** - Động Lực Thác Nước
-
-Quá trình một sự kiện khởi đầu kích hoạt chuỗi sự kiện tiếp theo, trong đó mỗi sự kiện kích hoạt NHIỀU sự kiện hơn, tạo ra hiệu ứng lan truyền tầng thác qua nhiều cấp độ của hệ thống. Giống như hiệu ứng domino được khuếch đại - mỗi viên domino đổ hạ nhiều viên khác.
-
-- **Chain Reaction**: Phản ứng dây chuyền tự duy trì và tự khuếch đại
-- **Amplification Through Stages**: Khuếch đại qua từng giai đoạn lan truyền
-- **Multi-level Propagation**: Lan truyền qua nhiều cấp độ và tầng lớp hệ thống
-- **Information/Energy Cascade**: Thác thông tin hoặc năng lượng từ trên xuống
-- **Avalanche Effects**: Hiệu ứng tuyết lở - khối lượng tăng theo cấp số nhân
-- **Systemic Spread**: Sự lan tỏa có tính hệ thống, ảnh hưởng toàn diện
-
-→ **Liên kết:** AMPLIFICATION (Viral Dynamics, Cascade Effects, Avalanche Dynamics), VALIDATION (Risk Assessment, Risk Management)
-
-#### **18. Metastable Switching** - Chuyển Đổi Bán Ổn Định
-
-Khả năng chuyển đổi linh hoạt giữa các trạng thái bán ổn định khác nhau, cho phép thích ứng nhanh.
-
-- **Flexible State Transitions**: Chuyển đổi trạng thái linh hoạt
-- **Multiple Operating Modes**: Nhiều chế độ hoạt động có thể
-- **Context-Dependent Stability**: Ổn định phụ thuộc ngữ cảnh
-- **Adaptive Reconfiguration**: Tái cấu hình thích ứng
-
-→ **Liên kết:** NAVIGATION (Adaptive Strategy), OPERATIONS (Mode Switching)
-
-#### **19. Entrainment** - Cuốn Theo
+#### **24. Entrainment** - Cuốn Theo
 
 Quá trình các nhịp điệu hoặc chu kỳ độc lập tự động đồng bộ hóa với nhau thông qua tương tác.
 
@@ -3613,21 +3685,22 @@ Quá trình các nhịp điệu hoặc chu kỳ độc lập tự động đồn
 
 → **Liên kết:** INTEGRATION (Team Synchronization), AMPLIFICATION (Collective Momentum)
 
-#### **20. Autopoiesis** - Tự Tạo Sinh
+---
 
-Khả năng của hệ thống sống TỰ TẠO RA và DUY TRÌ chính mình, liên tục tái tạo các thành phần cấu thành nó từ các quá trình nội tại. Đây là một dạng EMERGENCE đặc biệt - sự đột sinh của bản sắc và tính tự trị.
+### **Flow States & Optimization - Trạng Thái Flow & Tối Ưu Hóa**
 
-- **Self-Production**: Tự sản xuất - hệ thống tạo ra chính các thành phần của mình
-- **Operational Closure**: Khép kín hoạt động - các quá trình tạo thành một mạng khép kín
-- **Identity Maintenance**: Duy trì bản sắc - giữ được "cái là gì" bất chấp thay đổi
-- **Autonomous Organization**: Tổ chức tự trị - tự quản lý mà không cần điều khiển ngoại lai
-- **Structural Coupling**: Ghép nối cấu trúc - tương tác với môi trường mà vẫn giữ tính khép kín
+#### **25. Flow State** - Trạng Thái Dòng Chảy
 
-→ **Liên kết:** INTEGRATION (Living Systems), TRANSCENDENCE (Self-Creation, Self-Reference)
+Trạng thái nhận thức tối ưu, nơi một người hoàn toàn hòa mình vào hoạt động với sự tập trung cao độ, năng suất cao và cảm giác thời gian thay đổi.
 
-### **Nhóm Bổ Sung: Flow Optimization (5 mục mới)**
+- **Challenge-Skill Balance**: Cân bằng giữa độ khó của nhiệm vụ và kỹ năng cá nhân
+- **Clear Goals & Feedback**: Mục tiêu rõ ràng và phản hồi tức thời về tiến độ
+- **Merging of Action & Awareness**: Hành động và nhận thức hợp nhất thành một
+- **Timelessness & Effortlessness**: Cảm giác thời gian biến mất và công việc diễn ra tự nhiên
 
-#### **21. Flow Hacking** - Kỹ Thuật Hack Dòng Chảy
+→ **Liên kết:** OPERATIONS (Deliberate Practice), CREATION (Creative Flow)
+
+#### **26. Flow Hacking** - Kỹ Thuật Hack Dòng Chảy
 
 Các kỹ thuật để nhanh chóng đạt được trạng thái flow mà không cần thời gian chuẩn bị dài.
 
@@ -3638,7 +3711,7 @@ Các kỹ thuật để nhanh chóng đạt được trạng thái flow mà khô
 
 → **Liên kết:** OPERATIONS (Performance Optimization), [META] LAYER (State Engineering)
 
-#### **22. Effortless Mastery** - Thành Thạo Không Gắng Sức [Trạng Thái Flow]
+#### **27. Effortless Mastery** - Thành Thạo Không Gắng Sức [Trạng Thái Flow]
 
 Trạng thái làm chủ cao cấp nơi kỹ năng được thực hiện một cách tự nhiên, không cần nỗ lực ý thức. Đây là **giai đoạn đầu** của effortless mastery - một trạng thái **tạm thời** đạt được khi vào flow state, nơi hiệu suất đỉnh cao xuất hiện một cách tự động. Đặc điểm: Trạng thái **tình huống**, cần điều kiện kích hoạt. Mục tiêu: Tăng **tần suất** và **thời gian** ở trạng thái này.
 
@@ -3649,7 +3722,7 @@ Trạng thái làm chủ cao cấp nơi kỹ năng được thực hiện một 
 
 → **Liên kết:** OPERATIONS (Deliberate Practice - nền tảng để đạt được), TRANSCENDENCE #70 (trạng thái ổn định, cách sống), [META] LAYER (State Engineering)
 
-#### **23. Time Dilation Practice** - Thực Hành Giãn Nở Thời Gian
+#### **28. Time Dilation Practice** - Thực Hành Giãn Nở Thời Gian
 
 Khả năng thay đổi trải nghiệm chủ quan về thời gian, làm chậm hoặc nhanh nhận thức về dòng thời gian.
 
@@ -3660,7 +3733,7 @@ Khả năng thay đổi trải nghiệm chủ quan về thời gian, làm chậm
 
 → **Liên kết:** [META] LAYER (Meta-Time), TRANSCENDENCE (Timelessness)
 
-#### **24. Hyperfocus States** - Trạng Thái Siêu Tập Trung
+#### **29. Hyperfocus States** - Trạng Thái Siêu Tập Trung
 
 Trạng thái ý thức đặc biệt với mức độ tập trung cực độ - tất cả tài nguyên
 nhận thức được hướng vào một nhiệm vụ duy nhất với sự chú ý hoàn toàn và
@@ -3692,7 +3765,7 @@ không gián đoạn. Đây là một dạng FLOW STATE ở mức độ cường
   • Nghệ thuật và thiết kế
   • Giải quyết vấn đề phức tạp
 
-#### **25. Instant Integration** - Tích Hợp Tức Thì [Hiện Tượng Đột Sinh]
+#### **30. Instant Integration** - Tích Hợp Tức Thì [Hiện Tượng Đột Sinh]
 
 Hiện tượng đột sinh trong đó tâm trí tổng hợp và tích hợp thông tin một cách tức thời mà không cần xử lý tuần tự kéo dài. Đây là khả năng TỰ NHIÊN xuất hiện trong trạng thái flow và các trạng thái ý thức cao.
 
@@ -3715,9 +3788,9 @@ Khi được rèn luyện, khả năng này trở nên "tự động" và xuất
 
 ---
 
-### **Nhóm Bổ Sung: Collective Intelligence Systems (8 mục mới)**
+### **Collective Intelligence - Trí Tuệ Tập Thể**
 
-#### **26. Swarm Intelligence - Trí Tuệ Bầy Đàn [Hiện Tượng Đột Sinh]**
+#### **31. Swarm Intelligence - Trí Tuệ Bầy Đàn [Hiện Tượng Đột Sinh]**
 
 Hiện tượng tự nhiên về việc trí tuệ tập thể phức tạp ĐỘT SINH từ sự phối hợp của nhiều tác nhân đơn giản theo các quy tắc cục bộ. Đây là NGUYÊN LÝ về cách hệ thống phức tạp tự tổ chức mà không cần lãnh đạo trung tâm.
 
@@ -3733,7 +3806,7 @@ Hiện tượng tự nhiên về việc trí tuệ tập thể phức tạp Đ�
 
 📌 **TIÊU ĐIỂM:** Nghiên cứu BẢN CHẤT và CƠ CHẾ của hiện tượng đột sinh
 
-#### **27. Hive Mind Phenomena** - Hiện Tượng Tâm Trí Tổ Ong
+#### **32. Hive Mind Phenomena** - Hiện Tượng Tâm Trí Tổ Ong
 
 Trạng thái trong đó nhiều cá nhân dường như hoạt động như một ý thức thống nhất.
 
@@ -3744,7 +3817,7 @@ Trạng thái trong đó nhiều cá nhân dường như hoạt động như m�
 
 → **Liên kết:** TRANSCENDENCE (Unity Consciousness), INTEGRATION (Group Coherence)
 
-#### **28. Crowd Wisdom** - Trí Tuệ Đám Đông
+#### **33. Crowd Wisdom** - Trí Tuệ Đám Đông
 
 Khả năng một nhóm lớn đưa ra quyết định tốt hơn các chuyên gia cá nhân khi các điều kiện phù hợp.
 
@@ -3755,7 +3828,7 @@ Khả năng một nhóm lớn đưa ra quyết định tốt hơn các chuyên g
 
 → **Liên kết:** VALIDATION (Collective Verification), OPERATIONS (Decision Aggregation)
 
-#### **29. Stigmergic Coordination** - Phối Hợp Qua Dấu Vết
+#### **34. Stigmergic Coordination** - Phối Hợp Qua Dấu Vết
 
 Cơ chế phối hợp gián tiếp trong đó các tác nhân để lại dấu vết trong môi trường để hướng dẫn hành vi tương lai.
 
@@ -3766,7 +3839,7 @@ Cơ chế phối hợp gián tiếp trong đó các tác nhân để lại dấu
 
 → **Liên kết:** INTEGRATION (Indirect Coordination), AMPLIFICATION (Environmental Dynamics)
 
-#### **30. Collective Creativity** - Sáng Tạo Tập Thể
+#### **35. Collective Creativity** - Sáng Tạo Tập Thể
 
 Quá trình sáng tạo xuất hiện từ sự tương tác và tổng hợp của nhiều tâm trí.
 
@@ -3777,7 +3850,7 @@ Quá trình sáng tạo xuất hiện từ sự tương tác và tổng hợp c�
 
 → **Liên kết:** CREATION (Collaborative Innovation), INTEGRATION (Team Synergy)
 
-#### **31. Breakthrough Zones** - Các Vùng Đột Phá
+#### **36. Breakthrough Zones** - Các Vùng Đột Phá
 
 Không gian vật lý hoặc tinh thần nơi đổi mới và khám phá diễn ra một cách tự nhiên và dồi dào.
 
@@ -3788,7 +3861,7 @@ Không gian vật lý hoặc tinh thần nơi đổi mới và khám phá diễn
 
 → **Liên kết:** CREATION (Innovation Ecosystems), NAVIGATION (Space Design)
 
-#### **32. Serendipity Systems** - Hệ Thống May Mắn Bất Ngờ
+#### **37. Serendipity Systems** - Hệ Thống May Mắn Bất Ngờ
 
 Cấu trúc và thực hành được thiết kế để tăng khả năng xảy ra các khám phá và kết nối không lên kế hoạch.
 
@@ -3799,7 +3872,7 @@ Cấu trúc và thực hành được thiết kế để tăng khả năng xảy
 
 → **Liên kết:** CREATION #46 (Serendipity Engineering - thiết kế điều kiện), NAVIGATION #22 (Serendipity Navigation - tận dụng cơ hội), NAVIGATION #26 (Luck Surface Area Expansion), AMPLIFICATION (Opportunity Creation)
 
-#### **33. Adjacent Possible** - Khả Năng Liền Kề
+#### **38. Adjacent Possible** - Khả Năng Liền Kề
 
 Tập hợp tất cả các khả năng mới có thể đạt được chỉ bằng một bước tiến từ trạng thái hiện tại.
 
@@ -3811,64 +3884,6 @@ Tập hợp tất cả các khả năng mới có thể đạt được chỉ b�
 → **Liên kết:** CREATION (Innovation Strategy), NAVIGATION (Possibility Mapping)
 
 ---
-
-### **Nhóm Bổ Sung: Advanced System Dynamics (9 mục mới)**
-
-#### **34. Flywheel Effect** - Hiệu Ứng Bánh Đà
-
-Động lượng tích lũy theo thời gian, trong đó mỗi vòng quay thành công làm cho vòng tiếp theo dễ dàng hơn.
-
-- **Momentum Accumulation**: Tích lũy động lượng
-- **Self-Reinforcing Cycles**: Các chu kỳ tự củng cố
-- **Compounding Progress**: Tiến bộ gộp lại
-- **Sustainable Growth**: Tăng trưởng bền vững
-
-→ **Liên kết:** AMPLIFICATION (Positive Feedback), NAVIGATION (Long-term Strategy)
-
-#### **35. Keystone Elements** - Các Yếu Tố Chìa Khóa
-
-Các thành phần quan trọng mà sự tồn tại của chúng ảnh hưởng không cân xứng đến toàn bộ hệ thống.
-
-- **Disproportionate Impact**: Tác động không cân xứng
-- **System Stability**: Ổn định hệ thống
-- **Critical Components**: Các thành phần tới hạn
-- **Leverage Points**: Điểm đòn bẩy
-
-→ **Liên kết:** OPERATIONS (Critical Path), NAVIGATION (Priority Identification)
-
-#### **36. Meta-Emergence** - Đột Sinh Bậc Cao
-
-Sự xuất hiện của các thuộc tính đột sinh từ các thuộc tính đột sinh khác - đột sinh của đột sinh.
-
-- **Higher-Order Properties**: Các thuộc tính bậc cao hơn
-- **Recursive Emergence**: Đột sinh đệ quy
-- **Complexity Layers**: Các lớp phức tạp
-- **Emergence Hierarchy**: Hệ thống phân cấp đột sinh
-
-→ **Liên kết:** [META] LAYER (Meta-Patterns), TRANSCENDENCE (Transcendent Properties)
-
-#### **37. Recombination Engine** - Động Cơ Tái Kết Hợp
-
-Cơ chế sáng tạo mới bằng cách kết hợp lại các yếu tố hiện có theo những cách mới.
-
-- **Combinatorial Innovation**: Đổi mới tổ hợp
-- **Element Mixing**: Trộn lẫn các yếu tố
-- **Novel Configurations**: Các cấu hình mới
-- **Creative Recombination**: Tái kết hợp sáng tạo
-
-→ **Liên kết:** CREATION (Innovation Methods), INTEGRATION (Synthesis)
-
-#### **38. Generative Systems** - Hệ Thống Sinh Tạo
-
-Các hệ thống có khả năng liên tục tạo ra các sản phẩm, mẫu hình hoặc hành vi mới.
-
-- **Continuous Production**: Sản xuất liên tục
-- **Self-Reproducing**: Tự sao chép
-- **Evolutionary Output**: Đầu ra tiến hóa
-- **Creative Engines**: Động cơ sáng tạo
-
-→ **Liên kết:** CREATION (Generative Design), AMPLIFICATION (Production Scaling)
-
 ---
 
 ## CHỨC NĂNG 2: TRANSFORMATION DYNAMICS - ĐỘNG LỰC CHUYỂN HÓA
