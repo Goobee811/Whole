@@ -13,6 +13,15 @@ Specialized Claude skills for editing and expanding the Whole bilingual knowledg
 - `whole-analyzer`: Pre-editing analysis and duplicate detection
 - `whole-reviewer`: Post-editing validation
 - `whole-regrouper`: Phân tích và gom nhóm lại khái niệm trong CHỨC NĂNG
+- `foundations-expert`: Domain-specific expertise for FOUNDATIONS (template for other domains)
+
+## Behavioral Modes
+- `analysis-mode`: Deep analytical mode for concept analysis and duplicate detection
+- `editing-mode`: Focused mode for content editing and regrouping (minimal commentary)
+- `research-mode`: Deep research mode for exploring concepts and cross-references
+- `token-efficient-mode`: Compressed output for batch operations (60-70% cost savings)
+
+Usage: Add `[Use {mode-name}]` to your prompt, e.g., `/regroup FOUNDATIONS 1 [Use editing-mode]`
 
 ## Workflows
 - `.claude/workflows/editing-workflow.md`: Step-by-step editing process
@@ -84,10 +93,18 @@ When evaluating duplicates:
 6. Update cross-references
 
 ## Custom Commands
+
+### Single Operations
 - `/analyze [section-path]` - Analyze section for issues
 - `/edit [section-path]` - Start editing session
 - `/expand [domain] [function] [topic]` - Add new concepts
 - `/regroup [domain] [function-number]` - Phân tích và gom nhóm lại khái niệm
+
+### Batch Operations (NEW)
+- `/regroup-batch [domain] [range]` - Batch regroup multiple CHỨC NĂNG
+  - Examples: `/regroup-batch FOUNDATIONS all`, `/regroup-batch DYNAMICS 2-4`
+  - Auto-uses token-efficient mode for cost savings
+  - Commits after each function for safety
 
 ## Style Preferences
 - Formal yet accessible tone
