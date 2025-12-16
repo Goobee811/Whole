@@ -5,97 +5,47 @@ description: |
   Use when: (1) Tái cấu trúc các nhóm khái niệm trong một chức năng,
   (2) Đặt tên mới cho các nhóm dựa trên phân tích nội dung,
   (3) Viết lại toàn bộ một CHỨC NĂNG với cấu trúc gom nhóm mới.
-version: 1.1.0
+version: 1.2.0
 ---
 
 # Whole Concept Regrouper
 
-## Purpose
-Phân tích và gom nhóm lại các khái niệm trong từng CHỨC NĂNG để tạo cấu trúc logic và dễ hiểu hơn.
+## Workflow (One-Shot)
 
-## Workflow với Checkpoint (BẮT BUỘC)
+1. Grep → Tìm vị trí CHỨC NĂNG
+2. Read → Đọc toàn bộ nội dung
+3. Analyze → Phân tích và gom nhóm
+4. Edit → Viết lại với cấu trúc mới
+5. Commit & Push
 
-### BƯỚC 1: TÌM VỊ TRÍ
-```
-📍 CHECKPOINT 1: TÌM VỊ TRÍ
-- Grep để tìm CHỨC NĂNG trong Whole.md
-- Output: Dòng bắt đầu và kết thúc của CHỨC NĂNG
-```
+## Output Format (Ngắn gọn)
 
-### BƯỚC 2: ĐỌC NỘI DUNG
+Chỉ output:
 ```
-📍 CHECKPOINT 2: ĐỌC NỘI DUNG
-- Đọc toàn bộ CHỨC NĂNG
-- Output: Danh sách tất cả khái niệm hiện có (tên + số thứ tự)
-```
-
-### BƯỚC 3: ĐỀ XUẤT GOM NHÓM
-```
-📍 CHECKPOINT 3: ĐỀ XUẤT GOM NHÓM
-- Phân tích và đề xuất cách gom nhóm
-- Output: Bảng phân nhóm mới
-  | Nhóm | Khái niệm thuộc nhóm |
-  |------|---------------------|
-  | [Tên Nhóm 1] | Concept A, Concept B |
-  | [Tên Nhóm 2] | Concept C, Concept D |
-
-⏸️ CHỜ USER XÁC NHẬN trước khi tiếp tục
+📍 [Domain] > CHỨC NĂNG [số]
+📊 Khái niệm: [N] → [M] nhóm
+📝 Đang viết lại...
+✅ Done: [commit hash]
 ```
 
-### BƯỚC 4: VIẾT LẠI
-```
-📍 CHECKPOINT 4: VIẾT LẠI
-- Sau khi user xác nhận, viết lại toàn bộ CHỨC NĂNG
-- Output: Số lượng edit đã thực hiện
-```
-
-### BƯỚC 5: COMMIT & PUSH
-```
-📍 CHECKPOINT 5: COMMIT & PUSH
-- Commit với message mô tả
-- Push lên branch
-- Output: Commit hash
-```
-
-## Cấu trúc output
+## Cấu trúc gom nhóm
 
 ### Giữ nguyên
 ```
 ### **Tổng Quan**
-[Nội dung tổng quan - KHÔNG thay đổi]
+[KHÔNG thay đổi]
 ```
 
-### Các nhóm mới (đặt tên dựa trên phân tích)
+### Các nhóm mới
 ```
-### **[Tên Nhóm 1 - Tên Tiếng Việt]**
+### **[Tên Nhóm - Tên Tiếng Việt]**
 
-#### **1. Concept A - Khái Niệm A**
-[Nội dung]
-
-#### **2. Concept B - Khái Niệm B**
-[Nội dung]
-
-### **[Tên Nhóm 2 - Tên Tiếng Việt]**
-
-#### **3. Concept C - Khái Niệm C**
-[Nội dung]
+#### **1. Concept - Khái Niệm**
+[Nội dung giữ nguyên]
 ```
 
-## Nguyên tắc gom nhóm
-
-### Tiêu chí phân nhóm
-1. **Chức năng tương tự**: Các khái niệm cùng phục vụ một mục đích
-2. **Mức độ trừu tượng**: Nguyên lý cơ bản vs Ứng dụng cụ thể
-3. **Nguồn gốc**: Truyền thống Đông phương vs Tây phương
-4. **Phạm vi**: Cá nhân vs Tổ chức vs Xã hội
-
-### Đặt tên nhóm
-- Bilingual: English - Tiếng Việt
-- Mô tả rõ nội dung chung của nhóm
-- Ngắn gọn, dễ hiểu
-
-## Lưu ý
-- **Giữ nguyên nội dung**: Chỉ thay đổi cấu trúc nhóm, không thay đổi nội dung khái niệm
-- **Giữ nguyên Tổng Quan**: Phần ### **Tổng Quan** không được thay đổi
-- **Đánh số liên tục**: Sau khi gom nhóm, đánh số lại từ 1 đến N
-- **CHỜ XÁC NHẬN**: Luôn chờ user xác nhận tại Checkpoint 3 trước khi viết lại
+## Nguyên tắc
+- Giữ nguyên nội dung khái niệm
+- Giữ nguyên Tổng Quan
+- Đánh số liên tục 1, 2, 3...
+- Tên nhóm bilingual
