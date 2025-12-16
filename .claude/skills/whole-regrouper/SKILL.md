@@ -5,60 +5,47 @@ description: |
   Use when: (1) Tái cấu trúc các nhóm khái niệm trong một chức năng,
   (2) Đặt tên mới cho các nhóm dựa trên phân tích nội dung,
   (3) Viết lại toàn bộ một CHỨC NĂNG với cấu trúc gom nhóm mới.
-version: 1.0.0
+version: 1.2.0
 ---
 
 # Whole Concept Regrouper
 
-## Purpose
-Phân tích và gom nhóm lại các khái niệm trong từng CHỨC NĂNG để tạo cấu trúc logic và dễ hiểu hơn.
+## Workflow (One-Shot)
 
-## Cấu trúc output
+1. Grep → Tìm vị trí CHỨC NĂNG
+2. Read → Đọc toàn bộ nội dung
+3. Analyze → Phân tích và gom nhóm
+4. Edit → Viết lại với cấu trúc mới
+5. Commit & Push
+
+## Output Format (Ngắn gọn)
+
+Chỉ output:
+```
+📍 [Domain] > CHỨC NĂNG [số]
+📊 Khái niệm: [N] → [M] nhóm
+📝 Đang viết lại...
+✅ Done: [commit hash]
+```
+
+## Cấu trúc gom nhóm
 
 ### Giữ nguyên
 ```
 ### **Tổng Quan**
-[Nội dung tổng quan - KHÔNG thay đổi]
+[KHÔNG thay đổi]
 ```
 
-### Các nhóm mới (đặt tên dựa trên phân tích)
+### Các nhóm mới
 ```
-### **[Tên Nhóm 1 - Tên Tiếng Việt]**
+### **[Tên Nhóm - Tên Tiếng Việt]**
 
-#### **1. Concept A - Khái Niệm A**
-[Nội dung]
-
-#### **2. Concept B - Khái Niệm B**
-[Nội dung]
-
-### **[Tên Nhóm 2 - Tên Tiếng Việt]**
-
-#### **3. Concept C - Khái Niệm C**
-[Nội dung]
+#### **1. Concept - Khái Niệm**
+[Nội dung giữ nguyên]
 ```
 
-## Nguyên tắc gom nhóm
-
-### Tiêu chí phân nhóm
-1. **Chức năng tương tự**: Các khái niệm cùng phục vụ một mục đích
-2. **Mức độ trừu tượng**: Nguyên lý cơ bản vs Ứng dụng cụ thể
-3. **Nguồn gốc**: Truyền thống Đông phương vs Tây phương
-4. **Phạm vi**: Cá nhân vs Tổ chức vs Xã hội
-
-### Đặt tên nhóm
-- Bilingual: English - Tiếng Việt
-- Mô tả rõ nội dung chung của nhóm
-- Ngắn gọn, dễ hiểu
-
-## Workflow
-1. Đọc toàn bộ CHỨC NĂNG hiện tại
-2. Liệt kê tất cả khái niệm
-3. Phân tích và phân loại theo tiêu chí
-4. Đề xuất cấu trúc nhóm mới
-5. Viết lại toàn bộ CHỨC NĂNG với cấu trúc mới
-6. Đánh số lại khái niệm (1, 2, 3... liên tục)
-
-## Lưu ý
-- **Giữ nguyên nội dung**: Chỉ thay đổi cấu trúc nhóm, không thay đổi nội dung khái niệm
-- **Giữ nguyên Tổng Quan**: Phần ### **Tổng Quan** không được thay đổi
-- **Đánh số liên tục**: Sau khi gom nhóm, đánh số lại từ 1 đến N
+## Nguyên tắc
+- Giữ nguyên nội dung khái niệm
+- Giữ nguyên Tổng Quan
+- Đánh số liên tục 1, 2, 3...
+- Tên nhóm bilingual
