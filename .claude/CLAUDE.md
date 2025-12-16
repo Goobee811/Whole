@@ -12,10 +12,52 @@ Specialized Claude skills for editing and expanding the Whole bilingual knowledg
 - `whole-editor`: Main editing skill for content expansion
 - `whole-analyzer`: Pre-editing analysis and duplicate detection
 - `whole-reviewer`: Post-editing validation
-- `whole-regrouper`: Phân tích và gom nhóm lại khái niệm trong CHỨC NĂNG
+- `whole-regrouper`: Phân tích và gom nhóm lại khái niệm trong CHỨC NĂNG (v3.0.0 - Progressive disclosure)
 
 ## Workflows
 - `.claude/workflows/editing-workflow.md`: Step-by-step editing process
+
+## Automation & Productivity Features
+
+### Progressive Disclosure (NEW)
+- **whole-regrouper v3.0.0**: Main skill file reduced from 199 → 108 lines (45% reduction)
+- Detailed guidance in `references/` (loaded as needed):
+  - `grouping-principles.md` - Coherence, balance, bilingual criteria
+  - `workflow-steps.md` - Detailed 5-step workflow
+  - `naming-guidelines.md` - Group naming best practices
+  - `quality-checklist.md` - Pre/during/post validation
+- **Token savings:** ~60% per skill activation
+
+### Progress Tracking (NEW)
+- `.whole-progress.json` - Tracks completed CHỨC NĂNGs (X/50)
+- Auto-suggests next function to regroup
+- Session stats: avg concepts/function, time, completion %
+- Milestone tracking with estimates
+
+### Intelligent Commands (NEW)
+- `/regroup` - Auto-detects next CHỨC NĂNG to process
+- `/regroup [number]` - Specify function explicitly
+- Integrated validation before commit
+- Auto-updates progress tracker after completion
+
+### Hooks System (NEW)
+- `regroup-session-init.cjs` - Displays progress on session start
+- Auto-activates relevant skills based on context
+- Suggests next CHỨC NĂNG automatically
+
+### Validation Scripts (NEW)
+- `scripts/validate-regroup.js` - Pre-commit validation
+  - Checks "Tổng Quan" preservation
+  - Verifies continuous numbering (1, 2, 3...)
+  - Validates bilingual group names
+  - Ensures no content deletion
+- Run: `node .claude/skills/whole-regrouper/scripts/validate-regroup.js [number]`
+
+### Plan Templates (NEW)
+- `plans/templates/regroup-template.md` - Standardized regrouping plan
+- Built-in checklists for each phase
+- Success criteria validation
+- Learnings capture for iteration improvement
 
 ## Document Structure
 - **10 Domains**: Foundations, Dynamics, Operations, Creation, Navigation, Integration, Validation, Amplification, Transcendence, Meta
@@ -87,7 +129,7 @@ When evaluating duplicates:
 - `/analyze [section-path]` - Analyze section for issues
 - `/edit [section-path]` - Start editing session
 - `/expand [domain] [function] [topic]` - Add new concepts
-- `/regroup [domain] [function-number]` - Phân tích và gom nhóm lại khái niệm
+- `/regroup [function-number]` - ⚡ Regroup CHỨC NĂNG (auto-detects next, v2.0.0)
 
 ## Style Preferences
 - Formal yet accessible tone
