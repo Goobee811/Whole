@@ -1528,9 +1528,118 @@ Nhận thức về tính toàn vẹn và sự liên kết của mọi thứ.
 
 Các giá trị cốt lõi và khung đạo đức cung cấp "la bàn đạo đức" để định hướng hành động và quyết định trong mọi bối cảnh.
 
-### **Các Nguyên Tắc và Giá Trị Đạo Đức Nền Tảng**
+### **Core Universal Virtues - Các Đức Hạnh Phổ Quát Cốt Lõi**
 
-#### **1. Unity in Diversity [Giá Trị Đạo Đức]** - Thống Nhất Trong Đa Dạng
+#### **1. Truthfulness** - Chân Thực
+
+Giá trị về sự cam kết với việc nhìn nhận, đại diện và truyền đạt thực tại một cách chính xác nhất có thể, không bị bóp méo bởi mong muốn hay thiên kiến.
+
+- **Intellectual Honesty**: Trung thực về những gì mình biết và không biết; không xuyên tạc dữ liệu hoặc che giấu bằng chứng mâu thuẫn để bảo vệ một giả thuyết.
+
+- **Map-Territory Fidelity**: Liên tục đối chiếu các mô hình (bản đồ) với thực tế (lãnh thổ), thừa nhận giới hạn của mọi mô hình và sẵn sàng cập nhật chúng.
+
+- **Transparent Communication**: Giao tiếp một cách rõ ràng và minh bạch về các phương pháp, dữ liệu, sự không chắc chắn và các giới hạn của tri thức.
+
+- **Self-Honesty**: Tự đối diện một cách trung thực với các động cơ, thiên kiến và điểm mù của chính mình để giảm thiểu tác động của chúng lên nhận thức.
+
+
+→ **Liên kết:** VALIDATION (Reality Testing), [META] LAYER (Bias Awareness), FOUNDATIONS (Map-Territory Distinction)
+
+#### **2. Compassion** - Từ Bi
+
+Giá trị kết hợp sự đồng cảm sâu sắc với động lực hành động để làm giảm bớt đau khổ và thúc đẩy sự thịnh vượng cho người khác.
+
+- **Empathetic Understanding**: Nỗ lực chủ động để hiểu trải nghiệm, cảm xúc và quan điểm của người khác, đặc biệt là trong hoàn cảnh khó khăn.
+
+- **Action for Collective Well-being**: Hành động vì lợi ích và sức khỏe của toàn bộ hệ thống, không chỉ vì lợi ích cá nhân hay cục bộ.
+
+- **Wise Compassion**: Cân bằng giữa sự đồng cảm và trí tuệ để đảm bảo rằng các hành động giúp đỡ thực sự hiệu quả và bền vững, tránh gây hại ngoài ý muốn.
+
+- **Shared Humanity**: Nhận thức về mối liên kết chung của con người, coi hạnh phúc và đau khổ của người khác là của chính mình.
+
+
+→ **Liên kết:** INTEGRATION (Collaborative Intelligence), NAVIGATION (Guiding Principles), DYNAMICS (Emotional Intelligence)
+
+#### **3. Integrity** - Toàn Vẹn
+
+Giá trị về sự nhất quán, trọn vẹn và không bị chia cắt giữa các nguyên tắc, giá trị và hành động của một cá nhân hay hệ thống.
+
+- **Value-Action Coherence**: Sự thống nhất không mâu thuẫn giữa những gì được tin tưởng, tuyên bố và thực hiện.
+
+- **Moral Consistency**: Áp dụng các nguyên tắc đạo đức một cách nhất quán trong mọi tình huống, không tạo ra ngoại lệ tùy tiện cho bản thân.
+
+- **Structural Soundness**: Đề cập đến sự vững chắc và mạch lạc của một hệ thống, một lập luận hoặc một cấu trúc tri thức.
+
+- **Wholeness**: Trạng thái toàn vẹn, nơi tất cả các bộ phận hoạt động hài hòa với nhau và với mục đích chung.
+
+
+→ **Liên kết:** [META] LAYER (Self-Observation), INTEGRATION (System Coherence Building), OPERATIONS (Systematic Execution)
+
+#### **4. Humility** - Khiêm Tốn
+
+Giá trị về việc có một nhận thức chính xác về các giới hạn, sự thiếu sót và vị trí của bản thân trong một tổng thể lớn hơn.
+
+- **Intellectual Humility**: Nhận biết rõ ràng ranh giới của kiến thức và năng lực của mình (Circle of Competence), và cởi mở với khả năng mình sai.
+
+- **Openness to Learning**: Luôn duy trì thái độ học hỏi, sẵn sàng tiếp thu ý kiến phản biện và các quan điểm khác biệt.
+
+- **Acknowledging Fallibility**: Chấp nhận rằng sai lầm là một phần tự nhiên của quá trình học hỏi và tăng trưởng.
+
+- **Ego-Transcendence**: Vượt qua sự đồng nhất với cái tôi, đặt sự thật và lợi ích chung lên trên nhu cầu được công nhận hay chứng tỏ mình đúng.
+
+
+→ **Liên kết:** OPERATIONS (Circle of Competence), VALIDATION (Feedback Processing), [META] LAYER (Meta-Cognition)
+
+#### **5. Courage** - Can Đảm
+
+Giá trị về khả năng đối mặt và hành động một cách hiệu quả bất chấp sự hiện diện của nỗi sợ hãi, sự không chắc chắn hoặc rủi ro.
+
+- **Moral Courage**: Hành động theo đúng các nguyên tắc đạo đức của mình, ngay cả khi đối mặt với sự phản đối của xã hội hoặc nguy cơ cá nhân.
+
+- **Intellectual Courage**: Dám thách thức các giả định phổ biến, khám phá các ý tưởng không chính thống và theo đuổi sự thật dù nó có thể gây khó chịu.
+
+- **Action in Uncertainty**: Khả năng đưa ra quyết định và hành động một cách quyết đoán ngay cả khi không có đầy đủ thông tin hay sự đảm bảo về kết quả.
+
+- **Embracing Vulnerability**: Sẵn sàng chấp nhận rủi ro thất bại, bị tổn thương hoặc bị chỉ trích như một phần cần thiết của sự tăng trưởng và sáng tạo.
+
+
+→ **Liên kết:** NAVIGATION (Risk Navigation), CREATION (Pattern Breaking), OPERATIONS (Decision Frameworks)
+
+#### **6. Wisdom** - Trí Tuệ
+
+Giá trị về khả năng tích hợp kiến thức, kinh nghiệm và sự thấu hiểu sâu sắc để đưa ra những phán đoán đúng đắn và hành động khôn ngoan.
+
+- **Experience-based Judgment**: Phán đoán được mài giũa qua kinh nghiệm, khả năng nhận diện các mẫu hình sâu sắc trong các tình huống phức tạp.
+
+- **Long-Term Perspective**: Khả năng nhìn xa trông rộng, xem xét các hệ quả dài hạn và lợi ích của toàn bộ hệ thống.
+
+- **Ethical Discernment (Phronesis)**: Khả năng nhận thức và lựa chọn hành động đúng đắn về mặt đạo đức trong các bối cảnh cụ thể, tinh vi.
+
+- **Holistic Understanding**: Sự hiểu biết toàn diện, tích hợp nhiều góc nhìn và lĩnh vực tri thức thành một cái nhìn mạch lạc.
+
+
+→ **Liên kết:** [META] LAYER (Wisdom Synthesis), NAVIGATION (Strategic Wayfinding), TRANSCENDENCE (Wisdom Crystallization)
+
+#### **7. Responsibility** - Trách Nhiệm
+
+Giá trị về việc chấp nhận và thực hiện nghĩa vụ của mình, đồng thời sở hữu các kết quả từ hành động và quyết định của bản thân.
+
+- **Ownership of Outcomes**: Chấp nhận quyền sở hữu đối với các kết quả, cả thành công và thất bại, mà không đổ lỗi hay bào chữa.
+
+- **Stewardship**: Hành động như một người quản lý có trách nhiệm đối với các nguồn lực, kiến thức hoặc con người được giao phó.
+
+- **Proactive Accountability**: Chủ động đảm bảo các cam kết được thực hiện và các vấn đề tiềm tàng được giải quyết, thay vì chỉ phản ứng khi có sự cố.
+
+- **Commitment to the Whole**: Cảm thấy có trách nhiệm đối với sức khỏe và sự bền vững của các hệ thống lớn hơn mà mình là một phần.
+
+
+→ **Liên kết:** OPERATIONS (Execution), NAVIGATION (Resource Management), INTEGRATION (Systemic Integration)
+
+---
+
+### **Foundational Ethical Principles - Các Nguyên Tắc Đạo Đức Nền Tảng**
+
+#### **8. Unity in Diversity [Giá Trị Đạo Đức]** - Thống Nhất Trong Đa Dạng
 
 Nguyên tắc đạo đức thừa nhận giá trị của sự khác biệt đồng thời tìm kiếm sự hài hòa và mục đích chung lớn hơn. Khác với nguyên lý bản thể ở FOUNDATIONS #1.2, đây là **HƯỚNG DẪN HÀNH VI** - cách **ỨNG XỬ** với sự đa dạng và xây dựng sự thống nhất.
 
@@ -1543,7 +1652,7 @@ Nguyên tắc đạo đức thừa nhận giá trị của sự khác biệt đ�
 → **Gốc lý thuyết:** FOUNDATIONS #1.2 (Duality & Unity - Nguyên Lý Bản Thể)
 → **Ứng dụng thực hành:** OPERATIONS (Collaborative Problem-Solving)
 
-#### **2. Causality & Interdependence → Trách nhiệm với hệ quả** [Ứng Dụng Đạo Đức]
+#### **9. Causality & Interdependence → Trách nhiệm với hệ quả** [Ứng Dụng Đạo Đức]
 
 **ỨNG DỤNG ĐẠO ĐỨC - THỰC HÀNH**: Nguyên tắc đạo đức được xây dựng từ nguyên lý Nhân Quả & Tương Duyên (Chức năng 1 #5), yêu cầu nhận thức và chịu trách nhiệm về các tác động lan tỏa của hành động trong một thế giới kết nối. Đây là chuyển hóa từ "hiểu biết về nhân quả" sang "trách nhiệm với hệ quả".
 
@@ -1562,7 +1671,7 @@ Nguyên tắc đạo đức thừa nhận giá trị của sự khác biệt đ�
 
 → **Ghi chú:** Đây là ỨNG DỤNG ĐẠO ĐỨC của nguyên lý lý thuyết, hướng dẫn "chúng ta NÊN HÀNH ĐỘNG thế nào". Để hiểu NỀN TẢNG LÝ THUYẾT về nhân quả và tương duyên ("thực tại VẬN HÀNH như thế nào"), xem Chức năng 1 #5.
 
-#### **3. Observer Effect - Hiệu Ứng Người Quan Sát [Trách Nhiệm Đạo Đức]**
+#### **10. Observer Effect - Hiệu Ứng Người Quan Sát [Trách Nhiệm Đạo Đức]**
 
 Nguyên tắc ĐẠO ĐỨC xuất phát từ Observer Effect vật lý: Vì chúng ta không bao giờ là người quan sát trung lập, chúng ta có TRÁCH NHIỆM ĐẠO ĐỨC với ảnh hưởng từ sự hiện diện, quan sát và can thiệp của mình. Đây là về CHỦ ĐỘNG, không phải thụ động.
 
@@ -1576,7 +1685,7 @@ Nguyên tắc ĐẠO ĐỨC xuất phát từ Observer Effect vật lý: Vì ch�
 → **Ứng dụng thực hành:** VALIDATION #26 (trong nghiên cứu)
 → **Nâng cao:** META LAYER #31 (quan sát chính mình quan sát)
 
-#### **4. Ahimsa → Không làm hại** [Xem EASTERN & WESTERN WISDOM #16]
+#### **11. Ahimsa → Không làm hại** [Xem EASTERN & WESTERN WISDOM #16]
 
 Nguyên tắc đạo đức về việc không gây tổn hại không cần thiết đến bất kỳ sinh vật nào trong suy nghĩ, lời nói và hành động. Để hiểu đầy đủ về khái niệm này trong bối cảnh truyền thống tâm linh Đông phương (Hindu-Buddhist-Jain), xem CHỨC NĂNG 4: EASTERN & WESTERN WISDOM, mục #16.
 
@@ -1589,7 +1698,7 @@ Nguyên tắc đạo đức về việc không gây tổn hại không cần thi
 → **Ứng dụng thực tiễn:** DYNAMICS (Emotional Regulation), VALIDATION (Ethical Decision-Making)
 → **Bối cảnh tâm linh:** [META] LAYER (Ethical Frameworks)
 
-#### **5. Categorical Imperative → Phổ quát hóa hành động**
+#### **12. Categorical Imperative → Phổ quát hóa hành động**
 
 Nguyên tắc đạo đức yêu cầu chỉ hành động theo những quy tắc mà bạn có thể muốn chúng trở thành một quy luật phổ quát cho tất cả mọi người.
 
@@ -1600,130 +1709,25 @@ Nguyên tắc đạo đức yêu cầu chỉ hành động theo những quy tắ
 
 → **Liên kết:** OPERATIONS (Reasoning Architectures), [META] LAYER (Axiomatic Systems)
 
-#### **6. Truthfulness** - Chân Thực
-
-Giá trị về sự cam kết với việc nhìn nhận, đại diện và truyền đạt thực tại một cách chính xác nhất có thể, không bị bóp méo bởi mong muốn hay thiên kiến.
-
-- **Intellectual Honesty**: Trung thực về những gì mình biết và không biết; không xuyên tạc dữ liệu hoặc che giấu bằng chứng mâu thuẫn để bảo vệ một giả thuyết.
-    
-- **Map-Territory Fidelity**: Liên tục đối chiếu các mô hình (bản đồ) với thực tế (lãnh thổ), thừa nhận giới hạn của mọi mô hình và sẵn sàng cập nhật chúng.
-    
-- **Transparent Communication**: Giao tiếp một cách rõ ràng và minh bạch về các phương pháp, dữ liệu, sự không chắc chắn và các giới hạn của tri thức.
-    
-- **Self-Honesty**: Tự đối diện một cách trung thực với các động cơ, thiên kiến và điểm mù của chính mình để giảm thiểu tác động của chúng lên nhận thức.
-    
-
-→ **Liên kết:** VALIDATION (Reality Testing), [META] LAYER (Bias Awareness), FOUNDATIONS (Map-Territory Distinction)
-
-#### **7. Compassion** - Từ Bi
-
-Giá trị kết hợp sự đồng cảm sâu sắc với động lực hành động để làm giảm bớt đau khổ và thúc đẩy sự thịnh vượng cho người khác.
-
-- **Empathetic Understanding**: Nỗ lực chủ động để hiểu trải nghiệm, cảm xúc và quan điểm của người khác, đặc biệt là trong hoàn cảnh khó khăn.
-    
-- **Action for Collective Well-being**: Hành động vì lợi ích và sức khỏe của toàn bộ hệ thống, không chỉ vì lợi ích cá nhân hay cục bộ.
-    
-- **Wise Compassion**: Cân bằng giữa sự đồng cảm và trí tuệ để đảm bảo rằng các hành động giúp đỡ thực sự hiệu quả và bền vững, tránh gây hại ngoài ý muốn.
-    
-- **Shared Humanity**: Nhận thức về mối liên kết chung của con người, coi hạnh phúc và đau khổ của người khác là của chính mình.
-    
-
-→ **Liên kết:** INTEGRATION (Collaborative Intelligence), NAVIGATION (Guiding Principles), DYNAMICS (Emotional Intelligence)
-
-#### **8. Integrity** - Toàn Vẹn
-
-Giá trị về sự nhất quán, trọn vẹn và không bị chia cắt giữa các nguyên tắc, giá trị và hành động của một cá nhân hay hệ thống.
-
-- **Value-Action Coherence**: Sự thống nhất không mâu thuẫn giữa những gì được tin tưởng, tuyên bố và thực hiện.
-    
-- **Moral Consistency**: Áp dụng các nguyên tắc đạo đức một cách nhất quán trong mọi tình huống, không tạo ra ngoại lệ tùy tiện cho bản thân.
-    
-- **Structural Soundness**: Đề cập đến sự vững chắc và mạch lạc của một hệ thống, một lập luận hoặc một cấu trúc tri thức.
-    
-- **Wholeness**: Trạng thái toàn vẹn, nơi tất cả các bộ phận hoạt động hài hòa với nhau và với mục đích chung.
-    
-
-→ **Liên kết:** [META] LAYER (Self-Observation), INTEGRATION (System Coherence Building), OPERATIONS (Systematic Execution)
-
-#### **9. Humility** - Khiêm Tốn
-
-Giá trị về việc có một nhận thức chính xác về các giới hạn, sự thiếu sót và vị trí của bản thân trong một tổng thể lớn hơn.
-
-- **Intellectual Humility**: Nhận biết rõ ràng ranh giới của kiến thức và năng lực của mình (Circle of Competence), và cởi mở với khả năng mình sai.
-    
-- **Openness to Learning**: Luôn duy trì thái độ học hỏi, sẵn sàng tiếp thu ý kiến phản biện và các quan điểm khác biệt.
-    
-- **Acknowledging Fallibility**: Chấp nhận rằng sai lầm là một phần tự nhiên của quá trình học hỏi và tăng trưởng.
-    
-- **Ego-Transcendence**: Vượt qua sự đồng nhất với cái tôi, đặt sự thật và lợi ích chung lên trên nhu cầu được công nhận hay chứng tỏ mình đúng.
-    
-
-→ **Liên kết:** OPERATIONS (Circle of Competence), VALIDATION (Feedback Processing), [META] LAYER (Meta-Cognition)
-
-#### **10. Courage** - Can Đảm
-
-Giá trị về khả năng đối mặt và hành động một cách hiệu quả bất chấp sự hiện diện của nỗi sợ hãi, sự không chắc chắn hoặc rủi ro.
-
-- **Moral Courage**: Hành động theo đúng các nguyên tắc đạo đức của mình, ngay cả khi đối mặt với sự phản đối của xã hội hoặc nguy cơ cá nhân.
-    
-- **Intellectual Courage**: Dám thách thức các giả định phổ biến, khám phá các ý tưởng không chính thống và theo đuổi sự thật dù nó có thể gây khó chịu.
-    
-- **Action in Uncertainty**: Khả năng đưa ra quyết định và hành động một cách quyết đoán ngay cả khi không có đầy đủ thông tin hay sự đảm bảo về kết quả.
-    
-- **Embracing Vulnerability**: Sẵn sàng chấp nhận rủi ro thất bại, bị tổn thương hoặc bị chỉ trích như một phần cần thiết của sự tăng trưởng và sáng tạo.
-    
-
-→ **Liên kết:** NAVIGATION (Risk Navigation), CREATION (Pattern Breaking), OPERATIONS (Decision Frameworks)
-
-#### **11. Justice** - Công Bằng
+#### **13. Justice** - Công Bằng
 
 Giá trị về cam kết đối với sự công bằng, bình đẳng và đối xử vô tư, đặc biệt là trong việc phân bổ nguồn lực và bảo vệ quyền lợi của các thành viên trong một hệ thống.
 
 - **Fairness in Process**: Đảm bảo các quy trình và hệ thống được thiết kế và vận hành một cách không thiên vị.
-    
+
 - **Equity in Outcome**: Nỗ lực hướng tới các kết quả công bằng, có tính đến việc điều chỉnh cho các bất lợi mang tính hệ thống.
-    
+
 - **Restorative Action**: Khi có sự bất công hoặc tổn hại xảy ra, tập trung vào việc sửa chữa, hàn gắn và phục hồi sự cân bằng.
-    
+
 - **Advocacy for the Marginalized**: Sử dụng tiếng nói và quyền lực để bảo vệ và nâng đỡ những người yếu thế hoặc bị gạt ra bên lề.
-    
+
 
 → **Liên kết:** INTEGRATION (Systemic Integration), AMPLIFICATION (Social Impact)
 → **Công cụ tư duy quan trọng:** EASTERN & WESTERN WISDOM #30 (The Veil of Ignorance - thought experiment của Rawls về công lý)
 
-#### **12. Wisdom** - Trí Tuệ
-
-Giá trị về khả năng tích hợp kiến thức, kinh nghiệm và sự thấu hiểu sâu sắc để đưa ra những phán đoán đúng đắn và hành động khôn ngoan.
-
-- **Experience-based Judgment**: Phán đoán được mài giũa qua kinh nghiệm, khả năng nhận diện các mẫu hình sâu sắc trong các tình huống phức tạp.
-    
-- **Long-Term Perspective**: Khả năng nhìn xa trông rộng, xem xét các hệ quả dài hạn và lợi ích của toàn bộ hệ thống.
-    
-- **Ethical Discernment (Phronesis)**: Khả năng nhận thức và lựa chọn hành động đúng đắn về mặt đạo đức trong các bối cảnh cụ thể, tinh vi.
-    
-- **Holistic Understanding**: Sự hiểu biết toàn diện, tích hợp nhiều góc nhìn và lĩnh vực tri thức thành một cái nhìn mạch lạc.
-    
-
-→ **Liên kết:** [META] LAYER (Wisdom Synthesis), NAVIGATION (Strategic Wayfinding), TRANSCENDENCE (Wisdom Crystallization)
-
-#### **13. Responsibility** - Trách Nhiệm
-
-Giá trị về việc chấp nhận và thực hiện nghĩa vụ của mình, đồng thời sở hữu các kết quả từ hành động và quyết định của bản thân.
-
-- **Ownership of Outcomes**: Chấp nhận quyền sở hữu đối với các kết quả, cả thành công và thất bại, mà không đổ lỗi hay bào chữa.
-    
-- **Stewardship**: Hành động như một người quản lý có trách nhiệm đối với các nguồn lực, kiến thức hoặc con người được giao phó.
-    
-- **Proactive Accountability**: Chủ động đảm bảo các cam kết được thực hiện và các vấn đề tiềm tàng được giải quyết, thay vì chỉ phản ứng khi có sự cố.
-    
-- **Commitment to the Whole**: Cảm thấy có trách nhiệm đối với sức khỏe và sự bền vững của các hệ thống lớn hơn mà mình là một phần.
-    
-
-→ **Liên kết:** OPERATIONS (Execution), NAVIGATION (Resource Management), INTEGRATION (Systemic Integration)
-
 ---
 
-### **Các Khung Đạo Đức Bổ Sung**
+### **Systematic Ethical Frameworks - Các Khung Hệ Thống Đạo Đức**
 
 #### **14. Virtue Ethics** - Đạo Đức Đức Hạnh
 
@@ -1791,6 +1795,10 @@ Khả năng phán đoán thực tiễn đúng đắn trong các tình huống c�
 
 → **Liên kết:** OPERATIONS (Decision Frameworks), FOUNDATIONS (Aristotelian Virtue Ethics)
 
+---
+
+### **Cultural Wisdom & Applications - Trí Tuệ Văn Hóa & Ứng Dụng**
+
 #### **20. Character Strengths Foundation** - Nền Tảng Điểm Mạnh Tính Cách
 
 Khung tâm lý học tích cực về các đức hạnh phổ quát.
@@ -1846,6 +1854,10 @@ Các tác phẩm kể về anh hùng và giá trị văn hóa.
 
 → **Liên kết:** CREATION (Narrative), AMPLIFICATION (Cultural Transmission)
 
+---
+
+### **Sacred & Embodied Practices - Thực Hành Thiêng Liêng & Hóa Thân**
+
 #### **25. Sacred Foods** - Thực Phẩm Thiêng Liêng
 
 Thực phẩm có ý nghĩa tâm linh và nghi lễ.
@@ -1869,7 +1881,6 @@ Nghệ thuật nấu ăn với mục đích chữa bệnh.
 → **Liên kết:** FOUNDATIONS (Natural Healing), INTEGRATION (Holistic Health)
 
 ---
-
 ## CHỨC NĂNG 4: EASTERN & WESTERN WISDOM - TRÍ TUỆ ĐÔNG & TÂY PHƯƠNG
 
 ### **Tổng Quan**
