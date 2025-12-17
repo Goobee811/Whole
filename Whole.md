@@ -4840,7 +4840,7 @@ Các thực hành nhằm kích hoạt tiềm năng ẩn trong tế bào và DNA.
 
 Nhận diện và làm việc với các mẫu hình tiến hóa của hệ thống phức tạp, từ các chu kỳ sinh trưởng đến các quy luật động lực học phi tuyến.
 
-### **Các Khái Niệm Cốt Lõi (22 mục)**
+### **1. Foundational System Theories - Lý Thuyết Hệ Thống Nền Tảng**
 
 #### **1. System Dynamics** - Động Lực Hệ Thống
 
@@ -4875,7 +4875,64 @@ Nghiên cứu cách các hệ thống phức tạp tự tổ chức, thích ứn
 
 → **Liên kết:** FOUNDATIONS (Emergence), AMPLIFICATION (Network Effects)
 
-#### **4. Power Laws** - Luật Lũy Thừa
+#### **4. Phase Space** - Không Gian Pha
+
+Không gian toán học chứa tất cả các trạng thái có thể của một hệ thống động.
+
+- **State Variables**: Các biến trạng thái
+- **Trajectories**: Quỹ đạo trong không gian pha
+- **Attractor Basins**: Lưu vực hấp dẫn tử
+- **Phase Portraits**: Chân dung pha
+
+→ **Liên kết:** OPERATIONS (System Modeling), VALIDATION (State Analysis)
+
+#### **5. Resilience & Robustness** - Khả Năng Phục Hồi & Bền Vững
+
+Khả năng của hệ thống duy trì chức năng khi đối mặt với nhiễu loạn hoặc thay đổi.
+
+- **Structural Resilience**: Khả năng phục hồi cấu trúc
+- **Functional Redundancy**: Dư thừa chức năng
+- **Adaptive Capacity**: Khả năng thích ứng
+- **Graceful Degradation**: Suy giảm nhẹ nhàng
+
+→ **Liên kết:** VALIDATION (Stress Testing), INTEGRATION (System Design)
+
+#### **6. Modularity & Coupling** - Tính Mô-đun & Liên Kết
+
+Cách các thành phần của hệ thống được tổ chức và tương tác với nhau.
+
+- **Loose Coupling**: Liên kết lỏng lẻo
+- **Tight Coupling**: Liên kết chặt chẽ
+- **Modular Architecture**: Kiến trúc mô-đun
+- **Interface Design**: Thiết kế giao diện
+
+→ **Liên kết:** OPERATIONS (System Architecture), INTEGRATION (Component Integration)
+
+#### **7. Hierarchical Organization** - Tổ Chức Phân Cấp
+
+Các hệ thống được tổ chức thành các cấp độ lồng nhau, mỗi cấp có các quy tắc riêng.
+
+- **Nested Levels**: Các cấp độ lồng nhau
+- **Emergence Across Scales**: Đột sinh qua các quy mô
+- **Level-Specific Rules**: Quy tắc đặc thù từng cấp
+- **Cross-Scale Interactions**: Tương tác xuyên quy mô
+
+→ **Liên kết:** FOUNDATIONS (Scale & Hierarchy), INTEGRATION (Multi-level Integration)
+
+#### **8. System Archetypes** - Các Nguyên Mẫu Hệ Thống
+
+Các cấu trúc hệ thống lặp lại tạo ra các mẫu hành vi đặc trưng.
+
+- **Limits to Growth**: Giới hạn tăng trưởng
+- **Shifting the Burden**: Chuyển gánh nặng
+- **Tragedy of the Commons**: Bi kịch của cái chung
+- **Escalation**: Leo thang
+
+→ **Liên kết:** OPERATIONS (Problem Patterns), NAVIGATION (System Diagnosis)
+
+### **2. Emergence & Network Dynamics - Động Lực Nổi Trội & Mạng Lưới**
+
+#### **9. Power Laws** - Luật Lũy Thừa
 
 Mối quan hệ trong đó một đại lượng thay đổi theo lũy thừa của đại lượng khác, tạo ra các MẪU HÌNH TIẾN HÓA không đồng đều. Khác với nền tảng toán học ở FOUNDATIONS, đây là về CƠ CHẾ TIẾN HÓA của hệ thống theo thời gian.
 
@@ -4889,7 +4946,7 @@ Mối quan hệ trong đó một đại lượng thay đổi theo lũy thừa c�
 → **Ứng dụng trong:** AMPLIFICATION #14 (công cụ đòn bẩy)
 → **Biến đổi cao cấp:** TRANSCENDENCE #11 (metamorphosis patterns)
 
-#### **5. Network Effects** - Hiệu Ứng Mạng Lưới [HIỆN TƯỢNG TIẾN HÓA]
+#### **10. Network Effects** - Hiệu Ứng Mạng Lưới [HIỆN TƯỢNG TIẾN HÓA]
 
 Một MẪU HÌNH TIẾN HÓA quan trọng trong các hệ thống phức tạp: giá trị tăng theo số lượng kết nối. Đây là hiện tượng tự nhiên xuất hiện trong nhiều hệ thống - từ sinh thái, xã hội, đến công nghệ.
 
@@ -4910,7 +4967,7 @@ Một MẪU HÌNH TIẾN HÓA quan trọng trong các hệ thống phức tạp:
    Bao gồm: Metcalfe's Law, Platform Dynamics, Direct/Indirect Effects,
    Data Network Effects, Community Building, Viral Mechanics, v.v.
 
-#### **6. Tipping Points** - Điểm Bùng Phát
+#### **11. Tipping Points** - Điểm Bùng Phát
 
 Ngưỡng tới hạn mà khi bị vượt qua sẽ dẫn đến sự thay đổi lớn và nhanh chóng của hệ thống.
 
@@ -4921,7 +4978,7 @@ Ngưỡng tới hạn mà khi bị vượt qua sẽ dẫn đến sự thay đổ
 
 → **Liên kết:** AMPLIFICATION (Critical Mass), NAVIGATION (Leverage Points)
 
-#### **7. Path Dependence** - Phụ Thuộc Đường Đi
+#### **12. Path Dependence** - Phụ Thuộc Đường Đi
 
 Hiện tượng các quyết định hoặc sự kiện trong quá khứ hạn chế các lựa chọn hiện tại và tương lai.
 
@@ -4932,7 +4989,7 @@ Hiện tượng các quyết định hoặc sự kiện trong quá khứ hạn c
 
 → **Liên kết:** NAVIGATION (Strategic Choices), VALIDATION (Historical Analysis)
 
-#### **8. Co-evolutionary Dynamics** - Động Lực Đồng Tiến Hóa
+#### **13. Co-evolutionary Dynamics** - Động Lực Đồng Tiến Hóa
 
 Quá trình hai hoặc nhiều hệ thống cùng tiến hóa và ảnh hưởng lẫn nhau - đây là NGUYÊN LÝ ĐỘNG LỰC HỌC về cách các hệ thống tương tác và cùng phát triển. Đây là QUY LUẬT & CƠ CHẾ hoạt động cơ bản trong các hệ sinh thái, tổ chức, công nghệ và xã hội, giải thích TẠI SAO & NHƯ THẾ NÀO các hệ thống cùng tiến hóa.
 
@@ -4958,95 +5015,7 @@ Quá trình hai hoặc nhiều hệ thống cùng tiến hóa và ảnh hưởng
 → **Siêu việt hóa:** TRANSCENDENCE #31 (Transcendent Co-evolution - ý thức siêu việt)
 → **Cross-reference:** Khái niệm này là CORE PATTERN trong tiến hóa hệ thống, xuất hiện ở 3 cấp độ: Cơ chế (DYNAMICS) → Chiến lược (NAVIGATION) → Ý thức (TRANSCENDENCE)
 
-#### **9. Fitness Landscapes** - Địa Hình Thích Nghi
-
-Biểu diễn không gian của tất cả các cấu hình có thể với độ cao đại diện cho sự thích nghi.
-
-- **Local vs. Global Optima**: Tối ưu cục bộ vs. toàn cục
-- **Hill Climbing**: Leo đồi tìm đỉnh
-- **Adaptive Walks**: Các bước đi thích ứng
-- **Rugged Landscapes**: Địa hình gồ ghề
-
-→ **Liên kết:** NAVIGATION (Optimization Strategy), CREATION (Search Strategies)
-
-#### **10. Phase Space** - Không Gian Pha
-
-Không gian toán học chứa tất cả các trạng thái có thể của một hệ thống động.
-
-- **State Variables**: Các biến trạng thái
-- **Trajectories**: Quỹ đạo trong không gian pha
-- **Attractor Basins**: Lưu vực hấp dẫn tử
-- **Phase Portraits**: Chân dung pha
-
-→ **Liên kết:** OPERATIONS (System Modeling), VALIDATION (State Analysis)
-
-#### **11. Criticality & SOC** - Trạng Thái Tới Hạn & Tự Tổ Chức Tới Hạn
-
-Hệ thống tự động điều chỉnh đến trạng thái tới hạn nơi các biến động lớn có thể xảy ra.
-
-- **Self-Organized Criticality**: Tự tổ chức đến trạng thái tới hạn
-- **Scale-Free Events**: Các sự kiện không có quy mô đặc trưng
-- **Sandpile Model**: Mô hình đống cát
-- **Avalanche Dynamics**: Động lực tuyết lở
-
-→ **Liên kết:** AMPLIFICATION (Cascade Dynamics), VALIDATION (Risk Assessment)
-
-#### **12. Resilience & Robustness** - Khả Năng Phục Hồi & Bền Vững
-
-Khả năng của hệ thống duy trì chức năng khi đối mặt với nhiễu loạn hoặc thay đổi.
-
-- **Structural Resilience**: Khả năng phục hồi cấu trúc
-- **Functional Redundancy**: Dư thừa chức năng
-- **Adaptive Capacity**: Khả năng thích ứng
-- **Graceful Degradation**: Suy giảm nhẹ nhàng
-
-→ **Liên kết:** VALIDATION (Stress Testing), INTEGRATION (System Design)
-
-#### **13. Modularity & Coupling** - Tính Mô-đun & Liên Kết
-
-Cách các thành phần của hệ thống được tổ chức và tương tác với nhau.
-
-- **Loose Coupling**: Liên kết lỏng lẻo
-- **Tight Coupling**: Liên kết chặt chẽ
-- **Modular Architecture**: Kiến trúc mô-đun
-- **Interface Design**: Thiết kế giao diện
-
-→ **Liên kết:** OPERATIONS (System Architecture), INTEGRATION (Component Integration)
-
-#### **14. Hierarchical Organization** - Tổ Chức Phân Cấp
-
-Các hệ thống được tổ chức thành các cấp độ lồng nhau, mỗi cấp có các quy tắc riêng.
-
-- **Nested Levels**: Các cấp độ lồng nhau
-- **Emergence Across Scales**: Đột sinh qua các quy mô
-- **Level-Specific Rules**: Quy tắc đặc thù từng cấp
-- **Cross-Scale Interactions**: Tương tác xuyên quy mô
-
-→ **Liên kết:** FOUNDATIONS (Scale & Hierarchy), INTEGRATION (Multi-level Integration)
-
-#### **15. Adaptive Cycles** - Chu Kỳ Thích Ứng
-
-Mô hình chu kỳ bốn giai đoạn: tăng trưởng → bảo tồn → sụp đổ → tái tổ chức.
-
-- **Growth (r) Phase**: Giai đoạn tăng trưởng nhanh
-- **Conservation (K) Phase**: Giai đoạn bảo tồn và hiệu quả hóa
-- **Release (Omega) Phase**: Giai đoạn giải phóng và sụp đổ
-- **Reorganization (Alpha) Phase**: Giai đoạn tái tổ chức và đổi mới
-
-→ **Liên kết:** NAVIGATION (Lifecycle Management), CREATION (Innovation Cycles)
-
-#### **16. Panarchy** - Hệ Thống Đa Cấp
-
-Cấu trúc trong đó các chu kỳ thích ứng ở nhiều cấp độ khác nhau tương tác với nhau.
-
-- **Cross-Scale Dynamics**: Động lực xuyên quy mô
-- **Memory & Revolt**: Ký ức và nổi loạn
-- **Scale Interactions**: Tương tác giữa các quy mô
-- **Nested Adaptive Cycles**: Các chu kỳ thích ứng lồng nhau
-
-→ **Liên kết:** INTEGRATION (Multi-scale Integration), NAVIGATION (System-of-Systems)
-
-#### **17. Hysteresis Loops** - Vòng Lặp Trễ Hồi
+#### **14. Hysteresis Loops** - Vòng Lặp Trễ Hồi
 
 Đường đi tới và lui trong không gian trạng thái khác nhau do hiệu ứng bộ nhớ.
 
@@ -5057,7 +5026,53 @@ Cấu trúc trong đó các chu kỳ thích ứng ở nhiều cấp độ khác 
 
 → **Liên kết:** VALIDATION (System Memory), OPERATIONS (Change Management)
 
-#### **18. Criticality Indicators** - Chỉ Báo Trạng Thái Tới Hạn
+#### **15. Metcalfe's Law** - Định Luật Metcalfe
+
+Giá trị của một mạng lưới tỷ lệ với bình phương số lượng người dùng.
+
+- **Network Value**: Giá trị mạng lưới
+- **User Growth**: Tăng trưởng người dùng
+- **Exponential Scaling**: Quy mô hóa theo cấp số nhân
+- **Connection Power**: Sức mạnh kết nối
+
+→ **Liên kết:** AMPLIFICATION (Network Effects), NAVIGATION (Growth Strategy)
+
+### **3. Critical States & Adaptive Cycles - Trạng Thái Tới Hạn & Chu Kỳ Thích Ứng**
+
+#### **16. Criticality & SOC** - Trạng Thái Tới Hạn & Tự Tổ Chức Tới Hạn
+
+Hệ thống tự động điều chỉnh đến trạng thái tới hạn nơi các biến động lớn có thể xảy ra.
+
+- **Self-Organized Criticality**: Tự tổ chức đến trạng thái tới hạn
+- **Scale-Free Events**: Các sự kiện không có quy mô đặc trưng
+- **Sandpile Model**: Mô hình đống cát
+- **Avalanche Dynamics**: Động lực tuyết lở
+
+→ **Liên kết:** AMPLIFICATION (Cascade Dynamics), VALIDATION (Risk Assessment)
+
+#### **17. Adaptive Cycles** - Chu Kỳ Thích Ứng
+
+Mô hình chu kỳ bốn giai đoạn: tăng trưởng → bảo tồn → sụp đổ → tái tổ chức.
+
+- **Growth (r) Phase**: Giai đoạn tăng trưởng nhanh
+- **Conservation (K) Phase**: Giai đoạn bảo tồn và hiệu quả hóa
+- **Release (Omega) Phase**: Giai đoạn giải phóng và sụp đổ
+- **Reorganization (Alpha) Phase**: Giai đoạn tái tổ chức và đổi mới
+
+→ **Liên kết:** NAVIGATION (Lifecycle Management), CREATION (Innovation Cycles)
+
+#### **18. Panarchy** - Hệ Thống Đa Cấp
+
+Cấu trúc trong đó các chu kỳ thích ứng ở nhiều cấp độ khác nhau tương tác với nhau.
+
+- **Cross-Scale Dynamics**: Động lực xuyên quy mô
+- **Memory & Revolt**: Ký ức và nổi loạn
+- **Scale Interactions**: Tương tác giữa các quy mô
+- **Nested Adaptive Cycles**: Các chu kỳ thích ứng lồng nhau
+
+→ **Liên kết:** INTEGRATION (Multi-scale Integration), NAVIGATION (System-of-Systems)
+
+#### **19. Criticality Indicators** - Chỉ Báo Trạng Thái Tới Hạn
 
 Các dấu hiệu cảnh báo rằng hệ thống đang tiến gần đến điểm chuyển pha.
 
@@ -5068,7 +5083,7 @@ Các dấu hiệu cảnh báo rằng hệ thống đang tiến gần đến đi�
 
 → **Liên kết:** VALIDATION (Early Warning), NAVIGATION (Risk Sensing)
 
-#### **19. Regime Shifts** - Thay Đổi Chế Độ
+#### **20. Regime Shifts** - Thay Đổi Chế Độ
 
 Sự thay đổi đột ngột từ một trạng thái ổn định sang trạng thái ổn định khác.
 
@@ -5079,7 +5094,7 @@ Sự thay đổi đột ngột từ một trạng thái ổn định sang trạn
 
 → **Liên kết:** DYNAMICS (Phase Transitions), VALIDATION (State Monitoring)
 
-#### **20. Adaptive Management - Quản Lý Thích Ứng [Hệ Thống & Nhận Thức]**
+#### **21. Adaptive Management - Quản Lý Thích Ứng [Hệ Thống & Nhận Thức]**
 
 Phương pháp quản lý và ra quyết định trong môi trường phức tạp, coi mọi hành động
 như thí nghiệm để học hỏi và điều chỉnh liên tục. Áp dụng cho cả quản lý hệ thống
@@ -5106,20 +5121,20 @@ như thí nghiệm để học hỏi và điều chỉnh liên tục. Áp dụng
 → **Ứng dụng thực tế:** Quản lý hệ sinh thái, phát triển sản phẩm, lãnh đạo tổ chức,
    ra quyết định cá nhân trong môi trường VUCA
 
-#### **21. System Archetypes** - Các Nguyên Mẫu Hệ Thống
+### **4. Fundamental Evolution Patterns - Các Mô Thức Tiến Hóa Cơ Bản**
 
-Các cấu trúc hệ thống lặp lại tạo ra các mẫu hành vi đặc trưng.
+#### **22. Fitness Landscapes** - Địa Hình Thích Nghi
 
-- **Limits to Growth**: Giới hạn tăng trưởng
-- **Shifting the Burden**: Chuyển gánh nặng
-- **Tragedy of the Commons**: Bi kịch của cái chung
-- **Escalation**: Leo thang
+Biểu diễn không gian của tất cả các cấu hình có thể với độ cao đại diện cho sự thích nghi.
 
-→ **Liên kết:** OPERATIONS (Problem Patterns), NAVIGATION (System Diagnosis)
+- **Local vs. Global Optima**: Tối ưu cục bộ vs. toàn cục
+- **Hill Climbing**: Leo đồi tìm đỉnh
+- **Adaptive Walks**: Các bước đi thích ứng
+- **Rugged Landscapes**: Địa hình gồ ghề
 
-### **Nhóm Bổ Sung: Core Dynamics (10 mục mới)**
+→ **Liên kết:** NAVIGATION (Optimization Strategy), CREATION (Search Strategies)
 
-#### **22. Expansion** - Mở Rộng
+#### **23. Expansion** - Mở Rộng
 
 Quá trình phát triển ra ngoài, tăng quy mô hoặc phạm vi.
 
@@ -5130,7 +5145,7 @@ Quá trình phát triển ra ngoài, tăng quy mô hoặc phạm vi.
 
 → **Liên kết:** AMPLIFICATION (Scaling), CREATION (Growth)
 
-#### **23. Contraction** - Thu Hẹp
+#### **24. Contraction** - Thu Hẹp
 
 Quá trình co lại, giảm quy mô hoặc tập trung.
 
@@ -5141,7 +5156,7 @@ Quá trình co lại, giảm quy mô hoặc tập trung.
 
 → **Liên kết:** OPERATIONS (Focus), INTEGRATION (Concentration)
 
-#### **24. Evolution** - Tiến Hóa
+#### **25. Evolution** - Tiến Hóa
 
 Quá trình phát triển và thay đổi dần dần theo thời gian, trong đó các hệ thống thích ứng và xuất hiện các đặc tính mới.
 
@@ -5152,7 +5167,7 @@ Quá trình phát triển và thay đổi dần dần theo thời gian, trong đ
 
 → **Liên kết:** DYNAMICS (Evolution & Adaptation), TRANSCENDENCE (Development)
 
-#### **25. Balance** - Cân Bằng
+#### **26. Balance** - Cân Bằng
 
 Trạng thái cân bằng động giữa các lực đối lập.
 
@@ -5163,7 +5178,7 @@ Trạng thái cân bằng động giữa các lực đối lập.
 
 → **Liên kết:** FOUNDATIONS (Polarity), INTEGRATION (Harmony)
 
-#### **26. Oscillation & Pulsation** - Dao Động & Mạch Động [Mẫu Hình Chuyển Động]
+#### **27. Oscillation & Pulsation** - Dao Động & Mạch Động [Mẫu Hình Chuyển Động]
 
 Mẫu hình chuyển động qua lại giữa các trạng thái đối lập theo chu kỳ - một nguyên lý phổ biến từ vật lý đến sinh học, tâm lý và xã hội. Dao động tạo ra nhịp điệu và năng lượng cho sự sống, từ mạch đập tim, nhịp thở, đến chu kỳ kinh tế và văn hóa.
 
@@ -5183,7 +5198,7 @@ Mẫu hình chuyển động qua lại giữa các trạng thái đối lập th
 
 → **Ứng dụng trong tư duy:** OPERATIONS #52 (Oscillation - phương pháp xen kẽ giải quyết vấn đề)
 
-#### **27. Convergence - Hội Tụ [Mô Hình Tiến Hóa]**
+#### **28. Convergence - Hội Tụ [Mô Hình Tiến Hóa]**
 
 Quá trình TỰ NHIÊN trong đó các yếu tố riêng biệt di chuyển về phía một điểm chung trong quá trình tiến hóa của hệ thống. Đây là MÔ HÌNH TIẾN HÓA phổ biến - khi các con đường khác nhau cuối cùng dẫn đến những giải pháp tương tự.
 
@@ -5198,7 +5213,7 @@ Quá trình TỰ NHIÊN trong đó các yếu tố riêng biệt di chuyển v�
 
 → **Ví dụ:** Convergent evolution (tiến hóa hội tụ) trong sinh học; Các lý thuyết khoa học hội tụ về cùng một chân lý; Các nền văn hóa phát triển những giá trị đạo đức tương tự
 
-#### **28. Divergence** - Phân Kỳ
+#### **29. Divergence** - Phân Kỳ
 
 Quá trình các yếu tố tách ra khỏi một nguồn chung.
 
@@ -5209,7 +5224,7 @@ Quá trình các yếu tố tách ra khỏi một nguồn chung.
 
 → **Liên kết:** CREATION (Divergent Thinking), AMPLIFICATION (Diversity)
 
-#### **29. Interference** - Giao Thoa
+#### **30. Interference** - Giao Thoa
 
 Mẫu hình xuất hiện khi hai hoặc nhiều sóng/lực gặp nhau và tương tác.
 
@@ -5220,7 +5235,7 @@ Mẫu hình xuất hiện khi hai hoặc nhiều sóng/lực gặp nhau và tư�
 
 → **Liên kết:** DYNAMICS (Wave Dynamics), INTEGRATION (Pattern Synthesis)
 
-#### **30. Adaptation** - Thích Ứng
+#### **31. Adaptation** - Thích Ứng
 
 Quá trình điều chỉnh và thay đổi để phù hợp với môi trường hoặc điều kiện mới, đảm bảo khả năng tồn tại và phát triển.
 
@@ -5231,11 +5246,9 @@ Quá trình điều chỉnh và thay đổi để phù hợp với môi trườn
 
 → **Liên kết:** DYNAMICS (Evolution & Adaptation), NAVIGATION (Adaptive Strategy)
 
----
+### **5. System Laws & Perverse Effects - Định Luật Hệ Thống & Hiệu Ứng Nghịch Lý**
 
-### **Nhóm Bổ Sung: System Laws & Paradoxes (21 mục mới)**
-
-#### **31. Campbell's Law** - Định Luật Campbell
+#### **32. Campbell's Law** - Định Luật Campbell
 
 "Một chỉ số xã hội định lượng càng được sử dụng cho quyết định xã hội, nó càng dễ bị tham nhũng."
 
@@ -5246,7 +5259,7 @@ Quá trình điều chỉnh và thay đổi để phù hợp với môi trườn
 
 → **Liên kết:** VALIDATION (System Integrity), OPERATIONS (Incentive Design)
 
-#### **32. McNamara Fallacy** - Ngụy Biện McNamara
+#### **33. McNamara Fallacy** - Ngụy Biện McNamara
 
 Đưa ra quyết định chỉ dựa trên thông tin định lượng, bỏ qua tất cả các yếu tố định tính.
 
@@ -5257,7 +5270,7 @@ Quá trình điều chỉnh và thay đổi để phù hợp với môi trườn
 
 → **Liên kết:** VALIDATION (Holistic Assessment), OPERATIONS (Balanced Analysis)
 
-#### **33. Cobra Effect** - Hiệu Ứng Rắn Hổ Mang
+#### **34. Cobra Effect** - Hiệu Ứng Rắn Hổ Mang
 
 Khi giải pháp cho một vấn đề làm vấn đề trở nên tồi tệ hơn.
 
@@ -5268,7 +5281,7 @@ Khi giải pháp cho một vấn đề làm vấn đề trở nên tồi tệ h�
 
 → **Liên kết:** VALIDATION (Consequence Analysis), NAVIGATION (Solution Design)
 
-#### **34. Streisand Effect** - Hiệu Ứng Streisand
+#### **35. Streisand Effect** - Hiệu Ứng Streisand
 
 Nỗ lực che giấu hoặc kiểm duyệt thông tin vô tình làm nó được công khai rộng rãi hơn.
 
@@ -5279,7 +5292,7 @@ Nỗ lực che giấu hoặc kiểm duyệt thông tin vô tình làm nó đư�
 
 → **Liên kết:** AMPLIFICATION (Viral Dynamics), VALIDATION (Strategy Assessment)
 
-#### **35. Jevons Paradox** - Nghịch Lý Jevons
+#### **36. Jevons Paradox** - Nghịch Lý Jevons
 
 Cải thiện hiệu quả trong sử dụng tài nguyên có thể dẫn đến tăng tiêu thụ tổng thể.
 
@@ -5290,7 +5303,7 @@ Cải thiện hiệu quả trong sử dụng tài nguyên có thể dẫn đến
 
 → **Liên kết:** OPERATIONS (Resource Management), VALIDATION (System Analysis)
 
-#### **36. Peter Principle** - Nguyên Tắc Peter
+#### **37. Peter Principle** - Nguyên Tắc Peter
 
 Trong một hệ thống phân cấp, mọi nhân viên có xu hướng thăng tiến đến cấp độ không còn thẩm quyền của họ.
 
@@ -5301,7 +5314,7 @@ Trong một hệ thống phân cấp, mọi nhân viên có xu hướng thăng t
 
 → **Liên kết:** OPERATIONS (Organizational Design), VALIDATION (Competence Assessment)
 
-#### **37. Parkinson's Law of Triviality** - Định Luật Tầm Thường của Parkinson
+#### **38. Parkinson's Law of Triviality** - Định Luật Tầm Thường của Parkinson
 
 Tổ chức dành thời gian không cân xứng cho các vấn đề tầm thường mà ai cũng hiểu, bỏ qua các vấn đề quan trọng phức tạp.
 
@@ -5312,7 +5325,35 @@ Tổ chức dành thời gian không cân xứng cho các vấn đề tầm thư
 
 → **Liên kết:** NAVIGATION (Priority Management), VALIDATION (Importance Assessment)
 
-#### **38. Brooks's Law** - Định Luật Brooks
+#### **39. Gresham's Law** - Định Luật Gresham
+
+"Tiền xấu đẩy tiền tốt ra khỏi lưu thông."
+
+- **Quality Displacement**: Thay thế chất lượng
+- **Bad Drives Out Good**: Cái xấu đẩy cái tốt
+- **System Degradation**: Suy thoái hệ thống
+- **Value Corruption**: Tham nhũng giá trị
+
+→ **Liên kết:** VALIDATION (Quality Control), OPERATIONS (Standard Maintenance)
+
+#### **40. Shirky Principle - Nguyên Tắc Shirky [Mẫu Hình Tự Duy Trì]**
+
+"Các tổ chức sẽ cố gắng bảo tồn vấn đề mà chúng là giải pháp."
+
+Đây là MẪU HÌNH TIẾN HÓA quan sát được ở các hệ thống tổ chức - hiểu TẠI SAO và LÀM SAO các tổ chức phát triển cơ chế tự duy trì ngay cả khi mục đích ban đầu đã không còn phù hợp. Đây là về DYNAMIC sự tiến hóa.
+
+- **Problem Preservation**: Động lực BẢO TỒN vấn đề để duy trì sự tồn tại
+- **Institutional Inertia**: QUÁN TÍNH cấu trúc - tổ chức kháng cự thay đổi
+- **Self-Perpetuation**: CƠ CHẾ tự duy trì trong quá trình tiến hóa
+- **Solution Lock-in**: Bị KHÓA trong vai trò "giải pháp" ban đầu
+
+→ **Liên kết nội bộ:** NAVIGATION (Strategy Review)
+→ **Công cụ phân tích:** OPERATIONS #35 (Shirky Principle trong decision-making)
+→ **Các mẫu hình tương tự:** Liên quan đến các động lực tiến hóa và thay đổi tổ chức
+
+### **6. Design & Organizational Laws - Định Luật Thiết Kế & Tổ Chức**
+
+#### **41. Brooks's Law** - Định Luật Brooks
 
 "Thêm người vào một dự án phần mềm đang muộn làm nó muộn hơn."
 
@@ -5323,7 +5364,7 @@ Tổ chức dành thời gian không cân xứng cho các vấn đề tầm thư
 
 → **Liên kết:** OPERATIONS (Project Management), AMPLIFICATION (Scaling Challenges)
 
-#### **39. Lindy Effect** - Hiệu Ứng Lindy [Nguyên Lý Tiến Hóa]
+#### **42. Lindy Effect** - Hiệu Ứng Lindy [Nguyên Lý Tiến Hóa]
 
 NGUYÊN LÝ TIẾN HÓA: Tuổi thọ kỳ vọng trong tương lai của một thứ phi-hư hoại (ý tưởng, công nghệ, tổ chức, văn hóa) tỷ lệ thuận với tuổi hiện tại của nó. Đây là QUY LUẬT TỰ NHIÊN về cách thời gian hoạt động như một bộ lọc tiến hóa - những gì đã sống sót qua nhiều thử thách có cấu trúc nội tại vững chắc hơn.
 
@@ -5339,18 +5380,7 @@ NGUYÊN LÝ TIẾN HÓA: Tuổi thọ kỳ vọng trong tương lai của một 
 
 💡 **INSIGHT:** Đây là nguyên lý GIẢI THÍCH tại sao sách cổ, kiến trúc cổ, công nghệ cơ bản vẫn còn giá trị - chúng đã "survive" qua bộ lọc thời gian.
 
-#### **40. Gresham's Law** - Định Luật Gresham
-
-"Tiền xấu đẩy tiền tốt ra khỏi lưu thông."
-
-- **Quality Displacement**: Thay thế chất lượng
-- **Bad Drives Out Good**: Cái xấu đẩy cái tốt
-- **System Degradation**: Suy thoái hệ thống
-- **Value Corruption**: Tham nhũng giá trị
-
-→ **Liên kết:** VALIDATION (Quality Control), OPERATIONS (Standard Maintenance)
-
-#### **41. Occam's Razor** - Dao Cạo Occam
+#### **43. Occam's Razor** - Dao Cạo Occam
 
 Nguyên lý ưu tiên những giải thích đơn giản nhất khi đối mặt với nhiều lựa chọn có giá trị giải thích tương đương.
 
@@ -5361,22 +5391,7 @@ Nguyên lý ưu tiên những giải thích đơn giản nhất khi đối mặt
 
 → **Liên kết:** OPERATIONS (Problem Solving), VALIDATION (Theory Selection)
 
-#### **42. Shirky Principle - Nguyên Tắc Shirky [Mẫu Hình Tự Duy Trì]**
-
-"Các tổ chức sẽ cố gắng bảo tồn vấn đề mà chúng là giải pháp."
-
-Đây là MẪU HÌNH TIẾN HÓA quan sát được ở các hệ thống tổ chức - hiểu TẠI SAO và LÀM SAO các tổ chức phát triển cơ chế tự duy trì ngay cả khi mục đích ban đầu đã không còn phù hợp. Đây là về DYNAMIC sự tiến hóa.
-
-- **Problem Preservation**: Động lực BẢO TỒN vấn đề để duy trì sự tồn tại
-- **Institutional Inertia**: QUÁN TÍNH cấu trúc - tổ chức kháng cự thay đổi
-- **Self-Perpetuation**: CƠ CHẾ tự duy trì trong quá trình tiến hóa
-- **Solution Lock-in**: Bị KHÓA trong vai trò "giải pháp" ban đầu
-
-→ **Liên kết nội bộ:** NAVIGATION (Strategy Review)
-→ **Công cụ phân tích:** OPERATIONS #35 (Shirky Principle trong decision-making)
-→ **Các mẫu hình tương tự:** Liên quan đến các động lực tiến hóa và thay đổi tổ chức
-
-#### **43. Conway's Law** - Định Luật Conway [Định Luật Tiến Hóa Hệ Thống]
+#### **44. Conway's Law** - Định Luật Conway [Định Luật Tiến Hóa Hệ Thống]
 
 "Các tổ chức thiết kế hệ thống phản ánh cấu trúc giao tiếp của chính họ."
 
@@ -5411,7 +5426,7 @@ Nguyên lý ưu tiên những giải thích đơn giản nhất khi đối mặt
   - Spotify's squads → autonomous services
   - Microsoft's Windows → layered architecture theo org structure
 
-#### **44. Hofstadter's Law → [Xem OPERATIONS #39]**
+#### **45. Hofstadter's Law → [Xem OPERATIONS #39]**
 
 *Góc nhìn System Evolution về Định luật Hofstadter*
 
@@ -5440,7 +5455,7 @@ một "bug" tâm lý mà là một "feature" của sự phức tạp - nó phả
 chất BẢN CHẤT của các hệ thống phức tạp là luôn có những khía cạnh ẩn giấu,
 tương tác không dự đoán được, và đòi hỏi thời gian để "khám phá" chính mình.
 
-#### **45. Goodhart's Law (Meta-version)** - Định Luật Goodhart (Phiên bản Meta)
+#### **46. Goodhart's Law (Meta-version)** - Định Luật Goodhart (Phiên bản Meta)
 
 "Mọi mô hình quan sát về một hệ thống đều làm thay đổi hệ thống đó."
 
@@ -5451,7 +5466,7 @@ tương tác không dự đoán được, và đòi hỏi thời gian để "kh�
 
 → **Liên kết:** [META] LAYER (Observer Effects), VALIDATION (Measurement Impact)
 
-#### **46. Hyrum's Law** - Định Luật Hyrum
+#### **47. Hyrum's Law** - Định Luật Hyrum
 
 "Với đủ người dùng của một API, không quan trọng bạn hứa gì trong hợp đồng, mọi hành vi có thể quan sát đều sẽ được ai đó phụ thuộc vào."
 
@@ -5462,20 +5477,7 @@ tương tác không dự đoán được, và đòi hỏi thời gian để "kh�
 
 → **Liên kết:** OPERATIONS (API Design), VALIDATION (Dependency Management)
 
-#### **47. Metcalfe's Law** - Định Luật Metcalfe
-
-Giá trị của một mạng lưới tỷ lệ với bình phương số lượng người dùng.
-
-- **Network Value**: Giá trị mạng lưới
-- **User Growth**: Tăng trưởng người dùng
-- **Exponential Scaling**: Quy mô hóa theo cấp số nhân
-- **Connection Power**: Sức mạnh kết nối
-
-→ **Liên kết:** AMPLIFICATION (Network Effects), NAVIGATION (Growth Strategy)
-
----
-
-### **Nhóm Bổ Sung: Temporal & Process Patterns (4 mục mới)**
+### **7. Natural System Patterns - Mô Thức Hệ Thống Tự Nhiên**
 
 #### **48. Temporal Hierarchy** - Phân Cấp Thời Gian
 
@@ -5518,10 +5520,6 @@ Thế giới quan coi quá trình và trở thành là cơ bản hơn vật th�
 - **Temporal Priority**: Ưu tiên thời gian
 
 → **Liên kết:** FOUNDATIONS (Philosophy), DYNAMICS (Change Nature)
-
----
-
-### **Nhóm Bổ Sung: Natural System Patterns (5 mục mới)**
 
 #### **51. Chemical Reaction Dynamics** - Động Lực Phản Ứng Hóa Học
 
@@ -5578,9 +5576,7 @@ Các quá trình vũ trụ của sự hình thành và tiến hóa thiên hà.
 
 → **Liên kết:** FOUNDATIONS (Cosmos), DYNAMICS (Large-Scale Evolution)
 
----
-
-### **Nhóm Bổ Sung: Social Evolution (6 mục mới)**
+### **8. Social & Cultural Evolution - Tiến Hóa Xã Hội & Văn Hóa**
 
 #### **56. Social Systems Theory** - Lý Thuyết Hệ Thống Xã Hội
 
@@ -5647,8 +5643,6 @@ Các quá trình thay đổi xã hội tập thể quy mô lớn.
 - **Social Transformation**: Chuyển đổi xã hội
 
 → **Liên kết:** AMPLIFICATION (Social Amplification), DYNAMICS (Revolutionary Change)
-
----
 
 ## CHỨC NĂNG 4: COGNITIVE FLEXIBILITY (CONVERGENT ↔ DIVERGENT) - LINH HOẠT NHẬN THỨC (HỘI TỤ ↔ PHÂN KỲ)
 
