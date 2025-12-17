@@ -3892,7 +3892,8 @@ Tập hợp tất cả các khả năng mới có thể đạt được chỉ b�
 
 Hiểu các quá trình, chu kỳ và các lực lượng thúc đẩy sự thay đổi sâu sắc, từ tiến hóa tăng dần đến biến đổi đột phá.
 
-### **Các Khái Niệm Cốt Lõi (35 mục)**
+
+### **1. Fundamental Evolution & Adaptation - Tiến Hóa & Thích Ứng Cơ Bản**
 
 #### **1. Evolution & Adaptation** - Tiến Hóa & Thích Ứng
 
@@ -3905,105 +3906,7 @@ Quá trình thay đổi và phát triển dần dần của một hệ thống t
 
 → **Liên kết:** CREATION (Innovation Methods), NAVIGATION (Adaptive Strategy), SYSTEM EVOLUTION PATTERNS #8 (Co-evolutionary Dynamics)
 
-#### **2. Metamorphosis & Phase Transition** - Biến Thái & Chuyển Pha
-
-Sự thay đổi đột ngột và toàn diện về cấu trúc, hình dạng hoặc trạng thái của một hệ thống.
-
-- **Discontinuous Jump**: Một bước nhảy vọt, không đi qua các trạng thái trung gian
-- **Structural Reorganization**: Sự tái cấu trúc hoàn toàn các thành phần và mối quan hệ bên trong
-- **Identity Shift**: Một sự thay đổi cơ bản về bản chất và định danh của hệ thống
-- **Critical Threshold**: Điểm tới hạn mà khi bị vượt qua sẽ kích hoạt sự chuyển pha không thể đảo ngược
-- **Critical Point Dynamics**: Động lực điểm tới hạn
-- **Order Parameter**: Tham số trật tự
-- **Symmetry Breaking**: Phá vỡ đối xứng
-- **State Discontinuity**: Sự gián đoạn trạng thái
-
-→ **Liên kết:** CREATION (Breakthrough Dynamics), TRANSCENDENCE (Paradox Mastery), VALIDATION (State Detection), NAVIGATION (Transition Management)
-
-#### **3. Creative Destruction & Renewal** - Phá Hủy Sáng Tạo & Tái Sinh
-
-Chu kỳ trong đó các cấu trúc, quy trình hoặc mô thức cũ bị phá hủy để nhường chỗ cho những cái mới, hiệu quả hơn.
-
-- **Obsolescence Cycle**: Chu kỳ lỗi thời, trong đó cái mới làm cho cái cũ không còn phù hợp
-- **Letting Go**: Hành động có chủ đích của việc từ bỏ các hệ thống cũ đã không còn phục vụ mục đích
-- **Phoenix Protocol**: Quá trình tái sinh từ tro tàn, sử dụng năng lượng từ sự sụp đổ
-- **Regenerative Cycle**: Một chu trình không chỉ thay thế cái cũ mà còn cải thiện sức khỏe toàn bộ hệ thống
-
-→ **Liên kết:** VALIDATION (Adversarial Testing), FOUNDATIONS (Via Negativa)
-
-#### **4. Paradigm Shift Dynamics** - Động Lực Chuyển Đổi Mô Thức
-
-Một sự thay đổi nền tảng trong các giả định, khái niệm và thực hành cơ bản của một lĩnh vực hoặc thế giới quan.
-
-- **Anomaly Accumulation**: Giai đoạn các hiện tượng bất thường tích tụ lại, tạo ra áp lực thay đổi
-- **Crisis & Incommensurability**: Giai đoạn khủng hoảng khi các mô thức cạnh tranh không thể so sánh trực tiếp
-- **Gestalt Switch**: Sự thay đổi nhận thức đột ngột, nơi thế giới được nhìn nhận theo cách hoàn toàn mới
-- **New Normalization**: Giai đoạn mô thức mới trở thành nền tảng chung được chấp nhận
-
-→ **Liên kết:** FOUNDATIONS (Mental Models), [META] LAYER (Meta-Structures)
-
-#### **5. Hormesis & Antifragility** - Hiệu Ứng Kích Thích & Phản Mong Manh
-
-Nguyên lý một hệ thống trở nên mạnh mẽ hơn khi tiếp xúc với một lượng căng thẳng vừa phải.
-
-- **Beneficial Stressors**: Các yếu tố gây căng thẳng ở liều lượng thấp mang lại lợi ích
-- **Growth from Disorder**: Hệ thống không chỉ phục hồi mà còn cải thiện từ nghịch cảnh
-- **Volatility Advantage**: Biến sự biến động thành lợi thế thay vì mối đe dọa
-- **Resilience Transcendence**: Vượt qua khả năng phục hồi để đạt được sự phát triển tích cực
-
-→ **Liên kết:** VALIDATION (Stress Testing), AMPLIFICATION (Catalysts)
-
-#### **6. Order ↔ Chaos Dynamics** - Động Lực Trật Tự ↔ Hỗn Loạn
-
-Sự tương tác biện chứng giữa các lực lượng tạo ra cấu trúc và các lực lượng tạo ra sự ngẫu nhiên.
-
-- **The Edge of Chaos**: Vùng chuyển tiếp là nơi tối ưu cho sự sáng tạo và thích ứng
-- **Creative Tension**: Sức căng sáng tạo từ sự đối đầu giữa cấu trúc và tự do
-- **Dynamic Equilibrium**: Cân bằng động, dao động giữa hai cực mà không sụp đổ
-- **Pattern Formation**: Sự hình thành các mẫu hình phức tạp từ các tương tác hỗn loạn
-
-→ **Liên kết:** CREATION (Edge of Chaos), TRANSCENDENCE (Paradox Mastery)
-
-#### **7. Ego Death & Rebirth** - Cái Chết & Tái Sinh của Cái Tôi
-
-Quá trình chuyển hóa tâm lý sâu sắc, trong đó cấu trúc nhận dạng cũ tan rã để nhường chỗ cho ý thức rộng lớn hơn.
-
-- **Identity Dissolution**: Sự hòa tan của bản sắc và câu chuyện cá nhân quen thuộc
-- **The Void Navigation**: Hành trình đi qua trạng thái "hư không" khi cái tôi cũ không còn
-- **Re-identification**: Quá trình xây dựng và nhận dạng với một cái tôi mới linh hoạt hơn
-- **Psycho-spiritual Metamorphosis**: Sự biến thái về tâm lý và tâm linh thay đổi cơ bản cách trải nghiệm
-
-→ **Liên kết:** TRANSCENDENCE (Unity Consciousness), INTEGRATION (Personal Integration)
-
-#### **8. Crisis & Breakthrough** - Khủng Hoảng & Đột Phá
-
-Mô hình trong đó các giai đoạn khủng hoảng hoặc mâu thuẫn sâu sắc thường dẫn đến những đột phá quan trọng.
-
-- **Creative Crisis**: Khủng hoảng như chất xúc tác cho sự thay đổi sâu sắc
-- **Breaking Point**: Điểm phá vỡ nơi cái cũ không thể tiếp tục
-- **Emergence Through Pressure**: Cái mới xuất hiện dưới áp lực của khủng hoảng
-- **Post-Crisis Integration**: Tích hợp bài học và cấu trúc mới sau khủng hoảng
-
-→ **Liên kết:** VALIDATION (Stress Testing), CREATION (Breakthrough Innovation)
-
-#### **9. Oscillation & Pulsation** → [XEM #27] - Reference Stub
-
-**Khái niệm này đã được GỘP vào #27 (System Evolution Patterns)** để tránh trùng lặp và tăng tính mạch lạc.
-
-→ **Xem chi tiết tại:** DYNAMICS #27 (Oscillation & Pulsation - Mẫu Hình Chuyển Động)
-
-#### **10. Disruptive Innovation Dynamics** - Động Lực Đổi Mới Đột Phá
-
-Quá trình các công nghệ hoặc mô hình kinh doanh mới phá vỡ thị trường hiện tại và thay thế các đối thủ đã có.
-
-- **Low-End Foothold**: Bắt đầu từ phân khúc thấp mà các công ty lớn bỏ qua
-- **Asymmetric Motivation**: Các công ty đương nhiệm không có động lực chống lại ở phân khúc thấp
-- **Performance Overshooting**: Sản phẩm hiện tại vượt quá nhu cầu, tạo khoảng trống cho giải pháp "đủ tốt"
-- **Value Network Shift**: Sự đột phá tạo ra mạng lưới giá trị mới, làm mạng lưới cũ lỗi thời
-
-→ **Liên kết:** CREATION (Disruptive Innovation), NAVIGATION (Strategic Wayfinding)
-
-#### **11. Growth & Decay Cycles** - Chu Kỳ Tăng Trưởng & Suy Thoái
+#### **2. Growth & Decay Cycles** - Chu Kỳ Tăng Trưởng & Suy Thoái
 
 Mô thức tự nhiên của các hệ thống trải qua sinh ra, phát triển, trưởng thành, suy tàn và tái sinh.
 
@@ -4014,40 +3917,7 @@ Mô thức tự nhiên của các hệ thống trải qua sinh ra, phát triển
 
 → **Liên kết:** FOUNDATIONS (Cycles & Rhythms), NAVIGATION (Lifecycle Awareness)
 
-#### **12. Unfolding (Entelechy)** - Sự Mở Ra
-
-Quá trình một hệ thống hiện thực hóa tiềm năng bẩm sinh của nó.
-
-- **Inherent Potential**: Sự tồn tại của một tiềm năng nội tại chờ được biểu hiện
-- **Developmental Process**: Một quy trình phát triển có định hướng từ bên trong
-- **Realization of Purpose**: Sự hiện thực hóa mục đích đã được mã hóa từ ban đầu
-- **Environmental Interaction**: Tiềm năng nội tại tương tác với điều kiện môi trường
-
-→ **Liên kết:** INTEGRATION (Personal Integration), FOUNDATIONS (Core Principles)
-
-#### **13. Kairos & Chronos** - Thời Cơ & Thời Gian Tuyến Tính
-
-Sự tương tác giữa hai loại thời gian: Chronos (thời gian tuần tự) và Kairos (thời điểm thích hợp).
-
-- **Chronos (Quantitative Time)**: Thời gian tuyến tính, đồng hồ, nền tảng cho lập kế hoạch
-- **Kairos (Qualitative Time)**: Thời điểm cơ hội, "cửa sổ" thời gian phù hợp để hành động
-- **Timing Wisdom**: Trí tuệ nhận ra và hành động vào đúng thời điểm Kairos
-- **Decisive Moments**: Những khoảnh khắc quyết định thay đổi toàn bộ quỹ đạo
-
-→ **Liên kết:** NAVIGATION (Timing Wisdom), [META] LAYER (Meta-Time)
-
-#### **14. Apoptosis & Regeneration** - Chết Theo Chương Trình & Tái Tạo
-
-Động lực sinh học của việc loại bỏ các bộ phận cũ một cách có trật tự và sự tái tạo mới.
-
-- **Programmed Obsolescence**: Sự lỗi thời có kế hoạch của các bộ phận để nhường chỗ cho đổi mới
-- **Systemic Pruning**: Hành động "cắt tỉa" có chủ đích để duy trì sức khỏe
-- **Healing & Renewal**: Quá trình sửa chữa và tái tạo sau tổn thương
-- **Health through Subtraction**: Sức khỏe được duy trì bằng cả thêm vào và loại bỏ
-
-→ **Liên kết:** FOUNDATIONS (Via Negativa), INTEGRATION (Living Systems Integration)
-
-#### **15. Punctuated Equilibrium** - Cân Bằng Ngắt Quãng [Động Lực Chuyển Đổi]
+#### **3. Punctuated Equilibrium** - Cân Bằng Ngắt Quãng [Động Lực Chuyển Đổi]
 
 Mô hình chuyển đổi thực tế: các giai đoạn ổn định dài bị ngắt quãng bởi
 những giai đoạn thay đổi nhanh chóng. Khác với nguyên lý nền tảng ở FOUNDATIONS,
@@ -4068,7 +3938,7 @@ những giai đoạn thay đổi nhanh chóng. Khác với nguyên lý nền t�
 → **Siêu việt hóa:** TRANSCENDENCE #16 (biến thái hệ thống)
 → **So sánh:** DYNAMICS #17 (S-Curve Dynamics - tăng trưởng liên tục)
 
-#### **16. S-Curve Dynamics** - Động Lực Đường Cong S [Quy Luật Chuyển Đổi Tự Nhiên]
+#### **4. S-Curve Dynamics** - Động Lực Đường Cong S [Quy Luật Chuyển Đổi Tự Nhiên]
 
 Quy luật phổ quát mô tả sự tăng trưởng theo thời gian của MỌI HỆ THỐNG: bắt đầu chậm, tăng tốc theo cấp số nhân, rồi bão hòa và chuyển pha. Đây là ĐỘNG LỰC TỰ NHIÊN xuất hiện ở sinh học, công nghệ, tâm lý, xã hội.
 
@@ -4081,7 +3951,498 @@ Quy luật phổ quát mô tả sự tăng trưởng theo thời gian của MỌ
 → **Ứng dụng thực tế:** AMPLIFICATION #3 (S-Curves & Technology Adoption)
 → **Khái niệm liên quan:** DYNAMICS #12 (Growth & Decay Cycles - chu kỳ đầy đủ), FOUNDATIONS #6 (Cycles & Rhythms - nguyên lý chu kỳ), DYNAMICS #16 (Punctuated Equilibrium - chuyển đổi ngắt quãng)
 
-#### **17. Dialectical Process** - Quá Trình Biện Chứng
+#### **5. Gradual vs. Punctuated Change** - Thay Đổi Tăng Dần vs. Gián Đoạn
+
+Sự phân biệt giữa thay đổi liên tục từ từ và thay đổi gián đoạn đột ngột.
+
+- **Incrementalism**: Chủ nghĩa cải thiện dần dần
+- **Revolutionary Jumps**: Những bước nhảy cách mạng
+- **Hybrid Patterns**: Các mẫu hình kết hợp cả hai
+- **Context-Dependent Mode**: Chế độ phụ thuộc ngữ cảnh
+
+→ **Liên kết:** NAVIGATION (Change Strategy), OPERATIONS (Implementation Approach)
+
+#### **6. Evolutionary Reasoning - Suy Luận Tiến Hóa [Nguyên Lý Biến Đổi]**
+
+Sử dụng các nguyên lý TIẾN HÓA TỰ NHIÊN để hiểu sự biến đổi và chuyển hóa. Khác với công cụ phân tích ở OPERATIONS, đây là về ĐỘNG LỰC HỌC - làm thế nào hệ thống thực sự thay đổi, thích ứng và tiến hóa theo thời gian.
+
+- **Adaptive Logic**: Logic THÍCH ỨNG - tư duy tự điều chỉnh với ngữ cảnh
+- **Selection Thinking**: Tư duy CHỌN LỌC - hiểu áp lực môi trường
+- **Variation Analysis**: PHÂN TÍCH biến dị - từ đâu sự đa dạng xuất hiện
+- **Fitness Evaluation**: ĐÁNH GIÁ sự phù hợp - tiêu chí sống còn
+
+→ **Liên kết nội bộ:** DYNAMICS (Transformation Dynamics)
+→ **Công cụ hóa:** OPERATIONS #17 (thuật toán tiến hóa)
+→ **Nhìn vĩ mô:** TRANSCENDENCE #9 (mẫu hình tiến hóa cao hơn)
+→ **Ứng dụng:** CREATION (Evolutionary Innovation), VALIDATION (Selection Criteria)
+
+
+### **2. Metamorphosis & Discontinuous Change - Biến Thái & Thay Đổi Gián Đoạn**
+
+#### **7. Metamorphosis & Phase Transition** - Biến Thái & Chuyển Pha
+
+Sự thay đổi đột ngột và toàn diện về cấu trúc, hình dạng hoặc trạng thái của một hệ thống.
+
+- **Discontinuous Jump**: Một bước nhảy vọt, không đi qua các trạng thái trung gian
+- **Structural Reorganization**: Sự tái cấu trúc hoàn toàn các thành phần và mối quan hệ bên trong
+- **Identity Shift**: Một sự thay đổi cơ bản về bản chất và định danh của hệ thống
+- **Critical Threshold**: Điểm tới hạn mà khi bị vượt qua sẽ kích hoạt sự chuyển pha không thể đảo ngược
+- **Critical Point Dynamics**: Động lực điểm tới hạn
+- **Order Parameter**: Tham số trật tự
+- **Symmetry Breaking**: Phá vỡ đối xứng
+- **State Discontinuity**: Sự gián đoạn trạng thái
+
+→ **Liên kết:** CREATION (Breakthrough Dynamics), TRANSCENDENCE (Paradox Mastery), VALIDATION (State Detection), NAVIGATION (Transition Management)
+
+#### **8. Crisis & Breakthrough** - Khủng Hoảng & Đột Phá
+
+Mô hình trong đó các giai đoạn khủng hoảng hoặc mâu thuẫn sâu sắc thường dẫn đến những đột phá quan trọng.
+
+- **Creative Crisis**: Khủng hoảng như chất xúc tác cho sự thay đổi sâu sắc
+- **Breaking Point**: Điểm phá vỡ nơi cái cũ không thể tiếp tục
+- **Emergence Through Pressure**: Cái mới xuất hiện dưới áp lực của khủng hoảng
+- **Post-Crisis Integration**: Tích hợp bài học và cấu trúc mới sau khủng hoảng
+
+→ **Liên kết:** VALIDATION (Stress Testing), CREATION (Breakthrough Innovation)
+
+#### **9. Oscillation & Pulsation** → [XEM #27] - Reference Stub
+
+**Khái niệm này đã được GỘP vào #27 (System Evolution Patterns)** để tránh trùng lặp và tăng tính mạch lạc.
+
+→ **Xem chi tiết tại:** DYNAMICS #27 (Oscillation & Pulsation - Mẫu Hình Chuyển Động)
+
+#### **10. Punctuation Dynamics** - Động Lực Dấu Chấm
+
+Sự xen kẽ giữa các giai đoạn ổn định và các khoảnh khắc biến đổi mạnh mẽ.
+
+- **Continuous vs. Discontinuous Change**: Sự khác biệt giữa thay đổi liên tục và gián đoạn
+- **Accumulation-Release Pattern**: Mẫu hình tích tụ-giải phóng
+- **Stable Plateaus**: Các vùng ổn định giữa các bước nhảy
+- **Revolutionary Leaps**: Những bước nhảy vọt cách mạng
+
+→ **Liên kết:** CREATION (Breakthrough Moments), VALIDATION (Change Detection)
+
+#### **11. Threshold Crossing** - Vượt Qua Ngưỡng
+
+Khoảnh khắc vượt qua một ranh giới quan trọng, dẫn đến sự thay đổi không thể đảo ngược.
+
+- **Point of No Return**: Điểm không thể quay lại
+- **Commitment Moment**: Khoảnh khắc cam kết với con đường mới
+- **Identity Shift**: Sự thay đổi bản sắc qua việc vượt ngưỡng
+- **New Domain Entry**: Bước vào một lĩnh vực hoàn toàn mới
+
+→ **Liên kết:** NAVIGATION (Strategic Commitment), TRANSCENDENCE (Paradigm Leap)
+
+#### **12. Quantum Leap** - Bước Nhảy Lượng Tử
+
+Sự thay đổi đột ngột và gián đoạn từ một trạng thái sang trạng thái khác mà không đi qua các trạng thái trung gian.
+
+- **Discontinuous Jump**: Nhảy vọt không liên tục
+- **Energy Threshold**: Ngưỡng năng lượng cần vượt qua
+- **State Transition**: Chuyển đổi trạng thái tức thì
+- **Irreversible Change**: Thay đổi không thể đảo ngược
+
+→ **Liên kết:** CREATION (Radical Innovation), TRANSCENDENCE (Quantum Consciousness)
+
+#### **13. Transmutation** - Biến Hóa
+
+Sự thay đổi bản chất cơ bản của một thứ, chuyển từ một dạng sang dạng khác hoàn toàn.
+
+- **Essence Transformation**: Chuyển hóa bản chất
+- **Category Change**: Thay đổi phạm trù
+- **Fundamental Reconstitution**: Tái cấu tạo cơ bản
+- **New Nature Emergence**: Xuất hiện bản chất mới
+
+→ **Liên kết:** TRANSCENDENCE (Fundamental Change), CREATION (Radical Innovation)
+
+#### **14. Molting & Shedding** - Lột Xác & Rụng Lớp
+
+Quá trình loại bỏ lớp ngoài cũ để lộ ra lớp mới bên dưới, cho phép tăng trưởng.
+
+- **Outgrowing Old Forms**: Vượt ra khỏi các hình thức cũ
+- **Protective Removal**: Loại bỏ những gì đã bảo vệ nhưng giờ hạn chế
+- **Vulnerability Period**: Giai đoạn dễ bị tổn thương trong chuyển đổi
+- **Renewed Capacity**: Khả năng được đổi mới
+
+→ **Liên kết:** TRANSCENDENCE (Shedding Identities), VALIDATION (Growth Indicators)
+
+
+### **3. Creative Destruction & Regeneration - Phá Hủy Sáng Tạo & Tái Sinh**
+
+#### **15. Creative Destruction & Renewal** - Phá Hủy Sáng Tạo & Tái Sinh
+
+Chu kỳ trong đó các cấu trúc, quy trình hoặc mô thức cũ bị phá hủy để nhường chỗ cho những cái mới, hiệu quả hơn.
+
+- **Obsolescence Cycle**: Chu kỳ lỗi thời, trong đó cái mới làm cho cái cũ không còn phù hợp
+- **Letting Go**: Hành động có chủ đích của việc từ bỏ các hệ thống cũ đã không còn phục vụ mục đích
+- **Phoenix Protocol**: Quá trình tái sinh từ tro tàn, sử dụng năng lượng từ sự sụp đổ
+- **Regenerative Cycle**: Một chu trình không chỉ thay thế cái cũ mà còn cải thiện sức khỏe toàn bộ hệ thống
+
+→ **Liên kết:** VALIDATION (Adversarial Testing), FOUNDATIONS (Via Negativa)
+
+#### **16. Ego Death & Rebirth** - Cái Chết & Tái Sinh của Cái Tôi
+
+Quá trình chuyển hóa tâm lý sâu sắc, trong đó cấu trúc nhận dạng cũ tan rã để nhường chỗ cho ý thức rộng lớn hơn.
+
+- **Identity Dissolution**: Sự hòa tan của bản sắc và câu chuyện cá nhân quen thuộc
+- **The Void Navigation**: Hành trình đi qua trạng thái "hư không" khi cái tôi cũ không còn
+- **Re-identification**: Quá trình xây dựng và nhận dạng với một cái tôi mới linh hoạt hơn
+- **Psycho-spiritual Metamorphosis**: Sự biến thái về tâm lý và tâm linh thay đổi cơ bản cách trải nghiệm
+
+→ **Liên kết:** TRANSCENDENCE (Unity Consciousness), INTEGRATION (Personal Integration)
+
+#### **17. Apoptosis & Regeneration** - Chết Theo Chương Trình & Tái Tạo
+
+Động lực sinh học của việc loại bỏ các bộ phận cũ một cách có trật tự và sự tái tạo mới.
+
+- **Programmed Obsolescence**: Sự lỗi thời có kế hoạch của các bộ phận để nhường chỗ cho đổi mới
+- **Systemic Pruning**: Hành động "cắt tỉa" có chủ đích để duy trì sức khỏe
+- **Healing & Renewal**: Quá trình sửa chữa và tái tạo sau tổn thương
+- **Health through Subtraction**: Sức khỏe được duy trì bằng cả thêm vào và loại bỏ
+
+→ **Liên kết:** FOUNDATIONS (Via Negativa), INTEGRATION (Living Systems Integration)
+
+#### **18. Dissolution & Rebirth** - Hòa Tan & Tái Sinh
+
+Chu kỳ các cấu trúc cũ hòa tan để giải phóng năng lượng và nguyên liệu cho sự tái sinh.
+
+- **Deconstruction Phase**: Giai đoạn phá cấu trúc
+- **Elemental Release**: Giải phóng các nguyên tố cơ bản
+- **Primordial State**: Trở về trạng thái nguyên thủy
+- **Reconstruction**: Tái cấu trúc theo hình thức mới
+
+→ **Liên kết:** TRANSCENDENCE (Death & Rebirth), CREATION (Radical Renewal)
+
+#### **19. Assumption Annihilation** - Tiêu Diệt Giả Định
+
+Quá trình phát hiện và loại bỏ các giả định không được kiểm chứng.
+
+- **Belief Deconstruction**: Phá cấu trúc niềm tin
+- **Foundation Questioning**: Đặt câu hỏi về nền tảng
+- **Assumption Testing**: Kiểm tra giả định
+- **Liberation from Dogma**: Giải phóng khỏi giáo điều
+
+→ **Liên kết:** VALIDATION (Critical Thinking), TRANSCENDENCE (Freedom)
+
+
+### **4. Paradigm Shifts & Cognitive Transformation - Chuyển Đổi Mô Thức & Chuyển Hóa Nhận Thức**
+
+#### **20. Paradigm Shift Dynamics** - Động Lực Chuyển Đổi Mô Thức
+
+Một sự thay đổi nền tảng trong các giả định, khái niệm và thực hành cơ bản của một lĩnh vực hoặc thế giới quan.
+
+- **Anomaly Accumulation**: Giai đoạn các hiện tượng bất thường tích tụ lại, tạo ra áp lực thay đổi
+- **Crisis & Incommensurability**: Giai đoạn khủng hoảng khi các mô thức cạnh tranh không thể so sánh trực tiếp
+- **Gestalt Switch**: Sự thay đổi nhận thức đột ngột, nơi thế giới được nhìn nhận theo cách hoàn toàn mới
+- **New Normalization**: Giai đoạn mô thức mới trở thành nền tảng chung được chấp nhận
+
+→ **Liên kết:** FOUNDATIONS (Mental Models), [META] LAYER (Meta-Structures)
+
+#### **21. Paradigm Shifting** - Thay Đổi Mô Thức
+
+Quá trình chuyển đổi từ một khung nhận thức sang khung nhận thức khác.
+
+- **Framework Replacement**: Thay thế khung tư duy
+- **Worldview Transformation**: Chuyển đổi thế giới quan
+- **Perspective Revolution**: Cách mạng góc nhìn
+- **Gestalt Switch**: Chuyển đổi gestalt
+
+→ **Liên kết:** FOUNDATIONS (Mental Models), TRANSCENDENCE (Paradigm Leap)
+
+#### **22. Cognitive Reboot** - Khởi Động Lại Nhận Thức
+
+Quá trình "tắt và bật lại" hệ thống nhận thức để làm mới và tái cấu trúc.
+
+- **Mental Reset**: Đặt lại tâm trí
+- **System Refresh**: Làm mới hệ thống
+- **Clean Slate**: Bảng trắng
+- **Cognitive Restart**: Khởi động lại nhận thức
+
+→ **Liên kết:** VALIDATION (Error Correction), [META] LAYER (System Maintenance)
+
+#### **23. State Shifting** - Chuyển Đổi Trạng Thái
+
+Khả năng thay đổi có ý thức giữa các trạng thái nhận thức, chế độ tư duy, hoặc bối cảnh hoạt động khác nhau.
+
+- **Conscious State Change**: Thay đổi trạng thái có ý thức
+- **Mode Switching**: Chuyển đổi chế độ hoạt động
+- **Context Adaptation**: Thích nghi với ngữ cảnh mới
+- **Deliberate Transition**: Chuyển tiếp có chủ đích và kiểm soát
+
+→ **Liên kết:** [META] LAYER (State Management), OPERATIONS (Mode Selection)
+
+#### **24. Evolutionary Thinking** - Tư Duy Tiến Hóa
+
+Khả năng suy nghĩ về các quá trình phát triển và thay đổi theo thời gian.
+
+- **Long-term Perspective**: Góc nhìn dài hạn
+- **Development Awareness**: Nhận thức về phát triển
+- **Progressive Mindset**: Tư duy tiến bộ
+- **Temporal Depth**: Chiều sâu thời gian
+
+→ **Liên kết:** NAVIGATION (Long-term Vision), FOUNDATIONS (Evolution)
+
+#### **25. Conceptual Mutation** - Đột Biến Khái Niệm
+
+Sự thay đổi đột ngột và sáng tạo trong cách hiểu hoặc sử dụng các khái niệm.
+
+- **Idea Transformation**: Chuyển đổi ý tưởng
+- **Meaning Shift**: Thay đổi ý nghĩa
+- **Creative Reinterpretation**: Giải thích lại sáng tạo
+- **Conceptual Innovation**: Đổi mới khái niệm
+
+→ **Liên kết:** CREATION (Conceptual Innovation), INTEGRATION (Meaning Making)
+
+#### **26. Paradigm Hacking** - Hack Mô Thức
+
+Can thiệp có chủ đích vào các hệ thống niềm tin để tạo ra thay đổi nhanh chóng.
+
+- **System Intervention**: Can thiệp hệ thống
+- **Leverage Point Targeting**: Nhắm vào điểm đòn bẩy
+- **Rapid Paradigm Shift**: Chuyển mô thức nhanh
+- **Belief System Engineering**: Kỹ thuật hệ thống niềm tin
+
+→ **Liên kết:** OPERATIONS (System Design), AMPLIFICATION (Leverage)
+
+#### **27. Transformative Learning** - Học Tập Chuyển Hóa
+
+Quá trình học tập tạo ra thay đổi sâu sắc trong các khung tham chiếu.
+
+- **Perspective Transformation**: Chuyển đổi góc nhìn
+- **Critical Reflection**: Suy ngẫm phê phán
+- **Meaning Scheme Change**: Thay đổi lược đồ ý nghĩa
+- **Deep Learning**: Học sâu
+
+→ **Liên kết:** OPERATIONS (Learning Systems), TRANSCENDENCE (Paradigm Shift)
+
+
+### **5. Antifragility & Crisis Catalysis - Phản Mong Manh & Xúc Tác Khủng Hoảng**
+
+#### **28. Hormesis & Antifragility** - Hiệu Ứng Kích Thích & Phản Mong Manh
+
+Nguyên lý một hệ thống trở nên mạnh mẽ hơn khi tiếp xúc với một lượng căng thẳng vừa phải.
+
+- **Beneficial Stressors**: Các yếu tố gây căng thẳng ở liều lượng thấp mang lại lợi ích
+- **Growth from Disorder**: Hệ thống không chỉ phục hồi mà còn cải thiện từ nghịch cảnh
+- **Volatility Advantage**: Biến sự biến động thành lợi thế thay vì mối đe dọa
+- **Resilience Transcendence**: Vượt qua khả năng phục hồi để đạt được sự phát triển tích cực
+
+→ **Liên kết:** VALIDATION (Stress Testing), AMPLIFICATION (Catalysts)
+
+#### **29. Crisis Optimization** - Tối Ưu Hóa Khủng Hoảng
+
+Sử dụng khủng hoảng như cơ hội để tối ưu hóa và cải thiện hệ thống.
+
+- **Opportunity in Crisis**: Cơ hội trong khủng hoảng
+- **Stress-Driven Improvement**: Cải thiện từ căng thẳng
+- **Emergency Innovation**: Đổi mới khẩn cấp
+- **Crisis Leverage**: Đòn bẩy khủng hoảng
+
+→ **Liên kết:** NAVIGATION (Crisis Management), CREATION (Emergency Innovation)
+
+#### **30. Crisis Farming** - Nuôi Trồng Khủng Hoảng
+
+Cố ý tạo ra hoặc khuếch đại khủng hoảng nhỏ để thúc đẩy tăng trưởng và thay đổi.
+
+- **Controlled Pressure**: Áp lực được kiểm soát
+- **Constructive Crisis**: Khủng hoảng có tính xây dựng
+- **Growth Through Challenge**: Tăng trưởng qua thách thức
+- **Strategic Disruption**: Gián đoạn chiến lược
+
+→ **Liên kết:** VALIDATION (Stress Testing), DYNAMICS (Hormesis)
+
+#### **31. Pressure Catalysis** - Xúc Tác Áp Lực
+
+Sử dụng áp lực như chất xúc tác để thúc đẩy chuyển đổi.
+
+- **Stress as Catalyst**: Căng thẳng như chất xúc tác
+- **Pressure-Driven Change**: Thay đổi do áp lực
+- **Compression Innovation**: Đổi mới từ nén ép
+- **Forced Evolution**: Tiến hóa bị ép buộc
+
+→ **Liên kết:** AMPLIFICATION (Pressure Effects), CREATION (Innovation Under Constraint)
+
+#### **32. Emergency Emergence** - Đột Sinh Khẩn Cấp
+
+Các thuộc tính hoặc giải pháp mới xuất hiện đột ngột trong tình huống khẩn cấp.
+
+- **Crisis Innovation**: Đổi mới trong khủng hoảng
+- **Urgent Creativity**: Sáng tạo khẩn cấp
+- **Breakthrough Under Pressure**: Đột phá dưới áp lực
+- **Emergency Adaptation**: Thích ứng khẩn cấp
+
+→ **Liên kết:** CREATION (Rapid Innovation), DYNAMICS (Crisis Dynamics)
+
+#### **33. Antifragile Mindset (Bổ sung)** - Tư Duy Phản Mong Manh
+
+[Liên quan đến Antifragility đã có, bổ sung về mindset]
+
+- **Stress Seeking**: Tìm kiếm căng thẳng
+- **Growth from Adversity**: Tăng trưởng từ nghịch cảnh
+- **Volatility Love**: Yêu thích biến động
+- **Challenge Embrace**: Đón nhận thách thức
+
+→ **Liên kết:** VALIDATION (Stress Testing), INTEGRATION (Resilience Building)
+
+#### **34. Black Swan Surfing** - Lướt Sóng Thiên Nga Đen
+
+Khả năng không chỉ sống sót mà còn phát triển từ các sự kiện không thể dự đoán.
+
+- **Extreme Event Navigation**: Điều hướng sự kiện cực đoan
+- **Unpredictability Mastery**: Làm chủ sự không thể dự đoán
+- **Tail Risk Advantage**: Lợi thế từ rủi ro đuôi
+- **Surprise Capitalization**: Tận dụng sự bất ngờ
+
+→ **Liên kết:** NAVIGATION (Uncertainty Navigation), DYNAMICS (Antifragility)
+
+---
+
+
+### **6. Order-Chaos Dynamics & Complexity - Động Lực Trật Tự-Hỗn Loạn & Phức Tạp**
+
+#### **35. Order ↔ Chaos Dynamics** - Động Lực Trật Tự ↔ Hỗn Loạn
+
+Sự tương tác biện chứng giữa các lực lượng tạo ra cấu trúc và các lực lượng tạo ra sự ngẫu nhiên.
+
+- **The Edge of Chaos**: Vùng chuyển tiếp là nơi tối ưu cho sự sáng tạo và thích ứng
+- **Creative Tension**: Sức căng sáng tạo từ sự đối đầu giữa cấu trúc và tự do
+- **Dynamic Equilibrium**: Cân bằng động, dao động giữa hai cực mà không sụp đổ
+- **Pattern Formation**: Sự hình thành các mẫu hình phức tạp từ các tương tác hỗn loạn
+
+→ **Liên kết:** CREATION (Edge of Chaos), TRANSCENDENCE (Paradox Mastery)
+
+#### **36. Disruptive Innovation Dynamics** - Động Lực Đổi Mới Đột Phá
+
+Quá trình các công nghệ hoặc mô hình kinh doanh mới phá vỡ thị trường hiện tại và thay thế các đối thủ đã có.
+
+- **Low-End Foothold**: Bắt đầu từ phân khúc thấp mà các công ty lớn bỏ qua
+- **Asymmetric Motivation**: Các công ty đương nhiệm không có động lực chống lại ở phân khúc thấp
+- **Performance Overshooting**: Sản phẩm hiện tại vượt quá nhu cầu, tạo khoảng trống cho giải pháp "đủ tốt"
+- **Value Network Shift**: Sự đột phá tạo ra mạng lưới giá trị mới, làm mạng lưới cũ lỗi thời
+
+→ **Liên kết:** CREATION (Disruptive Innovation), NAVIGATION (Strategic Wayfinding)
+
+#### **37. Bifurcation Cascade** - Thác Phân Nhánh
+
+Chuỗi các điểm phân nhánh liên tiếp dẫn đến sự gia tăng nhanh chóng của độ phức tạp.
+
+- **Sequential Branching**: Phân nhánh tuần tự
+- **Complexity Explosion**: Bùng nổ độ phức tạp
+- **Multiple Futures Divergence**: Phân kỳ nhiều tương lai
+- **Route to Chaos**: Con đường dẫn đến hỗn loạn
+
+→ **Liên kết:** CREATION (Divergent Possibilities), NAVIGATION (Strategic Choices)
+
+#### **38. Reversibility & Irreversibility** - Có Thể Đảo Ngược & Không Thể Đảo Ngược
+
+Phân biệt giữa các thay đổi có thể quay lại và các thay đổi vĩnh viễn.
+
+- **Reversible Processes**: Các quá trình có thể đảo ngược
+- **Irreversible Transformations**: Các chuyển hóa không thể đảo ngược
+- **Commitment Points**: Các điểm cam kết không thể quay lại
+- **Entropy Increase**: Sự gia tăng entropy đánh dấu sự không thể đảo ngược
+
+→ **Liên kết:** VALIDATION (Impact Assessment), NAVIGATION (Decision Gravity)
+
+#### **39. Plasma Instabilities** - Bất Ổn Plasma
+
+Trạng thái năng lượng cao với các dao động và bất ổn định mạnh mẽ.
+
+- **High-Energy States**: Các trạng thái năng lượng cao
+- **Chaotic Fluctuations**: Dao động hỗn loạn
+- **Unstable Equilibrium**: Cân bằng bất ổn
+- **Extreme Transformation**: Chuyển hóa cực đoan
+
+→ **Liên kết:** CREATION (Extreme Innovation), DYNAMICS (Chaos)
+
+---
+
+
+### **7. Timing, Cycles & Developmental Rhythms - Thời Cơ, Chu Kỳ & Nhịp Điệu Phát Triển**
+
+#### **40. Unfolding (Entelechy)** - Sự Mở Ra
+
+Quá trình một hệ thống hiện thực hóa tiềm năng bẩm sinh của nó.
+
+- **Inherent Potential**: Sự tồn tại của một tiềm năng nội tại chờ được biểu hiện
+- **Developmental Process**: Một quy trình phát triển có định hướng từ bên trong
+- **Realization of Purpose**: Sự hiện thực hóa mục đích đã được mã hóa từ ban đầu
+- **Environmental Interaction**: Tiềm năng nội tại tương tác với điều kiện môi trường
+
+→ **Liên kết:** INTEGRATION (Personal Integration), FOUNDATIONS (Core Principles)
+
+#### **41. Kairos & Chronos** - Thời Cơ & Thời Gian Tuyến Tính
+
+Sự tương tác giữa hai loại thời gian: Chronos (thời gian tuần tự) và Kairos (thời điểm thích hợp).
+
+- **Chronos (Quantitative Time)**: Thời gian tuyến tính, đồng hồ, nền tảng cho lập kế hoạch
+- **Kairos (Qualitative Time)**: Thời điểm cơ hội, "cửa sổ" thời gian phù hợp để hành động
+- **Timing Wisdom**: Trí tuệ nhận ra và hành động vào đúng thời điểm Kairos
+- **Decisive Moments**: Những khoảnh khắc quyết định thay đổi toàn bộ quỹ đạo
+
+→ **Liên kết:** NAVIGATION (Timing Wisdom), [META] LAYER (Meta-Time)
+
+#### **42. Liminal Transition** - Chuyển Tiếp Ngưỡng Cửa
+
+Giai đoạn trung gian trong một quá trình chuyển đổi, nơi bản sắc cũ đã tan rã nhưng bản sắc mới chưa hình thành.
+
+- **Betwixt and Between**: Ở giữa hai trạng thái, không thuộc về đâu
+- **Identity Ambiguity**: Sự mơ hồ về bản sắc trong giai đoạn chuyển tiếp
+- **Vulnerability & Potentiality**: Cả dễ bị tổn thương lẫn đầy tiềm năng
+- **Ritual Container**: Cần một "bình chứa" nghi lễ để đi qua an toàn
+
+→ **Liên kết:** TRANSCENDENCE (Threshold Crossing), INTEGRATION (Identity Integration)
+
+#### **43. Maturation & Ripening** - Chín Muồi & Hoàn Thiện
+
+Quá trình tự nhiên của sự phát triển đến trạng thái hoàn thiện, không thể vội vàng.
+
+- **Natural Timing**: Thời gian tự nhiên không thể ép buộc
+- **Gradual Development**: Phát triển từ từ qua các giai đoạn
+- **Readiness Indicators**: Các dấu hiệu cho biết đã sẵn sàng
+- **Harvest Wisdom**: Trí tuệ biết khi nào thu hoạch
+
+→ **Liên kết:** NAVIGATION (Patience & Timing), VALIDATION (Readiness Assessment)
+
+#### **44. Incubation & Emergence** - Ấp Ủ & Đột Sinh
+
+Giai đoạn "ấp ủ" im lặng trước khi cái mới đột ngột xuất hiện.
+
+- **Hidden Preparation**: Sự chuẩn bị ẩn dưới bề mặt
+- **Protective Container**: Môi trường bảo vệ cho sự phát triển
+- **Gestation Period**: Thời gian thai nghén cần thiết
+- **Sudden Manifestation**: Sự biểu hiện đột ngột khi đã chín muồi
+
+→ **Liên kết:** CREATION (Incubation Process), VALIDATION (Timing Readiness)
+
+#### **45. Recovery Cycles** - Chu Kỳ Phục Hồi
+
+Các giai đoạn nghỉ ngơi và tái tạo cần thiết sau những giai đoạn căng thẳng hoặc nỗ lực cao. Đây là ỨNG DỤNG CỤ THỂ của nguyên lý Cycles & Rhythms (FOUNDATIONS #6) trong bối cảnh năng lượng và phục hồi.
+
+- **Rest & Restoration**: Nghỉ ngơi và phục hồi
+- **Energy Replenishment**: Bổ sung năng lượng
+- **Healing Rhythms**: Nhịp điệu chữa lành
+- **Regeneration Phases**: Các giai đoạn tái tạo
+
+→ **Gốc lý thuyết:** FOUNDATIONS #6 (Cycles & Rhythms - Nguyên lý phổ quát)
+→ **Ứng dụng:** DYNAMICS (Energy Management), VALIDATION (Sustainable Performance)
+
+#### **46. Adaptation Rhythms** - Nhịp Điệu Thích Ứng
+
+Các chu kỳ tự nhiên của việc thay đổi và thích nghi với điều kiện mới. Đây là ỨNG DỤNG của Cycles & Rhythms (FOUNDATIONS #6) trong bối cảnh BIẾN ĐỔI và THÍCH ỨNG.
+
+- **Temporal Patterns**: Các mẫu hình theo thời gian
+- **Cyclic Adjustment**: Điều chỉnh theo chu kỳ
+- **Seasonal Adaptation**: Thích nghi theo mùa
+- **Periodic Change**: Thay đổi định kỳ
+
+→ **Gốc lý thuyết:** FOUNDATIONS #6 (Cycles & Rhythms - Nguyên lý phổ quát)
+→ **Ứng dụng:** NAVIGATION (Timing), DYNAMICS (Adaptation)
+
+
+### **8. Dialectical Process & Morphogenesis - Quá Trình Biện Chứng & Hình Thái Phát Sinh**
+
+#### **47. Dialectical Process** - Quá Trình Biện Chứng
 
 Quá trình phát triển thông qua mâu thuẫn và tổng hợp: luận đề → phản đề → hợp đề.
 
@@ -4093,40 +4454,7 @@ Quá trình phát triển thông qua mâu thuẫn và tổng hợp: luận đề
 
 → **Liên kết:** TRANSCENDENCE (Paradox Resolution), INTEGRATION (Synthesis)
 
-#### **18. Liminal Transition** - Chuyển Tiếp Ngưỡng Cửa
-
-Giai đoạn trung gian trong một quá trình chuyển đổi, nơi bản sắc cũ đã tan rã nhưng bản sắc mới chưa hình thành.
-
-- **Betwixt and Between**: Ở giữa hai trạng thái, không thuộc về đâu
-- **Identity Ambiguity**: Sự mơ hồ về bản sắc trong giai đoạn chuyển tiếp
-- **Vulnerability & Potentiality**: Cả dễ bị tổn thương lẫn đầy tiềm năng
-- **Ritual Container**: Cần một "bình chứa" nghi lễ để đi qua an toàn
-
-→ **Liên kết:** TRANSCENDENCE (Threshold Crossing), INTEGRATION (Identity Integration)
-
-#### **19. Alchemical Transformation** - Chuyển Hóa Giả Kim
-
-Phép ẩn dụ của giả kim thuật về sự chuyển hóa từ "kim loại hèn" thành "vàng", từ trạng thái thấp kém đến hoàn thiện.
-
-- **Nigredo (Blackening)**: Giai đoạn hòa tan và chết của cái cũ
-- **Albedo (Whitening)**: Giai đoạn thanh lọc và sáng rõ
-- **Citrinitas (Yellowing)**: Giai đoạn ánh sáng bình minh của sự hiểu biết mới
-- **Rubedo (Reddening)**: Giai đoạn hoàn thiện và tích hợp
-
-→ **Liên kết:** TRANSCENDENCE (Inner Alchemy), INTEGRATION (Wholeness)
-
-#### **20. Punctuation Dynamics** - Động Lực Dấu Chấm
-
-Sự xen kẽ giữa các giai đoạn ổn định và các khoảnh khắc biến đổi mạnh mẽ.
-
-- **Continuous vs. Discontinuous Change**: Sự khác biệt giữa thay đổi liên tục và gián đoạn
-- **Accumulation-Release Pattern**: Mẫu hình tích tụ-giải phóng
-- **Stable Plateaus**: Các vùng ổn định giữa các bước nhảy
-- **Revolutionary Leaps**: Những bước nhảy vọt cách mạng
-
-→ **Liên kết:** CREATION (Breakthrough Moments), VALIDATION (Change Detection)
-
-#### **21. Morphogenesis** - Hình Thái Phát Sinh
+#### **48. Morphogenesis** - Hình Thái Phát Sinh
 
 Quá trình một hệ thống phát triển hình dạng và cấu trúc của nó, bị chi phối bởi các trường thông tin hoặc mẫu hình.
 
@@ -4137,18 +4465,7 @@ Quá trình một hệ thống phát triển hình dạng và cấu trúc của 
 
 → **Liên kết:** CREATION (Form Generation), INTEGRATION (Structure Development)
 
-#### **22. Threshold Crossing** - Vượt Qua Ngưỡng
-
-Khoảnh khắc vượt qua một ranh giới quan trọng, dẫn đến sự thay đổi không thể đảo ngược.
-
-- **Point of No Return**: Điểm không thể quay lại
-- **Commitment Moment**: Khoảnh khắc cam kết với con đường mới
-- **Identity Shift**: Sự thay đổi bản sắc qua việc vượt ngưỡng
-- **New Domain Entry**: Bước vào một lĩnh vực hoàn toàn mới
-
-→ **Liên kết:** NAVIGATION (Strategic Commitment), TRANSCENDENCE (Paradigm Leap)
-
-#### **23. Catalytic Transformation** - Chuyển Hóa Xúc Tác
+#### **49. Catalytic Transformation** - Chuyển Hóa Xúc Tác
 
 Quá trình một yếu tố nhỏ (chất xúc tác) tạo ra sự thay đổi lớn mà bản thân nó không bị thay đổi.
 
@@ -4159,84 +4476,7 @@ Quá trình một yếu tố nhỏ (chất xúc tác) tạo ra sự thay đổi 
 
 → **Liên kết:** AMPLIFICATION (Catalysts), OPERATIONS (Leverage Points)
 
-#### **24. Maturation & Ripening** - Chín Muồi & Hoàn Thiện
-
-Quá trình tự nhiên của sự phát triển đến trạng thái hoàn thiện, không thể vội vàng.
-
-- **Natural Timing**: Thời gian tự nhiên không thể ép buộc
-- **Gradual Development**: Phát triển từ từ qua các giai đoạn
-- **Readiness Indicators**: Các dấu hiệu cho biết đã sẵn sàng
-- **Harvest Wisdom**: Trí tuệ biết khi nào thu hoạch
-
-→ **Liên kết:** NAVIGATION (Patience & Timing), VALIDATION (Readiness Assessment)
-
-#### **25. Quantum Leap** - Bước Nhảy Lượng Tử
-
-Sự thay đổi đột ngột và gián đoạn từ một trạng thái sang trạng thái khác mà không đi qua các trạng thái trung gian.
-
-- **Discontinuous Jump**: Nhảy vọt không liên tục
-- **Energy Threshold**: Ngưỡng năng lượng cần vượt qua
-- **State Transition**: Chuyển đổi trạng thái tức thì
-- **Irreversible Change**: Thay đổi không thể đảo ngược
-
-→ **Liên kết:** CREATION (Radical Innovation), TRANSCENDENCE (Quantum Consciousness)
-
-#### **26. Incubation & Emergence** - Ấp Ủ & Đột Sinh
-
-Giai đoạn "ấp ủ" im lặng trước khi cái mới đột ngột xuất hiện.
-
-- **Hidden Preparation**: Sự chuẩn bị ẩn dưới bề mặt
-- **Protective Container**: Môi trường bảo vệ cho sự phát triển
-- **Gestation Period**: Thời gian thai nghén cần thiết
-- **Sudden Manifestation**: Sự biểu hiện đột ngột khi đã chín muồi
-
-→ **Liên kết:** CREATION (Incubation Process), VALIDATION (Timing Readiness)
-
-#### **27. Dissolution & Rebirth** - Hòa Tan & Tái Sinh
-
-Chu kỳ các cấu trúc cũ hòa tan để giải phóng năng lượng và nguyên liệu cho sự tái sinh.
-
-- **Deconstruction Phase**: Giai đoạn phá cấu trúc
-- **Elemental Release**: Giải phóng các nguyên tố cơ bản
-- **Primordial State**: Trở về trạng thái nguyên thủy
-- **Reconstruction**: Tái cấu trúc theo hình thức mới
-
-→ **Liên kết:** TRANSCENDENCE (Death & Rebirth), CREATION (Radical Renewal)
-
-#### **28. Gradual vs. Punctuated Change** - Thay Đổi Tăng Dần vs. Gián Đoạn
-
-Sự phân biệt giữa thay đổi liên tục từ từ và thay đổi gián đoạn đột ngột.
-
-- **Incrementalism**: Chủ nghĩa cải thiện dần dần
-- **Revolutionary Jumps**: Những bước nhảy cách mạng
-- **Hybrid Patterns**: Các mẫu hình kết hợp cả hai
-- **Context-Dependent Mode**: Chế độ phụ thuộc ngữ cảnh
-
-→ **Liên kết:** NAVIGATION (Change Strategy), OPERATIONS (Implementation Approach)
-
-#### **29. Transmutation** - Biến Hóa
-
-Sự thay đổi bản chất cơ bản của một thứ, chuyển từ một dạng sang dạng khác hoàn toàn.
-
-- **Essence Transformation**: Chuyển hóa bản chất
-- **Category Change**: Thay đổi phạm trù
-- **Fundamental Reconstitution**: Tái cấu tạo cơ bản
-- **New Nature Emergence**: Xuất hiện bản chất mới
-
-→ **Liên kết:** TRANSCENDENCE (Fundamental Change), CREATION (Radical Innovation)
-
-#### **30. Molting & Shedding** - Lột Xác & Rụng Lớp
-
-Quá trình loại bỏ lớp ngoài cũ để lộ ra lớp mới bên dưới, cho phép tăng trưởng.
-
-- **Outgrowing Old Forms**: Vượt ra khỏi các hình thức cũ
-- **Protective Removal**: Loại bỏ những gì đã bảo vệ nhưng giờ hạn chế
-- **Vulnerability Period**: Giai đoạn dễ bị tổn thương trong chuyển đổi
-- **Renewed Capacity**: Khả năng được đổi mới
-
-→ **Liên kết:** TRANSCENDENCE (Shedding Identities), VALIDATION (Growth Indicators)
-
-#### **31. Spiral Dynamics** - Động Lực Xoắn Ốc
+#### **50. Spiral Dynamics** - Động Lực Xoắn Ốc
 
 Mô hình phát triển theo hình xoắn ốc qua các cấp độ ngày càng phức tạp và tích hợp.
 
@@ -4251,7 +4491,7 @@ Mô hình phát triển theo hình xoắn ốc qua các cấp độ ngày càng 
 
 → **Liên kết:** TRANSCENDENCE (Vertical Growth), INTEGRATION (Developmental Lines), INTEGRATION (Cultural Patterns)
 
-#### **32. Hysteresis in Change** - Trễ Hồi Trong Thay Đổi
+#### **51. Hysteresis in Change** - Trễ Hồi Trong Thay Đổi
 
 Sự chậm trễ hoặc kháng cự trong việc thay đổi trạng thái, ngay cả khi điều kiện đã thay đổi.
 
@@ -4262,169 +4502,7 @@ Sự chậm trễ hoặc kháng cự trong việc thay đổi trạng thái, nga
 
 → **Liên kết:** VALIDATION (Change Resistance), OPERATIONS (Change Management)
 
-#### **33. Bifurcation Cascade** - Thác Phân Nhánh
-
-Chuỗi các điểm phân nhánh liên tiếp dẫn đến sự gia tăng nhanh chóng của độ phức tạp.
-
-- **Sequential Branching**: Phân nhánh tuần tự
-- **Complexity Explosion**: Bùng nổ độ phức tạp
-- **Multiple Futures Divergence**: Phân kỳ nhiều tương lai
-- **Route to Chaos**: Con đường dẫn đến hỗn loạn
-
-→ **Liên kết:** CREATION (Divergent Possibilities), NAVIGATION (Strategic Choices)
-
-#### **34. Reversibility & Irreversibility** - Có Thể Đảo Ngược & Không Thể Đảo Ngược
-
-Phân biệt giữa các thay đổi có thể quay lại và các thay đổi vĩnh viễn.
-
-- **Reversible Processes**: Các quá trình có thể đảo ngược
-- **Irreversible Transformations**: Các chuyển hóa không thể đảo ngược
-- **Commitment Points**: Các điểm cam kết không thể quay lại
-- **Entropy Increase**: Sự gia tăng entropy đánh dấu sự không thể đảo ngược
-
-→ **Liên kết:** VALIDATION (Impact Assessment), NAVIGATION (Decision Gravity)
-
-### **Nhóm Bổ Sung: Phase Change Dynamics (7 mục mới)**
-
-#### **35. Melting** - Nóng Chảy
-
-Quá trình chuyển từ trạng thái rắn sang lỏng, biểu tượng cho sự mềm mại hóa các cấu trúc cứng nhắc.
-
-- **Rigidity Release**: Giải phóng sự cứng nhắc
-- **Structure Softening**: Làm mềm cấu trúc
-- **Flow Enabling**: Cho phép dòng chảy
-- **Transition Threshold**: Ngưỡng chuyển tiếp
-
-→ **Liên kết:** TRANSCENDENCE (Softening), DYNAMICS (Flexibility)
-
-#### **36. Solidification** - Đông Cứng
-
-Quá trình chuyển từ trạng thái lỏng sang rắn, biểu tượng cho sự kết tinh của ý tưởng và cấu trúc.
-
-- **Structure Formation**: Hình thành cấu trúc
-- **Pattern Crystallization**: Kết tinh mẫu hình
-- **Stability Achievement**: Đạt được sự ổn định
-- **Form Manifestation**: Biểu hiện hình thức
-
-→ **Liên kết:** INTEGRATION (Crystallization), OPERATIONS (Structure Building)
-
-#### **37. Evaporation** - Bốc Hơi
-
-Quá trình chuyển từ lỏng sang khí, biểu tượng cho sự giải phóng và mở rộng.
-
-- **Expansion & Liberation**: Mở rộng và giải phóng
-- **Essence Extraction**: Chiết xuất bản chất
-- **Lightness & Freedom**: Nhẹ nhàng và tự do
-- **Dispersal Dynamics**: Động lực phân tán
-
-→ **Liên kết:** TRANSCENDENCE (Liberation), CREATION (Expansion)
-
-#### **38. Condensation** - Ngưng Tụ
-
-Quá trình chuyển từ khí sang lỏng, biểu tượng cho sự tập trung và cô đọng.
-
-- **Concentration**: Sự cô đọng và tập trung
-- **Essence Gathering**: Thu thập bản chất
-- **Manifestation**: Biểu hiện hữu hình
-- **Density Increase**: Tăng mật độ
-
-→ **Liên kết:** INTEGRATION (Concentration), OPERATIONS (Focus)
-
-#### **39. Sublimation** - Thăng Hoa
-
-Quá trình chuyển trực tiếp từ rắn sang khí, bỏ qua trạng thái lỏng, biểu tượng cho sự chuyển hóa trực tiếp.
-
-- **Direct Transformation**: Chuyển hóa trực tiếp
-- **Bypass Intermediates**: Bỏ qua trạng thái trung gian
-- **Quantum Leap**: Bước nhảy lượng tử
-- **Transcendent Change**: Thay đổi siêu việt
-
-→ **Liên kết:** TRANSCENDENCE (Quantum Leap), CREATION (Radical Innovation)
-
-#### **40. Plasma Instabilities** - Bất Ổn Plasma
-
-Trạng thái năng lượng cao với các dao động và bất ổn định mạnh mẽ.
-
-- **High-Energy States**: Các trạng thái năng lượng cao
-- **Chaotic Fluctuations**: Dao động hỗn loạn
-- **Unstable Equilibrium**: Cân bằng bất ổn
-- **Extreme Transformation**: Chuyển hóa cực đoan
-
-→ **Liên kết:** CREATION (Extreme Innovation), DYNAMICS (Chaos)
-
----
-
-### **Nhóm Bổ Sung: Cognitive Shift Patterns (7 mục mới)**
-
-#### **41. Paradigm Shifting** - Thay Đổi Mô Thức
-
-Quá trình chuyển đổi từ một khung nhận thức sang khung nhận thức khác.
-
-- **Framework Replacement**: Thay thế khung tư duy
-- **Worldview Transformation**: Chuyển đổi thế giới quan
-- **Perspective Revolution**: Cách mạng góc nhìn
-- **Gestalt Switch**: Chuyển đổi gestalt
-
-→ **Liên kết:** FOUNDATIONS (Mental Models), TRANSCENDENCE (Paradigm Leap)
-
-#### **42. Cognitive Reboot** - Khởi Động Lại Nhận Thức
-
-Quá trình "tắt và bật lại" hệ thống nhận thức để làm mới và tái cấu trúc.
-
-- **Mental Reset**: Đặt lại tâm trí
-- **System Refresh**: Làm mới hệ thống
-- **Clean Slate**: Bảng trắng
-- **Cognitive Restart**: Khởi động lại nhận thức
-
-→ **Liên kết:** VALIDATION (Error Correction), [META] LAYER (System Maintenance)
-
-#### **43. State Shifting** - Chuyển Đổi Trạng Thái
-
-Khả năng thay đổi có ý thức giữa các trạng thái nhận thức, chế độ tư duy, hoặc bối cảnh hoạt động khác nhau.
-
-- **Conscious State Change**: Thay đổi trạng thái có ý thức
-- **Mode Switching**: Chuyển đổi chế độ hoạt động
-- **Context Adaptation**: Thích nghi với ngữ cảnh mới
-- **Deliberate Transition**: Chuyển tiếp có chủ đích và kiểm soát
-
-→ **Liên kết:** [META] LAYER (State Management), OPERATIONS (Mode Selection)
-
-#### **44. Recovery Cycles** - Chu Kỳ Phục Hồi
-
-Các giai đoạn nghỉ ngơi và tái tạo cần thiết sau những giai đoạn căng thẳng hoặc nỗ lực cao. Đây là ỨNG DỤNG CỤ THỂ của nguyên lý Cycles & Rhythms (FOUNDATIONS #6) trong bối cảnh năng lượng và phục hồi.
-
-- **Rest & Restoration**: Nghỉ ngơi và phục hồi
-- **Energy Replenishment**: Bổ sung năng lượng
-- **Healing Rhythms**: Nhịp điệu chữa lành
-- **Regeneration Phases**: Các giai đoạn tái tạo
-
-→ **Gốc lý thuyết:** FOUNDATIONS #6 (Cycles & Rhythms - Nguyên lý phổ quát)
-→ **Ứng dụng:** DYNAMICS (Energy Management), VALIDATION (Sustainable Performance)
-
-#### **45. Adaptation Rhythms** - Nhịp Điệu Thích Ứng
-
-Các chu kỳ tự nhiên của việc thay đổi và thích nghi với điều kiện mới. Đây là ỨNG DỤNG của Cycles & Rhythms (FOUNDATIONS #6) trong bối cảnh BIẾN ĐỔI và THÍCH ỨNG.
-
-- **Temporal Patterns**: Các mẫu hình theo thời gian
-- **Cyclic Adjustment**: Điều chỉnh theo chu kỳ
-- **Seasonal Adaptation**: Thích nghi theo mùa
-- **Periodic Change**: Thay đổi định kỳ
-
-→ **Gốc lý thuyết:** FOUNDATIONS #6 (Cycles & Rhythms - Nguyên lý phổ quát)
-→ **Ứng dụng:** NAVIGATION (Timing), DYNAMICS (Adaptation)
-
-#### **46. Evolutionary Thinking** - Tư Duy Tiến Hóa
-
-Khả năng suy nghĩ về các quá trình phát triển và thay đổi theo thời gian.
-
-- **Long-term Perspective**: Góc nhìn dài hạn
-- **Development Awareness**: Nhận thức về phát triển
-- **Progressive Mindset**: Tư duy tiến bộ
-- **Temporal Depth**: Chiều sâu thời gian
-
-→ **Liên kết:** NAVIGATION (Long-term Vision), FOUNDATIONS (Evolution)
-
-#### **47. Developmental Thinking** - Tư Duy Phát Triển
+#### **52. Developmental Thinking** - Tư Duy Phát Triển
 
 Nhận thức về các giai đoạn và cấp độ phát triển khác nhau.
 
@@ -4437,56 +4515,21 @@ Nhận thức về các giai đoạn và cấp độ phát triển khác nhau.
 
 ---
 
-### **Nhóm Bổ Sung: Evolution & Design Systems (9 mục mới)**
 
-#### **48. Evolutionary Reasoning - Suy Luận Tiến Hóa [Nguyên Lý Biến Đổi]**
+### **9. Alchemical & Conscious Evolution - Giả Kim & Tiến Hóa Ý Thức**
 
-Sử dụng các nguyên lý TIẾN HÓA TỰ NHIÊN để hiểu sự biến đổi và chuyển hóa. Khác với công cụ phân tích ở OPERATIONS, đây là về ĐỘNG LỰC HỌC - làm thế nào hệ thống thực sự thay đổi, thích ứng và tiến hóa theo thời gian.
+#### **53. Alchemical Transformation** - Chuyển Hóa Giả Kim
 
-- **Adaptive Logic**: Logic THÍCH ỨNG - tư duy tự điều chỉnh với ngữ cảnh
-- **Selection Thinking**: Tư duy CHỌN LỌC - hiểu áp lực môi trường
-- **Variation Analysis**: PHÂN TÍCH biến dị - từ đâu sự đa dạng xuất hiện
-- **Fitness Evaluation**: ĐÁNH GIÁ sự phù hợp - tiêu chí sống còn
+Phép ẩn dụ của giả kim thuật về sự chuyển hóa từ "kim loại hèn" thành "vàng", từ trạng thái thấp kém đến hoàn thiện.
 
-→ **Liên kết nội bộ:** DYNAMICS (Transformation Dynamics)
-→ **Công cụ hóa:** OPERATIONS #17 (thuật toán tiến hóa)
-→ **Nhìn vĩ mô:** TRANSCENDENCE #9 (mẫu hình tiến hóa cao hơn)
-→ **Ứng dụng:** CREATION (Evolutionary Innovation), VALIDATION (Selection Criteria)
+- **Nigredo (Blackening)**: Giai đoạn hòa tan và chết của cái cũ
+- **Albedo (Whitening)**: Giai đoạn thanh lọc và sáng rõ
+- **Citrinitas (Yellowing)**: Giai đoạn ánh sáng bình minh của sự hiểu biết mới
+- **Rubedo (Reddening)**: Giai đoạn hoàn thiện và tích hợp
 
-#### **49. Evolutionary Innovation** - Đổi Mới Tiến Hóa
+→ **Liên kết:** TRANSCENDENCE (Inner Alchemy), INTEGRATION (Wholeness)
 
-Sự đổi mới xuất hiện từ quá trình thử nghiệm và chọn lọc liên tục.
-
-- **Trial & Error**: Thử và sai
-- **Incremental Breakthroughs**: Đột phá tăng dần
-- **Natural Selection of Ideas**: Chọn lọc tự nhiên các ý tưởng
-- **Adaptive Creativity**: Sáng tạo thích ứng
-
-→ **Liên kết:** CREATION (Innovation Process), VALIDATION (Selection Criteria)
-
-#### **50. Evolutionary Design** - Thiết Kế Tiến Hóa
-
-Phương pháp thiết kế sử dụng các nguyên lý tiến hóa để tối ưu hóa giải pháp.
-
-- **Genetic Algorithms**: Thuật toán di truyền
-- **Iterative Optimization**: Tối ưu hóa lặp
-- **Fitness-Based Selection**: Chọn lọc dựa trên độ phù hợp
-- **Emergent Solutions**: Giải pháp đột sinh
-
-→ **Liên kết:** OPERATIONS (Design Methods), CREATION (Optimization)
-
-#### **51. Artificial Life Creativity** - Sáng Tạo Sự Sống Nhân Tạo
-
-Sử dụng mô phỏng sự sống để tạo ra các hệ thống sáng tạo và thích ứng.
-
-- **Simulation-Based Innovation**: Đổi mới dựa trên mô phỏng
-- **Emergent Behaviors**: Các hành vi đột sinh
-- **Self-Organizing Systems**: Hệ thống tự tổ chức
-- **Digital Evolution**: Tiến hóa kỹ thuật số
-
-→ **Liên kết:** CREATION (Generative Systems), OPERATIONS (Simulation)
-
-#### **52. Evolutionary Consciousness** - Ý Thức Tiến Hóa
+#### **54. Evolutionary Consciousness** - Ý Thức Tiến Hóa
 
 Nhận thức về bản thân như một phần của quá trình tiến hóa đang diễn ra.
 
@@ -4497,7 +4540,7 @@ Nhận thức về bản thân như một phần của quá trình tiến hóa �
 
 → **Liên kết:** TRANSCENDENCE (Cosmic Awareness), [META] LAYER (Self-Evolution)
 
-#### **53. Personal Evolution** - Tiến Hóa Cá Nhân
+#### **55. Personal Evolution** - Tiến Hóa Cá Nhân
 
 Quá trình phát triển có chủ đích của bản thân qua thời gian.
 
@@ -4510,42 +4553,123 @@ Quá trình phát triển có chủ đích của bản thân qua thời gian.
 
 ---
 
-### **Nhóm Bổ Sung: Destruction & Renewal (7 mục mới)**
+#### **56. Kundalini Awakening** - Đánh Thức Kundalini
 
-#### **54. Assumption Annihilation** - Tiêu Diệt Giả Định
+Quá trình kích hoạt năng lượng sáng tạo tiềm ẩn ở gốc cột sống.
 
-Quá trình phát hiện và loại bỏ các giả định không được kiểm chứng.
+- **Energy Activation**: Kích hoạt năng lượng
+- **Chakra Opening**: Mở các trung tâm năng lượng
+- **Consciousness Expansion**: Mở rộng ý thức
+- **Spiritual Transformation**: Chuyển hóa tâm linh
 
-- **Belief Deconstruction**: Phá cấu trúc niềm tin
-- **Foundation Questioning**: Đặt câu hỏi về nền tảng
-- **Assumption Testing**: Kiểm tra giả định
-- **Liberation from Dogma**: Giải phóng khỏi giáo điều
+→ **Liên kết:** TRANSCENDENCE (Energy Awakening), DYNAMICS (Energy Systems)
 
-→ **Liên kết:** VALIDATION (Critical Thinking), TRANSCENDENCE (Freedom)
+#### **57. Tummo Inner Fire** - Lửa Nội Tummo
 
-#### **55. Conceptual Mutation** - Đột Biến Khái Niệm
+Thực hành Tây Tạng sử dụng hình dung và hơi thở để tạo ra nhiệt nội tại.
 
-Sự thay đổi đột ngột và sáng tạo trong cách hiểu hoặc sử dụng các khái niệm.
+- **Inner Heat Generation**: Tạo nhiệt bên trong
+- **Breath Control**: Kiểm soát hơi thở
+- **Visualization Practice**: Thực hành hình dung
+- **Energy Mastery**: Làm chủ năng lượng
 
-- **Idea Transformation**: Chuyển đổi ý tưởng
-- **Meaning Shift**: Thay đổi ý nghĩa
-- **Creative Reinterpretation**: Giải thích lại sáng tạo
-- **Conceptual Innovation**: Đổi mới khái niệm
+→ **Liên kết:** DYNAMICS (Energy Management), OPERATIONS (Body Mastery)
 
-→ **Liên kết:** CREATION (Conceptual Innovation), INTEGRATION (Meaning Making)
 
-#### **56. Paradigm Hacking** - Hack Mô Thức
+### **10. Phase Change Dynamics - Động Lực Chuyển Pha**
 
-Can thiệp có chủ đích vào các hệ thống niềm tin để tạo ra thay đổi nhanh chóng.
+#### **58. Melting** - Nóng Chảy
 
-- **System Intervention**: Can thiệp hệ thống
-- **Leverage Point Targeting**: Nhắm vào điểm đòn bẩy
-- **Rapid Paradigm Shift**: Chuyển mô thức nhanh
-- **Belief System Engineering**: Kỹ thuật hệ thống niềm tin
+Quá trình chuyển từ trạng thái rắn sang lỏng, biểu tượng cho sự mềm mại hóa các cấu trúc cứng nhắc.
 
-→ **Liên kết:** OPERATIONS (System Design), AMPLIFICATION (Leverage)
+- **Rigidity Release**: Giải phóng sự cứng nhắc
+- **Structure Softening**: Làm mềm cấu trúc
+- **Flow Enabling**: Cho phép dòng chảy
+- **Transition Threshold**: Ngưỡng chuyển tiếp
 
-#### **57. Evolution Hacking** - Hack Tiến Hóa [Tăng Tốc Biến Đổi]
+→ **Liên kết:** TRANSCENDENCE (Softening), DYNAMICS (Flexibility)
+
+#### **59. Solidification** - Đông Cứng
+
+Quá trình chuyển từ trạng thái lỏng sang rắn, biểu tượng cho sự kết tinh của ý tưởng và cấu trúc.
+
+- **Structure Formation**: Hình thành cấu trúc
+- **Pattern Crystallization**: Kết tinh mẫu hình
+- **Stability Achievement**: Đạt được sự ổn định
+- **Form Manifestation**: Biểu hiện hình thức
+
+→ **Liên kết:** INTEGRATION (Crystallization), OPERATIONS (Structure Building)
+
+#### **60. Evaporation** - Bốc Hơi
+
+Quá trình chuyển từ lỏng sang khí, biểu tượng cho sự giải phóng và mở rộng.
+
+- **Expansion & Liberation**: Mở rộng và giải phóng
+- **Essence Extraction**: Chiết xuất bản chất
+- **Lightness & Freedom**: Nhẹ nhàng và tự do
+- **Dispersal Dynamics**: Động lực phân tán
+
+→ **Liên kết:** TRANSCENDENCE (Liberation), CREATION (Expansion)
+
+#### **61. Condensation** - Ngưng Tụ
+
+Quá trình chuyển từ khí sang lỏng, biểu tượng cho sự tập trung và cô đọng.
+
+- **Concentration**: Sự cô đọng và tập trung
+- **Essence Gathering**: Thu thập bản chất
+- **Manifestation**: Biểu hiện hữu hình
+- **Density Increase**: Tăng mật độ
+
+→ **Liên kết:** INTEGRATION (Concentration), OPERATIONS (Focus)
+
+#### **62. Sublimation** - Thăng Hoa
+
+Quá trình chuyển trực tiếp từ rắn sang khí, bỏ qua trạng thái lỏng, biểu tượng cho sự chuyển hóa trực tiếp.
+
+- **Direct Transformation**: Chuyển hóa trực tiếp
+- **Bypass Intermediates**: Bỏ qua trạng thái trung gian
+- **Quantum Leap**: Bước nhảy lượng tử
+- **Transcendent Change**: Thay đổi siêu việt
+
+→ **Liên kết:** TRANSCENDENCE (Quantum Leap), CREATION (Radical Innovation)
+
+
+### **11. Evolutionary Innovation & Design - Đổi Mới & Thiết Kế Tiến Hóa**
+
+#### **63. Evolutionary Innovation** - Đổi Mới Tiến Hóa
+
+Sự đổi mới xuất hiện từ quá trình thử nghiệm và chọn lọc liên tục.
+
+- **Trial & Error**: Thử và sai
+- **Incremental Breakthroughs**: Đột phá tăng dần
+- **Natural Selection of Ideas**: Chọn lọc tự nhiên các ý tưởng
+- **Adaptive Creativity**: Sáng tạo thích ứng
+
+→ **Liên kết:** CREATION (Innovation Process), VALIDATION (Selection Criteria)
+
+#### **64. Evolutionary Design** - Thiết Kế Tiến Hóa
+
+Phương pháp thiết kế sử dụng các nguyên lý tiến hóa để tối ưu hóa giải pháp.
+
+- **Genetic Algorithms**: Thuật toán di truyền
+- **Iterative Optimization**: Tối ưu hóa lặp
+- **Fitness-Based Selection**: Chọn lọc dựa trên độ phù hợp
+- **Emergent Solutions**: Giải pháp đột sinh
+
+→ **Liên kết:** OPERATIONS (Design Methods), CREATION (Optimization)
+
+#### **65. Artificial Life Creativity** - Sáng Tạo Sự Sống Nhân Tạo
+
+Sử dụng mô phỏng sự sống để tạo ra các hệ thống sáng tạo và thích ứng.
+
+- **Simulation-Based Innovation**: Đổi mới dựa trên mô phỏng
+- **Emergent Behaviors**: Các hành vi đột sinh
+- **Self-Organizing Systems**: Hệ thống tự tổ chức
+- **Digital Evolution**: Tiến hóa kỹ thuật số
+
+→ **Liên kết:** CREATION (Generative Systems), OPERATIONS (Simulation)
+
+#### **66. Evolution Hacking** - Hack Tiến Hóa [Tăng Tốc Biến Đổi]
 
 Tăng tốc quá trình tiến hóa tự nhiên thông qua can thiệp có chủ đích. Khác với việc THIẾT KẾ tiến hóa ở CREATION, đây là về ĐỘNG LỰC của sự biến đổi - làm cho các quá trình chuyển đổi diễn ra NHANH HƠN.
 
@@ -4556,7 +4680,7 @@ Tăng tốc quá trình tiến hóa tự nhiên thông qua can thiệp có chủ
 
 → **Liên kết:** NAVIGATION (Fast-Track Development), CREATION #15 (Evolution Hacking - định hướng tiến hóa), DYNAMICS #1 (Evolution & Adaptation), DYNAMICS #59 (Mutation Acceleration)
 
-#### **58. Mutation Acceleration** - Tăng Tốc Đột Biến
+#### **67. Mutation Acceleration** - Tăng Tốc Đột Biến
 
 Tăng tốc độ và tần suất của các biến đổi sáng tạo.
 
@@ -4567,7 +4691,7 @@ Tăng tốc độ và tần suất của các biến đổi sáng tạo.
 
 → **Liên kết:** CREATION (Rapid Prototyping), AMPLIFICATION (Acceleration)
 
-#### **59. Metamorphic Precision** - Chính Xác Biến Thái
+#### **68. Metamorphic Precision** - Chính Xác Biến Thái
 
 Kiểm soát chính xác quá trình chuyển đổi sâu sắc.
 
@@ -4578,7 +4702,7 @@ Kiểm soát chính xác quá trình chuyển đổi sâu sắc.
 
 → **Liên kết:** OPERATIONS (Precision Engineering), VALIDATION (Quality Control)
 
-#### **60. Transmutation Algorithms** - Thuật Toán Biến Hóa
+#### **69. Transmutation Algorithms** - Thuật Toán Biến Hóa
 
 Các quy trình hệ thống để chuyển đổi từ trạng thái này sang trạng thái khác.
 
@@ -4591,79 +4715,10 @@ Các quy trình hệ thống để chuyển đổi từ trạng thái này sang 
 
 ---
 
-### **Nhóm Bổ Sung: Crisis Catalyst (6 mục mới)**
 
-#### **61. Crisis Optimization** - Tối Ưu Hóa Khủng Hoảng
+### **12. Trauma Healing & Post-traumatic Growth - Chữa Lành Chấn Thương & Tăng Trưởng Sau Nghịch Cảnh**
 
-Sử dụng khủng hoảng như cơ hội để tối ưu hóa và cải thiện hệ thống.
-
-- **Opportunity in Crisis**: Cơ hội trong khủng hoảng
-- **Stress-Driven Improvement**: Cải thiện từ căng thẳng
-- **Emergency Innovation**: Đổi mới khẩn cấp
-- **Crisis Leverage**: Đòn bẩy khủng hoảng
-
-→ **Liên kết:** NAVIGATION (Crisis Management), CREATION (Emergency Innovation)
-
-#### **62. Crisis Farming** - Nuôi Trồng Khủng Hoảng
-
-Cố ý tạo ra hoặc khuếch đại khủng hoảng nhỏ để thúc đẩy tăng trưởng và thay đổi.
-
-- **Controlled Pressure**: Áp lực được kiểm soát
-- **Constructive Crisis**: Khủng hoảng có tính xây dựng
-- **Growth Through Challenge**: Tăng trưởng qua thách thức
-- **Strategic Disruption**: Gián đoạn chiến lược
-
-→ **Liên kết:** VALIDATION (Stress Testing), DYNAMICS (Hormesis)
-
-#### **63. Pressure Catalysis** - Xúc Tác Áp Lực
-
-Sử dụng áp lực như chất xúc tác để thúc đẩy chuyển đổi.
-
-- **Stress as Catalyst**: Căng thẳng như chất xúc tác
-- **Pressure-Driven Change**: Thay đổi do áp lực
-- **Compression Innovation**: Đổi mới từ nén ép
-- **Forced Evolution**: Tiến hóa bị ép buộc
-
-→ **Liên kết:** AMPLIFICATION (Pressure Effects), CREATION (Innovation Under Constraint)
-
-#### **64. Emergency Emergence** - Đột Sinh Khẩn Cấp
-
-Các thuộc tính hoặc giải pháp mới xuất hiện đột ngột trong tình huống khẩn cấp.
-
-- **Crisis Innovation**: Đổi mới trong khủng hoảng
-- **Urgent Creativity**: Sáng tạo khẩn cấp
-- **Breakthrough Under Pressure**: Đột phá dưới áp lực
-- **Emergency Adaptation**: Thích ứng khẩn cấp
-
-→ **Liên kết:** CREATION (Rapid Innovation), DYNAMICS (Crisis Dynamics)
-
-#### **65. Antifragile Mindset (Bổ sung)** - Tư Duy Phản Mong Manh
-
-[Liên quan đến Antifragility đã có, bổ sung về mindset]
-
-- **Stress Seeking**: Tìm kiếm căng thẳng
-- **Growth from Adversity**: Tăng trưởng từ nghịch cảnh
-- **Volatility Love**: Yêu thích biến động
-- **Challenge Embrace**: Đón nhận thách thức
-
-→ **Liên kết:** VALIDATION (Stress Testing), INTEGRATION (Resilience Building)
-
-#### **66. Black Swan Surfing** - Lướt Sóng Thiên Nga Đen
-
-Khả năng không chỉ sống sót mà còn phát triển từ các sự kiện không thể dự đoán.
-
-- **Extreme Event Navigation**: Điều hướng sự kiện cực đoan
-- **Unpredictability Mastery**: Làm chủ sự không thể dự đoán
-- **Tail Risk Advantage**: Lợi thế từ rủi ro đuôi
-- **Surprise Capitalization**: Tận dụng sự bất ngờ
-
-→ **Liên kết:** NAVIGATION (Uncertainty Navigation), DYNAMICS (Antifragility)
-
----
-
-### **Nhóm Bổ Sung: Practice & Integration (14 mục mới)**
-
-#### **67. Trauma Resolution** - Giải Quyết Chấn Thương
+#### **70. Trauma Resolution** - Giải Quyết Chấn Thương
 
 Các kỹ thuật và quá trình để chữa lành chấn thương tâm lý.
 
@@ -4674,7 +4729,7 @@ Các kỹ thuật và quá trình để chữa lành chấn thương tâm lý.
 
 → **Liên kết:** INTEGRATION (Healing), VALIDATION (Safety)
 
-#### **68. Inner Child Repair** - Sửa Chữa Đứa Trẻ Nội Tâm
+#### **71. Inner Child Repair** - Sửa Chữa Đứa Trẻ Nội Tâm
 
 Làm việc với các phần bị tổn thương trong tuổi thơ để chữa lành và tích hợp.
 
@@ -4685,18 +4740,7 @@ Làm việc với các phần bị tổn thương trong tuổi thơ để chữa
 
 → **Liên kết:** INTEGRATION (Personal History), TRANSCENDENCE (Wholeness)
 
-#### **69. Breathwork Transformation** - Chuyển Hóa Qua Hơi Thở
-
-Sử dụng các kỹ thuật thở để tạo ra thay đổi về ý thức và chữa lành.
-
-- **Conscious Breathing**: Thở có ý thức
-- **Energy Activation**: Kích hoạt năng lượng
-- **Emotional Release**: Giải phóng cảm xúc
-- **State Alteration**: Thay đổi trạng thái
-
-→ **Liên kết:** DYNAMICS (Energy Management), TRANSCENDENCE (Altered States)
-
-#### **70. Energy Psychology** - Tâm Lý Năng Lượng
+#### **72. Energy Psychology** - Tâm Lý Năng Lượng
 
 Các phương pháp tâm lý kết hợp làm việc với hệ thống năng lượng của cơ thể.
 
@@ -4707,7 +4751,7 @@ Các phương pháp tâm lý kết hợp làm việc với hệ thống năng l�
 
 → **Liên kết:** INTEGRATION (Mind-Body), DYNAMICS (Energy Systems)
 
-#### **71. Post-traumatic Growth** - Tăng Trưởng Sau Chấn Thương
+#### **73. Post-traumatic Growth** - Tăng Trưởng Sau Chấn Thương
 
 Sự phát triển tích cực xuất hiện từ việc vượt qua chấn thương.
 
@@ -4718,38 +4762,19 @@ Sự phát triển tích cực xuất hiện từ việc vượt qua chấn thư
 
 → **Liên kết:** DYNAMICS (Antifragility), INTEGRATION (Growth)
 
-#### **72. Transformative Learning** - Học Tập Chuyển Hóa
 
-Quá trình học tập tạo ra thay đổi sâu sắc trong các khung tham chiếu.
+### **13. Breathwork & Energetic Practices - Thở & Thực Hành Năng Lượng**
 
-- **Perspective Transformation**: Chuyển đổi góc nhìn
-- **Critical Reflection**: Suy ngẫm phê phán
-- **Meaning Scheme Change**: Thay đổi lược đồ ý nghĩa
-- **Deep Learning**: Học sâu
+#### **74. Breathwork Transformation** - Chuyển Hóa Qua Hơi Thở
 
-→ **Liên kết:** OPERATIONS (Learning Systems), TRANSCENDENCE (Paradigm Shift)
+Sử dụng các kỹ thuật thở để tạo ra thay đổi về ý thức và chữa lành.
 
-#### **73. Kundalini Awakening** - Đánh Thức Kundalini
-
-Quá trình kích hoạt năng lượng sáng tạo tiềm ẩn ở gốc cột sống.
-
+- **Conscious Breathing**: Thở có ý thức
 - **Energy Activation**: Kích hoạt năng lượng
-- **Chakra Opening**: Mở các trung tâm năng lượng
-- **Consciousness Expansion**: Mở rộng ý thức
-- **Spiritual Transformation**: Chuyển hóa tâm linh
+- **Emotional Release**: Giải phóng cảm xúc
+- **State Alteration**: Thay đổi trạng thái
 
-→ **Liên kết:** TRANSCENDENCE (Energy Awakening), DYNAMICS (Energy Systems)
-
-#### **74. Tummo Inner Fire** - Lửa Nội Tummo
-
-Thực hành Tây Tạng sử dụng hình dung và hơi thở để tạo ra nhiệt nội tại.
-
-- **Inner Heat Generation**: Tạo nhiệt bên trong
-- **Breath Control**: Kiểm soát hơi thở
-- **Visualization Practice**: Thực hành hình dung
-- **Energy Mastery**: Làm chủ năng lượng
-
-→ **Liên kết:** DYNAMICS (Energy Management), OPERATIONS (Body Mastery)
+→ **Liên kết:** DYNAMICS (Energy Management), TRANSCENDENCE (Altered States)
 
 #### **75. Holotropic Breathwork** - Thở Holotropic
 
@@ -4807,6 +4832,7 @@ Các thực hành nhằm kích hoạt tiềm năng ẩn trong tế bào và DNA.
 → **Liên kết:** TRANSCENDENCE (Biological Evolution), DYNAMICS (Cellular Dynamics)
 
 ---
+
 
 ## CHỨC NĂNG 3: SYSTEM EVOLUTION PATTERNS - MÔ THỨC TIẾN HÓA HỆ THỐNG
 
