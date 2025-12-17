@@ -15,12 +15,13 @@ Good group names should be:
 
 ### Standard Format
 ```markdown
-### **[English Name] - [Tên Tiếng Việt]**
+### **[số]. [English Name] - [Tên Tiếng Việt]**
 ```
 
 ### Requirements
 - ✅ Use `###` (3 hashes) for group headings
-- ✅ Wrap entire name in `**bold**`
+- ✅ Number groups sequentially within each CHỨC NĂNG (1, 2, 3...)
+- ✅ Wrap entire name (including number) in `**bold**`
 - ✅ English first, Vietnamese second
 - ✅ Separate with ` - ` (space-dash-space)
 - ✅ Capitalize appropriately in both languages
@@ -29,26 +30,32 @@ Good group names should be:
 
 **✅ CORRECT:**
 ```markdown
-### **Western Philosophical Foundations - Nền Tảng Triết Học Phương Tây**
-### **Unity, Duality & Ultimate Reality - Thống Nhất, Nhị Nguyên & Thực Tại Tối Hậu**
-### **Eastern Contemplative Traditions - Truyền Thống Thiền Định Phương Đông**
+### **1. Western Philosophical Foundations - Nền Tảng Triết Học Phương Tây**
+### **2. Unity, Duality & Ultimate Reality - Thống Nhất, Nhị Nguyên & Thực Tại Tối Hậu**
+### **3. Eastern Contemplative Traditions - Truyền Thống Thiền Định Phương Đông**
 ```
 
 **❌ INCORRECT:**
 ```markdown
-### Western Philosophical Foundations - Nền Tảng Triết Học Phương Tây
+### **Western Philosophical Foundations - Nền Tảng Triết Học Phương Tây**
+    (Missing group number)
+
+### 1. Western Philosophical Foundations - Nền Tảng Triết Học Phương Tây
     (Missing ** bold **)
 
-### **Western Philosophical Foundations**
+### **1. Western Philosophical Foundations**
     (Missing Vietnamese)
 
-### **Nền Tảng Triết Học Phương Tây**
+### **1. Nền Tảng Triết Học Phương Tây**
     (Missing English)
 
-## **Western Philosophical Foundations - Nền Tảng Triết Học Phương Tây**
+## **1. Western Philosophical Foundations - Nền Tảng Triết Học Phương Tây**
     (Wrong heading level - should be ### not ##)
 
-### **Western Philosophical Foundations-Nền Tảng Triết Học Phương Tây**
+### **1.Western Philosophical Foundations - Nền Tảng Triết Học Phương Tây**
+    (Missing space after number)
+
+### **1. Western Philosophical Foundations-Nền Tảng Triết Học Phương Tây**
     (Missing spaces around dash)
 ```
 
@@ -62,10 +69,10 @@ Name groups after the domain or field they represent.
 **Best for:** Concepts from distinct disciplines or traditions
 
 **Examples:**
-- `### **Western Philosophical Foundations - Nền Tảng Triết Học Phương Tây**`
-- `### **Eastern Contemplative Traditions - Truyền Thống Thiền Định Phương Đông**`
-- `### **Mathematical Foundations - Nền Tảng Toán Học**`
-- `### **Scientific Methodologies - Phương Pháp Luận Khoa Học**`
+- `### **1. Western Philosophical Foundations - Nền Tảng Triết Học Phương Tây**`
+- `### **2. Eastern Contemplative Traditions - Truyền Thống Thiền Định Phương Đông**`
+- `### **3. Mathematical Foundations - Nền Tảng Toán Học**`
+- `### **4. Scientific Methodologies - Phương Pháp Luận Khoa Học**`
 
 ### Strategy 2: Function-Based Names
 Name groups after what the concepts DO or their purpose.
@@ -73,10 +80,10 @@ Name groups after what the concepts DO or their purpose.
 **Best for:** Concepts that serve similar functions
 
 **Examples:**
-- `### **Analytical Methods - Phương Pháp Phân Tích**`
-- `### **Synthesis Techniques - Kỹ Thuật Tổng Hợp**`
-- `### **Validation Frameworks - Khung Kiểm Chứng**`
-- `### **Integration Patterns - Mẫu Hình Tích Hợp**`
+- `### **1. Analytical Methods - Phương Pháp Phân Tích**`
+- `### **2. Synthesis Techniques - Kỹ Thuật Tổng Hợp**`
+- `### **3. Validation Frameworks - Khung Kiểm Chứng**`
+- `### **4. Integration Patterns - Mẫu Hình Tích Hợp**`
 
 ### Strategy 3: Concept-Based Names
 Name groups after the core concepts or themes they explore.
@@ -84,10 +91,10 @@ Name groups after the core concepts or themes they explore.
 **Best for:** Concepts exploring related ideas
 
 **Examples:**
-- `### **Unity, Duality & Ultimate Reality - Thống Nhất, Nhị Nguyên & Thực Tại Tối Hậu**`
-- `### **Change, Emergence & Complexity - Biến Đổi, Hiện Sinh & Phức Tạp**`
-- `### **Truth, Knowledge & Belief - Chân Lý, Tri Thức & Niềm Tin**`
-- `### **Being, Becoming & Existence - Hữu, Sinh Thành & Tồn Tại**`
+- `### **1. Unity, Duality & Ultimate Reality - Thống Nhất, Nhị Nguyên & Thực Tại Tối Hậu**`
+- `### **2. Change, Emergence & Complexity - Biến Đổi, Hiện Sinh & Phức Tạp**`
+- `### **3. Truth, Knowledge & Belief - Chân Lý, Tri Thức & Niềm Tin**`
+- `### **4. Being, Becoming & Existence - Hữu, Sinh Thành & Tồn Tại**`
 
 ### Strategy 4: Hybrid Names
 Combine domain + function or concept + domain.
@@ -95,11 +102,11 @@ Combine domain + function or concept + domain.
 **Best for:** Nuanced groupings
 
 **Examples:**
-- `### **Foundational Axioms & Logic - Tiên Đề & Logic Nền Tảng**`
+- `### **1. Foundational Axioms & Logic - Tiên Đề & Logic Nền Tảng**`
   (Concept + Domain)
-- `### **Integrative Wisdom Practices - Thực Hành Tri Tuệ Tích Hợp**`
+- `### **2. Integrative Wisdom Practices - Thực Hành Tri Tuệ Tích Hợp**`
   (Function + Domain)
-- `### **Dynamic Systems Analysis - Phân Tích Hệ Thống Động**`
+- `### **3. Dynamic Systems Analysis - Phân Tích Hệ Thống Động**`
   (Domain + Function)
 
 ---
@@ -110,18 +117,18 @@ Combine domain + function or concept + domain.
 
 **❌ BAD:**
 ```markdown
-### **Core Concepts - Khái Niệm Cốt Lõi**
-### **Other Elements - Các Yếu Tố Khác**
-### **Miscellaneous - Linh Tinh**
-### **Additional Topics - Chủ Đề Bổ Sung**
+### **1. Core Concepts - Khái Niệm Cốt Lõi**
+### **2. Other Elements - Các Yếu Tố Khác**
+### **3. Miscellaneous - Linh Tinh**
+### **4. Additional Topics - Chủ Đề Bổ Sung**
 ```
 
 **✅ GOOD (specific and thematic):**
 ```markdown
-### **Foundational Axioms & Logic - Tiên Đề & Logic Nền Tảng**
-### **Eastern Contemplative Traditions - Truyền Thống Thiền Định Phương Đông**
-### **Dynamic Systems Analysis - Phân Tích Hệ Thống Động**
-### **Integrative Synthesis Methods - Phương Pháp Tổng Hợp Tích Hợp**
+### **1. Foundational Axioms & Logic - Tiên Đề & Logic Nền Tảng**
+### **2. Eastern Contemplative Traditions - Truyền Thống Thiền Định Phương Đông**
+### **3. Dynamic Systems Analysis - Phân Tích Hệ Thống Động**
+### **4. Integrative Synthesis Methods - Phương Pháp Tổng Hợp Tích Hợp**
 ```
 
 **Why good wins:** User immediately knows what concepts to expect
@@ -321,7 +328,8 @@ Before finalizing, ask yourself:
 
 When naming a new group:
 
-- [ ] Format: `### **[English] - [Vietnamese]**`
+- [ ] Format: `### **[số]. [English] - [Vietnamese]**`
+- [ ] Groups numbered sequentially (1, 2, 3...)
 - [ ] Length: 3-6 words per language (ideally)
 - [ ] Both languages present and correct
 - [ ] Descriptive, not generic

@@ -1,18 +1,18 @@
-# Regroup Plan: CHèC NNG [sÑ]
+# Regroup Plan: CHï¿½C NNG [sï¿½]
 
-**Status:** =á In Progress
+**Status:** =ï¿½ In Progress
 **Started:** [timestamp]
 **Completed:** -
 
 ---
 
-## =Í Context
+## =ï¿½ Context
 
-**CHèC NNG:** [sÑ]
-**Title:** [FUNCTION NAME - TÊN CHèC NNG]
+**CHï¿½C NNG:** [sï¿½]
+**Title:** [FUNCTION NAME - Tï¿½N CHï¿½C NNG]
 **Domain:** [Domain name from Whole.md]
 **Line Range:** [start]-[end]
-**Total Concepts:** [sÑ]
+**Total Concepts:** [sï¿½]
 
 ---
 
@@ -20,17 +20,17 @@
 
 **Grep command:**
 ```bash
-grep -n "^## CHèC NNG [sÑ]:" Whole.md
+grep -n "^## CHï¿½C NNG [sï¿½]:" Whole.md
 ```
 
 **Result:**
-- Line: [sÑ]
-- Next function at: [sÑ]
-- Section length: ~[sÑ] lines
+- Line: [sï¿½]
+- Next function at: [sï¿½]
+- Section length: ~[sï¿½] lines
 
 ---
 
-## =Ö Step 2: Read Content
+## =ï¿½ Step 2: Read Content
 
 **Read command:**
 ```bash
@@ -38,18 +38,18 @@ grep -n "^## CHèC NNG [sÑ]:" Whole.md
 ```
 
 **Content inventory:**
-- [ ] "### **TÕng Quan**" - LOCATED 
-- [ ] Current groups: [sÑ] groups
-- [ ] Total concepts: [sÑ] concepts
+- [ ] "### **Tï¿½ng Quan**" - LOCATED 
+- [ ] Current groups: [sï¿½] groups
+- [ ] Total concepts: [sï¿½] concepts
 
 **Current group structure:**
-1. [Tên nhóm 1] - [sÑ] concepts
-2. [Tên nhóm 2] - [sÑ] concepts
+1. [Tï¿½n nhï¿½m 1] - [sï¿½] concepts
+2. [Tï¿½n nhï¿½m 2] - [sï¿½] concepts
 ...
 
 ---
 
-## >à Step 3: Analyze & Propose Grouping
+## >ï¿½ Step 3: Analyze & Propose Grouping
 
 ### Current Issues
 - [ ] Groups too generic?
@@ -69,28 +69,30 @@ grep -n "^## CHèC NNG [sÑ]:" Whole.md
 
 ### Proposed New Groups
 
-#### Group 1: **[English Name] - [Tên Ti¿ng ViÇt]**
+#### Group 1: **1. [English Name] - [TÃªn Tiáº¿ng Viá»‡t]**
 **Theme:** [describe the unifying theme]
 **Concepts:** [list concept numbers]
-**Count:** [sÑ]
+**Count:** [sá»‘]
 
 **Rationale:**
 - [Why these concepts belong together]
 
 ---
 
-#### Group 2: **[English Name] - [Tên Ti¿ng ViÇt]**
+#### Group 2: **2. [English Name] - [TÃªn Tiáº¿ng Viá»‡t]**
 **Theme:** [describe the unifying theme]
 **Concepts:** [list concept numbers]
-**Count:** [sÑ]
+**Count:** [sá»‘]
 
 **Rationale:**
 - [Why these concepts belong together]
 
 ---
 
-#### Group 3: **[English Name] - [Tên Ti¿ng ViÇt]**
+#### Group 3: **3. [English Name] - [TÃªn Tiáº¿ng Viá»‡t]**
 *(Add more groups as needed)*
+
+**Note:** Group numbers (1, 2, 3...) are scoped to each CHá»¨C NÄ‚NG for easy tracking.
 
 ---
 
@@ -107,21 +109,21 @@ grep -n "^## CHèC NNG [sÑ]:" Whole.md
 ##  Step 4: Edit Implementation
 
 **Edit strategy:**
-- Use Edit tool with old_string ’ new_string
-- Replace entire CHèC NNG section at once
-- Preserve "TÕng Quan" exactly
+- Use Edit tool with old_string ï¿½ new_string
+- Replace entire CHï¿½C NNG section at once
+- Preserve "Tï¿½ng Quan" exactly
 - Renumber concepts 1, 2, 3...
 
 **Pre-edit checklist:**
 - [ ] Backup check: Git status clean
-- [ ] "TÕng Quan" content copied exactly
+- [ ] "Tï¿½ng Quan" content copied exactly
 - [ ] All concept content preserved
 - [ ] New group names finalized
 - [ ] Numbering sequence prepared
 
 **Post-edit checklist:**
 - [ ] Read back edited section to verify
-- [ ] Check "TÕng Quan" unchanged
+- [ ] Check "Tï¿½ng Quan" unchanged
 - [ ] Count concepts (should match original)
 - [ ] Verify numbering (1, 2, 3... continuous)
 
@@ -133,11 +135,11 @@ grep -n "^## CHèC NNG [sÑ]:" Whole.md
 
 **Run validation script:**
 ```bash
-node .claude/skills/whole-regrouper/scripts/validate-regroup.js [sÑ]
+node .claude/skills/whole-regrouper/scripts/validate-regroup.js [sï¿½]
 ```
 
 **Validation results:**
-- [ ] "TÕng Quan" preserved 
+- [ ] "Tï¿½ng Quan" preserved 
 - [ ] Continuous numbering 
 - [ ] Bilingual group names 
 - [ ] No content deletion 
@@ -146,10 +148,10 @@ node .claude/skills/whole-regrouper/scripts/validate-regroup.js [sÑ]
 
 **Message format:**
 ```
-refactor: Regroup concepts in CF[sÑ] - [TÊN CHèC NNG]
+refactor: Regroup concepts in CF[sï¿½] - [Tï¿½N CHï¿½C NNG]
 
-- Reorganized [sÑ] concepts into [sÑ] thematic groups
-- Preserved "TÕng Quan" section
+- Reorganized [sï¿½] concepts into [sï¿½] thematic groups
+- Preserved "Tï¿½ng Quan" section
 - Updated group names for clarity: [list new groups]
 ```
 
@@ -162,18 +164,18 @@ git push -u origin claude/reorganize-function-concepts-[session-id]
 
 ---
 
-## =Ê Progress Update
+## =ï¿½ Progress Update
 
 **Update `.whole-progress.json`:**
-- [ ] Add [sÑ] to `completed[]`
-- [ ] Set `nextSuggested` = [sÑ] + 1
+- [ ] Add [sï¿½] to `completed[]`
+- [ ] Set `nextSuggested` = [sï¿½] + 1
 - [ ] Update `lastUpdated` timestamp
 - [ ] Update `lastCompletedFunction` details
 - [ ] Recalculate `stats`
 
 ---
 
-## =Ý Learnings & Notes
+## =ï¿½ Learnings & Notes
 
 **What went well:**
 - [note]
@@ -186,10 +188,10 @@ git push -u origin claude/reorganize-function-concepts-[session-id]
 
 ---
 
-## <¯ Success Criteria
+## <ï¿½ Success Criteria
 
 - [x] All concepts preserved (no deletion)
-- [x] "TÕng Quan" unchanged
+- [x] "Tï¿½ng Quan" unchanged
 - [x] New groups are thematic and balanced
 - [x] Bilingual naming throughout
 - [x] Validation passed

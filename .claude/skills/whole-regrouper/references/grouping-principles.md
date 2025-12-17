@@ -55,17 +55,20 @@ Tất cả tên nhóm phải có cả English và Tiếng Việt:
 
 **Format:**
 ```markdown
-### **[English Name] - [Tên Tiếng Việt]**
+### **[số]. [English Name] - [Tên Tiếng Việt]**
 ```
+
+**Lưu ý:** Số nhóm (1, 2, 3...) chỉ áp dụng trong phạm vi mỗi CHỨC NĂNG (reset về 1 cho mỗi chức năng mới).
 
 **Ví dụ:**
 ```
-✅ TỐT: ### **Western Philosophical Foundations - Nền Tảng Triết Học Phương Tây**
-✅ TỐT: ### **Unity, Duality & Ultimate Reality - Thống Nhất, Nhị Nguyên & Thực Tại Tối Hậu**
+✅ TỐT: ### **1. Western Philosophical Foundations - Nền Tảng Triết Học Phương Tây**
+✅ TỐT: ### **2. Unity, Duality & Ultimate Reality - Thống Nhất, Nhị Nguyên & Thực Tại Tối Hậu**
 
-❌ TRÁNH: ### **Western Philosophy** (thiếu Vietnamese)
-❌ TRÁNH: ### **Nền Tảng Triết Học** (thiếu English)
-❌ TRÁNH: ### Western Philosophical Foundations (thiếu ** và format)
+❌ TRÁNH: ### **Western Philosophy - Triết Học Phương Tây** (thiếu số)
+❌ TRÁNH: ### **1. Western Philosophy** (thiếu Vietnamese)
+❌ TRÁNH: ### **1. Nền Tảng Triết Học** (thiếu English)
+❌ TRÁNH: ### 1. Western Philosophical Foundations (thiếu ** và format)
 ```
 
 ## Additional Considerations - Các Yếu Tố Bổ Sung
@@ -113,12 +116,12 @@ Khi phân vân giữa 2 cách gom nhóm:
 
 **After (Thematic):**
 ```
-### **Western Philosophical Foundations - Nền Tảng Triết Học Phương Tây**
+### **1. Western Philosophical Foundations - Nền Tảng Triết Học Phương Tây**
 1. Stoicism
 2. Socratic Wisdom
 3. Existentialism
 
-### **Eastern Contemplative Traditions - Truyền Thống Thiền Định Phương Đông**
+### **2. Eastern Contemplative Traditions - Truyền Thống Thiền Định Phương Đông**
 4. Taoism
 5. Zen Buddhism
 ```
@@ -133,9 +136,9 @@ Khi phân vân giữa 2 cách gom nhóm:
 
 **After (Balanced - 15 concepts in 3 groups):**
 ```
-### Group A (5 concepts)
-### Group B (5 concepts)
-### Group C (5 concepts)
+### **1. Group A** (5 concepts)
+### **2. Group B** (5 concepts)
+### **3. Group C** (5 concepts)
 ```
 
 ---
