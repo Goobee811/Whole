@@ -3376,10 +3376,6 @@ Miền này khám phá các quy trình, dòng chảy và các lực lượng t�
 
 Khả năng nhận diện và làm việc với các thuộc tính đột sinh - những gì xuất hiện từ sự tương tác phức tạp - và hiểu các trạng thái dòng chảy tối ưu trong tư duy và hành động.
 
-### **Các Khái Niệm Cốt Lõi (38 mục)**
-
----
-
 ### **Core Emergence Principles - Nguyên Lý Đột Sinh Cốt Lõi**
 
 #### **1. Emergence** - Đột Sinh
