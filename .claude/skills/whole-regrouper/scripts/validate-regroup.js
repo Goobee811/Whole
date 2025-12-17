@@ -6,8 +6,8 @@
  * Checks:
  * 1. "Tổng Quan" section preserved
  * 2. All concepts still present (no deletions)
- * 3. Continuous numbering (1, 2, 3...)
- * 4. Bilingual headings for groups
+ * 3. Continuous concept numbering (1, 2, 3...)
+ * 4. Numbered bilingual headings for groups (1, 2, 3...)
  * 5. Proper markdown format
  *
  * Usage:
@@ -146,38 +146,59 @@ function validateNumbering(lines) {
 }
 
 /**
- * Validation: Check bilingual group headings (except Tổng Quan)
+ * Validation: Check bilingual group headings with numbering (except Tổng Quan)
  */
 function validateBilingualGroups(lines, tongQuanIndex) {
   const errors = [];
   const groups = [];
+  let expectedGroupNumber = 1;
 
   for (let i = 0; i < lines.length; i++) {
     if (/^### \*\*/.test(lines[i]) && !/CHỨC NĂNG/.test(lines[i])) {
       const line = lines[i];
 
-      // Skip Tổng Quan (it's Vietnamese-only by design)
+      // Skip Tổng Quan (it's Vietnamese-only by design, no number)
       if (/Tổng Quan/.test(line)) {
-        groups.push({ line: i, name: 'Tổng Quan', bilingual: true });
+        groups.push({ line: i, name: 'Tổng Quan', bilingual: true, numbered: true });
         continue;
       }
 
-      // Check for bilingual format: ### **[English] - [Vietnamese]**
-      const bilingualMatch = line.match(/^### \*\*(.+?) - (.+?)\*\*$/);
-      if (!bilingualMatch) {
-        errors.push(
-          `❌ Line ${i + 1}: Group heading not bilingual: "${line.trim()}"`
-        );
-        errors.push(
-          `   Expected format: ### **[English] - [Vietnamese]**`
-        );
-        groups.push({ line: i, name: line, bilingual: false });
+      // Check for numbered bilingual format: ### **[số]. [English] - [Vietnamese]**
+      const numberedBilingualMatch = line.match(/^### \*\*(\d+)\. (.+?) - (.+?)\*\*$/);
+      if (!numberedBilingualMatch) {
+        // Check if it's bilingual but missing number
+        const bilingualOnlyMatch = line.match(/^### \*\*(.+?) - (.+?)\*\*$/);
+        if (bilingualOnlyMatch) {
+          errors.push(
+            `❌ Line ${i + 1}: Group heading missing number: "${line.trim()}"`
+          );
+          errors.push(
+            `   Expected format: ### **${expectedGroupNumber}. ${bilingualOnlyMatch[1]} - ${bilingualOnlyMatch[2]}**`
+          );
+        } else {
+          errors.push(
+            `❌ Line ${i + 1}: Group heading not bilingual/numbered: "${line.trim()}"`
+          );
+          errors.push(
+            `   Expected format: ### **[số]. [English] - [Vietnamese]**`
+          );
+        }
+        groups.push({ line: i, name: line, bilingual: false, numbered: false });
       } else {
+        const actualNumber = parseInt(numberedBilingualMatch[1], 10);
+        if (actualNumber !== expectedGroupNumber) {
+          errors.push(
+            `❌ Line ${i + 1}: Group number mismatch: expected ${expectedGroupNumber}, found ${actualNumber}`
+          );
+        }
         groups.push({
           line: i,
-          name: `${bilingualMatch[1]} - ${bilingualMatch[2]}`,
+          number: actualNumber,
+          name: `${numberedBilingualMatch[2]} - ${numberedBilingualMatch[3]}`,
           bilingual: true,
+          numbered: true,
         });
+        expectedGroupNumber++;
       }
     }
   }
@@ -278,15 +299,15 @@ function validateFunction(functionNumber) {
       results.numbering.errors.forEach((err) => console.log(`   ${err}`));
     }
 
-    // 3. Bilingual groups
+    // 3. Bilingual & numbered groups
     if (results.bilingual.valid) {
       log(
         colors.green,
         '✅',
-        `Bilingual groups: PASS (${results.bilingual.count} groups)`
+        `Bilingual & numbered groups: PASS (${results.bilingual.count} groups)`
       );
     } else {
-      log(colors.red, '❌', 'Bilingual groups: FAIL');
+      log(colors.red, '❌', 'Bilingual & numbered groups: FAIL');
       results.bilingual.errors.forEach((err) => console.log(`   ${err}`));
     }
 

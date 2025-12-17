@@ -20,7 +20,8 @@ Complete BEFORE making any edits to Whole.md:
 - [ ] No concepts duplicated across groups
 
 ### Name Quality
-- [ ] All group names follow format: `### **[English] - [Vietnamese]**`
+- [ ] All group names follow format: `### **[số]. [English] - [Vietnamese]**`
+- [ ] Groups numbered sequentially within CHỨC NĂNG (1, 2, 3...)
 - [ ] Names are descriptive (not generic like "Other Concepts")
 - [ ] Names are concise (3-6 words per language)
 - [ ] Vietnamese translations are conceptually accurate
@@ -55,7 +56,8 @@ Check WHILE editing each section:
 - [ ] Format: `#### **[number]. [Name]**`
 
 ### Group Structure
-- [ ] New group headings use: `### **[Name]**`
+- [ ] New group headings use: `### **[số]. [Name]**`
+- [ ] Groups numbered sequentially: 1, 2, 3... (within each CHỨC NĂNG)
 - [ ] Group headings are bilingual (except "Tổng Quan")
 - [ ] Groups in logical order (if applicable)
 - [ ] No empty groups (every group has at least 3 concepts)
@@ -75,8 +77,9 @@ Complete AFTER editing, BEFORE committing:
 ### Format Verification
 - [ ] CHỨC NĂNG heading: `## CHỨC NĂNG [số]: [NAME] - [VIETNAMESE]`
 - [ ] "Tổng Quan" heading: `### **Tổng Quan**` (exact format)
-- [ ] Group headings: `### **[English] - [Vietnamese]**`
+- [ ] Group headings: `### **[số]. [English] - [Vietnamese]**` (numbered)
 - [ ] Concept headings: `#### **[số]. [English] - [Vietnamese]**`
+- [ ] Group numbers continuous within CHỨC NĂNG (1, 2, 3...)
 - [ ] No formatting errors (missing `**`, wrong `#` count, etc.)
 
 ### Content Integrity
@@ -182,16 +185,18 @@ Complete BEFORE running `git push`:
 #### **4. Concept D**   ← Continuous!
 ```
 
-### ❌ Mistake 3: Non-Bilingual Group Names
+### ❌ Mistake 3: Non-Bilingual Group Names or Missing Numbers
 **Wrong:**
 ```markdown
-### **Western Philosophy**   (Missing Vietnamese)
-### **Triết Học Phương Tây**  (Missing English)
+### **Western Philosophy**   (Missing Vietnamese & number)
+### **Triết Học Phương Tây**  (Missing English & number)
+### **Western Philosophy - Triết Học Phương Tây**  (Missing number)
 ```
 
 **Right:**
 ```markdown
-### **Western Philosophy - Triết Học Phương Tây**
+### **1. Western Philosophy - Triết Học Phương Tây**
+### **2. Eastern Philosophy - Triết Học Phương Đông**
 ```
 
 ### ❌ Mistake 4: Deleting Concepts

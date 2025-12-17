@@ -99,14 +99,14 @@ Refer to: `references/grouping-principles.md`
 
 📝 CẤU TRÚC MỚI:
 
-1. ### **[Group 1 Name] - [Tên Nhóm 1]** ([X] khái niệm)
+### **1. [Group 1 Name] - [Tên Nhóm 1]** ([X] khái niệm)
    **Rationale:** [Why these concepts belong together]
    - Concept A (current #1)
    - Concept B (current #5)
    - Concept C (current #9)
    ...
 
-2. ### **[Group 2 Name] - [Tên Nhóm 2]** ([Y] khái niệm)
+### **2. [Group 2 Name] - [Tên Nhóm 2]** ([Y] khái niệm)
    **Rationale:** [Why these concepts belong together]
    - Concept D (current #2)
    - Concept E (current #3)
@@ -114,6 +114,8 @@ Refer to: `references/grouping-principles.md`
 
 [Continue for all groups]
 ```
+
+**Note:** Group numbers (1, 2, 3...) are scoped to each CHỨC NĂNG for easy tracking.
 
 #### 3.5 Verify Completeness
 - [ ] All N concepts accounted for
@@ -138,7 +140,7 @@ Proposed structure:
 
 📝 CẤU TRÚC MỚI:
 
-1. ### **Western Philosophical Foundations - Nền Tảng Triết Học Phương Tây** (7 khái niệm)
+### **1. Western Philosophical Foundations - Nền Tảng Triết Học Phương Tây** (7 khái niệm)
    **Rationale:** All concepts rooted in Western philosophical tradition
    - Stoicism
    - Socratic Wisdom
@@ -148,7 +150,7 @@ Proposed structure:
    - Dialectical Thinking
    - I and Thou
 
-2. ### **Eastern Contemplative Traditions - Truyền Thống Thiền Định Phương Đông** (7 khái niệm)
+### **2. Eastern Contemplative Traditions - Truyền Thống Thiền Định Phương Đông** (7 khái niệm)
    **Rationale:** Concepts from Eastern meditation & spiritual practices
    - Taoism
    - Zen Buddhism
@@ -158,7 +160,7 @@ Proposed structure:
    - Non-attachment
    - Middle Way
 
-3. ### **Integrative Wisdom Practices - Thực Hành Tri Tuệ Tích Hợp** (6 khái niệm)
+### **3. Integrative Wisdom Practices - Thực Hành Tri Tuệ Tích Hợp** (6 khái niệm)
    **Rationale:** Modern synthesis of Eastern & Western wisdom
    - Integral Theory
    - Contemplative Science
@@ -214,7 +216,7 @@ Apply the new group structure while preserving all content.
 
 [PASTE ORIGINAL CONTENT - DO NOT MODIFY]
 
-### **[New Group 1 Name] - [Tên Nhóm 1]**
+### **1. [New Group 1 Name] - [Tên Nhóm 1]**
 
 #### **1. [First Concept Name] - [Tên Khái Niệm]**
 
@@ -230,7 +232,7 @@ Apply the new group structure while preserving all content.
 
 [Continue...]
 
-### **[New Group 2 Name] - [Tên Nhóm 2]**
+### **2. [New Group 2 Name] - [Tên Nhóm 2]**
 
 #### **[X]. [Next Concept]**
 
@@ -280,7 +282,7 @@ Triết học Trung Hoa...
 ### **Tổng Quan**
 Tích hợp tri tuệ từ cả Đông phương và Tây phương...
 
-### **Western Philosophical Foundations - Nền Tảng Triết Học Phương Tây**
+### **1. Western Philosophical Foundations - Nền Tảng Triết Học Phương Tây**
 
 #### **1. Stoicism - Chủ Nghĩa Khắc Kỷ**
 Triết học Hy Lạp cổ đại...
@@ -290,7 +292,7 @@ Triết học Hy Lạp cổ đại...
 
 [...continue with Western concepts 2-7...]
 
-### **Eastern Contemplative Traditions - Truyền Thống Thiền Định Phương Đông**
+### **2. Eastern Contemplative Traditions - Truyền Thống Thiền Định Phương Đông**
 
 #### **8. Taoism - Đạo Giáo**
 Triết học Trung Hoa...

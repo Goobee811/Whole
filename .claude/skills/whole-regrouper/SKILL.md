@@ -30,8 +30,9 @@ Regroup concepts in Whole.md CHỨC NĂNGs using thematic analysis.
 - All concept content (every word, every bullet point, every → **Liên kết:**)
 
 ### ✅ MUST CHANGE
-- Group headings (new thematic names, bilingual format)
+- Group headings (new thematic names, bilingual format with numbering)
 - Concept numbers (renumber continuously: 1, 2, 3...)
+- Group numbers (number groups sequentially within each CHỨC NĂNG: 1, 2, 3...)
 
 ### ❌ NEVER
 - Delete concepts
@@ -47,7 +48,9 @@ Apply these when analyzing:
 1. **Coherence** - Concepts naturally belong together
 2. **Natural Thinking** - Users expect these together
 3. **Balance** - 3-8 concepts per group (ideal: 5-6)
-4. **Bilingual** - All group names: `### **[English] - [Vietnamese]**`
+4. **Bilingual & Numbered** - All group names: `### **[số]. [English] - [Vietnamese]**`
+   - Groups numbered sequentially within each CHỨC NĂNG (1, 2, 3...)
+   - Example: `### **1. Foundational System Theories - Lý Thuyết Hệ Thống Nền Tảng**`
 
 **Detailed principles:** `references/grouping-principles.md`
 
@@ -60,11 +63,15 @@ Apply these when analyzing:
 - Tổng: [N] concepts → [M] groups
 
 📝 CẤU TRÚC MỚI:
-1. ### **[Group 1] - [Nhóm 1]** ([X] concepts)
+### **1. [Group 1] - [Nhóm 1]** ([X] concepts)
    - Concept A, B, C...
-2. ### **[Group 2] - [Nhóm 2]** ([Y] concepts)
+### **2. [Group 2] - [Nhóm 2]** ([Y] concepts)
    - Concept D, E, F...
+### **3. [Group 3] - [Nhóm 3]** ([Z] concepts)
+   - Concept G, H, I...
 ```
+
+**Note:** Group numbers (1, 2, 3...) are scoped to each CHỨC NĂNG for easy tracking.
 
 ---
 
