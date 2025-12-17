@@ -4,7 +4,16 @@ description: |
   Pre-editing analysis for Whole documentation. Use when: (1) Starting new editing session,
   (2) Checking for duplicates across domains, (3) Analyzing section completeness,
   (4) Validating structure before bulk edits, (5) Generating analysis reports.
-version: 1.0.0
+version: 2.0.0
+license: MIT
+allowed-tools:
+  - Grep
+  - Read
+  - Glob
+metadata:
+  author: "Whole Project"
+  category: "documentation"
+  updated: "2025-12-17"
 ---
 
 # Whole Content Analyzer

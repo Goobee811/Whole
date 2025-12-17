@@ -4,7 +4,16 @@ description: |
   Post-editing validation for Whole documentation. Use when: (1) After completing edits,
   (2) Before marking task complete, (3) Validating cross-reference updates,
   (4) Verifying bilingual consistency, (5) Final quality check.
-version: 1.0.0
+version: 2.0.0
+license: MIT
+allowed-tools:
+  - Grep
+  - Read
+  - Bash
+metadata:
+  author: "Whole Project"
+  category: "documentation"
+  updated: "2025-12-17"
 ---
 
 # Whole Content Reviewer
