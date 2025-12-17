@@ -4,7 +4,17 @@ description: |
   Phân tích và gom nhóm lại các khái niệm trong từng CHỨC NĂNG của Whole.md.
   Một workflow hoàn chỉnh: Grep → Read → Analyze → Regroup → Edit → Commit & Push.
   Uses progressive disclosure: core workflow in this file, detailed references loaded as needed.
-version: 3.0.0
+version: 3.1.0
+license: MIT
+allowed-tools:
+  - Edit
+  - Grep
+  - Read
+  - Bash
+metadata:
+  author: "Whole Project"
+  category: "documentation"
+  updated: "2025-12-17"
 ---
 
 # Whole Concept Regrouper

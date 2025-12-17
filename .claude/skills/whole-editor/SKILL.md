@@ -5,7 +5,16 @@ description: |
   Use when: (1) Editing content in Whole docs, (2) Expanding domain/function concepts,
   (3) Adding new concepts with 4-point descriptions, (4) Updating cross-references,
   (5) Resolving duplicate concepts, (6) Maintaining bilingual format integrity.
-version: 1.0.0
+version: 2.0.0
+license: MIT
+allowed-tools:
+  - Edit
+  - Grep
+  - Read
+metadata:
+  author: "Whole Project"
+  category: "documentation"
+  updated: "2025-12-17"
 ---
 
 # Whole Knowledge Architecture Editor
