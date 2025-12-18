@@ -7169,9 +7169,9 @@ Thực hành nuôi dưỡng im lặng bên trong và bên ngoài - một công c
 
 Hệ thống suy luận và kiến trúc logic để xây dựng lập luận chặt chẽ, phân tích bằng chứng và rút ra kết luận hợp lệ. Đây là "bộ xử lý logic" của tư duy.
 
-### **Các Kiến Trúc Suy Luận (45 mục)**
+### **1. Core Reasoning Paradigms - Các Mô Thức Suy Luận Cốt Lõi**
 
-#### **1. Deductive Reasoning** - Suy Luận Diễn Dịch
+#### **1. Deductive Reasoning - Suy Luận Diễn Dịch**
 
 Đi từ một nguyên lý chung đến một kết luận cụ thể chắc chắn, nếu các tiền đề là đúng.
 
@@ -7218,7 +7218,9 @@ Phương pháp suy luận logic có cấu trúc để rút ra kết luận về 
 → **Nguyên lý gốc:** FOUNDATIONS #26 (Analogical Thinking - tư duy tương tự)
 → **Phương pháp logic:** OPERATIONS (các công cụ suy luận khác: Deductive, Inductive, Abductive)
 
-#### **5. Causal Reasoning** - Suy Luận Nhân Quả [Công Cụ Phân Tích]
+### **2. Causal, Probabilistic & Modal Reasoning - Suy Luận Nhân Quả, Xác Suất & Khả Thể**
+
+#### **5. Causal Reasoning - Suy Luận Nhân Quả [Công Cụ Phân Tích]**
 
 Phương pháp có cấu trúc để xác định và phân tích các mối quan hệ nguyên nhân-kết quả một cách chặt chẽ và hệ thống. Khác với khả năng nhận thức ở DYNAMICS, đây là về **CÔNG CỤ PHÂN TÍCH** - các bước cụ thể để kiểm tra và xác minh nhân quả.
 
@@ -7273,7 +7275,9 @@ Suy luận thông qua sự đối lập và tổng hợp các quan điểm đố
 
 → **Liên kết:** TRANSCENDENCE (Paradox Resolution), INTEGRATION (Synthesis)
 
-#### **9. Temporal Reasoning** - Suy Luận Theo Thời Gian
+### **3. Dimensional Reasoning - Suy Luận Chiều Không-Thời Gian & Khái Niệm**
+
+#### **9. Temporal Reasoning - Suy Luận Theo Thời Gian**
 
 Suy luận về các sự kiện, trạng thái và mối quan hệ của chúng theo thời gian.
 
@@ -7306,7 +7310,9 @@ Suy luận ở cấp độ trừu tượng với các khái niệm và ý tưở
 
 → **Liên kết:** FOUNDATIONS (Category Theory), CREATION (Conceptual Innovation)
 
-#### **12. Formal Logic & Symbolic Reasoning** - Logic Hình Thức & Suy Luận Ký Hiệu
+### **4. Formal & Computational Methods - Phương Pháp Hình Thức & Tính Toán**
+
+#### **12. Formal Logic & Symbolic Reasoning - Logic Hình Thức & Suy Luận Ký Hiệu**
 
 Sử dụng các hệ thống ký hiệu chính thức để thực hiện suy luận chặt chẽ.
 
@@ -7350,7 +7356,9 @@ Sử dụng các quy tắc ngón tay cái hoặc các đường tắt tinh thầ
 
 → **Liên kết:** DYNAMICS (System 1 Thinking), VALIDATION (Cognitive Biases)
 
-#### **16. Constraint Analysis & Optimization** - Phân Tích & Tối Ưu Ràng Buộc [Phương Pháp Tích Hợp]
+### **5. Systems & Optimization Analysis - Phân Tích Hệ Thống & Tối Ưu Hóa**
+
+#### **16. Constraint Analysis & Optimization - Phân Tích & Tối Ưu Ràng Buộc [Phương Pháp Tích Hợp]**
 
 Bộ phương pháp tích hợp để (1) NHẬN DIỆN, (2) PHÂN TÍCH, (3) SUY LUẬN, và (4) TỐI ƯU HÓA các ràng buộc trong hệ thống. Tích hợp Theory of Constraints với logic và suy luận hệ thống.
 
@@ -7445,7 +7453,9 @@ Sử dụng các phương pháp thống kê để phân tích dữ liệu, kiể
 
 → **Liên kết:** VALIDATION (Empirical Validation), OPERATIONS (Data Analysis)
 
-#### **21. Ethical Reasoning** - Suy Luận Đạo Đức
+### **6. Domain-Specific Applied Reasoning - Suy Luận Ứng Dụng Theo Lĩnh Vực**
+
+#### **21. Ethical Reasoning - Suy Luận Đạo Đức**
 
 Phân tích các quyết định và hành động dưới lăng kính đạo đức.
 
@@ -7525,7 +7535,9 @@ Suy luận về những gì có thể đã xảy ra nếu các điều kiện kh
 
 → **Liên kết:** NAVIGATION (Scenario Planning), META (Reflection)
 
-#### **28. Non-Monotonic Reasoning** - Suy Luận Phi Đơn Điệu
+### **7. Advanced Logic Systems - Hệ Thống Logic Nâng Cao**
+
+#### **28. Non-Monotonic Reasoning - Suy Luận Phi Đơn Điệu**
 
 Khả năng rút lại các kết luận khi có thông tin mới mâu thuẫn.
 
@@ -7547,7 +7559,9 @@ Phân tích cấu trúc và sức mạnh của các lập luận.
 
 → **Liên kết:** VALIDATION (Adversarial Testing, Devil's Advocate)
 
-#### **30. Motivational Reasoning** - Suy Luận theo Động Lực
+### **8. Cognitive Process Dynamics - Động Lực Quá Trình Nhận Thức**
+
+#### **30. Motivational Reasoning - Suy Luận theo Động Lực**
 
 Nhận biết cách cảm xúc và động lực ảnh hưởng đến quá trình suy luận.
 
@@ -7624,7 +7638,9 @@ Tạo ra các ý tưởng, kết nối và giải pháp mới.
 
 → **Liên kết:** CREATION (Ideation), TRANSCENDENCE (Breakthrough)
 
-#### **37. Embodied Reasoning** - Suy Luận Hiện Thân
+### **9. Embodied & Social Cognition - Nhận Thức Hiện Thân & Xã Hội**
+
+#### **37. Embodied Reasoning - Suy Luận Hiện Thân**
 
 Suy luận dựa trên kinh nghiệm thể xác và nhận thức cảm giác.
 
@@ -7682,7 +7698,9 @@ PHƯƠNG PHÁP SỬ DỤNG để vượt qua ranh giới ngành học trong quá
 → **Framework thực hành:** INTEGRATION #19 (Transdisciplinary Framework)
 → **Cross-reference:** INTEGRATION #2 (Interdisciplinary Thinking - cấp độ liên ngành), META #27 (Cross-Paradigm Synthesis - cấp độ mô thức), META #19 (Meta-Paradigm Thinking - cấp độ siêu mô thức)
 
-#### **42. Applied Meta-Reasoning** - Ứng Dụng Siêu Suy Luận
+### **10. Meta-Level Mastery - Tinh Thông Siêu Nhận Thức**
+
+#### **42. Applied Meta-Reasoning - Ứng Dụng Siêu Suy Luận**
 
 Ứng dụng THỰC HÀNH của Meta-Reasoning trong giải quyết vấn đề và ra quyết định. Trong khi Meta-Reasoning (META #32) là về BẢN CHẤT của "reasoning about reasoning", đây là về CÔNG CỤ và KỸ THUẬT để áp dụng khái niệm đó vào công việc hàng ngày.
 
@@ -7727,9 +7745,9 @@ Chuyển đổi một cách trôi chảy giữa các kiến trúc suy luận kh�
 
 → **Liên kết:** Tích hợp tất cả các khái niệm trong ANALYTICAL REASONING & LOGIC
 
-### **Các Mục Bổ Sung**
+### **11. Cognitive Toolkit & Foundations - Bộ Công Cụ Nhận Thức & Nền Tảng**
 
-#### **45. Fundamental Cognitive Operations** - Các Thao Tác Nhận Thức Cơ Bản
+#### **45. Fundamental Cognitive Operations - Các Thao Tác Nhận Thức Cơ Bản**
 
 Bốn thao tác nhận thức cốt lõi làm nền tảng cho mọi quá trình tư duy.
 
@@ -7762,7 +7780,9 @@ Mười công cụ nhận thức để nhìn nhận vấn đề từ các góc �
 
 → **Liên kết:** CREATION (Reframing), NAVIGATION (Multi-Scale Thinking)
 
-#### **48. Conditional Logic** - Logic Điều Kiện
+### **12. Extended Logic Forms - Các Dạng Logic Mở Rộng**
+
+#### **48. Conditional Logic - Logic Điều Kiện**
 
 Hệ thống suy luận dựa trên các mệnh đề điều kiện "nếu-thì".
 
@@ -7828,7 +7848,9 @@ Quy trình suy luận chẩn đoán và điều trị trong y học.
 
 → **Liên kết:** OPERATIONS (Abductive Reasoning), VALIDATION (Diagnostic Testing)
 
-#### **54. Machine Reasoning** - Suy Luận Máy
+### **13. Advanced Computational Methods - Phương Pháp Tính Toán Nâng Cao**
+
+#### **54. Machine Reasoning - Suy Luận Máy**
 
 Các phương pháp suy luận tự động và trí tuệ nhân tạo.
 
