@@ -5646,7 +5646,8 @@ Các quá trình thay đổi xã hội tập thể quy mô lớn.
 
 Các chế độ và dòng chảy cơ bản của quá trình xử lý thông tin, cách thức tâm trí di chuyển giữa các trạng thái khác nhau để nhận thức và tương tác với thực tại.
 
-### **Các Khái Niệm Cốt Lõi (40 mục)**
+### **1. Dual Processing Modes - Các Chế Độ Xử Lý Kép**
+
 #### **1. Convergent ↔ Divergent Thinking** - Tư Duy Hội Tụ ↔ Phân Kỳ
 
 Dao động giữa việc tạo ra nhiều lựa chọn (phân kỳ) và việc chọn lọc để tìm ra giải pháp tốt nhất (hội tụ).
@@ -5693,73 +5694,64 @@ Hai phong cách nhận thức: Phân tích (tập trung vào bộ phận) và T�
 
 → **Liên kết:** INTEGRATION (Systemic Integration), OPERATIONS (Analytical Tools)
 
-#### **5. Mental Simulation Dynamics** - Động Lực Mô Phỏng Tinh Thần
+#### **5. Analysis ↔ Synthesis** - Phân Tích ↔ Tổng Hợp
 
-Quá trình chạy các kịch bản, thử nghiệm các hành động và dự đoán kết quả trong "phòng thí nghiệm của tâm trí".
+Hai quá trình bổ sung: phân tách để hiểu và kết hợp để tạo ra toàn thể mới.
 
-- **Scenario Rehearsal**: Diễn tập các tình huống tương lai
-- **Counterfactual Thinking**: Suy nghĩ về các khả năng "nếu như"
-- **Consequence Projection**: Phóng chiếu các hệ quả bậc hai, bậc ba
-- **Empathic Simulation**: Mô phỏng trạng thái tinh thần của người khác
+- **Decomposition**: Phân rã thành các phần
+- **Recomposition**: Tái kết hợp
+- **Part-Whole Dynamics**: Động lực phần-toàn thể
+- **Analytical-Synthetic Rhythm**: Nhịp điệu phân tích-tổng hợp
 
-→ **Liên kết:** NAVIGATION (Scenario Planning), VALIDATION (Pre-mortem Analysis)
+→ **Liên kết:** OPERATIONS (Decomposition), INTEGRATION (Synthesis)
 
-#### **6. Intuitive Leap Dynamics** - Động Lực Bước Nhảy Trực Giác
+#### **6. Linear ↔ Non-linear** - Tuyến Tính ↔ Phi Tuyến Tính
 
-Quá trình nhận thức đột ngột, phi tuyến tính, trong đó sự hiểu biết xuất hiện mà không thông qua suy luận có ý thức.
+Hai cách tiếp cận tư duy: tuần tự từng bước và nhảy vọt không tuần tự.
 
-- **Pattern Recognition Acceleration**: Sự tăng tốc của việc nhận dạng mẫu hình
-- **Unconscious Processing Breakthrough**: Một đột phá từ quá trình xử lý vô thức
-- **Knowledge Synthesis Flash**: Một tia chớp tổng hợp kiến thức đã có
-- **Gut Feeling Trust**: Niềm tin vào "cảm giác ruột gan" được hiệu chỉnh
+- **Sequential Logic**: Logic tuần tự
+- **Associative Leaps**: Nhảy vọt liên tưởng
+- **Step-by-step vs. Holistic**: Từng bước vs. tổng thể
+- **Complexity Navigation**: Điều hướng phức tạp
 
-→ **Liên kết:** CREATION (Breakthrough Dynamics), TRANSCENDENCE (Gnosis)
+→ **Liên kết:** OPERATIONS (Sequential Processing), CREATION (Non-linear Thinking)
 
-#### **7. Insight Dynamics ("Aha!" Moment)** - Động Lực của Sự Thấu Suốt
+#### **7. Sequential ↔ Parallel** - Tuần Tự ↔ Song Song
 
-Quá trình tái cấu trúc đột ngột một vấn đề, dẫn đến một giải pháp hoặc sự hiểu biết bất ngờ.
+Xử lý thông tin từng cái một hoặc nhiều cái cùng lúc.
 
-- **Impasse & Incubation**: Giai đoạn bế tắc, theo sau là thời kỳ "ủ"
-- **Restructuring & Re-representation**: Tái cấu trúc lại các yếu tố của vấn đề
-- **Sudden Illumination**: Khoảnh khắc "lóe sáng" khi giải pháp xuất hiện
-- **Verification & Elaboration**: Giai đoạn kiểm tra và chi tiết hóa sự thấu suốt
+- **Serial Processing**: Xử lý nối tiếp
+- **Simultaneous Processing**: Xử lý đồng thời
+- **Single-thread vs. Multi-thread**: Đơn luồng vs. đa luồng
+- **Attention Distribution**: Phân bổ chú ý
 
-→ **Liên kết:** CREATION (Insight Cultivation), [META] LAYER (State Shifting Mastery)
+→ **Liên kết:** OPERATIONS (Processing Architecture), [META] LAYER (Cognitive Design)
 
-#### **8. Memory Dynamics** - Động Lực Trí Nhớ
+#### **8. Focused ↔ Diffuse Mode** - Chế Độ Tập Trung ↔ Lan Tỏa
 
-Quá trình động của việc mã hóa, lưu trữ và truy xuất thông tin.
+Hai chế độ chú ý: tập trung cao độ và chú ý lan tỏa rộng.
 
-- **Encoding & Consolidation**: Chuyển thông tin thành dạng có thể lưu trữ và củng cố
-- **Storage & Network Strengthening**: Lưu trữ trong mạng lưới nơ-ron và củng cố kết nối
-- **Retrieval & Reconstruction**: Truy xuất thông tin, thường là tái cấu trúc lại ký ức
-- **Reconsolidation**: Ký ức trở nên dễ uốn nắn và có thể được sửa đổi khi được truy xuất
+- **Laser Focus**: Tập trung như laser
+- **Peripheral Awareness**: Nhận thức ngoại vi
+- **Tight vs. Loose Attention**: Chú ý chặt vs. lỏng
+- **Attention Spectrum**: Quang phổ chú ý
 
-→ **Liên kết:** INTEGRATION (Knowledge Integration), VALIDATION (Source Credibility)
+→ **Liên kết:** OPERATIONS (Attention Management), CREATION (Diffuse Thinking)
 
-#### **9. Attention Dynamics** - Động Lực Chú Ý
+#### **9. Hot ↔ Cold Cognition** - Nhận Thức Nóng ↔ Lạnh
 
-Quá trình chọn lọc và tập trung vào một số thông tin trong khi bỏ qua thông tin khác.
+Tư duy bị ảnh hưởng bởi cảm xúc (nóng) so với tư duy trung lập cảm xúc (lạnh).
 
-- **Selective Attention**: Chú ý chọn lọc vào đối tượng mục tiêu
-- **Sustained Attention**: Duy trì chú ý trong thời gian dài
-- **Divided Attention**: Chia chú ý cho nhiều nhiệm vụ
-- **Attention Shifting**: Chuyển đổi chú ý giữa các đối tượng
+- **Emotional Reasoning**: Suy luận cảm xúc
+- **Rational Thinking**: Tư duy lý trí
+- **Affect-Cognition Link**: Liên kết cảm xúc-nhận thức
+- **Temperature Metaphor**: Ẩn dụ nhiệt độ
 
-→ **Liên kết:** OPERATIONS (Focus Management), [META] LAYER (Attention Mastery)
+→ **Liên kết:** DYNAMICS (Emotional Intelligence), OPERATIONS (Rational Analysis)
 
-#### **10. Creativity Modes** - Các Chế Độ Sáng Tạo
+### **2. Core Flexibility Mechanisms - Cơ Chế Linh Hoạt Cốt Lõi**
 
-Các trạng thái nhận thức khác nhau hỗ trợ quá trình sáng tạo.
-
-- **Preparation**: Chuẩn bị - thu thập thông tin và ngâm mình trong vấn đề
-- **Incubation**: Ấp ủ - để tâm trí vô thức làm việc
-- **Illumination**: Sáng rõ - khoảnh khắc insight đột ngột
-- **Verification**: Xác minh - kiểm tra và phát triển ý tưởng
-
-→ **Liên kết:** CREATION (Creative Process), VALIDATION (Idea Testing)
-
-#### **11. Cognitive Flexibility** - Linh Hoạt Nhận Thức
+#### **10. Cognitive Flexibility** - Linh Hoạt Nhận Thức
 
 Khả năng thích ứng tư duy và hành vi để đáp ứng với các yêu cầu hoặc môi trường thay đổi - chuyển đổi linh hoạt giữa các cách tư duy và thích ứng với bối cảnh mới.
 
@@ -5772,7 +5764,92 @@ Khả năng thích ứng tư duy và hành vi để đáp ứng với các yêu 
 
 → **Liên kết:** NAVIGATION (Adaptive Strategy), DYNAMICS (Cognitive Flexibility), CREATION (Lateral Thinking).
 
-#### **12. Working Memory Dynamics** - Động Lực Bộ Nhớ Làm Việc
+#### **11. Cognitive Flexibility in Problem-Solving** - Linh Hoạt Nhận Thức Trong Giải Quyết Vấn Đề
+
+Khả năng chuyển đổi giữa các chiến lược giải quyết vấn đề khác nhau.
+
+- **Strategy Switching**: Chuyển đổi chiến lược
+- **Multiple Approaches**: Nhiều cách tiếp cận
+- **Adaptive Problem-Solving**: Giải quyết vấn đề thích ứng
+- **Flexibility Under Constraint**: Linh hoạt trong điều kiện hạn chế
+
+→ **Liên kết:** OPERATIONS (Problem-Solving), NAVIGATION (Adaptive Tactics)
+
+#### **12. Metacognition** - Siêu Nhận Thức [Trong Linh Hoạt Nhận Thức]
+
+Sử dụng siêu nhận thức như CÔNG CỤ để phát triển và thực hành sự linh hoạt nhận thức. Khác với khái niệm nền tảng ở META LAYER, đây là về ỨNG DỤNG metacognition trong ĐỘNG LỰC thay đổi và thích ứng tư duy.
+
+**Vai trò trong Cognitive Flexibility:**
+- **Self-Monitoring**: Giám sát khả năng chuyển đổi giữa các mode tư duy
+- **Self-Regulation**: Điều chỉnh để duy trì linh hoạt nhận thức
+- **Strategic Planning**: Lập kế hoạch cho việc phát triển flexibility
+- **Reflection**: Phản tư về quá trình chuyển đổi và thích ứng
+
+**Khác biệt với META LAYER:**
+- META LAYER: Metacognition là BẢN CHẤT, là nền tảng toàn hệ thống
+- DYNAMICS: Metacognition là CÔNG CỤ để thực hành linh hoạt
+
+**Tích hợp trong DYNAMICS:**
+Metacognition giúp nhận ra:
+→ Khi nào cần chuyển từ Convergent sang Divergent thinking
+→ Đang ở chế độ tư duy nào (Analytic vs Holistic, Focused vs Diffuse)
+→ Cách tối ưu hóa khả năng chuyển đổi giữa các mode
+
+→ **Gốc lý thuyết:** META LAYER #1 (Metacognition - khái niệm nền tảng)
+
+#### **13. Meta-Cognitive Flow** - Dòng Chảy Siêu Nhận Thức
+
+Trạng thái động, trong đó việc giám sát và điều chỉnh các quá trình nhận thức diễn ra một cách trôi chảy và không cần nỗ lực.
+
+- **Effortless Self-Regulation**: Tự điều chỉnh một cách dễ dàng
+- **Seamless Strategy Switching**: Chuyển đổi chiến lược liền mạch
+- **Intuitive Process Management**: Quản lý quy trình một cách trực giác
+- **Mastery of Mind**: Trạng thái làm chủ tâm trí, nơi người tư duy và quá trình hợp nhất
+
+→ **Liên kết:** Tích hợp tất cả các khái niệm trong DYNAMICS và [META] LAYER
+
+#### **14. Adaptive Reasoning** - Suy Luận Thích Ứng
+
+Điều chỉnh chiến lược suy luận dựa trên ngữ cảnh và phản hồi.
+
+- **Context-Sensitive Logic**: Logic nhạy cảm ngữ cảnh
+- **Strategy Adjustment**: Điều chỉnh chiến lược
+- **Responsive Thinking**: Tư duy phản hồi
+- **Flexible Inference**: Suy luận linh hoạt
+
+→ **Liên kết:** NAVIGATION (Adaptive Strategy), [META] LAYER (Strategic Thinking)
+
+#### **15. Mental Models - Mô Hình Tinh Thần [Trong Linh Hoạt Nhận Thức]**
+
+Các biểu diễn nội tâm về cách thế giới hoạt động - CÓ THỂ THAY ĐỔI và
+CẬP NHẬT khi gặp thông tin mới. Khác với nguyên lý nền tảng ở FOUNDATIONS,
+đây là về ĐỘNG LỰC - làm sao để chuyển đổi giữa các mô hình một cách linh hoạt.
+
+• **World Representation**: Biểu diễn về thế giới - CÓ THỂ THAY ĐỔI
+• **Predictive Function**: Dự đoán - KHI MÔ HÌNH SAI thì cập nhật
+• **Model Updating**: CẬP NHẬT mô hình dựa trên phản hồi thực tế
+• **Multiple Models**: Chuyển đổi LINH HOẠT giữa nhiều mô hình
+
+→ **Liên kết nội bộ:** NAVIGATION (Reality Navigation), INTEGRATION (Paradigm Integration)
+→ **Gốc lý thuyết:** FOUNDATIONS #1 (Mental Models - khung diễn giải phổ quát)
+→ **Ứng dụng thực hành:** OPERATIONS #53 (sử dụng trong giải quyết vấn đề)
+→ **Khuếch đại:** AMPLIFICATION #15 (nhân rộng ảnh hưởng)
+→ **Ý nghĩa:** Tập trung vào KHẢ NĂNG THAY ĐỔI và LINH HOẠT của mô hình
+
+### **3. Memory Systems & Knowledge Structures - Hệ Thống Trí Nhớ & Cấu Trúc Tri Thức**
+
+#### **16. Memory Dynamics** - Động Lực Trí Nhớ
+
+Quá trình động của việc mã hóa, lưu trữ và truy xuất thông tin.
+
+- **Encoding & Consolidation**: Chuyển thông tin thành dạng có thể lưu trữ và củng cố
+- **Storage & Network Strengthening**: Lưu trữ trong mạng lưới nơ-ron và củng cố kết nối
+- **Retrieval & Reconstruction**: Truy xuất thông tin, thường là tái cấu trúc lại ký ức
+- **Reconsolidation**: Ký ức trở nên dễ uốn nắn và có thể được sửa đổi khi được truy xuất
+
+→ **Liên kết:** INTEGRATION (Knowledge Integration), VALIDATION (Source Credibility)
+
+#### **17. Working Memory Dynamics** - Động Lực Bộ Nhớ Làm Việc
 
 Hệ thống giữ và thao tác thông tin trong ngắn hạn để thực hiện các nhiệm vụ nhận thức phức tạp.
 
@@ -5783,29 +5860,222 @@ Hệ thống giữ và thao tác thông tin trong ngắn hạn để thực hi�
 
 → **Liên kết:** OPERATIONS (Task Management), [META] LAYER (Cognitive Load Management)
 
-#### **13. Priming Effects** - Hiệu Ứng Mồi
+#### **18. State-Dependent Learning** - Học Tập Phụ Thuộc Trạng Thái
 
-Hiện tượng việc tiếp xúc với một kích thích ảnh hưởng đến phản ứng với các kích thích tiếp theo.
+Hiện tượng thông tin được học trong một trạng thái nhận thức/cảm xúc dễ được truy xuất trong cùng trạng thái đó.
 
-- **Semantic Priming**: Mồi ý nghĩa
-- **Perceptual Priming**: Mồi tri giác
-- **Conceptual Priming**: Mồi khái niệm
-- **Unconscious Influence**: Ảnh hưởng vô thức
+- **Context Reinstatement**: Tái lập ngữ cảnh
+- **Mood Congruence**: Sự phù hợp với tâm trạng
+- **State-Specific Memory**: Ký ức đặc thù trạng thái
+- **Encoding Specificity**: Tính đặc thù của mã hóa
 
-→ **Liên kết:** INTEGRATION (Context Setting), VALIDATION (Bias Awareness)
+→ **Liên kết:** OPERATIONS (Learning Optimization), VALIDATION (Recall Enhancement)
 
-#### **14. Framing Effects** - Hiệu Ứng Đóng Khung
+#### **19. Concept Formation** - Hình Thành Khái Niệm
 
-Cách thức thông tin được trình bày ảnh hưởng đến quyết định và đánh giá.
+Quá trình phát triển các khái niệm mới từ kinh nghiệm cụ thể thông qua trừu tượng hóa.
 
-- **Positive vs. Negative Framing**: Đóng khung tích cực vs. tiêu cực
-- **Gain vs. Loss Framing**: Đóng khung lợi ích vs. mất mát
-- **Reference Point Manipulation**: Thao tác điểm tham chiếu
-- **Context Dependency**: Phụ thuộc ngữ cảnh
+- **Abstraction**: Trừu tượng hóa từ các ví dụ cụ thể
+- **Categorization**: Phân loại các đối tượng hoặc sự kiện
+- **Prototype Formation**: Hình thành nguyên mẫu
+- **Conceptual Refinement**: Tinh chỉnh khái niệm
 
-→ **Liên kết:** OPERATIONS (Communication), VALIDATION (Bias Detection)
+→ **Liên kết:** INTEGRATION (Knowledge Organization), OPERATIONS (Conceptual Thinking)
 
-#### **15. Analogical Reasoning - Suy Luận Tương Tự [Năng Lực Linh Hoạt]**
+#### **20. Transfer of Learning** - Chuyển Giao Học Tập
+
+Ứng dụng kiến thức hoặc kỹ năng học được trong một ngữ cảnh vào ngữ cảnh khác.
+
+- **Near Transfer**: Chuyển giao gần (ngữ cảnh tương tự)
+- **Far Transfer**: Chuyển giao xa (ngữ cảnh khác biệt)
+- **Positive Transfer**: Chuyển giao tích cực (hỗ trợ)
+- **Negative Transfer**: Chuyển giao tiêu cực (cản trở)
+
+→ **Liên kết:** INTEGRATION (Knowledge Application), OPERATIONS (Skill Generalization)
+
+#### **21. Dual Coding** - Mã Hóa Kép
+
+Sử dụng cả hệ thống mã hóa ngôn ngữ và hình ảnh để cải thiện việc học và ghi nhớ.
+
+- **Verbal System**: Hệ thống ngôn ngữ
+- **Imaginal System**: Hệ thống hình ảnh
+- **Cross-System Links**: Liên kết xuyên hệ thống
+- **Enhanced Retention**: Tăng cường khả năng lưu giữ
+
+→ **Liên kết:** OPERATIONS (Learning Strategies), INTEGRATION (Multi-modal Processing)
+
+#### **22. Schema Theory** - Lý Thuyết Lược Đồ
+
+Các cấu trúc kiến thức tổ chức giúp giải thích và dự đoán các tình huống.
+
+- **Knowledge Structures**: Các cấu trúc kiến thức
+- **Assimilation**: Đồng hóa thông tin mới vào lược đồ hiện có
+- **Accommodation**: Điều chỉnh lược đồ để phù hợp với thông tin mới
+- **Schema Activation**: Kích hoạt lược đồ
+
+→ **Liên kết:** INTEGRATION (Knowledge Organization), VALIDATION (Expectation Checking)
+
+#### **23. Spreading Activation** - Kích Hoạt Lan Truyền
+
+Mô hình về cách các khái niệm trong bộ nhớ được kích hoạt và lan truyền qua mạng lưới liên kết.
+
+- **Semantic Network**: Mạng lưới ý nghĩa
+- **Activation Spread**: Sự lan truyền kích hoạt
+- **Priming Effects**: Hiệu ứng mồi
+- **Associative Memory**: Bộ nhớ liên tưởng
+
+→ **Liên kết:** INTEGRATION (Knowledge Networks), [META] LAYER (Associative Thinking)
+
+### **4. Attention & Resource Management - Quản Lý Chú Ý & Tài Nguyên**
+
+#### **24. Attention Dynamics** - Động Lực Chú Ý
+
+Quá trình chọn lọc và tập trung vào một số thông tin trong khi bỏ qua thông tin khác.
+
+- **Selective Attention**: Chú ý chọn lọc vào đối tượng mục tiêu
+- **Sustained Attention**: Duy trì chú ý trong thời gian dài
+- **Divided Attention**: Chia chú ý cho nhiều nhiệm vụ
+- **Attention Shifting**: Chuyển đổi chú ý giữa các đối tượng
+
+→ **Liên kết:** OPERATIONS (Focus Management), [META] LAYER (Attention Mastery)
+
+#### **25. Mind Wandering** - Tâm Trí Lang Thang
+
+Sự chuyển đổi tự nhiên của sự chú ý khỏi nhiệm vụ chính sang các suy nghĩ nội tâm.
+
+- **Default Mode Network**: Mạng lưới mặc định của não hoạt động mạnh khi tâm trí lang thang
+- **Future-Oriented Bias**: Xu hướng suy nghĩ về các mục tiêu và kế hoạch tương lai
+- **Creativity & Boredom**: Mối quan hệ giữa nhàm chán, tâm trí lang thang và sáng tạo
+- **Attention Decoupling**: Sự tách rời của sự chú ý khỏi đầu vào cảm giác bên ngoài
+
+→ **Liên kết:** CREATION (Incubation), [META] LAYER (Attention Management)
+
+#### **26. Cognitive Load** - Tải Nhận Thức
+
+Cách thức bộ nhớ làm việc bị chiếm dụng bởi độ phức tạp của thông tin hoặc nhiệm vụ.
+
+- **Intrinsic Load**: Tải trọng nội tại, liên quan đến độ khó của tài liệu
+- **Extraneous Load**: Tải trọng không cần thiết, gây ra bởi cách trình bày kém
+- **Germane Load**: Tải trọng phù hợp, liên quan đến nỗ lực xây dựng các lược đồ
+- **Overload Threshold**: Ngưỡng quá tải, nơi khả năng xử lý bị suy giảm
+
+→ **Liên kết:** OPERATIONS (Decomposition), [META] LAYER (Cognitive Offloading)
+
+#### **27. Decision Fatigue** - Mệt Mỏi Quyết Định
+
+Sự suy giảm chất lượng của các quyết định sau một chuỗi dài các lần ra quyết định.
+
+- **Willpower Depletion**: Sự cạn kiệt tài nguyên ý chí hoặc khả năng tự kiểm soát
+- **Shift to Heuristics**: Xu hướng chuyển sang các quy tắc đơn giản khi mệt mỏi
+- **Decision Avoidance**: Tránh né việc ra quyết định hoàn toàn
+- **Resource Restoration**: Quá trình phục hồi năng lực ra quyết định
+
+→ **Liên kết:** OPERATIONS (Decision Frameworks), [META] LAYER (Energy Management)
+
+#### **28. Automaticity** - Tính Tự Động
+
+Quá trình các hoạt động nhận thức trở nên tự động và không cần nỗ lực ý thức qua thực hành.
+
+- **Skill Acquisition**: Tiếp thu kỹ năng qua thực hành
+- **Procedural Memory**: Bộ nhớ thủ tục
+- **Cognitive Efficiency**: Hiệu quả nhận thức từ tự động hóa
+- **Freed Attention**: Giải phóng chú ý cho các nhiệm vụ khác
+
+→ **Liên kết:** OPERATIONS (Deliberate Practice), [META] LAYER (Habit Formation)
+
+#### **29. Cognitive Momentum** - Động Lượng Nhận Thức
+
+Xu hướng tiếp tục với một chuỗi suy nghĩ hoặc hành động một khi đã bắt đầu.
+
+- **Inertia in Thinking**: Quán tính trong tư duy
+- **Flow State Entry**: Động lượng có thể dẫn vào trạng thái dòng chảy
+- **Chain of Thought**: Duy trì chuỗi suy nghĩ không bị gián đoạn
+- **Persistence**: Sự kiên trì
+
+→ **Liên kết:** AMPLIFICATION (Flywheel Effect), CREATION (Creative Momentum)
+
+### **5. Insight & Creative Emergence - Thấu Suốt & Đột Sinh Sáng Tạo**
+
+#### **30. Intuitive Leap Dynamics** - Động Lực Bước Nhảy Trực Giác
+
+Quá trình nhận thức đột ngột, phi tuyến tính, trong đó sự hiểu biết xuất hiện mà không thông qua suy luận có ý thức.
+
+- **Pattern Recognition Acceleration**: Sự tăng tốc của việc nhận dạng mẫu hình
+- **Unconscious Processing Breakthrough**: Một đột phá từ quá trình xử lý vô thức
+- **Knowledge Synthesis Flash**: Một tia chớp tổng hợp kiến thức đã có
+- **Gut Feeling Trust**: Niềm tin vào "cảm giác ruột gan" được hiệu chỉnh
+
+→ **Liên kết:** CREATION (Breakthrough Dynamics), TRANSCENDENCE (Gnosis)
+
+#### **31. Insight Dynamics ("Aha!" Moment)** - Động Lực của Sự Thấu Suốt
+
+Quá trình tái cấu trúc đột ngột một vấn đề, dẫn đến một giải pháp hoặc sự hiểu biết bất ngờ.
+
+- **Impasse & Incubation**: Giai đoạn bế tắc, theo sau là thời kỳ "ủ"
+- **Restructuring & Re-representation**: Tái cấu trúc lại các yếu tố của vấn đề
+- **Sudden Illumination**: Khoảnh khắc "lóe sáng" khi giải pháp xuất hiện
+- **Verification & Elaboration**: Giai đoạn kiểm tra và chi tiết hóa sự thấu suốt
+
+→ **Liên kết:** CREATION (Insight Cultivation), [META] LAYER (State Shifting Mastery)
+
+#### **32. Creativity Modes** - Các Chế Độ Sáng Tạo
+
+Các trạng thái nhận thức khác nhau hỗ trợ quá trình sáng tạo.
+
+- **Preparation**: Chuẩn bị - thu thập thông tin và ngâm mình trong vấn đề
+- **Incubation**: Ấp ủ - để tâm trí vô thức làm việc
+- **Illumination**: Sáng rõ - khoảnh khắc insight đột ngột
+- **Verification**: Xác minh - kiểm tra và phát triển ý tưởng
+
+→ **Liên kết:** CREATION (Creative Process), VALIDATION (Idea Testing)
+
+#### **33. Mental Simulation Dynamics** - Động Lực Mô Phỏng Tinh Thần
+
+Quá trình chạy các kịch bản, thử nghiệm các hành động và dự đoán kết quả trong "phòng thí nghiệm của tâm trí".
+
+- **Scenario Rehearsal**: Diễn tập các tình huống tương lai
+- **Counterfactual Thinking**: Suy nghĩ về các khả năng "nếu như"
+- **Consequence Projection**: Phóng chiếu các hệ quả bậc hai, bậc ba
+- **Empathic Simulation**: Mô phỏng trạng thái tinh thần của người khác
+
+→ **Liên kết:** NAVIGATION (Scenario Planning), VALIDATION (Pre-mortem Analysis)
+
+#### **34. Incubation Effect** - Hiệu Ứng Ấp Ủ
+
+Hiện tượng giải pháp cho một vấn đề xuất hiện sau khi tạm dừng làm việc trực tiếp với nó.
+
+- **Unconscious Processing**: Xử lý vô thức trong nền
+- **Mental Break Benefits**: Lợi ích của việc nghỉ ngơi tinh thần
+- **Fresh Perspective**: Góc nhìn mới sau khi quay lại
+- **Associative Wandering**: Lang thang liên tưởng
+
+→ **Liên kết:** CREATION (Creative Process), [META] LAYER (Strategic Pausing)
+
+#### **35. Productive Failure** - Thất Bại Năng Suất
+
+Quá trình học được tăng cường khi người học phải vật lộn với vấn đề trước khi được hướng dẫn.
+
+- **Struggle Before Instruction**: Vật lộn trước khi được hướng dẫn
+- **Deep Processing**: Xử lý sâu từ việc cố gắng
+- **Error-Based Learning**: Học từ sai lầm
+- **Preparation for Future Learning**: Chuẩn bị cho việc học tương lai
+
+→ **Liên kết:** OPERATIONS (Learning Design), VALIDATION (Mistake Learning)
+
+#### **36. Curiosity Drive** - Động Lực Tò Mò
+
+Động cơ nội tại để tìm kiếm thông tin mới và trải nghiệm mới.
+
+- **Information Gap Theory**: Lý thuyết khoảng trống thông tin
+- **Epistemic Curiosity**: Tò mò tri thức
+- **Perceptual Curiosity**: Tò mò tri giác
+- **Intrinsic Motivation**: Động lực nội tại
+
+→ **Liên kết:** CREATION (Exploration), OPERATIONS (Self-Directed Learning)
+
+### **6. Reasoning & Causal Inference - Suy Luận & Suy Diễn Nhân Quả**
+
+#### **37. Analogical Reasoning - Suy Luận Tương Tự [Năng Lực Linh Hoạt]**
 
 Khả năng linh hoạt chuyển giao kiến thức và mẫu hình giữa các lĩnh vực khác nhau thông qua nhận dạng tương đồng cấu trúc. Đây là NĂNG LỰC ĐỘNG của trí tuệ - khả năng nhảy nhịp giữa các ngữ cảnh và nhìn ra các kết nối ẩn giấu.
 
@@ -5818,6 +6088,490 @@ Khả năng linh hoạt chuyển giao kiến thức và mẫu hình giữa các 
 → **Công cụ hóa:** OPERATIONS #4 (Analogical Reasoning - công cụ suy luận logic)
 → **Nền tảng lý thuyết:** FOUNDATIONS #26 (Analogical Thinking - nguyên lý tương tự)
 → **Ứng dụng sáng tạo:** CREATION #18 (Analogical Thinking - công cụ đổi mới)
+
+#### **38. Conceptual Blending** - Pha Trộn Khái Niệm [Năng Lực Nhận Thức]
+
+Khả năng nhận thức động để kết hợp các yếu tố từ các không gian tâm trí khác nhau nhằm tạo ra ý nghĩa mới. Đây là NĂNG LỰC CƠ BẢN của tư duy linh hoạt - khả năng di chuyển và hợp nhất các không gian khái niệm một cách tự nhiên.
+
+- **Input Spaces**: Các không gian đầu vào - nguồn khái niệm khác nhau
+- **Generic Space**: Không gian chung - cấu trúc trừu tượng liên kết
+- **Blended Space**: Không gian pha trộn - nơi tạo ra ý nghĩa mới
+- **Emergent Structure**: Cấu trúc đột sinh - thuộc tính không có trong inputs
+
+→ **Liên kết:** CREATION (Creative Synthesis), INTEGRATION (Conceptual Integration)
+
+→ **Xuất hiện ở các domain khác:**
+  • CREATION #8 (công cụ sáng tạo chủ động)
+  • META #12 (kiến trúc không gian tư duy)
+  • INTEGRATION (Cross-Domain Synthesis)
+
+**Đặc điểm riêng ở DYNAMICS:**
+- Tập trung vào QUÁ TRÌNH ĐỘNG của việc chuyển đổi giữa các không gian
+- Nhấn mạnh LINH HOẠT NHẬN THỨC và khả năng mode-switching
+- Là một CHỨC NĂNG TỰ NHIÊN của tâm trí, không nhất thiết có chủ đích
+
+#### **39. Causal Reasoning** - Suy Luận Nhân Quả [Kỹ Năng Nhận Thức]
+
+Khả năng nhận thức để suy luận về các mối quan hệ nguyên nhân-kết quả một cách linh hoạt và thích ứng. Khác với phương pháp phân tích có cấu trúc ở OPERATIONS, đây là về **KHẢ NĂNG TƯ DUY** - năng lực chuyển đổi giữa các cách hiểu nhân quả khác nhau.
+
+- **Cause-Effect Inference**: Suy luận nhân-quả một cách LINH HOẠT
+- **Causal Models**: Xây dựng và THAY ĐỔI mô hình nhân quả
+- **Counterfactual Thinking**: Tư duy phản thực - KHÁM PHÁ khả năng
+- **Mechanism Understanding**: Hiểu cơ chế một cách TRỰC GIÁC
+
+→ **Liên kết nội bộ:** VALIDATION (Causal Analysis)
+→ **Công cụ có cấu trúc:** OPERATIONS #5 (Causal Reasoning - phương pháp phân tích)
+→ **Nền tảng lý thuyết:** FOUNDATIONS #5 (Causality & Interdependence - nguyên lý)
+→ **Tư duy cao hơn:** OPERATIONS #27 (Counterfactual Reasoning), DYNAMICS #48 (Causal Networks), #50 (Temporal Causation)
+
+#### **40. Causal Networks** - Mạng Lưới Nhân Quả
+
+Khả năng nhìn thấy và hiểu các hệ thống phức tạp của các mối quan hệ nhân quả tương tác. Mở rộng từ **suy luận nhân quả tuyến tính** (A→B) sang **tư duy mạng lưới** (A↔B↔C↔D...).
+
+- **Systems Causation**: Nhân quả hệ thống - nhìn thấy toàn bộ mạng lưới
+- **Interconnected Effects**: Các hiệu ứng liên kết - một thay đổi lan tỏa
+- **Network Analysis**: Phân tích mạng lưới - xác định nút trung tâm
+- **Web of Causation**: Mạng lưới nhân quả - tương duyên phức tạp
+
+→ **Liên kết nội bộ:** FOUNDATIONS (Systems Thinking), OPERATIONS (Network Modeling)
+→ **Gốc nguyên lý:** FOUNDATIONS #5 (Causality & Interdependence)
+→ **Khả năng cơ bản:** DYNAMICS #47 (Causal Reasoning)
+→ **Công cụ trực quan:** OPERATIONS #22 (Causal Loop Diagrams)
+
+#### **41. Intervention Reasoning** - Suy Luận Can Thiệp
+
+Suy luận về hậu quả của các hành động và can thiệp.
+
+- **Action Prediction**: Dự đoán hành động
+- **Intervention Planning**: Kế hoạch can thiệp
+- **Outcome Forecasting**: Dự báo kết quả
+- **What-If Analysis**: Phân tích nếu-thì
+
+→ **Liên kết:** NAVIGATION (Action Planning), VALIDATION (Consequence Analysis)
+
+#### **42. Temporal Causation** - Nhân Quả Thời Gian
+
+Khả năng nhận thức về cách các nguyên nhân và kết quả triển khai theo thời gian. Hiểu rằng nhân quả không tức thì - có **độ trễ**, **tích lũy**, và **mẫu hình thời gian**.
+
+- **Time-based Causality**: Nhân quả dựa trên thời gian - nguyên nhân và kết quả cách nhau
+- **Lag Effects**: Hiệu ứng trễ - kết quả xuất hiện sau một khoảng thời gian
+- **Sequence Analysis**: Phân tích chuỗi - thứ tự quan trọng
+- **Temporal Patterns**: Mẫu hình thời gian - chu kỳ nhân quả
+
+→ **Liên kết nội bộ:** DYNAMICS (Temporal Dynamics), VALIDATION (Temporal Analysis)
+→ **Gốc nguyên lý:** FOUNDATIONS #5 (Causality & Interdependence)
+→ **Khả năng cơ bản:** DYNAMICS #47 (Causal Reasoning)
+→ **Vượt thoát:** TRANSCENDENCE #30 (Retroactive Causality - nhân quả ngược thời gian)
+
+### **7. Perceptual Effects & Cognitive Biases - Hiệu Ứng Tri Giác & Thiên Lệch Nhận Thức**
+
+#### **43. Priming Effects** - Hiệu Ứng Mồi
+
+Hiện tượng việc tiếp xúc với một kích thích ảnh hưởng đến phản ứng với các kích thích tiếp theo.
+
+- **Semantic Priming**: Mồi ý nghĩa
+- **Perceptual Priming**: Mồi tri giác
+- **Conceptual Priming**: Mồi khái niệm
+- **Unconscious Influence**: Ảnh hưởng vô thức
+
+→ **Liên kết:** INTEGRATION (Context Setting), VALIDATION (Bias Awareness)
+
+#### **44. Framing Effects** - Hiệu Ứng Đóng Khung
+
+Cách thức thông tin được trình bày ảnh hưởng đến quyết định và đánh giá.
+
+- **Positive vs. Negative Framing**: Đóng khung tích cực vs. tiêu cực
+- **Gain vs. Loss Framing**: Đóng khung lợi ích vs. mất mát
+- **Reference Point Manipulation**: Thao tác điểm tham chiếu
+- **Context Dependency**: Phụ thuộc ngữ cảnh
+
+→ **Liên kết:** OPERATIONS (Communication), VALIDATION (Bias Detection)
+
+#### **45. Perceptual Set** - Thiết Lập Tri Giác
+
+Xu hướng tri giác những gì chúng ta mong đợi dựa trên kinh nghiệm, ngữ cảnh và động cơ.
+
+- **Expectation Effects**: Hiệu ứng kỳ vọng
+- **Context Influence**: Ảnh hưởng của ngữ cảnh
+- **Top-Down Processing**: Xử lý từ trên xuống
+- **Selective Perception**: Tri giác chọn lọc
+
+→ **Liên kết:** VALIDATION (Observation Bias), [META] LAYER (Perception Awareness)
+
+#### **46. Cognitive Dissonance** - Mâu Thuẫn Nhận Thức
+
+Trạng thái khó chịu khi giữ các niềm tin, ý tưởng hoặc giá trị mâu thuẫn nhau.
+
+- **Inconsistency Detection**: Phát hiện sự không nhất quán
+- **Discomfort Motivation**: Động lực từ sự khó chịu
+- **Dissonance Reduction**: Giảm mâu thuẫn
+- **Rationalization**: Hợp lý hóa
+
+→ **Liên kết:** VALIDATION (Consistency Check), INTEGRATION (Belief Integration)
+
+#### **47. Cognitive Restructuring** - Tái Cấu Trúc Nhận Thức
+
+Quá trình xác định và thay đổi các mẫu tư duy không hữu ích hoặc không chính xác.
+
+- **Thought Pattern Identification**: Nhận dạng mẫu hình tư duy
+- **Belief Challenging**: Thách thức các niềm tin
+- **Reframing**: Đóng khung lại
+- **Alternative Perspectives**: Các góc nhìn thay thế
+
+→ **Liên kết:** VALIDATION (Belief Testing), [META] LAYER (Belief System Architecture)
+
+#### **48. Pattern Recognition** - Nhận Dạng Mẫu Hình
+
+Khả năng phát hiện các quy luật, cấu trúc hoặc mối quan hệ trong dữ liệu hoặc kinh nghiệm.
+
+- **Perceptual Patterns**: Mẫu hình tri giác
+- **Conceptual Patterns**: Mẫu hình khái niệm
+- **Temporal Patterns**: Mẫu hình theo thời gian
+- **Expert Pattern Recognition**: Nhận dạng mẫu hình của chuyên gia
+
+→ **Liên kết:** VALIDATION (Pattern Verification), INTEGRATION (Knowledge Synthesis)
+
+### **8. Decision Dynamics & Strategic Thinking - Động Lực Quyết Định & Tư Duy Chiến Lược**
+
+#### **49. Decision Velocity** - Tốc Độ Quyết Định
+
+Khả năng ra quyết định nhanh chóng mà vẫn duy trì chất lượng.
+
+- **Speed-Quality Balance**: Cân bằng tốc độ-chất lượng
+- **Commitment Ability**: Khả năng cam kết
+- **Reversibility Assessment**: Đánh giá khả năng đảo ngược
+- **Action Bias**: Thiên lệch hành động
+
+→ **Liên kết:** NAVIGATION (Fast Decision Making), OPERATIONS (Execution Speed)
+
+#### **50. Option Preservation - Bảo Tồn Lựa Chọn [Trong Tư Duy]**
+
+Nguyên tắc duy trì sự linh hoạt NHẬN THỨC bằng cách không khóa tư duy vào một hướng duy nhất. Đây là về COGNITIVE FLEXIBILITY - khả năng giữ nhiều góc nhìn, nhiều khả năng suy luận đồng thời mà không bị cứng nhắc trong một paradigm.
+
+- **Flexibility Maintenance**: Duy trì linh hoạt TƯ DUY - không khóa vào một mô hình
+- **Future Option Value**: Giá trị của việc giữ nhiều CÁCH SUY NGHĨ khả thi
+- **Reversibility**: Khả năng đảo ngược QUAN ĐIỂM mà không tốn công sức
+- **Strategic Patience**: Kiên nhẫn chờ đợi INSIGHT rõ ràng hơn trước khi kết luận
+
+→ **Liên kết nội bộ:** VALIDATION (Option Value)
+→ **Ứng dụng chiến lược:** NAVIGATION #24 (trong quyết định và hành động)
+→ **Gốc lý thuyết:** FOUNDATIONS (Real Options Theory)
+→ **Công cụ thực hành:** OPERATIONS (Reversible vs Irreversible Decisions)
+
+#### **51. Decision Stack** - Chồng Quyết Định
+
+Quản lý nhiều quyết định ở các cấp độ khác nhau.
+
+- **Hierarchical Decisions**: Quyết định phân cấp
+- **Integration Across Levels**: Tích hợp qua các cấp
+- **Priority Ordering**: Sắp xếp ưu tiên
+- **Stack Management**: Quản lý chồng
+
+→ **Liên kết:** OPERATIONS (Hierarchical Processing), NAVIGATION (Multi-level Strategy)
+
+#### **52. Decision Momentum** - Động Lượng Quyết Định
+
+Sự tích lũy của các quyết định tạo ra động lượng hành động.
+
+- **Flow of Choices**: Dòng chảy các lựa chọn
+- **Accumulation Effect**: Hiệu ứng tích lũy
+- **Forward Movement**: Chuyển động về phía trước
+- **Inertia Creation**: Tạo quán tính
+
+→ **Liên kết:** AMPLIFICATION (Flywheel Effect), NAVIGATION (Momentum Building)
+
+#### **53. Portfolio Reasoning** - Suy Luận Danh Mục
+
+Suy nghĩ về tập hợp các lựa chọn thay vì lựa chọn đơn lẻ.
+
+- **Diversification Thinking**: Tư duy đa dạng hóa
+- **Hedging Strategies**: Chiến lược phòng ngừa
+- **Balance Optimization**: Tối ưu hóa cân bằng
+- **Risk Distribution**: Phân phối rủi ro
+
+→ **Liên kết:** NAVIGATION (Portfolio Strategy), VALIDATION (Risk Management)
+
+#### **54. Complex Systems Decisions** - Quyết Định Hệ Thống Phức Tạp
+
+Ra quyết định trong các tình huống có nhiều biến số tương tác.
+
+- **Emergence Awareness**: Nhận thức đột sinh
+- **Nonlinear Effects**: Hiệu ứng phi tuyến
+- **Uncertainty Navigation**: Điều hướng bất định
+- **Systemic Thinking**: Tư duy hệ thống
+
+→ **Liên kết:** OPERATIONS (Complex Decision Making), DYNAMICS (Complexity)
+
+#### **55. Emergent Wayfinding** - Tìm Đường Đột Sinh
+
+Khám phá đường đi khi không có bản đồ được xác định trước.
+
+- **Discovery-Based Navigation**: Điều hướng dựa trên khám phá
+- **Unplanned Pathways**: Các con đường không lên kế hoạch
+- **Opportunistic Routing**: Định tuyến cơ hội
+- **Emergence-Guided Travel**: Du hành được hướng dẫn bởi đột sinh
+
+→ **Liên kết:** CREATION (Exploration), NAVIGATION (Discovery)
+
+#### **56. Quantum Navigation - Điều Hướng Lượng Tử [Phương Thức Tư Duy]**
+
+Khả năng TƯ DUY đồng thời nhiều khả năng cho đến khi cần "sụp đổ" thành một quyết định - áp dụng nguyên lý chồng chập lượng tử vào NHẬN THỨC. Đây là về COGNITIVE FLEXIBILITY, không phải về chiến lược điều hướng.
+
+- **Superposition Strategy**: Chiến lược tư duy chồng chất - giữ nhiều ý tưởng cùng lúc mà không vội kết luận
+- **Multiple Possibilities**: Duy trì nhiều khả năng đồng thời trong tâm trí
+- **Wave Function Navigation**: Điều hướng hàm sóng tư duy - lướt trên sóng khả năng
+- **Observation Collapse**: Sụp đổ khi cần quyết định - chuyển từ tư duy đa khả năng sang hành động cụ thể
+
+→ **Liên kết:** FOUNDATIONS (Quantum Principles)
+→ **Ứng dụng chiến lược:** NAVIGATION #15 (điều hướng bằng nguyên lý lượng tử)
+→ **Trạng thái cụ thể:** NAVIGATION #24 (Quantum Navigation States)
+→ **Bối cảnh nhận thức:** Chức năng 4 - COGNITIVE FLEXIBILITY (Convergent ↔ Divergent)
+
+**KHÁC BIỆT QUAN TRỌNG:**
+- Đây là về TƯ DUY (thinking mode), không phải về HÀNH ĐỘNG (strategic action)
+- Nằm trong DYNAMICS vì nó về sự linh hoạt nhận thức và khả năng chuyển đổi giữa các phương thức tư duy khác nhau
+
+### **9. Complex Adaptive Creativity - Sáng Tạo Thích Ứng Phức Tạp**
+
+#### **57. Adaptive Systems (Creativity) - Hệ Thống Thích Ứng Sáng Tạo**
+
+ỨNG DỤNG các nguyên lý thích nghi tự nhiên vào QUÁ TRÌNH SÁNG TẠO - thiết kế các hệ thống có khả năng tự tổ chức, phản hồi và tạo sinh để sản xuất các giải pháp sáng tạo. Khác với nguyên lý sinh học ở FOUNDATIONS, đây là về CÔNG CỤ & KỸ THUẬT sáng tạo dựa trên cơ chế thích nghi.
+
+- **Self-Organizing Creativity**: Sáng tạo tự phát sinh từ tương tác của các thành phần đơn giản. Các ý tưởng và mẫu hình sáng tạo xuất hiện từ quá trình tự tổ chức không có điều khiển trung tâm. Ví dụ: Generative art (nghệ thuật tạo sinh từ thuật toán), algorithmic composition (sáng tác nhạc tự động), swarm creativity (sáng tạo bầy đàn từ tương tác tập thể).
+
+- **Responsive Generation**: Hệ thống phản ứng với input và tạo ra output thích nghi theo ngữ cảnh. Quá trình sáng tạo tự điều chỉnh dựa trên phản hồi liên tục từ môi trường hoặc người dùng. Ví dụ: AI art tools (Midjourney, DALL-E phản ứng với prompt), interactive installations (tác phẩm nghệ thuật tương tác với khán giả), real-time design systems (thiết kế thích nghi với dữ liệu thực).
+
+- **Environmental Adaptation**: Điều chỉnh quá trình sáng tạo dựa trên ngữ cảnh, ràng buộc và phản hồi từ môi trường. Hệ thống học hỏi từ kết quả và tối ưu hóa dần theo thời gian. Ví dụ: A/B testing trong design (thử nghiệm và chọn lọc thiết kế tốt nhất), iterative prototyping (nguyên mẫu tiến hóa qua nhiều vòng lặp), user feedback loops (cải tiến dựa trên phản hồi người dùng).
+
+- **Emergent Solutions**: Giải pháp sáng tạo xuất hiện từ quá trình thử nghiệm, chọn lọc và tiến hóa - không được thiết kế trực tiếp mà tự phát sinh. Ứng dụng các thuật toán tiến hóa vào sáng tạo. Ví dụ: Evolutionary algorithms trong design optimization (tối ưu hóa thiết kế qua tiến hóa), genetic programming (lập trình tự sinh), neural style transfer (AI học và áp dụng phong cách nghệ thuật), Agile/Scrum methodology (phương pháp phát triển lặp và thích nghi).
+
+
+→ **Liên kết nội bộ:** CREATION (Generative Systems - hệ thống tạo sinh), OPERATIONS (Iteration - phương pháp lặp), DYNAMICS #3 (Self-Organization - cơ chế tự tổ chức)
+
+→ **Gốc nguyên lý:** FOUNDATIONS #9 (Adaptive Systems - học từ sinh học tự nhiên)
+
+→ **Công cụ kỹ thuật cụ thể:**
+  • Genetic algorithms trong design optimization (tối ưu hóa thiết kế bằng thuật toán di truyền)
+  • Swarm creativity cho collaborative ideation (sáng tạo tập thể dựa trên bầy đàn)
+  • Neural networks cho pattern generation (mạng nơ-ron tạo mẫu hình)
+  • Feedback loops trong creative iteration (vòng lặp phản hồi trong sáng tạo lặp)
+  • Evolutionary design systems (hệ thống thiết kế tiến hóa)
+  • Generative AI platforms (nền tảng AI tạo sinh)
+
+→ **Phân biệt:** FOUNDATIONS #9 = "Tự nhiên thích nghi NHƯ THẾ NÀO?" (quan sát) | DYNAMICS #29 = "ÁP DỤNG nguyên lý đó để sáng tạo NHƯ THẾ NÀO?" (hành động)
+
+
+#### **58. Feedback Loop Creativity** - Sáng Tạo Vòng Lặp Phản Hồi
+
+Sử dụng vòng lặp phản hồi để tạo ra các mẫu hình sáng tạo phức tạp.
+
+- **Recursive Generation**: Tạo sinh đệ quy
+- **Iterative Emergence**: Đột sinh lặp
+- **Self-Modifying Process**: Quá trình tự điều chỉnh
+- **Feedback Art**: Nghệ thuật phản hồi
+
+→ **Liên kết:** AMPLIFICATION (Feedback Loops), CREATION (Recursive Creation)
+
+#### **59. Attractor Dynamics (Creativity)** - Động Lực Hấp Dẫn (Sáng Tạo)
+
+Sử dụng các hấp dẫn tử để tạo ra các mẫu hình sáng tạo ổn định. Đây là ứng dụng cụ thể của Strange Attractors vào quá trình sáng tạo, sử dụng attractor dynamics để tạo patterns sáng tạo ổn định.
+
+- **Pattern Convergence**: Hội tụ mẫu hình
+- **Creative Attractors**: Hấp dẫn tử sáng tạo
+- **Stable Creativity**: Sáng tạo ổn định
+- **Attractor-Based Design**: Thiết kế dựa trên hấp dẫn tử
+
+→ **Gốc lý thuyết:** DYNAMICS #6 (Strange Attractors - khái niệm gốc từ Chaos Theory)
+
+→ **Điểm khác biệt:** Ứng dụng attractor dynamics vào QUÁ TRÌNH SÁNG TẠO
+
+→ **Liên kết:** DYNAMICS (Strange Attractors), CREATION (Pattern Design)
+
+#### **60. Nonlinear Creativity** - Sáng Tạo Phi Tuyến
+
+Các quá trình sáng tạo với các hiệu ứng không tỷ lệ và đột phá bất ngờ.
+
+- **Chaos-Based Art**: Nghệ thuật dựa trên hỗn loạn
+- **Unpredictable Emergence**: Đột sinh không thể dự đoán
+- **Nonlinear Innovation**: Đổi mới phi tuyến
+- **Butterfly Effects in Creation**: Hiệu ứng bướm trong sáng tạo
+
+→ **Liên kết:** DYNAMICS (Chaos Theory), CREATION (Radical Innovation)
+
+#### **61. Swarm Creativity** - Sáng Tạo Bầy Đàn
+
+Sáng tạo tập thể xuất hiện từ tương tác của nhiều tác nhân đơn giản.
+
+- **Collective Generation**: Tạo sinh tập thể
+- **Distributed Creativity**: Sáng tạo phân tán
+- **Emergent Art**: Nghệ thuật đột sinh
+- **Multi-Agent Creation**: Tạo tác đa tác nhân
+
+→ **Liên kết:** AMPLIFICATION (Swarm Intelligence), CREATION (Collaborative Creation)
+
+#### **62. Phase Transition Creativity** - Sáng Tạo Chuyển Pha
+
+Đổi mới xuất hiện ở các điểm chuyển pha giữa các trạng thái khác nhau.
+
+- **Threshold Innovation**: Đổi mới ngưỡng
+- **State Change Creativity**: Sáng tạo thay đổi trạng thái
+- **Critical Point Art**: Nghệ thuật điểm tới hạn
+- **Transformation Design**: Thiết kế chuyển đổi
+
+→ **Liên kết:** DYNAMICS (Phase Transitions), CREATION (Breakthrough Innovation)
+
+### **10. Decision Biases & Cognitive Razors - Thiên Lệch Quyết Định & Dao Cạo Nhận Thức**
+
+#### **63. Dunning-Kruger Razor** - Dao Cạo Dunning-Kruger
+
+Nhận thức về xu hướng đánh giá quá cao năng lực khi thiếu năng lực.
+
+- **Competence Awareness**: Nhận thức năng lực
+- **Humility Cultivation**: Nuôi dưỡng khiêm tốn
+- **Learning Curve Recognition**: Nhận diện đường cong học tập
+- **Expertise Caution**: Thận trọng về chuyên môn
+
+→ **Liên kết:** [META] LAYER (Meta-Competence), VALIDATION (Self-Assessment)
+→ **Gốc lý thuyết:** FOUNDATIONS #39 (The Dunning-Kruger Effect)
+
+#### **64. Fredkin's Paradox** - Nghịch Lý Fredkin
+
+"Càng quyết định giữa các lựa chọn tương đương, càng ít quan trọng việc chọn cái nào."
+
+- **Decision Equivalence**: Tương đương quyết định
+- **Time Waste Recognition**: Nhận biết lãng phí thời gian
+- **Priority Focus**: Tập trung ưu tiên
+- **Trivial Choice Awareness**: Nhận thức lựa chọn tầm thường
+
+→ **Liên kết:** OPERATIONS (Decision Making), NAVIGATION (Priority Setting)
+
+#### **65. Sayre's Law** - Định Luật Sayre
+
+"Trong bất kỳ tranh cãi nào, cường độ cảm xúc tỷ lệ nghịch với giá trị của vấn đề đang bàn."
+
+- **Conflict Proportion**: Tỷ lệ xung đột
+- **Triviality Intensity**: Cường độ tầm thường
+- **Emotional Misalignment**: Không liên kết cảm xúc
+- **Politics of Small Differences**: Chính trị của những khác biệt nhỏ
+
+→ **Liên kết:** VALIDATION (Conflict Analysis), NAVIGATION (Energy Allocation)
+
+#### **66. Bikeshedding Law** - Định Luật Bikeshedding
+
+Xu hướng dành thời gian không cân xứng cho các vấn đề tầm thường dễ hiểu.
+
+- **Trivial Focus**: Tập trung vào tầm thường
+- **Comprehension Bias**: Thiên lệch hiểu biết
+- **Important Neglect**: Bỏ qua điều quan trọng
+- **Attention Misallocation**: Phân bổ sai chú ý
+
+→ **Liên kết:** NAVIGATION (Priority Management), VALIDATION (Importance Assessment)
+
+### **11. Edge Dynamics & Boundary Navigation - Động Lực Biên Giới & Điều Hướng Ngưỡng**
+
+#### **67. Contextual Navigation** - Điều Hướng Theo Ngữ Cảnh
+
+Điều chỉnh chiến lược dựa trên các yếu tố môi trường và tình huống.
+
+- **Environmental Sensing**: Cảm nhận môi trường
+- **Responsive Adjustment**: Điều chỉnh phản hồi
+- **Situational Awareness**: Nhận thức tình huống
+- **Context-Driven Strategy**: Chiến lược do ngữ cảnh định hướng
+
+→ **Liên kết:** NAVIGATION (Adaptive Strategy), VALIDATION (Context Assessment)
+
+#### **68. Antifragile Navigation** - Điều Hướng Phản Mong Manh
+
+Chiến lược không chỉ chống lại mà còn phát triển từ rối loạn và bất ngờ.
+
+- **Resilience Plus Growth**: Khả năng phục hồi cộng tăng trưởng
+- **Volatility Exploitation**: Khai thác biến động
+- **Stress Seeking**: Tìm kiếm căng thẳng có lợi
+- **Adversity Advantage**: Lợi thế từ nghịch cảnh
+
+→ **Liên kết:** DYNAMICS (Antifragility), VALIDATION (Stress Testing)
+
+#### **69. Collective Navigation** - Điều Hướng Tập Thể
+
+Tìm đường như một nhóm, tận dụng trí tuệ tập thể.
+
+- **Group Wayfinding**: Tìm đường nhóm
+- **Coordination Mechanisms**: Cơ chế phối hợp
+- **Shared Awareness**: Nhận thức chung
+- **Collective Intelligence**: Trí tuệ tập thể
+
+→ **Liên kết:** INTEGRATION (Collective Intelligence), AMPLIFICATION (Swarm Navigation)
+
+#### **70. Liminal Navigation** - Điều Hướng Ngưỡng Cửa
+
+Làm việc trong các không gian chuyển tiếp và ranh giới.
+
+- **Threshold Work**: Làm việc ở ngưỡng
+- **Transition Spaces**: Không gian chuyển tiếp
+- **Between States**: Giữa các trạng thái
+- **Boundary Navigation**: Điều hướng ranh giới
+
+→ **Liên kết:** TRANSCENDENCE (Liminal States), DYNAMICS (Threshold Crossing)
+
+#### **71. Boundary Dissolution** - Hòa Tan Ranh Giới
+
+Vượt qua hoặc xóa bỏ các giới hạn và phân chia.
+
+- **Limit Transcendence**: Vượt qua giới hạn
+- **Category Breakdown**: Phá vỡ phân loại
+- **Separation Removal**: Loại bỏ sự tách biệt
+- **Unity Through Dissolution**: Thống nhất qua hòa tan
+
+→ **Liên kết:** TRANSCENDENCE (Boundary Transcendence), INTEGRATION (Unity)
+
+#### **72. Chaos Surfing** - Lướt Sóng Hỗn Loạn
+
+Kỹ năng điều hướng và tận dụng các tình huống hỗn loạn.
+
+- **Disorder Navigation**: Điều hướng hỗn loạn
+- **Opportunity in Chaos**: Cơ hội trong hỗn loạn
+- **Turbulence Riding**: Cưỡi sóng nhiễu loạn
+- **Chaotic Advantage**: Lợi thế hỗn loạn
+
+→ **Liên kết:** DYNAMICS (Chaos Theory), NAVIGATION (Crisis Navigation)
+
+#### **73. Avalanche Triggering** - Kích Hoạt Tuyết Lở
+
+Cố ý tạo ra các hiệu ứng cascade để thúc đẩy thay đổi lớn.
+
+- **Cascade Initiation**: Khởi động cascade
+- **Trigger Point Identification**: Nhận diện điểm kích hoạt
+- **Chain Reaction Start**: Bắt đầu phản ứng dây chuyền
+- **Intentional Disruption**: Gián đoạn có chủ đích
+
+→ **Liên kết:** AMPLIFICATION (Cascade Dynamics), DYNAMICS (Tipping Points)
+
+#### **74. Synchronicity Engineering** - Kỹ Thuật Đồng Thời
+
+Tạo ra điều kiện cho các sự kiện ý nghĩa trùng hợp xảy ra.
+
+- **Meaningful Coincidence**: Trùng hợp có ý nghĩa
+- **Timing Optimization**: Tối ưu hóa thời điểm
+- **Connection Facilitation**: Tạo điều kiện kết nối
+- **Serendipity Design**: Thiết kế may mắn
+
+→ **Liên kết:** NAVIGATION (Timing Wisdom), CREATION (Opportunity Creation)
+
+---
+
+## CHỨC NĂNG 5: EMOTIONAL INTELLIGENCE & ENERGY MANAGEMENT - TRÍ TUỆ CẢM XÚC & QUẢN LÝ NĂNG LƯỢNG
+
+### **Tổng Quan**
+
+Hiểu và điều khiển các trạng thái cảm xúc và năng lượng của bản thân, và khả năng điều hướng các động lực cảm xúc trong các hệ thống phức tạp.
+
+### **Các Khái Niệm Cốt Lõi (23 mục)**
+
+#### **1. Emotional Valence Dynamics** - Động Lực Hóa Trị Cảm Xúc
+
+Cách các trạng thái cảm xúc tích cực hoặc tiêu cực ảnh hưởng đến các quá trình nhận thức.
+
+- **Positive Valence Broadening**: Cảm xúc tích cực mở rộng phạm vi chú ý và tư duy sáng tạo
 
 #### **16. Metacognition** - Siêu Nhận Thức [Trong Linh Hoạt Nhận Thức]
 
