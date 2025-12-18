@@ -29,7 +29,7 @@ Miền này tập hợp các nguyên lý, mô hình tư duy và trí tuệ cốt
 
 Các nguyên lý đầu tiên và tiên đề là những chân lý tự hiển không thể giản lược thêm - nền tảng của mọi suy luận và tri thức. Chúng là các "nguyên tử" của tư duy, từ đó mọi cấu trúc phức tạp hơn được xây dựng.
 
-### **Foundational Axioms & Logic - Tiên Đề & Logic Nền Tảng**
+### **1. Foundational Axioms & Logic - Tiên Đề & Logic Nền Tảng**
 
 #### **1. First Principles** - Nguyên Lý Đầu Tiên
 
@@ -66,7 +66,7 @@ Nền tảng toán học của tư duy hình thức và cấu trúc.
 
 ---
 
-### **Unity, Duality & Ultimate Reality - Thống Nhất, Nhị Nguyên & Thực Tại Tối Hậu**
+### **2. Unity, Duality & Ultimate Reality - Thống Nhất, Nhị Nguyên & Thực Tại Tối Hậu**
 
 #### **4. Duality & Unity [Nguyên Lý Bản Thể]** - Nhị Nguyên & Thống Nhất Trong Thực Tại
 
@@ -146,7 +146,7 @@ Hai thôi thúc cơ bản và phổ quát của mọi thực thể sống: tự 
 
 ---
 
-### **Emergence & Creative Principles - Đột Sinh & Nguyên Lý Sáng Tạo**
+### **3. Emergence & Creative Principles - Đột Sinh & Nguyên Lý Sáng Tạo**
 
 #### **8. Emergence & Self-Organization** - Đột Sinh & Tự Tổ Chức [Nguyên Lý Phổ Quát]
 
@@ -202,7 +202,7 @@ Nguyên lý rằng các hệ thống phức tạp thay đổi theo thời gian t
 
 ---
 
-### **Causality, Time & Transformation - Nhân Quả, Thời Gian & Chuyển Hóa**
+### **4. Causality, Time & Transformation - Nhân Quả, Thời Gian & Chuyển Hóa**
 
 #### **12. Causality & Interdependence** - Nhân Quả & Tương Duyên [Nguyên Lý Nền Tảng]
 
@@ -274,7 +274,7 @@ Nguyên lý kép rằng trong mọi sự thay đổi, có những thứ được
 
 ---
 
-### **System Dynamics & Feedback - Động Lực Hệ Thống & Phản Hồi**
+### **5. System Dynamics & Feedback - Động Lực Hệ Thống & Phản Hồi**
 
 #### **16. Feedback Loops - Vòng Lặp Phản Hồi [Nguyên Lý Nền Tảng]**
 
@@ -327,7 +327,7 @@ Nguyên lý rằng dòng chảy (năng lượng, thông tin, tài nguyên) xảy
 
 ---
 
-### **Structure, Scale & Organization - Cấu Trúc, Quy Mô & Tổ Chức**
+### **6. Structure, Scale & Organization - Cấu Trúc, Quy Mô & Tổ Chức**
 
 #### **20. Scale & Hierarchy** - Quy Mô & Phân Cấp
 
@@ -386,7 +386,7 @@ Kết nối cơ bản giữa các yếu tố, tạo ra mối quan hệ.
 
 ---
 
-### **Boundaries, Constraints & Resources - Ranh Giới, Ràng Buộc & Nguồn Lực**
+### **7. Boundaries, Constraints & Resources - Ranh Giới, Ràng Buộc & Nguồn Lực**
 
 #### **25. Constraints & Boundaries** - Ràng Buộc & Ranh Giới [Nguyên Lý Triết Học]
 
@@ -421,7 +421,7 @@ Nguyên lý cho rằng nhận thức về sự sẵn có của các nguồn lự
 
 ---
 
-### **Energy, Information & Flow - Năng Lượng, Thông Tin & Dòng Chảy**
+### **8. Energy, Information & Flow - Năng Lượng, Thông Tin & Dòng Chảy**
 
 #### **27. Energy & Information** - Năng Lượng & Thông Tin
 
@@ -447,7 +447,7 @@ Nguyên lý cơ bản rằng thông tin bao gồm các mẫu hình có ý nghĩa
 
 ---
 
-### **Form, Function & Design - Hình Thức, Chức Năng & Thiết Kế**
+### **9. Form, Function & Design - Hình Thức, Chức Năng & Thiết Kế**
 
 #### **29. Form & Function** - Hình Thức & Chức Năng
 
@@ -479,7 +479,7 @@ NGUYÊN LÝ PHỔ QUÁT về sự cân bằng, lặp lại và sự phá vỡ c�
 
 ---
 
-### **Interaction & Relationship - Tương Tác & Quan Hệ**
+### **10. Interaction & Relationship - Tương Tác & Quan Hệ**
 
 #### **31. Resonance & Attunement** - Cộng Hưởng & Điều Hợp
 
@@ -516,7 +516,7 @@ Hai chế độ tương tác cơ bản giữa các tác nhân trong một hệ t
 
 ---
 
-### **Observation, Context & Perspective - Quan Sát, Bối Cảnh & Góc Nhìn**
+### **11. Observation, Context & Perspective - Quan Sát, Bối Cảnh & Góc Nhìn**
 
 #### **34. Observer Effect & Participation** - Hiệu Ứng Người Quan Sát & Sự Tham Gia
 
@@ -575,7 +575,7 @@ Nguyên lý rằng nhiều khái niệm không phải là nhị phân (có/khôn
 
 ---
 
-### **Foundational Disciplines - Các Ngành Nền Tảng**
+### **12. Foundational Disciplines - Các Ngành Nền Tảng**
 
 #### **39. Ontology** - Bản Thể Học
 
@@ -607,7 +607,7 @@ Nghiên cứu về cấu trúc, nguồn gốc và tiến hóa của vũ trụ.
 
 Các định luật phổ quát và mẫu hình là những cấu trúc lặp lại, các mô hình tư duy và quy luật vận hành được quan sát thấy ở nhiều lĩnh vực khác nhau - từ vật lý đến xã hội học, từ tâm lý học đến kinh tế học.
 
-### **Thinking Models & Mental Frameworks - Mô Hình Tư Duy & Khung Tinh Thần**
+### **1. Thinking Models & Mental Frameworks - Mô Hình Tư Duy & Khung Tinh Thần**
 
 #### **1. Mental Models - Mô Hình Tư Duy [Khung Diễn Giải Phổ Quát]**
 
@@ -774,7 +774,7 @@ Tiếp cận một vấn đề bằng cách suy nghĩ ngược lại.
 
 → **Liên kết:** OPERATIONS (Reverse Thinking), CREATION (Problem Reframing)
 
-### **System Robustness & Constraints - Độ Vững Chắc Hệ Thống & Ràng Buộc**
+### **2. System Robustness & Constraints - Độ Vững Chắc Hệ Thống & Ràng Buộc**
 
 #### **10. Leverage - Đòn Bẩy [Định Luật Cơ Học Cơ Bản]**
 
@@ -842,7 +842,7 @@ Quy luật phổ quát rằng hiệu suất của BẤT KỲ hệ thống nào c
 → **Phương pháp áp dụng:** OPERATIONS (Constraint Analysis & Optimization)
 → **Khuếch đại:** AMPLIFICATION #17 (Constraints as Leverage)
 
-### **Economic & Information Dynamics - Động Lực Kinh Tế & Thông Tin**
+### **3. Economic & Information Dynamics - Động Lực Kinh Tế & Thông Tin**
 
 #### **14. Supply and Demand** - Cung và Cầu
 
@@ -893,7 +893,7 @@ Mô hình mô tả một tình huống trong đó các cá nhân hành động v
 
 → **Liên kết:** DYNAMICS (System Dynamics), INTEGRATION (Systemic Integration)
 
-### **Statistical Distributions & Probability - Phân Phối Thống Kê & Xác Suất**
+### **4. Statistical Distributions & Probability - Phân Phối Thống Kê & Xác Suất**
 
 #### **18. Normal Distribution (The Bell Curve) - Phân Phối Chuẩn (Đường Cong Chuông)**
 
@@ -943,7 +943,7 @@ Sự khác biệt quan trọng giữa trung bình theo thời gian của một c
 
 → **Liên kết:** OPERATIONS (Probabilistic Thinking), NAVIGATION (Risk Navigation)
 
-### **Human Psychology & Meaning-Making - Tâm Lý Con Người & Tạo Ý Nghĩa**
+### **5. Human Psychology & Meaning-Making - Tâm Lý Con Người & Tạo Ý Nghĩa**
 
 #### **22. Maslow's Hierarchy of Needs - Tháp Nhu Cầu của Maslow**
 
@@ -1011,7 +1011,7 @@ Mô hình cho rằng ham muốn của con người không phải là tự phát 
 
 → **Liên kết:** AMPLIFICATION (Viral Mechanics), DYNAMICS (System Dynamics)
 
-### **Physical Laws & Natural Principles - Định Luật Vật Lý & Nguyên Lý Tự Nhiên**
+### **6. Physical Laws & Natural Principles - Định Luật Vật Lý & Nguyên Lý Tự Nhiên**
 
 #### **28. Entropy (Second Law of Thermodynamics) - Entropy**
 
@@ -1084,7 +1084,7 @@ Quá trình tạo ra các nguyên tố hóa học trong các ngôi sao.
 
 → **Liên kết:** FOUNDATIONS (Cosmology), CREATION (Emergence)
 
-### **Operational Laws & Heuristics - Định Luật Vận Hành & Quy Tắc Kinh Nghiệm**
+### **7. Operational Laws & Heuristics - Định Luật Vận Hành & Quy Tắc Kinh Nghiệm**
 
 #### **34. The Pareto Principle (80/20 Rule) - Nguyên Lý Pareto**
 
@@ -1139,7 +1139,7 @@ Mô hình cho rằng bản chất của một phương tiện truyền thông (c
 
 → **Liên kết:** INTEGRATION (Systemic Integration), DYNAMICS (System Dynamics)
 
-### **Evolutionary Dynamics - Động Lực Tiến Hóa**
+### **8. Evolutionary Dynamics - Động Lực Tiến Hóa**
 
 #### **38. The Red Queen Effect - Hiệu Ứng Nữ Hoàng Đỏ**
 
@@ -1172,7 +1172,7 @@ xuất hiện ở mọi hệ thống - từ sinh học, địa chất, đến x�
   • TRANSCENDENCE #16 (siêu việt hệ thống)
   • Liên quan: FOUNDATIONS #15 (Spiral Development - tiến hóa xoắn ốc)
 
-### **Cognitive Biases & Behavioral Patterns - Thiên Kiến Nhận Thức & Mô Thức Hành Vi**
+### **9. Cognitive Biases & Behavioral Patterns - Thiên Kiến Nhận Thức & Mô Thức Hành Vi**
 
 #### **40. The Dunning-Kruger Effect - Hiệu Ứng Dunning-Kruger [Universal Pattern]**
 
@@ -1327,7 +1327,7 @@ hiện tượng này.
 
 **CẢNH BÁO:** Đây là một cognitive bias PHỔ QUÁT - xuất hiện ở mọi lĩnh vực từ khoa học, kinh doanh, đến đời sống cá nhân. Đặc biệt nguy hiểm vì nó tạo ra ảo tưởng về sự hiểu biết trong khi thực chất đang BÓP MÉO thực tại.
 
-### **Hermetic & Sacred Principles - Nguyên Lý Hermetic & Thiêng Liêng**
+### **10. Hermetic & Sacred Principles - Nguyên Lý Hermetic & Thiêng Liêng**
 
 #### **47. As Above So Below - Như Trên Như Dưới**
 
@@ -1351,7 +1351,7 @@ Bảy nguyên lý Hermetic cơ bản: Mentalism, Correspondence, Vibration, Pola
 
 → **Liên kết:** FOUNDATIONS (Universal Principles), TRANSCENDENCE (Hermetic Wisdom)
 
-### **Sacred Arts & Aesthetic Patterns - Nghệ Thuật Thiêng Liêng & Mô Thức Thẩm Mỹ**
+### **11. Sacred Arts & Aesthetic Patterns - Nghệ Thuật Thiêng Liêng & Mô Thức Thẩm Mỹ**
 
 #### **49. Sacred Geometry Base Principles - Nguyên Lý Hình Học Thiêng Liêng**
 
@@ -1474,7 +1474,7 @@ Các hệ thống tỷ lệ trong kiến trúc cổ điển.
 
 → **Liên kết:** CREATION (Architecture), FOUNDATIONS (Sacred Geometry)
 
-### **Meta-Patterns & Universal Structures - Mô Thức Siêu Việt & Cấu Trúc Phổ Quát**
+### **12. Meta-Patterns & Universal Structures - Mô Thức Siêu Việt & Cấu Trúc Phổ Quát**
 
 #### **60. Universal Grammar - Ngữ Pháp Phổ Quát**
 
@@ -1528,7 +1528,7 @@ Nhận thức về tính toàn vẹn và sự liên kết của mọi thứ.
 
 Các giá trị cốt lõi và khung đạo đức cung cấp "la bàn đạo đức" để định hướng hành động và quyết định trong mọi bối cảnh.
 
-### **Core Universal Virtues - Các Đức Hạnh Phổ Quát Cốt Lõi**
+### **1. Core Universal Virtues - Các Đức Hạnh Phổ Quát Cốt Lõi**
 
 #### **1. Truthfulness** - Chân Thực
 
@@ -1637,7 +1637,7 @@ Giá trị về việc chấp nhận và thực hiện nghĩa vụ của mình, 
 
 ---
 
-### **Foundational Ethical Principles - Các Nguyên Tắc Đạo Đức Nền Tảng**
+### **2. Foundational Ethical Principles - Các Nguyên Tắc Đạo Đức Nền Tảng**
 
 #### **8. Unity in Diversity [Giá Trị Đạo Đức]** - Thống Nhất Trong Đa Dạng
 
@@ -1727,7 +1727,7 @@ Giá trị về cam kết đối với sự công bằng, bình đẳng và đ�
 
 ---
 
-### **Systematic Ethical Frameworks - Các Khung Hệ Thống Đạo Đức**
+### **3. Systematic Ethical Frameworks - Các Khung Hệ Thống Đạo Đức**
 
 #### **14. Virtue Ethics** - Đạo Đức Đức Hạnh
 
@@ -1797,7 +1797,7 @@ Khả năng phán đoán thực tiễn đúng đắn trong các tình huống c�
 
 ---
 
-### **Cultural Wisdom & Applications - Trí Tuệ Văn Hóa & Ứng Dụng**
+### **4. Cultural Wisdom & Applications - Trí Tuệ Văn Hóa & Ứng Dụng**
 
 #### **20. Character Strengths Foundation** - Nền Tảng Điểm Mạnh Tính Cách
 
@@ -1856,7 +1856,7 @@ Các tác phẩm kể về anh hùng và giá trị văn hóa.
 
 ---
 
-### **Sacred & Embodied Practices - Thực Hành Thiêng Liêng & Hóa Thân**
+### **5. Sacred & Embodied Practices - Thực Hành Thiêng Liêng & Hóa Thân**
 
 #### **25. Sacred Foods** - Thực Phẩm Thiêng Liêng
 
@@ -1888,7 +1888,7 @@ Nghệ thuật nấu ăn với mục đích chữa bệnh.
 Trí tuệ từ các truyền thống tư tưởng lớn của nhân loại, được chưng cất thành các nguyên lý sống và tư duy đã được thời gian kiểm chứng.
 
 
-### **Western Philosophical Foundations - Nền Tảng Triết Học Phương Tây**
+### **1. Western Philosophical Foundations - Nền Tảng Triết Học Phương Tây**
 
 #### **1. Stoicism** - Chủ Nghĩa Khắc Kỷ
 
@@ -2057,7 +2057,7 @@ Mô hình giáo dục cổ điển bao gồm ba nghệ thuật tự do cơ bản
 
 → **Liên kết:** OPERATIONS (Reasoning Architectures), [META] LAYER (Meta-Learning)
 
-### **Eastern Spiritual & Philosophical Paths - Con Đường Tâm Linh & Triết Học Đông Phương**
+### **2. Eastern Spiritual & Philosophical Paths - Con Đường Tâm Linh & Triết Học Đông Phương**
 
 #### **16. Taoist Principles** - Nguyên Lý Đạo Gia
 
@@ -2213,7 +2213,7 @@ Các nghi lễ và quy tắc ứng xử trong Nho giáo.
 
 → **Liên kết:** FOUNDATIONS (Confucian Ethics), INTEGRATION (Social Order)
 
-### **Contemplative & Meditative Practices - Các Thực Hành Thiền Định & Nội Quán**
+### **3. Contemplative & Meditative Practices - Các Thực Hành Thiền Định & Nội Quán**
 
 #### **30. Shamatha** - Thiền Định Tĩnh Lặng
 
@@ -2281,7 +2281,7 @@ Thái độ cởi mở, nhiệt tình như người mới học.
 
 → **Liên kết:** FOUNDATIONS (Zen Principles), [META] LAYER (Meta-Learning)
 
-### **Japanese Aesthetic & Life Philosophy - Thẩm Mỹ & Triết Sống Nhật Bản**
+### **4. Japanese Aesthetic & Life Philosophy - Thẩm Mỹ & Triết Sống Nhật Bản**
 
 #### **36. Kintsugi Philosophy** - Triết Lý Kintsugi
 
@@ -2327,7 +2327,7 @@ Nghệ thuật thiết kế vườn thiền.
 
 → **Liên kết:** CREATION (Landscape Design), FOUNDATIONS (Wabi-Sabi)
 
-### **Sacred Traditions & Mysticism - Truyền Thống Thiêng Liêng & Huyền Bí**
+### **5. Sacred Traditions & Mysticism - Truyền Thống Thiêng Liêng & Huyền Bí**
 
 #### **40. Sufi Wisdom** - Trí Tuệ Sufi
 
@@ -2455,7 +2455,7 @@ Học thuyết cho rằng tất cả các truyền thống tâm linh vĩ đại 
 
 📚 **Đây là về BIẾT - studying the map**
 
-### **Universal Patterns & Archetypes - Trí Tuệ Nguyên Mẫu & Mẫu Hình Phổ Quát**
+### **6. Universal Patterns & Archetypes - Trí Tuệ Nguyên Mẫu & Mẫu Hình Phổ Quát**
 
 #### **48. The Hero's Journey** - Hành Trình Của Người Hùng
 
@@ -2547,7 +2547,7 @@ Giá trị của sự trống rỗng và khoảng trống.
 
 → **Liên kết:** CREATION (Design), FOUNDATIONS (Via Negativa)
 
-### **Cultural Arts & Sacred Expression - Nghệ Thuật Văn Hóa & Biểu Đạt Thiêng Liêng**
+### **7. Cultural Arts & Sacred Expression - Nghệ Thuật Văn Hóa & Biểu Đạt Thiêng Liêng**
 
 #### **56. Islamic Gardens** - Vườn Hồi Giáo
 
@@ -2604,7 +2604,7 @@ Các hình thức múa thiêng liêng truyền thống Ấn Độ.
 
 → **Liên kết:** CREATION (Performance), TRANSCENDENCE (Sacred Art)
 
-### **Holistic Health & Natural Systems - Sức Khỏe Toàn Diện & Hệ Thống Tự Nhiên**
+### **8. Holistic Health & Natural Systems - Sức Khỏe Toàn Diện & Hệ Thống Tự Nhiên**
 
 #### **61. TCM (Traditional Chinese Medicine)** - Y Học Cổ Truyền Trung Hoa
 
@@ -2662,7 +2662,7 @@ Các đường năng lượng trong cơ thể.
 
 Học hỏi từ 3.8 tỷ năm nghiên cứu và phát triển của tự nhiên - các nguyên lý thiết kế, tối ưu hóa và tồn tại đã được kiểm chứng qua tiến hóa.
 
-### **Core Natural Principles - Nguyên Lý Tự Nhiên Cốt Lõi**
+### **1. Core Natural Principles - Nguyên Lý Tự Nhiên Cốt Lõi**
 
 #### **1. Đột Sinh & Tự Tổ Chức** - Emergence & Self-Organization
 
@@ -2784,7 +2784,7 @@ Khả năng của các hệ thống sống duy trì một trạng thái cân b�
 
 → **Liên kết:** DYNAMICS (Cybernetics), VALIDATION (Feedback Systems)
 
-### **Biomimicry Applications - Ứng Dụng Sinh Học Bắt Chước**
+### **2. Biomimicry Applications - Ứng Dụng Sinh Học Bắt Chước**
 
 #### **9. Adaptive Systems - Hệ Thống Thích Ứng [Nguyên Lý Sinh Học]**
 
@@ -2885,7 +2885,7 @@ Thiết kế các vật liệu, cấu trúc hoặc hệ thống có khả năng 
 
 ---
 
-### **Indigenous Wisdom & Earth-Based Practices - Trí Tuệ Bản Địa & Thực Hành Gắn Với Đất**
+### **3. Indigenous Wisdom & Earth-Based Practices - Trí Tuệ Bản Địa & Thực Hành Gắn Với Đất**
 
 #### **15. Great Spirit Concepts** - Khái Niệm Đại Linh
 
@@ -2942,7 +2942,7 @@ Vườn để chiêm ngưỡng và trồng dược liệu.
 
 → **Liên kết:** INTEGRATION (Sacred Space), FOUNDATIONS (Natural Healing)
 
-### **Traditional Crafts & Material Arts - Thủ Công Truyền Thống & Nghệ Thuật Vật Liệu**
+### **4. Traditional Crafts & Material Arts - Thủ Công Truyền Thống & Nghệ Thuật Vật Liệu**
 
 #### **20. Ceramics & Pottery** - Gốm Sứ
 
@@ -3032,7 +3032,7 @@ Chuyển hóa thực phẩm qua vi sinh vật.
 
 → **Liên kết:** DYNAMICS (Transformation), FOUNDATIONS (Natural Processes)
 
-### **Analytical Methods & Knowledge Systems - Phương Pháp Phân Tích & Hệ Thống Tri Thức**
+### **5. Analytical Methods & Knowledge Systems - Phương Pháp Phân Tích & Hệ Thống Tri Thức**
 
 #### **28. Newton's Razor** - Dao Cạo Newton
 
@@ -3067,7 +3067,7 @@ Khám phá giới hạn và điều chúng ta không biết.
 
 → **Liên kết:** FOUNDATIONS (Via Negativa), [META] LAYER (Epistemology)
 
-### **Wisdom Synthesis & Integration - Tổng Hợp & Tích Hợp Trí Tuệ**
+### **6. Wisdom Synthesis & Integration - Tổng Hợp & Tích Hợp Trí Tuệ**
 
 #### **31. Wisdom Synthesis** - Tổng Hợp Trí Tuệ [Kho Chứa Trí Tuệ]
 
@@ -3150,7 +3150,7 @@ Phát triển và truyền đạt trí tuệ qua tuổi tác.
 
 → **Liên kết:** INTEGRATION (Wisdom Transfer), NAVIGATION (Long-term Perspective)
 
-### **Sacred Arts & Creative Expression - Nghệ Thuật Thiêng Liêng & Biểu Đạt Sáng Tạo**
+### **7. Sacred Arts & Creative Expression - Nghệ Thuật Thiêng Liêng & Biểu Đạt Sáng Tạo**
 
 #### **38. Sound Creation & Sacred Chanting** - Sáng Tạo Âm Thanh & Tụng Niệm
 
@@ -3259,7 +3259,7 @@ Truyền thống thi ca và ký ức.
 
 → **Liên kết:** CREATION (Poetry), AMPLIFICATION (Cultural Transmission)
 
-### **Mystical Practices & Transformative Experiences - Thực Hành Thần Bí & Trải Nghiệm Biến Đổi**
+### **8. Mystical Practices & Transformative Experiences - Thực Hành Thần Bí & Trải Nghiệm Biến Đổi**
 
 #### **44. Via Mystica** - Con Đường Huyền Bí
 
@@ -3327,7 +3327,7 @@ Kinh nghiệm vượt khỏi giới hạn thông thường.
 
 → **Liên kết:** TRANSCENDENCE (Peak Experience), CREATION (Art Experience)
 
-### **Physical & Performance Arts - Nghệ Thuật Thể Chất & Biểu Diễn**
+### **9. Physical & Performance Arts - Nghệ Thuật Thể Chất & Biểu Diễn**
 
 #### **50. Acrobatics** - Nhào Lộn
 
@@ -3376,7 +3376,7 @@ Miền này khám phá các quy trình, dòng chảy và các lực lượng t�
 
 Khả năng nhận diện và làm việc với các thuộc tính đột sinh - những gì xuất hiện từ sự tương tác phức tạp - và hiểu các trạng thái dòng chảy tối ưu trong tư duy và hành động.
 
-### **Core Emergence Principles - Nguyên Lý Đột Sinh Cốt Lõi**
+### **1. Core Emergence Principles - Nguyên Lý Đột Sinh Cốt Lõi**
 
 #### **1. Emergence** - Đột Sinh
 
@@ -3475,7 +3475,7 @@ Các hệ thống có khả năng liên tục tạo ra các sản phẩm, mẫu 
 
 ---
 
-### **Chaos & Criticality Dynamics - Động Lực Hỗn Loạn & Tới Hạn**
+### **2. Chaos & Criticality Dynamics - Động Lực Hỗn Loạn & Tới Hạn**
 
 #### **9. Edge of Chaos** - Bờ Rìa Hỗn Loạn
 
@@ -3573,7 +3573,7 @@ Quá trình một sự kiện khởi đầu kích hoạt chuỗi sự kiện ti�
 
 ---
 
-### **System Stability & Transitions - Ổn Định & Chuyển Đổi Hệ Thống**
+### **3. System Stability & Transitions - Ổn Định & Chuyển Đổi Hệ Thống**
 
 #### **16. Metastability** - Bán Ổn Định
 
@@ -3632,7 +3632,7 @@ Các thành phần quan trọng mà sự tồn tại của chúng ảnh hưởng
 
 ---
 
-### **Synchronization & Harmony - Đồng Bộ & Hài Hòa**
+### **4. Synchronization & Harmony - Đồng Bộ & Hài Hòa**
 
 #### **21. Synchronization** - Đồng Bộ Hóa
 
@@ -3683,7 +3683,7 @@ Quá trình các nhịp điệu hoặc chu kỳ độc lập tự động đồn
 
 ---
 
-### **Flow States & Optimization - Trạng Thái Flow & Tối Ưu Hóa**
+### **5. Flow States & Optimization - Trạng Thái Flow & Tối Ưu Hóa**
 
 #### **25. Flow State** - Trạng Thái Dòng Chảy
 
@@ -3784,7 +3784,7 @@ Khi được rèn luyện, khả năng này trở nên "tự động" và xuất
 
 ---
 
-### **Collective Intelligence - Trí Tuệ Tập Thể**
+### **6. Collective Intelligence - Trí Tuệ Tập Thể**
 
 #### **31. Swarm Intelligence - Trí Tuệ Bầy Đàn [Hiện Tượng Đột Sinh]**
 
