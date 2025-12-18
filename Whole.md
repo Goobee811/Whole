@@ -6565,776 +6565,7 @@ Tạo ra điều kiện cho các sự kiện ý nghĩa trùng hợp xảy ra.
 
 Hiểu và điều khiển các trạng thái cảm xúc và năng lượng của bản thân, và khả năng điều hướng các động lực cảm xúc trong các hệ thống phức tạp.
 
-### **Các Khái Niệm Cốt Lõi (23 mục)**
-
-#### **1. Emotional Valence Dynamics** - Động Lực Hóa Trị Cảm Xúc
-
-Cách các trạng thái cảm xúc tích cực hoặc tiêu cực ảnh hưởng đến các quá trình nhận thức.
-
-- **Positive Valence Broadening**: Cảm xúc tích cực mở rộng phạm vi chú ý và tư duy sáng tạo
-
-#### **16. Metacognition** - Siêu Nhận Thức [Trong Linh Hoạt Nhận Thức]
-
-Sử dụng siêu nhận thức như CÔNG CỤ để phát triển và thực hành sự linh hoạt nhận thức. Khác với khái niệm nền tảng ở META LAYER, đây là về ỨNG DỤNG metacognition trong ĐỘNG LỰC thay đổi và thích ứng tư duy.
-
-**Vai trò trong Cognitive Flexibility:**
-- **Self-Monitoring**: Giám sát khả năng chuyển đổi giữa các mode tư duy
-- **Self-Regulation**: Điều chỉnh để duy trì linh hoạt nhận thức
-- **Strategic Planning**: Lập kế hoạch cho việc phát triển flexibility
-- **Reflection**: Phản tư về quá trình chuyển đổi và thích ứng
-
-**Khác biệt với META LAYER:**
-- META LAYER: Metacognition là BẢN CHẤT, là nền tảng toàn hệ thống
-- DYNAMICS: Metacognition là CÔNG CỤ để thực hành linh hoạt
-
-**Tích hợp trong DYNAMICS:**
-Metacognition giúp nhận ra:
-→ Khi nào cần chuyển từ Convergent sang Divergent thinking
-→ Đang ở chế độ tư duy nào (Analytic vs Holistic, Focused vs Diffuse)
-→ Cách tối ưu hóa khả năng chuyển đổi giữa các mode
-
-→ **Gốc lý thuyết:** META LAYER #1 (Metacognition - khái niệm nền tảng)
-→ **Ứng dụng thực hành:** DYNAMICS (Cognitive Flexibility)
-→ **Liên kết:** [META] LAYER (Meta-Awareness), VALIDATION (Self-Correction)
-
-#### **17. Automaticity** - Tính Tự Động
-
-Quá trình các hoạt động nhận thức trở nên tự động và không cần nỗ lực ý thức qua thực hành.
-
-- **Skill Acquisition**: Tiếp thu kỹ năng qua thực hành
-- **Procedural Memory**: Bộ nhớ thủ tục
-- **Cognitive Efficiency**: Hiệu quả nhận thức từ tự động hóa
-- **Freed Attention**: Giải phóng chú ý cho các nhiệm vụ khác
-
-→ **Liên kết:** OPERATIONS (Deliberate Practice), [META] LAYER (Habit Formation)
-
-#### **18. Mind Wandering** - Tâm Trí Lang Thang
-
-Sự chuyển đổi tự nhiên của sự chú ý khỏi nhiệm vụ chính sang các suy nghĩ nội tâm.
-
-- **Default Mode Network**: Mạng lưới mặc định của não hoạt động mạnh khi tâm trí lang thang
-- **Future-Oriented Bias**: Xu hướng suy nghĩ về các mục tiêu và kế hoạch tương lai
-- **Creativity & Boredom**: Mối quan hệ giữa nhàm chán, tâm trí lang thang và sáng tạo
-- **Attention Decoupling**: Sự tách rời của sự chú ý khỏi đầu vào cảm giác bên ngoài
-
-→ **Liên kết:** CREATION (Incubation), [META] LAYER (Attention Management)
-
-#### **19. State-Dependent Learning** - Học Tập Phụ Thuộc Trạng Thái
-
-Hiện tượng thông tin được học trong một trạng thái nhận thức/cảm xúc dễ được truy xuất trong cùng trạng thái đó.
-
-- **Context Reinstatement**: Tái lập ngữ cảnh
-- **Mood Congruence**: Sự phù hợp với tâm trạng
-- **State-Specific Memory**: Ký ức đặc thù trạng thái
-- **Encoding Specificity**: Tính đặc thù của mã hóa
-
-→ **Liên kết:** OPERATIONS (Learning Optimization), VALIDATION (Recall Enhancement)
-
-#### **20. Cognitive Load** - Tải Nhận Thức
-
-Cách thức bộ nhớ làm việc bị chiếm dụng bởi độ phức tạp của thông tin hoặc nhiệm vụ.
-
-- **Intrinsic Load**: Tải trọng nội tại, liên quan đến độ khó của tài liệu
-- **Extraneous Load**: Tải trọng không cần thiết, gây ra bởi cách trình bày kém
-- **Germane Load**: Tải trọng phù hợp, liên quan đến nỗ lực xây dựng các lược đồ
-- **Overload Threshold**: Ngưỡng quá tải, nơi khả năng xử lý bị suy giảm
-
-→ **Liên kết:** OPERATIONS (Decomposition), [META] LAYER (Cognitive Offloading)
-
-#### **21. Decision Fatigue** - Mệt Mỏi Quyết Định
-
-Sự suy giảm chất lượng của các quyết định sau một chuỗi dài các lần ra quyết định.
-
-- **Willpower Depletion**: Sự cạn kiệt tài nguyên ý chí hoặc khả năng tự kiểm soát
-- **Shift to Heuristics**: Xu hướng chuyển sang các quy tắc đơn giản khi mệt mỏi
-- **Decision Avoidance**: Tránh né việc ra quyết định hoàn toàn
-- **Resource Restoration**: Quá trình phục hồi năng lực ra quyết định
-
-→ **Liên kết:** OPERATIONS (Decision Frameworks), [META] LAYER (Energy Management)
-
-#### **22. Pattern Recognition** - Nhận Dạng Mẫu Hình
-
-Khả năng phát hiện các quy luật, cấu trúc hoặc mối quan hệ trong dữ liệu hoặc kinh nghiệm.
-
-- **Perceptual Patterns**: Mẫu hình tri giác
-- **Conceptual Patterns**: Mẫu hình khái niệm
-- **Temporal Patterns**: Mẫu hình theo thời gian
-- **Expert Pattern Recognition**: Nhận dạng mẫu hình của chuyên gia
-
-→ **Liên kết:** VALIDATION (Pattern Verification), INTEGRATION (Knowledge Synthesis)
-
-#### **23. Cognitive Restructuring** - Tái Cấu Trúc Nhận Thức
-
-Quá trình xác định và thay đổi các mẫu tư duy không hữu ích hoặc không chính xác.
-
-- **Thought Pattern Identification**: Nhận dạng mẫu hình tư duy
-- **Belief Challenging**: Thách thức các niềm tin
-- **Reframing**: Đóng khung lại
-- **Alternative Perspectives**: Các góc nhìn thay thế
-
-→ **Liên kết:** VALIDATION (Belief Testing), [META] LAYER (Belief System Architecture)
-
-#### **24. Concept Formation** - Hình Thành Khái Niệm
-
-Quá trình phát triển các khái niệm mới từ kinh nghiệm cụ thể thông qua trừu tượng hóa.
-
-- **Abstraction**: Trừu tượng hóa từ các ví dụ cụ thể
-- **Categorization**: Phân loại các đối tượng hoặc sự kiện
-- **Prototype Formation**: Hình thành nguyên mẫu
-- **Conceptual Refinement**: Tinh chỉnh khái niệm
-
-→ **Liên kết:** INTEGRATION (Knowledge Organization), OPERATIONS (Conceptual Thinking)
-
-#### **25. Transfer of Learning** - Chuyển Giao Học Tập
-
-Ứng dụng kiến thức hoặc kỹ năng học được trong một ngữ cảnh vào ngữ cảnh khác.
-
-- **Near Transfer**: Chuyển giao gần (ngữ cảnh tương tự)
-- **Far Transfer**: Chuyển giao xa (ngữ cảnh khác biệt)
-- **Positive Transfer**: Chuyển giao tích cực (hỗ trợ)
-- **Negative Transfer**: Chuyển giao tiêu cực (cản trở)
-
-→ **Liên kết:** INTEGRATION (Knowledge Application), OPERATIONS (Skill Generalization)
-
-#### **26. Cognitive Dissonance** - Mâu Thuẫn Nhận Thức
-
-Trạng thái khó chịu khi giữ các niềm tin, ý tưởng hoặc giá trị mâu thuẫn nhau.
-
-- **Inconsistency Detection**: Phát hiện sự không nhất quán
-- **Discomfort Motivation**: Động lực từ sự khó chịu
-- **Dissonance Reduction**: Giảm mâu thuẫn
-- **Rationalization**: Hợp lý hóa
-
-→ **Liên kết:** VALIDATION (Consistency Check), INTEGRATION (Belief Integration)
-
-#### **27. Conceptual Blending** - Pha Trộn Khái Niệm [Năng Lực Nhận Thức]
-
-Khả năng nhận thức động để kết hợp các yếu tố từ các không gian tâm trí khác nhau nhằm tạo ra ý nghĩa mới. Đây là NĂNG LỰC CƠ BẢN của tư duy linh hoạt - khả năng di chuyển và hợp nhất các không gian khái niệm một cách tự nhiên.
-
-- **Input Spaces**: Các không gian đầu vào - nguồn khái niệm khác nhau
-- **Generic Space**: Không gian chung - cấu trúc trừu tượng liên kết
-- **Blended Space**: Không gian pha trộn - nơi tạo ra ý nghĩa mới
-- **Emergent Structure**: Cấu trúc đột sinh - thuộc tính không có trong inputs
-
-→ **Liên kết:** CREATION (Creative Synthesis), INTEGRATION (Conceptual Integration)
-
-→ **Xuất hiện ở các domain khác:**
-  • CREATION #8 (công cụ sáng tạo chủ động)
-  • META #12 (kiến trúc không gian tư duy)
-  • INTEGRATION (Cross-Domain Synthesis)
-
-**Đặc điểm riêng ở DYNAMICS:**
-- Tập trung vào QUÁ TRÌNH ĐỘNG của việc chuyển đổi giữa các không gian
-- Nhấn mạnh LINH HOẠT NHẬN THỨC và khả năng mode-switching
-- Là một CHỨC NĂNG TỰ NHIÊN của tâm trí, không nhất thiết có chủ đích
-
-#### **28. Dual Coding** - Mã Hóa Kép
-
-Sử dụng cả hệ thống mã hóa ngôn ngữ và hình ảnh để cải thiện việc học và ghi nhớ.
-
-- **Verbal System**: Hệ thống ngôn ngữ
-- **Imaginal System**: Hệ thống hình ảnh
-- **Cross-System Links**: Liên kết xuyên hệ thống
-- **Enhanced Retention**: Tăng cường khả năng lưu giữ
-
-→ **Liên kết:** OPERATIONS (Learning Strategies), INTEGRATION (Multi-modal Processing)
-
-#### **29. Schema Theory** - Lý Thuyết Lược Đồ
-
-Các cấu trúc kiến thức tổ chức giúp giải thích và dự đoán các tình huống.
-
-- **Knowledge Structures**: Các cấu trúc kiến thức
-- **Assimilation**: Đồng hóa thông tin mới vào lược đồ hiện có
-- **Accommodation**: Điều chỉnh lược đồ để phù hợp với thông tin mới
-- **Schema Activation**: Kích hoạt lược đồ
-
-→ **Liên kết:** INTEGRATION (Knowledge Organization), VALIDATION (Expectation Checking)
-
-#### **30. Spreading Activation** - Kích Hoạt Lan Truyền
-
-Mô hình về cách các khái niệm trong bộ nhớ được kích hoạt và lan truyền qua mạng lưới liên kết.
-
-- **Semantic Network**: Mạng lưới ý nghĩa
-- **Activation Spread**: Sự lan truyền kích hoạt
-- **Priming Effects**: Hiệu ứng mồi
-- **Associative Memory**: Bộ nhớ liên tưởng
-
-→ **Liên kết:** INTEGRATION (Knowledge Networks), [META] LAYER (Associative Thinking)
-
-#### **31. Mental Models - Mô Hình Tinh Thần [Trong Linh Hoạt Nhận Thức]**
-
-Các biểu diễn nội tâm về cách thế giới hoạt động - CÓ THỂ THAY ĐỔI và
-CẬP NHẬT khi gặp thông tin mới. Khác với nguyên lý nền tảng ở FOUNDATIONS,
-đây là về ĐỘNG LỰC - làm sao để chuyển đổi giữa các mô hình một cách linh hoạt.
-
-• **World Representation**: Biểu diễn về thế giới - CÓ THỂ THAY ĐỔI
-• **Predictive Function**: Dự đoán - KHI MÔ HÌNH SAI thì cập nhật
-• **Model Updating**: CẬP NHẬT mô hình dựa trên phản hồi thực tế
-• **Multiple Models**: Chuyển đổi LINH HOẠT giữa nhiều mô hình
-
-→ **Liên kết nội bộ:** NAVIGATION (Reality Navigation), INTEGRATION (Paradigm Integration)
-→ **Gốc lý thuyết:** FOUNDATIONS #1 (Mental Models - khung diễn giải phổ quát)
-→ **Ứng dụng thực hành:** OPERATIONS #53 (sử dụng trong giải quyết vấn đề)
-→ **Khuếch đại:** AMPLIFICATION #15 (nhân rộng ảnh hưởng)
-→ **Ý nghĩa:** Tập trung vào KHẢ NĂNG THAY ĐỔI và LINH HOẠT của mô hình
-
-#### **32. Perceptual Set** - Thiết Lập Tri Giác
-
-Xu hướng tri giác những gì chúng ta mong đợi dựa trên kinh nghiệm, ngữ cảnh và động cơ.
-
-- **Expectation Effects**: Hiệu ứng kỳ vọng
-- **Context Influence**: Ảnh hưởng của ngữ cảnh
-- **Top-Down Processing**: Xử lý từ trên xuống
-- **Selective Perception**: Tri giác chọn lọc
-
-→ **Liên kết:** VALIDATION (Observation Bias), [META] LAYER (Perception Awareness)
-
-#### **33. Cognitive Momentum** - Động Lượng Nhận Thức
-
-Xu hướng tiếp tục với một chuỗi suy nghĩ hoặc hành động một khi đã bắt đầu.
-
-- **Inertia in Thinking**: Quán tính trong tư duy
-- **Flow State Entry**: Động lượng có thể dẫn vào trạng thái dòng chảy
-- **Chain of Thought**: Duy trì chuỗi suy nghĩ không bị gián đoạn
-- **Persistence**: Sự kiên trì
-
-→ **Liên kết:** AMPLIFICATION (Flywheel Effect), CREATION (Creative Momentum)
-
-#### **34. Incubation Effect** - Hiệu Ứng Ấp Ủ
-
-Hiện tượng giải pháp cho một vấn đề xuất hiện sau khi tạm dừng làm việc trực tiếp với nó.
-
-- **Unconscious Processing**: Xử lý vô thức trong nền
-- **Mental Break Benefits**: Lợi ích của việc nghỉ ngơi tinh thần
-- **Fresh Perspective**: Góc nhìn mới sau khi quay lại
-- **Associative Wandering**: Lang thang liên tưởng
-
-→ **Liên kết:** CREATION (Creative Process), [META] LAYER (Strategic Pausing)
-
-#### **35. Productive Failure** - Thất Bại Năng Suất
-
-Quá trình học được tăng cường khi người học phải vật lộn với vấn đề trước khi được hướng dẫn.
-
-- **Struggle Before Instruction**: Vật lộn trước khi được hướng dẫn
-- **Deep Processing**: Xử lý sâu từ việc cố gắng
-- **Error-Based Learning**: Học từ sai lầm
-- **Preparation for Future Learning**: Chuẩn bị cho việc học tương lai
-
-→ **Liên kết:** OPERATIONS (Learning Design), VALIDATION (Mistake Learning)
-
-#### **36. Curiosity Drive** - Động Lực Tò Mò
-
-Động cơ nội tại để tìm kiếm thông tin mới và trải nghiệm mới.
-
-- **Information Gap Theory**: Lý thuyết khoảng trống thông tin
-- **Epistemic Curiosity**: Tò mò tri thức
-- **Perceptual Curiosity**: Tò mò tri giác
-- **Intrinsic Motivation**: Động lực nội tại
-
-→ **Liên kết:** CREATION (Exploration), OPERATIONS (Self-Directed Learning)
-
-#### **37. Cognitive Flexibility in Problem-Solving** - Linh Hoạt Nhận Thức Trong Giải Quyết Vấn Đề
-
-Khả năng chuyển đổi giữa các chiến lược giải quyết vấn đề khác nhau.
-
-- **Strategy Switching**: Chuyển đổi chiến lược
-- **Multiple Approaches**: Nhiều cách tiếp cận
-- **Adaptive Problem-Solving**: Giải quyết vấn đề thích ứng
-- **Flexibility Under Constraint**: Linh hoạt trong điều kiện hạn chế
-
-→ **Liên kết:** OPERATIONS (Problem-Solving), NAVIGATION (Adaptive Tactics)
-
-#### **38. Meta-Cognitive Flow** - Dòng Chảy Siêu Nhận Thức
-
-Trạng thái động, trong đó việc giám sát và điều chỉnh các quá trình nhận thức diễn ra một cách trôi chảy và không cần nỗ lực.
-
-- **Effortless Self-Regulation**: Tự điều chỉnh một cách dễ dàng
-- **Seamless Strategy Switching**: Chuyển đổi chiến lược liền mạch
-- **Intuitive Process Management**: Quản lý quy trình một cách trực giác
-- **Mastery of Mind**: Trạng thái làm chủ tâm trí, nơi người tư duy và quá trình hợp nhất
-
-→ **Liên kết:** Tích hợp tất cả các khái niệm trong DYNAMICS và [META] LAYER
-
-### **Nhóm Bổ Sung: Processing Modes (8 mục mới)**
-
-#### **39. Analysis ↔ Synthesis** - Phân Tích ↔ Tổng Hợp
-
-Hai quá trình bổ sung: phân tách để hiểu và kết hợp để tạo ra toàn thể mới.
-
-- **Decomposition**: Phân rã thành các phần
-- **Recomposition**: Tái kết hợp
-- **Part-Whole Dynamics**: Động lực phần-toàn thể
-- **Analytical-Synthetic Rhythm**: Nhịp điệu phân tích-tổng hợp
-
-→ **Liên kết:** OPERATIONS (Decomposition), INTEGRATION (Synthesis)
-
-#### **40. Linear ↔ Non-linear** - Tuyến Tính ↔ Phi Tuyến Tính
-
-Hai cách tiếp cận tư duy: tuần tự từng bước và nhảy vọt không tuần tự.
-
-- **Sequential Logic**: Logic tuần tự
-- **Associative Leaps**: Nhảy vọt liên tưởng
-- **Step-by-step vs. Holistic**: Từng bước vs. tổng thể
-- **Complexity Navigation**: Điều hướng phức tạp
-
-→ **Liên kết:** OPERATIONS (Sequential Processing), CREATION (Non-linear Thinking)
-
-#### **41. Sequential ↔ Parallel** - Tuần Tự ↔ Song Song
-
-Xử lý thông tin từng cái một hoặc nhiều cái cùng lúc.
-
-- **Serial Processing**: Xử lý nối tiếp
-- **Simultaneous Processing**: Xử lý đồng thời
-- **Single-thread vs. Multi-thread**: Đơn luồng vs. đa luồng
-- **Attention Distribution**: Phân bổ chú ý
-
-→ **Liên kết:** OPERATIONS (Processing Architecture), [META] LAYER (Cognitive Design)
-
-#### **42. Focused ↔ Diffuse Mode** - Chế Độ Tập Trung ↔ Lan Tỏa
-
-Hai chế độ chú ý: tập trung cao độ và chú ý lan tỏa rộng.
-
-- **Laser Focus**: Tập trung như laser
-- **Peripheral Awareness**: Nhận thức ngoại vi
-- **Tight vs. Loose Attention**: Chú ý chặt vs. lỏng
-- **Attention Spectrum**: Quang phổ chú ý
-
-→ **Liên kết:** OPERATIONS (Attention Management), CREATION (Diffuse Thinking)
-
-#### **43. System 1 ↔ System 2** - Hệ Thống 1 ↔ Hệ Thống 2
-
-Hai hệ thống tư duy khác biệt: Hệ thống 1 (nhanh, trực giác, tự động) và Hệ thống 2 (chậm, có logic, kiểm soát).
-
-- **Fast-Slow Thinking**: Tư duy nhanh (System 1) ↔ tư duy chậm (System 2)
-- **Intuitive-Deliberate**: Xử lý trực giác ↔ suy nghĩ cân nhắc kỹ lưỡng
-- **Automatic-Controlled**: Phản ứng tự động ↔ kiểm soát có ý thức
-- **Speed-Accuracy Trade-off**: Đánh đổi giữa tốc độ và độ chính xác
-- **Contextual Appropriateness**: Biết khi nào nên sử dụng hệ thống nào
-
-→ **Liên kết:** OPERATIONS (Dual Process, Decision Making), VALIDATION (Decision Quality)
-
-#### **44. Hot ↔ Cold Cognition** - Nhận Thức Nóng ↔ Lạnh
-
-Tư duy bị ảnh hưởng bởi cảm xúc (nóng) so với tư duy trung lập cảm xúc (lạnh).
-
-- **Emotional Reasoning**: Suy luận cảm xúc
-- **Rational Thinking**: Tư duy lý trí
-- **Affect-Cognition Link**: Liên kết cảm xúc-nhận thức
-- **Temperature Metaphor**: Ẩn dụ nhiệt độ
-
-→ **Liên kết:** DYNAMICS (Emotional Intelligence), OPERATIONS (Rational Analysis)
-
----
-
-### **Nhóm Bổ Sung: Reasoning Dynamics (8 mục mới)**
-
-#### **45. Causal Reasoning** - Suy Luận Nhân Quả [Kỹ Năng Nhận Thức]
-
-Khả năng nhận thức để suy luận về các mối quan hệ nguyên nhân-kết quả một cách linh hoạt và thích ứng. Khác với phương pháp phân tích có cấu trúc ở OPERATIONS, đây là về **KHẢ NĂNG TƯ DUY** - năng lực chuyển đổi giữa các cách hiểu nhân quả khác nhau.
-
-- **Cause-Effect Inference**: Suy luận nhân-quả một cách LINH HOẠT
-- **Causal Models**: Xây dựng và THAY ĐỔI mô hình nhân quả
-- **Counterfactual Thinking**: Tư duy phản thực - KHÁM PHÁ khả năng
-- **Mechanism Understanding**: Hiểu cơ chế một cách TRỰC GIÁC
-
-→ **Liên kết nội bộ:** VALIDATION (Causal Analysis)
-→ **Công cụ có cấu trúc:** OPERATIONS #5 (Causal Reasoning - phương pháp phân tích)
-→ **Nền tảng lý thuyết:** FOUNDATIONS #5 (Causality & Interdependence - nguyên lý)
-→ **Tư duy cao hơn:** OPERATIONS #27 (Counterfactual Reasoning), DYNAMICS #48 (Causal Networks), #50 (Temporal Causation)
-
-#### **46. Causal Networks** - Mạng Lưới Nhân Quả
-
-Khả năng nhìn thấy và hiểu các hệ thống phức tạp của các mối quan hệ nhân quả tương tác. Mở rộng từ **suy luận nhân quả tuyến tính** (A→B) sang **tư duy mạng lưới** (A↔B↔C↔D...).
-
-- **Systems Causation**: Nhân quả hệ thống - nhìn thấy toàn bộ mạng lưới
-- **Interconnected Effects**: Các hiệu ứng liên kết - một thay đổi lan tỏa
-- **Network Analysis**: Phân tích mạng lưới - xác định nút trung tâm
-- **Web of Causation**: Mạng lưới nhân quả - tương duyên phức tạp
-
-→ **Liên kết nội bộ:** FOUNDATIONS (Systems Thinking), OPERATIONS (Network Modeling)
-→ **Gốc nguyên lý:** FOUNDATIONS #5 (Causality & Interdependence)
-→ **Khả năng cơ bản:** DYNAMICS #47 (Causal Reasoning)
-→ **Công cụ trực quan:** OPERATIONS #22 (Causal Loop Diagrams)
-
-#### **47. Intervention Reasoning** - Suy Luận Can Thiệp
-
-Suy luận về hậu quả của các hành động và can thiệp.
-
-- **Action Prediction**: Dự đoán hành động
-- **Intervention Planning**: Kế hoạch can thiệp
-- **Outcome Forecasting**: Dự báo kết quả
-- **What-If Analysis**: Phân tích nếu-thì
-
-→ **Liên kết:** NAVIGATION (Action Planning), VALIDATION (Consequence Analysis)
-
-#### **48. Temporal Causation** - Nhân Quả Thời Gian
-
-Khả năng nhận thức về cách các nguyên nhân và kết quả triển khai theo thời gian. Hiểu rằng nhân quả không tức thì - có **độ trễ**, **tích lũy**, và **mẫu hình thời gian**.
-
-- **Time-based Causality**: Nhân quả dựa trên thời gian - nguyên nhân và kết quả cách nhau
-- **Lag Effects**: Hiệu ứng trễ - kết quả xuất hiện sau một khoảng thời gian
-- **Sequence Analysis**: Phân tích chuỗi - thứ tự quan trọng
-- **Temporal Patterns**: Mẫu hình thời gian - chu kỳ nhân quả
-
-→ **Liên kết nội bộ:** DYNAMICS (Temporal Dynamics), VALIDATION (Temporal Analysis)
-→ **Gốc nguyên lý:** FOUNDATIONS #5 (Causality & Interdependence)
-→ **Khả năng cơ bản:** DYNAMICS #47 (Causal Reasoning)
-→ **Vượt thoát:** TRANSCENDENCE #30 (Retroactive Causality - nhân quả ngược thời gian)
-
-#### **49. Adaptive Reasoning** - Suy Luận Thích Ứng
-
-Điều chỉnh chiến lược suy luận dựa trên ngữ cảnh và phản hồi.
-
-- **Context-Sensitive Logic**: Logic nhạy cảm ngữ cảnh
-- **Strategy Adjustment**: Điều chỉnh chiến lược
-- **Responsive Thinking**: Tư duy phản hồi
-- **Flexible Inference**: Suy luận linh hoạt
-
-→ **Liên kết:** NAVIGATION (Adaptive Strategy), [META] LAYER (Strategic Thinking)
-
-#### **50. Portfolio Reasoning** - Suy Luận Danh Mục
-
-Suy nghĩ về tập hợp các lựa chọn thay vì lựa chọn đơn lẻ.
-
-- **Diversification Thinking**: Tư duy đa dạng hóa
-- **Hedging Strategies**: Chiến lược phòng ngừa
-- **Balance Optimization**: Tối ưu hóa cân bằng
-- **Risk Distribution**: Phân phối rủi ro
-
-→ **Liên kết:** NAVIGATION (Portfolio Strategy), VALIDATION (Risk Management)
-
-#### **51. Complex Systems Decisions** - Quyết Định Hệ Thống Phức Tạp
-
-Ra quyết định trong các tình huống có nhiều biến số tương tác.
-
-- **Emergence Awareness**: Nhận thức đột sinh
-- **Nonlinear Effects**: Hiệu ứng phi tuyến
-- **Uncertainty Navigation**: Điều hướng bất định
-- **Systemic Thinking**: Tư duy hệ thống
-
-→ **Liên kết:** OPERATIONS (Complex Decision Making), DYNAMICS (Complexity)
-
----
-
-### **Nhóm Bổ Sung: Creative Systems (6 mục mới)**
-
-#### **52. Adaptive Systems (Creativity) - Hệ Thống Thích Ứng Sáng Tạo**
-
-ỨNG DỤNG các nguyên lý thích nghi tự nhiên vào QUÁ TRÌNH SÁNG TẠO - thiết kế các hệ thống có khả năng tự tổ chức, phản hồi và tạo sinh để sản xuất các giải pháp sáng tạo. Khác với nguyên lý sinh học ở FOUNDATIONS, đây là về CÔNG CỤ & KỸ THUẬT sáng tạo dựa trên cơ chế thích nghi.
-
-- **Self-Organizing Creativity**: Sáng tạo tự phát sinh từ tương tác của các thành phần đơn giản. Các ý tưởng và mẫu hình sáng tạo xuất hiện từ quá trình tự tổ chức không có điều khiển trung tâm. Ví dụ: Generative art (nghệ thuật tạo sinh từ thuật toán), algorithmic composition (sáng tác nhạc tự động), swarm creativity (sáng tạo bầy đàn từ tương tác tập thể).
-
-- **Responsive Generation**: Hệ thống phản ứng với input và tạo ra output thích nghi theo ngữ cảnh. Quá trình sáng tạo tự điều chỉnh dựa trên phản hồi liên tục từ môi trường hoặc người dùng. Ví dụ: AI art tools (Midjourney, DALL-E phản ứng với prompt), interactive installations (tác phẩm nghệ thuật tương tác với khán giả), real-time design systems (thiết kế thích nghi với dữ liệu thực).
-
-- **Environmental Adaptation**: Điều chỉnh quá trình sáng tạo dựa trên ngữ cảnh, ràng buộc và phản hồi từ môi trường. Hệ thống học hỏi từ kết quả và tối ưu hóa dần theo thời gian. Ví dụ: A/B testing trong design (thử nghiệm và chọn lọc thiết kế tốt nhất), iterative prototyping (nguyên mẫu tiến hóa qua nhiều vòng lặp), user feedback loops (cải tiến dựa trên phản hồi người dùng).
-
-- **Emergent Solutions**: Giải pháp sáng tạo xuất hiện từ quá trình thử nghiệm, chọn lọc và tiến hóa - không được thiết kế trực tiếp mà tự phát sinh. Ứng dụng các thuật toán tiến hóa vào sáng tạo. Ví dụ: Evolutionary algorithms trong design optimization (tối ưu hóa thiết kế qua tiến hóa), genetic programming (lập trình tự sinh), neural style transfer (AI học và áp dụng phong cách nghệ thuật), Agile/Scrum methodology (phương pháp phát triển lặp và thích nghi).
-
-
-→ **Liên kết nội bộ:** CREATION (Generative Systems - hệ thống tạo sinh), OPERATIONS (Iteration - phương pháp lặp), DYNAMICS #3 (Self-Organization - cơ chế tự tổ chức)
-
-→ **Gốc nguyên lý:** FOUNDATIONS #9 (Adaptive Systems - học từ sinh học tự nhiên)
-
-→ **Công cụ kỹ thuật cụ thể:**
-  • Genetic algorithms trong design optimization (tối ưu hóa thiết kế bằng thuật toán di truyền)
-  • Swarm creativity cho collaborative ideation (sáng tạo tập thể dựa trên bầy đàn)
-  • Neural networks cho pattern generation (mạng nơ-ron tạo mẫu hình)
-  • Feedback loops trong creative iteration (vòng lặp phản hồi trong sáng tạo lặp)
-  • Evolutionary design systems (hệ thống thiết kế tiến hóa)
-  • Generative AI platforms (nền tảng AI tạo sinh)
-
-→ **Phân biệt:** FOUNDATIONS #9 = "Tự nhiên thích nghi NHƯ THẾ NÀO?" (quan sát) | DYNAMICS #29 = "ÁP DỤNG nguyên lý đó để sáng tạo NHƯ THẾ NÀO?" (hành động)
-
-
-#### **53. Feedback Loop Creativity** - Sáng Tạo Vòng Lặp Phản Hồi
-
-Sử dụng vòng lặp phản hồi để tạo ra các mẫu hình sáng tạo phức tạp.
-
-- **Recursive Generation**: Tạo sinh đệ quy
-- **Iterative Emergence**: Đột sinh lặp
-- **Self-Modifying Process**: Quá trình tự điều chỉnh
-- **Feedback Art**: Nghệ thuật phản hồi
-
-→ **Liên kết:** AMPLIFICATION (Feedback Loops), CREATION (Recursive Creation)
-
-#### **54. Attractor Dynamics (Creativity)** - Động Lực Hấp Dẫn (Sáng Tạo)
-
-Sử dụng các hấp dẫn tử để tạo ra các mẫu hình sáng tạo ổn định. Đây là ứng dụng cụ thể của Strange Attractors vào quá trình sáng tạo, sử dụng attractor dynamics để tạo patterns sáng tạo ổn định.
-
-- **Pattern Convergence**: Hội tụ mẫu hình
-- **Creative Attractors**: Hấp dẫn tử sáng tạo
-- **Stable Creativity**: Sáng tạo ổn định
-- **Attractor-Based Design**: Thiết kế dựa trên hấp dẫn tử
-
-→ **Gốc lý thuyết:** DYNAMICS #6 (Strange Attractors - khái niệm gốc từ Chaos Theory)
-
-→ **Điểm khác biệt:** Ứng dụng attractor dynamics vào QUÁ TRÌNH SÁNG TẠO
-
-→ **Liên kết:** DYNAMICS (Strange Attractors), CREATION (Pattern Design)
-
-#### **55. Nonlinear Creativity** - Sáng Tạo Phi Tuyến
-
-Các quá trình sáng tạo với các hiệu ứng không tỷ lệ và đột phá bất ngờ.
-
-- **Chaos-Based Art**: Nghệ thuật dựa trên hỗn loạn
-- **Unpredictable Emergence**: Đột sinh không thể dự đoán
-- **Nonlinear Innovation**: Đổi mới phi tuyến
-- **Butterfly Effects in Creation**: Hiệu ứng bướm trong sáng tạo
-
-→ **Liên kết:** DYNAMICS (Chaos Theory), CREATION (Radical Innovation)
-
-#### **56. Swarm Creativity** - Sáng Tạo Bầy Đàn
-
-Sáng tạo tập thể xuất hiện từ tương tác của nhiều tác nhân đơn giản.
-
-- **Collective Generation**: Tạo sinh tập thể
-- **Distributed Creativity**: Sáng tạo phân tán
-- **Emergent Art**: Nghệ thuật đột sinh
-- **Multi-Agent Creation**: Tạo tác đa tác nhân
-
-→ **Liên kết:** AMPLIFICATION (Swarm Intelligence), CREATION (Collaborative Creation)
-
-#### **57. Phase Transition Creativity** - Sáng Tạo Chuyển Pha
-
-Đổi mới xuất hiện ở các điểm chuyển pha giữa các trạng thái khác nhau.
-
-- **Threshold Innovation**: Đổi mới ngưỡng
-- **State Change Creativity**: Sáng tạo thay đổi trạng thái
-- **Critical Point Art**: Nghệ thuật điểm tới hạn
-- **Transformation Design**: Thiết kế chuyển đổi
-
-→ **Liên kết:** DYNAMICS (Phase Transitions), CREATION (Breakthrough Innovation)
-
----
-
-### **Nhóm Bổ Sung: Navigation Biases & Skills (8 mục mới)**
-
-#### **58. Dunning-Kruger Razor** - Dao Cạo Dunning-Kruger
-
-Nhận thức về xu hướng đánh giá quá cao năng lực khi thiếu năng lực.
-
-- **Competence Awareness**: Nhận thức năng lực
-- **Humility Cultivation**: Nuôi dưỡng khiêm tốn
-- **Learning Curve Recognition**: Nhận diện đường cong học tập
-- **Expertise Caution**: Thận trọng về chuyên môn
-
-→ **Liên kết:** [META] LAYER (Meta-Competence), VALIDATION (Self-Assessment)
-→ **Gốc lý thuyết:** FOUNDATIONS #39 (The Dunning-Kruger Effect)
-
-#### **59. Fredkin's Paradox** - Nghịch Lý Fredkin
-
-"Càng quyết định giữa các lựa chọn tương đương, càng ít quan trọng việc chọn cái nào."
-
-- **Decision Equivalence**: Tương đương quyết định
-- **Time Waste Recognition**: Nhận biết lãng phí thời gian
-- **Priority Focus**: Tập trung ưu tiên
-- **Trivial Choice Awareness**: Nhận thức lựa chọn tầm thường
-
-→ **Liên kết:** OPERATIONS (Decision Making), NAVIGATION (Priority Setting)
-
-#### **60. Sayre's Law** - Định Luật Sayre
-
-"Trong bất kỳ tranh cãi nào, cường độ cảm xúc tỷ lệ nghịch với giá trị của vấn đề đang bàn."
-
-- **Conflict Proportion**: Tỷ lệ xung đột
-- **Triviality Intensity**: Cường độ tầm thường
-- **Emotional Misalignment**: Không liên kết cảm xúc
-- **Politics of Small Differences**: Chính trị của những khác biệt nhỏ
-
-→ **Liên kết:** VALIDATION (Conflict Analysis), NAVIGATION (Energy Allocation)
-
-#### **61. Bikeshedding Law** - Định Luật Bikeshedding
-
-Xu hướng dành thời gian không cân xứng cho các vấn đề tầm thường dễ hiểu.
-
-- **Trivial Focus**: Tập trung vào tầm thường
-- **Comprehension Bias**: Thiên lệch hiểu biết
-- **Important Neglect**: Bỏ qua điều quan trọng
-- **Attention Misallocation**: Phân bổ sai chú ý
-
-→ **Liên kết:** NAVIGATION (Priority Management), VALIDATION (Importance Assessment)
-
-#### **62. Decision Velocity** - Tốc Độ Quyết Định
-
-Khả năng ra quyết định nhanh chóng mà vẫn duy trì chất lượng.
-
-- **Speed-Quality Balance**: Cân bằng tốc độ-chất lượng
-- **Commitment Ability**: Khả năng cam kết
-- **Reversibility Assessment**: Đánh giá khả năng đảo ngược
-- **Action Bias**: Thiên lệch hành động
-
-→ **Liên kết:** NAVIGATION (Fast Decision Making), OPERATIONS (Execution Speed)
-
-#### **63. Option Preservation - Bảo Tồn Lựa Chọn [Trong Tư Duy]**
-
-Nguyên tắc duy trì sự linh hoạt NHẬN THỨC bằng cách không khóa tư duy vào một hướng duy nhất. Đây là về COGNITIVE FLEXIBILITY - khả năng giữ nhiều góc nhìn, nhiều khả năng suy luận đồng thời mà không bị cứng nhắc trong một paradigm.
-
-- **Flexibility Maintenance**: Duy trì linh hoạt TƯ DUY - không khóa vào một mô hình
-- **Future Option Value**: Giá trị của việc giữ nhiều CÁCH SUY NGHĨ khả thi
-- **Reversibility**: Khả năng đảo ngược QUAN ĐIỂM mà không tốn công sức
-- **Strategic Patience**: Kiên nhẫn chờ đợi INSIGHT rõ ràng hơn trước khi kết luận
-
-→ **Liên kết nội bộ:** VALIDATION (Option Value)
-→ **Ứng dụng chiến lược:** NAVIGATION #24 (trong quyết định và hành động)
-→ **Gốc lý thuyết:** FOUNDATIONS (Real Options Theory)
-→ **Công cụ thực hành:** OPERATIONS (Reversible vs Irreversible Decisions)
-
-#### **64. Decision Stack** - Chồng Quyết Định
-
-Quản lý nhiều quyết định ở các cấp độ khác nhau.
-
-- **Hierarchical Decisions**: Quyết định phân cấp
-- **Integration Across Levels**: Tích hợp qua các cấp
-- **Priority Ordering**: Sắp xếp ưu tiên
-- **Stack Management**: Quản lý chồng
-
-→ **Liên kết:** OPERATIONS (Hierarchical Processing), NAVIGATION (Multi-level Strategy)
-
-#### **65. Decision Momentum** - Động Lượng Quyết Định
-
-Sự tích lũy của các quyết định tạo ra động lượng hành động.
-
-- **Flow of Choices**: Dòng chảy các lựa chọn
-- **Accumulation Effect**: Hiệu ứng tích lũy
-- **Forward Movement**: Chuyển động về phía trước
-- **Inertia Creation**: Tạo quán tính
-
-→ **Liên kết:** AMPLIFICATION (Flywheel Effect), NAVIGATION (Momentum Building)
-
----
-
-### **Nhóm Bổ Sung: Adaptive Navigation (6 mục mới)**
-
-#### 69. Contextual Navigation** - Điều Hướng Theo Ngữ Cảnh
-
-Điều chỉnh chiến lược dựa trên các yếu tố môi trường và tình huống.
-
-- **Environmental Sensing**: Cảm nhận môi trường
-- **Responsive Adjustment**: Điều chỉnh phản hồi
-- **Situational Awareness**: Nhận thức tình huống
-- **Context-Driven Strategy**: Chiến lược do ngữ cảnh định hướng
-
-→ **Liên kết:** NAVIGATION (Adaptive Strategy), VALIDATION (Context Assessment)
-
-#### **66. Emergent Wayfinding** - Tìm Đường Đột Sinh
-
-Khám phá đường đi khi không có bản đồ được xác định trước.
-
-- **Discovery-Based Navigation**: Điều hướng dựa trên khám phá
-- **Unplanned Pathways**: Các con đường không lên kế hoạch
-- **Opportunistic Routing**: Định tuyến cơ hội
-- **Emergence-Guided Travel**: Du hành được hướng dẫn bởi đột sinh
-
-→ **Liên kết:** CREATION (Exploration), NAVIGATION (Discovery)
-
-#### **67. Antifragile Navigation** - Điều Hướng Phản Mong Manh
-
-Chiến lược không chỉ chống lại mà còn phát triển từ rối loạn và bất ngờ.
-
-- **Resilience Plus Growth**: Khả năng phục hồi cộng tăng trưởng
-- **Volatility Exploitation**: Khai thác biến động
-- **Stress Seeking**: Tìm kiếm căng thẳng có lợi
-- **Adversity Advantage**: Lợi thế từ nghịch cảnh
-
-→ **Liên kết:** DYNAMICS (Antifragility), VALIDATION (Stress Testing)
-
-#### **68. Quantum Navigation - Điều Hướng Lượng Tử [Phương Thức Tư Duy]**
-
-Khả năng TƯ DUY đồng thời nhiều khả năng cho đến khi cần "sụp đổ" thành một quyết định - áp dụng nguyên lý chồng chập lượng tử vào NHẬN THỨC. Đây là về COGNITIVE FLEXIBILITY, không phải về chiến lược điều hướng.
-
-- **Superposition Strategy**: Chiến lược tư duy chồng chất - giữ nhiều ý tưởng cùng lúc mà không vội kết luận
-- **Multiple Possibilities**: Duy trì nhiều khả năng đồng thời trong tâm trí
-- **Wave Function Navigation**: Điều hướng hàm sóng tư duy - lướt trên sóng khả năng
-- **Observation Collapse**: Sụp đổ khi cần quyết định - chuyển từ tư duy đa khả năng sang hành động cụ thể
-
-→ **Liên kết:** FOUNDATIONS (Quantum Principles)
-→ **Ứng dụng chiến lược:** NAVIGATION #15 (điều hướng bằng nguyên lý lượng tử)
-→ **Trạng thái cụ thể:** NAVIGATION #24 (Quantum Navigation States)
-→ **Bối cảnh nhận thức:** Chức năng 4 - COGNITIVE FLEXIBILITY (Convergent ↔ Divergent)
-
-**KHÁC BIỆT QUAN TRỌNG:**
-- Đây là về TƯ DUY (thinking mode), không phải về HÀNH ĐỘNG (strategic action)
-- Nằm trong DYNAMICS vì nó về sự linh hoạt nhận thức và khả năng chuyển đổi giữa các phương thức tư duy khác nhau
-
-#### **69. Collective Navigation** - Điều Hướng Tập Thể
-
-Tìm đường như một nhóm, tận dụng trí tuệ tập thể.
-
-- **Group Wayfinding**: Tìm đường nhóm
-- **Coordination Mechanisms**: Cơ chế phối hợp
-- **Shared Awareness**: Nhận thức chung
-- **Collective Intelligence**: Trí tuệ tập thể
-
-→ **Liên kết:** INTEGRATION (Collective Intelligence), AMPLIFICATION (Swarm Navigation)
-
----
-
-### **Nhóm Bổ Sung: Edge Dynamics (5 mục mới)**
-
-#### **70. Liminal Navigation** - Điều Hướng Ngưỡng Cửa
-
-Làm việc trong các không gian chuyển tiếp và ranh giới.
-
-- **Threshold Work**: Làm việc ở ngưỡng
-- **Transition Spaces**: Không gian chuyển tiếp
-- **Between States**: Giữa các trạng thái
-- **Boundary Navigation**: Điều hướng ranh giới
-
-→ **Liên kết:** TRANSCENDENCE (Liminal States), DYNAMICS (Threshold Crossing)
-
-#### **71. Boundary Dissolution** - Hòa Tan Ranh Giới
-
-Vượt qua hoặc xóa bỏ các giới hạn và phân chia.
-
-- **Limit Transcendence**: Vượt qua giới hạn
-- **Category Breakdown**: Phá vỡ phân loại
-- **Separation Removal**: Loại bỏ sự tách biệt
-- **Unity Through Dissolution**: Thống nhất qua hòa tan
-
-→ **Liên kết:** TRANSCENDENCE (Boundary Transcendence), INTEGRATION (Unity)
-
-#### **72. Chaos Surfing** - Lướt Sóng Hỗn Loạn
-
-Kỹ năng điều hướng và tận dụng các tình huống hỗn loạn.
-
-- **Disorder Navigation**: Điều hướng hỗn loạn
-- **Opportunity in Chaos**: Cơ hội trong hỗn loạn
-- **Turbulence Riding**: Cưỡi sóng nhiễu loạn
-- **Chaotic Advantage**: Lợi thế hỗn loạn
-
-→ **Liên kết:** DYNAMICS (Chaos Theory), NAVIGATION (Crisis Navigation)
-
-#### **73. Avalanche Triggering** - Kích Hoạt Tuyết Lở
-
-Cố ý tạo ra các hiệu ứng cascade để thúc đẩy thay đổi lớn.
-
-- **Cascade Initiation**: Khởi động cascade
-- **Trigger Point Identification**: Nhận diện điểm kích hoạt
-- **Chain Reaction Start**: Bắt đầu phản ứng dây chuyền
-- **Intentional Disruption**: Gián đoạn có chủ đích
-
-→ **Liên kết:** AMPLIFICATION (Cascade Dynamics), DYNAMICS (Tipping Points)
-
-#### **74. Synchronicity Engineering** - Kỹ Thuật Đồng Thời
-
-Tạo ra điều kiện cho các sự kiện ý nghĩa trùng hợp xảy ra.
-
-- **Meaningful Coincidence**: Trùng hợp có ý nghĩa
-- **Timing Optimization**: Tối ưu hóa thời điểm
-- **Connection Facilitation**: Tạo điều kiện kết nối
-- **Serendipity Design**: Thiết kế may mắn
-
-→ **Liên kết:** NAVIGATION (Timing Wisdom), CREATION (Opportunity Creation)
-
----
-
-## CHỨC NĂNG 5: EMOTIONAL INTELLIGENCE & ENERGY MANAGEMENT - TRÍ TUỆ CẢM XÚC & QUẢN LÝ NĂNG LƯỢNG
-
-### **Tổng Quan**
-
-Hiểu và điều khiển các trạng thái cảm xúc và năng lượng của bản thân, và khả năng điều hướng các động lực cảm xúc trong các hệ thống phức tạp.
-
-### **Các Khái Niệm Cốt Lõi (23 mục)**
+### **1. Emotional Awareness & Intelligence - Nhận Thức & Trí Tuệ Cảm Xúc**
 
 #### **1. Emotional Valence Dynamics** - Động Lực Hóa Trị Cảm Xúc
 
@@ -7347,7 +6578,144 @@ Cách các trạng thái cảm xúc tích cực hoặc tiêu cực ảnh hưởn
 
 → **Liên kết:** INTEGRATION (Emotional Intelligence), VALIDATION (Bias Awareness)
 
-#### **2. Arousal Dynamics** - Động Lực Hưng Phấn
+#### **2. Emotional Granularity** - Độ Chi Tiết Cảm Xúc
+
+Khả năng nhận biết và đặt tên chính xác cho các trạng thái cảm xúc cụ thể.
+
+- **Fine-Grained Awareness**: Nhận thức chi tiết
+- **Vocabulary Expansion**: Mở rộng từ vựng cảm xúc
+- **Better Regulation**: Điều chỉnh tốt hơn thông qua nhận diện chính xác
+- **Reduced Overwhelm**: Giảm bị áp đảo bởi cảm xúc
+
+→ **Liên kết:** INTEGRATION (Emotional Literacy), [META] LAYER (Self-Awareness)
+
+#### **3. Emotional Complexity** - Phức Tạp Cảm Xúc
+
+Khả năng trải nghiệm và thừa nhận nhiều cảm xúc khác nhau, thậm chí mâu thuẫn, cùng một lúc.
+
+- **Mixed Emotions**: Cảm xúc pha trộn
+- **Ambivalence**: Sự lưỡng lự
+- **Dialectical Experience**: Trải nghiệm biện chứng (cả hai cùng đúng)
+- **Mature Emotional Life**: Cuộc sống cảm xúc trưởng thành
+
+→ **Liên kết:** TRANSCENDENCE (Paradox Holding), INTEGRATION (Emotional Maturity)
+
+#### **4. Empathy Dynamics** - Động Lực Đồng Cảm
+
+Khả năng hiểu và chia sẻ trạng thái cảm xúc của người khác.
+
+- **Cognitive Empathy**: Đồng cảm nhận thức - hiểu góc nhìn người khác
+- **Affective Empathy**: Đồng cảm cảm xúc - cảm nhận cảm xúc người khác
+- **Compassionate Empathy**: Đồng cảm từ bi - bị thúc đẩy để giúp đỡ
+- **Empathy Regulation**: Điều chỉnh đồng cảm để tránh quá tải
+
+→ **Liên kết:** INTEGRATION (Interpersonal Wisdom), VALIDATION (Perspective Taking)
+
+#### **5. Emotional Intelligence** - Trí Tuệ Cảm Xúc
+
+Khả năng nhận biết, hiểu, quản lý và sử dụng cảm xúc hiệu quả.
+
+- **Self-Awareness**: Tự nhận thức về cảm xúc của mình
+- **Self-Management**: Tự quản lý cảm xúc
+- **Social Awareness**: Nhận thức xã hội về cảm xúc người khác
+- **Relationship Management**: Quản lý các mối quan hệ
+
+→ **Liên kết:** INTEGRATION (Interpersonal Mastery), [META] LAYER (Emotional Meta-Awareness)
+
+#### **6. Somatic Intelligence** - Trí Tuệ Cơ Thể
+
+Khả năng nhận biết và sử dụng các tín hiệu từ cơ thể để hướng dẫn hành động và quyết định.
+
+- **Body Awareness**: Nhận thức cơ thể
+- **Interoception**: Nội giác - cảm nhận các tín hiệu bên trong cơ thể
+- **Gut Feelings**: Cảm giác ruột gan
+- **Embodied Cognition**: Nhận thức được thể hiện qua cơ thể
+
+→ **Liên kết:** VALIDATION (Intuitive Sensing), INTEGRATION (Mind-Body Integration)
+
+#### **7. Emotional Agility** - Sự Nhanh Nhẹn Cảm Xúc
+
+Khả năng điều hướng các suy nghĩ và cảm xúc với tính cởi mở, tò mò và linh hoạt.
+
+- **Accepting Experience**: Chấp nhận trải nghiệm
+- **Choosing Values**: Lựa chọn giá trị
+- **Taking Action**: Hành động phù hợp với giá trị
+- **Flexibility**: Linh hoạt trong phản ứng cảm xúc
+
+→ **Liên kết:** [META] LAYER (Emotional Meta-Awareness), INTEGRATION (Values Alignment)
+
+### **2. Emotional Regulation & Shadow Work - Điều Chỉnh Cảm Xúc & Công Việc Bóng Tối**
+
+#### **8. Emotional Regulation** - Điều Chỉnh Cảm Xúc
+
+Các quá trình mà cá nhân sử dụng để ảnh hưởng đến cảm xúc nào họ có, khi nào có và cách họ trải nghiệm và biểu đạt các cảm xúc này.
+
+- **Situation Selection**: Lựa chọn tình huống
+- **Attention Deployment**: Triển khai chú ý
+- **Cognitive Reappraisal**: Đánh giá lại nhận thức
+- **Response Modulation**: Điều chỉnh phản ứng
+
+→ **Liên kết:** INTEGRATION (Self-Mastery), VALIDATION (Emotional Awareness)
+
+#### **9. Emotional Contagion** - Lây Nhiễm Cảm Xúc
+
+Hiện tượng cảm xúc lan truyền từ người này sang người khác, đặc biệt trong các nhóm.
+
+- **Automatic Mimicry**: Bắt chước tự động biểu hiện cảm xúc
+- **Mood Synchronization**: Đồng bộ hóa tâm trạng
+- **Group Emotional Dynamics**: Động lực cảm xúc nhóm
+- **Leader Emotion Impact**: Tác động của cảm xúc người lãnh đạo
+
+→ **Liên kết:** INTEGRATION (Group Dynamics), AMPLIFICATION (Social Influence)
+
+#### **10. Affective Forecasting** - Dự Báo Cảm Xúc
+
+Khả năng dự đoán các trạng thái cảm xúc tương lai của bản thân.
+
+- **Impact Bias**: Thiên lệch tác động - đánh giá quá mức cường độ và thời gian của cảm xúc tương lai
+- **Focalism**: Tập trung quá mức vào một yếu tố và bỏ qua các yếu tố khác
+- **Immune Neglect**: Bỏ qua khả năng thích ứng cảm xúc của bản thân
+- **Affective Adaptation**: Sự thích nghi cảm xúc
+
+→ **Liên kết:** NAVIGATION (Decision Making), VALIDATION (Self-Knowledge)
+
+#### **11. Emotional Labor** - Lao Động Cảm Xúc
+
+Quá trình quản lý cảm xúc và biểu hiện để đáp ứng các yêu cầu xã hội hoặc nghề nghiệp.
+
+- **Surface Acting**: Diễn bề ngoài - thay đổi biểu hiện nhưng không thay đổi cảm xúc
+- **Deep Acting**: Diễn sâu - thực sự thay đổi cảm xúc bên trong
+- **Genuine Expression**: Biểu hiện chân thực
+- **Burnout Risk**: Nguy cơ kiệt sức từ lao động cảm xúc
+
+→ **Liên kết:** VALIDATION (Authenticity), OPERATIONS (Professional Performance)
+
+#### **12. Emotional Momentum** - Động Lượng Cảm Xúc
+
+Xu hướng các trạng thái cảm xúc tự củng cố và duy trì theo thời gian.
+
+- **Positive Spirals**: Vòng xoắn tích cực
+- **Negative Spirals**: Vòng xoắn tiêu cực
+- **Mood Inertia**: Quán tính tâm trạng
+- **Intervention Points**: Các điểm can thiệp
+
+→ **Liên kết:** AMPLIFICATION (Self-Reinforcing Cycles), CREATION (Pattern Breaking - cấp độ cá nhân)
+
+#### **13. Shadow Work** - Làm Việc Với Bóng Tối
+
+Quá trình tích hợp các khía cạnh bị từ chối, bị chối bỏ hoặc không được thừa nhận của bản thân.
+
+- **Unconscious Material / Unconscious Material Integration**: Vật liệu vô thức cần được nhận diện và tích hợp
+- **Projection Recognition / Projection Withdrawal**: Nhận diện sự chiếu xạ và rút lại các chiếu xạ về bản thân
+- **Dark Side Acceptance**: Chấp nhận mặt tối của chính mình
+- **Integration Process**: Quá trình tích hợp các phần bị phân tách
+- **Wholeness / Wholeness Recovery**: Trở nên toàn vẹn - phục hồi sự toàn vẹn
+
+→ **Liên kết:** TRANSCENDENCE (Shadow Integration), INTEGRATION (Personal Wholeness)
+
+### **3. Energy, Arousal & Performance States - Năng Lượng, Hưng Phấn & Trạng Thái**
+
+#### **14. Arousal Dynamics** - Động Lực Hưng Phấn
 
 Mức độ kích thích sinh lý và tâm lý ảnh hưởng đến hiệu suất nhận thức.
 
@@ -7358,7 +6726,7 @@ Mức độ kích thích sinh lý và tâm lý ảnh hưởng đến hiệu su�
 
 → **Liên kết:** OPERATIONS (Performance Optimization), [META] LAYER (State Management)
 
-#### **3. Energy Management - Quản Lý Năng Lượng [Nghệ Thuật Nội Tại]**
+#### **15. Energy Management - Quản Lý Năng Lượng [Nghệ Thuật Nội Tại]**
 
 Nghệ thuật quản lý các nguồn năng lượng NỘI TẠI (vật lý, cảm xúc, tinh thần, tâm linh) để đạt hiệu suất bền vững. Đây là về TRẠNG THÁI của bản thân - cảm nhận, điều chỉnh và tối ưu hóa năng lượng từ bên trong ra.
 
@@ -7373,40 +6741,443 @@ Nghệ thuật quản lý các nguồn năng lượng NỘI TẠI (vật lý, c�
   • DYNAMICS: Làm CHỦ năng lượng bản thân (internal mastery)
   • NAVIGATION: PHÂN BỔ năng lượng như tài nguyên (strategic allocation)
 
-#### **4. Emotional Regulation** - Điều Chỉnh Cảm Xúc
+#### **16. Stress Dynamics** - Động Lực Căng Thẳng
 
-Các quá trình mà cá nhân sử dụng để ảnh hưởng đến cảm xúc nào họ có, khi nào có và cách họ trải nghiệm và biểu đạt các cảm xúc này.
+Cách cơ thể và tâm trí phản ứng với các yêu cầu hoặc thách thức.
 
-- **Situation Selection**: Lựa chọn tình huống
-- **Attention Deployment**: Triển khai chú ý
-- **Cognitive Reappraisal**: Đánh giá lại nhận thức
-- **Response Modulation**: Điều chỉnh phản ứng
+- **Stress Response**: Phản ứng căng thẳng (fight-flight-freeze)
+- **Acute vs. Chronic**: Căng thẳng cấp tính vs. mãn tính
+- **Eustress vs. Distress**: Căng thẳng tích cực vs. tiêu cực
+- **Stress Tolerance**: Khả năng chịu đựng căng thẳng
 
-→ **Liên kết:** INTEGRATION (Self-Mastery), VALIDATION (Emotional Awareness)
+→ **Liên kết:** VALIDATION (Stress Testing), DYNAMICS (Hormesis)
 
-#### **5. Emotional Contagion** - Lây Nhiễm Cảm Xúc
+#### **17. Flow & Immersion** - Dòng Chảy & Đắm Chìm
 
-Hiện tượng cảm xúc lan truyền từ người này sang người khác, đặc biệt trong các nhóm.
+Trạng thái đắm chìm hoàn toàn vào hoạt động với sự tập trung cao độ và thỏa mãn sâu sắc.
 
-- **Automatic Mimicry**: Bắt chước tự động biểu hiện cảm xúc
-- **Mood Synchronization**: Đồng bộ hóa tâm trạng
-- **Group Emotional Dynamics**: Động lực cảm xúc nhóm
-- **Leader Emotion Impact**: Tác động của cảm xúc người lãnh đạo
+- **Complete Absorption**: Sự hấp thu hoàn toàn
+- **Loss of Self-Consciousness**: Mất ý thức về bản thân
+- **Intrinsic Reward**: Phần thưởng nội tại
+- **Challenge-Skill Balance**: Cân bằng thách thức-kỹ năng
 
-→ **Liên kết:** INTEGRATION (Group Dynamics), AMPLIFICATION (Social Influence)
+→ **Liên kết:** DYNAMICS (Flow State), CREATION (Peak Performance)
 
-#### **6. Emotional Granularity** - Độ Chi Tiết Cảm Xúc
+#### **18. Peak Experience** - Trải Nghiệm Đỉnh Cao
 
-Khả năng nhận biết và đặt tên chính xác cho các trạng thái cảm xúc cụ thể.
+Những khoảnh khắc hiếm hoi của hạnh phúc, ý nghĩa và thấu hiểu sâu sắc nhất.
 
-- **Fine-Grained Awareness**: Nhận thức chi tiết
-- **Vocabulary Expansion**: Mở rộng từ vựng cảm xúc
-- **Better Regulation**: Điều chỉnh tốt hơn thông qua nhận diện chính xác
-- **Reduced Overwhelm**: Giảm bị áp đảo bởi cảm xúc
+- **Transcendent Moments**: Những khoảnh khắc siêu việt
+- **Unity Experience**: Trải nghiệm hợp nhất
+- **Timelessness**: Vượt ra ngoài thời gian
+- **Transformation Potential**: Tiềm năng chuyển hóa
 
-→ **Liên kết:** INTEGRATION (Emotional Literacy), [META] LAYER (Self-Awareness)
+→ **Liên kết:** TRANSCENDENCE (Peak States), INTEGRATION (Optimal Experience)
 
-#### **7. Motivational Dynamics** - Động Lực Động Cơ
+#### **19. Burnout Dynamics** - Động Lực Kiệt Sức
+
+Trạng thái kiệt quệ về thể chất, cảm xúc và tinh thần do căng thẳng kéo dài.
+
+- **Three Dimensions**: Ba chiều - kiệt sức, hoài nghi, giảm hiệu quả
+- **Cumulative Stress**: Căng thẳng tích lũy
+- **Recovery Deficit**: Thiếu hụt phục hồi
+- **Prevention Strategies**: Chiến lược phòng ngừa
+
+→ **Liên kết:** VALIDATION (Warning Signs), OPERATIONS (Sustainable Performance)
+
+### **4. Motivation, Resilience & Growth - Động Lực, Phục Hồi & Phát Triển**
+
+#### **20. Motivational Dynamics** - Động Lực Động Cơ
+
+Các lực lượng thúc đẩy và định hướng hành vi, từ nhu cầu cơ bản đến tự hiện thực hóa.
+
+- **Intrinsic vs. Extrinsic**: Động lực nội tại vs. bên ngoài
+- **Hierarchy of Needs**: Hệ thống phân cấp nhu cầu (Maslow)
+- **Self-Determination Theory**: Lý thuyết tự quyết định (Autonomy, Competence, Relatedness)
+- **Goal-Directed Behavior**: Hành vi hướng tới mục tiêu
+
+→ **Liên kết:** NAVIGATION (Goal Setting), OPERATIONS (Sustainable Action)
+
+#### **21. Resilience Building** - Xây Dựng Khả Năng Phục Hồi
+
+Quá trình phát triển khả năng phục hồi và phát triển từ nghịch cảnh.
+
+- **Adversity Navigation**: Điều hướng nghịch cảnh
+- **Growth Mindset**: Tư duy phát triển
+- **Support Networks**: Mạng lưới hỗ trợ
+- **Meaning-Making**: Tạo ý nghĩa từ khó khăn
+
+→ **Liên kết:** DYNAMICS (Antifragility), VALIDATION (Stress Testing)
+
+#### **22. Passion & Purpose** - Đam Mê & Mục Đích
+
+Các trạng thái động lực mạnh mẽ hướng dẫn và duy trì nỗ lực dài hạn.
+
+- **Harmonious Passion**: Đam mê hài hòa - tích hợp với bản sắc
+- **Obsessive Passion**: Đam mê ám ảnh - gây xung đột nội tâm
+- **Purpose Discovery**: Khám phá mục đích
+- **Ikigai**: Lý do để sống (khái niệm Nhật Bản)
+
+→ **Liên kết:** NAVIGATION (Life Direction), INTEGRATION (Meaningful Living)
+
+#### **23. Psychological Safety** - An Toàn Tâm Lý
+
+Niềm tin rằng một người có thể mạo hiểm giữa những người khác mà không sợ bị xấu hổ hoặc trừng phạt.
+
+- **Trust Building**: Xây dựng niềm tin
+- **Vulnerability Acceptance**: Chấp nhận sự dễ bị tổn thương
+- **Learning Environment**: Môi trường học tập
+- **Team Performance**: Hiệu suất nhóm
+
+→ **Liên kết:** INTEGRATION (Team Building), CREATION (Innovation Culture)
+
+#### **24. Patience Cultivation** - Nuôi Dưỡng Kiên Nhẫn
+
+Phát triển khả năng chờ đợi và cho phép mọi thứ triển khai tự nhiên.
+
+- **Time Acceptance**: Chấp nhận thời gian
+- **Natural Unfolding**: Mở ra tự nhiên
+- **Urgency Release**: Giải phóng sự gấp gáp
+- **Temporal Wisdom**: Trí tuệ thời gian
+
+→ **Liên kết:** NAVIGATION (Timing Wisdom), INTEGRATION (Acceptance)
+
+### **5. Primordial & Universal Energy - Năng Lượng Nguyên Thủy & Vũ Trụ**
+
+#### **25. Primordial Energy (Shakti)** - Năng Lượng Nguyên Thủy
+
+Sức mạnh sáng tạo và động năng căn bản của vũ trụ theo truyền thống Hindu.
+
+- **Creative Power**: Sức mạnh sáng tạo
+- **Divine Feminine**: Nữ tính thần thánh
+- **Cosmic Energy**: Năng lượng vũ trụ
+- **Source Force**: Lực nguồn
+
+→ **Liên kết:** TRANSCENDENCE (Divine Energy), DYNAMICS (Creative Force)
+
+#### **26. Life Force (Prana/Qi/Ki)** - Lực Sống
+
+Năng lượng sống căn bản được gọi là Prana (Hindu), Qi (Trung Quốc), hoặc Ki (Nhật Bản).
+
+- **Vital Energy**: Năng lượng sống
+- **Breath of Life**: Hơi thở của sự sống
+- **Energy Flow**: Dòng chảy năng lượng
+- **Life Cultivation**: Nuôi dưỡng sự sống
+
+→ **Liên kết:** DYNAMICS (Energy Systems), INTEGRATION (Vitality)
+
+#### **27. Kundalini** - Năng Lượng Kundalini
+
+Năng lượng tâm linh căn bản được mô tả như một lực lượng cuộn tròn ở gốc xương sống, khi được đánh thức sẽ thăng hoa qua các trung tâm năng lượng (chakra) dẫn đến sự giác ngộ.
+
+- **Serpent Power**: Sức mạnh rắn - biểu tượng của năng lượng sinh mệnh tiềm ẩn
+- **Coiled Energy**: Năng lượng cuộn tròn - trạng thái tiềm tàng chờ được kích hoạt
+- **Spiritual Awakening**: Đánh thức tâm linh - quá trình kích hoạt và mở ra ý thức cao hơn
+- **Energy Ascension**: Thăng hoa năng lượng - sự di chuyển của năng lượng qua các chakra lên đỉnh đầu
+
+→ **Liên kết:** TRANSCENDENCE (Kundalini Awakening), DYNAMICS (Energy Activation)
+
+#### **28. Entropy & Negentropy** - Entropy & Negentropy
+
+Xu hướng hướng tới hỗn loạn và xu hướng tạo ra trật tự.
+
+- **Order & Disorder**: Trật tự và hỗn loạn
+- **Energy Degradation**: Suy giảm năng lượng
+- **Life's Organization**: Tổ chức của sự sống
+- **Information Entropy**: Entropy thông tin
+
+→ **Liên kết:** FOUNDATIONS (Thermodynamics), DYNAMICS (Order-Chaos)
+
+#### **29. Quantum Wave-Particle Duality** - Tính Hai Mặt Sóng-Hạt Lượng Tử
+
+Thực tại cơ bản thể hiện cả tính chất sóng và hạt.
+
+- **Dual Nature**: Bản chất kép
+- **Wave Function**: Hàm sóng
+- **Particle Manifestation**: Biểu hiện hạt
+- **Complementarity**: Tính bổ sung
+
+→ **Liên kết:** FOUNDATIONS (Quantum Principles), TRANSCENDENCE (Paradox)
+
+### **6. Traditional Energy Systems - Hệ Thống Năng Lượng Truyền Thống**
+
+#### **30. Chakra Integration** - Tích Hợp Chakra
+
+Làm việc với các trung tâm năng lượng của cơ thể theo truyền thống yoga.
+
+- **Energy Centers**: Các trung tâm năng lượng
+- **Seven Chakras**: Bảy chakra
+- **Balance & Alignment**: Cân bằng và liên kết
+- **Energetic Harmony**: Hài hòa năng lượng
+
+→ **Liên kết:** INTEGRATION (Energy Integration), DYNAMICS (Energy Centers)
+
+#### **31. Meridian Integration** - Tích Hợp Kinh Mạch
+
+Làm việc với các đường dẫn năng lượng theo y học Trung Quốc.
+
+- **Energy Pathways**: Đường dẫn năng lượng
+- **Meridian Flow**: Dòng chảy kinh mạch
+- **Acupuncture Points**: Các điểm châm cứu
+- **Qi Circulation**: Tuần hoàn khí
+
+→ **Liên kết:** DYNAMICS (Energy Flow), INTEGRATION (Pathway Integration)
+
+#### **32. Biofield Integration** - Tích Hợp Trường Sinh
+
+Làm việc với trường năng lượng xung quanh và xuyên qua cơ thể.
+
+- **Energy Field**: Trường năng lượng
+- **Aura Work**: Làm việc với hào quang
+- **Field Coherence**: Sự mạch lạc của trường
+- **Bioelectric Integration**: Tích hợp sinh điện
+
+→ **Liên kết:** INTEGRATION (Field Integration), DYNAMICS (Biofield)
+
+#### **33. Grounding Integration** - Tích Hợp Tiếp Đất
+
+Kết nối với năng lượng của đất để ổn định và cân bằng.
+
+- **Earth Connection**: Kết nối với đất
+- **Stability & Rootedness**: Ổn định và bám rễ
+- **Energy Anchoring**: Neo năng lượng
+- **Physical Presence**: Sự hiện diện vật lý
+
+→ **Liên kết:** INTEGRATION (Grounding), VALIDATION (Stability)
+
+#### **34. Five Elements - Ngũ Hành** [Công Cụ Quản Lý Năng Lượng]
+
+Ứng dụng hệ thống Ngũ Hành vào QUẢN LÝ NĂNG LƯỢNG VÀ CẢM XÚC cá nhân. Mỗi nguyên tố tương ứng với một trạng thái năng lượng, cảm xúc và cơ quan trong cơ thể. Khác với hệ thống triết học ở FOUNDATIONS, đây là CÔNG CỤ THỰC HÀNH để cân bằng và điều hòa năng lượng sinh mệnh.
+
+- **Elemental Balance**: Cân bằng NĂNG LƯỢNG CÁ NHÂN qua năm yếu tố
+- **Five Phases**: Năm pha - ánh xạ vào cơ thể và cảm xúc:
+  - Mộc (Gan, tức giận, sáng tạo)
+  - Hỏa (Tim, vui vẻ, nhiệt huyết)
+  - Thổ (Lá lách, lo lắng, ổn định)
+  - Kim (Phổi, buồn bã, kỷ luật)
+  - Thủy (Thận, sợ hãi, trí tuệ)
+- **Generative & Control Cycles**: ÁP DỤNG chu kỳ sinh-khắc vào quản lý trạng thái
+- **Elemental Interactions**: Tương tác để ĐIỀU HÒA cảm xúc và năng lượng
+- **Personal Energy Medicine**: Y học năng lượng cá nhân
+
+→ **Liên kết nội bộ:** INTEGRATION (Elemental Harmony)
+→ **Gốc lý thuyết:** FOUNDATIONS #63 (Ngũ Hành - hệ thống triết học)
+→ **Công cụ bổ trợ:** Chakra Integration #29 (hệ thống năng lượng Ấn Độ), Meridian Integration #30 (kinh mạch), TCM #61 (y học ứng dụng)
+
+#### **35. Buddhist Dependent Origination** - Duyên Khởi Phật Giáo
+
+Giáo lý về sự phụ thuộc lẫn nhau của tất cả các hiện tượng.
+
+- **Interdependent Arising**: Sinh khởi tương duyên
+- **Causality Chain**: Chuỗi nhân quả
+- **Twelve Links**: Mười hai nhân duyên
+- **Non-independent Existence**: Tồn tại phi độc lập
+
+→ **Liên kết:** FOUNDATIONS (Interdependence), DYNAMICS (Causality)
+
+#### **36. Taoist Yin-Yang** - Âm-Dương Đạo Giáo
+
+Nguyên lý về sự tương tác của các lực đối lập và bổ sung.
+
+- **Polarity Balance**: Cân bằng cực tính
+- **Dynamic Interplay**: Tương tác động
+- **Complementary Forces**: Các lực bổ sung
+- **Cyclical Transformation**: Chuyển hóa chu kỳ
+
+→ **Liên kết:** FOUNDATIONS (Polarity), DYNAMICS (Balance)
+
+#### **37. I Ching (Book of Changes)** - Kinh Dịch
+
+Hệ thống cổ xưa để hiểu các mẫu hình thay đổi.
+
+- **64 Hexagrams**: 64 quẻ
+- **Change Patterns**: Mẫu hình thay đổi
+- **Divination**: Bói toán
+- **Wisdom of Transformation**: Trí tuệ chuyển hóa
+
+→ **Liên kết:** DYNAMICS (Change Patterns), NAVIGATION (Situational Wisdom)
+
+#### **38. Sufi Stations of Soul** - Các Trạm của Linh Hồn Sufi
+
+Các giai đoạn phát triển tâm linh trong truyền thống Sufi.
+
+- **Spiritual Stages**: Các giai đoạn tâm linh
+- **Soul Journey**: Hành trình linh hồn
+- **Transformation Levels**: Các cấp độ chuyển hóa
+- **Mystical Path**: Con đường huyền bí
+
+→ **Liên kết:** TRANSCENDENCE (Spiritual Development), DYNAMICS (Transformation Stages)
+
+#### **39. Norse Wyrd & Orlog** - Vận Mệnh & Quy Luật Bắc Âu
+
+Khái niệm Bắc Âu về số phận, hành động và mẫu hình.
+
+- **Web of Fate**: Mạng lưới số phận
+- **Ancestral Patterns**: Mẫu hình tổ tiên
+- **Personal Deed**: Hành động cá nhân
+- **Destiny Weaving**: Dệt vận mệnh
+
+→ **Liên kết:** NAVIGATION (Fate & Free Will), FOUNDATIONS (Pattern & Destiny)
+
+### **7. Movement, Embodiment & Performance - Chuyển Động, Hiện Thân & Biểu Diễn**
+
+#### **40. 5Rhythms Movement** - Chuyển Động 5 Nhịp
+
+Thực hành chuyển động có ý thức qua năm nhịp điệu.
+
+- **Flowing-Staccato-Chaos-Lyrical-Stillness**: Chảy-Nhịp ngắt-Hỗn loạn-Trữ tình-Tĩnh lặng
+- **Dance Meditation**: Thiền qua múa
+- **Embodied Practice**: Thực hành qua cơ thể
+- **Rhythmic Exploration**: Khám phá nhịp điệu
+
+→ **Liên kết:** DYNAMICS (Movement), INTEGRATION (Embodiment)
+
+#### **41. Improvisation - Ứng Biến** [Nghệ Thuật Biểu Diễn]
+
+Sáng tạo tự phát trong nghệ thuật biểu diễn (âm nhạc, múa, sân khấu) - biểu đạt năng lượng và cảm xúc qua cơ thể và chuyển động KHÔNG có kịch bản cứng nhắc. Đây là về BIỂU HIỆN NGHỆ THUẬT, không phải giải quyết vấn đề.
+
+- **Spontaneous Creation**: Sáng tạo tức thì trong biểu diễn.
+- **In-the-Moment Art**: Nghệ thuật trong khoảnh khắc hiện tại.
+- **Adaptive Expression**: Biểu đạt thích ứng với năng lượng của không gian.
+- **Flow Performance**: Biểu diễn trong trạng thái dòng chảy.
+
+→ **Liên kết:** CREATION (Spontaneous Creation), DYNAMICS (Flow States, 5Rhythms Movement #39).
+→ **Nhóm:** Movement & Rhythm (cùng với 5Rhythms, Kinetic Art, Movement Dynamics).
+→ **Khác biệt với NAVIGATION #11:**
+  • DYNAMICS #40: Nghệ thuật biểu diễn, biểu đạt cảm xúc/năng lượng
+  • NAVIGATION #11: Công cụ thích ứng chiến lược trong bối cảnh bất định
+→ **Bản chất:** Embodied artistic expression, không phải strategic adaptation.
+
+#### **42. Kinetic Art & Architecture** - Nghệ Thuật & Kiến Trúc Động
+
+Thiết kế có chuyển động và thay đổi.
+
+- **Dynamic Design**: Thiết kế động
+- **Movement Integration**: Tích hợp chuyển động
+- **Responsive Structures**: Cấu trúc phản hồi
+- **Time-Based Art**: Nghệ thuật theo thời gian
+
+→ **Liên kết:** CREATION (Dynamic Design), DYNAMICS (Movement Patterns)
+
+#### **43. Movement Dynamics (Dance, Circus)** - Động Lực Chuyển Động
+
+Các nguyên lý của chuyển động trong múa và xiếc.
+
+- **Performance Skill**: Kỹ năng biểu diễn
+- **Body Mechanics**: Cơ học cơ thể
+- **Dynamic Expression**: Biểu đạt động
+- **Physical Poetry**: Thơ vật lý
+
+→ **Liên kết:** INTEGRATION (Embodiment), DYNAMICS (Body Dynamics)
+
+#### **44. Temporal Arts (Film, Performance)** - Nghệ Thuật Thời Gian
+
+Các hình thức nghệ thuật triển khai theo thời gian.
+
+- **Time-Based Media**: Phương tiện dựa trên thời gian
+- **Narrative Flow**: Dòng chảy tự sự
+- **Temporal Structure**: Cấu trúc thời gian
+- **Performance Duration**: Thời lượng biểu diễn
+
+→ **Liên kết:** CREATION (Narrative Design), DYNAMICS (Temporal Dynamics)
+
+#### **45. Interactive & Responsive Design** - Thiết Kế Tương Tác & Phản Hồi
+
+Hệ thống phản ứng với người dùng và môi trường.
+
+- **User Engagement**: Tương tác người dùng
+- **Responsive Systems**: Hệ thống phản hồi
+- **Adaptive Interfaces**: Giao diện thích ứng
+- **Dynamic Interaction**: Tương tác động
+
+→ **Liên kết:** INTEGRATION (Interactive Systems), DYNAMICS (Responsiveness)
+
+#### **46. Live Performance Energy** - Năng Lượng Biểu Diễn Trực Tiếp
+
+Sự trao đổi năng lượng giữa người biểu diễn và khán giả.
+
+- **Presence Transmission**: Truyền tải sự hiện diện
+- **Audience Connection**: Kết nối khán giả
+- **Energy Exchange**: Trao đổi năng lượng
+- **Live Dynamics**: Động lực trực tiếp
+
+→ **Liên kết:** INTEGRATION (Performance), AMPLIFICATION (Energy Transmission)
+
+### **8. Energy Practices & Applications - Thực Hành & Ứng Dụng Năng Lượng**
+
+#### **47. Breathwork Energy Practices** - Thực Hành Năng Lượng Qua Hơi Thở
+
+Các kỹ thuật thở để quản lý và biến đổi năng lượng.
+
+- **Breath Transformation**: Chuyển hóa qua hơi thở
+- **Energy Activation**: Kích hoạt năng lượng
+- **Pranayama**: Kiểm soát hơi thở (yoga)
+- **Conscious Breathing**: Thở có ý thức
+
+→ **Liên kết:** DYNAMICS (Breathwork), TRANSCENDENCE (Energy Awakening)
+
+#### **48. Silence Practice** - Thực Hành Im Lặng
+
+Thực hành nuôi dưỡng im lặng bên trong và bên ngoài - một công cụ mạnh mẽ cho cả QUẢN LÝ NĂNG LƯỢNG và SÁNG TẠO. Im lặng không phải là sự vắng mặt của âm thanh mà là KHÔNG GIAN NĂNG LƯỢNG nơi cả sự điều hòa lẫn sự đột sinh có thể xảy ra.
+
+**Khía cạnh Năng Lượng & Cảm Xúc:**
+- **Stillness Cultivation**: Nuôi dưỡng sự tĩnh lặng - làm dịu hệ thần kinh
+- **Inner Quiet**: Yên tĩnh nội tâm - tái nạp năng lượng
+- **Noise Reduction**: Giảm nhiễu - tạo không gian cho nhận thức
+- **Awareness in Silence**: Nhận thức trong im lặng - quan sát không phán xét
+
+**Khía cạnh Sáng Tạo & Tâm Linh:**
+- **Void Presence**: Hiện diện trong khoảng trống - tiềm năng vô hạn
+- **Silent Meditation**: Thiền im lặng - tiếp cận nguồn sáng tạo
+- **Emptiness Practice**: Thực hành tánh không - vượt qua giới hạn
+- **Space Between**: Không gian giữa - nơi ý tưởng mới nảy sinh
+
+→ **Liên kết nội bộ:**
+  - TRANSCENDENCE (Stillness, Emptiness, Void)
+  - VALIDATION (Inner Listening)
+  - CREATION (Creative Incubation) - silence as generative space
+  - FOUNDATIONS (Via Negativa) - knowing through negation
+
+→ **Ứng dụng thực hành:**
+  - Energy Management: Reset năng lượng, điều hòa cảm xúc
+  - Creative Process: Incubation, insight emergence
+  - Problem Solving: Clarity through quieting mental noise
+  - Stress Reduction: Parasympathetic activation
+
+#### **49. Complexity Science Applications** - Ứng Dụng Khoa Học Phức Tạp
+
+Áp dụng nguyên lý hệ thống phức tạp vào quản lý năng lượng và cảm xúc.
+
+- **Systems Understanding**: Hiểu biết hệ thống
+- **Emergence Awareness**: Nhận thức đột sinh
+- **Nonlinear Dynamics**: Động lực phi tuyến
+- **Complex Adaptation**: Thích ứng phức tạp
+
+→ **Liên kết:** FOUNDATIONS (Systems Thinking), DYNAMICS (Complexity Theory)
+
+---
+
+# [3]. OPERATIONS - VẬN HÀNH
+
+*Miền này chứa các công cụ và quy trình có cấu trúc để phân tích thông tin, xây dựng lập luận và đưa ra quyết định một cách hiệu quả. Nó trả lời câu hỏi: "Làm thế nào để tôi mổ xẻ vấn đề, suy luận một cách logic và lựa chọn hành động một cách khôn ngoan?"*
+
+---
+
+## CHỨC NĂNG 1: ANALYTICAL REASONING & LOGIC - LẬP LUẬN PHÂN TÍCH & LOGIC
+
+### **Tổng Quan**
+
+Hệ thống suy luận và kiến trúc logic để xây dựng lập luận chặt chẽ, phân tích bằng chứng và rút ra kết luận hợp lệ. Đây là "bộ xử lý logic" của tư duy.
+
+### **Các Kiến Trúc Suy Luận (45 mục)**
+
+#### **1. Deductive Reasoning** - Suy Luận Diễn Dịch
+
+Đi từ một nguyên lý chung đến một kết luận cụ thể chắc chắn, nếu các tiền đề là đúng.
+
+- **Top-Down Logic**: Logic từ trên xuống, áp dụng quy tắc chung cho trường hợp riêng.
+- **Certainty & Validity**: Nếu tiền đề đúng, kết luận chắc chắn đúng; tập trung vào tính hợp lệ của cấu trúc lập luận.
+- **Syllogistic Forms**: Các cấu trúc lập luận cổ điển với hai tiền đề và một kết luận.
 
 Các lực lượng thúc đẩy và định hướng hành vi, từ nhu cầu cơ bản đến tự hiện thực hóa.
 
