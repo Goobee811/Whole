@@ -8720,7 +8720,7 @@ Phương pháp giải quyết vấn đề bằng cách khám phá không gian gi
 
 Các phương pháp và kỹ thuật để biến ý tưởng thành hành động, thực hiện có kỷ luật và rèn luyện kỹ năng đến mức thành thạo. Đây là "bộ phận thực thi" của OPERATIONS.
 
-### **Các Phương Pháp Thực Thi & Rèn Luyện (15 mục)**
+### **1. Deliberate Practice & Skill Development - Rèn Luyện Có Chủ Đích & Phát Triển Kỹ Năng**
 
 #### **1. Deliberate Practice** - Rèn Luyện Có Chủ Đích
 
@@ -8733,152 +8733,7 @@ Phương pháp rèn luyện có cấu trúc tập trung vào việc cải thiệ
 
 → **Liên kết:** OPERATIONS (Learning Systems), DYNAMICS (Skill Development)
 
-#### **2. Implementation Intentions** - Ý Định Thực Hiện
-
-Kỹ thuật lập kế hoạch cụ thể về thời gian, địa điểm và cách thức thực hiện một hành động.
-
-- **If-Then Planning**: Lập kế hoạch theo dạng "Nếu X xảy ra, thì tôi sẽ làm Y".
-- **Concrete Specification**: Xác định cụ thể thời gian, địa điểm và hành động.
-- **Automaticity**: Tạo ra sự tự động hóa hành vi thông qua kế hoạch rõ ràng.
-- **Goal Achievement**: Tăng đáng kể khả năng đạt được mục tiêu.
-
-→ **Liên kết:** NAVIGATION (Goal Setting), DYNAMICS (Habit Formation)
-
-#### **3. Habit Stacking** - Xếp Chồng Thói Quen
-
-Kỹ thuật xây dựng thói quen mới bằng cách gắn chúng vào các thói quen hiện có.
-
-- **Anchor to Existing Habits**: Neo thói quen mới vào thói quen cũ đã vững chắc.
-- **Sequential Chaining**: Tạo chuỗi các thói quen liên tiếp.
-- **Automatic Triggers**: Sử dụng thói quen cũ làm tín hiệu kích hoạt cho thói quen mới.
-- **Compound Growth**: Xây dựng một hệ thống các thói quen hỗ trợ lẫn nhau.
-
-→ **Liên kết:** DYNAMICS (Habit Formation), AMPLIFICATION (Compound Effects)
-
-#### **4. Temptation Bundling** - Gói Cám Dỗ
-
-Kết hợp một hành động cần thiết nhưng ít hấp dẫn với một hoạt động mong muốn.
-
-- **Pair Need with Want**: Ghép hành động cần làm với hành động muốn làm.
-- **Motivation Leverage**: Tận dụng động lực từ hoạt động hấp dẫn để thực hiện nhiệm vụ.
-- **Sustainable Execution**: Tạo ra việc thực hiện bền vững thông qua phần thưởng tích hợp.
-- **Friction Reduction**: Giảm thiểu sự kháng cự tâm lý đối với các nhiệm vụ khó khăn.
-
-→ **Liên kết:** DYNAMICS (Motivation), OPERATIONS (Behavior Design)
-
-#### **5. Commitment Devices** - Thiết Bị Cam Kết
-
-Các cơ chế tự áp đặt để ràng buộc hành động tương lai và tăng trách nhiệm.
-
-- **Pre-Commitment**: Cam kết trước với một hành động để giảm sự do dự trong tương lai.
-- **External Accountability**: Sử dụng sự giám sát bên ngoài để tăng cường cam kết.
-- **Financial Stakes**: Đặt cược tiền bạc hoặc các nguồn lực có giá trị vào việc hoàn thành mục tiêu.
-- **Social Pressure**: Công khai cam kết để tạo ra áp lực xã hội hỗ trợ.
-
-→ **Liên kết:** NAVIGATION (Goal Achievement), AMPLIFICATION (Accountability Systems)
-
-#### **6. Pomodoro Technique** - Kỹ Thuật Pomodoro
-
-Phương pháp quản lý thời gian sử dụng các khoảng thời gian tập trung (25 phút) xen kẽ với các khoảng nghỉ ngắn.
-
-- **Timed Work Blocks**: Các khối làm việc có thời gian xác định (thường 25 phút).
-- **Short Breaks**: Nghỉ ngắn (5 phút) giữa các pomodoro.
-- **Longer Breaks**: Nghỉ dài hơn (15-30 phút) sau 4 pomodoro.
-- **Focus Enhancement**: Tăng cường khả năng tập trung và giảm thiểu sự kiệt sức.
-
-→ **Liên kết:** DYNAMICS (Attention Management), OPERATIONS (Time Management)
-
-#### **7. Time Blocking** - Phong Tỏa Thời Gian
-
-Kỹ thuật lập kế hoạch phân bổ các khối thời gian cụ thể cho các nhiệm vụ hoặc hoạt động cụ thể.
-
-- **Calendar Blocking**: Chặn các khoảng thời gian trên lịch cho các nhiệm vụ cụ thể.
-- **Theme Days**: Các ngày chủ đề, dành cả ngày cho một loại công việc nhất định.
-- **Protected Time**: Thời gian được bảo vệ khỏi gián đoạn.
-- **Energy Matching**: Khớp các nhiệm vụ với mức năng lượng tự nhiên trong ngày.
-
-→ **Liên kết:** NAVIGATION (Schedule Management), DYNAMICS (Energy Management)
-
-#### **8. Batch Processing** - Xử Lý Hàng Loạt
-
-Nhóm các nhiệm vụ tương tự lại với nhau và thực hiện chúng trong một phiên làm việc.
-
-- **Task Grouping**: Nhóm các nhiệm vụ có bản chất tương tự.
-- **Context Switching Reduction**: Giảm chi phí chuyển đổi bối cảnh giữa các loại công việc khác nhau.
-- **Efficiency Gains**: Đạt được hiệu quả thông qua chuyên môn hóa tạm thời.
-- **Flow State Access**: Dễ dàng đạt được trạng thái flow khi làm các nhiệm vụ tương tự liên tiếp.
-
-→ **Liên kết:** AMPLIFICATION (Efficiency), DYNAMICS (Flow State)
-
-#### **9. Automation & Systematization** - Tự Động Hóa & Hệ Thống Hóa
-
-Tạo ra các hệ thống và quy trình tự động để giảm thiểu công sức thủ công lặp đi lặp lại.
-
-- **Routine Identification**: Xác định các hoạt động lặp đi lặp lại có thể tự động hóa.
-- **System Design**: Thiết kế các hệ thống và quy trình để xử lý các nhiệm vụ thường xuyên.
-- **Tool Leverage**: Tận dụng công nghệ và công cụ để tự động hóa.
-- **Cognitive Offloading**: Giải phóng năng lượng nhận thức cho các nhiệm vụ có giá trị cao hơn.
-
-→ **Liên kết:** AMPLIFICATION (Automation), OPERATIONS (Algorithmic Thinking)
-
-#### **10. Standard Operating Procedures (SOPs)** - Quy Trình Vận Hành Tiêu Chuẩn
-
-Tài liệu hóa các quy trình từng bước cho các nhiệm vụ thường xuyên để đảm bảo tính nhất quán và chất lượng.
-
-- **Process Documentation**: Tài liệu hóa chi tiết các bước trong quy trình.
-- **Consistency Assurance**: Đảm bảo kết quả nhất quán bất kể ai thực hiện.
-- **Training Tool**: Công cụ đào tạo hiệu quả cho thành viên mới.
-- **Continuous Improvement**: Nền tảng để cải tiến liên tục quy trình.
-
-→ **Liên kết:** OPERATIONS (Process Mapping), AMPLIFICATION (Scalability)
-
-#### **11. Implementation Review & Iteration** - Đánh Giá Thực Hiện & Lặp Lại
-
-Quy trình có cấu trúc để đánh giá việc thực hiện, học hỏi từ kết quả và cải tiến các phương pháp.
-
-- **Performance Assessment**: Đánh giá hiệu suất thực tế so với kỳ vọng.
-- **Lesson Extraction**: Rút ra các bài học từ cả thành công và thất bại.
-- **Method Refinement**: Tinh chỉnh các phương pháp dựa trên những gì đã học được.
-- **Continuous Improvement**: Cải tiến liên tục thông qua các chu kỳ lặp lại.
-
-→ **Liên kết:** META (Meta-Learning), VALIDATION (Feedback Processing)
-
-#### **12. Progress Tracking & Metrics** - Theo Dõi Tiến Độ & Chỉ Số
-
-Thiết lập các hệ thống để đo lường và theo dõi tiến độ hướng tới mục tiêu.
-
-- **Metric Definition**: Xác định các chỉ số quan trọng để đo lường tiến độ.
-- **Regular Measurement**: Đo lường thường xuyên và nhất quán.
-- **Visualization**: Trực quan hóa dữ liệu tiến độ để tăng cường động lực.
-- **Course Correction**: Sử dụng dữ liệu để điều chỉnh phương pháp khi cần thiết.
-
-→ **Liên kết:** VALIDATION (Performance Metrics), NAVIGATION (Goal Tracking)
-
-#### **13. Context Design & Environment Shaping** - Thiết Kế Bối Cảnh & Định Hình Môi Trường
-
-Chủ động thiết kế môi trường vật lý và xã hội để hỗ trợ các hành vi mong muốn.
-
-- **Environmental Cues**: Tạo ra các tín hiệu môi trường kích hoạt hành vi mong muốn.
-- **Friction Adjustment**: Tăng ma sát cho hành vi xấu, giảm ma sát cho hành vi tốt.
-- **Social Environment**: Bao quanh bản thân với những người hỗ trợ mục tiêu của bạn.
-- **Physical Arrangement**: Sắp xếp không gian vật lý để thúc đẩy hành động mong muốn.
-
-→ **Liên kết:** DYNAMICS (Behavior Design), CREATION (Design Thinking)
-
-#### **14. Execution Mastery** - Tinh Thông Thực Thi
-
-Khả năng tích hợp tất cả các phương pháp thực thi thành một hệ thống thực hành liền mạch.
-
-- **Method Integration**: Tích hợp nhiều phương pháp thực thi vào một hệ thống mạch lạc.
-- **Contextual Selection**: Lựa chọn phương pháp phù hợp nhất cho từng tình huống.
-- **Effortless Action**: Đạt đến trạng thái hành động không cần nỗ lực thông qua thực hành và hệ thống hóa.
-- **Sustainable High Performance**: Duy trì hiệu suất cao một cách bền vững theo thời gian.
-
-→ **Liên kết:** Tích hợp tất cả các khái niệm trong SYSTEMATIC EXECUTION & PRACTICE
-
-### **Các Mục Bổ Sung**
-
-#### **15. Elaborative Interrogation** - Thẩm Vấn Mở Rộng
+#### **2. Elaborative Interrogation** - Thẩm Vấn Mở Rộng
 
 Kỹ thuật học tập bằng cách tự đặt câu hỏi "Tại sao?" để tạo ra sự hiểu biết sâu sắc hơn.
 
@@ -8889,7 +8744,7 @@ Kỹ thuật học tập bằng cách tự đặt câu hỏi "Tại sao?" để 
 
 → **Liên kết:** OPERATIONS (Learning Systems), FOUNDATIONS (Causal Reasoning)
 
-#### **16. Retrieval Practice** - Thực Hành Truy Xuất
+#### **3. Retrieval Practice** - Thực Hành Truy Xuất
 
 Kỹ thuật chủ động gợi nhớ thông tin từ bộ nhớ để củng cố học tập.
 
@@ -8899,6 +8754,155 @@ Kỹ thuật chủ động gợi nhớ thông tin từ bộ nhớ để củng c
 - **Error-Driven Learning**: Học hỏi từ các lỗi trong quá trình truy xuất.
 
 → **Liên kết:** OPERATIONS (Active Recall), VALIDATION (Self-Testing)
+
+#### **4. Learning Integration** - Tích Hợp Học Tập
+
+Quá trình tổng hợp và áp dụng những gì đã học vào thực hành.
+
+- **Synthesis of Learning**: Tổng hợp các bài học.
+- **Application Planning**: Hoạch định ứng dụng.
+- **Knowledge-Action Bridge**: Cầu nối giữa tri thức và hành động.
+- **Embodied Understanding**: Hiểu biết được hiện thân qua thực hành.
+
+→ **Liên kết:** INTEGRATION (Knowledge Synthesis), OPERATIONS (Practice)
+
+### **2. Habit Formation & Behavior Design - Hình Thành Thói Quen & Thiết Kế Hành Vi**
+
+#### **5. Implementation Intentions** - Ý Định Thực Hiện
+
+Kỹ thuật lập kế hoạch cụ thể về thời gian, địa điểm và cách thức thực hiện một hành động.
+
+- **If-Then Planning**: Lập kế hoạch theo dạng "Nếu X xảy ra, thì tôi sẽ làm Y".
+- **Concrete Specification**: Xác định cụ thể thời gian, địa điểm và hành động.
+- **Automaticity**: Tạo ra sự tự động hóa hành vi thông qua kế hoạch rõ ràng.
+- **Goal Achievement**: Tăng đáng kể khả năng đạt được mục tiêu.
+
+→ **Liên kết:** NAVIGATION (Goal Setting), DYNAMICS (Habit Formation)
+
+#### **6. Habit Stacking** - Xếp Chồng Thói Quen
+
+Kỹ thuật xây dựng thói quen mới bằng cách gắn chúng vào các thói quen hiện có.
+
+- **Anchor to Existing Habits**: Neo thói quen mới vào thói quen cũ đã vững chắc.
+- **Sequential Chaining**: Tạo chuỗi các thói quen liên tiếp.
+- **Automatic Triggers**: Sử dụng thói quen cũ làm tín hiệu kích hoạt cho thói quen mới.
+- **Compound Growth**: Xây dựng một hệ thống các thói quen hỗ trợ lẫn nhau.
+
+→ **Liên kết:** DYNAMICS (Habit Formation), AMPLIFICATION (Compound Effects)
+
+#### **7. Temptation Bundling** - Gói Cám Dỗ
+
+Kết hợp một hành động cần thiết nhưng ít hấp dẫn với một hoạt động mong muốn.
+
+- **Pair Need with Want**: Ghép hành động cần làm với hành động muốn làm.
+- **Motivation Leverage**: Tận dụng động lực từ hoạt động hấp dẫn để thực hiện nhiệm vụ.
+- **Sustainable Execution**: Tạo ra việc thực hiện bền vững thông qua phần thưởng tích hợp.
+- **Friction Reduction**: Giảm thiểu sự kháng cự tâm lý đối với các nhiệm vụ khó khăn.
+
+→ **Liên kết:** DYNAMICS (Motivation), OPERATIONS (Behavior Design)
+
+#### **8. Commitment Devices** - Thiết Bị Cam Kết
+
+Các cơ chế tự áp đặt để ràng buộc hành động tương lai và tăng trách nhiệm.
+
+- **Pre-Commitment**: Cam kết trước với một hành động để giảm sự do dự trong tương lai.
+- **External Accountability**: Sử dụng sự giám sát bên ngoài để tăng cường cam kết.
+- **Financial Stakes**: Đặt cược tiền bạc hoặc các nguồn lực có giá trị vào việc hoàn thành mục tiêu.
+- **Social Pressure**: Công khai cam kết để tạo ra áp lực xã hội hỗ trợ.
+
+→ **Liên kết:** NAVIGATION (Goal Achievement), AMPLIFICATION (Accountability Systems)
+
+#### **9. Context Design & Environment Shaping** - Thiết Kế Bối Cảnh & Định Hình Môi Trường
+
+Chủ động thiết kế môi trường vật lý và xã hội để hỗ trợ các hành vi mong muốn.
+
+- **Environmental Cues**: Tạo ra các tín hiệu môi trường kích hoạt hành vi mong muốn.
+- **Friction Adjustment**: Tăng ma sát cho hành vi xấu, giảm ma sát cho hành vi tốt.
+- **Social Environment**: Bao quanh bản thân với những người hỗ trợ mục tiêu của bạn.
+- **Physical Arrangement**: Sắp xếp không gian vật lý để thúc đẩy hành động mong muốn.
+
+→ **Liên kết:** DYNAMICS (Behavior Design), CREATION (Design Thinking)
+
+### **3. Time & Task Management - Quản Lý Thời Gian & Nhiệm Vụ**
+
+#### **10. Pomodoro Technique** - Kỹ Thuật Pomodoro
+
+Phương pháp quản lý thời gian sử dụng các khoảng thời gian tập trung (25 phút) xen kẽ với các khoảng nghỉ ngắn.
+
+- **Timed Work Blocks**: Các khối làm việc có thời gian xác định (thường 25 phút).
+- **Short Breaks**: Nghỉ ngắn (5 phút) giữa các pomodoro.
+- **Longer Breaks**: Nghỉ dài hơn (15-30 phút) sau 4 pomodoro.
+- **Focus Enhancement**: Tăng cường khả năng tập trung và giảm thiểu sự kiệt sức.
+
+→ **Liên kết:** DYNAMICS (Attention Management), OPERATIONS (Time Management)
+
+#### **11. Time Blocking** - Phong Tỏa Thời Gian
+
+Kỹ thuật lập kế hoạch phân bổ các khối thời gian cụ thể cho các nhiệm vụ hoặc hoạt động cụ thể.
+
+- **Calendar Blocking**: Chặn các khoảng thời gian trên lịch cho các nhiệm vụ cụ thể.
+- **Theme Days**: Các ngày chủ đề, dành cả ngày cho một loại công việc nhất định.
+- **Protected Time**: Thời gian được bảo vệ khỏi gián đoạn.
+- **Energy Matching**: Khớp các nhiệm vụ với mức năng lượng tự nhiên trong ngày.
+
+→ **Liên kết:** NAVIGATION (Schedule Management), DYNAMICS (Energy Management)
+
+#### **12. Batch Processing** - Xử Lý Hàng Loạt
+
+Nhóm các nhiệm vụ tương tự lại với nhau và thực hiện chúng trong một phiên làm việc.
+
+- **Task Grouping**: Nhóm các nhiệm vụ có bản chất tương tự.
+- **Context Switching Reduction**: Giảm chi phí chuyển đổi bối cảnh giữa các loại công việc khác nhau.
+- **Efficiency Gains**: Đạt được hiệu quả thông qua chuyên môn hóa tạm thời.
+- **Flow State Access**: Dễ dàng đạt được trạng thái flow khi làm các nhiệm vụ tương tự liên tiếp.
+
+→ **Liên kết:** AMPLIFICATION (Efficiency), DYNAMICS (Flow State)
+
+#### **13. Automation & Systematization** - Tự Động Hóa & Hệ Thống Hóa
+
+Tạo ra các hệ thống và quy trình tự động để giảm thiểu công sức thủ công lặp đi lặp lại.
+
+- **Routine Identification**: Xác định các hoạt động lặp đi lặp lại có thể tự động hóa.
+- **System Design**: Thiết kế các hệ thống và quy trình để xử lý các nhiệm vụ thường xuyên.
+- **Tool Leverage**: Tận dụng công nghệ và công cụ để tự động hóa.
+- **Cognitive Offloading**: Giải phóng năng lượng nhận thức cho các nhiệm vụ có giá trị cao hơn.
+
+→ **Liên kết:** AMPLIFICATION (Automation), OPERATIONS (Algorithmic Thinking)
+
+#### **14. Standard Operating Procedures (SOPs)** - Quy Trình Vận Hành Tiêu Chuẩn
+
+Tài liệu hóa các quy trình từng bước cho các nhiệm vụ thường xuyên để đảm bảo tính nhất quán và chất lượng.
+
+- **Process Documentation**: Tài liệu hóa chi tiết các bước trong quy trình.
+- **Consistency Assurance**: Đảm bảo kết quả nhất quán bất kể ai thực hiện.
+- **Training Tool**: Công cụ đào tạo hiệu quả cho thành viên mới.
+- **Continuous Improvement**: Nền tảng để cải tiến liên tục quy trình.
+
+→ **Liên kết:** OPERATIONS (Process Mapping), AMPLIFICATION (Scalability)
+
+### **4. Progress Monitoring & Feedback - Theo Dõi Tiến Độ & Phản Hồi**
+
+#### **15. Implementation Review & Iteration** - Đánh Giá Thực Hiện & Lặp Lại
+
+Quy trình có cấu trúc để đánh giá việc thực hiện, học hỏi từ kết quả và cải tiến các phương pháp.
+
+- **Performance Assessment**: Đánh giá hiệu suất thực tế so với kỳ vọng.
+- **Lesson Extraction**: Rút ra các bài học từ cả thành công và thất bại.
+- **Method Refinement**: Tinh chỉnh các phương pháp dựa trên những gì đã học được.
+- **Continuous Improvement**: Cải tiến liên tục thông qua các chu kỳ lặp lại.
+
+→ **Liên kết:** META (Meta-Learning), VALIDATION (Feedback Processing)
+
+#### **16. Progress Tracking & Metrics** - Theo Dõi Tiến Độ & Chỉ Số
+
+Thiết lập các hệ thống để đo lường và theo dõi tiến độ hướng tới mục tiêu.
+
+- **Metric Definition**: Xác định các chỉ số quan trọng để đo lường tiến độ.
+- **Regular Measurement**: Đo lường thường xuyên và nhất quán.
+- **Visualization**: Trực quan hóa dữ liệu tiến độ để tăng cường động lực.
+- **Course Correction**: Sử dụng dữ liệu để điều chỉnh phương pháp khi cần thiết.
+
+→ **Liên kết:** VALIDATION (Performance Metrics), NAVIGATION (Goal Tracking)
 
 #### **17. Continuous Monitoring** - Giám Sát Liên Tục
 
@@ -8933,163 +8937,7 @@ Ghi lại và phân tích các hành động cụ thể được thực hiện.
 
 → **Liên kết:** VALIDATION (Performance Metrics), OPERATIONS (Assessment)
 
-#### **20. Somatic Integration** - Tích Hợp Thể Xác
-
-Tích hợp nhận thức cơ thể vào quá trình học tập và thực hành.
-
-- **Body Awareness**: Nhận thức về cảm giác và trạng thái cơ thể.
-- **Embodied Learning**: Học tập qua trải nghiệm thể xác.
-- **Physical-Mental Connection**: Kết nối giữa thể chất và tinh thần.
-- **Somatic Wisdom**: Trí tuệ được mã hóa trong cơ thể.
-
-→ **Liên kết:** OPERATIONS (Embodied Reasoning), INTEGRATION (Body-Mind)
-
-#### **21. Breath-Mind Integration** - Tích Hợp Hơi Thở-Tâm Trí
-
-Sử dụng hơi thở như một cầu nối giữa cơ thể và tâm trí.
-
-- **Breath Awareness**: Nhận thức về hơi thở.
-- **Mind-Breath Synchrony**: Đồng bộ hóa tâm trí và hơi thở.
-- **Emotional Regulation**: Điều hòa cảm xúc thông qua hơi thở.
-- **Consciousness Anchoring**: Neo tâm thức vào hơi thở.
-
-→ **Liên kết:** DYNAMICS (Emotional Intelligence), TRANSCENDENCE (Mindfulness)
-
-#### **22. Heart-Brain Coherence** - Đồng Nhất Tim-Não
-
-Trạng thái đồng bộ giữa nhịp tim và hoạt động não bộ.
-
-- **Rhythmic Synchronization**: Đồng bộ hóa nhịp điệu giữa tim và não.
-- **Emotional Balance**: Cân bằng cảm xúc thông qua coherence.
-- **Enhanced Performance**: Tăng cường hiệu suất nhận thức và thể chất.
-- **Physiological Optimization**: Tối ưu hóa sinh lý.
-
-→ **Liên kết:** DYNAMICS (Coherence), FOUNDATIONS (Heart-Brain Connection)
-
-#### **23. Movement Integration [Học Tập & Thực Hành]** - Tích Hợp Chuyển Động [Học Tập & Thực Hành]
-
-Học tập và thực hành thông qua chuyển động cơ thể - sử dụng chuyển động như CÔNG CỤ để mã hóa tri thức, phát triển kỹ năng và củng cố hiểu biết. Khác với việc sử dụng chuyển động để SÁNG TẠO (ở CREATION), đây là về việc RÈN LUYỆN và HỌC TẬP có hệ thống qua cơ thể.
-
-- **Kinesthetic Learning**: Học qua CẢM GIÁC vận động - tri thức qua cơ thể.
-- **Motor Skill Development**: Phát triển KỸ NĂNG vận động một cách có hệ thống.
-- **Movement-Thought Connection**: Kết nối chuyển động-tư duy để HỌC SÂU.
-- **Dance of Learning**: "Khiêu vũ" của việc học - HỌC TẬP qua chuyển động.
-
-→ **Liên kết:** DYNAMICS (Flow State), DYNAMICS (Embodied Cognition)
-→ **Ứng dụng sáng tạo:** CREATION #28 (Movement Integration - tổng hợp sáng tạo)
-→ **Thực hành liên quan:** OPERATIONS #21 (Somatic Integration), OPERATIONS #26 (Walking Meditation), DYNAMICS (Embodied Learning)
-
-#### **24. Sensory Integration** - Tích Hợp Giác Quan
-
-Kết hợp thông tin từ nhiều kênh giác quan để tạo ra trải nghiệm toàn diện.
-
-- **Multi-Sensory Processing**: Xử lý đa giác quan.
-- **Cross-Modal Integration**: Tích hợp giữa các giác quan khác nhau.
-- **Sensory Awareness**: Nhận thức về đầu vào giác quan.
-- **Holistic Perception**: Nhận thức toàn diện từ tất cả các giác quan.
-
-→ **Liên kết:** OPERATIONS (Perception), INTEGRATION (Holistic Processing)
-
-#### **25. Walking Meditation** - Thiền Đi Bộ
-
-Thực hành chánh niệm trong khi đi bộ chậm và có ý thức.
-
-- **Mindful Movement**: Chuyển động chánh niệm.
-- **Present Moment Awareness**: Nhận thức về hiện tại qua từng bước chân.
-- **Body-Ground Connection**: Kết nối cơ thể với mặt đất.
-- **Walking as Practice**: Đi bộ như một hình thức tu tập.
-
-→ **Liên kết:** TRANSCENDENCE (Mindfulness), OPERATIONS (Practice)
-
-#### **26. Qigong Standing** - Đứng Qigong
-
-Thực hành đứng yên để tu luyện năng lượng và trạng thái tĩnh lặng.
-
-- **Energy Cultivation**: Tu luyện năng lượng nội tại (qi).
-- **Stillness Practice**: Thực hành sự tĩnh lặng sâu sắc.
-- **Structural Alignment**: Căn chỉnh cấu trúc cơ thể tối ưu.
-- **Internal Alchemy**: Hóa công nội tại.
-
-→ **Liên kết:** DYNAMICS (Energy Management), TRANSCENDENCE (Stillness)
-
-#### **27. Pranayama** - Điều Hòa Hơi Thở
-
-Các kỹ thuật điều khiển hơi thở trong yoga.
-
-- **Breath Control**: Kiểm soát hơi thở một cách tinh vi.
-- **Energy Regulation**: Điều hòa năng lượng (prana) thông qua hơi thở.
-- **Consciousness Transformation**: Biến đổi ý thức qua các kỹ thuật thở.
-- **Subtle Body Work**: Làm việc với cơ thể tinh tế.
-
-→ **Liên kết:** DYNAMICS (Energy Transformation), TRANSCENDENCE (Yogic Practices)
-
-#### **28. Morning Integration Practice** - Thực Hành Tích Hợp Buổi Sáng
-
-Nghi thức buổi sáng để kích hoạt và định hướng ngày mới.
-
-- **Day Activation**: Kích hoạt năng lượng và nhận thức cho ngày mới.
-- **Intention Setting**: Đặt ra ý định cho ngày.
-- **Mind-Body Alignment**: Căn chỉnh tâm-thân.
-- **Energy Priming**: Chuẩn bị năng lượng cho hoạt động.
-
-→ **Liên kết:** OPERATIONS (Daily Rhythms), DYNAMICS (Energy Management)
-
-#### **29. Evening Integration Review** - Đánh Giá Tích Hợp Buổi Tối
-
-Nghi thức buổi tối để xem xét, học hỏi và củng cố.
-
-- **Day Consolidation**: Củng cố những gì đã học trong ngày.
-- **Reflection Practice**: Thực hành phản ánh và rút kinh nghiệm.
-- **Lesson Extraction**: Trích xuất bài học từ trải nghiệm.
-- **Mind Quieting**: Làm dịu tâm trí để chuẩn bị nghỉ ngơi.
-
-→ **Liên kết:** META (Reflection), OPERATIONS (Learning Integration)
-
-#### **30. Transition Rituals** - Nghi Thức Chuyển Tiếp
-
-Các thực hành đánh dấu sự chuyển đổi giữa các hoạt động hoặc trạng thái khác nhau.
-
-- **Boundary Marking**: Đánh dấu ranh giới giữa các giai đoạn.
-- **Context Switching**: Chuyển đổi bối cảnh một cách có ý thức.
-- **Mental Reset**: Đặt lại tâm trí cho trạng thái mới.
-- **Transition Smoothing**: Làm mượt mà quá trình chuyển đổi.
-
-→ **Liên kết:** DYNAMICS (State Management), OPERATIONS (Context Design)
-
-#### **31. Micro-Practice Integration** - Tích Hợp Thực Hành Vi Mô
-
-Các đợt thực hành ngắn nhưng thường xuyên được tích hợp vào ngày.
-
-- **Frequent Brief Sessions**: Các phiên ngắn nhưng thường xuyên.
-- **Daily Integration**: Tích hợp vào cuộc sống hàng ngày.
-- **Cumulative Effect**: Hiệu ứng tích lũy từ các micro-sessions.
-- **Low Friction**: Ma sát thấp, dễ duy trì.
-
-→ **Liên kết:** OPERATIONS (Practice Design), AMPLIFICATION (Compound Effects)
-
-#### **32. Weekly Rhythm Practices** - Thực Hành Nhịp Điệu Hàng Tuần
-
-Các thực hành có cấu trúc theo chu kỳ tuần để hoạch định và xem xét.
-
-- **Weekly Planning**: Hoạch định tuần lễ.
-- **Cyclic Review**: Xem xét theo chu kỳ.
-- **Rhythm Establishment**: Thiết lập nhịp điệu ổn định.
-- **Long-Arc Perspective**: Góc nhìn cung dài (vượt ra khỏi ngày).
-
-→ **Liên kết:** NAVIGATION (Planning), OPERATIONS (Temporal Rhythm)
-
-#### **33. Energy Management Systems** - Hệ Thống Quản Lý Năng Lượng
-
-Các phương pháp để tối ưu hóa và duy trì năng lượng cá nhân.
-
-- **Resource Optimization**: Tối ưu hóa nguồn lực năng lượng.
-- **Recovery Protocols**: Các giao thức phục hồi năng lượng.
-- **Energy Investment**: Đầu tư năng lượng vào các hoạt động có giá trị cao.
-- **Sustainable Performance**: Duy trì hiệu suất bền vững.
-
-→ **Liên kết:** DYNAMICS (Energy Management), OPERATIONS (Resource Allocation)
-
-#### **34. Course Correction** - Điều Chỉnh Hướng Đi
+#### **20. Course Correction** - Điều Chỉnh Hướng Đi
 
 Quá trình phát hiện và sửa chữa các lệch hướng từ mục tiêu.
 
@@ -9100,18 +8948,20 @@ Quá trình phát hiện và sửa chữa các lệch hướng từ mục tiêu.
 
 → **Liên kết:** VALIDATION (Feedback Processing), NAVIGATION (Waypoint Adjustment)
 
-#### **35. Learning Integration** - Tích Hợp Học Tập
+### **5. Execution Excellence & Precision - Tinh Thông Thực Thi & Độ Chính Xác**
 
-Quá trình tổng hợp và áp dụng những gì đã học vào thực hành.
+#### **21. Execution Mastery** - Tinh Thông Thực Thi
 
-- **Synthesis of Learning**: Tổng hợp các bài học.
-- **Application Planning**: Hoạch định ứng dụng.
-- **Knowledge-Action Bridge**: Cầu nối giữa tri thức và hành động.
-- **Embodied Understanding**: Hiểu biết được hiện thân qua thực hành.
+Khả năng tích hợp tất cả các phương pháp thực thi thành một hệ thống thực hành liền mạch.
 
-→ **Liên kết:** INTEGRATION (Knowledge Synthesis), OPERATIONS (Practice)
+- **Method Integration**: Tích hợp nhiều phương pháp thực thi vào một hệ thống mạch lạc.
+- **Contextual Selection**: Lựa chọn phương pháp phù hợp nhất cho từng tình huống.
+- **Effortless Action**: Đạt đến trạng thái hành động không cần nỗ lực thông qua thực hành và hệ thống hóa.
+- **Sustainable High Performance**: Duy trì hiệu suất cao một cách bền vững theo thời gian.
 
-#### **36. Surgical Precision Thinking** - Tư Duy Chính Xác Phẫu Thuật
+→ **Liên kết:** Tích hợp tất cả các khái niệm trong SYSTEMATIC EXECUTION & PRACTICE
+
+#### **22. Surgical Precision Thinking** - Tư Duy Chính Xác Phẫu Thuật
 
 Tư duy với độ chính xác và tập trung cao độ, như một bác sĩ phẫu thuật.
 
@@ -9122,7 +8972,7 @@ Tư duy với độ chính xác và tập trung cao độ, như một bác sĩ p
 
 → **Liên kết:** OPERATIONS (Precision), DYNAMICS (Focused Attention)
 
-#### **37. Zero-Defect Thinking** - Tư Duy Không Khuyết Tật
+#### **23. Zero-Defect Thinking** - Tư Duy Không Khuyết Tật
 
 Phương pháp tư duy nhằm đạt chất lượng hoàn hảo, không có lỗi.
 
@@ -9133,7 +8983,7 @@ Phương pháp tư duy nhằm đạt chất lượng hoàn hảo, không có l�
 
 → **Liên kết:** VALIDATION (Quality Assurance), OPERATIONS (Standards)
 
-#### **38. Six Sigma Mind** - Tâm Trí Six Sigma
+#### **24. Six Sigma Mind** - Tâm Trí Six Sigma
 
 Tư duy theo phương pháp Six Sigma để cải tiến quy trình có hệ thống.
 
@@ -9144,7 +8994,7 @@ Tư duy theo phương pháp Six Sigma để cải tiến quy trình có hệ th�
 
 → **Liên kết:** OPERATIONS (Process Analysis), VALIDATION (Statistical Quality Control)
 
-#### **39. Quantum Error Correction** - Hiệu Chỉnh Lỗi Lượng Tử
+#### **25. Quantum Error Correction** - Hiệu Chỉnh Lỗi Lượng Tử
 
 Áp dụng nguyên lý hiệu chỉnh lỗi từ điện toán lượng tử vào tư duy.
 
@@ -9155,7 +9005,101 @@ Tư duy theo phương pháp Six Sigma để cải tiến quy trình có hệ th�
 
 → **Liên kết:** VALIDATION (Error Correction), FOUNDATIONS (Quantum Principles)
 
-#### **40. Trataka** - Trataka (Nhìn Chăm Chú)
+### **6. Somatic & Body-Mind Integration - Tích Hợp Thể Xác & Thân-Tâm**
+
+#### **26. Somatic Integration** - Tích Hợp Thể Xác
+
+Tích hợp nhận thức cơ thể vào quá trình học tập và thực hành.
+
+- **Body Awareness**: Nhận thức về cảm giác và trạng thái cơ thể.
+- **Embodied Learning**: Học tập qua trải nghiệm thể xác.
+- **Physical-Mental Connection**: Kết nối giữa thể chất và tinh thần.
+- **Somatic Wisdom**: Trí tuệ được mã hóa trong cơ thể.
+
+→ **Liên kết:** OPERATIONS (Embodied Reasoning), INTEGRATION (Body-Mind)
+
+#### **27. Breath-Mind Integration** - Tích Hợp Hơi Thở-Tâm Trí
+
+Sử dụng hơi thở như một cầu nối giữa cơ thể và tâm trí.
+
+- **Breath Awareness**: Nhận thức về hơi thở.
+- **Mind-Breath Synchrony**: Đồng bộ hóa tâm trí và hơi thở.
+- **Emotional Regulation**: Điều hòa cảm xúc thông qua hơi thở.
+- **Consciousness Anchoring**: Neo tâm thức vào hơi thở.
+
+→ **Liên kết:** DYNAMICS (Emotional Intelligence), TRANSCENDENCE (Mindfulness)
+
+#### **28. Heart-Brain Coherence** - Đồng Nhất Tim-Não
+
+Trạng thái đồng bộ giữa nhịp tim và hoạt động não bộ.
+
+- **Rhythmic Synchronization**: Đồng bộ hóa nhịp điệu giữa tim và não.
+- **Emotional Balance**: Cân bằng cảm xúc thông qua coherence.
+- **Enhanced Performance**: Tăng cường hiệu suất nhận thức và thể chất.
+- **Physiological Optimization**: Tối ưu hóa sinh lý.
+
+→ **Liên kết:** DYNAMICS (Coherence), FOUNDATIONS (Heart-Brain Connection)
+
+#### **29. Movement Integration [Học Tập & Thực Hành]** - Tích Hợp Chuyển Động [Học Tập & Thực Hành]
+
+Học tập và thực hành thông qua chuyển động cơ thể - sử dụng chuyển động như CÔNG CỤ để mã hóa tri thức, phát triển kỹ năng và củng cố hiểu biết. Khác với việc sử dụng chuyển động để SÁNG TẠO (ở CREATION), đây là về việc RÈN LUYỆN và HỌC TẬP có hệ thống qua cơ thể.
+
+- **Kinesthetic Learning**: Học qua CẢM GIÁC vận động - tri thức qua cơ thể.
+- **Motor Skill Development**: Phát triển KỸ NĂNG vận động một cách có hệ thống.
+- **Movement-Thought Connection**: Kết nối chuyển động-tư duy để HỌC SÂU.
+- **Dance of Learning**: "Khiêu vũ" của việc học - HỌC TẬP qua chuyển động.
+
+→ **Liên kết:** DYNAMICS (Flow State), DYNAMICS (Embodied Cognition)
+→ **Ứng dụng sáng tạo:** CREATION #28 (Movement Integration - tổng hợp sáng tạo)
+→ **Thực hành liên quan:** OPERATIONS #26 (Somatic Integration), OPERATIONS #31 (Walking Meditation), DYNAMICS (Embodied Learning)
+
+#### **30. Sensory Integration** - Tích Hợp Giác Quan
+
+Kết hợp thông tin từ nhiều kênh giác quan để tạo ra trải nghiệm toàn diện.
+
+- **Multi-Sensory Processing**: Xử lý đa giác quan.
+- **Cross-Modal Integration**: Tích hợp giữa các giác quan khác nhau.
+- **Sensory Awareness**: Nhận thức về đầu vào giác quan.
+- **Holistic Perception**: Nhận thức toàn diện từ tất cả các giác quan.
+
+→ **Liên kết:** OPERATIONS (Perception), INTEGRATION (Holistic Processing)
+
+### **7. Contemplative & Energy Practices - Thực Hành Thiền Định & Năng Lượng**
+
+#### **31. Walking Meditation** - Thiền Đi Bộ
+
+Thực hành chánh niệm trong khi đi bộ chậm và có ý thức.
+
+- **Mindful Movement**: Chuyển động chánh niệm.
+- **Present Moment Awareness**: Nhận thức về hiện tại qua từng bước chân.
+- **Body-Ground Connection**: Kết nối cơ thể với mặt đất.
+- **Walking as Practice**: Đi bộ như một hình thức tu tập.
+
+→ **Liên kết:** TRANSCENDENCE (Mindfulness), OPERATIONS (Practice)
+
+#### **32. Qigong Standing** - Đứng Qigong
+
+Thực hành đứng yên để tu luyện năng lượng và trạng thái tĩnh lặng.
+
+- **Energy Cultivation**: Tu luyện năng lượng nội tại (qi).
+- **Stillness Practice**: Thực hành sự tĩnh lặng sâu sắc.
+- **Structural Alignment**: Căn chỉnh cấu trúc cơ thể tối ưu.
+- **Internal Alchemy**: Hóa công nội tại.
+
+→ **Liên kết:** DYNAMICS (Energy Management), TRANSCENDENCE (Stillness)
+
+#### **33. Pranayama** - Điều Hòa Hơi Thở
+
+Các kỹ thuật điều khiển hơi thở trong yoga.
+
+- **Breath Control**: Kiểm soát hơi thở một cách tinh vi.
+- **Energy Regulation**: Điều hòa năng lượng (prana) thông qua hơi thở.
+- **Consciousness Transformation**: Biến đổi ý thức qua các kỹ thuật thở.
+- **Subtle Body Work**: Làm việc với cơ thể tinh tế.
+
+→ **Liên kết:** DYNAMICS (Energy Transformation), TRANSCENDENCE (Yogic Practices)
+
+#### **34. Trataka** - Trataka (Nhìn Chăm Chú)
 
 Thực hành yoga tập trung bằng cách nhìn chăm chú vào một điểm.
 
@@ -9166,7 +9110,7 @@ Thực hành yoga tập trung bằng cách nhìn chăm chú vào một điểm.
 
 → **Liên kết:** DYNAMICS (Concentration), TRANSCENDENCE (Meditative Practice)
 
-#### **41. Dream Yoga** - Yoga Giấc Mơ
+#### **35. Dream Yoga** - Yoga Giấc Mơ
 
 Thực hành tu tập ý thức trong giấc mơ và giấc ngủ.
 
@@ -9176,6 +9120,76 @@ Thực hành tu tập ý thức trong giấc mơ và giấc ngủ.
 - **Sleep as Practice**: Giấc ngủ như một hình thức tu tập.
 
 → **Liên kết:** TRANSCENDENCE (Consciousness), META (Awareness)
+
+### **8. Daily Rhythms & Routine Practices - Nhịp Điệu Hàng Ngày & Thực Hành Thường Xuyên**
+
+#### **36. Morning Integration Practice** - Thực Hành Tích Hợp Buổi Sáng
+
+Nghi thức buổi sáng để kích hoạt và định hướng ngày mới.
+
+- **Day Activation**: Kích hoạt năng lượng và nhận thức cho ngày mới.
+- **Intention Setting**: Đặt ra ý định cho ngày.
+- **Mind-Body Alignment**: Căn chỉnh tâm-thân.
+- **Energy Priming**: Chuẩn bị năng lượng cho hoạt động.
+
+→ **Liên kết:** OPERATIONS (Daily Rhythms), DYNAMICS (Energy Management)
+
+#### **37. Evening Integration Review** - Đánh Giá Tích Hợp Buổi Tối
+
+Nghi thức buổi tối để xem xét, học hỏi và củng cố.
+
+- **Day Consolidation**: Củng cố những gì đã học trong ngày.
+- **Reflection Practice**: Thực hành phản ánh và rút kinh nghiệm.
+- **Lesson Extraction**: Trích xuất bài học từ trải nghiệm.
+- **Mind Quieting**: Làm dịu tâm trí để chuẩn bị nghỉ ngơi.
+
+→ **Liên kết:** META (Reflection), OPERATIONS (Learning Integration)
+
+#### **38. Transition Rituals** - Nghi Thức Chuyển Tiếp
+
+Các thực hành đánh dấu sự chuyển đổi giữa các hoạt động hoặc trạng thái khác nhau.
+
+- **Boundary Marking**: Đánh dấu ranh giới giữa các giai đoạn.
+- **Context Switching**: Chuyển đổi bối cảnh một cách có ý thức.
+- **Mental Reset**: Đặt lại tâm trí cho trạng thái mới.
+- **Transition Smoothing**: Làm mượt mà quá trình chuyển đổi.
+
+→ **Liên kết:** DYNAMICS (State Management), OPERATIONS (Context Design)
+
+#### **39. Micro-Practice Integration** - Tích Hợp Thực Hành Vi Mô
+
+Các đợt thực hành ngắn nhưng thường xuyên được tích hợp vào ngày.
+
+- **Frequent Brief Sessions**: Các phiên ngắn nhưng thường xuyên.
+- **Daily Integration**: Tích hợp vào cuộc sống hàng ngày.
+- **Cumulative Effect**: Hiệu ứng tích lũy từ các micro-sessions.
+- **Low Friction**: Ma sát thấp, dễ duy trì.
+
+→ **Liên kết:** OPERATIONS (Practice Design), AMPLIFICATION (Compound Effects)
+
+#### **40. Weekly Rhythm Practices** - Thực Hành Nhịp Điệu Hàng Tuần
+
+Các thực hành có cấu trúc theo chu kỳ tuần để hoạch định và xem xét.
+
+- **Weekly Planning**: Hoạch định tuần lễ.
+- **Cyclic Review**: Xem xét theo chu kỳ.
+- **Rhythm Establishment**: Thiết lập nhịp điệu ổn định.
+- **Long-Arc Perspective**: Góc nhìn cung dài (vượt ra khỏi ngày).
+
+→ **Liên kết:** NAVIGATION (Planning), OPERATIONS (Temporal Rhythm)
+
+#### **41. Energy Management Systems** - Hệ Thống Quản Lý Năng Lượng
+
+Các phương pháp để tối ưu hóa và duy trì năng lượng cá nhân.
+
+- **Resource Optimization**: Tối ưu hóa nguồn lực năng lượng.
+- **Recovery Protocols**: Các giao thức phục hồi năng lượng.
+- **Energy Investment**: Đầu tư năng lượng vào các hoạt động có giá trị cao.
+- **Sustainable Performance**: Duy trì hiệu suất bền vững.
+
+→ **Liên kết:** DYNAMICS (Energy Management), OPERATIONS (Resource Allocation)
+
+### **9. Energy & Biofield Therapies - Liệu Pháp Năng Lượng & Trường Sinh Học**
 
 #### **42. Biofield Therapies** - Liệu Pháp Trường Sinh Học
 
@@ -9220,6 +9234,8 @@ Các công cụ và phương pháp đo lường trường năng lượng sinh h�
 - **Bioenergetic Assessment**: Đánh giá sinh năng lượng.
 
 → **Liên kết:** VALIDATION (Assessment), DYNAMICS (Energy Diagnosis)
+
+### **10. Therapeutic & Technical Methods - Phương Pháp Trị Liệu & Kỹ Thuật**
 
 #### **46. Hypnotherapy & Trance Work** - Thôi Miên & Công Việc Trans
 
