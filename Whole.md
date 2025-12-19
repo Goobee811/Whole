@@ -11090,9 +11090,9 @@ Biến giảng dạy thành một hình thức nghệ thuật sáng tạo - nơi
 
 Các phương pháp, quy trình và hệ thống có cấu trúc để phát triển các ý tưởng ban đầu thành các giải pháp, sản phẩm hoặc dịch vụ khả thi và có giá trị. Đây là giai đoạn chuyển hóa từ ý tưởng thành đổi mới thực tế.
 
-### **Các Phương Pháp Cốt Lõi (35 mục)**
+### **1. Core Innovation Methodologies - Phương Pháp Đổi Mới Cốt Lõi**
 
-#### **1. Design Thinking** - Tư Duy Thiết Kế
+#### **1. Design Thinking - Tư Duy Thiết Kế**
 
 Một quy trình lặp lại, lấy con người làm trung tâm để giải quyết các vấn đề phức tạp.
 
@@ -11180,7 +11180,9 @@ Phương pháp đổi mới bằng cách MỞ CỬA tổ chức cho ý tưởng 
 
 → **Liên kết:** OPERATIONS (Agile Methods), VALIDATION (Rapid Iteration)
 
-#### **7. Stage-Gate Process** - Quy Trình Cổng-Giai Đoạn
+### **2. Innovation Process Management - Quản Lý Quy Trình Đổi Mới**
+
+#### **7. Stage-Gate Process - Quy Trình Cổng-Giai Đoạn**
 
 Một quy trình có cấu trúc để quản lý và kiểm soát các dự án đổi mới từ ý tưởng đến ra mắt.
 
@@ -11213,7 +11215,9 @@ Một công cụ để phân loại và cân bằng các sáng kiến đổi m�
 
 → **Liên kết:** NAVIGATION (Strategic Planning), AMPLIFICATION (Growth Strategies)
 
-#### **10. Business Model Innovation** - Đổi Mới Mô Hình Kinh Doanh
+### **3. Business Model & Platform Innovation - Đổi Mới Mô Hình Kinh Doanh & Nền Tảng**
+
+#### **10. Business Model Innovation - Đổi Mới Mô Hình Kinh Doanh**
 
 Tái cấu trúc cách tạo ra, cung cấp và thu giá trị.
 
@@ -11246,7 +11250,9 @@ Kết hợp các công nghệ, ý tưởng hoặc khả năng hiện có theo nh
 
 → **Liên kết:** AMPLIFICATION (Synergy), INTEGRATION (Cross-Domain Synthesis)
 
-#### **13. Breakthrough Breeding** - Nhân Giống Đột Phá
+### **4. Breakthrough Mechanics - Cơ Chế Đột Phá**
+
+#### **13. Breakthrough Breeding - Nhân Giống Đột Phá**
 
 Chủ động tạo ra một môi trường và các quy trình để nuôi dưỡng và nhân rộng các đột phá.
 
@@ -11301,7 +11307,9 @@ Quá trình biến đổi một thứ gì đó thông thường, cơ bản (chì
 
 → **Liên kết:** TRANSCENDENCE (Transformation), DYNAMICS (Phase Transition)
 
-#### **18. Narrative-Driven Innovation** - Đổi Mới Dẫn Dắt Bởi Câu Chuyện
+### **5. Design & Narrative Approaches - Tiếp Cận Thiết Kế & Câu Chuyện**
+
+#### **18. Narrative-Driven Innovation - Đổi Mới Dẫn Dắt Bởi Câu Chuyện**
 
 Sử dụng câu chuyện mạnh mẽ để định hướng và truyền cảm hứng cho quá trình đổi mới.
 
@@ -11382,7 +11390,9 @@ Thiết kế dịch vụ từ góc nhìn toàn diện, xem xét cả trải nghi
 
 → **Liên kết:** INTEGRATION (System Design), VALIDATION (User Experience Testing)
 
-#### **24. Co-Creation** - Đồng Sáng Tạo [Phương Pháp Đổi Mới Đột Phá]
+### **6. Collaborative & Open Innovation - Đổi Mới Cộng Tác & Mở**
+
+#### **24. Co-Creation - Đồng Sáng Tạo [Phương Pháp Đổi Mới Đột Phá]**
 
 Phương pháp đổi mới trong đó NGƯỜI SÁNG TẠO làm việc trực tiếp cùng KHÁCH HÀNG, NGƯỜI DÙNG hoặc CÁC BÊN LIÊN QUAN để cùng nhau tạo ra giá trị mới và đột phá. Khác với INTEGRATION #8 tập trung vào QUÁ TRÌNH hợp tác, đây là về KẾT QUẢ SÁNG TẠO - những sản phẩm/giải pháp mới xuất hiện từ sự đồng sáng tạo.
 
@@ -11418,7 +11428,9 @@ Phát triển sản phẩm cho thị trường mới nổi sau đó đưa về t
 
 → **Liên kết:** NAVIGATION (Market Strategy), OPERATIONS (Resource Optimization)
 
-#### **27. Innovation Accounting** - Kế Toán Đổi Mới
+### **7. Innovation Operations & Resources - Vận Hành & Nguồn Lực Đổi Mới**
+
+#### **27. Innovation Accounting - Kế Toán Đổi Mới**
 
 Đo lường tiến bộ của các sáng kiến đổi mới một cách có ý nghĩa.
 
@@ -11484,6 +11496,8 @@ Hình thành các mối quan hệ đối tác chiến lược để tăng cườ
 
 → **Liên kết:** AMPLIFICATION (Portfolio Approach), NAVIGATION (Strategic Investment)
 
+### **8. Organizational Innovation Capability - Năng Lực Đổi Mới Tổ Chức**
+
 #### **33. Innovation Culture Building - Xây Dựng Văn Hóa Đổi Mới**
 
 Xây dựng một văn hóa tổ chức hỗ trợ và khuyến khích đổi mới.
@@ -11506,9 +11520,9 @@ Phát triển các khả năng và kỹ năng đổi mới trong tổ chức.
 
 → **Liên kết:** OPERATIONS (Capability Building), [META] LAYER (Learning Organization)
 
-### **Các Mục Mới Bổ Sung**
+### **9. Systemic & Social Innovation - Đổi Mới Hệ Thống & Xã Hội**
 
-#### **35. Reality Hacking** - Hack Thực Tại
+#### **35. Reality Hacking - Hack Thực Tại**
 
 Tìm kiếm và khai thác các "lỗ hổng" trong hệ thống hiện thực để tạo ra sự thay đổi.
 
