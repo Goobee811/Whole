@@ -7924,10 +7924,6 @@ Xác định các hướng chủ đạo và các yếu tố quan trọng nhất 
 
 Các phương pháp và công cụ có cấu trúc để phân tích vấn đề, tìm ra nguyên nhân gốc rễ và thiết kế giải pháp hiệu quả. Đây là "bộ công cụ giải quyết vấn đề" của OPERATIONS.
 
-### **Các Công Cụ & Phương Pháp (59 mục, 10 nhóm)**
-
----
-
 ### **1. Analytical Razors & Parsimony Principles - Dao Cạo Phân Tích & Nguyên Tắc Tiết Kiệm**
 
 Các nguyên tắc heuristic giúp đơn giản hóa suy luận bằng cách loại bỏ các giải thích không cần thiết hoặc không hợp lý.
@@ -10484,8 +10480,9 @@ Các quy trình cơ bản của tính toán và xử lý thông tin.
 - **Calculation Methods**: Phương pháp tính toán.
 - **Computational Thinking**: Tư duy tính toán.
 - **Systematic Procedures**: Thủ tục có hệ thống.
+  
+→ Liên kết:** OPERATIONS (Algorithmic Reasoning), FOUNDATIONS (Computation)
 
-→ **Liên kết:** OPERATIONS (Algorithmic Reasoning), FOUNDATIONS (Computation)
 ---
 
 # [4]. CREATION - SÁNG TẠO
