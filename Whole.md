@@ -7924,7 +7924,13 @@ Xác định các hướng chủ đạo và các yếu tố quan trọng nhất 
 
 Các phương pháp và công cụ có cấu trúc để phân tích vấn đề, tìm ra nguyên nhân gốc rễ và thiết kế giải pháp hiệu quả. Đây là "bộ công cụ giải quyết vấn đề" của OPERATIONS.
 
-### **Các Công Cụ & Phương Pháp (40 mục)**
+### **Các Công Cụ & Phương Pháp (59 mục, 10 nhóm)**
+
+---
+
+### **1. Analytical Razors & Parsimony Principles - Dao Cạo Phân Tích & Nguyên Tắc Tiết Kiệm**
+
+Các nguyên tắc heuristic giúp đơn giản hóa suy luận bằng cách loại bỏ các giải thích không cần thiết hoặc không hợp lý.
 
 #### **1. Analytical Razors** - Dao Cạo Phân Tích
 
@@ -7947,7 +7953,68 @@ Một bộ nguyên tắc giúp loại bỏ các giải thích không hợp lý k
 
 → **Liên kết:** FOUNDATIONS (Via Negativa), VALIDATION (Adversarial Testing), DYNAMICS (Grey's Law)
 
-#### **2. Root Cause Analysis (RCA)** - Phân Tích Nguyên Nhân Gốc
+#### **2. Newton's Flaming Laser Sword** - Kiếm Laser Rực Lửa của Newton
+
+Nguyên tắc rằng những gì không thể giải quyết bằng thí nghiệm không đáng để tranh luận.
+
+- **Empirical Testability**: Khả năng kiểm tra bằng thực nghiệm.
+- **Scientific Demarcation**: Phân định giữa khoa học và phi khoa học.
+- **Practical Focus**: Tập trung vào những gì có thể kiểm chứng.
+- **Metaphysical Rejection**: Từ chối các lập luận siêu hình không thể kiểm tra.
+
+→ **Liên kết:** VALIDATION (Empirical Testing), OPERATIONS (Scientific Method)
+
+#### **3. Grice's Razor** - Dao Cạo Grice [Nguyên Tắc Hợp Tác]
+
+Nguyên tắc trong DIỄN GIẢI giao tiếp: ưu tiên hiểu theo nghĩa đơn giản, trực tiếp; giả định người nói đang hợp tác và có ý định truyền đạt ý nghĩa rõ ràng. Đừng quy cho ý định phức tạp những gì có thể giải thích đơn giản.
+
+**Grice's Cooperative Principle (Nguyên Tắc Hợp Tác):**
+
+• **Communicative Simplicity**: Ưu tiên nghĩa đen, trực tiếp
+• **Literal Interpretation First**: Diễn giải theo nghĩa đen trước
+• **Cooperative Principle**: Giả định người nói đang hợp tác
+• **Conversational Implicature**: Hiểu ngụ ý mà không phức tạp hóa
+
+**Grice's Maxims (Các Châm Ngôn Hội Thoại):**
+1. **Quality**: Nói thật, có bằng chứng
+2. **Quantity**: Đủ thông tin, không thừa
+3. **Relation**: Liên quan đến chủ đề
+4. **Manner**: Rõ ràng, ngắn gọn, có trật tự
+
+→ **Liên kết nội bộ:** INTEGRATION (Communication), VALIDATION (Interpretation)
+→ **Gia đình Razors:** Occam's Razor #1, Hanlon's Razor #1, Hitchens's Razor #1, Newton's Flaming Laser Sword #2, Morgan's Canon #4, Einstein's Razor #5
+→ **Gốc lý thuyết:** Triết học ngôn ngữ (Paul Grice, 1975)
+→ **Ứng dụng:** Giao tiếp hàng ngày, đàm phán, phân tích văn bản, giải quyết hiểu lầm
+
+#### **4. Morgan's Canon** - Quy Tắc của Morgan
+
+Nguyên tắc trong tâm lý học so sánh: không nên diễn giải hành vi động vật ở mức nhận thức cao hơn nếu có thể giải thích ở mức thấp hơn.
+
+- **Parsimony in Psychology**: Tiết kiệm trong giải thích tâm lý.
+- **Behavioral Simplicity**: Ưu tiên giải thích hành vi đơn giản.
+- **Anthropomorphism Avoidance**: Tránh nhân cách hóa động vật.
+- **Graded Cognition**: Hiểu nhận thức theo các mức độ.
+
+→ **Liên kết:** OPERATIONS (Parsimony Principle), FOUNDATIONS (Evolutionary Thinking)
+
+#### **5. Einstein's Razor** - Dao Cạo của Einstein
+
+Nguyên tắc: "Mọi thứ nên được làm đơn giản nhất có thể, nhưng không đơn giản hơn".
+
+- **Optimal Simplicity**: Đơn giản hóa tối ưu, không quá mức.
+- **Sufficient Complexity**: Duy trì độ phức tạp cần thiết để giải thích.
+- **Balance Principle**: Cân bằng giữa đơn giản và đầy đủ.
+- **Necessary Detail**: Giữ lại chi tiết cần thiết.
+
+→ **Liên kết:** OPERATIONS (Occam's Razor #1), FOUNDATIONS (Essence vs. Detail)
+
+---
+
+### **2. Root Cause & Problem Diagnosis - Chẩn Đoán Vấn Đề & Nguyên Nhân Gốc**
+
+Các phương pháp xác định nguyên nhân sâu xa và chẩn đoán vấn đề một cách có hệ thống.
+
+#### **6. Root Cause Analysis (RCA)** - Phân Tích Nguyên Nhân Gốc
 
 Phương pháp xác định nguyên nhân sâu xa của một vấn đề thay vì chỉ xử lý các triệu chứng.
 
@@ -7958,7 +8025,7 @@ Phương pháp xác định nguyên nhân sâu xa của một vấn đề thay v
 
 → **Liên kết:** FOUNDATIONS (Causality), DYNAMICS (System Dynamics)
 
-#### **3. Decomposition** - Phân Rã
+#### **7. Decomposition** - Phân Rã
 
 Thao tác chia một vấn đề hoặc hệ thống phức tạp thành các phần nhỏ hơn, dễ quản lý hơn.
 
@@ -7969,7 +8036,57 @@ Thao tác chia một vấn đề hoặc hệ thống phức tạp thành các ph
 
 → **Liên kết:** CREATION (Recombination), INTEGRATION (Synthesis)
 
-#### **4. Problem Framing & Reframing** - Định Khung & Định Khung Lại Vấn Đề
+#### **8. Kepner-Tregoe Problem Analysis** - Phân Tích Vấn Đề Kepner-Tregoe
+
+Một phương pháp có cấu trúc cao để phân tích và giải quyết vấn đề phức tạp thông qua việc so sánh IS/IS NOT - xác định chính xác điều kiện có vấn đề và phân biệt với điều kiện bình thường.
+
+- **Problem Specification**: Mô tả vấn đề rõ ràng theo 4 chiều (What, Where, When, Extent).
+- **IS/IS NOT Analysis**: So sánh hệ thống điều kiện có vấn đề với điều kiện bình thường.
+- **Distinction Identification**: Xác định các điểm khác biệt có thể là nguyên nhân gốc rễ.
+- **Cause Hypothesis Testing**: Kiểm tra các giả thuyết về nguyên nhân thông qua logic và bằng chứng.
+
+→ **Liên kết:** OPERATIONS (Root Cause Analysis #6), VALIDATION (Hypothesis Testing), FOUNDATIONS (Logical Reasoning)
+
+#### **9. FMEA (Failure Mode and Effects Analysis)** - Phân Tích Hình Thức Lỗi và Tác Động
+
+Một phương pháp có hệ thống để xác định các lỗi tiềm tàng trong một thiết kế, quy trình hoặc sản phẩm.
+
+- **Identify Failure Modes**: Xác định các cách thức mà một hệ thống có thể bị lỗi.
+- **Analyze Effects**: Phân tích các hậu quả của mỗi hình thức lỗi.
+- **Identify Causes**: Xác định các nguyên nhân có thể gây ra mỗi lỗi.
+- **Prioritize Risks (RPN)**: Ưu tiên các rủi ro dựa trên Số Ưu Tiên Rủi Ro.
+
+→ **Liên kết:** VALIDATION (Risk Assessment), DYNAMICS (System Dynamics)
+
+#### **10. Inversion for Problem Prevention** - Đảo Ngược để Phòng Ngừa Vấn Đề
+
+Sử dụng nguyên tắc đảo ngược để thiết kế các hệ thống phòng ngừa lỗi.
+
+- **Anticipate Failure**: Dự đoán các điểm thất bại tiềm tàng.
+- **Design Fail-Safes**: Thiết kế các cơ chế an toàn chống lỗi.
+- **Pre-mortem Exercises**: Thực hiện bài tập pre-mortem (→ VALIDATION #5).
+- **Solve Backwards**: Giải quyết vấn đề bằng cách làm việc ngược.
+
+→ **Liên kết:** VALIDATION #5 (Pre-mortem Analysis - công cụ kiểm chứng chi tiết), FOUNDATIONS (Via Negativa)
+
+#### **11. What-You-See-Is-All-There-Is (WYSIATI) Analysis**
+
+Một công cụ meta để tự phân tích xu hướng của bộ não đưa ra kết luận chỉ dựa trên thông tin có sẵn.
+
+- **Information Boundary Check**: Kiểm tra xem bạn đang dựa trên tập thông tin giới hạn nào.
+- **Missing Information Inquiry**: Chủ động đặt câu hỏi: "Thông tin nào còn thiếu?".
+- **Alternative Narrative Generation**: Tạo ra các câu chuyện thay thế có thể đúng.
+- **Confidence Calibration**: Hiệu chỉnh lại mức độ tự tin dựa trên thông tin không đầy đủ.
+
+→ **Liên kết:** META (Thinking about Biases), VALIDATION (Blind Spot Analysis)
+
+---
+
+### **3. Problem Framing & Gap Analysis - Định Khung Vấn Đề & Phân Tích Khoảng Cách**
+
+Các kỹ thuật định nghĩa và định khung vấn đề để mở ra không gian giải pháp mới.
+
+#### **12. Problem Framing & Reframing** - Định Khung & Định Khung Lại Vấn Đề
 
 Nghệ thuật xác định và định nghĩa một vấn đề theo cách mở ra các giải pháp mới.
 
@@ -7980,7 +8097,7 @@ Nghệ thuật xác định và định nghĩa một vấn đề theo cách mở
 
 → **Liên kết:** CREATION (Reframing), META (Perspective Shifting)
 
-#### **5. Gap Analysis** - Phân Tích Khoảng Cách
+#### **13. Gap Analysis** - Phân Tích Khoảng Cách
 
 So sánh trạng thái hiện tại với trạng thái mong muốn để xác định khoảng cách cần lấp đầy.
 
@@ -7991,29 +8108,35 @@ So sánh trạng thái hiện tại với trạng thái mong muốn để xác �
 
 → **Liên kết:** NAVIGATION (Goal Setting), VALIDATION (Performance Metrics)
 
-#### **6. Pareto Analysis (80/20 Rule)** - Phân Tích Pareto
+#### **14. Inversion (Analytical Tool)** - Đảo Ngược
 
-Nguyên tắc rằng 80% kết quả đến từ 20% nguyên nhân, tập trung vào các yếu tố quan trọng nhất.
+Phân tích một vấn đề bằng cách bắt đầu từ kết quả mong muốn và làm việc ngược lại.
 
-- **Vital Few vs. Trivial Many**: Phân biệt giữa "số ít quan trọng" và "số đông không quan trọng".
-- **Impact Prioritization**: Ưu tiên dựa trên tác động tiềm năng.
-- **Resource Allocation**: Phân bổ nguồn lực vào các lĩnh vực có tác động cao nhất.
-- **Diminishing Returns**: Nhận biết điểm giảm lợi nhuận biên.
+- **Goal Definition First**: Xác định rõ ràng mục tiêu hoặc kết quả cuối cùng.
+- **Failure Analysis (Pre-mortem)**: Tưởng tượng sự thất bại và phân tích các nguyên nhân có thể.
+- **Success Factor Identification**: Làm việc ngược lại từ thành công để xác định các yếu tố cần thiết.
+- **Obstacle Avoidance**: Thay vì tìm cách thành công, tránh những con đường dẫn đến thất bại.
 
-→ **Liên kết:** AMPLIFICATION (Leverage), NAVIGATION (Prioritization)
+→ **Liên kết:** FOUNDATIONS (Via Negativa), CREATION (Reverse Thinking)
 
-#### **7. Kepner-Tregoe Problem Analysis** - Phân Tích Vấn Đề Kepner-Tregoe
+#### **15. The Master Analytical Tool: Clarity** - Công Cụ Phân Tích Bậc Thầy: Sự Rõ Ràng
 
-Một phương pháp có cấu trúc cao để phân tích và giải quyết vấn đề phức tạp thông qua việc so sánh IS/IS NOT - xác định chính xác điều kiện có vấn đề và phân biệt với điều kiện bình thường.
+Coi chính sự rõ ràng là công cụ và mục tiêu cuối cùng của mọi phân tích.
 
-- **Problem Specification**: Mô tả vấn đề rõ ràng theo 4 chiều (What, Where, When, Extent).
-- **IS/IS NOT Analysis**: So sánh hệ thống điều kiện có vấn đề với điều kiện bình thường.
-- **Distinction Identification**: Xác định các điểm khác biệt có thể là nguyên nhân gốc rễ.
-- **Cause Hypothesis Testing**: Kiểm tra các giả thuyết về nguyên nhân thông qua logic và bằng chứng.
+- **Ambiguity Reduction**: Giảm thiểu sự mơ hồ và không rõ ràng.
+- **Precision Enhancement**: Tăng cường độ chính xác và cụ thể.
+- **Essence Illumination**: Soi sáng bản chất cốt lõi của vấn đề.
+- **Foundation for Action**: Tạo ra một nền tảng rõ ràng và vững chắc để suy luận và ra quyết định.
 
-→ **Liên kết:** OPERATIONS (Root Cause Analysis), VALIDATION (Hypothesis Testing), FOUNDATIONS (Logical Reasoning)
+→ **Liên kết:** Tích hợp tất cả các công cụ trong STRUCTURED PROBLEM-SOLVING
 
-#### **8. Force Field Analysis** - Phân Tích Trường Lực
+---
+
+### **4. Scenario & Consequential Analysis - Phân Tích Kịch Bản & Hệ Quả**
+
+Các phương pháp dự đoán và phân tích các kịch bản tương lai và hệ quả của quyết định.
+
+#### **16. Force Field Analysis** - Phân Tích Trường Lực
 
 Xác định và phân tích các lực thúc đẩy và kìm hãm sự thay đổi.
 
@@ -8024,78 +8147,7 @@ Xác định và phân tích các lực thúc đẩy và kìm hãm sự thay đ�
 
 → **Liên kết:** DYNAMICS (Change Management), NAVIGATION (Strategy)
 
-#### **9. Decision Matrix (Multi-Criteria Decision Analysis)** - Ma Trận Quyết Định
-
-Một công cụ có cấu trúc để đánh giá và so sánh nhiều lựa chọn dựa trên nhiều tiêu chí.
-
-- **Criteria Identification**: Xác định các tiêu chí quan trọng để đánh giá.
-- **Weighting**: Gán trọng số cho các tiêu chí dựa trên mức độ quan trọng.
-- **Scoring**: Chấm điểm các lựa chọn trên từng tiêu chí.
-- **Calculation & Ranking**: Tính toán điểm tổng và xếp hạng các lựa chọn.
-
-→ **Liên kết:** OPERATIONS (Decision Frameworks), VALIDATION (Objective Evaluation)
-
-#### **10. Cost-Benefit Analysis** - Phân Tích Chi Phí-Lợi Ích
-
-Một quy trình có hệ thống để tính toán và so sánh chi phí và lợi ích của một quyết định.
-
-- **Identify & Quantify Costs**: Xác định và lượng hóa tất cả các chi phí.
-- **Identify & Quantify Benefits**: Xác định và lượng hóa tất cả các lợi ích.
-- **Comparison & Net Value**: So sánh tổng chi phí và tổng lợi ích để tính toán giá trị ròng.
-- **Decision Rule Application**: Áp dụng một quy tắc quyết định.
-
-→ **Liên kết:** OPERATIONS (Decision Frameworks), VALIDATION (Empirical Validation)
-
-#### **11. Stakeholder Analysis** - Phân Tích Các Bên Liên Quan
-
-Quá trình xác định các cá nhân hoặc nhóm bị ảnh hưởng bởi một dự án và phân loại họ.
-
-- **Stakeholder Identification**: Xác định tất cả các bên liên quan.
-- **Interest & Influence Mapping**: Lập bản đồ các bên liên quan dựa trên mức độ quan tâm và ảnh hưởng.
-- **Engagement Strategy Development**: Phát triển các chiến lược giao tiếp phù hợp.
-- **Conflict & Coalition Prediction**: Dự đoán các xung đột và liên minh tiềm tàng.
-
-→ **Liên kết:** NAVIGATION (Social Navigation), INTEGRATION (Systemic Integration)
-
-#### **12. Process Analysis / Mapping** - Phân Tích / Lập Bản Đồ Quy Trình
-
-Kỹ thuật trực quan hóa một quy trình làm việc để hiểu và cải thiện nó.
-
-- **Workflow Visualization**: Trực quan hóa các bước, các điểm quyết định và các dòng chảy.
-- **Bottleneck Identification**: Xác định các "nút cổ chai" làm chậm toàn bộ quy trình.
-- **Inefficiency Detection**: Phát hiện các bước thừa và các nguồn lãng phí.
-- **Optimization Opportunities**: Tìm kiếm các cơ hội để tinh giản và cải thiện.
-
-→ **Liên kết:** AMPLIFICATION (Flow Optimization), FOUNDATIONS (Systems Thinking)
-
-#### **13. Trend Analysis** - Phân Tích Xu Hướng
-
-Kỹ thuật thu thập và phân tích dữ liệu theo thời gian để xác định các mẫu hình và dự đoán xu hướng.
-
-- **Data Collection Over Time**: Thu thập dữ liệu lịch sử một cách có hệ thống.
-- **Pattern Identification**: Nhận diện các mẫu hình trong dữ liệu.
-- **Extrapolation & Forecasting**: Ngoại suy các mẫu hình để đưa ra dự báo.
-- **Signal vs. Noise Separation**: Phân biệt giữa xu hướng thực sự và biến động ngẫu nhiên.
-
-→ **Liên kết:** NAVIGATION (Scenario Planning), VALIDATION (Signal-Noise Separation)
-
-#### **14. Comparative Analysis** - Phân Tích So Sánh [Công Cụ Ra Quyết Định]
-
-Đánh giá hai hoặc nhiều đối tượng bằng cách so sánh chúng dựa trên các tiêu chí đã xác định để ĐƯA RA QUYẾT ĐỊNH. Đây là CÔNG CỤ PHÂN TÍCH trong giải quyết vấn đề, tập trung vào việc xác định ưu/nhược điểm để lựa chọn phương án tốt nhất.
-
-- **Criteria Definition**: Xác định tiêu chí so sánh - KHUNG ĐỂ QUYẾT ĐỊNH.
-- **Side-by-Side Comparison**: Đối chiếu trực tiếp - HIỂN THỊ SỰ KHÁC BIỆT.
-- **Similarity & Difference Identification**: Tìm điểm chung và riêng - CHO QUYẾT ĐỊNH.
-- **Advantage & Disadvantage Assessment**: Đánh giá ưu/nhược - KẾT QUẢ LÀ LỰA CHỌN.
-
-→ **Liên kết nội bộ:** VALIDATION #12 (Benchmarking - kiểm chứng chất lượng)
-→ **Được nâng lên tầng tổng hợp:** INTEGRATION #13 (Comparative Analysis - để trích xuất nguyên tắc phổ quát, không chỉ để quyết định)
-→ **Liên kết với các công cụ phân tích khác:**
-  • OPERATIONS #25 (Benchmarking - phân tích cạnh tranh)
-  • OPERATIONS #29 (Correlation Analysis - so sánh mối quan hệ)
-  • OPERATIONS #33 (Trade-off Analysis - so sánh đánh đổi)
-
-#### **15. Scenario Analysis** - Phân Tích Kịch Bản
+#### **17. Scenario Analysis** - Phân Tích Kịch Bản
 
 Khám phá các kịch bản tương lai khả thi khác nhau và hậu quả của chúng.
 
@@ -8106,7 +8158,54 @@ Khám phá các kịch bản tương lai khả thi khác nhau và hậu quả c�
 
 → **Liên kết:** NAVIGATION (Strategic Planning), VALIDATION (Risk Assessment, Stress Testing)
 
-#### **16. Sensitivity Analysis** - Phân Tích Độ Nhạy [Công Cụ Giải Quyết Vấn Đề]
+#### **18. Scenario Cross-Impact Analysis** - Phân Tích Tác Động Chéo Kịch Bản
+
+Một phương pháp để phân tích cách các sự kiện hoặc xu hướng khác nhau trong tương lai có thể ảnh hưởng lẫn nhau.
+
+- **Key Factor Identification**: Xác định các yếu tố không chắc chắn quan trọng nhất.
+- **Cross-Impact Matrix**: Tạo một ma trận để đánh giá tác động chéo.
+- **Scenario Clustering**: Nhóm các bộ sự kiện có khả năng xảy ra cùng nhau.
+- **Robustness Testing**: Kiểm tra các chiến lược dựa trên các kịch bản.
+
+→ **Liên kết:** NAVIGATION (Scenario Planning), DYNAMICS (System Dynamics)
+
+#### **19. Second-Order Thinking Analysis** - Phân Tích Tư Duy Bậc Hai
+
+Một QUY TRÌNH CÓ CẤU TRÚC để phân tích các hệ quả tức thời và các hệ quả dây chuyền. Đây là CÔNG CỤ ỨNG DỤNG nguyên lý Second-Order Thinking (FOUNDATIONS #8) vào ra quyết định thực tế.
+
+- **First-Order Consequence Listing**: Liệt kê TẤT CẢ kết quả trực tiếp
+- **"And then what?" Inquiry**: Lặp đi lặp lại để khám phá hệ quả bậc hai, ba
+- **Systemic Effect Mapping**: Lập bản đồ LAN TRUYỀN qua hệ thống theo thời gian
+- **Long-Term vs. Short-Term Trade-off**: Phân tích sự đánh đổi
+
+→ **Liên kết nội bộ:** DYNAMICS (System Dynamics), NAVIGATION (Strategic Wayfinding)
+
+→ **Gốc lý thuyết:** FOUNDATIONS #8 (Second-Order Thinking - nguyên lý phổ quát)
+
+→ **Ứng dụng đạo đức:** Core Values & Ethics (Trách nhiệm với hệ quả)
+
+💡 **PHÂN BIỆT:**
+  • FOUNDATIONS #8 = Nguyên lý "là gì" (phương pháp tư duy)
+  • OPERATIONS #19 = Quy trình "làm thế nào" (công cụ phân tích)
+
+---
+
+### **5. Statistical & Data Analysis - Phân Tích Thống Kê & Dữ Liệu**
+
+Các kỹ thuật phân tích dữ liệu định lượng để tìm mẫu hình và đưa ra quyết định dựa trên bằng chứng.
+
+#### **20. Trend Analysis** - Phân Tích Xu Hướng
+
+Kỹ thuật thu thập và phân tích dữ liệu theo thời gian để xác định các mẫu hình và dự đoán xu hướng.
+
+- **Data Collection Over Time**: Thu thập dữ liệu lịch sử một cách có hệ thống.
+- **Pattern Identification**: Nhận diện các mẫu hình trong dữ liệu.
+- **Extrapolation & Forecasting**: Ngoại suy các mẫu hình để đưa ra dự báo.
+- **Signal vs. Noise Separation**: Phân biệt giữa xu hướng thực sự và biến động ngẫu nhiên.
+
+→ **Liên kết:** NAVIGATION (Scenario Planning), VALIDATION (Signal-Noise Separation)
+
+#### **21. Sensitivity Analysis** - Phân Tích Độ Nhạy [Công Cụ Giải Quyết Vấn Đề]
 
 Kỹ thuật phân tích có hệ thống để hiểu cách kết quả của một mô hình, quyết định, hoặc hệ thống thay đổi khi các giả định và đầu vào thay đổi. Đây là CÔNG CỤ THIẾT YẾU trong giải quyết vấn đề để:
 - Xác định các biến quan trọng nhất (key drivers)
@@ -8134,7 +8233,7 @@ Kỹ thuật phân tích có hệ thống để hiểu cách kết quả của m
 → **Liên kết khác:** VALIDATION #17 (Sensitivity Analysis - phát hiện lỗi & điểm yếu)
 → **Ứng dụng:** NAVIGATION (Scenario Planning), VALIDATION (Stress Testing)
 
-#### **17. Dimensionality Reduction** - Giảm Chiều Dữ Liệu
+#### **22. Dimensionality Reduction** - Giảm Chiều Dữ Liệu
 
 Các kỹ thuật để giảm số lượng biến đang được xem xét, tập trung vào các yếu tố quan trọng nhất.
 
@@ -8145,7 +8244,46 @@ Các kỹ thuật để giảm số lượng biến đang được xem xét, t�
 
 → **Liên kết:** VALIDATION (Signal-Noise Separation), FOUNDATIONS (Essence Extraction)
 
-#### **18. Black Box Analysis** - Phân Tích Hộp Đen
+#### **23. Distribution Analysis** - Phân Tích Phân Phối
+
+Kiểm tra cách dữ liệu được phân phối hoặc trải rộng để hiểu các đặc tính của nó.
+
+- **Central Tendency Measurement**: Đo lường xu hướng trung tâm (trung bình, trung vị).
+- **Dispersion Analysis**: Phân tích độ phân tán (phương sai, độ lệch chuẩn).
+- **Shape Identification**: Xác định hình dạng của phân phối.
+- **Outlier Detection**: Phát hiện các điểm dữ liệu ngoại lai.
+
+→ **Liên kết:** VALIDATION (Statistical Significance), FOUNDATIONS (Probability)
+
+#### **24. Correlation Analysis** - Phân Tích Tương Quan
+
+Đánh giá mối quan hệ thống kê giữa hai hoặc nhiều biến số.
+
+- **Direction of Relationship**: Xác định hướng của mối quan hệ.
+- **Strength of Relationship**: Đo lường độ mạnh của mối quan hệ.
+- **Linearity Check**: Kiểm tra xem mối quan hệ có phải là tuyến tính hay không.
+- **Causation Distinction**: Nhấn mạnh rằng tương quan không có nghĩa là nhân quả.
+
+→ **Liên kết:** OPERATIONS (Causal Reasoning), VALIDATION (Data Triangulation)
+
+---
+
+### **6. System & Process Mapping - Ánh Xạ Hệ Thống & Quy Trình**
+
+Các công cụ trực quan hóa và phân tích hệ thống, quy trình và mối quan hệ.
+
+#### **25. Process Analysis / Mapping** - Phân Tích / Lập Bản Đồ Quy Trình
+
+Kỹ thuật trực quan hóa một quy trình làm việc để hiểu và cải thiện nó.
+
+- **Workflow Visualization**: Trực quan hóa các bước, các điểm quyết định và các dòng chảy.
+- **Bottleneck Identification**: Xác định các "nút cổ chai" làm chậm toàn bộ quy trình.
+- **Inefficiency Detection**: Phát hiện các bước thừa và các nguồn lãng phí.
+- **Optimization Opportunities**: Tìm kiếm các cơ hội để tinh giản và cải thiện.
+
+→ **Liên kết:** AMPLIFICATION (Flow Optimization), FOUNDATIONS (Systems Thinking)
+
+#### **26. Black Box Analysis** - Phân Tích Hộp Đen
 
 Kỹ thuật phân tích một hệ thống bằng cách chỉ xem xét đầu vào và đầu ra, mà không cần biết cấu trúc bên trong.
 
@@ -8156,18 +8294,7 @@ Kỹ thuật phân tích một hệ thống bằng cách chỉ xem xét đầu v
 
 → **Liên kết:** FOUNDATIONS (Systems Thinking), VALIDATION (Empirical Testing)
 
-#### **19. FMEA (Failure Mode and Effects Analysis)** - Phân Tích Hình Thức Lỗi và Tác Động
-
-Một phương pháp có hệ thống để xác định các lỗi tiềm tàng trong một thiết kế, quy trình hoặc sản phẩm.
-
-- **Identify Failure Modes**: Xác định các cách thức mà một hệ thống có thể bị lỗi.
-- **Analyze Effects**: Phân tích các hậu quả của mỗi hình thức lỗi.
-- **Identify Causes**: Xác định các nguyên nhân có thể gây ra mỗi lỗi.
-- **Prioritize Risks (RPN)**: Ưu tiên các rủi ro dựa trên Số Ưu Tiên Rủi Ro.
-
-→ **Liên kết:** VALIDATION (Risk Assessment), DYNAMICS (System Dynamics)
-
-#### **20. Causal Loop Diagrams** - Sơ Đồ Vòng Lặp Nhân Quả
+#### **27. Causal Loop Diagrams** - Sơ Đồ Vòng Lặp Nhân Quả
 
 **CÔNG CỤ TRỰC QUAN** để lập bản đồ các mối quan hệ và các vòng lặp phản hồi trong một hệ thống phức tạp. Biến **khả năng nhận thức** về nhân quả thành **biểu đồ cụ thể** có thể phân tích.
 
@@ -8179,31 +8306,97 @@ Một phương pháp có hệ thống để xác định các lỗi tiềm tàng
 → **Liên kết nội bộ:** FOUNDATIONS (Feedback Loops), DYNAMICS (System Dynamics)
 → **Gốc nguyên lý:** FOUNDATIONS #5 (Causality & Interdependence)
 → **Khả năng nhận thức:** DYNAMICS #48 (Causal Networks - tư duy mạng lưới)
-→ **Phương pháp phân tích:** OPERATIONS #5 (Causal Reasoning - công cụ phân tích)
+→ **Phương pháp phân tích:** OPERATIONS (Causal Reasoning)
 
-#### **21. Argument Deconstruction** - Phân Rã Lập Luận
+#### **28. Value Chain Analysis** - Phân Tích Chuỗi Giá Trị
 
-Quá trình chia nhỏ một lập luận thành các thành phần cấu thành để đánh giá tính hợp lệ.
+Một mô hình phân rã một công ty thành các hoạt động chính và hỗ trợ.
 
-- **Premise Identification**: Xác định các tiền đề hoặc giả định cơ bản của lập luận.
-- **Conclusion Isolation**: Tách biệt kết luận chính mà lập luận đang cố gắng chứng minh.
-- **Logical Fallacy Detection**: Phát hiện các lỗi ngụy biện trong chuỗi suy luận.
-- **Hidden Assumption Uncovering**: Làm lộ ra các giả định ngầm không được nêu rõ.
+- **Primary Activities Analysis**: Phân tích các hoạt động chính tạo ra giá trị.
+- **Support Activities Analysis**: Phân tích các hoạt động hỗ trợ.
+- **Cost & Value Drivers**: Xác định các yếu tố thúc đẩy chi phí và giá trị.
+- **Linkage Optimization**: Tối ưu hóa các mối liên kết giữa các hoạt động.
 
-→ **Liên kết:** OPERATIONS (Reasoning Architectures), VALIDATION (Coherence Check)
+→ **Liên kết:** NAVIGATION (Strategic Positioning), AMPLIFICATION (Leverage)
 
-#### **22. Content Analysis** - Phân Tích Nội Dung
+#### **29. System Interface Analysis** - Phân Tích Giao Diện Hệ Thống
 
-Kỹ thuật nghiên cứu để xác định một cách khách quan sự hiện diện của các từ, khái niệm trong văn bản.
+Phân tích các điểm kết nối và các dòng chảy giữa các hệ thống hoặc các thành phần con.
 
-- **Unit Definition**: Định nghĩa các đơn vị phân tích.
-- **Category Creation**: Tạo ra các danh mục để mã hóa các đơn vị.
-- **Systematic Coding**: Mã hóa nội dung một cách có hệ thống.
-- **Frequency & Pattern Analysis**: Phân tích tần suất và các mẫu hình.
+- **Boundary Definition**: Xác định rõ ràng ranh giới giữa các hệ thống.
+- **Interface Mapping**: Lập bản đồ các điểm giao diện và các giao thức tương tác.
+- **Flow Analysis**: Phân tích các dòng chảy qua các giao diện.
+- **Compatibility & Bottleneck Check**: Kiểm tra tính tương thích và xác định các nút cổ chai.
 
-→ **Liên kết:** VALIDATION (Empirical Validation), INTEGRATION (Knowledge Synthesis)
+→ **Liên kết:** INTEGRATION (Systemic Integration), FOUNDATIONS (Systems Thinking)
 
-#### **23. Benchmarking** - Chuẩn So Sánh [Phân Tích Cạnh Tranh]
+#### **30. Predecessor-Successor Analysis** - Phân Tích Tiền Nhiệm-Kế Nhiệm
+
+Phân tích các mối quan hệ phụ thuộc tuần tự trong một quy trình hoặc dự án.
+
+- **Task Dependency Mapping**: Lập bản đồ sự phụ thuộc giữa các nhiệm vụ.
+- **Critical Path Identification (CPM)**: Xác định chuỗi các nhiệm vụ dài nhất.
+- **Slack/Float Calculation**: Tính toán thời gian trễ cho các nhiệm vụ không nằm trên đường găng.
+- **Scheduling & Optimization**: Sử dụng phân tích để lập lịch và tối ưu hóa tiến độ.
+
+→ **Liên kết:** NAVIGATION (Waypoint System), OPERATIONS (Process Mapping #25)
+
+---
+
+### **7. Decision & Comparative Evaluation - Đánh Giá So Sánh & Ra Quyết Định**
+
+Các công cụ đánh giá, so sánh và lựa chọn giữa các phương án khác nhau.
+
+#### **31. Pareto Analysis (80/20 Rule)** - Phân Tích Pareto
+
+Nguyên tắc rằng 80% kết quả đến từ 20% nguyên nhân, tập trung vào các yếu tố quan trọng nhất.
+
+- **Vital Few vs. Trivial Many**: Phân biệt giữa "số ít quan trọng" và "số đông không quan trọng".
+- **Impact Prioritization**: Ưu tiên dựa trên tác động tiềm năng.
+- **Resource Allocation**: Phân bổ nguồn lực vào các lĩnh vực có tác động cao nhất.
+- **Diminishing Returns**: Nhận biết điểm giảm lợi nhuận biên.
+
+→ **Liên kết:** AMPLIFICATION (Leverage), NAVIGATION (Prioritization)
+
+#### **32. Decision Matrix (Multi-Criteria Decision Analysis)** - Ma Trận Quyết Định
+
+Một công cụ có cấu trúc để đánh giá và so sánh nhiều lựa chọn dựa trên nhiều tiêu chí.
+
+- **Criteria Identification**: Xác định các tiêu chí quan trọng để đánh giá.
+- **Weighting**: Gán trọng số cho các tiêu chí dựa trên mức độ quan trọng.
+- **Scoring**: Chấm điểm các lựa chọn trên từng tiêu chí.
+- **Calculation & Ranking**: Tính toán điểm tổng và xếp hạng các lựa chọn.
+
+→ **Liên kết:** OPERATIONS (Decision Frameworks), VALIDATION (Objective Evaluation)
+
+#### **33. Cost-Benefit Analysis** - Phân Tích Chi Phí-Lợi Ích
+
+Một quy trình có hệ thống để tính toán và so sánh chi phí và lợi ích của một quyết định.
+
+- **Identify & Quantify Costs**: Xác định và lượng hóa tất cả các chi phí.
+- **Identify & Quantify Benefits**: Xác định và lượng hóa tất cả các lợi ích.
+- **Comparison & Net Value**: So sánh tổng chi phí và tổng lợi ích để tính toán giá trị ròng.
+- **Decision Rule Application**: Áp dụng một quy tắc quyết định.
+
+→ **Liên kết:** OPERATIONS (Decision Frameworks), VALIDATION (Empirical Validation)
+
+#### **34. Comparative Analysis** - Phân Tích So Sánh [Công Cụ Ra Quyết Định]
+
+Đánh giá hai hoặc nhiều đối tượng bằng cách so sánh chúng dựa trên các tiêu chí đã xác định để ĐƯA RA QUYẾT ĐỊNH. Đây là CÔNG CỤ PHÂN TÍCH trong giải quyết vấn đề, tập trung vào việc xác định ưu/nhược điểm để lựa chọn phương án tốt nhất.
+
+- **Criteria Definition**: Xác định tiêu chí so sánh - KHUNG ĐỂ QUYẾT ĐỊNH.
+- **Side-by-Side Comparison**: Đối chiếu trực tiếp - HIỂN THỊ SỰ KHÁC BIỆT.
+- **Similarity & Difference Identification**: Tìm điểm chung và riêng - CHO QUYẾT ĐỊNH.
+- **Advantage & Disadvantage Assessment**: Đánh giá ưu/nhược - KẾT QUẢ LÀ LỰA CHỌN.
+
+→ **Liên kết nội bộ:** VALIDATION #12 (Benchmarking - kiểm chứng chất lượng)
+→ **Được nâng lên tầng tổng hợp:** INTEGRATION #13 (Comparative Analysis - để trích xuất nguyên tắc phổ quát, không chỉ để quyết định)
+→ **Liên kết với các công cụ phân tích khác:**
+  • OPERATIONS #35 (Benchmarking - phân tích cạnh tranh)
+  • OPERATIONS #24 (Correlation Analysis - so sánh mối quan hệ)
+  • OPERATIONS #36 (Trade-off Analysis - so sánh đánh đổi)
+
+#### **35. Benchmarking** - Chuẩn So Sánh [Phân Tích Cạnh Tranh]
 
 Công cụ phân tích để SO SÁNH quy trình, sản phẩm, hoặc hiệu suất của mình với các đối thủ hàng đầu hoặc tiêu chuẩn ngành. Đây là về HỌC TẬP từ những người giỏi nhất để CẢI THIỆN hoạt động của mình.
 
@@ -8217,95 +8410,7 @@ Công cụ phân tích để SO SÁNH quy trình, sản phẩm, hoặc hiệu su
 → **Ứng dụng meta:** META #11 (áp dụng cho tự cải thiện nhận thức)
 → **Khác biệt chính:** Tập trung vào SO SÁNH với BÊN NGOÀI để học hỏi
 
-#### **24. Inversion (Analytical Tool)** - Đảo Ngược
-
-Phân tích một vấn đề bằng cách bắt đầu từ kết quả mong muốn và làm việc ngược lại.
-
-- **Goal Definition First**: Xác định rõ ràng mục tiêu hoặc kết quả cuối cùng.
-- **Failure Analysis (Pre-mortem)**: Tưởng tượng sự thất bại và phân tích các nguyên nhân có thể.
-- **Success Factor Identification**: Làm việc ngược lại từ thành công để xác định các yếu tố cần thiết.
-- **Obstacle Avoidance**: Thay vì tìm cách thành công, tránh những con đường dẫn đến thất bại.
-
-→ **Liên kết:** FOUNDATIONS (Via Negativa), CREATION (Reverse Thinking)
-
-#### **25. Checklist Analysis** - Phân Tích Bằng Checklist
-
-Sử dụng một danh sách kiểm tra được chuẩn bị trước để phân tích một tình huống một cách có hệ thống.
-
-- **Critical Point Identification**: Xác định các điểm kiểm tra quan trọng.
-- **Error Prevention**: Ngăn chặn các lỗi do bỏ sót hoặc quên.
-- **Standardized Evaluation**: Cung cấp một phương pháp đánh giá được tiêu chuẩn hóa.
-- **Cognitive Offloading**: Giảm tải nhận thức bằng cách chuyển gánh nặng ghi nhớ ra bên ngoài.
-
-→ **Liên kết:** VALIDATION (Error Correction Mechanisms), OPERATIONS (Process Analysis)
-
-#### **26. Distribution Analysis** - Phân Tích Phân Phối
-
-Kiểm tra cách dữ liệu được phân phối hoặc trải rộng để hiểu các đặc tính của nó.
-
-- **Central Tendency Measurement**: Đo lường xu hướng trung tâm (trung bình, trung vị).
-- **Dispersion Analysis**: Phân tích độ phân tán (phương sai, độ lệch chuẩn).
-- **Shape Identification**: Xác định hình dạng của phân phối.
-- **Outlier Detection**: Phát hiện các điểm dữ liệu ngoại lai.
-
-→ **Liên kết:** VALIDATION (Statistical Significance), FOUNDATIONS (Probability)
-
-#### **27. Correlation Analysis** - Phân Tích Tương Quan
-
-Đánh giá mối quan hệ thống kê giữa hai hoặc nhiều biến số.
-
-- **Direction of Relationship**: Xác định hướng của mối quan hệ.
-- **Strength of Relationship**: Đo lường độ mạnh của mối quan hệ.
-- **Linearity Check**: Kiểm tra xem mối quan hệ có phải là tuyến tính hay không.
-- **Causation Distinction**: Nhấn mạnh rằng tương quan không có nghĩa là nhân quả.
-
-→ **Liên kết:** OPERATIONS (Causal Reasoning), VALIDATION (Data Triangulation)
-
-#### **28. Value Chain Analysis** - Phân Tích Chuỗi Giá Trị
-
-Một mô hình phân rã một công ty thành các hoạt động chính và hỗ trợ.
-
-- **Primary Activities Analysis**: Phân tích các hoạt động chính tạo ra giá trị.
-- **Support Activities Analysis**: Phân tích các hoạt động hỗ trợ.
-- **Cost & Value Drivers**: Xác định các yếu tố thúc đẩy chi phí và giá trị.
-- **Linkage Optimization**: Tối ưu hóa các mối liên kết giữa các hoạt động.
-
-→ **Liên kết:** NAVIGATION (Strategic Positioning), AMPLIFICATION (Leverage)
-
-#### **29. Scenario Cross-Impact Analysis** - Phân Tích Tác Động Chéo Kịch Bản
-
-Một phương pháp để phân tích cách các sự kiện hoặc xu hướng khác nhau trong tương lai có thể ảnh hưởng lẫn nhau.
-
-- **Key Factor Identification**: Xác định các yếu tố không chắc chắn quan trọng nhất.
-- **Cross-Impact Matrix**: Tạo một ma trận để đánh giá tác động chéo.
-- **Scenario Clustering**: Nhóm các bộ sự kiện có khả năng xảy ra cùng nhau.
-- **Robustness Testing**: Kiểm tra các chiến lược dựa trên các kịch bản.
-
-→ **Liên kết:** NAVIGATION (Scenario Planning), DYNAMICS (System Dynamics)
-
-#### **30. System Interface Analysis** - Phân Tích Giao Diện Hệ Thống
-
-Phân tích các điểm kết nối và các dòng chảy giữa các hệ thống hoặc các thành phần con.
-
-- **Boundary Definition**: Xác định rõ ràng ranh giới giữa các hệ thống.
-- **Interface Mapping**: Lập bản đồ các điểm giao diện và các giao thức tương tác.
-- **Flow Analysis**: Phân tích các dòng chảy qua các giao diện.
-- **Compatibility & Bottleneck Check**: Kiểm tra tính tương thích và xác định các nút cổ chai.
-
-→ **Liên kết:** INTEGRATION (Systemic Integration), FOUNDATIONS (Systems Thinking)
-
-#### **31. Cognitive Load Analysis** - Phân Tích Tải Nhận Thức
-
-Đánh giá lượng nỗ lực tinh thần cần thiết cho một nhiệm vụ hoặc hệ thống.
-
-- **Intrinsic Load**: Tải nội tại, độ phức tạp vốn có của tài liệu.
-- **Extraneous Load**: Tải ngoại sinh, tải từ thiết kế hoặc trình bày kém.
-- **Germane Load**: Tải liên quan, tải góp phần vào việc học tập và xây dựng schemas.
-- **Optimization**: Giảm thiểu tải ngoại sinh và tối ưu hóa tải liên quan.
-
-→ **Liên kết:** OPERATIONS (Learning), CREATION (Design)
-
-#### **32. Trade-off Analysis** - Phân Tích Đánh Đổi
+#### **36. Trade-off Analysis** - Phân Tích Đánh Đổi
 
 Công cụ phân tích có hệ thống để đánh giá các lựa chọn khi các mục tiêu cạnh tranh hoặc xung đột với nhau. Đây là công cụ kỹ thuật cốt lõi trong giải quyết vấn đề phức tạp với nhiều ràng buộc, cho phép ra quyết định tối ưu khi không thể tối đa hóa tất cả các chiều cùng lúc.
 
@@ -8322,59 +8427,79 @@ Công cụ phân tích có hệ thống để đánh giá các lựa chọn khi 
 
 _Ghi chú: Đây là công cụ phân tích căn bản. Các domain khác sử dụng công cụ này trong các ngữ cảnh riêng nhưng không cần định nghĩa lại._
 
-#### **33. Inversion for Problem Prevention** - Đảo Ngược để Phòng Ngừa Vấn Đề
+#### **37. Comparison** - So Sánh
 
-Sử dụng nguyên tắc đảo ngược để thiết kế các hệ thống phòng ngừa lỗi.
+Thao tác đánh giá sự tương đồng và khác biệt giữa các đối tượng.
 
-- **Anticipate Failure**: Dự đoán các điểm thất bại tiềm tàng.
-- **Design Fail-Safes**: Thiết kế các cơ chế an toàn chống lỗi.
-- **Pre-mortem Exercises**: Thực hiện bài tập pre-mortem (→ VALIDATION #5).
-- **Solve Backwards**: Giải quyết vấn đề bằng cách làm việc ngược.
+- **Similarity Detection**: Phát hiện các điểm tương đồng.
+- **Difference Identification**: Xác định các điểm khác biệt.
+- **Relative Evaluation**: Đánh giá tương đối thay vì tuyệt đối.
+- **Benchmark Establishment**: Thiết lập tiêu chuẩn so sánh.
 
-→ **Liên kết:** VALIDATION #5 (Pre-mortem Analysis - công cụ kiểm chứng chi tiết), FOUNDATIONS (Via Negativa)
+→ **Liên kết:** OPERATIONS (Comparative Analysis #34), VALIDATION #12 (Benchmarking - kiểm chứng chất lượng)
 
-#### **34. Predecessor-Successor Analysis** - Phân Tích Tiền Nhiệm-Kế Nhiệm
+---
 
-Phân tích các mối quan hệ phụ thuộc tuần tự trong một quy trình hoặc dự án.
+### **8. Context & Critical Thinking - Phân Tích Bối Cảnh & Tư Duy Phản Biện**
 
-- **Task Dependency Mapping**: Lập bản đồ sự phụ thuộc giữa các nhiệm vụ.
-- **Critical Path Identification (CPM)**: Xác định chuỗi các nhiệm vụ dài nhất.
-- **Slack/Float Calculation**: Tính toán thời gian trễ cho các nhiệm vụ không nằm trên đường găng.
-- **Scheduling & Optimization**: Sử dụng phân tích để lập lịch và tối ưu hóa tiến độ.
+Các công cụ phân tích bối cảnh, các bên liên quan và đánh giá phản biện.
 
-→ **Liên kết:** NAVIGATION (Waypoint System), OPERATIONS (Process Mapping)
+#### **38. Stakeholder Analysis** - Phân Tích Các Bên Liên Quan
 
-#### **35. What-You-See-Is-All-There-Is (WYSIATI) Analysis**
+Quá trình xác định các cá nhân hoặc nhóm bị ảnh hưởng bởi một dự án và phân loại họ.
 
-Một công cụ meta để tự phân tích xu hướng của bộ não đưa ra kết luận chỉ dựa trên thông tin có sẵn.
+- **Stakeholder Identification**: Xác định tất cả các bên liên quan.
+- **Interest & Influence Mapping**: Lập bản đồ các bên liên quan dựa trên mức độ quan tâm và ảnh hưởng.
+- **Engagement Strategy Development**: Phát triển các chiến lược giao tiếp phù hợp.
+- **Conflict & Coalition Prediction**: Dự đoán các xung đột và liên minh tiềm tàng.
 
-- **Information Boundary Check**: Kiểm tra xem bạn đang dựa trên tập thông tin giới hạn nào.
-- **Missing Information Inquiry**: Chủ động đặt câu hỏi: "Thông tin nào còn thiếu?".
-- **Alternative Narrative Generation**: Tạo ra các câu chuyện thay thế có thể đúng.
-- **Confidence Calibration**: Hiệu chỉnh lại mức độ tự tin dựa trên thông tin không đầy đủ.
+→ **Liên kết:** NAVIGATION (Social Navigation), INTEGRATION (Systemic Integration)
 
-→ **Liên kết:** META (Thinking about Biases), VALIDATION (Blind Spot Analysis)
+#### **39. Argument Deconstruction** - Phân Rã Lập Luận
 
-#### **36. Second-Order Thinking Analysis** - Phân Tích Tư Duy Bậc Hai
+Quá trình chia nhỏ một lập luận thành các thành phần cấu thành để đánh giá tính hợp lệ.
 
-Một QUY TRÌNH CÓ CẤU TRÚC để phân tích các hệ quả tức thời và các hệ quả dây chuyền. Đây là CÔNG CỤ ỨNG DỤNG nguyên lý Second-Order Thinking (FOUNDATIONS #8) vào ra quyết định thực tế.
+- **Premise Identification**: Xác định các tiền đề hoặc giả định cơ bản của lập luận.
+- **Conclusion Isolation**: Tách biệt kết luận chính mà lập luận đang cố gắng chứng minh.
+- **Logical Fallacy Detection**: Phát hiện các lỗi ngụy biện trong chuỗi suy luận.
+- **Hidden Assumption Uncovering**: Làm lộ ra các giả định ngầm không được nêu rõ.
 
-- **First-Order Consequence Listing**: Liệt kê TẤT CẢ kết quả trực tiếp
-- **"And then what?" Inquiry**: Lặp đi lặp lại để khám phá hệ quả bậc hai, ba
-- **Systemic Effect Mapping**: Lập bản đồ LAN TRUYỀN qua hệ thống theo thời gian
-- **Long-Term vs. Short-Term Trade-off**: Phân tích sự đánh đổi
+→ **Liên kết:** OPERATIONS (Reasoning Architectures), VALIDATION (Coherence Check)
 
-→ **Liên kết nội bộ:** DYNAMICS (System Dynamics), NAVIGATION (Strategic Wayfinding)
+#### **40. Content Analysis** - Phân Tích Nội Dung
 
-→ **Gốc lý thuyết:** FOUNDATIONS #8 (Second-Order Thinking - nguyên lý phổ quát)
+Kỹ thuật nghiên cứu để xác định một cách khách quan sự hiện diện của các từ, khái niệm trong văn bản.
 
-→ **Ứng dụng đạo đức:** Core Values & Ethics (Trách nhiệm với hệ quả)
+- **Unit Definition**: Định nghĩa các đơn vị phân tích.
+- **Category Creation**: Tạo ra các danh mục để mã hóa các đơn vị.
+- **Systematic Coding**: Mã hóa nội dung một cách có hệ thống.
+- **Frequency & Pattern Analysis**: Phân tích tần suất và các mẫu hình.
 
-💡 **PHÂN BIỆT:**
-  • FOUNDATIONS #8 = Nguyên lý "là gì" (phương pháp tư duy)
-  • OPERATIONS #37 = Quy trình "làm thế nào" (công cụ phân tích)
+→ **Liên kết:** VALIDATION (Empirical Validation), INTEGRATION (Knowledge Synthesis)
 
-#### **37. Devil's Advocate** → **XEM VALIDATION #6**
+#### **41. Checklist Analysis** - Phân Tích Bằng Checklist
+
+Sử dụng một danh sách kiểm tra được chuẩn bị trước để phân tích một tình huống một cách có hệ thống.
+
+- **Critical Point Identification**: Xác định các điểm kiểm tra quan trọng.
+- **Error Prevention**: Ngăn chặn các lỗi do bỏ sót hoặc quên.
+- **Standardized Evaluation**: Cung cấp một phương pháp đánh giá được tiêu chuẩn hóa.
+- **Cognitive Offloading**: Giảm tải nhận thức bằng cách chuyển gánh nặng ghi nhớ ra bên ngoài.
+
+→ **Liên kết:** VALIDATION (Error Correction Mechanisms), OPERATIONS (Process Analysis #25)
+
+#### **42. Cognitive Load Analysis** - Phân Tích Tải Nhận Thức
+
+Đánh giá lượng nỗ lực tinh thần cần thiết cho một nhiệm vụ hoặc hệ thống.
+
+- **Intrinsic Load**: Tải nội tại, độ phức tạp vốn có của tài liệu.
+- **Extraneous Load**: Tải ngoại sinh, tải từ thiết kế hoặc trình bày kém.
+- **Germane Load**: Tải liên quan, tải góp phần vào việc học tập và xây dựng schemas.
+- **Optimization**: Giảm thiểu tải ngoại sinh và tối ưu hóa tải liên quan.
+
+→ **Liên kết:** OPERATIONS (Learning), CREATION (Design)
+
+#### **43. Devil's Advocate** → **XEM VALIDATION #6**
 
 Phương pháp phản biện có cấu trúc - chi tiết đầy đủ tại:
 → **VALIDATION - Error Detection & Correction - Khái niệm #6**
@@ -8389,20 +8514,13 @@ Trong ngữ cảnh OPERATIONS, Devil's Advocate được sử dụng như:
 - Phân tích vấn đề → cần góc nhìn đối lập
 - Đánh giá ý tưởng → cần stress-test lập luận
 
-#### **38. The Master Analytical Tool: Clarity** - Công Cụ Phân Tích Bậc Thầy: Sự Rõ Ràng
+---
 
-Coi chính sự rõ ràng là công cụ và mục tiêu cuối cùng của mọi phân tích.
+### **9. Structural & Set Operations - Thao Tác Cấu Trúc & Tập Hợp**
 
-- **Ambiguity Reduction**: Giảm thiểu sự mơ hồ và không rõ ràng.
-- **Precision Enhancement**: Tăng cường độ chính xác và cụ thể.
-- **Essence Illumination**: Soi sáng bản chất cốt lõi của vấn đề.
-- **Foundation for Action**: Tạo ra một nền tảng rõ ràng và vững chắc để suy luận và ra quyết định.
+Các thao tác cơ bản để kết nối, phân tách và biến đổi cấu trúc thông tin.
 
-→ **Liên kết:** Tích hợp tất cả các công cụ trong STRUCTURED PROBLEM-SOLVING
-
-### **Các Mục Bổ Sung**
-
-#### **39. Connection** - Kết Nối
+#### **44. Connection** - Kết Nối
 
 Thao tác tạo ra hoặc nhận diện các mối liên hệ giữa các yếu tố.
 
@@ -8413,7 +8531,7 @@ Thao tác tạo ra hoặc nhận diện các mối liên hệ giữa các yếu 
 
 → **Liên kết:** INTEGRATION (Connection Building), AMPLIFICATION (Network Effects)
 
-#### **40. Separation** - Phân Tách
+#### **45. Separation** - Phân Tách
 
 Thao tác tách biệt hoặc phân biệt các yếu tố để phân tích rõ ràng hơn.
 
@@ -8422,20 +8540,9 @@ Thao tác tách biệt hoặc phân biệt các yếu tố để phân tích rõ
 - **Distinction Making**: Tạo ra sự phân biệt rõ ràng.
 - **Decoupling**: Tách rời các yếu tố phụ thuộc lẫn nhau.
 
-→ **Liên kết:** OPERATIONS (Decomposition), VALIDATION (Controlled Testing)
+→ **Liên kết:** OPERATIONS (Decomposition #7), VALIDATION (Controlled Testing)
 
-#### **41. Comparison** - So Sánh
-
-Thao tác đánh giá sự tương đồng và khác biệt giữa các đối tượng.
-
-- **Similarity Detection**: Phát hiện các điểm tương đồng.
-- **Difference Identification**: Xác định các điểm khác biệt.
-- **Relative Evaluation**: Đánh giá tương đối thay vì tuyệt đối.
-- **Benchmark Establishment**: Thiết lập tiêu chuẩn so sánh.
-
-→ **Liên kết:** OPERATIONS (Comparative Analysis), VALIDATION #12 (Benchmarking - kiểm chứng chất lượng)
-
-#### **42. Transformation** - Chuyển Đổi
+#### **46. Transformation** - Chuyển Đổi
 
 Thao tác thay đổi hình thức, cấu trúc hoặc bản chất của một yếu tố.
 
@@ -8446,7 +8553,79 @@ Thao tác thay đổi hình thức, cấu trúc hoặc bản chất của một 
 
 → **Liên kết:** DYNAMICS (Transformation Dynamics), CREATION (Innovation)
 
-#### **43. Replication - Sao Chép [Thao Tác Giải Quyết Vấn Đề]**
+#### **47. Addition** - Cộng Thêm
+
+Phương pháp kết hợp bằng cách cộng thêm các yếu tố.
+
+- **Incremental Growth**: Tăng trưởng từng bước một.
+- **Accumulation**: Tích lũy các yếu tố theo thời gian.
+- **Aggregation**: Tổng hợp nhiều đơn vị thành một tổng thể.
+- **Additive Composition**: Sáng tác bằng cách cộng thêm các phần.
+
+→ **Liên kết:** AMPLIFICATION (Growth), CREATION (Composition)
+
+#### **48. Multiplication** - Nhân Lên
+
+Phương pháp kết hợp tạo ra sự khuếch đại phi tuyến tính.
+
+- **Exponential Growth**: Tăng trưởng theo cấp số nhân.
+- **Synergistic Combination**: Kết hợp tạo ra hiệu ứng cộng hưởng.
+- **Amplification**: Khuếch đại tác động thông qua tương tác.
+- **Network Effects**: Hiệu ứng mạng lưới tăng giá trị theo bình phương.
+
+→ **Liên kết:** AMPLIFICATION (Exponential Growth), FOUNDATIONS (Compound Effects)
+
+#### **49. Intersection** - Giao Thoa
+
+Phương pháp tìm ra các yếu tố chung hoặc khu vực chồng lấp.
+
+- **Common Ground Finding**: Tìm điểm chung giữa các tập hợp.
+- **Overlap Analysis**: Phân tích các khu vực chồng lấp.
+- **Shared Elements**: Xác định các yếu tố được chia sẻ.
+- **Cross-Domain Convergence**: Sự hội tụ từ nhiều lĩnh vực.
+
+→ **Liên kết:** INTEGRATION (Synthesis), OPERATIONS (Set Theory)
+
+#### **50. Union** - Hợp Nhất
+
+Phương pháp kết hợp tất cả các yếu tố từ nhiều nguồn.
+
+- **Comprehensive Integration**: Tích hợp toàn diện tất cả các phần.
+- **Merging**: Sáp nhập các thực thể riêng biệt.
+- **Inclusive Combination**: Kết hợp bao trùm, không loại trừ.
+- **Holistic Assembly**: Lắp ráp toàn diện.
+
+→ **Liên kết:** INTEGRATION (Holistic Thinking), OPERATIONS (Set Theory)
+
+#### **51. Mapping** - Ánh Xạ
+
+Phương pháp thiết lập tương ứng giữa các yếu tố của hai miền.
+
+- **Correspondence Establishment**: Thiết lập sự tương ứng giữa các yếu tố.
+- **Transfer Function**: Hàm chuyển giao từ miền này sang miền khác.
+- **Homomorphism**: Ánh xạ bảo toàn cấu trúc.
+- **Isomorphism**: Ánh xạ một-một bảo toàn cả cấu trúc và quan hệ.
+
+→ **Liên kết:** OPERATIONS (Analogical Reasoning), FOUNDATIONS (Structure Preservation)
+
+#### **52. Rotation** - Xoay Chuyển
+
+Phương pháp thay đổi góc nhìn hoặc khung tham chiếu.
+
+- **Perspective Shift**: Thay đổi góc nhìn để thấy các khía cạnh mới.
+- **Frame Rotation**: Xoay khung tham chiếu.
+- **Dimensional Reorientation**: Định hướng lại theo các chiều khác nhau.
+- **Viewpoint Change**: Thay đổi điểm nhìn.
+
+→ **Liên kết:** CREATION (Reframing), META (Perspective Taking)
+
+---
+
+### **10. Mental Tools & Knowledge Organization - Công Cụ Tư Duy & Tổ Chức Tri Thức**
+
+Các công cụ tổ chức tri thức, xây dựng khung và suy luận khám phá.
+
+#### **53. Replication** - Sao Chép [Thao Tác Giải Quyết Vấn Đề]
 
 Thao tác kỹ thuật để tạo ra các bản sao hoặc nhân rộng các mẫu hình THÀNH CÔNG đã được xác minh. Đây là CÔNG CỤ trong giải quyết vấn đề có cấu trúc - nhận diện những gì hiệu quả rồi áp dụng lại nhiều lần.
 
@@ -8460,73 +8639,7 @@ Thao tác kỹ thuật để tạo ra các bản sao hoặc nhân rộng các m�
 → **Nền tảng lý thuyết:** AMPLIFICATION #6 (Standardization & Replication)
 → **Ứng dụng:** VALIDATION (Proof of Concept - chứng minh trước khi nhân rộng)
 
-#### **44. Addition** - Cộng Thêm
-
-Phương pháp kết hợp bằng cách cộng thêm các yếu tố.
-
-- **Incremental Growth**: Tăng trưởng từng bước một.
-- **Accumulation**: Tích lũy các yếu tố theo thời gian.
-- **Aggregation**: Tổng hợp nhiều đơn vị thành một tổng thể.
-- **Additive Composition**: Sáng tác bằng cách cộng thêm các phần.
-
-→ **Liên kết:** AMPLIFICATION (Growth), CREATION (Composition)
-
-#### **45. Multiplication** - Nhân Lên
-
-Phương pháp kết hợp tạo ra sự khuếch đại phi tuyến tính.
-
-- **Exponential Growth**: Tăng trưởng theo cấp số nhân.
-- **Synergistic Combination**: Kết hợp tạo ra hiệu ứng cộng hưởng.
-- **Amplification**: Khuếch đại tác động thông qua tương tác.
-- **Network Effects**: Hiệu ứng mạng lưới tăng giá trị theo bình phương.
-
-→ **Liên kết:** AMPLIFICATION (Exponential Growth), FOUNDATIONS (Compound Effects)
-
-#### **46. Intersection** - Giao Thoa
-
-Phương pháp tìm ra các yếu tố chung hoặc khu vực chồng lấp.
-
-- **Common Ground Finding**: Tìm điểm chung giữa các tập hợp.
-- **Overlap Analysis**: Phân tích các khu vực chồng lấp.
-- **Shared Elements**: Xác định các yếu tố được chia sẻ.
-- **Cross-Domain Convergence**: Sự hội tụ từ nhiều lĩnh vực.
-
-→ **Liên kết:** INTEGRATION (Synthesis), OPERATIONS (Set Theory)
-
-#### **47. Union** - Hợp Nhất
-
-Phương pháp kết hợp tất cả các yếu tố từ nhiều nguồn.
-
-- **Comprehensive Integration**: Tích hợp toàn diện tất cả các phần.
-- **Merging**: Sáp nhập các thực thể riêng biệt.
-- **Inclusive Combination**: Kết hợp bao trùm, không loại trừ.
-- **Holistic Assembly**: Lắp ráp toàn diện.
-
-→ **Liên kết:** INTEGRATION (Holistic Thinking), OPERATIONS (Set Theory)
-
-#### **48. Mapping** - Ánh Xạ
-
-Phương pháp thiết lập tương ứng giữa các yếu tố của hai miền.
-
-- **Correspondence Establishment**: Thiết lập sự tương ứng giữa các yếu tố.
-- **Transfer Function**: Hàm chuyển giao từ miền này sang miền khác.
-- **Homomorphism**: Ánh xạ bảo toàn cấu trúc.
-- **Isomorphism**: Ánh xạ một-một bảo toàn cả cấu trúc và quan hệ.
-
-→ **Liên kết:** OPERATIONS (Analogical Reasoning), FOUNDATIONS (Structure Preservation)
-
-#### **49. Rotation** - Xoay Chuyển
-
-Phương pháp thay đổi góc nhìn hoặc khung tham chiếu.
-
-- **Perspective Shift**: Thay đổi góc nhìn để thấy các khía cạnh mới.
-- **Frame Rotation**: Xoay khung tham chiếu.
-- **Dimensional Reorientation**: Định hướng lại theo các chiều khác nhau.
-- **Viewpoint Change**: Thay đổi điểm nhìn.
-
-→ **Liên kết:** CREATION (Reframing), META (Perspective Taking)
-
-#### **50. Oscillation** - Dao Động [Phương Pháp Tư Duy]
+#### **54. Oscillation** - Dao Động [Phương Pháp Tư Duy]
 
 Phương pháp TƯ DUY xen kẽ hoặc chuyển đổi giữa các trạng thái, phương pháp hoặc góc nhìn khác nhau trong giải quyết vấn đề. Khác với dao động VẬT LÝ ở DYNAMICS, đây là KỸ THUẬT NHẬN THỨC - chủ động sử dụng chuyển động biện chứng để đạt hiểu biết sâu hơn.
 
@@ -8537,16 +8650,12 @@ Phương pháp TƯ DUY xen kẽ hoặc chuyển đổi giữa các trạng thái
 - **Dialectical Movement**: Chuyển động biện chứng giữa các đối cực
 
 → **Liên kết:** OPERATIONS (Analysis ↔ Synthesis, System 1 ↔ System 2)
-
 → **Gốc nguyên lý:** DYNAMICS #27 (Oscillation - mẫu hình vật lý của dao động)
-
 → **Ứng dụng nâng cao:** [META] LAYER (Meta-Cognitive Flexibility Awareness)
 
-#### **51. Mental Models - Mô Hình Tinh Thần [Công Cụ Giải Quyết Vấn Đề]**
+#### **55. Mental Models** - Mô Hình Tinh Thần [Công Cụ Giải Quyết Vấn Đề]
 
-Các biểu diễn nội tâm được SỬ DỤNG như CÔNG CỤ để phân tích, suy luận
-và giải quyết vấn đề. Khác với lý thuyết ở FOUNDATIONS và tính linh hoạt
-ở DYNAMICS, đây là về THỰC HÀNH - áp dụng mô hình vào công việc cụ thể.
+Các biểu diễn nội tâm được SỬ DỤNG như CÔNG CỤ để phân tích, suy luận và giải quyết vấn đề. Khác với lý thuyết ở FOUNDATIONS và tính linh hoạt ở DYNAMICS, đây là về THỰC HÀNH - áp dụng mô hình vào công việc cụ thể.
 
 • **Cognitive Representations**: Biểu diễn THỰC HÀNH để làm việc
 • **Predictive Frameworks**: Khung DỰ ĐOÁN để hỗ trợ quyết định
@@ -8559,7 +8668,7 @@ và giải quyết vấn đề. Khác với lý thuyết ở FOUNDATIONS và tí
 → **Khuếch đại ảnh hưởng:** AMPLIFICATION #15 (nhân rộng hiệu quả)
 → **Ý nghĩa:** Tập trung vào CÔNG CỤ ỨNG DỤNG và SỬ DỤNG THỰC TẾ
 
-#### **52. Framework Synthesis** - Tổng Hợp Khung
+#### **56. Framework Synthesis** - Tổng Hợp Khung
 
 Quá trình tạo ra các khung mới bằng cách kết hợp các khung hiện có.
 
@@ -8570,7 +8679,7 @@ Quá trình tạo ra các khung mới bằng cách kết hợp các khung hiện
 
 → **Liên kết:** INTEGRATION (Synthesis), META (Meta-Frameworks)
 
-#### **53. Schema Construction** - Xây Dựng Schema
+#### **57. Schema Construction** - Xây Dựng Schema
 
 Quá trình tổ chức tri thức thành các cấu trúc có ý nghĩa.
 
@@ -8581,7 +8690,7 @@ Quá trình tổ chức tri thức thành các cấu trúc có ý nghĩa.
 
 → **Liên kết:** OPERATIONS (Knowledge Organization), INTEGRATION (Structure Building)
 
-#### **54. Taxonomy Development** - Phát Triển Phân Loại
+#### **58. Taxonomy Development** - Phát Triển Phân Loại
 
 Tạo ra các hệ thống phân loại và phân cấp.
 
@@ -8592,7 +8701,7 @@ Tạo ra các hệ thống phân loại và phân cấp.
 
 → **Liên kết:** FOUNDATIONS (Category Theory), OPERATIONS (Classification)
 
-#### **55. Search-Based Reasoning** - Suy Luận Dựa Trên Tìm Kiếm
+#### **59. Search-Based Reasoning** - Suy Luận Dựa Trên Tìm Kiếm
 
 Phương pháp giải quyết vấn đề bằng cách khám phá không gian giải pháp.
 
@@ -8602,61 +8711,6 @@ Phương pháp giải quyết vấn đề bằng cách khám phá không gian gi
 - **Optimization Through Search**: Tối ưu hóa thông qua tìm kiếm.
 
 → **Liên kết:** OPERATIONS (Problem-Solving), CREATION (Exploration)
-
-#### **56. Newton's Flaming Laser Sword** - Kiếm Laser Rực Lửa của Newton
-
-Nguyên tắc rằng những gì không thể giải quyết bằng thí nghiệm không đáng để tranh luận.
-
-- **Empirical Testability**: Khả năng kiểm tra bằng thực nghiệm.
-- **Scientific Demarcation**: Phân định giữa khoa học và phi khoa học.
-- **Practical Focus**: Tập trung vào những gì có thể kiểm chứng.
-- **Metaphysical Rejection**: Từ chối các lập luận siêu hình không thể kiểm tra.
-
-→ **Liên kết:** VALIDATION (Empirical Testing), OPERATIONS (Scientific Method)
-
-#### **57. Grice's Razor** - Dao Cạo Grice [Nguyên Tắc Hợp Tác]
-
-Nguyên tắc trong DIỄN GIẢI giao tiếp: ưu tiên hiểu theo nghĩa đơn giản, trực tiếp; giả định người nói đang hợp tác và có ý định truyền đạt ý nghĩa rõ ràng. Đừng quy cho ý định phức tạp những gì có thể giải thích đơn giản.
-
-**Grice's Cooperative Principle (Nguyên Tắc Hợp Tác):**
-
-• **Communicative Simplicity**: Ưu tiên nghĩa đen, trực tiếp
-• **Literal Interpretation First**: Diễn giải theo nghĩa đen trước
-• **Cooperative Principle**: Giả định người nói đang hợp tác
-• **Conversational Implicature**: Hiểu ngụ ý mà không phức tạp hóa
-
-**Grice's Maxims (Các Châm Ngôn Hội Thoại):**
-1. **Quality**: Nói thật, có bằng chứng
-2. **Quantity**: Đủ thông tin, không thừa
-3. **Relation**: Liên quan đến chủ đề
-4. **Manner**: Rõ ràng, ngắn gọn, có trật tự
-
-→ **Liên kết nội bộ:** INTEGRATION (Communication), VALIDATION (Interpretation)
-→ **Gia đình Razors:** Occam's Razor #47, Hanlon's Razor #46, Hitchens's Razor #24, Newton's Flaming Laser Sword #58, Morgan's Canon #60, Einstein's Razor #61
-→ **Gốc lý thuyết:** Triết học ngôn ngữ (Paul Grice, 1975)
-→ **Ứng dụng:** Giao tiếp hàng ngày, đàm phán, phân tích văn bản, giải quyết hiểu lầm
-
-#### **58. Morgan's Canon** - Quy Tắc của Morgan
-
-Nguyên tắc trong tâm lý học so sánh: không nên diễn giải hành vi động vật ở mức nhận thức cao hơn nếu có thể giải thích ở mức thấp hơn.
-
-- **Parsimony in Psychology**: Tiết kiệm trong giải thích tâm lý.
-- **Behavioral Simplicity**: Ưu tiên giải thích hành vi đơn giản.
-- **Anthropomorphism Avoidance**: Tránh nhân cách hóa động vật.
-- **Graded Cognition**: Hiểu nhận thức theo các mức độ.
-
-→ **Liên kết:** OPERATIONS (Parsimony Principle), FOUNDATIONS (Evolutionary Thinking)
-
-#### **59. Einstein's Razor** - Dao Cạo của Einstein
-
-Nguyên tắc: "Mọi thứ nên được làm đơn giản nhất có thể, nhưng không đơn giản hơn".
-
-- **Optimal Simplicity**: Đơn giản hóa tối ưu, không quá mức.
-- **Sufficient Complexity**: Duy trì độ phức tạp cần thiết để giải thích.
-- **Balance Principle**: Cân bằng giữa đơn giản và đầy đủ.
-- **Necessary Detail**: Giữ lại chi tiết cần thiết.
-
-→ **Liên kết:** OPERATIONS (Occam's Razor), FOUNDATIONS (Essence vs. Detail)
 
 ---
 
