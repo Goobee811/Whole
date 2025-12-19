@@ -10497,7 +10497,7 @@ _Miền này tập hợp các công cụ, phương pháp và động lực để
 
 Khả năng tạo sinh ý tưởng thông qua các phương pháp tư duy không truyền thống, phá vỡ các khuôn mẫu và khám phá không gian khả năng rộng lớn. Đây là nền tảng của quá trình sáng tạo - giai đoạn sinh ra nhiều lựa chọn trước khi thu hẹp.
 
-### **Các Phương Pháp Cốt Lõi (40 mục)**
+### **1. Core Lateral & Disruptive Methods - Phương Pháp Tư Duy Ngang & Phá Vỡ Cốt Lõi**
 
 #### **1. Lateral Thinking** - Tư Duy Ngang
 
@@ -10510,7 +10510,58 @@ Một tập hợp các kỹ thuật tư duy để tiếp cận vấn đề từ 
 
 → **Liên kết:** OPERATIONS (là phương pháp thay thế cho suy luận logic), DYNAMICS (kích hoạt tư duy phân kỳ)
 
-#### **2. SCAMPER - Phương Pháp SCAMPER**
+#### **2. Random Stimulation** - Kích Thích Ngẫu Nhiên
+
+Sử dụng các yếu tố ngẫu nhiên để phá vỡ các khuôn mẫu tư duy và tạo ra các liên kết không mong đợi.
+
+- **Random Word Technique**: Chọn một từ ngẫu nhiên và ép buộc tạo liên kết với vấn đề
+- **Random Image/Object**: Sử dụng hình ảnh hoặc đối tượng ngẫu nhiên làm điểm khởi đầu
+- **Pattern Interruption**: Phá vỡ các mẫu hình tư duy quen thuộc
+- **Unexpected Associations**: Khai thác các liên kết bất ngờ nảy sinh
+
+→ **Liên kết:** CREATION (Lateral Thinking), DYNAMICS (Chaos as Creative Force)
+
+#### **3. Provocation** - Khiêu Khích
+
+Sử dụng các tuyên bố khiêu khích hoặc phi lý để phá vỡ các khuôn mẫu tư duy.
+
+- **Provocative Statement**: Đưa ra các tuyên bố cố ý vi phạm logic hoặc thực tế
+- **Pattern Disruption**: Phá vỡ các mẫu hình tư duy tự động
+- **Movement from Provocation**: "Di chuyển" từ khiêu khích để tạo ý tưởng thực tế
+- **Creative Tension**: Tạo ra căng thẳng sáng tạo để kích thích tư duy
+
+→ **Liên kết:** CREATION (Lateral Thinking), DYNAMICS (Chaos as Resource)
+
+#### **4. Pattern Breaking - Phá Vỡ Mẫu Hình** [Cấp Độ Cá Nhân]
+
+Hành động có chủ đích phá vỡ các thói quen và quy trình tư duy cá nhân để kích thích các kết nối thần kinh mới và mở ra không gian sáng tạo. Đây là công cụ SÁNG TẠO ở cấp độ vi mô - làm việc với bộ não và tâm trí cá nhân.
+
+- **Routine Disruption**: Thay đổi các thói quen hàng ngày - ăn khác, đi đường khác, làm việc khác giờ
+- **Expectation Violation**: Vi phạm kỳ vọng của bản thân - làm điều "không đúng tính" để wake up não bộ
+- **Shifting Perspectives**: Thay đổi góc nhìn có hệ thống - nhìn vấn đề từ 10 góc độ khác nhau
+- **Novelty Injection**: Tiêm sự mới lạ vào hệ thống - trải nghiệm mới → kết nối mới → ý tưởng mới
+
+→ **Liên kết nội bộ:** DYNAMICS (Transformation Dynamics), META (Cognitive Agility)
+→ **Ứng dụng:** Lateral Thinking, Ideation, Personal Creativity
+→ **Quy mô:** CÁ NHÂN - thói quen, tư duy, hành vi
+→ **Xuất hiện ở domain khác:**
+  • INTEGRATION #39 (phá vỡ ở cấp độ hệ thống và paradigm)
+  • Sự khác biệt: CREATION tập trung vào CÁ NHÂN để kích thích sáng tạo, INTEGRATION tập trung vào HỆ THỐNG để tạo chuyển đổi mô thức
+
+#### **5. Provocative Operations** - Các Thao Tác Khiêu Khích
+
+Sử dụng các tuyên bố và hành động khiêu khích để phá vỡ tư duy thông thường.
+
+- **Disruption as Method**: Sự gián đoạn như một phương pháp có chủ đích
+- **Challenge Injection**: Tiêm thách thức vào quy trình tư duy
+- **Sacred Cow Questioning**: Đặt câu hỏi về những điều được cho là bất khả xâm phạm
+- **Constructive Provocation**: Khiêu khích mang tính xây dựng
+
+→ **Liên kết:** CREATION (Lateral Thinking), DYNAMICS (Disruption)
+
+### **2. Structured Creative Frameworks - Khung Sáng Tạo Có Cấu Trúc**
+
+#### **6. SCAMPER - Phương Pháp SCAMPER**
 
 Bộ câu hỏi gợi ý 7 chiều hướng để kích thích tư duy sáng tạo về cách cải tiến sản phẩm/ý tưởng hiện có.
 
@@ -10525,40 +10576,7 @@ Bộ câu hỏi gợi ý 7 chiều hướng để kích thích tư duy sáng t�
 → **Liên kết:** OPERATIONS (Phân tích có cấu trúc), INTEGRATION (Khuyến khích kết hợp)
 → **Xem thêm chi tiết:** CREATION - CHỨC NĂNG 5 (Design Thinking) - Khái niệm #2
 
-#### **3. Bisociation** - Kết Hợp Xa Lạ
-
-Hành động kết nối các ma trận hoặc các lĩnh vực tư duy vốn không liên quan với nhau để tạo ra một sự tổng hợp sáng tạo mới.
-
-- **Matrix Blending**: Pha trộn các "ma trận" (khung tư duy, lĩnh vực) khác nhau
-- **Conceptual Blending**: Tạo ra một không gian pha trộn mới từ các không gian đầu vào
-- **Creative Leap**: Tạo ra một bước nhảy vọt về nhận thức bằng cách kết nối những thứ không ngờ tới
-- **Humor & Art Principle**: Là cơ sở của sự hài hước và nhiều hình thức nghệ thuật
-
-→ **Liên kết:** DYNAMICS (tư duy phi tuyến), INTEGRATION (tổng hợp cấp cao)
-
-#### **4. Mind Mapping** - Sơ Đồ Tư Duy
-
-Một kỹ thuật trực quan để khám phá và cấu trúc các ý tưởng xung quanh một chủ đề trung tâm một cách phi tuyến tính.
-
-- **Radiant Thinking**: Tư duy tỏa tròn từ một khái niệm trung tâm
-- **Associative Links**: Sử dụng các đường cong và từ khóa để thể hiện các liên kết liên tưởng
-- **Visual Elements**: Tích hợp màu sắc, hình ảnh và biểu tượng để tăng cường trí nhớ và sự sáng tạo
-- **Hierarchical & Network Structure**: Thể hiện cấu trúc phân cấp và mạng lưới của thông tin một cách tự nhiên
-
-→ **Liên kết:** FOUNDATIONS (là một mô hình tư duy), INTEGRATION (giúp tổng hợp thông tin)
-
-#### **5. Brainstorming & Brainwriting - Động Não & Viết Não**
-
-Các kỹ thuật nhóm để tạo ra một lượng lớn ý tưởng trong một khoảng thời gian ngắn mà không có sự phán xét.
-
-- **Defer Judgment**: Tạm hoãn mọi sự phán xét hoặc phê bình đối với các ý tưởng được đưa ra
-- **Encourage Wild Ideas**: Khuyến khích các ý tưởng điên rồ, khác thường để mở rộng không gian khả năng
-- **Build on Ideas (Hitchhiking)**: Xây dựng và phát triển dựa trên ý tưởng của người khác
-- **Quantity over Quality (Initially)**: Ưu tiên số lượng trong giai đoạn đầu để tăng xác suất có ý tưởng đột phá
-
-→ **Liên kết:** AMPLIFICATION (Synergy), DYNAMICS (Divergent Thinking)
-
-#### **6. Six Thinking Hats** - Sáu Chiếc Mũ Tư Duy
+#### **7. Six Thinking Hats** - Sáu Chiếc Mũ Tư Duy
 
 Một phương pháp cấu trúc để nhóm xem xét một vấn đề từ sáu góc độ khác nhau, thay vì nghĩ tự do.
 
@@ -10571,18 +10589,111 @@ Một phương pháp cấu trúc để nhóm xem xét một vấn đề từ sá
 
 → **Liên kết:** [META] LAYER (Structured Meta-Thinking), OPERATIONS (Systematic Analysis)
 
-#### **7. Random Stimulation** - Kích Thích Ngẫu Nhiên
+#### **8. Attribute Listing** - Liệt Kê Thuộc Tính
 
-Sử dụng các yếu tố ngẫu nhiên để phá vỡ các khuôn mẫu tư duy và tạo ra các liên kết không mong đợi.
+Phân tích một đối tượng hoặc vấn đề thành các thuộc tính của nó và tìm cách cải tiến từng thuộc tính.
 
-- **Random Word Technique**: Chọn một từ ngẫu nhiên và ép buộc tạo liên kết với vấn đề
-- **Random Image/Object**: Sử dụng hình ảnh hoặc đối tượng ngẫu nhiên làm điểm khởi đầu
-- **Pattern Interruption**: Phá vỡ các mẫu hình tư duy quen thuộc
-- **Unexpected Associations**: Khai thác các liên kết bất ngờ nảy sinh
+- **Component Decomposition**: Phân rã đối tượng/vấn đề thành các phần cấu thành cơ bản
+- **Attribute Variation**: Brainstorm các biến thể và lựa chọn thay thế cho mỗi thuộc tính
+- **Systematic Exploration**: Cung cấp một cách tiếp cận có hệ thống để đảm bảo mọi khía cạnh đều được xem xét
+- **Incremental Innovation**: Thường dẫn đến các cải tiến tiệm tiến và tối ưu hóa
 
-→ **Liên kết:** CREATION (Lateral Thinking), DYNAMICS (Chaos as Creative Force)
+→ **Liên kết:** OPERATIONS (Decomposition), DYNAMICS (Iterative Refinement)
 
-#### **8. Conceptual Blending** - Pha Trộn Khái Niệm [Kỹ Thuật Sáng Tạo]
+#### **9. Morphological Analysis** - Phân Tích Hình Thái
+
+Một phiên bản nâng cao của Liệt kê Thuộc Tính, sử dụng một ma trận để khám phá tất cả các tổ hợp có thể có.
+
+- **Parameter Matrix**: Tạo một ma trận với các tham số/thuộc tính chính làm hàng và các biến thể làm cột
+- **Combination Exploration**: Khám phá các tổ hợp mới bằng cách chọn một biến thể từ mỗi hàng
+- **Exhaustive Search**: Tìm kiếm một cách toàn diện trong không gian giải pháp
+- **Complex Problem Solving**: Rất hữu ích cho các vấn đề thiết kế phức tạp có nhiều biến số
+
+→ **Liên kết:** OPERATIONS (Matrix Thinking), AMPLIFICATION (Combinatorial Play)
+
+#### **10. TRIZ - Theory of Inventive Problem Solving** [→ Xem Chi Tiết Tại Chức Năng 5]
+
+Hệ thống giải quyết vấn đề dựa trên phân tích hàng triệu bằng sáng chế - biến đổi mới thành khoa học có thể dự đoán. TRIZ cung cấp các công cụ có cấu trúc để vượt qua mâu thuẫn kỹ thuật một cách hệ thống.
+
+- **40 Inventive Principles**: Nguyên tắc sáng chế phổ quát
+- **Contradiction Matrix**: Ma trận giải quyết mâu thuẫn
+- **Ideal Final Result**: Hướng tới kết quả lý tưởng
+- **Pattern-Based Innovation**: Đổi mới dựa trên mẫu hình
+
+→ **Liên kết:** OPERATIONS (Systematic Innovation), FOUNDATIONS (Universal Principles)
+→ **⚠️ CHI TIẾT ĐẦY ĐỦ:** Xem CHỨC NĂNG 5: DESIGN THINKING - Khái niệm #3
+
+### **3. Questioning & Reframing Techniques - Kỹ Thuật Đặt Câu Hỏi & Tái Khung**
+
+#### **11. Reverse Brainstorming** - Brainstorming Đảo Ngược
+
+Thay vì hỏi "Làm thế nào để giải quyết vấn đề này?", hãy hỏi "Làm thế nào để gây ra hoặc làm tồi tệ hơn vấn đề này?".
+
+- **Problem Inversion**: Đảo ngược vấn đề để khám phá các góc nhìn mới
+- **Identifying Obstacles**: Xác định các trở ngại và nguyên nhân gốc rễ
+- **Solution Discovery**: Từ các "giải pháp xấu" có thể suy ra các giải pháp tốt
+- **Critical Thinking**: Khuyến khích tư duy phê phán về những gì không nên làm
+
+→ **Liên kết:** OPERATIONS (Inversion Thinking), VALIDATION (Error Prediction)
+
+#### **12. Questioning Techniques** - Các Kỹ Thuật Đặt Câu Hỏi
+
+Sử dụng các câu hỏi mạnh mẽ để mở ra các hướng tư duy mới.
+
+- **5 Whys**: Hỏi "tại sao" năm lần để đào sâu vào nguyên nhân gốc rễ
+- **What If...?**: Khám phá các kịch bản giả định và khả năng
+- **How Might We...?**: Tái định hình vấn đề thành một thách thức có thể hành động
+- **Question Storming**: Tạo ra một loạt câu hỏi thay vì câu trả lời
+
+→ **Liên kết:** OPERATIONS (Problem Definition), FOUNDATIONS (Socratic Method)
+
+#### **13. Assumption Reversing** - Đảo Ngược Giả Định
+
+Liệt kê tất cả các giả định về vấn đề hoặc tình huống, sau đó đảo ngược từng giả định để xem điều gì xảy ra.
+
+- **Assumption Identification**: Nhận diện các giả định ẩn và rõ ràng
+- **Systematic Reversal**: Đảo ngược từng giả định một cách có hệ thống
+- **New Possibility Exploration**: Khám phá các khả năng mới nảy sinh từ việc đảo ngược
+- **Constraint Liberation**: Giải phóng khỏi các ràng buộc tự đặt ra
+
+→ **Liên kết:** OPERATIONS (Critical Analysis), DYNAMICS (Paradigm Shift)
+
+#### **14. Question Burst** - Bùng Nổ Câu Hỏi
+
+Một kỹ thuật tập trung hoàn toàn vào việc đặt câu hỏi về một vấn đề, thay vì cố gắng trả lời chúng.
+
+- **Solution Moratorium**: Cấm đưa ra bất kỳ giải pháp hoặc câu trả lời nào trong phiên
+- **Deepening Understanding**: Làm sâu sắc thêm sự hiểu biết về vấn đề
+- **Assumption Uncovering**: Làm lộ ra các giả định ẩn giấu
+- **Reframing the Problem**: Thường dẫn đến việc tái định nghĩa lại vấn đề
+
+→ **Liên kết:** OPERATIONS (Problem Definition), FOUNDATIONS (Socratic Wisdom)
+
+#### **15. Creative Problem Definition** - Định Nghĩa Vấn Đề Sáng Tạo
+
+Nghệ thuật tái định hình vấn đề để mở ra không gian giải pháp mới.
+
+- **Problem Framing**: Đóng khung vấn đề theo cách mới
+- **Question Reframing**: Tái đóng khung câu hỏi
+- **Clarity through Creativity**: Làm rõ thông qua sáng tạo
+- **Insight-Driven Definition**: Định nghĩa dựa trên thấu suốt
+
+→ **Liên kết:** OPERATIONS (Problem Definition), INTEGRATION (Framing)
+
+### **4. Association & Conceptual Synthesis - Liên Tưởng & Tổng Hợp Khái Niệm**
+
+#### **16. Bisociation** - Kết Hợp Xa Lạ
+
+Hành động kết nối các ma trận hoặc các lĩnh vực tư duy vốn không liên quan với nhau để tạo ra một sự tổng hợp sáng tạo mới.
+
+- **Matrix Blending**: Pha trộn các "ma trận" (khung tư duy, lĩnh vực) khác nhau
+- **Conceptual Blending**: Tạo ra một không gian pha trộn mới từ các không gian đầu vào
+- **Creative Leap**: Tạo ra một bước nhảy vọt về nhận thức bằng cách kết nối những thứ không ngờ tới
+- **Humor & Art Principle**: Là cơ sở của sự hài hước và nhiều hình thức nghệ thuật
+
+→ **Liên kết:** DYNAMICS (tư duy phi tuyến), INTEGRATION (tổng hợp cấp cao)
+
+#### **17. Conceptual Blending** - Pha Trộn Khái Niệm [Kỹ Thuật Sáng Tạo]
 
 Kỹ thuật chủ động kết hợp các khái niệm, phép ẩn dụ hoặc mô hình từ các lĩnh vực khác nhau để tạo ra các thấu suốt mới và đột phá. Khác với năng lực tự nhiên ở DYNAMICS, đây là CÔNG CỤ SÁNG TẠO có chủ đích để sinh ra ý tưởng đổi mới.
 
@@ -10603,51 +10714,7 @@ Kỹ thuật chủ động kết hợp các khái niệm, phép ẩn dụ hoặc
 - Là CÔNG CỤ CHỦ ĐỘNG cho sáng tạo đột phá, không phải năng lực tự nhiên
 - Hướng đến tạo ra NOVELTY - cái mới chưa từng có
 
-#### **9. Inspiration Overdrive** - Cảm Hứng Siêu Tốc
-
-Trạng thái dòng chảy cảm hứng sáng tạo liên tục và mạnh mẽ.
-
-- **Inspiration Amplification**: Khuếch đại và duy trì các nguồn cảm hứng
-- **Flow Maintenance**: Áp dụng các kỹ thuật để duy trì trạng thái dòng chảy sáng tạo
-- **Creative Momentum**: Xây dựng và duy trì động lượng sáng tạo
-- **Endless Ideation**: Tạo ra một dòng ý tưởng dường như vô tận
-
-→ **Liên kết:** DYNAMICS (Flow State Dynamics), AMPLIFICATION (Flywheel Effect)
-
-#### **10. Ideation Explosion** - Bùng Nổ Ý Tưởng
-
-Một phiên tạo ra một lượng lớn ý tưởng một cách đột ngột và nhanh chóng.
-
-- **Rapid Idea Generation**: Tạo ra một số lượng lớn ý tưởng trong một thời gian cực ngắn
-- **Quantity Forcing**: Sử dụng các kỹ thuật (ví dụ: hạn ngạch ý tưởng) để ép buộc số lượng
-- **Idea Cascades**: Kích hoạt các thác ý tưởng, nơi một ý tưởng dẫn đến nhiều ý tưởng khác
-- **Creative Overflow**: Trạng thái tràn ngập các khả năng và ý tưởng sáng tạo
-
-→ **Liên kết:** DYNAMICS (Tipping Points), AMPLIFICATION (Chain Reactions)
-
-#### **11. Attribute Listing** - Liệt Kê Thuộc Tính
-
-Phân tích một đối tượng hoặc vấn đề thành các thuộc tính của nó và tìm cách cải tiến từng thuộc tính.
-
-- **Component Decomposition**: Phân rã đối tượng/vấn đề thành các phần cấu thành cơ bản
-- **Attribute Variation**: Brainstorm các biến thể và lựa chọn thay thế cho mỗi thuộc tính
-- **Systematic Exploration**: Cung cấp một cách tiếp cận có hệ thống để đảm bảo mọi khía cạnh đều được xem xét
-- **Incremental Innovation**: Thường dẫn đến các cải tiến tiệm tiến và tối ưu hóa
-
-→ **Liên kết:** OPERATIONS (Decomposition), DYNAMICS (Iterative Refinement)
-
-#### **12. Morphological Analysis** - Phân Tích Hình Thái
-
-Một phiên bản nâng cao của Liệt kê Thuộc tính, sử dụng một ma trận để khám phá tất cả các tổ hợp có thể có.
-
-- **Parameter Matrix**: Tạo một ma trận với các tham số/thuộc tính chính làm hàng và các biến thể làm cột
-- **Combination Exploration**: Khám phá các tổ hợp mới bằng cách chọn một biến thể từ mỗi hàng
-- **Exhaustive Search**: Tìm kiếm một cách toàn diện trong không gian giải pháp
-- **Complex Problem Solving**: Rất hữu ích cho các vấn đề thiết kế phức tạp có nhiều biến số
-
-→ **Liên kết:** OPERATIONS (Matrix Thinking), AMPLIFICATION (Combinatorial Play)
-
-#### **13. Synectics** - Phương Pháp Tương Tự
+#### **18. Synectics** - Phương Pháp Tương Tự
 
 Một phương pháp sáng tạo nhóm sử dụng các phép loại suy (analogy) để làm cho cái quen thuộc trở nên xa lạ và ngược lại.
 
@@ -10658,51 +10725,7 @@ Một phương pháp sáng tạo nhóm sử dụng các phép loại suy (analog
 
 → **Liên kết:** FOUNDATIONS (Analogy & Metaphor), DYNAMICS (Transformation)
 
-#### **14. Reverse Brainstorming** - Brainstorming Đảo Ngược
-
-Thay vì hỏi "Làm thế nào để giải quyết vấn đề này?", hãy hỏi "Làm thế nào để gây ra hoặc làm tồi tệ hơn vấn đề này?".
-
-- **Problem Inversion**: Đảo ngược vấn đề để khám phá các góc nhìn mới
-- **Identifying Obstacles**: Xác định các trở ngại và nguyên nhân gốc rễ
-- **Solution Discovery**: Từ các "giải pháp xấu" có thể suy ra các giải pháp tốt
-- **Critical Thinking**: Khuyến khích tư duy phê phán về những gì không nên làm
-
-→ **Liên kết:** OPERATIONS (Inversion Thinking), VALIDATION (Error Prediction)
-
-#### **15. Questioning Techniques** - Các Kỹ Thuật Đặt Câu Hỏi
-
-Sử dụng các câu hỏi mạnh mẽ để mở ra các hướng tư duy mới.
-
-- **5 Whys**: Hỏi "tại sao" năm lần để đào sâu vào nguyên nhân gốc rễ
-- **What If...?**: Khám phá các kịch bản giả định và khả năng
-- **How Might We...?**: Tái định hình vấn đề thành một thách thức có thể hành động
-- **Question Storming**: Tạo ra một loạt câu hỏi thay vì câu trả lời
-
-→ **Liên kết:** OPERATIONS (Problem Definition), FOUNDATIONS (Socratic Method)
-
-#### **16. Assumption Reversing** - Đảo Ngược Giả Định
-
-Liệt kê tất cả các giả định về vấn đề hoặc tình huống, sau đó đảo ngược từng giả định để xem điều gì xảy ra.
-
-- **Assumption Identification**: Nhận diện các giả định ẩn và rõ ràng
-- **Systematic Reversal**: Đảo ngược từng giả định một cách có hệ thống
-- **New Possibility Exploration**: Khám phá các khả năng mới nảy sinh từ việc đảo ngược
-- **Constraint Liberation**: Giải phóng khỏi các ràng buộc tự đặt ra
-
-→ **Liên kết:** OPERATIONS (Critical Analysis), DYNAMICS (Paradigm Shift)
-
-#### **17. Provocation** - Khiêu Khích
-
-Sử dụng các tuyên bố khiêu khích hoặc phi lý để phá vỡ các khuôn mẫu tư duy.
-
-- **Provocative Statement**: Đưa ra các tuyên bố cố ý vi phạm logic hoặc thực tế
-- **Pattern Disruption**: Phá vỡ các mẫu hình tư duy tự động
-- **Movement from Provocation**: "Di chuyển" từ khiêu khích để tạo ý tưởng thực tế
-- **Creative Tension**: Tạo ra căng thẳng sáng tạo để kích thích tư duy
-
-→ **Liên kết:** CREATION (Lateral Thinking), DYNAMICS (Chaos as Resource)
-
-#### **18. Analogical Thinking - Tư Duy Tương Tự [Công Cụ Sáng Tạo]**
+#### **19. Analogical Thinking - Tư Duy Tương Tự [Công Cụ Sáng Tạo]**
 
 Tìm kiếm và áp dụng các giải pháp từ các lĩnh vực hoàn toàn khác nhau để TẠO RA CÁI MỚI. Khác với việc kết nối các lĩnh vực ở INTEGRATION, đây là về SÁNG TẠO - chuyển giao kiến thức để sinh ra giải pháp đột phá.
 
@@ -10717,118 +10740,7 @@ Tìm kiếm và áp dụng các giải pháp từ các lĩnh vực hoàn toàn k
 → **Phương pháp kết nối:** INTEGRATION #26 (Analogical Thinking - kết nối lĩnh vực)
 → **Ví dụ thực tế:** Velcro từ hạt cây cẩu, Đường ray tàu từ mô hình ong
 
-#### **19. Combinatorial Play** - Kết Hợp Tự Do
-
-Thử nghiệm với nhiều cách kết hợp các yếu tố khác nhau.
-
-- **Element Recombination**: Tái kết hợp các yếu tố theo những cách mới
-- **Playful Experimentation**: Thử nghiệm một cách vui tươi, không sợ thất bại
-- **Unexpected Pairings**: Kết hợp các yếu tố không ngờ tới
-- **Emergent Properties**: Phát hiện các tính chất nổi lên từ sự kết hợp
-
-→ **Liên kết:** DYNAMICS (Emergence), AMPLIFICATION (Synergy)
-
-#### **20. Visualization** - Hình Dung Hóa
-
-Sử dụng hình ảnh tinh thần hoặc vật lý để khám phá và phát triển ý tưởng.
-
-- **Mental Imagery**: Tạo ra hình ảnh tinh thần chi tiết về ý tưởng hoặc giải pháp
-- **Visual Thinking**: Sử dụng biểu đồ, sơ đồ và hình vẽ để tư duy
-- **Spatial Reasoning**: Tư duy trong không gian ba chiều
-- **Prototype Visualization**: Hình dung sản phẩm hoặc giải pháp cuối cùng
-
-→ **Liên kết:** OPERATIONS (Visual Intelligence), INTEGRATION (Embodied Cognition)
-
-#### **21. Storyboarding** - Tạo Bảng Kịch Bản
-
-Tạo ra một chuỗi hình ảnh hoặc phác thảo để minh họa một hành trình, quy trình hoặc trải nghiệm.
-
-- **Visual Narrative**: Kể chuyện thông qua hình ảnh
-- **Sequence Planning**: Lập kế hoạch trình tự các sự kiện hoặc hành động
-- **User Journey Mapping**: Ánh xạ hành trình của người dùng
-- **Experience Design**: Thiết kế trải nghiệm từ đầu đến cuối
-
-→ **Liên kết:** NAVIGATION (Journey Planning), INTEGRATION (Narrative Weaving)
-
-#### **22. Role Playing & Empathy Mapping** - Nhập Vai & Ánh Xạ Đồng Cảm
-
-Đặt mình vào vị trí của người dùng hoặc các bên liên quan khác nhau.
-
-- **Perspective Taking**: Nhìn vấn đề từ nhiều góc độ khác nhau
-- **Empathy Development**: Phát triển sự thấu hiểu sâu sắc với người dùng
-- **Needs Discovery**: Khám phá các nhu cầu và mong muốn thực sự
-- **Solution Validation**: Kiểm tra giải pháp từ góc nhìn người dùng
-
-→ **Liên kết:** INTEGRATION (Human-Centered Design), VALIDATION (User Testing)
-
-#### **23. TRIZ - Theory of Inventive Problem Solving** [→ Xem Chi Tiết Tại Chức Năng 5]
-
-Hệ thống giải quyết vấn đề dựa trên phân tích hàng triệu bằng sáng chế - biến đổi mới thành khoa học có thể dự đoán. TRIZ cung cấp các công cụ có cấu trúc để vượt qua mâu thuẫn kỹ thuật một cách hệ thống.
-
-- **40 Inventive Principles**: Nguyên tắc sáng chế phổ quát
-- **Contradiction Matrix**: Ma trận giải quyết mâu thuẫn
-- **Ideal Final Result**: Hướng tới kết quả lý tưởng
-- **Pattern-Based Innovation**: Đổi mới dựa trên mẫu hình
-
-→ **Liên kết:** OPERATIONS (Systematic Innovation), FOUNDATIONS (Universal Principles)
-→ **⚠️ CHI TIẾT ĐẦY ĐỦ:** Xem CHỨC NĂNG 5: DESIGN THINKING - Khái niệm #3
-
-#### **24. Biomimicry** - Bắt Chước Sinh Học
-
-Học hỏi từ và bắt chước các chiến lược được tìm thấy trong tự nhiên để giải quyết các vấn đề của con người.
-
-- **Nature's Strategies**: Nghiên cứu các chiến lược đã được tự nhiên tối ưu hóa qua hàng triệu năm
-- **Form Follows Function**: Hình thức phục vụ chức năng một cách hiệu quả nhất
-- **Sustainable Design**: Thiết kế bền vững học từ các hệ sinh thái
-- **Adaptation Principles**: Áp dụng các nguyên tắc thích ứng của sinh vật
-
-→ **Liên kết:** FOUNDATIONS (Natural Principles), NAVIGATION (Sustainable Systems)
-
-#### **25. Dialogue & Conversation** - Đối Thoại & Hội Thoại
-
-Sử dụng cuộc đối thoại sâu sắc với người khác để tạo ra và phát triển ý tưởng.
-
-- **Collaborative Thinking**: Tư duy cùng người khác, không chỉ trao đổi
-- **Idea Co-Creation**: Đồng sáng tạo ý tưởng trong thời gian thực
-- **Socratic Method**: Sử dụng câu hỏi để dẫn dắt tư duy
-- **Collective Intelligence**: Khai thác trí tuệ tập thể
-
-→ **Liên kết:** INTEGRATION (Collaborative Intelligence), AMPLIFICATION (Network Effects)
-
-#### **26. Doodling & Sketching** - Vẽ Nguệch Ngoạc & Phác Thảo
-
-Sử dụng hình thức vẽ không chủ đích hoặc phác thảo nhanh để khám phá ý tưởng một cách phi ngôn ngữ.
-
-- **Non-Verbal Ideation**: Quá trình tạo ý tưởng không dựa vào từ ngữ
-- **Visual Exploration**: Khám phá các mối quan hệ không gian và cấu trúc
-- **Lowering Inhibition**: Giảm bớt sự ức chế và phán xét
-- **Connecting with Subconscious**: Cho phép các hình ảnh từ tiềm thức nổi lên
-
-→ **Liên kết:** DYNAMICS (Diffuse Mode), INTEGRATION (Embodied Cognition)
-
-#### **27. Negative Space Thinking** - Tư Duy Không Gian Âm
-
-Tập trung vào những gì bị bỏ sót, vắng mặt hoặc nằm giữa các yếu tố chính.
-
-- **"What's Not There?"**: Đặt câu hỏi về những khoảng trống và sự vắng mặt
-- **Gap Analysis**: Phân tích các khoảng trống trong thị trường, sản phẩm hoặc kiến thức
-- **Relationship Focus**: Tập trung vào các mối quan hệ và không gian giữa các đối tượng
-- **Hidden Opportunity Discovery**: Khám phá các cơ hội ẩn giấu trong những gì không được nhìn thấy
-
-→ **Liên kết:** FOUNDATIONS (Via Negativa), NAVIGATION (White Space Identification)
-
-#### **28. Incubation** - "Ủ" Ý Tưởng
-
-Giai đoạn tạm thời rời khỏi một vấn đề một cách có ý thức để cho phép tiềm thức xử lý.
-
-- **Conscious Detachment**: Tạm thời gác vấn đề sang một bên sau một giai đoạn tập trung
-- **Subconscious Processing**: Cho phép tiềm thức làm việc và tạo ra các liên kết bất ngờ
-- **"Aha!" Moment Cultivation**: Tạo điều kiện cho khoảnh khắc "eureka"
-- **Pattern Synthesis**: Giúp tổng hợp các mẫu hình phức tạp
-
-→ **Liên kết:** DYNAMICS (Conscious ↔ Unconscious), [META] LAYER (Insight Cultivation)
-
-#### **29. Forcing Connections** - Ép Buộc Kết Nối
+#### **20. Forcing Connections** - Ép Buộc Kết Nối
 
 Lấy hai hoặc nhiều đối tượng hoặc ý tưởng không liên quan và buộc chúng phải có một mối liên hệ.
 
@@ -10839,62 +10751,7 @@ Lấy hai hoặc nhiều đối tượng hoặc ý tưởng không liên quan v�
 
 → **Liên kết:** CREATION (Random Stimulation), INTEGRATION (Conceptual Blending)
 
-#### **30. The Gallery Walk** - "Tham Quan Triển Lãm"
-
-Một kỹ thuật nhóm trong đó các ý tưởng được dán lên tường và mọi người đi vòng quanh, thêm các bình luận mới.
-
-- **Silent Collaboration**: Cho phép sự hợp tác mà không bị ảnh hưởng bởi động lực nhóm nói
-- **Cross-Pollination of Ideas**: Thúc đẩy sự thụ phấn chéo và xây dựng ý tưởng
-- **Movement-Based Ideation**: Kết hợp chuyển động vật lý để kích thích tư duy
-- **Collective Ownership**: Tạo ra cảm giác sở hữu tập thể đối với các ý tưởng
-
-→ **Liên kết:** AMPLIFICATION (Collective Intelligence), DYNAMICS (Embodied Cognition)
-
-#### **31. Question Burst** - Bùng Nổ Câu Hỏi
-
-Một kỹ thuật tập trung hoàn toàn vào việc đặt câu hỏi về một vấn đề, thay vì cố gắng trả lời chúng.
-
-- **Solution Moratorium**: Cấm đưa ra bất kỳ giải pháp hoặc câu trả lời nào trong phiên
-- **Deepening Understanding**: Làm sâu sắc thêm sự hiểu biết về vấn đề
-- **Assumption Uncovering**: Làm lộ ra các giả định ẩn giấu
-- **Reframing the Problem**: Thường dẫn đến việc tái định nghĩa lại vấn đề
-
-→ **Liên kết:** OPERATIONS (Problem Definition), FOUNDATIONS (Socratic Wisdom)
-
-#### **32. Science Fiction Prototyping** - Tạo Mẫu Khoa Học Viễn Tưởng
-
-Sử dụng các câu chuyện khoa học viễn tưởng để khám phá các tác động và khả năng của các công nghệ tương lai.
-
-- **Future Exploration**: Khám phá các kịch bản tương lai và hệ quả của chúng
-- **Ethical & Social Probing**: Thăm dò các tác động đạo đức và xã hội
-- **Visionary Thinking**: Khuyến khích tư duy có tầm nhìn, vượt ra ngoài các giới hạn hiện tại
-- **Inspiration for Breakthroughs**: Hoạt động như một nguồn cảm hứng cho các đột phá công nghệ
-
-→ **Liên kết:** NAVIGATION (Scenario Planning), CREATION (World-Building)
-
-#### **33. Crowdsourcing Ideas** - Huy Động Ý Tưởng Từ Đám Đông
-
-Khai thác trí tuệ tập thể của một nhóm lớn người để giải quyết vấn đề hoặc tạo ra ý tưởng.
-
-- **Diverse Perspectives**: Khai thác nhiều góc nhìn đa dạng
-- **Scale of Participation**: Quy mô tham gia lớn tăng xác suất có ý tưởng đột phá
-- **Collective Wisdom**: Tận dụng trí tuệ tập thể
-- **Democratic Innovation**: Dân chủ hóa quá trình đổi mới
-
-→ **Liên kết:** AMPLIFICATION (Network Effects), INTEGRATION (Collaborative Intelligence)
-
-#### **34. Improv Techniques** - Kỹ Thuật Ứng Biến
-
-Áp dụng các kỹ thuật từ kịch ứng tác để tạo ý tưởng một cách tự phát.
-
-- **Yes, And...**: Chấp nhận và xây dựng dựa trên mọi ý tưởng
-- **Spontaneity**: Phản ứng tự phát, không lên kế hoạch trước
-- **Active Listening**: Lắng nghe tích cực để xây dựng dựa trên người khác
-- **Trust & Support**: Tạo môi trường tin tưởng và hỗ trợ
-
-→ **Liên kết:** DYNAMICS (Spontaneity), AMPLIFICATION (Collaborative Building)
-
-#### **35. Cross-Pollination - Thụ Phấn Chéo [Kỹ Thuật Tư Duy]**
+#### **21. Cross-Pollination - Thụ Phấn Chéo [Kỹ Thuật Tư Duy]**
 
 Kỹ thuật tư duy sáng tạo: kết hợp các ý tưởng, phương pháp hoặc quan điểm từ các lĩnh vực hoặc ngành khác nhau để tạo ra giải pháp mới. Đây là PHƯƠNG PHÁP CÁ NHÂN/NHÓM NHỎ trong quá trình ý tưởng hóa và sáng tạo.
 
@@ -10911,23 +10768,121 @@ Kỹ thuật tư duy sáng tạo: kết hợp các ý tưởng, phương pháp h
     • Interdisciplinary Fusion #41 (kết hợp liên ngành)
     → **Ứng dụng:** Brainstorming đa ngành, Design Thinking, Innovation Labs
 
-#### **36. Pattern Breaking - Phá Vỡ Mẫu Hình** [Cấp Độ Cá Nhân]
+### **5. Visual & Spatial Methods - Phương Pháp Thị Giác & Không Gian**
 
-Hành động có chủ đích phá vỡ các thói quen và quy trình tư duy cá nhân để kích thích các kết nối thần kinh mới và mở ra không gian sáng tạo. Đây là công cụ SÁNG TẠO ở cấp độ vi mô - làm việc với bộ não và tâm trí cá nhân.
+#### **22. Mind Mapping** - Sơ Đồ Tư Duy
 
-- **Routine Disruption**: Thay đổi các thói quen hàng ngày - ăn khác, đi đường khác, làm việc khác giờ
-- **Expectation Violation**: Vi phạm kỳ vọng của bản thân - làm điều "không đúng tính" để wake up não bộ
-- **Shifting Perspectives**: Thay đổi góc nhìn có hệ thống - nhìn vấn đề từ 10 góc độ khác nhau
-- **Novelty Injection**: Tiêm sự mới lạ vào hệ thống - trải nghiệm mới → kết nối mới → ý tưởng mới
+Một kỹ thuật trực quan để khám phá và cấu trúc các ý tưởng xung quanh một chủ đề trung tâm một cách phi tuyến tính.
 
-→ **Liên kết nội bộ:** DYNAMICS (Transformation Dynamics), META (Cognitive Agility)
-→ **Ứng dụng:** Lateral Thinking, Ideation, Personal Creativity
-→ **Quy mô:** CÁ NHÂN - thói quen, tư duy, hành vi
-→ **Xuất hiện ở domain khác:**
-  • INTEGRATION #39 (phá vỡ ở cấp độ hệ thống và paradigm)
-  • Sự khác biệt: CREATION tập trung vào CÁ NHÂN để kích thích sáng tạo, INTEGRATION tập trung vào HỆ THỐNG để tạo chuyển đổi mô thức
+- **Radiant Thinking**: Tư duy tỏa tròn từ một khái niệm trung tâm
+- **Associative Links**: Sử dụng các đường cong và từ khóa để thể hiện các liên kết liên tưởng
+- **Visual Elements**: Tích hợp màu sắc, hình ảnh và biểu tượng để tăng cường trí nhớ và sự sáng tạo
+- **Hierarchical & Network Structure**: Thể hiện cấu trúc phân cấp và mạng lưới của thông tin một cách tự nhiên
 
-#### **37. "Yes, and..." Thinking** - Tư Duy "Vâng, và..."
+→ **Liên kết:** FOUNDATIONS (là một mô hình tư duy), INTEGRATION (giúp tổng hợp thông tin)
+
+#### **23. Visualization** - Hình Dung Hóa
+
+Sử dụng hình ảnh tinh thần hoặc vật lý để khám phá và phát triển ý tưởng.
+
+- **Mental Imagery**: Tạo ra hình ảnh tinh thần chi tiết về ý tưởng hoặc giải pháp
+- **Visual Thinking**: Sử dụng biểu đồ, sơ đồ và hình vẽ để tư duy
+- **Spatial Reasoning**: Tư duy trong không gian ba chiều
+- **Prototype Visualization**: Hình dung sản phẩm hoặc giải pháp cuối cùng
+
+→ **Liên kết:** OPERATIONS (Visual Intelligence), INTEGRATION (Embodied Cognition)
+
+#### **24. Storyboarding** - Tạo Bảng Kịch Bản
+
+Tạo ra một chuỗi hình ảnh hoặc phác thảo để minh họa một hành trình, quy trình hoặc trải nghiệm.
+
+- **Visual Narrative**: Kể chuyện thông qua hình ảnh
+- **Sequence Planning**: Lập kế hoạch trình tự các sự kiện hoặc hành động
+- **User Journey Mapping**: Ánh xạ hành trình của người dùng
+- **Experience Design**: Thiết kế trải nghiệm từ đầu đến cuối
+
+→ **Liên kết:** NAVIGATION (Journey Planning), INTEGRATION (Narrative Weaving)
+
+#### **25. Doodling & Sketching** - Vẽ Nguệch Ngoạc & Phác Thảo
+
+Sử dụng hình thức vẽ không chủ đích hoặc phác thảo nhanh để khám phá ý tưởng một cách phi ngôn ngữ.
+
+- **Non-Verbal Ideation**: Quá trình tạo ý tưởng không dựa vào từ ngữ
+- **Visual Exploration**: Khám phá các mối quan hệ không gian và cấu trúc
+- **Lowering Inhibition**: Giảm bớt sự ức chế và phán xét
+- **Connecting with Subconscious**: Cho phép các hình ảnh từ tiềm thức nổi lên
+
+→ **Liên kết:** DYNAMICS (Diffuse Mode), INTEGRATION (Embodied Cognition)
+
+#### **26. Negative Space Thinking** - Tư Duy Không Gian Âm
+
+Tập trung vào những gì bị bỏ sót, vắng mặt hoặc nằm giữa các yếu tố chính.
+
+- **"What's Not There?"**: Đặt câu hỏi về những khoảng trống và sự vắng mặt
+- **Gap Analysis**: Phân tích các khoảng trống trong thị trường, sản phẩm hoặc kiến thức
+- **Relationship Focus**: Tập trung vào các mối quan hệ và không gian giữa các đối tượng
+- **Hidden Opportunity Discovery**: Khám phá các cơ hội ẩn giấu trong những gì không được nhìn thấy
+
+→ **Liên kết:** FOUNDATIONS (Via Negativa), NAVIGATION (White Space Identification)
+
+### **6. Collaborative Intelligence Methods - Phương Pháp Trí Tuệ Cộng Tác**
+
+#### **27. Brainstorming & Brainwriting - Động Não & Viết Não**
+
+Các kỹ thuật nhóm để tạo ra một lượng lớn ý tưởng trong một khoảng thời gian ngắn mà không có sự phán xét.
+
+- **Defer Judgment**: Tạm hoãn mọi sự phán xét hoặc phê bình đối với các ý tưởng được đưa ra
+- **Encourage Wild Ideas**: Khuyến khích các ý tưởng điên rồ, khác thường để mở rộng không gian khả năng
+- **Build on Ideas (Hitchhiking)**: Xây dựng và phát triển dựa trên ý tưởng của người khác
+- **Quantity over Quality (Initially)**: Ưu tiên số lượng trong giai đoạn đầu để tăng xác suất có ý tưởng đột phá
+
+→ **Liên kết:** AMPLIFICATION (Synergy), DYNAMICS (Divergent Thinking)
+
+#### **28. Dialogue & Conversation** - Đối Thoại & Hội Thoại
+
+Sử dụng cuộc đối thoại sâu sắc với người khác để tạo ra và phát triển ý tưởng.
+
+- **Collaborative Thinking**: Tư duy cùng người khác, không chỉ trao đổi
+- **Idea Co-Creation**: Đồng sáng tạo ý tưởng trong thời gian thực
+- **Socratic Method**: Sử dụng câu hỏi để dẫn dắt tư duy
+- **Collective Intelligence**: Khai thác trí tuệ tập thể
+
+→ **Liên kết:** INTEGRATION (Collaborative Intelligence), AMPLIFICATION (Network Effects)
+
+#### **29. The Gallery Walk** - "Tham Quan Triển Lãm"
+
+Một kỹ thuật nhóm trong đó các ý tưởng được dán lên tường và mọi người đi vòng quanh, thêm các bình luận mới.
+
+- **Silent Collaboration**: Cho phép sự hợp tác mà không bị ảnh hưởng bởi động lực nhóm nói
+- **Cross-Pollination of Ideas**: Thúc đẩy sự thụ phấn chéo và xây dựng ý tưởng
+- **Movement-Based Ideation**: Kết hợp chuyển động vật lý để kích thích tư duy
+- **Collective Ownership**: Tạo ra cảm giác sở hữu tập thể đối với các ý tưởng
+
+→ **Liên kết:** AMPLIFICATION (Collective Intelligence), DYNAMICS (Embodied Cognition)
+
+#### **30. Crowdsourcing Ideas** - Huy Động Ý Tưởng Từ Đám Đông
+
+Khai thác trí tuệ tập thể của một nhóm lớn người để giải quyết vấn đề hoặc tạo ra ý tưởng.
+
+- **Diverse Perspectives**: Khai thác nhiều góc nhìn đa dạng
+- **Scale of Participation**: Quy mô tham gia lớn tăng xác suất có ý tưởng đột phá
+- **Collective Wisdom**: Tận dụng trí tuệ tập thể
+- **Democratic Innovation**: Dân chủ hóa quá trình đổi mới
+
+→ **Liên kết:** AMPLIFICATION (Network Effects), INTEGRATION (Collaborative Intelligence)
+
+#### **31. Improv Techniques** - Kỹ Thuật Ứng Biến
+
+Áp dụng các kỹ thuật từ kịch ứng tác để tạo ý tưởng một cách tự phát.
+
+- **Yes, And...**: Chấp nhận và xây dựng dựa trên mọi ý tưởng
+- **Spontaneity**: Phản ứng tự phát, không lên kế hoạch trước
+- **Active Listening**: Lắng nghe tích cực để xây dựng dựa trên người khác
+- **Trust & Support**: Tạo môi trường tin tưởng và hỗ trợ
+
+→ **Liên kết:** DYNAMICS (Spontaneity), AMPLIFICATION (Collaborative Building)
+
+#### **32. "Yes, and..." Thinking** - Tư Duy "Vâng, và..."
 
 Áp dụng nguyên tắc cốt lõi của kịch ứng tác để xây dựng dựa trên các ý tưởng thay vì chặn chúng.
 
@@ -10938,20 +10893,42 @@ Hành động có chủ đích phá vỡ các thói quen và quy trình tư duy 
 
 → **Liên kết:** AMPLIFICATION (Synergy), CREATION (Brainstorming)
 
-#### **38. The Master Generative Skill** - Kỹ Năng Tạo Sinh Bậc Thầy
+### **7. Perspective, Simulation & Exploration - Quan Điểm, Mô Phỏng & Khám Phá**
 
-Khả năng tích hợp và áp dụng tất cả các kỹ thuật tạo ý tưởng một cách linh hoạt và phù hợp với bối cảnh.
+#### **33. Role Playing & Empathy Mapping** - Nhập Vai & Ánh Xạ Đồng Cảm
 
-- **Technique Selection Fluency**: Sự trôi chảy trong việc lựa chọn kỹ thuật phù hợp
-- **Mode Switching Agility**: Khả năng chuyển đổi nhanh chóng giữa tư duy phân kỳ và hội tụ
-- **Generative Mindset**: Một tư duy mặc định luôn nhìn thấy các khả năng
-- **Creating Generative Systems**: Không chỉ tạo ra ý tưởng, mà còn tạo ra các hệ thống tự tạo ra ý tưởng
+Đặt mình vào vị trí của người dùng hoặc các bên liên quan khác nhau.
 
-→ **Liên kết:** Tích hợp tất cả các khái niệm trong nhóm IDEA GENERATION, [META] LAYER (Master Meta-Skill)
+- **Perspective Taking**: Nhìn vấn đề từ nhiều góc độ khác nhau
+- **Empathy Development**: Phát triển sự thấu hiểu sâu sắc với người dùng
+- **Needs Discovery**: Khám phá các nhu cầu và mong muốn thực sự
+- **Solution Validation**: Kiểm tra giải pháp từ góc nhìn người dùng
 
-### **Các Mục Mới Bổ Sung**
+→ **Liên kết:** INTEGRATION (Human-Centered Design), VALIDATION (User Testing)
 
-#### **39. Alternative Thinking** - Tư Duy Thay Thế
+#### **34. Biomimicry** - Bắt Chước Sinh Học
+
+Học hỏi từ và bắt chước các chiến lược được tìm thấy trong tự nhiên để giải quyết các vấn đề của con người.
+
+- **Nature's Strategies**: Nghiên cứu các chiến lược đã được tự nhiên tối ưu hóa qua hàng triệu năm
+- **Form Follows Function**: Hình thức phục vụ chức năng một cách hiệu quả nhất
+- **Sustainable Design**: Thiết kế bền vững học từ các hệ sinh thái
+- **Adaptation Principles**: Áp dụng các nguyên tắc thích ứng của sinh vật
+
+→ **Liên kết:** FOUNDATIONS (Natural Principles), NAVIGATION (Sustainable Systems)
+
+#### **35. Science Fiction Prototyping** - Tạo Mẫu Khoa Học Viễn Tưởng
+
+Sử dụng các câu chuyện khoa học viễn tưởng để khám phá các tác động và khả năng của các công nghệ tương lai.
+
+- **Future Exploration**: Khám phá các kịch bản tương lai và hệ quả của chúng
+- **Ethical & Social Probing**: Thăm dò các tác động đạo đức và xã hội
+- **Visionary Thinking**: Khuyến khích tư duy có tầm nhìn, vượt ra ngoài các giới hạn hiện tại
+- **Inspiration for Breakthroughs**: Hoạt động như một nguồn cảm hứng cho các đột phá công nghệ
+
+→ **Liên kết:** NAVIGATION (Scenario Planning), CREATION (World-Building)
+
+#### **36. Alternative Thinking** - Tư Duy Thay Thế
 
 Khả năng tạo ra và đánh giá nhiều lựa chọn thay thế khác nhau.
 
@@ -10962,18 +10939,7 @@ Khả năng tạo ra và đánh giá nhiều lựa chọn thay thế khác nhau.
 
 → **Liên kết:** NAVIGATION (Sequential Path Analysis #9), OPERATIONS (Scenario Analysis)
 
-#### **40. Provocative Operations** - Các Thao Tác Khiêu Khích
-
-Sử dụng các tuyên bố và hành động khiêu khích để phá vỡ tư duy thông thường.
-
-- **Disruption as Method**: Sự gián đoạn như một phương pháp có chủ đích
-- **Challenge Injection**: Tiêm thách thức vào quy trình tư duy
-- **Sacred Cow Questioning**: Đặt câu hỏi về những điều được cho là bất khả xâm phạm
-- **Constructive Provocation**: Khiêu khích mang tính xây dựng
-
-→ **Liên kết:** CREATION (Lateral Thinking), DYNAMICS (Disruption)
-
-#### **41. Thought Experiment Design** - Thiết Kế Thí Nghiệm Tư Duy
+#### **37. Thought Experiment Design** - Thiết Kế Thí Nghiệm Tư Duy
 
 Tạo ra các thí nghiệm trong tâm trí để kiểm tra ý tưởng và khái niệm.
 
@@ -10984,7 +10950,7 @@ Tạo ra các thí nghiệm trong tâm trí để kiểm tra ý tưởng và kh�
 
 → **Liên kết:** OPERATIONS (Mental Models), VALIDATION (Hypothesis Testing)
 
-#### **42. Mental Simulation** - Mô Phỏng Tinh Thần
+#### **38. Mental Simulation** - Mô Phỏng Tinh Thần
 
 Chạy các kịch bản và tình huống trong tâm trí để dự đoán kết quả.
 
@@ -10994,6 +10960,52 @@ Chạy các kịch bản và tình huống trong tâm trí để dự đoán k�
 - **Mental Rehearsal**: Diễn tập tinh thần trước khi thực hiện
 
 → **Liên kết:** NAVIGATION (Future Scenarios), VALIDATION (Risk Assessment)
+
+### **8. Flow, Momentum & Discovery - Dòng Chảy, Động Lực & Khám Phá**
+
+#### **39. Inspiration Overdrive** - Cảm Hứng Siêu Tốc
+
+Trạng thái dòng chảy cảm hứng sáng tạo liên tục và mạnh mẽ.
+
+- **Inspiration Amplification**: Khuếch đại và duy trì các nguồn cảm hứng
+- **Flow Maintenance**: Áp dụng các kỹ thuật để duy trì trạng thái dòng chảy sáng tạo
+- **Creative Momentum**: Xây dựng và duy trì động lượng sáng tạo
+- **Endless Ideation**: Tạo ra một dòng ý tưởng dường như vô tận
+
+→ **Liên kết:** DYNAMICS (Flow State Dynamics), AMPLIFICATION (Flywheel Effect)
+
+#### **40. Ideation Explosion** - Bùng Nổ Ý Tưởng
+
+Một phiên tạo ra một lượng lớn ý tưởng một cách đột ngột và nhanh chóng.
+
+- **Rapid Idea Generation**: Tạo ra một số lượng lớn ý tưởng trong một thời gian cực ngắn
+- **Quantity Forcing**: Sử dụng các kỹ thuật (ví dụ: hạn ngạch ý tưởng) để ép buộc số lượng
+- **Idea Cascades**: Kích hoạt các thác ý tưởng, nơi một ý tưởng dẫn đến nhiều ý tưởng khác
+- **Creative Overflow**: Trạng thái tràn ngập các khả năng và ý tưởng sáng tạo
+
+→ **Liên kết:** DYNAMICS (Tipping Points), AMPLIFICATION (Chain Reactions)
+
+#### **41. Combinatorial Play** - Kết Hợp Tự Do
+
+Thử nghiệm với nhiều cách kết hợp các yếu tố khác nhau.
+
+- **Element Recombination**: Tái kết hợp các yếu tố theo những cách mới
+- **Playful Experimentation**: Thử nghiệm một cách vui tươi, không sợ thất bại
+- **Unexpected Pairings**: Kết hợp các yếu tố không ngờ tới
+- **Emergent Properties**: Phát hiện các tính chất nổi lên từ sự kết hợp
+
+→ **Liên kết:** DYNAMICS (Emergence), AMPLIFICATION (Synergy)
+
+#### **42. Incubation** - "Ủ" Ý Tưởng
+
+Giai đoạn tạm thời rời khỏi một vấn đề một cách có ý thức để cho phép tiềm thức xử lý.
+
+- **Conscious Detachment**: Tạm thời gác vấn đề sang một bên sau một giai đoạn tập trung
+- **Subconscious Processing**: Cho phép tiềm thức làm việc và tạo ra các liên kết bất ngờ
+- **"Aha!" Moment Cultivation**: Tạo điều kiện cho khoảnh khắc "eureka"
+- **Pattern Synthesis**: Giúp tổng hợp các mẫu hình phức tạp
+
+→ **Liên kết:** DYNAMICS (Conscious ↔ Unconscious), [META] LAYER (Insight Cultivation)
 
 #### **43. Idea Quotas** - Hạn Ngạch Ý Tưởng
 
@@ -11017,16 +11029,18 @@ Thiết kế có chủ đích các môi trường, quy trình và điều kiện
 
 → **Liên kết:** DYNAMICS (Emergence), AMPLIFICATION (Opportunity Creation), NAVIGATION #26 (Luck Surface Area Expansion), NAVIGATION #25 (Opportunity Magnetism), INTEGRATION #32 (Serendipity Systems)
 
-#### **45. Creative Problem Definition** - Định Nghĩa Vấn Đề Sáng Tạo
+### **9. Creative Expression & Meta-Integration - Biểu Đạt Sáng Tạo & Tích Hợp Meta**
 
-Nghệ thuật tái định hình vấn đề để mở ra không gian giải pháp mới.
+#### **45. The Master Generative Skill** - Kỹ Năng Tạo Sinh Bậc Thầy
 
-- **Problem Framing**: Đóng khung vấn đề theo cách mới
-- **Question Reframing**: Tái đóng khung câu hỏi
-- **Clarity through Creativity**: Làm rõ thông qua sáng tạo
-- **Insight-Driven Definition**: Định nghĩa dựa trên thấu suốt
+Khả năng tích hợp và áp dụng tất cả các kỹ thuật tạo ý tưởng một cách linh hoạt và phù hợp với bối cảnh.
 
-→ **Liên kết:** OPERATIONS (Problem Definition), INTEGRATION (Framing)
+- **Technique Selection Fluency**: Sự trôi chảy trong việc lựa chọn kỹ thuật phù hợp
+- **Mode Switching Agility**: Khả năng chuyển đổi nhanh chóng giữa tư duy phân kỳ và hội tụ
+- **Generative Mindset**: Một tư duy mặc định luôn nhìn thấy các khả năng
+- **Creating Generative Systems**: Không chỉ tạo ra ý tưởng, mà còn tạo ra các hệ thống tự tạo ra ý tưởng
+
+→ **Liên kết:** Tích hợp tất cả các khái niệm trong nhóm IDEA GENERATION, [META] LAYER (Master Meta-Skill)
 
 #### **46. Sonic Storytelling** - Kể Chuyện Qua Âm Thanh
 
