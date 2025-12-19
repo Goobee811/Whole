@@ -9759,7 +9759,9 @@ Các quy trình và giao thức y tế chuẩn.
 
 Các mô hình có cấu trúc để đánh giá các lựa chọn, quản lý rủi ro và lựa chọn một hướng hành động tối ưu trong các bối cảnh khác nhau. Đây là "hệ thống ra quyết định" của OPERATIONS.
 
-### **Các Khung Ra Quyết Định (25 mục)**
+Các mô hình có cấu trúc để đánh giá các lựa chọn, quản lý rủi ro và lựa chọn một hướng hành động tối ưu trong các bối cảnh khác nhau. Đây là "hệ thống ra quyết định" của OPERATIONS.
+
+### **1. Strategic Decision Frameworks - Khung Quyết Định Chiến Lược**
 
 #### **1. Game Theory** - Lý Thuyết Trò Chơi
 
@@ -9782,25 +9784,11 @@ Framework phân loại BỐI CẢNH RA QUYẾT ĐỊNH do Dave Snowden phát tri
 - **Complex Domain**: Emergent Practice → Probe-Sense-Respond. Thử nghiệm nhỏ để khám phá mẫu hình mới.
 - **Chaotic Domain**: Novel Practice → Act-Sense-Respond. Hành động quyết đoán để tạo ổn định.
 
-→ **Liên kết:** META (Meta-Frameworks - chọn framework), NAVIGATION #4 (dùng như bản đồ địa hình), DYNAMICS (Complexity Science), OPERATIONS #25 (Master Decision Framework)
+→ **Liên kết:** META (Meta-Frameworks - chọn framework), NAVIGATION #4 (dùng như bản đồ địa hình), DYNAMICS (Complexity Science), OPERATIONS #24 (Master Decision Framework)
 
 💡 **Nguyên tắc**: "The METHOD depends on the CONTEXT"
 
-#### **3. Decision Trees** - Cây Quyết Định [Công Cụ Phân Tích]
-
-Một công cụ hỗ trợ quyết định sử dụng mô hình dạng cây để thể hiện các quyết định tuần tự và các kết quả có thể xảy ra. Đây là CÔNG CỤ CỐT LÕI trong bộ Decision Frameworks, được sử dụng rộng rãi trong cả phân tích quyết định và lập kế hoạch chiến lược.
-
-- **Nodes & Branches**: Các nút quyết định, nút cơ hội và nhánh biểu hiện lựa chọn hoặc kết quả.
-- **Expected Value Calculation**: Tính toán giá trị kỳ vọng cho mỗi lộ trình quyết định để so sánh.
-- **Sequential Choice Mapping**: Lập bản đồ các lựa chọn tuần tự và sự phụ thuộc của chúng một cách trực quan.
-- **Pruning**: Cắt tỉa các nhánh không tối ưu để đơn giản hóa việc ra quyết định.
-- **Optimal Path Identification**: Xác định con đường tối ưu dựa trên mục tiêu (thường dùng trong lập kế hoạch).
-
-→ **Liên kết:** VALIDATION (Scenario Testing), FOUNDATIONS (Probability)
-→ **Sử dụng bởi:** NAVIGATION #9 (trong Multi-dimensional Planning)
-→ **Công cụ liên quan:** Sequential Decision Making #26, Scenario Tree #11
-
-#### **4. OODA Loop** - Vòng Lặp OODA (Observe-Orient-Decide-Act)
+#### **3. OODA Loop** - Vòng Lặp OODA (Observe-Orient-Decide-Act)
 
 Một chu trình ra quyết định và hành động chiến thuật được phát triển bởi John Boyd, nhấn mạnh TỐC ĐỘ và KHẢ NĂNG THÍCH ỨNG trong môi trường cạnh tranh.
 
@@ -9838,14 +9826,45 @@ Một chu trình ra quyết định và hành động chiến thuật được p
 → **Ứng dụng chiến lược:** NAVIGATION (Strategic Wayfinding #3 - Decision Speed & Tempo)
 → **Nguyên lý nền tảng:** FOUNDATIONS (Feedback Loops)
 
-#### **5. Eisenhower Matrix** - Ma Trận Eisenhower → Xem NAVIGATION #1
+#### **4. Recognition-Primed Decision (RPD) Model** - Mô Hình Quyết Định Dựa Trên Nhận Dạng
 
-Công cụ ưu tiên phân loại nhiệm vụ theo hai trục: Urgent vs Important. Đã được GỘP VÀO NAVIGATION #1 (Resource & Priority Management) - vị trí tự nhiên hơn cho công cụ quản lý tài nguyên và ưu tiên.
+Mô tả cách các chuyên gia đưa ra quyết định nhanh chóng trong các tình huống phức tạp, áp lực cao.
 
-→ **Xem chi tiết:** NAVIGATION #1 (Eisenhower Matrix - phiên bản đầy đủ với 4 quadrants và hướng dẫn ứng dụng)
-→ **Nguyên lý nền tảng:** OPERATIONS #37 (Eisenhower's Razor - nguyên tắc urgent vs important)
+- **Situation Recognition**: Chuyên gia nhanh chóng nhận ra tình huống quen thuộc dựa trên kinh nghiệm.
+- **Pattern Matching**: So khớp các dấu hiệu của tình huống hiện tại với các mẫu hình đã lưu trữ.
+- **Mental Simulation**: Chạy mô phỏng trong đầu để đánh giá tính khả thi.
+- **First Viable Option**: Lựa chọn giải pháp khả thi đầu tiên được xác định.
 
-#### **6. Multi-Criteria Decision Analysis (MCDA)** - Phân Tích Quyết Định Đa Tiêu Chí
+→ **Liên kết:** NAVIGATION (Intuitive Wayfinding), FOUNDATIONS (Mental Models)
+
+#### **5. The Master Decision Framework** - Khung Quyết Định Bậc Thầy
+
+Siêu kỹ năng lựa chọn và kết hợp các khung ra quyết định khác nhau một cách phù hợp.
+
+- **Framework Selection**: Lựa chọn khung phù hợp nhất với bản chất của vấn đề (ví dụ: Cynefin).
+- **Contextual Application**: Áp dụng khung một cách linh hoạt, nhạy bén với bối cảnh.
+- **Hybrid Framework Design**: Thiết kế các khung lai, kết hợp các yếu tố tốt nhất từ nhiều mô hình.
+- **Decision about Deciding**: Ra quyết định về cách thức bạn sẽ ra quyết định.
+
+→ **Liên kết:** Tích hợp tất cả các khái niệm trong DECISION FRAMEWORKS
+
+### **2. Analytical Decision Tools - Công Cụ Phân Tích Quyết Định**
+
+#### **6. Decision Trees** - Cây Quyết Định [Công Cụ Phân Tích]
+
+Một công cụ hỗ trợ quyết định sử dụng mô hình dạng cây để thể hiện các quyết định tuần tự và các kết quả có thể xảy ra. Đây là CÔNG CỤ CỐT LÕI trong bộ Decision Frameworks, được sử dụng rộng rãi trong cả phân tích quyết định và lập kế hoạch chiến lược.
+
+- **Nodes & Branches**: Các nút quyết định, nút cơ hội và nhánh biểu hiện lựa chọn hoặc kết quả.
+- **Expected Value Calculation**: Tính toán giá trị kỳ vọng cho mỗi lộ trình quyết định để so sánh.
+- **Sequential Choice Mapping**: Lập bản đồ các lựa chọn tuần tự và sự phụ thuộc của chúng một cách trực quan.
+- **Pruning**: Cắt tỉa các nhánh không tối ưu để đơn giản hóa việc ra quyết định.
+- **Optimal Path Identification**: Xác định con đường tối ưu dựa trên mục tiêu (thường dùng trong lập kế hoạch).
+
+→ **Liên kết:** VALIDATION (Scenario Testing), FOUNDATIONS (Probability)
+→ **Sử dụng bởi:** NAVIGATION #9 (trong Multi-dimensional Planning)
+→ **Công cụ liên quan:** Sequential Decision Making #13, Scenario Tree #11
+
+#### **7. Multi-Criteria Decision Analysis (MCDA)** - Phân Tích Quyết Định Đa Tiêu Chí
 
 Một phương pháp có cấu trúc để đánh giá và so sánh các lựa chọn dựa trên nhiều tiêu chí, thường xung đột.
 
@@ -9856,18 +9875,67 @@ Một phương pháp có cấu trúc để đánh giá và so sánh các lựa c
 
 → **Liên kết:** OPERATIONS (Decision Matrix), VALIDATION (Objective Evaluation)
 
-#### **7. Real Options Framework** - Khung Quyền Chọn Thực
+#### **8. Risk-Based Decision Making** - Ra Quyết Định Dựa Trên Rủi Ro
 
-Áp dụng tư duy quyền chọn tài chính vào quyết định chiến lược, coi các quyết định như các quyền chọn có giá trị.
+**ỨNG DỤNG RA QUYẾT ĐỊNH**: Suy luận về xác suất, rủi ro và sự không chắc chắn trong bối cảnh **RA QUYẾT ĐỊNH CỤ THỂ**. Khác với công cụ suy luận thuần túy (Probabilistic Reasoning), đây tập trung vào **HÀNH ĐỘNG và LỰA CHỌN**.
 
-- **Option Value**: Giá trị của việc duy trì sự linh hoạt và khả năng thay đổi quyết định sau.
-- **Flexibility Valuation**: Định giá sự linh hoạt để trì hoãn, mở rộng, hoặc từ bỏ một dự án.
-- **Uncertainty as Value**: Xem sự không chắc chắn không chỉ là rủi ro mà còn là nguồn gốc của giá trị quyền chọn.
-- **Irreversibility Consideration**: Cân nhắc các quyết định không thể đảo ngược một cách cẩn thận.
+- **Expected Value Calculation**: **CÔNG CỤ QUYẾT ĐỊNH** - Tính toán giá trị kỳ vọng để chọn hành động tối ưu
+- **Risk Assessment**: **ĐÁNH GIÁ** - Đánh giá xác suất × tác động cho mỗi lựa chọn
+- **Uncertainty Quantification**: **QUẢN LÝ** - Định lượng không chắc chắn trong quyết định
+- **Bayesian Updating**: **CẬP NHẬT** - Điều chỉnh quyết định dựa trên thông tin mới
 
-→ **Liên kết:** NAVIGATION (Option Preservation), AMPLIFICATION (Leverage)
+→ **Bản chất**: Khung ra quyết định trong điều kiện không chắc chắn
+→ **Gốc lý thuyết**: FOUNDATIONS (Probabilistic Thinking - nguyên lý)
+→ **Công cụ phân tích**: OPERATIONS (Probabilistic Reasoning - kỹ thuật suy luận)
+→ **Liên kết**: NAVIGATION (Risk Management), VALIDATION (Decision Quality)
 
-#### **8. Inversion Principle** - Nguyên Tắc Đảo Ngược
+#### **9. Algorithmic Decision Making** - Ra Quyết Định Theo Thuật Toán
+
+Sử dụng một bộ quy tắc và quy trình rõ ràng, tường minh để đưa ra quyết định, giảm thiểu sự chủ quan.
+
+- **Rule Definition**: Xác định các quy tắc "nếu-thì" một cách chính xác.
+- **Data Input**: Cung cấp dữ liệu đầu vào cần thiết cho thuật toán.
+- **Automated Execution**: Thực thi các quy tắc một cách tự động hoặc bán tự động.
+- **Exception Handling**: Xây dựng quy trình để xử lý các trường hợp ngoại lệ.
+
+→ **Liên kết:** AMPLIFICATION (Automation), META (Axiomatic System Building)
+
+#### **10. Delphi Method** - Phương Pháp Delphi
+
+Một kỹ thuật dự báo và ra quyết định có cấu trúc dựa trên một hội đồng các chuyên gia.
+
+- **Expert Panel**: Tập hợp một nhóm các chuyên gia ẩn danh.
+- **Iterative Rounds**: Tiến hành nhiều vòng hỏi và trả lời.
+- **Controlled Feedback**: Cung cấp phản hồi tổng hợp (nhưng ẩn danh) từ vòng trước.
+- **Consensus Building**: Dần dần hướng tới một sự đồng thuận hoặc làm rõ các điểm bất đồng.
+
+→ **Liên kết:** VALIDATION (Expert Consultation), AMPLIFICATION (Collective Intelligence)
+
+#### **11. Pugh Matrix** - Ma Trận Pugh
+
+Một công cụ lựa chọn khái niệm có cấu trúc để so sánh nhiều phương án với một phương án cơ sở.
+
+- **Establish Baseline**: Chọn một phương án làm "chuẩn" hoặc "cơ sở" để so sánh.
+- **Define Criteria**: Xác định các tiêu chí quan trọng để đánh giá.
+- **Score Alternatives**: Chấm điểm các phương án khác (+, -, S) so với phương án cơ sở.
+- **Sum Scores & Decide**: Tổng hợp điểm số để xác định phương án tốt nhất.
+
+→ **Liên kết:** OPERATIONS (Multi-Criteria Decision Analysis), CREATION (Concept Selection)
+
+#### **12. Sequential Decision Making** - Ra Quyết Định Tuần Tự
+
+Phương pháp ra quyết định trong đó các lựa chọn được thực hiện theo chuỗi thời gian.
+
+- **Temporal Sequence**: Chuỗi thời gian của các quyết định.
+- **Path Dependency**: Sự phụ thuộc vào đường đi (quyết định trước ảnh hưởng đến quyết định sau).
+- **Multi-Stage Planning**: Hoạch định nhiều giai đoạn.
+- **Chain of Choices**: Chuỗi các lựa chọn liên kết.
+
+→ **Liên kết:** OPERATIONS (Decision Trees), NAVIGATION (Strategic Planning)
+
+### **3. Decision Principles & Mental Models - Nguyên Tắc & Mô Hình Quyết Định**
+
+#### **13. Inversion Principle** - Nguyên Tắc Đảo Ngược
 
 Thay vì hỏi làm thế nào để thành công, hãy hỏi làm thế nào để thất bại và rồi tránh những điều đó.
 
@@ -9878,7 +9946,7 @@ Thay vì hỏi làm thế nào để thành công, hãy hỏi làm thế nào đ
 
 → **Liên kết:** VALIDATION (Pre-mortem Analysis), FOUNDATIONS (Via Negativa)
 
-#### **9. Circle of Competence** - Vòng Tròn Năng Lực
+#### **14. Circle of Competence** - Vòng Tròn Năng Lực
 
 Khung ra quyết định về việc chỉ nên hành động và quyết định trong các lĩnh vực mà mình có kiến thức và chuyên môn sâu sắc. Đây là một CÔNG CỤ THỰC HÀNH quan trọng để tránh sai lầm từ sự tự tin thái quá và Dunning-Kruger Effect (xem FOUNDATIONS #39).
 
@@ -9921,7 +9989,7 @@ Khung ra quyết định về việc chỉ nên hành động và quyết địn
 → **Nguồn gốc khái niệm:** Warren Buffett & Charlie Munger (Value Investing)
 → **Ứng dụng chính:** Investment, Career, Business Strategy, Personal Development
 
-#### **10. Satisficing vs. Maximizing** - Thỏa Mãn vs. Tối Đa Hóa
+#### **15. Satisficing vs. Maximizing** - Thỏa Mãn vs. Tối Đa Hóa
 
 Hai phong cách ra quyết định khác nhau.
 
@@ -9932,7 +10000,7 @@ Hai phong cách ra quyết định khác nhau.
 
 → **Liên kết:** META (Cognitive Energy Management), OPERATIONS (Pareto Analysis)
 
-#### **11. Precautionary Principle** - Nguyên Tắc Phòng Ngừa
+#### **16. Precautionary Principle** - Nguyên Tắc Phòng Ngừa
 
 Khi một hành động có nguy cơ gây ra tác hại nghiêm trọng và không thể đảo ngược, nên hành động để phòng ngừa ngay cả khi chưa có bằng chứng khoa học đầy đủ.
 
@@ -9943,29 +10011,7 @@ Khi một hành động có nguy cơ gây ra tác hại nghiêm trọng và khô
 
 → **Liên kết:** VALIDATION (Risk Assessment), NAVIGATION (Long-Term Perspective)
 
-#### **12. RACI Matrix** - Ma Trận RACI
-
-Một khung để làm rõ và phân công vai trò, trách nhiệm trong các dự án và quy trình ra quyết định.
-
-- **Responsible**: Người chịu trách nhiệm thực hiện công việc.
-- **Accountable**: Người chịu trách nhiệm cuối cùng về kết quả (chỉ một người).
-- **Consulted**: Những người được tham vấn trước khi quyết định.
-- **Informed**: Những người được thông báo về quyết định hoặc hành động.
-
-→ **Liên kết:** INTEGRATION (Collaboration), NAVIGATION (Accountability)
-
-#### **13. Regret Minimization Framework** - Khung Tối Thiểu Hóa Hối Tiếc
-
-Đưa ra quyết định bằng cách tưởng tượng bản thân trong tương lai và hỏi liệu bạn có hối tiếc nếu không thực hiện một hành động nhất định.
-
-- **Future Self Projection**: Tưởng tượng bản thân ở một thời điểm trong tương lai (ví dụ: 80 tuổi).
-- **Regret Analysis**: Phân tích hành động nào bạn sẽ hối tiếc không làm.
-- **Long-Term Perspective**: Dịch chuyển từ hệ quả ngắn hạn sang ý nghĩa dài hạn.
-- **Decision Clarity**: Tạo ra sự rõ ràng bằng cách loại bỏ các lo lắng tầm thường ngắn hạn.
-
-→ **Liên kết:** NAVIGATION (Long-Term Thinking), META (Future Self)
-
-#### **14. Opportunity Cost Thinking** - Tư Duy Chi Phí Cơ Hội
+#### **17. Opportunity Cost Thinking** - Tư Duy Chi Phí Cơ Hội
 
 Nhận thức rằng mọi lựa chọn đều có chi phí cơ hội - giá trị của lựa chọn tốt nhất tiếp theo mà bạn đã từ bỏ.
 
@@ -9976,7 +10022,7 @@ Nhận thức rằng mọi lựa chọn đều có chi phí cơ hội - giá tr�
 
 → **Liên kết:** OPERATIONS (Cost-Benefit Analysis), NAVIGATION (Resource Management)
 
-#### **15. Reversible vs. Irreversible Decisions** - Quyết Định Có Thể Đảo Ngược vs. Không Thể Đảo Ngược
+#### **18. Reversible vs. Irreversible Decisions** - Quyết Định Có Thể Đảo Ngược vs. Không Thể Đảo Ngược
 
 Phân loại quyết định dựa trên tính đảo ngược và áp dụng các quy trình khác nhau.
 
@@ -9987,32 +10033,42 @@ Phân loại quyết định dựa trên tính đảo ngược và áp dụng c�
 
 → **Liên kết:** CREATION (Experimentation), VALIDATION (Testing)
 
-#### **16. Risk-Based Decision Making** - Ra Quyết Định Dựa Trên Rủi Ro
+#### **19. Expected Value Thinking** - Tư Duy Giá Trị Kỳ Vọng
 
-**ỨNG DỤNG RA QUYẾT ĐỊNH**: Suy luận về xác suất, rủi ro và sự không chắc chắn trong bối cảnh **RA QUYẾT ĐỊNH CỤ THỂ**. Khác với công cụ suy luận thuần túy (Probabilistic Reasoning), đây tập trung vào **HÀNH ĐỘNG và LỰA CHỌN**.
+Ra quyết định dựa trên tính toán giá trị kỳ vọng của các lựa chọn.
 
-- **Expected Value Calculation**: **CÔNG CỤ QUYẾT ĐỊNH** - Tính toán giá trị kỳ vọng để chọn hành động tối ưu
-- **Risk Assessment**: **ĐÁNH GIÁ** - Đánh giá xác suất × tác động cho mỗi lựa chọn
-- **Uncertainty Quantification**: **QUẢN LÝ** - Định lượng không chắc chắn trong quyết định
-- **Bayesian Updating**: **CẬP NHẬT** - Điều chỉnh quyết định dựa trên thông tin mới
+- **Probability Assessment**: Đánh giá xác suất.
+- **Outcome Valuation**: Định giá các kết quả.
+- **Expected Value Calculation**: Tính toán giá trị kỳ vọng (xác suất × giá trị).
+- **Rational Choice**: Lựa chọn hợp lý dựa trên EV.
 
-→ **Bản chất**: Khung ra quyết định trong điều kiện không chắc chắn
-→ **Gốc lý thuyết**: FOUNDATIONS (Probabilistic Thinking - nguyên lý)
-→ **Công cụ phân tích**: OPERATIONS (Probabilistic Reasoning - kỹ thuật suy luận)
-→ **Liên kết**: NAVIGATION (Risk Management), VALIDATION (Decision Quality)
+→ **Liên kết:** OPERATIONS (Probabilistic Thinking), FOUNDATIONS (Expected Value)
 
-#### **17. Recognition-Primed Decision (RPD) Model** - Mô Hình Quyết Định Dựa Trên Nhận Dạng
+### **4. Value & Future-Oriented Frameworks - Khung Định Hướng Giá Trị**
 
-Mô tả cách các chuyên gia đưa ra quyết định nhanh chóng trong các tình huống phức tạp, áp lực cao.
+#### **20. Real Options Framework** - Khung Quyền Chọn Thực
 
-- **Situation Recognition**: Chuyên gia nhanh chóng nhận ra tình huống quen thuộc dựa trên kinh nghiệm.
-- **Pattern Matching**: So khớp các dấu hiệu của tình huống hiện tại với các mẫu hình đã lưu trữ.
-- **Mental Simulation**: Chạy mô phỏng trong đầu để đánh giá tính khả thi.
-- **First Viable Option**: Lựa chọn giải pháp khả thi đầu tiên được xác định.
+Áp dụng tư duy quyền chọn tài chính vào quyết định chiến lược, coi các quyết định như các quyền chọn có giá trị.
 
-→ **Liên kết:** NAVIGATION (Intuitive Wayfinding), FOUNDATIONS (Mental Models)
+- **Option Value**: Giá trị của việc duy trì sự linh hoạt và khả năng thay đổi quyết định sau.
+- **Flexibility Valuation**: Định giá sự linh hoạt để trì hoãn, mở rộng, hoặc từ bỏ một dự án.
+- **Uncertainty as Value**: Xem sự không chắc chắn không chỉ là rủi ro mà còn là nguồn gốc của giá trị quyền chọn.
+- **Irreversibility Consideration**: Cân nhắc các quyết định không thể đảo ngược một cách cẩn thận.
 
-#### **18. Value-Based Decision Making** - Ra Quyết Định Dựa Trên Giá Trị
+→ **Liên kết:** NAVIGATION (Option Preservation), AMPLIFICATION (Leverage)
+
+#### **21. Regret Minimization Framework** - Khung Tối Thiểu Hóa Hối Tiếc
+
+Đưa ra quyết định bằng cách tưởng tượng bản thân trong tương lai và hỏi liệu bạn có hối tiếc nếu không thực hiện một hành động nhất định.
+
+- **Future Self Projection**: Tưởng tượng bản thân ở một thời điểm trong tương lai (ví dụ: 80 tuổi).
+- **Regret Analysis**: Phân tích hành động nào bạn sẽ hối tiếc không làm.
+- **Long-Term Perspective**: Dịch chuyển từ hệ quả ngắn hạn sang ý nghĩa dài hạn.
+- **Decision Clarity**: Tạo ra sự rõ ràng bằng cách loại bỏ các lo lắng tầm thường ngắn hạn.
+
+→ **Liên kết:** NAVIGATION (Long-Term Thinking), META (Future Self)
+
+#### **22. Value-Based Decision Making** - Ra Quyết Định Dựa Trên Giá Trị
 
 Một quy trình lựa chọn các hành động phù hợp nhất với các giá trị cốt lõi và nguyên tắc.
 
@@ -10023,97 +10079,7 @@ Một quy trình lựa chọn các hành động phù hợp nhất với các gi
 
 → **Liên kết:** NAVIGATION (Guiding Principles), INTEGRATION (Personal Integration)
 
-#### **19. Algorithmic Decision Making** - Ra Quyết Định Theo Thuật Toán
-
-Sử dụng một bộ quy tắc và quy trình rõ ràng, tường minh để đưa ra quyết định, giảm thiểu sự chủ quan.
-
-- **Rule Definition**: Xác định các quy tắc "nếu-thì" một cách chính xác.
-- **Data Input**: Cung cấp dữ liệu đầu vào cần thiết cho thuật toán.
-- **Automated Execution**: Thực thi các quy tắc một cách tự động hoặc bán tự động.
-- **Exception Handling**: Xây dựng quy trình để xử lý các trường hợp ngoại lệ.
-
-→ **Liên kết:** AMPLIFICATION (Automation), META (Axiomatic System Building)
-
-#### **20. Delphi Method** - Phương Pháp Delphi
-
-Một kỹ thuật dự báo và ra quyết định có cấu trúc dựa trên một hội đồng các chuyên gia.
-
-- **Expert Panel**: Tập hợp một nhóm các chuyên gia ẩn danh.
-- **Iterative Rounds**: Tiến hành nhiều vòng hỏi và trả lời.
-- **Controlled Feedback**: Cung cấp phản hồi tổng hợp (nhưng ẩn danh) từ vòng trước.
-- **Consensus Building**: Dần dần hướng tới một sự đồng thuận hoặc làm rõ các điểm bất đồng.
-
-→ **Liên kết:** VALIDATION (Expert Consultation), AMPLIFICATION (Collective Intelligence)
-
-#### **21. Pugh Matrix** - Ma Trận Pugh
-
-Một công cụ lựa chọn khái niệm có cấu trúc để so sánh nhiều phương án với một phương án cơ sở.
-
-- **Establish Baseline**: Chọn một phương án làm "chuẩn" hoặc "cơ sở" để so sánh.
-- **Define Criteria**: Xác định các tiêu chí quan trọng để đánh giá.
-- **Score Alternatives**: Chấm điểm các phương án khác (+, -, S) so với phương án cơ sở.
-- **Sum Scores & Decide**: Tổng hợp điểm số để xác định phương án tốt nhất.
-
-→ **Liên kết:** OPERATIONS (Multi-Criteria Decision Analysis), CREATION (Concept Selection)
-
-#### **22. Consequence Scanning** - Quét Hệ Quả
-
-Một phương pháp chủ động xem xét các hệ quả tiềm tàng (cả tích cực và tiêu cực) của một sản phẩm hoặc quyết định.
-
-- **Identify Stakeholders**: Xác định tất cả các bên liên quan có thể bị ảnh hưởng.
-- **Brainstorm Intended & Unintended Consequences**: Suy nghĩ về các hệ quả mong muốn và không mong muốn.
-- **Mitigate Harms & Amplify Benefits**: Lập kế hoạch để giảm thiểu các tác hại và khuếch đại các lợi ích.
-- **Ethical Review**: Đánh giá quyết định dưới lăng kính đạo đức.
-
-→ **Liên kết:** OPERATIONS (Second-Order Thinking), FOUNDATIONS (Ethical Principles)
-
-#### **23. Decision Journaling** - Viết Nhật Ký Quyết Định
-
-Thực hành ghi lại các quyết định quan trọng để học hỏi và cải thiện quy trình ra quyết định.
-
-- **Record the Context**: Ghi lại bối cảnh, thông tin có sẵn, và trạng thái tinh thần khi ra quyết định.
-- **Document Expectations**: Ghi lại kết quả kỳ vọng và lý do tại sao bạn mong đợi điều đó.
-- **Review Outcomes**: So sánh kết quả thực tế với kỳ vọng.
-- **Extract Lessons**: Rút ra các bài học và các mẫu hình trong quá trình ra quyết định của bạn.
-
-→ **Liên kết:** META (Meta-Learning), VALIDATION (Feedback Systems)
-
-#### **24. The Master Decision Framework** - Khung Quyết Định Bậc Thầy
-
-Siêu kỹ năng lựa chọn và kết hợp các khung ra quyết định khác nhau một cách phù hợp.
-
-- **Framework Selection**: Lựa chọn khung phù hợp nhất với bản chất của vấn đề (ví dụ: Cynefin).
-- **Contextual Application**: Áp dụng khung một cách linh hoạt, nhạy bén với bối cảnh.
-- **Hybrid Framework Design**: Thiết kế các khung lai, kết hợp các yếu tố tốt nhất từ nhiều mô hình.
-- **Decision about Deciding**: Ra quyết định về cách thức bạn sẽ ra quyết định.
-
-→ **Liên kết:** Tích hợp tất cả các khái niệm trong DECISION FRAMEWORKS
-
-### **Các Mục Bổ Sung**
-
-#### **25. Sequential Decision Making** - Ra Quyết Định Tuần Tự
-
-Phương pháp ra quyết định trong đó các lựa chọn được thực hiện theo chuỗi thời gian.
-
-- **Temporal Sequence**: Chuỗi thời gian của các quyết định.
-- **Path Dependency**: Sự phụ thuộc vào đường đi (quyết định trước ảnh hưởng đến quyết định sau).
-- **Multi-Stage Planning**: Hoạch định nhiều giai đoạn.
-- **Chain of Choices**: Chuỗi các lựa chọn liên kết.
-
-→ **Liên kết:** OPERATIONS (Decision Trees), NAVIGATION (Strategic Planning)
-
-#### **26. PDCA Cycle** - Chu Trình PDCA
-
-Chu trình cải tiến liên tục: Plan-Do-Check-Act (Hoạch định-Thực hiện-Kiểm tra-Hành động).
-
-- **Plan**: Hoạch định cải tiến.
-- **Do**: Thực hiện thay đổi ở quy mô nhỏ.
-- **Check**: Kiểm tra kết quả.
-- **Act**: Hành động để chuẩn hóa hoặc cải tiến thêm.
-
-→ **Liên kết:** DYNAMICS (Iterative Refinement), VALIDATION (Continuous Improvement)
-
-#### **27. Jobs-to-be-Done Framework - Khung Công Việc Cần Hoàn Thành [Core Tool]**
+#### **23. Jobs-to-be-Done Framework - Khung Công Việc Cần Hoàn Thành [Core Tool]**
 
 Framework phân tích tập trung vào CÔNG VIỆC mà khách hàng "thuê" một sản phẩm/dịch vụ để hoàn thành, thay vì tập trung vào đặc tính sản phẩm hay phân khúc khách hàng truyền thống. Đây là CÔNG CỤ TRUNG TÂM được áp dụng xuyên suốt từ phân tích nhu cầu đến đổi mới sản phẩm và thiết kế nền tảng.
 
@@ -10154,29 +10120,7 @@ Framework phân tích tập trung vào CÔNG VIỆC mà khách hàng "thuê" m�
 
 → **Liên kết:** CREATION #4 (Innovation Application), AMPLIFICATION #28 (Platform Application), INTEGRATION (User Understanding), VALIDATION (Problem-Solution Fit)
 
-#### **28. OKRs (Objectives & Key Results)** - Mục Tiêu & Kết Quả Chính
-
-Khung thiết lập mục tiêu và đo lường tiến độ.
-
-- **Goal Setting**: Thiết lập mục tiêu rõ ràng.
-- **Measurable Results**: Kết quả có thể đo lường.
-- **Alignment**: Căn chỉnh mục tiêu trong tổ chức.
-- **Tracking Progress**: Theo dõi tiến độ.
-
-→ **Liên kết:** NAVIGATION (Goal Management), VALIDATION (Measurement)
-
-#### **29. Expected Value Thinking** - Tư Duy Giá Trị Kỳ Vọng
-
-Ra quyết định dựa trên tính toán giá trị kỳ vọng của các lựa chọn.
-
-- **Probability Assessment**: Đánh giá xác suất.
-- **Outcome Valuation**: Định giá các kết quả.
-- **Expected Value Calculation**: Tính toán giá trị kỳ vọng (xác suất × giá trị).
-- **Rational Choice**: Lựa chọn hợp lý dựa trên EV.
-
-→ **Liên kết:** OPERATIONS (Probabilistic Thinking), FOUNDATIONS (Expected Value)
-
-#### **30. BATNA Principle** - Nguyên Tắc BATNA
+#### **24. BATNA Principle** - Nguyên Tắc BATNA
 
 Best Alternative To a Negotiated Agreement - Lựa chọn tốt nhất thay thế cho thỏa thuận đàm phán.
 
@@ -10187,7 +10131,64 @@ Best Alternative To a Negotiated Agreement - Lựa chọn tốt nhất thay th�
 
 → **Liên kết:** OPERATIONS (Negotiation), NAVIGATION (Strategic Positioning)
 
-#### **31. Flow Optimization** - Tối Ưu Hóa Dòng Chảy
+### **5. Organizational & Process Systems - Hệ Thống Tổ Chức & Quy Trình**
+
+#### **25. RACI Matrix** - Ma Trận RACI
+
+Một khung để làm rõ và phân công vai trò, trách nhiệm trong các dự án và quy trình ra quyết định.
+
+- **Responsible**: Người chịu trách nhiệm thực hiện công việc.
+- **Accountable**: Người chịu trách nhiệm cuối cùng về kết quả (chỉ một người).
+- **Consulted**: Những người được tham vấn trước khi quyết định.
+- **Informed**: Những người được thông báo về quyết định hoặc hành động.
+
+→ **Liên kết:** INTEGRATION (Collaboration), NAVIGATION (Accountability)
+
+#### **26. Consequence Scanning** - Quét Hệ Quả
+
+Một phương pháp chủ động xem xét các hệ quả tiềm tàng (cả tích cực và tiêu cực) của một sản phẩm hoặc quyết định.
+
+- **Identify Stakeholders**: Xác định tất cả các bên liên quan có thể bị ảnh hưởng.
+- **Brainstorm Intended & Unintended Consequences**: Suy nghĩ về các hệ quả mong muốn và không mong muốn.
+- **Mitigate Harms & Amplify Benefits**: Lập kế hoạch để giảm thiểu các tác hại và khuếch đại các lợi ích.
+- **Ethical Review**: Đánh giá quyết định dưới lăng kính đạo đức.
+
+→ **Liên kết:** OPERATIONS (Second-Order Thinking), FOUNDATIONS (Ethical Principles)
+
+#### **27. Decision Journaling** - Viết Nhật Ký Quyết Định
+
+Thực hành ghi lại các quyết định quan trọng để học hỏi và cải thiện quy trình ra quyết định.
+
+- **Record the Context**: Ghi lại bối cảnh, thông tin có sẵn, và trạng thái tinh thần khi ra quyết định.
+- **Document Expectations**: Ghi lại kết quả kỳ vọng và lý do tại sao bạn mong đợi điều đó.
+- **Review Outcomes**: So sánh kết quả thực tế với kỳ vọng.
+- **Extract Lessons**: Rút ra các bài học và các mẫu hình trong quá trình ra quyết định của bạn.
+
+→ **Liên kết:** META (Meta-Learning), VALIDATION (Feedback Systems)
+
+#### **28. PDCA Cycle** - Chu Trình PDCA
+
+Chu trình cải tiến liên tục: Plan-Do-Check-Act (Hoạch định-Thực hiện-Kiểm tra-Hành động).
+
+- **Plan**: Hoạch định cải tiến.
+- **Do**: Thực hiện thay đổi ở quy mô nhỏ.
+- **Check**: Kiểm tra kết quả.
+- **Act**: Hành động để chuẩn hóa hoặc cải tiến thêm.
+
+→ **Liên kết:** DYNAMICS (Iterative Refinement), VALIDATION (Continuous Improvement)
+
+#### **29. OKRs (Objectives & Key Results)** - Mục Tiêu & Kết Quả Chính
+
+Khung thiết lập mục tiêu và đo lường tiến độ.
+
+- **Goal Setting**: Thiết lập mục tiêu rõ ràng.
+- **Measurable Results**: Kết quả có thể đo lường.
+- **Alignment**: Căn chỉnh mục tiêu trong tổ chức.
+- **Tracking Progress**: Theo dõi tiến độ.
+
+→ **Liên kết:** NAVIGATION (Goal Management), VALIDATION (Measurement)
+
+#### **30. Flow Optimization** - Tối Ưu Hóa Dòng Chảy
 
 Nguyên tắc tối đa hóa hiệu quả của các dòng chảy (thông tin, vật liệu, năng lượng).
 
@@ -10198,7 +10199,9 @@ Nguyên tắc tối đa hóa hiệu quả của các dòng chảy (thông tin, v
 
 → **Liên kết:** OPERATIONS (Process Optimization), DYNAMICS (Flow State)
 
-#### **32. Grey's Law** - Định Luật Grey
+### **6. Decision Laws & Cognitive Heuristics - Định Luật & Heuristic Nhận Thức**
+
+#### **31. Grey's Law** - Định Luật Grey
 
 "Any sufficiently advanced incompetence is indistinguishable from malice" - Sự bất tài đủ tiên tiến không thể phân biệt với ác ý.
 
@@ -10209,7 +10212,7 @@ Nguyên tắc tối đa hóa hiệu quả của các dòng chảy (thông tin, v
 
 → **Liên kết:** OPERATIONS (Hanlon's Razor), VALIDATION (Attribution Analysis)
 
-#### **33. Shirky Principle - Nguyên Tắc Shirky [Công Cụ Phát Hiện Bias]**
+#### **32. Shirky Principle - Nguyên Tắc Shirky [Công Cụ Phát Hiện Bias]**
 
 "Institutions will try to preserve the problem to which they are the solution"
 
@@ -10225,7 +10228,7 @@ Nguyên tắc tối đa hóa hiệu quả của các dòng chảy (thông tin, v
 → **Các công cụ tương tự:** OPERATIONS (Hanlon's Razor #35)
 → **Ứng dụng:** Khi phân tích đề xuất từ bộ phận nội bộ, luôn hỏi: "Họ có lợi ích gì trong việc duy trì vấn đề này?"
 
-#### **34. Actor-Observer Bias** - Thiên Kiến Người Hành Động-Người Quan Sát
+#### **33. Actor-Observer Bias** - Thiên Kiến Người Hành Động-Người Quan Sát
 
 Xu hướng quy kết hành vi của người khác cho tính cách nhưng hành vi của bản thân cho hoàn cảnh.
 
@@ -10236,7 +10239,7 @@ Xu hướng quy kết hành vi của người khác cho tính cách nhưng hành
 
 → **Liên kết:** OPERATIONS (Social Reasoning), META (Self-Awareness)
 
-#### **35. Eisenhower's Razor** - Dao Cạo của Eisenhower [Nguyên Tắc Urgent vs Important]
+#### **34. Eisenhower's Razor** - Dao Cạo của Eisenhower [Nguyên Tắc Urgent vs Important]
 
 "What is important is seldom urgent, and what is urgent is seldom important" - Điều quan trọng hiếm khi khẩn cấp, và điều khẩn cấp hiếm khi quan trọng.
 
@@ -10253,10 +10256,10 @@ Xu hướng quy kết hành vi của người khác cho tính cách nhưng hành
 **Tại sao nguyên tắc này quan trọng:** Não người được thiết kế để ưu tiên mối đe dọa trước mắt (urgent), nhưng trong thế giới hiện đại, hầu hết điều "urgent" không phải mối đe dọa thực sự, trong khi những điều thực sự định hình tương lai (important) lại không tạo áp lực tức thời.
 
 → **Công cụ thực hành:** NAVIGATION #1 (Eisenhower Matrix - ứng dụng nguyên tắc này)
-→ **Liên kết nội bộ:** OPERATIONS #37 (Parkinson's Law - về bản chất thời gian), META (Bias Awareness - thiên kiến ưu tiên urgent)
+→ **Liên kết nội bộ:** OPERATIONS #36 (Parkinson's Law - về bản chất thời gian), META (Bias Awareness - thiên kiến ưu tiên urgent)
 → **Các Razor liên quan:** OPERATIONS #34 (Hanlon's Razor), #35 (Occam's Razor) - cùng nhóm analytical razors
 
-#### **36. Parkinson's Law** - Định Luật Parkinson [Time & Resource Management]
+#### **35. Parkinson's Law** - Định Luật Parkinson [Time & Resource Management]
 
 ỨNG DỤNG THỰC HÀNH của Parkinson's Law trong quản lý thời gian, tài nguyên và ra quyết định. Khác với nguyên lý phổ quát ở FOUNDATIONS #33, đây là về CÔNG CỤ và KỸ THUẬT để tận dụng hoặc chống lại định luật này.
 
@@ -10273,9 +10276,9 @@ Xu hướng quy kết hành vi của người khác cho tính cách nhưng hành
 - **Sprint Methodology**: Làm việc theo chu kỳ ngắn, tập trung cao
 
 → **Liên kết:** FOUNDATIONS #33 (Parkinson's Law - quy luật phổ quát), NAVIGATION (Time Management), VALIDATION (Productivity Analysis)
-→ **Định luật liên quan:** Hofstadter's Law #38 (dự đoán thời gian), Parkinson's Law of Triviality (bikeshedding)
+→ **Định luật liên quan:** Hofstadter's Law #36 (dự đoán thời gian), Parkinson's Law of Triviality (bikeshedding)
 
-#### **37. Hofstadter's Law** - Định Luật Hofstadter
+#### **36. Hofstadter's Law** - Định Luật Hofstadter
 
 "It always takes longer than you expect, even when you take into account
 Hofstadter's Law" - Luôn mất nhiều thời gian hơn dự kiến, ngay cả khi bạn
@@ -10290,7 +10293,7 @@ Hofstadter's Law" - Luôn mất nhiều thời gian hơn dự kiến, ngay cả 
 → **Liên kết nội bộ:**
   • NAVIGATION (Planning & Strategy): Sử dụng để lập kế hoạch thực tế
   • VALIDATION (Reality Check): Kiểm chứng ước lượng với thực tế
-  • OPERATIONS #37 (Parkinson's Law): Kết hợp để quản lý thời gian
+  • OPERATIONS #35 (Parkinson's Law): Kết hợp để quản lý thời gian
 
 → **Góc nhìn từ domain khác:**
   • DYNAMICS #47 (System Evolution): Xem góc độ TIẾN HÓA HỆ THỐNG -
@@ -10305,7 +10308,7 @@ Hofstadter's Law" - Luôn mất nhiều thời gian hơn dự kiến, ngay cả 
 
 → **Tags:** #decision-making #planning #time-estimation #bias #complexity
 
-#### **38. Murphy's Law** - Định Luật Murphy
+#### **37. Murphy's Law** - Định Luật Murphy
 
 "Anything that can go wrong will go wrong" - Mọi thứ có thể sai sẽ sai.
 
@@ -10316,7 +10319,7 @@ Hofstadter's Law" - Luôn mất nhiều thời gian hơn dự kiến, ngay cả 
 
 → **Liên kết:** VALIDATION (Risk Assessment), VALIDATION #5 (Pre-mortem Analysis)
 
-#### **39. Opportunity Cost Razor** - Dao Cạo Chi Phí Cơ Hội
+#### **38. Opportunity Cost Razor** - Dao Cạo Chi Phí Cơ Hội
 
 Luôn xem xét giá trị của lựa chọn tốt nhất tiếp theo mà bạn từ bỏ.
 
@@ -10327,7 +10330,7 @@ Luôn xem xét giá trị của lựa chọn tốt nhất tiếp theo mà bạn 
 
 → **Liên kết:** OPERATIONS (Opportunity Cost Thinking), NAVIGATION (Resource Management)
 
-#### **40. Sunk Cost Razor** - Dao Cạo Chi Phí Chìm
+#### **39. Sunk Cost Razor** - Dao Cạo Chi Phí Chìm
 
 Nguyên tắc ra quyết định: Không nên xem xét chi phí đã bỏ ra (không thể thu hồi) khi ra quyết định về tương lai. Chi phí chìm là KHÔNG LIÊN QUAN đến quyết định hợp lý - chỉ nên tập trung vào giá trị tương lai.
 
@@ -10338,7 +10341,7 @@ Nguyên tắc ra quyết định: Không nên xem xét chi phí đã bỏ ra (kh
 
 → **Liên kết nội bộ:**
   • OPERATIONS #8 (Sunk Cost Fallacy - thiên kiến cần khắc phục)
-  • OPERATIONS #14 (Opportunity Cost Thinking - so sánh với chi phí cơ hội)
+  • OPERATIONS #17 (Opportunity Cost Thinking - so sánh với chi phí cơ hội)
   • META (Bias Awareness - nhận thức về thiên kiến)
 
 → **Ứng dụng trong các domain khác:**
@@ -10350,6 +10353,15 @@ Nguyên tắc ra quyết định: Không nên xem xét chi phí đã bỏ ra (kh
   • Business: Ngừng dự án thua lỗ mặc dù đã đầu tư hàng triệu
   • Personal: Rời khỏi mối quan hệ độc hại mặc dù đã "đầu tư" nhiều năm
   • Investment: Bán cổ phiếu thua lỗ thay vì giữ để "gỡ vốn"
+
+### **7. Cross-References & Navigation Metrics - Tham Chiếu & Chỉ Số Điều Hướng**
+
+#### **40. Eisenhower Matrix** - Ma Trận Eisenhower → Xem NAVIGATION #1
+
+Công cụ ưu tiên phân loại nhiệm vụ theo hai trục: Urgent vs Important. Đã được GỘP VÀO NAVIGATION #1 (Resource & Priority Management) - vị trí tự nhiên hơn cho công cụ quản lý tài nguyên và ưu tiên.
+
+→ **Xem chi tiết:** NAVIGATION #1 (Eisenhower Matrix - phiên bản đầy đủ với 4 quadrants và hướng dẫn ứng dụng)
+→ **Nguyên lý nền tảng:** OPERATIONS #34 (Eisenhower's Razor - nguyên tắc urgent vs important)
 
 #### **41. Progress Indicators** - Chỉ Báo Tiến Độ
 
@@ -10401,6 +10413,8 @@ Các chỉ số đánh giá tiến độ tại các điểm kiểm tra trung gia
 → **NAVIGATION #40: Navigation ROI - Lợi Nhuận Đầu Tư Điều Hướng**
 
 Khái niệm này được đặt tại NAVIGATION vì đó là domain tự nhiên cho việc quản lý và đo lường hiệu quả của hoạt động điều hướng chiến lược
+
+### **8. Specialized Applications & Domains - Ứng Dụng & Lĩnh Vực Chuyên Biệt**
 
 #### **46. Applied Decision Domains** - Các Lĩnh Vực Quyết Định Ứng Dụng
 
@@ -10472,7 +10486,6 @@ Các quy trình cơ bản của tính toán và xử lý thông tin.
 - **Systematic Procedures**: Thủ tục có hệ thống.
 
 → **Liên kết:** OPERATIONS (Algorithmic Reasoning), FOUNDATIONS (Computation)
-
 ---
 
 # [4]. CREATION - SÁNG TẠO
