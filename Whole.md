@@ -20860,7 +20860,7 @@ Sử dụng thất bại hoặc đổ vỡ như một phương pháp để đạ
 
 Xác định và giảm thiểu rủi ro, phát hiện lỗi sai lầm và duy trì tiêu chuẩn chất lượng cao.
 
-### **Các Khái Niệm & Phương Pháp Cốt Lõi**
+### **1. Core Cognitive Biases - Thiên Kiến Nhận Thức Cốt Lõi**
 
 #### **1. Confirmation Bias** - Thiên Kiến Xác Nhận
 Khuynh hướng tìm kiếm, diễn giải và ghi nhớ thông tin theo cách xác nhận các niềm tin có sẵn của một người.
@@ -20925,6 +20925,8 @@ Khuynh hướng tiếp tục một nỗ lực vì các nguồn lực đã đư�
 - **Psychological Investment**: Đầu tư tâm lý vào dự án.
 - **Rational Exit Failure**: Thất bại trong việc thoát ra một cách hợp lý.
 → **Liên kết:** OPERATIONS (Decision Frameworks), FOUNDATIONS (Mental Models)
+
+### **2. Risk Detection Patterns & Model Fallacies - Mẫu Phát Hiện Rủi Ro & Ngụy Biện Mô Hình**
 
 #### **9. The Streetlight Effect - Hiệu Ứng Đèn Đường [Rủi Ro Kiểm Chứng]**
 
@@ -21138,6 +21140,8 @@ Thực hành có vẻ ngoài của nghiên cứu khoa học nghiêm ngặt nhưn
   • Quy hoạch đô thị & môi trường (năng lượng, nước, không gian)
   • Phát triển bền vững (carbon budget, tài nguyên tái tạo)
 
+### **3. Psychological Effects & System Dynamics - Hiệu Ứng Tâm Lý & Động Lực Hệ Thống**
+
 #### **17. The Gell-Mann Amnesia Effect** - Hiệu Ứng Mất Trí Nhớ Gell-Mann
 
 Một thiên kiến nhận thức quan trọng trong QUALITY ASSURANCE: Hiện tượng một người đọc một bài báo trong lĩnh vực chuyên môn của mình, nhận ra nó đầy lỗi và thiếu chính xác, rồi lật sang trang tiếp theo và đọc các bài báo về các lĩnh vực khác như thể chúng hoàn toàn đáng tin cậy.
@@ -21268,6 +21272,8 @@ VẤN ĐỀ PHƯƠNG PHÁP LUẬN: Hành động quan sát và đo lường CAN 
 → **Chiều đạo đức:** FOUNDATIONS #3 (trách nhiệm đạo đức)
 → **Công cụ meta:** META LAYER #31 (quan sát việc quan sát)
 
+### **4. Measurement Fallacies & Biases - Ngụy Biện & Thiên Kiến Đo Lường**
+
 #### **25. Goodhart's Law** - Định Luật Goodhart [Trong Thiết Kế Đo Lường]
 
 CẢNH BÁO THIẾT KẾ: "Khi một thước đo trở thành mục tiêu, nó không còn là một thước đo tốt nữa."
@@ -21352,6 +21358,8 @@ Khuynh hướng bỏ qua thông tin thống kê chung (tỷ lệ cơ sở) và t
 - **Bayesian Reasoning Failure**: Thất bại trong suy luận Bayesian.
 → **Liên kết:** OPERATIONS (Bayesian Thinking), VALIDATION (Statistical Process Control)
 
+### **5. Validation Mastery & Risk Frameworks - Bậc Thầy Kiểm Chứng & Khung Đánh Giá Rủi Ro**
+
 #### **33. The Master Validator** - Bậc Thầy Kiểm Chứng
 Khả năng tích hợp và điều phối tất cả các phương pháp kiểm chứng một cách linh hoạt và thích nghi.
 - **Multi-Method Mastery**: Thành thạo nhiều phương pháp kiểm chứng.
@@ -21359,8 +21367,6 @@ Khả năng tích hợp và điều phối tất cả các phương pháp kiểm
 - **Dynamic Calibration**: Hiệu chỉnh động dựa trên phản hồi liên tục.
 - **Meta-Validation**: Kiểm chứng các quy trình kiểm chứng.
 → **Liên kết:** Tích hợp tất cả các khái niệm trong VALIDATION, [META] LAYER (Meta-Learning)
-
-### **Các Khái Niệm & Phương Pháp Bổ Sung**
 
 #### **34. Risk Assessment** - Đánh Giá Rủi Ro [Quy Trình Kiểm Định Hệ Thống]
 
@@ -21438,6 +21444,8 @@ Quy tắc 80/20: 80% kết quả đến từ 20% nguyên nhân.
 - **Focus Optimization**: Tối ưu hóa sự tập trung.
 - **Vital Few**: Số ít quan trọng.
 → **Liên kết:** NAVIGATION (Leverage), OPERATIONS (Prioritization)
+
+### **6. Statistical Laws & Distribution Patterns - Định Luật Thống Kê & Mẫu Phân Phối**
 
 #### **41. Price's Law** - Định Luật Price
 Một nửa sản lượng được tạo ra bởi căn bậc hai số lượng người đóng góp.
@@ -21544,6 +21552,8 @@ Các công cụ kiểm chứng liên quan vẫn còn trong VALIDATION:
 - **Expectation Management**: Quản lý kỳ vọng.
 → **Liên kết:** NAVIGATION (Strategic Wayfinding), VALIDATION (Ground Truth Validation)
 
+### **7. Validation Razors & Filters - Dao Cạo & Bộ Lọc Kiểm Chứng**
+
 #### **49. Survivorship Bias Filter** - Bộ Lọc Thiên Kiến Sống Sót
 Công cụ để nhận diện và điều chỉnh thiên kiến chỉ nhìn vào những gì tồn tại.
 - **Invisible Failures**: Những thất bại vô hình.
@@ -21620,6 +21630,8 @@ Tối đa hóa entropy (thông tin) trong khi tối thiểu hóa độ phức t�
 - **Prevention Focus**: Tập trung phòng ngừa.
 → **Liên kết:** VALIDATION (Peer Review), OPERATIONS (Efficiency)
 
+### **8. Testing Methodologies & Predictability - Phương Pháp Kiểm Thử & Khả Năng Dự Đoán**
+
 #### **57. Antifragility Testing** - Kiểm Thử Tính Phản Mỏng Manh
 Kiểm tra xem hệ thống có được lợi từ stress và biến động không.
 - **Stress Benefit**: Lợi ích từ stress.
@@ -21676,9 +21688,7 @@ Xác thực toàn bộ hệ thống như một thể thống nhất, không ch�
 - **System-Level Behavior**: Hành vi cấp hệ thống.
 → **Liên kết:** INTEGRATION (Systemic Integration), DYNAMICS (Emergence & Self-Organization)
 
-### **Factors Affecting Predictability - Các Yếu Tố Ảnh Hưởng Đến Khả Năng Dự Đoán**
-
-#### **Butterfly Effect Awareness** - Nhận Biết Hiệu Ứng Cánh Bướm
+#### **64. Butterfly Effect Awareness** - Nhận Biết Hiệu Ứng Cánh Bướm [Factors Affecting Predictability - Các Yếu Tố Ảnh Hưởng Đến Khả Năng Dự Đoán]
 
 Trong đánh giá rủi ro và quản lý chất lượng, cần nhận biết các hệ thống có tính chất Butterfly Effect (xem FOUNDATIONS #41) để:
 
