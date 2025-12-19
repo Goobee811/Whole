@@ -11103,7 +11103,7 @@ Một quy trình lặp lại, lấy con người làm trung tâm để giải qu
 
 → **Liên kết:** VALIDATION (giai đoạn Test), INTEGRATION (giai đoạn Empathize & Define)
 
-#### **2. Lean Innovation** - Đổi Mới Tinh Gọn
+#### **2. Lean Innovation - Đổi Mới Tinh Gọn**
 
 Một phương pháp đột phá để tạo ra đổi mới trong điều kiện BẤT ĐỊNH cao - giảm thiểu lãng phí và tăng tốc độ học hỏi thông qua chu kỳ lặp nhanh chóng. Được Eric Ries phổ biến qua "The Lean Startup" (2011), phương pháp này cách mạng hóa cách các doanh nghiệp mới và sản phẩm mới được phát triển.
 
@@ -11127,7 +11127,7 @@ Một phương pháp đột phá để tạo ra đổi mới trong điều kiệ
 → **Liên kết nội bộ:** VALIDATION (Continuous Testing, Experimentation), OPERATIONS (Agile Methods, Iterative Development), NAVIGATION (Pivot Decisions, Resource Optimization)
 → **Ứng dụng trong các domain khác:** AMPLIFICATION (test platform features), INTEGRATION (service design), NAVIGATION (strategic planning)
 
-#### **3. Jobs-to-be-Done Innovation Application** - Ứng Dụng JTBD Trong Đổi Mới
+#### **3. Jobs-to-be-Done Innovation Application - Ứng Dụng JTBD Trong Đổi Mới**
 
 Áp dụng framework Jobs-to-be-Done để tìm kiếm cơ hội đổi mới đột phá.
 
@@ -11143,7 +11143,7 @@ Một phương pháp đột phá để tạo ra đổi mới trong điều kiệ
 → **Liên kết:** VALIDATION (Problem-Solution Fit), INTEGRATION (User Understanding)
 → **Kết hợp với:** Disruptive Innovation Theory, Blue Ocean Strategy (NAVIGATION #5)
 
-#### **4. Disruptive Innovation Theory** - Lý Thuyết Đổi Mới Đột Phá
+#### **4. Disruptive Innovation Theory - Lý Thuyết Đổi Mới Đột Phá**
 
 Hiểu và tạo ra các đổi mới có khả năng thay thế các công nghệ hoặc mô hình kinh doanh hiện có.
 
@@ -11169,7 +11169,7 @@ Phương pháp đổi mới bằng cách MỞ CỬA tổ chức cho ý tưởng 
 → **Ví dụ:** Open Source, Innovation Challenges, External Partnerships
 → **Khác biệt:** Ở CREATION, tập trung vào PHƯƠNG PHÁP tạo đột phá cho một dự án/sản phẩm cụ thể, chưa đến giai đoạn xây dựng platform quy mô lớn
 
-#### **6. Agile Innovation** - Đổi Mới Linh Hoạt
+#### **6. Agile Innovation - Đổi Mới Linh Hoạt**
 
 Áp dụng các nguyên tắc Agile vào quá trình đổi mới.
 
@@ -11228,7 +11228,7 @@ Tái cấu trúc cách tạo ra, cung cấp và thu giá trị.
 
 → **Liên kết:** INTEGRATION (System Design), NAVIGATION (Business Strategy)
 
-#### **11. Platform Innovation** - Đổi Mới Nền Tảng
+#### **11. Platform Innovation - Đổi Mới Nền Tảng**
 
 Tạo ra các nền tảng kết nối nhiều nhóm người dùng và tạo hiệu ứng mạng lưới.
 
@@ -11239,7 +11239,7 @@ Tạo ra các nền tảng kết nối nhiều nhóm người dùng và tạo hi
 
 → **Liên kết:** AMPLIFICATION (Network Effects), INTEGRATION (Ecosystem Building)
 
-#### **12. Combinatorial Innovation** - Đổi Mới Kết Hợp
+#### **12. Combinatorial Innovation - Đổi Mới Kết Hợp**
 
 Kết hợp các công nghệ, ý tưởng hoặc khả năng hiện có theo những cách mới.
 
@@ -11263,7 +11263,7 @@ Chủ động tạo ra một môi trường và các quy trình để nuôi dư�
 
 → **Liên kết:** CREATION (Innovation Methods), AMPLIFICATION (Catalysts)
 
-#### **14. Evolution Hacking** - Hack Tiến Hóa [Thiết Kế & Định Hướng]
+#### **14. Evolution Hacking - Hack Tiến Hóa [Thiết Kế & Định Hướng]**
 
 Chủ động thiết kế và định hướng các quy trình tiến hóa thay vì chờ đợi sự thay đổi tự nhiên. Khác với việc TĂNG TỐC ở DYNAMICS, đây là về KIỂM SOÁT và ĐỊNH HÌNH - tạo ra tiến hóa có MỤC ĐÍCH.
 
@@ -11274,7 +11274,7 @@ Chủ động thiết kế và định hướng các quy trình tiến hóa thay
 
 → **Liên kết:** [META] LAYER (Meta-Learning), DYNAMICS #58 (Evolution Hacking - tăng tốc biến đổi), DYNAMICS #1 (Evolution & Adaptation), OPERATIONS (Genetic Algorithms, A/B Testing)
 
-#### **15. Genius Mode Activation** - Kích Hoạt Chế Độ Thiên Tài
+#### **15. Genius Mode Activation - Kích Hoạt Chế Độ Thiên Tài**
 
 Đi vào một trạng thái nhận thức đỉnh cao, nơi các đột phá sáng tạo và sự thấu suốt sâu sắc xảy ra một cách tự nhiên.
 
@@ -11285,7 +11285,7 @@ Chủ động thiết kế và định hướng các quy trình tiến hóa thay
 
 → **Liên kết:** DYNAMICS (Flow State Dynamics), TRANSCENDENCE (Gnosis)
 
-#### **16. Creative Singularity** - Điểm Kỳ Dị Sáng Tạo
+#### **16. Creative Singularity - Điểm Kỳ Dị Sáng Tạo**
 
 Một điểm giả định nơi khả năng tạo ra ý tưởng và đổi mới tăng tốc đến vô hạn.
 
@@ -11296,7 +11296,7 @@ Một điểm giả định nơi khả năng tạo ra ý tưởng và đổi m�
 
 → **Liên kết:** AMPLIFICATION (Exponential Multipliers), TRANSCENDENCE (Infinity)
 
-#### **17. Alchemical Creation** - Sáng Tạo Giả Kim
+#### **17. Alchemical Creation - Sáng Tạo Giả Kim**
 
 Quá trình biến đổi một thứ gì đó thông thường, cơ bản (chì) thành một thứ có giá trị, tinh túy (vàng).
 
@@ -11320,7 +11320,7 @@ Sử dụng câu chuyện mạnh mẽ để định hướng và truyền cảm 
 
 → **Liên kết:** INTEGRATION (Narrative Weaving), AMPLIFICATION (Viral Mechanics)
 
-#### **19. Prototyping** - Tạo Mẫu
+#### **19. Prototyping - Tạo Mẫu**
 
 Quá trình xây dựng các phiên bản thử nghiệm của một ý tưởng để học hỏi, kiểm tra và giao tiếp.
 
@@ -11343,7 +11343,7 @@ Một phiên bản đơn giản hóa của TRIZ, tập trung vào 5 mẫu hình 
 
 → **Liên kết:** OPERATIONS (Constraint Analysis), IDEA GENERATION
 
-#### **21. World-Building** - Xây Dựng Thế Giới [Comprehensive Creation Method]
+#### **21. World-Building - Xây Dựng Thế Giới [Comprehensive Creation Method]**
 
 Một phương pháp sáng tạo toàn diện để thiết kế các hệ thống, thế giới hoặc tương lai mạch lạc với logic nội tại riêng. World-Building hoạt động ở HAI CẤP ĐỘ: như một CÔNG CỤ SÁNG TẠO (Ideation Platform) và như một PHƯƠNG PHÁP ĐỔI MỚI ĐỘT PHÁ (Innovation Method).
 
@@ -11379,7 +11379,7 @@ Sử dụng thiết kế như một phương tiện để đặt câu hỏi, khi
 
 → **Liên kết:** TRANSCENDENCE (Paradigm Questioning), NAVIGATION (Futures Thinking)
 
-#### **23. Service Design** - Thiết Kế Dịch Vụ
+#### **23. Service Design - Thiết Kế Dịch Vụ**
 
 Thiết kế dịch vụ từ góc nhìn toàn diện, xem xét cả trải nghiệm người dùng và hệ thống hậu trường.
 
@@ -11417,7 +11417,7 @@ Tạo ra các không gian riêng biệt để thử nghiệm và đổi mới m�
 
 → **Liên kết:** VALIDATION (Safe Experimentation), OPERATIONS (Process Innovation)
 
-#### **26. Reverse Innovation** - Đổi Mới Ngược
+#### **26. Reverse Innovation - Đổi Mới Ngược**
 
 Phát triển sản phẩm cho thị trường mới nổi sau đó đưa về thị trường phát triển.
 
@@ -11441,7 +11441,7 @@ Phát triển sản phẩm cho thị trường mới nổi sau đó đưa về t
 
 → **Liên kết:** VALIDATION (Measurement Systems), NAVIGATION (Performance Management)
 
-#### **28. Technology Scouting** - Trinh Sát Công Nghệ
+#### **28. Technology Scouting - Trinh Sát Công Nghệ**
 
 Tìm kiếm và đánh giá các công nghệ mới nổi có thể tạo ra cơ hội đổi mới.
 
@@ -11452,7 +11452,7 @@ Tìm kiếm và đánh giá các công nghệ mới nổi có thể tạo ra cơ
 
 → **Liên kết:** NAVIGATION (Strategic Foresight), AMPLIFICATION (Technology Leverage)
 
-#### **29. Innovation Sprints** - Chạy Nước Rút Đổi Mới
+#### **29. Innovation Sprints - Chạy Nước Rút Đổi Mới**
 
 Các giai đoạn tập trung cao độ, giới hạn thời gian để giải quyết các thách thức đổi mới cụ thể.
 
@@ -11485,7 +11485,7 @@ Hình thành các mối quan hệ đối tác chiến lược để tăng cườ
 
 → **Liên kết:** INTEGRATION (Ecosystem Building), AMPLIFICATION (Resource Pooling)
 
-#### **32. Corporate Venturing** - Đầu Tư Mạo Hiểm Doanh Nghiệp
+#### **32. Corporate Venturing - Đầu Tư Mạo Hiểm Doanh Nghiệp**
 
 Đầu tư vào hoặc tạo ra các doanh nghiệp mới để thúc đẩy đổi mới.
 
@@ -11533,7 +11533,7 @@ Tìm kiếm và khai thác các "lỗ hổng" trong hệ thống hiện thực �
 
 → **Liên kết:** OPERATIONS (Systems Thinking), DYNAMICS (Disruption)
 
-#### **36. Phoenix Innovation** - Đổi Mới Phượng Hoàng
+#### **36. Phoenix Innovation - Đổi Mới Phượng Hoàng**
 
 Tạo ra sự đổi mới từ tro tàn của thất bại hoặc khủng hoảng.
 
@@ -11544,7 +11544,7 @@ Tạo ra sự đổi mới từ tro tàn của thất bại hoặc khủng hoả
 
 → **Liên kết:** TRANSCENDENCE (Death & Rebirth), DYNAMICS (Phase Transition)
 
-#### **37. Innovation Cascades** - Thác Đổi Mới
+#### **37. Innovation Cascades - Thác Đổi Mới**
 
 Tạo ra chuỗi phản ứng đổi mới, trong đó một đổi mới dẫn đến nhiều đổi mới khác.
 
@@ -11555,7 +11555,7 @@ Tạo ra chuỗi phản ứng đổi mới, trong đó một đổi mới dẫn 
 
 → **Liên kết:** AMPLIFICATION (Chain Reactions), DYNAMICS (Cascade Effects)
 
-#### **38. Alternative Economics Models** - Các Mô Hình Kinh Tế Thay Thế
+#### **38. Alternative Economics Models - Các Mô Hình Kinh Tế Thay Thế**
 
 Phát triển các hệ thống kinh tế không truyền thống.
 
@@ -11566,7 +11566,7 @@ Phát triển các hệ thống kinh tế không truyền thống.
 
 → **Liên kết:** NAVIGATION (System Design), INTEGRATION (Social Innovation)
 
-#### **39. Innovative Governance Systems** - Hệ Thống Quản Trị Đổi Mới
+#### **39. Innovative Governance Systems - Hệ Thống Quản Trị Đổi Mới**
 
 Thử nghiệm với các hình thức quản trị và tổ chức mới.
 
@@ -11577,7 +11577,7 @@ Thử nghiệm với các hình thức quản trị và tổ chức mới.
 
 → **Liên kết:** OPERATIONS (Organizational Design), AMPLIFICATION (Network Governance)
 
-#### **40. New Relationship Models** - Các Mô Hình Quan Hệ Mới
+#### **40. New Relationship Models - Các Mô Hình Quan Hệ Mới**
 
 Tái tưởng tượng cách con người liên kết với nhau.
 
@@ -11588,7 +11588,7 @@ Tái tưởng tượng cách con người liên kết với nhau.
 
 → **Liên kết:** INTEGRATION (Social Systems), TRANSCENDENCE (New Paradigms)
 
-#### **41. Solutions Journalism** - Báo Chí Giải Pháp
+#### **41. Solutions Journalism - Báo Chí Giải Pháp**
 
 Hình thức báo chí tập trung vào các giải pháp thay vì chỉ vấn đề.
 
