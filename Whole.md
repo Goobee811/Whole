@@ -9755,8 +9755,6 @@ Các quy trình và giao thức y tế chuẩn.
 
 Các mô hình có cấu trúc để đánh giá các lựa chọn, quản lý rủi ro và lựa chọn một hướng hành động tối ưu trong các bối cảnh khác nhau. Đây là "hệ thống ra quyết định" của OPERATIONS.
 
-Các mô hình có cấu trúc để đánh giá các lựa chọn, quản lý rủi ro và lựa chọn một hướng hành động tối ưu trong các bối cảnh khác nhau. Đây là "hệ thống ra quyết định" của OPERATIONS.
-
 ### **1. Strategic Decision Frameworks - Khung Quyết Định Chiến Lược**
 
 #### **1. Game Theory** - Lý Thuyết Trò Chơi
@@ -12177,7 +12175,7 @@ Truyền thống kể chuyện và ma thuật ngôn từ Celtic.
 
 Khả năng phá vỡ các mẫu hình cũ và tái kết hợp các yếu tố theo những cách mới - cốt lõi của đổi mới thực sự. Đây là nghệ thuật phá hủy sáng tạo và tổng hợp mới.
 
-### **Nhóm 1: Pattern Disruption & Creative Destruction - Phá Vỡ Mẫu Hình & Hủy Diệt Sáng Tạo (3 mục)**
+### **1. Pattern Disruption & Creative Destruction - Phá Vỡ Mẫu Hình & Hủy Diệt Sáng Tạo**
 
 #### **1. Paradigm Disruption - Phá Vỡ Mô Hình**
 
@@ -12212,7 +12210,7 @@ Cố ý vượt qua các ranh giới và phạm trù.
 
 → **Liên kết:** TRANSCENDENCE (Beyond Categories), CREATION (Innovation)
 
-### **Nhóm 2: Recombination & Remix Techniques - Kỹ Thuật Tái Kết Hợp & Tái Phối (5 mục)**
+### **2. Recombination & Remix Techniques - Kỹ Thuật Tái Kết Hợp & Tái Phối**
 
 #### **4. Remix Culture - Văn Hóa Tái Phối**
 
@@ -12269,7 +12267,7 @@ Tháo rời các cấu trúc hiện có và lắp ráp lại theo cách mới.
 
 → **Liên kết:** CREATION (Bisociation), INTEGRATION (Meaning Making)
 
-### **Nhóm 3: Constraint Transformation - Biến Đổi Ràng Buộc (1 mục)**
+### **3. Constraint Transformation - Biến Đổi Ràng Buộc**
 
 #### **9. Constraint Transformation - Biến Đổi Ràng Buộc [Thử Nghiệm & Đột Phá]**
 
@@ -12327,7 +12325,7 @@ Chơi đùa chiến lược với ràng buộc.
 → **Transcendence:** TRANSCENDENCE (Beyond Limits)
 → **Ideation:** CREATION (Ideation)
 
-### **Nhóm 4: Scale, Dimension & Evolution - Quy Mô, Chiều & Tiến Hóa (4 mục)**
+### **4. Scale, Dimension & Evolution - Quy Mô, Chiều & Tiến Hóa**
 
 #### **10. Inversion Practice - Thực Hành Đảo Ngược**
 
@@ -12373,7 +12371,7 @@ Di chuyển giữa các cấp độ trừu tượng để tìm insights mới.
 
 → **Liên kết:** DYNAMICS (Evolution), AMPLIFICATION (Iteration)
 
-### **Nhóm 5: Cross-Domain Synthesis - Tổng Hợp Xuyên Lĩnh Vực (4 mục)**
+### **5. Cross-Domain Synthesis - Tổng Hợp Xuyên Lĩnh Vực**
 
 #### **14. Cross-Cultural Synthesis - Tổng Hợp Xuyên Văn Hóa**
 
@@ -12419,7 +12417,7 @@ Sử dụng một tính năng hoặc cấu trúc cho mục đích hoàn toàn kh
 
 → **Liên kết:** FOUNDATIONS (Evolution Principles), CREATION (Innovation)
 
-### **Nhóm 6: Pattern Systems & Modularity - Hệ Thống Mẫu Hình & Tính Mô-đun (4 mục)**
+### **6. Pattern Systems & Modularity - Hệ Thống Mẫu Hình & Tính Mô-đun**
 
 #### **18. Pattern Languages - Ngôn Ngữ Mẫu Hình**
 
@@ -12475,7 +12473,7 @@ Hệ thống được thiết kế để TỰ ĐỘNG TẠO RA sự kết hợp 
     • Algorithmic design systems
     • Innovation automation platforms
 
-### **Nhóm 7: Intuitive & Metaphorical Synthesis - Tổng Hợp Trực Giác & Ẩn Dụ (4 mục)**
+### **7. Intuitive & Metaphorical Synthesis - Tổng Hợp Trực Giác & Ẩn Dụ**
 
 #### **22. Transrational Ways of Knowing - Các Cách Biết Siêu Lý Tính**
 
@@ -12523,7 +12521,7 @@ Tổng hợp tự nhiên, phi có hệ thống - kết hợp các yếu tố the
 → **Khi cần CÓ HỆ THỐNG:** xem INTEGRATION #44 (Synthesis Protocols)
 → **Kết hợp với:** Bricolage (#18), Unexpected Juxtaposition (#14)
 
-### **Nhóm 8: Artistic & Multi-Modal Integration - Tích Hợp Nghệ Thuật & Đa Phương Thức (7 mục)**
+### **8. Artistic & Multi-Modal Integration - Tích Hợp Nghệ Thuật & Đa Phương Thức**
 
 #### **26. Artistic Integration - Tích Hợp Nghệ Thuật**
 
@@ -12615,7 +12613,7 @@ Khám phá các hình thức truyền thông và biểu đạt mới nổi.
 
 Các phương pháp và công cụ có cấu trúc cao để hệ thống hóa quá trình sáng tạo - biến nghệ thuật thành khoa học có thể lặp lại và dạy được. Kết hợp cả trực giác và phân tích.
 
-### **1. Core Design Tools & Frameworks - Các Công Cụ & Framework Cốt Lõi** (5 concepts)
+### **1. Core Design Tools & Frameworks - Các Công Cụ & Framework Cốt Lõi**
 
 #### **1. Design Thinking Framework** - Khung Tư Duy Thiết Kế
 
@@ -12853,7 +12851,7 @@ Hệ thống meta để kết hợp và áp dụng linh hoạt các công cụ t
 
 → **Liên kết:** [META] LAYER (Tool Integration), OPERATIONS (Methodology Selection), NAVIGATION (Strategic Tool Use), INTEGRATION (Framework Synthesis)
 
-### **2. Advanced Design Methods - Phương Pháp Thiết Kế Nâng Cao** (5 concepts)
+### **2. Advanced Design Methods - Phương Pháp Thiết Kế Nâng Cao**
 
 #### **6. Biomimetic Reasoning** - Lý Luận Bắt Chước Sinh Học
 
@@ -12910,7 +12908,7 @@ Thiết kế vật liệu với các tính chất không tồn tại trong tự 
 
 → **Liên kết:** CREATION (Material Innovation), OPERATIONS (Advanced Engineering)
 
-### **3. Applied Creative Arts - Nghệ Thuật Sáng Tạo Ứng Dụng** (7 concepts)
+### **3. Applied Creative Arts - Nghệ Thuật Sáng Tạo Ứng Dụng**
 
 #### **11. Composition & Songwriting** - Sáng Tác & Viết Nhạc
 
@@ -12989,7 +12987,7 @@ Nghệ thuật viết đẹp như thực hành chánh niệm.
 
 → **Liên kết:** OPERATIONS (Skill Practice), DYNAMICS (Flow States)
 
-### **4. Creative Therapies & Healing - Liệu Pháp Sáng Tạo & Chữa Lành** (6 concepts)
+### **4. Creative Therapies & Healing - Liệu Pháp Sáng Tạo & Chữa Lành**
 
 #### **18. Creative Therapies** - Các Liệu Pháp Sáng Tạo
 
@@ -13057,7 +13055,7 @@ Làm việc với năng lượng của nước và chất lỏng.
 
 → **Liên kết:** FOUNDATIONS (Element Theory), DYNAMICS (Flow)
 
-### **5. Sacred & Contemplative Art - Nghệ Thuật Thiêng Liêng & Chiêm Nghiệm** (7 concepts)
+### **5. Sacred & Contemplative Art - Nghệ Thuật Thiêng Liêng & Chiêm Nghiệm**
 
 #### **24. Sacred Art & Mandala Creation** - Nghệ Thuật Thiêng Liêng & Tạo Mandala
 
@@ -13144,7 +13142,7 @@ Sử dụng nhịp kép để thay đổi trạng thái ý thức.
 
 → **Liên kết:** DYNAMICS (State Management), OPERATIONS (Technology-Assisted)
 
-### **6. Innovation & Community - Đổi Mới & Cộng Đồng** (9 concepts)
+### **6. Innovation & Community - Đổi Mới & Cộng Đồng**
 
 #### **31. Educational Innovation** - Đổi Mới Giáo Dục
 
