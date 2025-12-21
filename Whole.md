@@ -12177,9 +12177,9 @@ Truyền thống kể chuyện và ma thuật ngôn từ Celtic.
 
 Khả năng phá vỡ các mẫu hình cũ và tái kết hợp các yếu tố theo những cách mới - cốt lõi của đổi mới thực sự. Đây là nghệ thuật phá hủy sáng tạo và tổng hợp mới.
 
-### **Các Phương Pháp Cốt Lõi (20 mục)**
+### **Nhóm 1: Pattern Disruption & Creative Destruction - Phá Vỡ Mẫu Hình & Hủy Diệt Sáng Tạo (3 mục)**
 
-#### **1. Paradigm Disruption** - Phá Vỡ Mô Hình
+#### **1. Paradigm Disruption - Phá Vỡ Mô Hình**
 
 Thách thức và thay thế các mô hình tư duy và hành động hiện tại.
 
@@ -12190,7 +12190,7 @@ Thách thức và thay thế các mô hình tư duy và hành động hiện t�
 
 → **Liên kết:** TRANSCENDENCE (Paradigm Shifts), DYNAMICS (Revolutionary Change)
 
-#### **2. Creative Destruction** - Phá Hủy Sáng Tạo
+#### **2. Creative Destruction - Phá Hủy Sáng Tạo**
 
 Phá bỏ cái cũ để tạo không gian cho cái mới.
 
@@ -12201,7 +12201,20 @@ Phá bỏ cái cũ để tạo không gian cho cái mới.
 
 → **Liên kết:** DYNAMICS (Transformation), TRANSCENDENCE (Death & Rebirth)
 
-#### **3. Remix Culture** - Văn Hóa Tái Phối
+#### **3. Boundary Crossing - Vượt Ranh Giới**
+
+Cố ý vượt qua các ranh giới và phạm trù.
+
+- **Category Violation**: Vi phạm phạm trù
+- **Genre Bending**: Uốn cong thể loại
+- **Disciplinary Transgression**: Vượt qua ranh giới kỷ luật
+- **Liminal Space Exploration**: Khám phá không gian biên giới
+
+→ **Liên kết:** TRANSCENDENCE (Beyond Categories), CREATION (Innovation)
+
+### **Nhóm 2: Recombination & Remix Techniques - Kỹ Thuật Tái Kết Hợp & Tái Phối (5 mục)**
+
+#### **4. Remix Culture - Văn Hóa Tái Phối**
 
 Tái kết hợp các yếu tố hiện có theo những cách hoàn toàn mới.
 
@@ -12212,7 +12225,7 @@ Tái kết hợp các yếu tố hiện có theo những cách hoàn toàn mới
 
 → **Liên kết:** CREATION (Combinatorial Play), INTEGRATION (Synthesis)
 
-#### **4. Mutation & Variation** - Biến Đổi & Biến Thể
+#### **5. Mutation & Variation - Biến Đổi & Biến Thể**
 
 Tạo ra các biến thể từ một ý tưởng hoặc thiết kế cơ bản.
 
@@ -12223,7 +12236,42 @@ Tạo ra các biến thể từ một ý tưởng hoặc thiết kế cơ bản.
 
 → **Liên kết:** DYNAMICS (Evolution), VALIDATION (Selection Process)
 
-#### **5. Constraint Transformation** - Biến Đổi Ràng Buộc [Thử Nghiệm & Đột Phá]
+#### **6. Hybrid Vigor - Sức Mạnh Lai Ghép**
+
+Tạo ra sức mạnh vượt trội từ sự lai ghép.
+
+- **Heterosis Principle**: Nguyên tắc ưu thế lai
+- **Complementary Combination**: Kết hợp bổ sung
+- **Synergistic Mixing**: Pha trộn hiệp đồng
+- **Best-of-Both**: Lấy tốt nhất của cả hai
+
+→ **Liên kết:** AMPLIFICATION (Synergy), INTEGRATION (Hybrid Creation)
+
+#### **7. Deconstruction & Reassembly - Phá Bỏ & Tái Lắp**
+
+Tháo rời các cấu trúc hiện có và lắp ráp lại theo cách mới.
+
+- **Component Separation**: Tách các thành phần
+- **Essence Extraction**: Chiết xuất bản chất
+- **Novel Reconfiguration**: Cấu hình lại một cách mới lạ
+- **Emergent Properties**: Các tính chất mới nổi lên
+
+→ **Liên kết:** OPERATIONS (Analysis), INTEGRATION (Synthesis)
+
+#### **8. Unexpected Juxtaposition - Ghép Nối Bất Ngờ**
+
+Đặt các yếu tố không liên quan cạnh nhau để tạo nghĩa mới.
+
+- **Surrealist Techniques**: Các kỹ thuật siêu thực
+- **Absurd Combinations**: Kết hợp phi lý
+- **Cognitive Dissonance**: Tạo bất hòa nhận thức
+- **Resolution into Meaning**: Giải quyết thành ý nghĩa mới
+
+→ **Liên kết:** CREATION (Bisociation), INTEGRATION (Meaning Making)
+
+### **Nhóm 3: Constraint Transformation - Biến Đổi Ràng Buộc (1 mục)**
+
+#### **9. Constraint Transformation - Biến Đổi Ràng Buộc [Thử Nghiệm & Đột Phá]**
 
 Nghệ thuật THAY ĐỔI bản thân các ràng buộc - thêm, bớt, nới lỏng, thắt chặt - để khám phá không gian khả năng mới. Khác với Creative Constraints (làm việc TRONG ràng buộc), đây là về thay đổi CHÍNH ràng buộc để đột phá.
 
@@ -12279,7 +12327,9 @@ Chơi đùa chiến lược với ràng buộc.
 → **Transcendence:** TRANSCENDENCE (Beyond Limits)
 → **Ideation:** CREATION (Ideation)
 
-#### **6. Inversion Practice** - Thực Hành Đảo Ngược
+### **Nhóm 4: Scale, Dimension & Evolution - Quy Mô, Chiều & Tiến Hóa (4 mục)**
+
+#### **10. Inversion Practice - Thực Hành Đảo Ngược**
 
 Đảo ngược mọi thứ để tìm góc nhìn mới.
 
@@ -12290,29 +12340,7 @@ Chơi đùa chiến lược với ràng buộc.
 
 → **Liên kết:** FOUNDATIONS (Duality), OPERATIONS (Inversion)
 
-#### **7. Cross-Cultural Synthesis** - Tổng Hợp Xuyên Văn Hóa
-
-Kết hợp các yếu tố từ các nền văn hóa khác nhau.
-
-- **Cultural Borrowing**: Vay mượn văn hóa có ý thức
-- **Hybrid Creation**: Tạo sự lai ghép văn hóa
-- **Translation & Adaptation**: Dịch thuật và thích nghi
-- **Fusion Principles**: Các nguyên tắc hợp nhất
-
-→ **Liên kết:** INTEGRATION (Cross-Cultural), FOUNDATIONS (Wisdom Traditions)
-
-#### **8. Temporal Recombination** - Tái Kết Hợp Thời Gian
-
-Kết hợp các yếu tố từ các thời đại khác nhau.
-
-- **Retro-Futurism**: Kết hợp quá khứ và tương lai
-- **Anachronistic Mixing**: Pha trộn phi thời gian
-- **Historical Recontextualization**: Đặt lại ngữ cảnh lịch sử
-- **Timeless-Contemporary Fusion**: Hợp nhất vĩnh cửu và đương đại
-
-→ **Liên kết:** NAVIGATION (Time Transcendence), CREATION (Fusion)
-
-#### **9. Scale Shifting** - Chuyển Đổi Quy Mô
+#### **11. Scale Shifting - Chuyển Đổi Quy Mô**
 
 Thay đổi quy mô để tạo ra góc nhìn và khả năng mới.
 
@@ -12323,7 +12351,53 @@ Thay đổi quy mô để tạo ra góc nhìn và khả năng mới.
 
 → **Liên kết:** FOUNDATIONS (Fractal Patterns), [META] LAYER (Multi-Scale Thinking)
 
-#### **10. Medium Hopping** - Nhảy Giữa Các Phương Tiện
+#### **12. Abstraction & Instantiation - Trừu Tượng Hóa & Cụ Thể Hóa**
+
+Di chuyển giữa các cấp độ trừu tượng để tìm insights mới.
+
+- **Pattern Abstraction**: Trừu tượng hóa mẫu hình
+- **Principle Extraction**: Chiết xuất nguyên tắc
+- **Concrete Instantiation**: Cụ thể hóa
+- **Level Jumping**: Nhảy giữa các cấp độ
+
+→ **Liên kết:** [META] LAYER (Abstraction Ladder), FOUNDATIONS (First Principles)
+
+#### **13. Evolutionary Algorithms - Thuật Toán Tiến Hóa**
+
+Áp dụng các nguyên tắc tiến hóa vào quá trình sáng tạo.
+
+- **Variation Generation**: Tạo ra các biến thể
+- **Selection Mechanisms**: Cơ chế chọn lọc
+- **Crossover & Mutation**: Lai ghép và đột biến
+- **Iterative Evolution**: Tiến hóa lặp lại
+
+→ **Liên kết:** DYNAMICS (Evolution), AMPLIFICATION (Iteration)
+
+### **Nhóm 5: Cross-Domain Synthesis - Tổng Hợp Xuyên Lĩnh Vực (4 mục)**
+
+#### **14. Cross-Cultural Synthesis - Tổng Hợp Xuyên Văn Hóa**
+
+Kết hợp các yếu tố từ các nền văn hóa khác nhau.
+
+- **Cultural Borrowing**: Vay mượn văn hóa có ý thức
+- **Hybrid Creation**: Tạo sự lai ghép văn hóa
+- **Translation & Adaptation**: Dịch thuật và thích nghi
+- **Fusion Principles**: Các nguyên tắc hợp nhất
+
+→ **Liên kết:** INTEGRATION (Cross-Cultural), FOUNDATIONS (Wisdom Traditions)
+
+#### **15. Temporal Recombination - Tái Kết Hợp Thời Gian**
+
+Kết hợp các yếu tố từ các thời đại khác nhau.
+
+- **Retro-Futurism**: Kết hợp quá khứ và tương lai
+- **Anachronistic Mixing**: Pha trộn phi thời gian
+- **Historical Recontextualization**: Đặt lại ngữ cảnh lịch sử
+- **Timeless-Contemporary Fusion**: Hợp nhất vĩnh cửu và đương đại
+
+→ **Liên kết:** NAVIGATION (Time Transcendence), CREATION (Fusion)
+
+#### **16. Medium Hopping - Nhảy Giữa Các Phương Tiện**
 
 Chuyển đổi giữa các phương tiện biểu đạt khác nhau.
 
@@ -12334,51 +12408,7 @@ Chuyển đổi giữa các phương tiện biểu đạt khác nhau.
 
 → **Liên kết:** INTEGRATION (Multi-Modal), CREATION (Adaptation)
 
-#### **11. Hybrid Vigor** - Sức Mạnh Lai Ghép
-
-Tạo ra sức mạnh vượt trội từ sự lai ghép.
-
-- **Heterosis Principle**: Nguyên tắc ưu thế lai
-- **Complementary Combination**: Kết hợp bổ sung
-- **Synergistic Mixing**: Pha trộn hiệp đồng
-- **Best-of-Both**: Lấy tốt nhất của cả hai
-
-→ **Liên kết:** AMPLIFICATION (Synergy), INTEGRATION (Hybrid Creation)
-
-#### **12. Deconstruction & Reassembly** - Phá Bỏ & Tái Lắp
-
-Tháo rời các cấu trúc hiện có và lắp ráp lại theo cách mới.
-
-- **Component Separation**: Tách các thành phần
-- **Essence Extraction**: Chiết xuất bản chất
-- **Novel Reconfiguration**: Cấu hình lại một cách mới lạ
-- **Emergent Properties**: Các tính chất mới nổi lên
-
-→ **Liên kết:** OPERATIONS (Analysis), INTEGRATION (Synthesis)
-
-#### **13. Boundary Crossing** - Vượt Ranh Giới
-
-Cố ý vượt qua các ranh giới và phạm trù.
-
-- **Category Violation**: Vi phạm phạm trù
-- **Genre Bending**: Uốn cong thể loại
-- **Disciplinary Transgression**: Vượt qua ranh giới kỷ luật
-- **Liminal Space Exploration**: Khám phá không gian biên giới
-
-→ **Liên kết:** TRANSCENDENCE (Beyond Categories), CREATION (Innovation)
-
-#### **14. Unexpected Juxtaposition** - Ghép Nối Bất Ngờ
-
-Đặt các yếu tố không liên quan cạnh nhau để tạo nghĩa mới.
-
-- **Surrealist Techniques**: Các kỹ thuật siêu thực
-- **Absurd Combinations**: Kết hợp phi lý
-- **Cognitive Dissonance**: Tạo bất hòa nhận thức
-- **Resolution into Meaning**: Giải quyết thành ý nghĩa mới
-
-→ **Liên kết:** CREATION (Bisociation), INTEGRATION (Meaning Making)
-
-#### **15. Exaptation** - Chuyển Dụng
+#### **17. Exaptation - Chuyển Dụng**
 
 Sử dụng một tính năng hoặc cấu trúc cho mục đích hoàn toàn khác với mục đích ban đầu.
 
@@ -12389,7 +12419,9 @@ Sử dụng một tính năng hoặc cấu trúc cho mục đích hoàn toàn kh
 
 → **Liên kết:** FOUNDATIONS (Evolution Principles), CREATION (Innovation)
 
-#### **16. Pattern Languages** - Ngôn Ngữ Mẫu Hình
+### **Nhóm 6: Pattern Systems & Modularity - Hệ Thống Mẫu Hình & Tính Mô-đun (4 mục)**
+
+#### **18. Pattern Languages - Ngôn Ngữ Mẫu Hình**
 
 Tạo và sử dụng các ngôn ngữ mẫu hình để tái kết hợp.
 
@@ -12400,7 +12432,7 @@ Tạo và sử dụng các ngôn ngữ mẫu hình để tái kết hợp.
 
 → **Liên kết:** FOUNDATIONS (Universal Patterns), INTEGRATION (Language Systems)
 
-#### **17. Modularity & Interchangeability** - Tính Mô-đun & Khả Năng Thay Thế
+#### **19. Modularity & Interchangeability - Tính Mô-đun & Khả Năng Thay Thế**
 
 Thiết kế các thành phần có thể hoán đổi và kết hợp linh hoạt.
 
@@ -12411,7 +12443,7 @@ Thiết kế các thành phần có thể hoán đổi và kết hợp linh ho�
 
 → **Liên kết:** OPERATIONS (Systems Design), AMPLIFICATION (Scalability)
 
-#### **18. Bricolage - Nghệ Thuật Vá Víu** [Phương Pháp Sáng Tạo]
+#### **20. Bricolage - Nghệ Thuật Vá Víu [Phương Pháp Sáng Tạo]**
 
 Phương pháp sáng tạo bằng cách tái kết hợp các nguồn lực có sẵn theo những cách mới lạ, không theo kế hoạch được thiết kế chặt chẽ. Khác với NAVIGATION (xoay sở để thích ứng), đây là về SÁNG TẠO ĐỔI MỚI - biến cái cũ thành cái hoàn toàn mới.
 
@@ -12425,42 +12457,7 @@ Phương pháp sáng tạo bằng cách tái kết hợp các nguồn lực có 
 → **Ví dụ:** Picasso tạo "Bull's Head" từ yên xe đạp; Steve Jobs tạo Mac từ calligraphy; found object art, maker culture
 → **Triết lý:** "Innovation is just combining things" - Steve Jobs
 
-#### **19. Abstraction & Instantiation** - Trừu Tượng Hóa & Cụ Thể Hóa
-
-Di chuyển giữa các cấp độ trừu tượng để tìm insights mới.
-
-- **Pattern Abstraction**: Trừu tượng hóa mẫu hình
-- **Principle Extraction**: Chiết xuất nguyên tắc
-- **Concrete Instantiation**: Cụ thể hóa
-- **Level Jumping**: Nhảy giữa các cấp độ
-
-→ **Liên kết:** [META] LAYER (Abstraction Ladder), FOUNDATIONS (First Principles)
-
-#### **20. Evolutionary Algorithms** - Thuật Toán Tiến Hóa
-
-Áp dụng các nguyên tắc tiến hóa vào quá trình sáng tạo.
-
-- **Variation Generation**: Tạo ra các biến thể
-- **Selection Mechanisms**: Cơ chế chọn lọc
-- **Crossover & Mutation**: Lai ghép và đột biến
-- **Iterative Evolution**: Tiến hóa lặp lại
-
-→ **Liên kết:** DYNAMICS (Evolution), AMPLIFICATION (Iteration)
-
-### **Các Mục Mới Bổ Sung**
-
-#### **21. Transrational Ways of Knowing** - Các Cách Biết Siêu Lý Tính
-
-Vượt ra ngoài logic để tiếp cận tri thức theo những cách khác.
-
-- **Beyond Logic**: Vượt ra ngoài logic
-- **Intuitive Knowing**: Biết một cách trực giác
-- **Heart Intelligence**: Trí tuệ trái tim
-- **Body Wisdom**: Trí tuệ cơ thể
-
-→ **Liên kết:** FOUNDATIONS (Multiple Ways of Knowing), TRANSCENDENCE (Non-Rational)
-
-#### **22. Cross-Pollination Engines - Động Cơ Thụ Phấn Chéo [Hệ Thống Tự Động]**
+#### **21. Cross-Pollination Engines - Động Cơ Thụ Phấn Chéo [Hệ Thống Tự Động]**
 
 Hệ thống được thiết kế để TỰ ĐỘNG TẠO RA sự kết hợp bất ngờ một cách có hệ thống. Khác với kỹ thuật thủ công ở #37, đây là về XÂY DỰNG CƠ CHẾ/CÔNG CỤ để việc thụ phấn chéo xảy ra liên tục và quy mô lớn hơn.
 
@@ -12478,7 +12475,20 @@ Hệ thống được thiết kế để TỰ ĐỘNG TẠO RA sự kết hợp 
     • Algorithmic design systems
     • Innovation automation platforms
 
-#### **23. Metaphorical Reasoning** - Lý Luận Ẩn Dụ
+### **Nhóm 7: Intuitive & Metaphorical Synthesis - Tổng Hợp Trực Giác & Ẩn Dụ (4 mục)**
+
+#### **22. Transrational Ways of Knowing - Các Cách Biết Siêu Lý Tính**
+
+Vượt ra ngoài logic để tiếp cận tri thức theo những cách khác.
+
+- **Beyond Logic**: Vượt ra ngoài logic
+- **Intuitive Knowing**: Biết một cách trực giác
+- **Heart Intelligence**: Trí tuệ trái tim
+- **Body Wisdom**: Trí tuệ cơ thể
+
+→ **Liên kết:** FOUNDATIONS (Multiple Ways of Knowing), TRANSCENDENCE (Non-Rational)
+
+#### **23. Metaphorical Reasoning - Lý Luận Ẩn Dụ**
 
 Sử dụng ẩn dụ như công cụ tư duy và giải quyết vấn đề.
 
@@ -12489,7 +12499,7 @@ Sử dụng ẩn dụ như công cụ tư duy và giải quyết vấn đề.
 
 → **Liên kết:** FOUNDATIONS (Analogical Thinking), INTEGRATION (Meaning Making)
 
-#### **24. Metaphorical Transformation** - Biến Đổi Ẩn Dụ
+#### **24. Metaphorical Transformation - Biến Đổi Ẩn Dụ**
 
 Sử dụng ẩn dụ để chuyển đổi góc nhìn và hiểu biết.
 
@@ -12500,7 +12510,7 @@ Sử dụng ẩn dụ để chuyển đổi góc nhìn và hiểu biết.
 
 → **Liên kết:** DYNAMICS (Transformation), INTEGRATION (Reframing)
 
-#### **25. Intuitive Synthesis** - Tổng Hợp Trực Giác
+#### **25. Intuitive Synthesis - Tổng Hợp Trực Giác**
 
 Tổng hợp tự nhiên, phi có hệ thống - kết hợp các yếu tố theo cảm nhận sáng tạo hơn là quy trình. Khác với Synthesis Protocols có cấu trúc ở INTEGRATION, đây là về NGHỆ THUẬT của việc kết hợp trong sáng tạo.
 
@@ -12513,7 +12523,9 @@ Tổng hợp tự nhiên, phi có hệ thống - kết hợp các yếu tố the
 → **Khi cần CÓ HỆ THỐNG:** xem INTEGRATION #44 (Synthesis Protocols)
 → **Kết hợp với:** Bricolage (#18), Unexpected Juxtaposition (#14)
 
-#### **26. Artistic Integration** - Tích Hợp Nghệ Thuật
+### **Nhóm 8: Artistic & Multi-Modal Integration - Tích Hợp Nghệ Thuật & Đa Phương Thức (7 mục)**
+
+#### **26. Artistic Integration - Tích Hợp Nghệ Thuật**
 
 Kết hợp các yếu tố nghệ thuật để tạo tổng hợp mới.
 
@@ -12524,7 +12536,7 @@ Kết hợp các yếu tố nghệ thuật để tạo tổng hợp mới.
 
 → **Liên kết:** CREATION (Multi-Modal), INTEGRATION (Aesthetic Synthesis)
 
-#### **27. Musical Integration** - Tích Hợp Âm Nhạc
+#### **27. Musical Integration - Tích Hợp Âm Nhạc**
 
 Sử dụng âm nhạc và âm thanh để tổng hợp.
 
@@ -12535,7 +12547,7 @@ Sử dụng âm nhạc và âm thanh để tổng hợp.
 
 → **Liên kết:** FOUNDATIONS (Harmonic Principles), INTEGRATION (Sound Design)
 
-#### **28. Movement Integration [Tổng Hợp Sáng Tạo]** - Tích Hợp Chuyển Động [Tổng Hợp Sáng Tạo]
+#### **28. Movement Integration [Tổng Hợp Sáng Tạo] - Tích Hợp Chuyển Động [Tổng Hợp Sáng Tạo]**
 
 Kết hợp các yếu tố chuyển động và cơ thể để TẠO RA cái mới - sử dụng chuyển động như PHƯƠNG TIỆN SÁNG TẠO để tổng hợp, pha trộn và tái tổ hợp. Khác với việc sử dụng chuyển động để HỌC TẬP (ở OPERATIONS), đây là về việc SÁNG TẠO và BIỂU ĐẠT qua cơ thể.
 
@@ -12549,7 +12561,7 @@ Kết hợp các yếu tố chuyển động và cơ thể để TẠO RA cái m
 → **Ứng dụng thực hành:** OPERATIONS #24 (Movement Integration - học tập)
 → **Hình thức liên quan:** CREATION #22 (Movement Medicine), DYNAMICS (5Rhythms Movement), DYNAMICS (Dance Therapy)
 
-#### **29. Written Integration** - Tích Hợp Văn Bản
+#### **29. Written Integration - Tích Hợp Văn Bản**
 
 Tổng hợp qua viết lách và ngôn ngữ.
 
@@ -12560,7 +12572,7 @@ Tổng hợp qua viết lách và ngôn ngữ.
 
 → **Liên kết:** INTEGRATION (Narrative Weaving), OPERATIONS (Writing Systems)
 
-#### **30. Multimedia Ceremony** - Nghi Lễ Đa Phương Tiện [Sáng Tạo Tái Kết Hợp]
+#### **30. Multimedia Ceremony - Nghi Lễ Đa Phương Tiện [Sáng Tạo Tái Kết Hợp]**
 
 Nghệ thuật tạo ra trải nghiệm nghi lễ bằng cách PHÁ VỠ ranh giới giữa các hình thức nghệ thuật khác nhau và TÁI KẾT HỢP chúng thành một tổng thể thiêng liêng. Đây là đỉnh cao của PATTERN BREAKING & RECOMBINATION trong nghệ thuật - không chỉ kết hợp mà còn CHUYỂN HÓA các phương tiện riêng lẻ.
 
@@ -12573,7 +12585,7 @@ Nghệ thuật tạo ra trải nghiệm nghi lễ bằng cách PHÁ VỠ ranh gi
 → **Ví dụ:** Wagner's Gesamtkunstwerk, các nghi lễ của Indigenous peoples, Burning Man ceremonies, immersive theater experiences
 → **Không nên nhầm với:** Installation Art (#56), Performance Studies (#64), Transmedia Storytelling (#57)
 
-#### **31. Fusion Innovations** - Các Đổi Mới Hợp Nhất
+#### **31. Fusion Innovations - Các Đổi Mới Hợp Nhất**
 
 Tạo ra đổi mới từ sự hợp nhất các yếu tố khác biệt.
 
@@ -12584,7 +12596,7 @@ Tạo ra đổi mới từ sự hợp nhất các yếu tố khác biệt.
 
 → **Liên kết:** CREATION (Breakthrough Innovation), INTEGRATION (Hybrid Systems)
 
-#### **32. New Media Experiments** - Thử Nghiệm Truyền Thông Mới
+#### **32. New Media Experiments - Thử Nghiệm Truyền Thông Mới**
 
 Khám phá các hình thức truyền thông và biểu đạt mới nổi.
 
