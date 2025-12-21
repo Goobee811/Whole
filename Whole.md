@@ -12615,7 +12615,7 @@ Khám phá các hình thức truyền thông và biểu đạt mới nổi.
 
 Các phương pháp và công cụ có cấu trúc cao để hệ thống hóa quá trình sáng tạo - biến nghệ thuật thành khoa học có thể lặp lại và dạy được. Kết hợp cả trực giác và phân tích.
 
-### **Các Công Cụ & Framework Cốt Lõi (5 mục)**
+### **1. Core Design Tools & Frameworks - Các Công Cụ & Framework Cốt Lõi** (5 concepts)
 
 #### **1. Design Thinking Framework** - Khung Tư Duy Thiết Kế
 
@@ -12853,7 +12853,7 @@ Hệ thống meta để kết hợp và áp dụng linh hoạt các công cụ t
 
 → **Liên kết:** [META] LAYER (Tool Integration), OPERATIONS (Methodology Selection), NAVIGATION (Strategic Tool Use), INTEGRATION (Framework Synthesis)
 
-### **Nhóm Phương Pháp Thiết Kế Nâng Cao**
+### **2. Advanced Design Methods - Phương Pháp Thiết Kế Nâng Cao** (5 concepts)
 
 #### **6. Biomimetic Reasoning** - Lý Luận Bắt Chước Sinh Học
 
@@ -12910,7 +12910,7 @@ Thiết kế vật liệu với các tính chất không tồn tại trong tự 
 
 → **Liên kết:** CREATION (Material Innovation), OPERATIONS (Advanced Engineering)
 
-### **Nhóm Nghệ Thuật Sáng Tạo Ứng Dụng**
+### **3. Applied Creative Arts - Nghệ Thuật Sáng Tạo Ứng Dụng** (7 concepts)
 
 #### **11. Composition & Songwriting** - Sáng Tác & Viết Nhạc
 
@@ -12989,7 +12989,7 @@ Nghệ thuật viết đẹp như thực hành chánh niệm.
 
 → **Liên kết:** OPERATIONS (Skill Practice), DYNAMICS (Flow States)
 
-### **Nhóm Liệu Pháp Sáng Tạo & Chữa Lành**
+### **4. Creative Therapies & Healing - Liệu Pháp Sáng Tạo & Chữa Lành** (6 concepts)
 
 #### **18. Creative Therapies** - Các Liệu Pháp Sáng Tạo
 
@@ -13057,7 +13057,7 @@ Làm việc với năng lượng của nước và chất lỏng.
 
 → **Liên kết:** FOUNDATIONS (Element Theory), DYNAMICS (Flow)
 
-### **Nhóm Nghệ Thuật Thiêng Liêng & Chiêm Nghiệm**
+### **5. Sacred & Contemplative Art - Nghệ Thuật Thiêng Liêng & Chiêm Nghiệm** (7 concepts)
 
 #### **24. Sacred Art & Mandala Creation** - Nghệ Thuật Thiêng Liêng & Tạo Mandala
 
@@ -13144,7 +13144,7 @@ Sử dụng nhịp kép để thay đổi trạng thái ý thức.
 
 → **Liên kết:** DYNAMICS (State Management), OPERATIONS (Technology-Assisted)
 
-### **Nhóm Đổi Mới & Cộng Đồng**
+### **6. Innovation & Community - Đổi Mới & Cộng Đồng** (9 concepts)
 
 #### **31. Educational Innovation** - Đổi Mới Giáo Dục
 
