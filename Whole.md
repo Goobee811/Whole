@@ -13278,7 +13278,7 @@ _Miền này cung cấp các công cụ và phương pháp để xác định v�
 
 _Các phương pháp và khung tư duy để điều hướng trong các môi trường cạnh tranh, không chắc chắn và có nhiều tác nhân thông minh khác._
 
-### Các mục cốt lõi
+### **1. Strategic Planning & Positioning Frameworks - Khung Hoạch Định & Định Vị Chiến Lược**
 
 #### **1. Scenario Planning** - Hoạch Định Kịch Bản
 
@@ -13420,6 +13420,8 @@ Một tham vọng to lớn, dài hạn, có thể truyền cảm hứng, hướn
 
 → **Liên kết:** FOUNDATIONS (North Star), AMPLIFICATION (Vision Leverage).
 
+### **2. Alternative Approaches & Paradox Navigation - Cách Tiếp Cận Thay Thế & Điều Hướng Nghịch Lý**
+
 #### **8. Red Teaming** - Đội Đỏ [Công Cụ Chiến Lược Chủ Động]
 
 Sử dụng tư duy đối kháng như CÔNG CỤ CHIẾN LƯỢC để xây dựng kế hoạch vững chắc TRƯỚC KHI triển khai. Đây là về ĐIỀU HƯỚNG CHIẾN LƯỢC - làm sao để thiết kế chiến lược kiên cường trước các đối thủ.
@@ -13550,6 +13552,8 @@ Phương pháp có hệ thống để DI CHUYỂN QUA và LÀM VIỆC VỚI các
 - Nằm trong NAVIGATION vì nó về phương pháp điều hướng thực tế trong môi trường bất định
 - Tập trung vào APPLICATION - áp dụng nguyên lý lượng tử vào quyết định và chiến lược cụ thể
 
+### **3. Military & Competitive Tactics - Chiến Thuật Quân Sự & Cạnh Tranh**
+
 #### **16. Guerrilla Strategy** - Chiến Lược Du Kích
 
 Sử dụng các phương pháp chiến đấu không quy ước, tận dụng linh hoạt và tốc độ chống lại đối thủ lớn hơn.
@@ -13638,6 +13642,8 @@ Sử dụng thông tin như một vũ khí chiến lược.
 
 → **Liên kết:** AMPLIFICATION (Narrative Leverage), VALIDATION (Truth Verification).
 
+### **4. Strategic Resource Management - Quản Lý Nguồn Lực Chiến Lược**
+
 #### **24. Strategic Patience** - Kiên Nhẫn Chiến Lược
 
 Khả năng chờ đợi đúng thời điểm để hành động, chịu đựng sự không chắc chắn lâu dài.
@@ -13715,7 +13721,7 @@ Tận dụng mạng lưới thông tin và kết nối để tạo ra lợi th�
 
 → **Liên kết:** AMPLIFICATION (Influence), INTEGRATION (Value System Integration).
 
-### Các mục mới bổ sung
+### **5. Physical Navigation Tools - Công Cụ Định Hướng Vật Lý**
 
 #### **31. Compass** - La Bàn
 
@@ -13793,6 +13799,8 @@ Trực quan hóa trải nghiệm và quá trình từ đầu đến cuối.
 - **Empathy Building**: Xây dựng sự đồng cảm thông qua hiểu biết sâu.
 
 → **Liên kết:** INTEGRATION (User Experience), CREATION (Design Thinking).
+
+### **6. Strategic Analysis & Leadership - Phân Tích Chiến Lược & Lãnh Đạo**
 
 #### **38. Strategic Terrain Analysis** - Phân Tích Địa Hình Chiến Lược
 
@@ -13883,6 +13891,8 @@ Lãnh đạo dựa trên giá trị cá nhân, tính chân thực và minh bạc
 
 → **Liên kết nội bộ:** FOUNDATIONS (Taoist Wisdom) | **Đích đến cao nhất:** TRANSCENDENCE #35 (Wu Wei như trạng thái tồn tại) | **Hỗ trợ bởi:** DYNAMICS (Natural Flow), OPERATIONS (Strategic Execution).
 
+### **7. Natural Navigation & Intuition - Định Hướng Tự Nhiên & Trực Giác**
+
 #### **45. Celestial Navigation** - Định Hướng Thiên Văn
 
 Điều hướng bằng cách quan sát các thiên thể (mặt trời, mặt trăng, ngôi sao).
@@ -13926,6 +13936,8 @@ Sử dụng sinh vật sống như dấu hiệu về điều kiện môi trườ
 - **Indigenous Wisdom**: Trí tuệ bản địa về tìm đường tự nhiên.
 
 → **Liên kết:** DYNAMICS (Intuition), FOUNDATIONS (Embodied Cognition).
+
+### **8. Market Creation & Thought Leadership - Tạo Lập Thị Trường & Lãnh Đạo Tư Tưởng**
 
 #### **49. Thought Leadership** - Lãnh Đạo Tư Tưởng
 
