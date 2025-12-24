@@ -14000,7 +14000,7 @@ Tạo ra một hệ sinh thái thị trường nơi trước đây không tồn 
 
 _Các công cụ và nguyên tắc để thiết lập khung tham chiếu, lập bản đồ lãnh thổ và lập kế hoạch trên nhiều chiều thời gian và không gian._
 
-### Các mục cốt lõi
+### **1. Direction & Purpose Foundations - Nền Tảng Định Hướng & Mục Đích**
 
 #### **1. North Star** - Sao Bắc Đẩu
 
@@ -14024,18 +14024,53 @@ Quá trình điều chỉnh "la bàn" nội tâm (các giá trị, nguyên tắc
 
 → **Liên kết:** [META] LAYER (Belief System Architecture), VALIDATION (Coherence Check).
 
-#### **3. Waypoint System** - Hệ Thống Điểm Mốc
+#### **3. Moral Compass** - La Bàn Đạo Đức
 
-Thiết lập một chuỗi các mục tiêu trung gian, có thể đo lường được trên một hành trình dài.
+Hệ thống các nguyên tắc đạo đức và giá trị hướng dẫn hành vi.
 
-- **Milestone Definition**: Xác định các cột mốc quan trọng, rõ ràng và có thể đạt được.
-- **Progress Tracking**: Theo dõi tiến độ một cách hữu hình so với các điểm mốc đã xác định.
-- **Course Correction**: Sử dụng các điểm mốc làm điểm kiểm tra để đánh giá và điều chỉnh lại hướng đi.
-- **Motivation & Momentum**: Tạo ra cảm giác tiến bộ và duy trì động lực cho các hành trình dài.
+- **Ethical Framework**: Khung đạo đức.
+- **Integrity Guidance**: Hướng dẫn về sự chính trực.
+- **Right Action**: Hành động đúng đắn.
+- **Conscience as Navigator**: Lương tâm như một hoa tiêu.
 
-→ **Liên kết:** OPERATIONS (Decision Frameworks), VALIDATION (Feedback Systems).
+→ **Liên kết:** FOUNDATIONS (Wisdom Traditions), INTEGRATION (Value System Integration).
 
-#### **4. Territory Mapping** - Lập Bản Đồ Lãnh Thổ
+#### **4. Life Planning & Purpose Finding** - Lập Kế Hoạch Cuộc Sống & Tìm Mục Đích
+
+Quá trình xác định và theo đuổi mục đích sống.
+
+- **Purpose Discovery**: Khám phá mục đích.
+- **Meaning-Making**: Tạo ra ý nghĩa.
+- **Direction Setting**: Thiết lập hướng đi.
+- **Life Vision**: Tầm nhìn cuộc sống.
+
+→ **Liên kết:** FOUNDATIONS (Purpose), INTEGRATION (Life Integration).
+
+#### **5. Career Counseling** - Tư Vấn Nghề Nghiệp
+
+Hướng dẫn về các quyết định và phát triển nghề nghiệp.
+
+- **Career Guidance**: Hướng dẫn nghề nghiệp.
+- **Path Exploration**: Khám phá con đường sự nghiệp.
+- **Skills Assessment**: Đánh giá kỹ năng.
+- **Work-Life Integration**: Tích hợp công việc-cuộc sống.
+
+→ **Liên kết:** OPERATIONS (Career Development), INTEGRATION (Professional Identity).
+
+#### **6. Evolutionary Purpose Discovery** - Khám Phá Mục Đích Tiến Hóa
+
+Mục đích không cố định mà tiến hóa và mở ra theo thời gian.
+
+- **Unfolding Purpose**: Mục đích mở ra dần.
+- **Developmental Stages**: Các giai đoạn phát triển.
+- **Emergent Meaning**: Ý nghĩa đột sinh.
+- **Purpose Evolution**: Tiến hóa mục đích.
+
+→ **Liên kết:** DYNAMICS (Personal Evolution), TRANSCENDENCE (Purpose Unfolding).
+
+### **2. Strategic Mapping & Visualization - Lập Bản Đồ & Trực Quan Hóa Chiến Lược**
+
+#### **7. Territory Mapping** - Lập Bản Đồ Lãnh Thổ
 
 Tạo ra một biểu diễn trực quan của một cảnh quan (thị trường, lĩnh vực tri thức) để hiểu các thành phần và mối quan hệ.
 
@@ -14046,7 +14081,7 @@ Tạo ra một biểu diễn trực quan của một cảnh quan (thị trườn
 
 → **Liên kết:** OPERATIONS (Analytical Tools), CREATION (Innovation Methods).
 
-#### **5. Wardley Mapping** - Lập Bản Đồ Wardley
+#### **8. Wardley Mapping** - Lập Bản Đồ Wardley
 
 Một phương pháp lập bản đồ chiến lược cụ thể, ánh xạ chuỗi giá trị dựa trên người dùng theo một trục tiến hóa.
 
@@ -14057,18 +14092,53 @@ Một phương pháp lập bản đồ chiến lược cụ thể, ánh xạ chu
 
 → **Liên kết:** DYNAMICS (Evolution), OPERATIONS (Strategic Planning).
 
-#### **6. Horizons Framework (Three Horizons)** - Khung Ba Chân Trời
+#### **9. Resource Mapping** - Lập Bản Đồ Tài Nguyên
 
-Một mô hình lập kế hoạch chiến lược phân chia nỗ lực thành ba chân trời thời gian.
+Trực quan hóa tất cả các loại tài nguyên có sẵn và cách chúng liên quan đến nhau.
 
-- **Horizon 1 (Current Business)**: Khai thác mô hình kinh doanh hiện tại.
-- **Horizon 2 (Emerging Opportunities)**: Xây dựng các cơ hội mới nổi.
-- **Horizon 3 (Future Possibilities)**: Khám phá các khả năng xa trong tương lai.
-- **Balanced Portfolio**: Cân bằng danh mục đầu tư giữa ba chân trời.
+- **Asset Visualization**: Trực quan hóa tài sản.
+- **Capability Inventory**: Kiểm kê năng lực.
+- **Dependency Mapping**: Lập bản đồ phụ thuộc.
+- **Strategic Positioning**: Định vị chiến lược tài nguyên.
 
-→ **Liên kết:** OPERATIONS (Portfolio Management), CREATION (Innovation Pipeline).
+→ **Liên kết:** OPERATIONS (Resource Management), AMPLIFICATION (Asset Leverage).
 
-#### **7. OKRs (Objectives and Key Results)** - Mục Tiêu và Kết Quả Chính
+#### **10. Roadmap Creation** - Tạo Lộ Trình
+
+Phát triển một biểu đồ trực quan của con đường chiến lược từ hiện tại đến tương lai mong muốn.
+
+- **Vision to Execution**: Từ tầm nhìn đến thực thi.
+- **Milestone Sequencing**: Sắp xếp các cột mốc.
+- **Dependency Visualization**: Trực quan hóa các mối phụ thuộc.
+- **Communication Tool**: Công cụ giao tiếp chiến lược.
+
+→ **Liên kết:** OPERATIONS (Strategic Planning), INTEGRATION (Alignment).
+
+#### **11. Scenario Cartography** - Lập Bản Đồ Kịch Bản
+
+Lập bản đồ chi tiết các kịch bản tương lai có thể xảy ra.
+
+- **Future Mapping**: Lập bản đồ tương lai.
+- **Possibility Visualization**: Trực quan hóa các khả năng.
+- **Pathway Charting**: Vẽ đồ các con đường dẫn đến mỗi kịch bản.
+- **Scenario Relationships**: Mối quan hệ giữa các kịch bản.
+
+→ **Liên kết:** OPERATIONS (Future Planning), CREATION (Scenario Design).
+
+### **3. Goal Setting & Progress Systems - Thiết Lập Mục Tiêu & Hệ Thống Tiến Độ**
+
+#### **12. Waypoint System** - Hệ Thống Điểm Mốc
+
+Thiết lập một chuỗi các mục tiêu trung gian, có thể đo lường được trên một hành trình dài.
+
+- **Milestone Definition**: Xác định các cột mốc quan trọng, rõ ràng và có thể đạt được.
+- **Progress Tracking**: Theo dõi tiến độ một cách hữu hình so với các điểm mốc đã xác định.
+- **Course Correction**: Sử dụng các điểm mốc làm điểm kiểm tra để đánh giá và điều chỉnh lại hướng đi.
+- **Motivation & Momentum**: Tạo ra cảm giác tiến bộ và duy trì động lực cho các hành trình dài.
+
+→ **Liên kết:** OPERATIONS (Decision Frameworks), VALIDATION (Feedback Systems).
+
+#### **13. OKRs (Objectives and Key Results)** - Mục Tiêu và Kết Quả Chính
 
 Một khung thiết lập mục tiêu và theo dõi tiến độ thông qua các kết quả có thể đo lường.
 
@@ -14079,30 +14149,7 @@ Một khung thiết lập mục tiêu và theo dõi tiến độ thông qua các
 
 → **Liên kết:** OPERATIONS (Goal Setting), VALIDATION (Progress Metrics).
 
-#### **8. Backcasting** - Dự Đoán Ngược
-
-Lập kế hoạch bằng cách bắt đầu từ một tương lai mong muốn và làm việc ngược lại về hiện tại.
-
-- **Future Vision First**: Bắt đầu với tầm nhìn tương lai rõ ràng.
-- **Working Backwards**: Làm việc ngược lại để xác định các bước cần thiết.
-- **Path Construction**: Xây dựng con đường từ tương lai về hiện tại.
-- **Desirable Future Focus**: Tập trung vào tương lai mong muốn, không chỉ tương lai có thể.
-
-→ **Liên kết:** CREATION (Visioning), OPERATIONS (Strategic Planning).
-
-#### **9. Sequential Path Analysis** - Phân Tích Đường Đi Tuần Tự
-
-Phân tích các con đường hành động tuần tự để tìm lộ trình tối ưu đạt mục tiêu. Sử dụng Decision Trees (xem OPERATIONS #3) như công cụ chính để:
-
-- **Strategic Choice Mapping**: Lập bản đồ các lựa chọn chiến lược theo trình tự thời gian.
-- **Development Branch Evaluation**: Đánh giá các nhánh phát triển có thể xảy ra.
-- **Expected Value Calculation**: Tính toán giá trị kỳ vọng của mỗi con đường.
-- **Optimal Route Identification**: Xác định lộ trình tối ưu dựa trên mục tiêu chiến lược.
-
-→ **Công cụ:** OPERATIONS #3 (Decision Trees)
-→ **Liên kết:** Scenario Tree #11, Gantt Charts #10, Backcasting #8
-
-#### **10. Gantt Charts & Critical Path** - Biểu Đồ Gantt & Đường Găng
+#### **14. Gantt Charts & Critical Path** - Biểu Đồ Gantt & Đường Găng
 
 Các công cụ lập kế hoạch dự án để trực quan hóa lịch trình và xác định các nhiệm vụ quan trọng.
 
@@ -14113,7 +14160,89 @@ Các công cụ lập kế hoạch dự án để trực quan hóa lịch trình
 
 → **Liên kết:** OPERATIONS (Project Management), VALIDATION (Schedule Control).
 
-#### **11. Scenario Tree** - Cây Kịch Bản
+#### **15. Feasibility Diamond** - Kim Cương Khả Thi
+
+Đánh giá khả thi của một ý tưởng theo bốn chiều: Kỹ thuật, Kinh tế, Xã hội, và Đạo đức.
+
+- **Technical Feasibility**: Khả thi về mặt kỹ thuật.
+- **Economic Viability**: Khả năng sinh lời.
+- **Social Desirability**: Mong muốn xã hội.
+- **Ethical Permissibility**: Được phép về mặt đạo đức.
+
+→ **Liên kết:** VALIDATION (Multi-criteria Evaluation), CREATION (Idea Filtering).
+
+#### **16. Conceptual Framework** - Khung Khái Niệm
+
+Một cấu trúc các ý tưởng và nguyên tắc được sử dụng để định hướng một phân tích hoặc một dự án.
+
+- **Theoretical Scaffolding**: Dàn giáo lý thuyết.
+- **Guiding Structure**: Cấu trúc dẫn đường.
+- **Analytical Lens**: Lăng kính phân tích.
+- **Coherent Organization**: Tổ chức mạch lạc.
+
+→ **Liên kết:** [META] LAYER (Meta-Structures), FOUNDATIONS (Mental Models).
+
+### **4. Temporal Planning & Time Horizons - Lập Kế Hoạch Thời Gian & Chân Trời Thời Gian**
+
+#### **17. Horizons Framework (Three Horizons)** - Khung Ba Chân Trời
+
+Một mô hình lập kế hoạch chiến lược phân chia nỗ lực thành ba chân trời thời gian.
+
+- **Horizon 1 (Current Business)**: Khai thác mô hình kinh doanh hiện tại.
+- **Horizon 2 (Emerging Opportunities)**: Xây dựng các cơ hội mới nổi.
+- **Horizon 3 (Future Possibilities)**: Khám phá các khả năng xa trong tương lai.
+- **Balanced Portfolio**: Cân bằng danh mục đầu tư giữa ba chân trời.
+
+→ **Liên kết:** OPERATIONS (Portfolio Management), CREATION (Innovation Pipeline).
+
+#### **18. Backcasting** - Dự Đoán Ngược
+
+Lập kế hoạch bằng cách bắt đầu từ một tương lai mong muốn và làm việc ngược lại về hiện tại.
+
+- **Future Vision First**: Bắt đầu với tầm nhìn tương lai rõ ràng.
+- **Working Backwards**: Làm việc ngược lại để xác định các bước cần thiết.
+- **Path Construction**: Xây dựng con đường từ tương lai về hiện tại.
+- **Desirable Future Focus**: Tập trung vào tương lai mong muốn, không chỉ tương lai có thể.
+
+→ **Liên kết:** CREATION (Visioning), OPERATIONS (Strategic Planning).
+
+#### **19. Sequential Path Analysis** - Phân Tích Đường Đi Tuần Tự
+
+Phân tích các con đường hành động tuần tự để tìm lộ trình tối ưu đạt mục tiêu. Sử dụng Decision Trees (xem OPERATIONS #3) như công cụ chính để:
+
+- **Strategic Choice Mapping**: Lập bản đồ các lựa chọn chiến lược theo trình tự thời gian.
+- **Development Branch Evaluation**: Đánh giá các nhánh phát triển có thể xảy ra.
+- **Expected Value Calculation**: Tính toán giá trị kỳ vọng của mỗi con đường.
+- **Optimal Route Identification**: Xác định lộ trình tối ưu dựa trên mục tiêu chiến lược.
+
+→ **Công cụ:** OPERATIONS #3 (Decision Trees)
+→ **Liên kết:** Scenario Tree #22, Gantt Charts #14, Backcasting #18
+
+#### **20. Multi-Scale Time Horizons** - Các Chân Trời Thời Gian Đa Tầng
+
+Lập kế hoạch đồng thời trên nhiều tầng thời gian (ngày, tuần, tháng, năm, thập kỷ).
+
+- **Nested Time Scales**: Các tầng thời gian lồng nhau.
+- **Short, Medium, Long-term Balance**: Cân bằng ngắn hạn, trung hạn, dài hạn.
+- **Coherent Integration**: Tích hợp mạch lạc giữa các tầng.
+- **Temporal Flexibility**: Linh hoạt về mặt thời gian.
+
+→ **Liên kết:** DYNAMICS (Temporal Dynamics), [META] LAYER (Time Awareness).
+
+#### **21. Spacetime Continuum** - Liên Tục Không-Thời Gian
+
+Hiểu không gian và thời gian như một thực thể thống nhất, liên kết.
+
+- **Unified Reality**: Thực tại thống nhất của không-thời gian.
+- **Relativity Awareness**: Nhận thức về tính tương đối.
+- **4D Planning**: Lập kế hoạch bốn chiều.
+- **Temporal-Spatial Integration**: Tích hợp không gian-thời gian.
+
+→ **Liên kết:** FOUNDATIONS (Physics), DYNAMICS (Relativity).
+
+### **5. Scenario Planning & Possibility Exploration - Lập Kế Hoạch Kịch Bản & Khám Phá Khả Năng**
+
+#### **22. Scenario Tree** - Cây Kịch Bản
 
 Một biểu đồ phân nhánh các kịch bản tương lai có thể xảy ra và các hành động liên quan.
 
@@ -14124,7 +14253,7 @@ Một biểu đồ phân nhánh các kịch bản tương lai có thể xảy ra
 
 → **Liên kết:** OPERATIONS (Strategic Planning), DYNAMICS (Scenario Analysis).
 
-#### **12. Pre-mortem & Pre-parade** - Phân Tích Hậu Sự Trước & Diễu Hành Trước
+#### **23. Pre-mortem & Pre-parade** - Phân Tích Hậu Sự Trước & Diễu Hành Trước
 
 Công cụ lập kế hoạch HAI CHIỀU: tưởng tượng cả thất bại VÀ thành công để nhận diện rủi ro và cơ hội. Khác với Pre-Mortem đơn thuần ở VALIDATION, đây là CÔNG CỤ CHIẾN LƯỢC cân bằng cả hai cực.
 
@@ -14139,18 +14268,7 @@ Công cụ lập kế hoạch HAI CHIỀU: tưởng tượng cả thất bại V
 
 💡 **Điểm khác biệt:** Đây là CÔNG CỤ DUY NHẤT nhìn CẢ HAI PHÍA - không chỉ "tránh thất bại" mà còn "tối đa hóa thành công"
 
-#### **13. Multi-Scale Time Horizons** - Các Chân Trời Thời Gian Đa Tầng
-
-Lập kế hoạch đồng thời trên nhiều tầng thời gian (ngày, tuần, tháng, năm, thập kỷ).
-
-- **Nested Time Scales**: Các tầng thời gian lồng nhau.
-- **Short, Medium, Long-term Balance**: Cân bằng ngắn hạn, trung hạn, dài hạn.
-- **Coherent Integration**: Tích hợp mạch lạc giữa các tầng.
-- **Temporal Flexibility**: Linh hoạt về mặt thời gian.
-
-→ **Liên kết:** DYNAMICS (Temporal Dynamics), [META] LAYER (Time Awareness).
-
-#### **14. Options Thinking** - Tư Duy Quyền Chọn
+#### **24. Options Thinking** - Tư Duy Quyền Chọn
 
 Xử lý các quyết định và đầu tư như các quyền chọn (options) có thể được thực hiện hoặc để hết hạn.
 
@@ -14161,62 +14279,42 @@ Xử lý các quyết định và đầu tư như các quyền chọn (options) 
 
 → **Liên kết:** OPERATIONS (Decision Theory), DYNAMICS (Optionality).
 
-#### **15. Resource Mapping** - Lập Bản Đồ Tài Nguyên
+#### **25. Parallel Universes** - Vũ Trụ Song Song
 
-Trực quan hóa tất cả các loại tài nguyên có sẵn và cách chúng liên quan đến nhau.
+Khái niệm về các thực tại thay thế có thể tồn tại đồng thời.
 
-- **Asset Visualization**: Trực quan hóa tài sản.
-- **Capability Inventory**: Kiểm kê năng lực.
-- **Dependency Mapping**: Lập bản đồ phụ thuộc.
-- **Strategic Positioning**: Định vị chiến lược tài nguyên.
+- **Alternate Realities**: Các thực tại thay thế.
+- **Possibility Spaces**: Không gian khả năng.
+- **Many-Worlds Thinking**: Tư duy đa vũ trụ.
+- **Decision Branching**: Phân nhánh quyết định tạo ra các vũ trụ mới.
 
-→ **Liên kết:** OPERATIONS (Resource Management), AMPLIFICATION (Asset Leverage).
+→ **Liên kết:** CREATION (Possibility Thinking), DYNAMICS (Quantum Mechanics).
 
-#### **16. Feasibility Diamond** - Kim Cương Khả Thi
+#### **26. Alternative Timeline Surfing** - Lướt Trên Các Dòng Thời Gian Thay Thế
 
-Đánh giá khả thi của một ý tưởng theo bốn chiều: Kỹ thuật, Kinh tế, Xã hội, và Đạo đức.
+Khám phá các dòng thời gian có thể khác nhau từ các quyết định.
 
-- **Technical Feasibility**: Khả thi về mặt kỹ thuật.
-- **Economic Viability**: Khả năng sinh lời.
-- **Social Desirability**: Mong muốn xã hội.
-- **Ethical Permissibility**: Được phép về mặt đạo đức.
+- **Timeline Exploration**: Khám phá các dòng thời gian.
+- **What-If Analysis**: Phân tích "Nếu...thì...".
+- **Decision Impact**: Tác động của quyết định lên dòng thời gian.
+- **Parallel History**: Lịch sử song song.
 
-→ **Liên kết:** VALIDATION (Multi-criteria Evaluation), CREATION (Idea Filtering).
+→ **Liên kết:** CREATION (Alternative Thinking), VALIDATION (Counterfactual Analysis).
 
-#### **17. Moral Compass** - La Bàn Đạo Đức
+#### **27. Future History Writing** - Viết Lịch Sử Tương Lai
 
-Hệ thống các nguyên tắc đạo đức và giá trị hướng dẫn hành vi.
+Tạo ra các câu chuyện chi tiết về tương lai như thể chúng đã xảy ra.
 
-- **Ethical Framework**: Khung đạo đức.
-- **Integrity Guidance**: Hướng dẫn về sự chính trực.
-- **Right Action**: Hành động đúng đắn.
-- **Conscience as Navigator**: Lương tâm như một hoa tiêu.
+- **Backward Narration**: Kể từ tương lai về hiện tại.
+- **Vivid Future**: Tương lai sống động, cụ thể.
+- **Plausible Story**: Câu chuyện hợp lý, có thể tin được.
+- **Inspiration Tool**: Công cụ truyền cảm hứng cho hành động.
 
-→ **Liên kết:** FOUNDATIONS (Wisdom Traditions), INTEGRATION (Value System Integration).
+→ **Liên kết:** CREATION (Future Visioning), INTEGRATION (Narrative Creation).
 
-#### **18. Conceptual Framework** - Khung Khái Niệm
+### **6. Multi-Dimensional & Quantum Navigation - Điều Hướng Đa Chiều & Lượng Tử**
 
-Một cấu trúc các ý tưởng và nguyên tắc được sử dụng để định hướng một phân tích hoặc một dự án.
-
-- **Theoretical Scaffolding**: Dàn giáo lý thuyết.
-- **Guiding Structure**: Cấu trúc dẫn đường.
-- **Analytical Lens**: Lăng kính phân tích.
-- **Coherent Organization**: Tổ chức mạch lạc.
-
-→ **Liên kết:** [META] LAYER (Meta-Structures), FOUNDATIONS (Mental Models).
-
-#### **19. Roadmap Creation** - Tạo Lộ Trình
-
-Phát triển một biểu đồ trực quan của con đường chiến lược từ hiện tại đến tương lai mong muốn.
-
-- **Vision to Execution**: Từ tầm nhìn đến thực thi.
-- **Milestone Sequencing**: Sắp xếp các cột mốc.
-- **Dependency Visualization**: Trực quan hóa các mối phụ thuộc.
-- **Communication Tool**: Công cụ giao tiếp chiến lược.
-
-→ **Liên kết:** OPERATIONS (Strategic Planning), INTEGRATION (Alignment).
-
-#### **20. Master Planner** - Bậc Thầy Lập Kế Hoạch
+#### **28. Master Planner** - Bậc Thầy Lập Kế Hoạch
 
 Khả năng tích hợp tất cả các công cụ lập kế hoạch đa chiều một cách tự nhiên và linh hoạt.
 
@@ -14227,9 +14325,7 @@ Khả năng tích hợp tất cả các công cụ lập kế hoạch đa chiề
 
 → **Liên kết:** Tích hợp tất cả các khái niệm trong MULTI-DIMENSIONAL PLANNING.
 
-### Các mục mới bổ sung
-
-#### **21. Dimensional Shifting [Trong Lập Kế Hoạch]** - Chuyển Đổi Chiều [Trong Lập Kế Hoạch]
+#### **29. Dimensional Shifting [Trong Lập Kế Hoạch]** - Chuyển Đổi Chiều [Trong Lập Kế Hoạch]
 
 Khả năng di chuyển tư duy và nhận thức giữa các chiều khác nhau của thực tại khi lập kế hoạch và điều hướng. Đây là CÔNG CỤ THỰC HÀNH để tư duy đa chiều trong quá trình hoạch định chiến lược và ra quyết định.
 
@@ -14238,11 +14334,11 @@ Khả năng di chuyển tư duy và nhận thức giữa các chiều khác nhau
 - **Dimensional Fluidity**: Linh hoạt di chuyển giữa không gian-thời gian-ý nghĩa.
 - **Reality Navigation**: Điều hướng qua các lớp thực tại để tìm giải pháp tối ưu.
 
-→ **Liên kết nội bộ:** #27 Multidimensional Reality (khung lý thuyết), #29 Scenario Cartography (ứng dụng thực tế), #22 Parallel Navigation (phương pháp bổ sung).
+→ **Liên kết nội bộ:** #33 Multidimensional Reality (khung lý thuyết), #11 Scenario Cartography (ứng dụng thực tế), #30 Parallel Navigation (phương pháp bổ sung).
 → **Cấp độ cao hơn:** [META] #44 (Dimensional Shifting trong tiến hóa framework).
 → **Ứng dụng cụ thể:** Lập kế hoạch chiến lược, ra quyết định đa chiều, thiết kế kịch bản.
 
-#### **22. Parallel Navigation** - Điều Hướng Song Song
+#### **30. Parallel Navigation** - Điều Hướng Song Song
 
 Chiến lược theo dõi và điều phối nhiều con đường hoặc kịch bản đồng thời, thay vì cam kết với một lộ trình duy nhất. Đây là công cụ thực hành quan trọng trong lập kế hoạch đa chiều, cho phép duy trì tính linh hoạt và khám phá nhiều khả năng song song.
 
@@ -14259,9 +14355,9 @@ Chiến lược theo dõi và điều phối nhiều con đường hoặc kịch
 
 → **Liên kết nội bộ:** OPERATIONS (Parallel Processing - xử lý đa luồng), DYNAMICS (Optionality - giữ nhiều lựa chọn mở), FOUNDATIONS (Quantum Mechanics - trạng thái chồng chập).
 → **Siêu nhận thức:** [META] #42 (Meta-Wayfinding - quan sát các phương pháp điều hướng).
-→ **Các phương pháp điều hướng khác:** Sequential Navigation (tuần tự), #24 Quantum Navigation States (chồng chập), #23 Holographic Navigation (toàn ảnh).
+→ **Các phương pháp điều hướng khác:** Sequential Navigation (tuần tự), #32 Quantum Navigation States (chồng chập), #31 Holographic Navigation (toàn ảnh).
 
-#### **23. Holographic Navigation - Điều Hướng Toàn Ảnh** [Công Cụ Lập Kế Hoạch]
+#### **31. Holographic Navigation - Điều Hướng Toàn Ảnh** [Công Cụ Lập Kế Hoạch]
 
 Phương pháp điều hướng chiến lược trong đó mỗi quyết định nhỏ chứa thông tin về toàn bộ chiến lược lớn. Đây là CÔNG CỤ THỰC HÀNH để lập kế hoạch đa chiều - nhìn thấy bức tranh lớn từ mỗi chi tiết, và ngược lại.
 
@@ -14275,7 +14371,7 @@ Phương pháp điều hướng chiến lược trong đó mỗi quyết định
 → **Ứng dụng cụ thể:** Multi-Dimensional Planning (lập kế hoạch đa chiều), Strategic Wayfinding (tìm đường chiến lược).
 → **Ví dụ thực tế:** Mỗi quyết định nhỏ trong kế hoạch kinh doanh phản ánh giá trị cốt lõi và tầm nhìn tổng thể của tổ chức.
 
-#### **24. Quantum Navigation States** - Trạng Thái Điều Hướng Lượng Tử
+#### **32. Quantum Navigation States** - Trạng Thái Điều Hướng Lượng Tử
 
 Khả năng duy trì nhiều trạng thái khả năng đồng thời (quantum superposition) cho đến khi cần "sụp đổ" thành một quyết định cụ thể. Đây là nghệ thuật giữ optionality tối đa trong lập kế hoạch chiến lược, áp dụng ẩn dụ từ cơ học lượng tử vào điều hướng thực tế.
 
@@ -14302,18 +14398,7 @@ Khả năng duy trì nhiều trạng thái khả năng đồng thời (quantum s
 
 💡 **Nguyên tắc vàng**: "Preserve quantum superposition as long as possible, collapse only when action is required or information is maximized."
 
-#### **25. Spacetime Continuum** - Liên Tục Không-Thời Gian
-
-Hiểu không gian và thời gian như một thực thể thống nhất, liên kết.
-
-- **Unified Reality**: Thực tại thống nhất của không-thời gian.
-- **Relativity Awareness**: Nhận thức về tính tương đối.
-- **4D Planning**: Lập kế hoạch bốn chiều.
-- **Temporal-Spatial Integration**: Tích hợp không gian-thời gian.
-
-→ **Liên kết:** FOUNDATIONS (Physics), DYNAMICS (Relativity).
-
-#### **26. Multidimensional Reality** - Thực Tại Đa Chiều
+#### **33. Multidimensional Reality** - Thực Tại Đa Chiều
 
 Nhận thức rằng thực tại tồn tại trên nhiều chiều và tầng lớp.
 
@@ -14324,106 +14409,7 @@ Nhận thức rằng thực tại tồn tại trên nhiều chiều và tầng l
 
 → **Liên kết:** TRANSCENDENCE (Expanded Awareness), [META] LAYER (Reality Models).
 
-#### **27. Parallel Universes** - Vũ Trụ Song Song
-
-Khái niệm về các thực tại thay thế có thể tồn tại đồng thời.
-
-- **Alternate Realities**: Các thực tại thay thế.
-- **Possibility Spaces**: Không gian khả năng.
-- **Many-Worlds Thinking**: Tư duy đa vũ trụ.
-- **Decision Branching**: Phân nhánh quyết định tạo ra các vũ trụ mới.
-
-→ **Liên kết:** CREATION (Possibility Thinking), DYNAMICS (Quantum Mechanics).
-
-#### **28. Scenario Cartography** - Lập Bản Đồ Kịch Bản
-
-Lập bản đồ chi tiết các kịch bản tương lai có thể xảy ra.
-
-- **Future Mapping**: Lập bản đồ tương lai.
-- **Possibility Visualization**: Trực quan hóa các khả năng.
-- **Pathway Charting**: Vẽ đồ các con đường dẫn đến mỗi kịch bản.
-- **Scenario Relationships**: Mối quan hệ giữa các kịch bản.
-
-→ **Liên kết:** OPERATIONS (Future Planning), CREATION (Scenario Design).
-
-#### **29. Alternative Timeline Surfing** - Lướt Trên Các Dòng Thời Gian Thay Thế
-
-Khám phá các dòng thời gian có thể khác nhau từ các quyết định.
-
-- **Timeline Exploration**: Khám phá các dòng thời gian.
-- **What-If Analysis**: Phân tích "Nếu...thì...".
-- **Decision Impact**: Tác động của quyết định lên dòng thời gian.
-- **Parallel History**: Lịch sử song song.
-
-→ **Liên kết:** CREATION (Alternative Thinking), VALIDATION (Counterfactual Analysis).
-
-#### **30. Future History Writing** - Viết Lịch Sử Tương Lai
-
-Tạo ra các câu chuyện chi tiết về tương lai như thể chúng đã xảy ra.
-
-- **Backward Narration**: Kể từ tương lai về hiện tại.
-- **Vivid Future**: Tương lai sống động, cụ thể.
-- **Plausible Story**: Câu chuyện hợp lý, có thể tin được.
-- **Inspiration Tool**: Công cụ truyền cảm hứng cho hành động.
-
-→ **Liên kết:** CREATION (Future Visioning), INTEGRATION (Narrative Creation).
-
-#### **31. Prophetic Engineering** - Kỹ Thuật Tiên Tri
-
-Thiết kế tương lai một cách có chủ đích để nó trở thành hiện thực.
-
-- **Intentional Future**: Tương lai có chủ đích.
-- **Self-Fulfilling Prophecy**: Lời tiên tri tự ứng nghiệm.
-- **Manifestation Design**: Thiết kế để hiện thực hóa.
-- **Vision Materialization**: Vật chất hóa tầm nhìn.
-
-→ **Liên kết:** CREATION (Manifestation), AMPLIFICATION (Vision Realization).
-
-#### **32. Reality Fiction Techniques** - Kỹ Thuật Hư Cấu Thực Tại
-
-Sử dụng tưởng tượng và kể chuyện để định hình thực tại.
-
-- **Imagination as Tool**: Trí tưởng tượng như công cụ.
-- **Fiction to Fact**: Từ hư cấu đến sự thật.
-- **Creative Visualization**: Trực quan hóa sáng tạo.
-- **Actualization Through Story**: Hiện thực hóa qua câu chuyện.
-
-→ **Liên kết:** CREATION (Creative Manifestation), INTEGRATION (Storytelling).
-
-#### **33. Story Structure Hacking** - Đột Nhập Cấu Trúc Câu Chuyện
-
-Sử dụng và điều chỉnh các cấu trúc câu chuyện để định hình trải nghiệm và kết quả.
-
-- **Narrative Architecture**: Kiến trúc tường thuật.
-- **Story Pattern Manipulation**: Thao tác mẫu câu chuyện.
-- **Hero's Journey**: Hành trình của anh hùng.
-- **Arc Modification**: Sửa đổi cung chuyện.
-
-→ **Liên kết:** CREATION (Narrative Design), INTEGRATION (Experience Shaping).
-
-#### **34. Archetype Invocation** - Triệu Hồi Nguyên Mẫu
-
-Kích hoạt các mẫu hình tâm lý nguyên thủy để tạo ra ảnh hưởng và hành động.
-
-- **Pattern Activation**: Kích hoạt mẫu hình.
-- **Universal Symbols**: Biểu tượng phổ quát.
-- **Collective Unconscious**: Vô thức tập thể.
-- **Archetypal Power**: Sức mạnh nguyên mẫu.
-
-→ **Liên kết:** FOUNDATIONS (Jungian Psychology), AMPLIFICATION (Symbolic Power).
-
-#### **35. Myth Modernization** - Hiện Đại Hóa Thần Thoại
-
-Điều chỉnh các thần thoại cổ xưa cho bối cảnh và thách thức hiện đại.
-
-- **Ancient Wisdom**: Trí tuệ cổ xưa.
-- **Contemporary Application**: Áp dụng đương đại.
-- **Tradition Adaptation**: Điều chỉnh truyền thống.
-- **Timeless Patterns**: Các mẫu hình vượt thời gian.
-
-→ **Liên kết:** FOUNDATIONS (Mythology), INTEGRATION (Cultural Bridge).
-
-#### **36. Quantum Computing Navigation** - Điều Hướng Điện Toán Lượng Tử
+#### **34. Quantum Computing Navigation** - Điều Hướng Điện Toán Lượng Tử
 
 Sử dụng các nguyên lý điện toán lượng tử để xử lý song song nhiều con đường.
 
@@ -14434,7 +14420,7 @@ Sử dụng các nguyên lý điện toán lượng tử để xử lý song son
 
 → **Liên kết:** OPERATIONS (Advanced Computing), DYNAMICS (Quantum Mechanics).
 
-#### **37. Quantum Tunneling Focus** - Tập Trung Xuyên Qua Rào Cản Lượng Tử
+#### **35. Quantum Tunneling Focus** - Tập Trung Xuyên Qua Rào Cản Lượng Tử
 
 Khả năng "xuyên qua" các rào cản tưởng chừng không thể vượt qua.
 
@@ -14445,7 +14431,77 @@ Khả năng "xuyên qua" các rào cản tưởng chừng không thể vượt q
 
 → **Liên kết:** CREATION (Breakthrough Innovation), TRANSCENDENCE (Limitation Transcendence).
 
-#### **38. Evolutionary Navigation** - Điều Hướng Tiến Hóa
+### **7. Narrative & Future Engineering - Tường Thuật & Kỹ Thuật Thiết Kế Tương Lai**
+
+#### **36. Prophetic Engineering** - Kỹ Thuật Tiên Tri
+
+Thiết kế tương lai một cách có chủ đích để nó trở thành hiện thực.
+
+- **Intentional Future**: Tương lai có chủ đích.
+- **Self-Fulfilling Prophecy**: Lời tiên tri tự ứng nghiệm.
+- **Manifestation Design**: Thiết kế để hiện thực hóa.
+- **Vision Materialization**: Vật chất hóa tầm nhìn.
+
+→ **Liên kết:** CREATION (Manifestation), AMPLIFICATION (Vision Realization).
+
+#### **37. Reality Fiction Techniques** - Kỹ Thuật Hư Cấu Thực Tại
+
+Sử dụng tưởng tượng và kể chuyện để định hình thực tại.
+
+- **Imagination as Tool**: Trí tưởng tượng như công cụ.
+- **Fiction to Fact**: Từ hư cấu đến sự thật.
+- **Creative Visualization**: Trực quan hóa sáng tạo.
+- **Actualization Through Story**: Hiện thực hóa qua câu chuyện.
+
+→ **Liên kết:** CREATION (Creative Manifestation), INTEGRATION (Storytelling).
+
+#### **38. Story Structure Hacking** - Đột Nhập Cấu Trúc Câu Chuyện
+
+Sử dụng và điều chỉnh các cấu trúc câu chuyện để định hình trải nghiệm và kết quả.
+
+- **Narrative Architecture**: Kiến trúc tường thuật.
+- **Story Pattern Manipulation**: Thao tác mẫu câu chuyện.
+- **Hero's Journey**: Hành trình của anh hùng.
+- **Arc Modification**: Sửa đổi cung chuyện.
+
+→ **Liên kết:** CREATION (Narrative Design), INTEGRATION (Experience Shaping).
+
+#### **39. Archetype Invocation** - Triệu Hồi Nguyên Mẫu
+
+Kích hoạt các mẫu hình tâm lý nguyên thủy để tạo ra ảnh hưởng và hành động.
+
+- **Pattern Activation**: Kích hoạt mẫu hình.
+- **Universal Symbols**: Biểu tượng phổ quát.
+- **Collective Unconscious**: Vô thức tập thể.
+- **Archetypal Power**: Sức mạnh nguyên mẫu.
+
+→ **Liên kết:** FOUNDATIONS (Jungian Psychology), AMPLIFICATION (Symbolic Power).
+
+#### **40. Myth Modernization** - Hiện Đại Hóa Thần Thoại
+
+Điều chỉnh các thần thoại cổ xưa cho bối cảnh và thách thức hiện đại.
+
+- **Ancient Wisdom**: Trí tuệ cổ xưa.
+- **Contemporary Application**: Áp dụng đương đại.
+- **Tradition Adaptation**: Điều chỉnh truyền thống.
+- **Timeless Patterns**: Các mẫu hình vượt thời gian.
+
+→ **Liên kết:** FOUNDATIONS (Mythology), INTEGRATION (Cultural Bridge).
+
+#### **41. Meta-Narrative Awareness** - Nhận Thức Siêu Tường Thuật
+
+Nhận thức về các câu chuyện lớn hơn đang định hình nhận thức và hành vi.
+
+- **Story Consciousness**: Ý thức về câu chuyện.
+- **Narrative Layers**: Các lớp tường thuật.
+- **Meta-Story**: Câu chuyện về câu chuyện.
+- **Framing Awareness**: Nhận thức về cách đóng khung.
+
+→ **Liên kết:** [META] LAYER (Narrative Analysis), INTEGRATION (Meaning-Making).
+
+### **8. Evolutionary & Meta-Level Planning - Lập Kế Hoạch Tiến Hóa & Cấp Siêu**
+
+#### **42. Evolutionary Navigation** - Điều Hướng Tiến Hóa
 
 Áp dụng các nguyên lý tiến hóa sinh học vào điều hướng chiến lược: tạo biến thể, kiểm nghiệm trong thực tế, chọn lọc những gì hiệu quả, và nhân rộng các giải pháp tốt nhất.
 
@@ -14480,7 +14536,7 @@ Khả năng "xuyên qua" các rào cản tưởng chừng không thể vượt q
   • Nghiên cứu khoa học với nhiều giả thuyết song song
   • Lập kế hoạch cuộc sống linh hoạt
 
-#### **39. Co-evolutionary Navigation** - Điều Hướng Đồng Tiến Hóa
+#### **43. Co-evolutionary Navigation** - Điều Hướng Đồng Tiến Hóa
 
 Chiến lược điều hướng trong các hệ thống nơi các bên cùng tiến hóa và ảnh hưởng lẫn nhau. Khác với DYNAMICS #8 (về cơ chế), đây là về THỰC HÀNH điều hướng có chiến lược khi bạn là một phần của hệ sinh thái cùng tiến hóa. Đây là CHIẾN LƯỢC & THỰC HÀNH - LÀM THẾ NÀO để điều hướng trong môi trường cùng tiến hóa.
 
@@ -14494,7 +14550,7 @@ Chiến lược điều hướng trong các hệ thống nơi các bên cùng ti
 → **Siêu việt hóa:** TRANSCENDENCE #31 (Transcendent Co-evolution - nâng lên mức độ ý thức cao hơn)
 → **Khác với:** TRANSCENDENCE #31 (chiến lược thực hành vs. nhận thức siêu việt)
 
-#### **40. Meta-Strategy** - Siêu Chiến Lược **[Công Cụ Lập Kế Hoạch]**
+#### **44. Meta-Strategy** - Siêu Chiến Lược **[Công Cụ Lập Kế Hoạch]**
 
 Chiến lược về cách TẠO RA và ĐIỀU CHỈNH các chiến lược trong thực hành. Khác với Meta-Strategy ở META LAYER (thiết kế framework), đây là về THỰC HÀNH - cách áp dụng tư duy meta vào việc lập kế hoạch cụ thể.
 
@@ -14513,7 +14569,7 @@ Chiến lược về cách TẠO RA và ĐIỀU CHỈNH các chiến lược tro
 → **Cấp độ cao hơn:** [META] LAYER #33 (Meta-Strategy - thiết kế framework).
 → **Siêu nhận thức:** [META] LAYER (Meta-Cognition), TRANSCENDENCE (Strategic Wisdom).
 
-#### **41. Meta-Wayfinding** - Siêu Tìm Đường **[Khám Phá Phương Pháp]**
+#### **45. Meta-Wayfinding** - Siêu Tìm Đường **[Khám Phá Phương Pháp]**
 
 Tìm đường để tìm đường - NGHỆ THUẬT khám phá các phương pháp điều hướng mới. Đây là về THỰC HÀNH: làm thế nào để phát hiện ra các cách tiếp cận mới để điều hướng trong bất kỳ không gian nào (vật lý, tri thức, chiến lược).
 
@@ -14528,18 +14584,7 @@ Tìm đường để tìm đường - NGHỆ THUẬT khám phá các phương ph
 → **Ứng dụng:** OPERATIONS (Strategic Planning).
 → **Đổi mới:** CREATION #25 (Novel Path Discovery).
 
-#### **42. Meta-Narrative Awareness** - Nhận Thức Siêu Tường Thuật
-
-Nhận thức về các câu chuyện lớn hơn đang định hình nhận thức và hành vi.
-
-- **Story Consciousness**: Ý thức về câu chuyện.
-- **Narrative Layers**: Các lớp tường thuật.
-- **Meta-Story**: Câu chuyện về câu chuyện.
-- **Framing Awareness**: Nhận thức về cách đóng khung.
-
-→ **Liên kết:** [META] LAYER (Narrative Analysis), INTEGRATION (Meaning-Making).
-
-#### **43. Life Design Architecture** - Kiến Trúc Thiết Kế Cuộc Sống
+#### **46. Life Design Architecture** - Kiến Trúc Thiết Kế Cuộc Sống
 
 Thiết kế có chủ đích các cấu trúc và hệ thống của cuộc sống.
 
@@ -14549,39 +14594,6 @@ Thiết kế có chủ đích các cấu trúc và hệ thống của cuộc s�
 - **Personal Architecture**: Kiến trúc cá nhân.
 
 → **Liên kết:** INTEGRATION (Personal Integration), OPERATIONS (Life Planning).
-
-#### **44. Life Planning & Purpose Finding** - Lập Kế Hoạch Cuộc Sống & Tìm Mục Đích
-
-Quá trình xác định và theo đuổi mục đích sống.
-
-- **Purpose Discovery**: Khám phá mục đích.
-- **Meaning-Making**: Tạo ra ý nghĩa.
-- **Direction Setting**: Thiết lập hướng đi.
-- **Life Vision**: Tầm nhìn cuộc sống.
-
-→ **Liên kết:** FOUNDATIONS (Purpose), INTEGRATION (Life Integration).
-
-#### **45. Career Counseling** - Tư Vấn Nghề Nghiệp
-
-Hướng dẫn về các quyết định và phát triển nghề nghiệp.
-
-- **Career Guidance**: Hướng dẫn nghề nghiệp.
-- **Path Exploration**: Khám phá con đường sự nghiệp.
-- **Skills Assessment**: Đánh giá kỹ năng.
-- **Work-Life Integration**: Tích hợp công việc-cuộc sống.
-
-→ **Liên kết:** OPERATIONS (Career Development), INTEGRATION (Professional Identity).
-
-#### **46. Evolutionary Purpose Discovery** - Khám Phá Mục Đích Tiến Hóa
-
-Mục đích không cố định mà tiến hóa và mở ra theo thời gian.
-
-- **Unfolding Purpose**: Mục đích mở ra dần.
-- **Developmental Stages**: Các giai đoạn phát triển.
-- **Emergent Meaning**: Ý nghĩa đột sinh.
-- **Purpose Evolution**: Tiến hóa mục đích.
-
-→ **Liên kết:** DYNAMICS (Personal Evolution), TRANSCENDENCE (Purpose Unfolding).
 
 ---
 
