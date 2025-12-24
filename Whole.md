@@ -14601,9 +14601,9 @@ Thiết kế có chủ đích các cấu trúc và hệ thống của cuộc s�
 
 _Các công cụ để phân bổ nguồn lực hữu hạn, thiết lập ưu tiên và tối ưu hóa hiệu suất._
 
-### Các mục cốt lõi
+### **1. Priority Frameworks & Decision Tools - Khung Ưu Tiên & Công Cụ Quyết Định**
 
-#### **1. Eisenhower Matrix** - Ma Trận Eisenhower [Công Cụ Ưu Tiên Chính]
+#### **1. Eisenhower Matrix - Ma Trận Eisenhower** [Công Cụ Ưu Tiên Chính]
 
 Công cụ ưu tiên cổ điển phân loại nhiệm vụ theo HAI TRỤC: Tầm quan trọng (Important) và Mức độ khẩn cấp (Urgent). Matrix này là CÔNG CỤ THỰC HÀNH để biến nguyên tắc "important vs urgent" thành hành động cụ thể.
 
@@ -14665,7 +14665,9 @@ Bắt đầu từ trang giấy trắng, giả định không có ưu tiên nào 
 
 → **Liên kết:** OPERATIONS (Budget Planning), VALIDATION (Assumption Testing).
 
-#### **6. Trade-off Analysis** - Phân Tích Đánh Đổi → **_Tham chiếu OPERATIONS #33_**
+### **2. Resource Assessment & Operations - Đánh Giá Tài Nguyên & Vận Hành**
+
+#### **6. Trade-off Analysis - Phân Tích Đánh Đổi** → **_Tham chiếu OPERATIONS #33_**
 
 Khi cần phân tích các sự đánh đổi giữa tài nguyên, thời gian, chất lượng và các mục tiêu khác, sử dụng:
 
@@ -14725,7 +14727,9 @@ Luôn xem xét giá trị của lựa chọn tốt nhất tiếp theo mà bạn 
 
 → **Liên kết:** OPERATIONS (Operations Management), DYNAMICS (System Scalability).
 
-#### **11. Energy Management - Quản Lý Năng Lượng [Tài Nguyên Chiến Lược]**
+### **3. Personal Resource Management - Quản Lý Tài Nguyên Cá Nhân**
+
+#### **11. Energy Management - Quản Lý Năng Lượng** [Tài Nguyên Chiến Lược]
 
 Quản lý năng lượng cá nhân (vật lý, tinh thần, cảm xúc) như một TÀI NGUYÊN CHIẾN LƯỢC hữu hạn cần được phân bổ khôn ngoan. Đây là về QUYẾT ĐỊNH - đầu tư năng lượng vào đâu, khi nào, và với cường độ bao nhiêu.
 
@@ -14773,9 +14777,9 @@ Khả năng tích hợp tất cả các nguyên tắc quản lý tài nguyên v�
 
 → **Liên kết:** Tích hợp tất cả các khái niệm trong RESOURCE & PRIORITY MANAGEMENT.
 
-### Các mục mới bổ sung
+### **4. Strategic Investment & Protection - Đầu Tư Chiến Lược & Bảo Vệ**
 
-#### **15. Resource Alchemy** - Giả Kim Tài Nguyên
+#### **15. Resource Alchemy - Giả Kim Tài Nguyên**
 
 Chuyển đổi các tài nguyên từ dạng này sang dạng khác để tăng giá trị.
 
@@ -14910,7 +14914,9 @@ Công cụ trực quan để đánh giá và ưu tiên rủi ro.
 3. Irreversibility cao (hard to undo)
 4. Complexity cao (nhiều phụ thuộc)
 
-#### **21. Signal Processing** - Xử Lý Tín Hiệu
+### **5. Information Processing & Flexibility - Xử Lý Thông Tin & Linh Hoạt**
+
+#### **21. Signal Processing - Xử Lý Tín Hiệu**
 
 Lọc nhiễu để nhận diện tín hiệu có ý nghĩa.
 
@@ -14968,7 +14974,9 @@ Tăng xác suất gặp may mắn bằng cách tăng sự tiếp xúc và hành 
 
 → **Liên kết:** CREATION #46 (Serendipity Engineering), NAVIGATION #22 (Serendipity Navigation), AMPLIFICATION (Opportunity Multiplication), OPERATIONS (Activity Management).
 
-#### **26. Barrier Detection** - Phát Hiện Rào Cản
+### **6. Barrier Navigation & Breakthrough - Điều Hướng Rào Cản & Đột Phá**
+
+#### **26. Barrier Detection - Phát Hiện Rào Cản**
 
 Nhận diện sớm các chướng ngại vật và trở ngại.
 
@@ -15034,7 +15042,9 @@ Tạo ra các thực tại và paradigm mới thông qua hành động khởi ng
 
 → **Liên kết:** CREATION (Paradigm Innovation), AMPLIFICATION (Reality Shaping).
 
-#### **32. Production Management** - Quản Lý Sản Xuất
+### **7. Project Planning & Execution - Lập Kế Hoạch Dự Án & Thực Thi**
+
+#### **32. Production Management - Quản Lý Sản Xuất**
 
 Điều phối các quy trình để tạo ra đầu ra.
 
@@ -15111,7 +15121,9 @@ Phát triển góc nhìn độc nhất mà không ai khác có thể cung cấp.
 
 → **Liên kết:** CREATION (Original Thinking), INTEGRATION (Voice Development).
 
-#### **39. Navigation ROI** - Lợi Nhuận Đầu Tư Điều Hướng
+### **8. Strategic Metrics & Decision Razors - Chỉ Số Chiến Lược & Dao Cạo Quyết Định**
+
+#### **39. Navigation ROI - Lợi Nhuận Đầu Tư Điều Hướng**
 
 Đo lường và tối ưu hóa lợi nhuận từ các quyết định, nỗ lực và nguồn lực được đầu tư vào hoạt động điều hướng chiến lược. Khái niệm này giúp đánh giá hiệu quả của việc phân bổ tài nguyên cho các hoạt động lập kế hoạch, ra quyết định và điều hướng.
 
