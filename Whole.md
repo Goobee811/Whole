@@ -17424,9 +17424,9 @@ Mô hình xem vũ trụ như một toàn ảnh.
 
 Chức năng này chứa các nguyên tắc, khung và phương pháp để kết hợp các hệ thống, mô thức và thế giới quan khác nhau thành các cấu trúc lớn hơn, phức tạp và mạch lạc hơn.
 
-### **Các Mục Nội Dung (20 mục)**
+### **1. Meta-Integration Frameworks - Khung Siêu Tích Hợp**
 
-#### **1. Integral Theory (AQAL)** - Lý Thuyết Tích Hợp (AQAL)
+#### **1. Integral Theory (AQAL) - Lý Thuyết Tích Hợp (AQAL)**
 
 Một siêu-khung nhằm tích hợp tất cả các hình thức tri thức và kinh nghiệm của con người.
 
@@ -17439,7 +17439,7 @@ Một siêu-khung nhằm tích hợp tất cả các hình thức tri thức và
 
 ---
 
-#### **2. Holonic Theory & Holarchies** - Lý Thuyết Holon & Toàn Phân Cấp
+#### **2. Holonic Theory & Holarchies - Lý Thuyết Holon & Toàn Phân Cấp**
 
 Một mô hình xem xét thực tại được cấu tạo từ các "holon"—các thực thể vừa là tổng thể, vừa là bộ phận.
 
@@ -17452,7 +17452,7 @@ Một mô hình xem xét thực tại được cấu tạo từ các "holon"—c
 
 ---
 
-#### **3. Metamodernism** - Siêu Hiện Đại
+#### **3. Metamodernism - Siêu Hiện Đại**
 
 Một triết học và cảm tính văn hóa dao động giữa chủ nghĩa hiện đại và hậu hiện đại.
 
@@ -17465,7 +17465,7 @@ Một triết học và cảm tính văn hóa dao động giữa chủ nghĩa hi
 
 ---
 
-#### **4. Post-Conventional Thinking** - Tư Duy Hậu-Quy Ước
+#### **4. Post-Conventional Thinking - Tư Duy Hậu-Quy Ước**
 
 Khả năng vượt qua các chuẩn mực và quy tắc xã hội để tạo ra các nguyên tắc đạo đức và tri thức của riêng mình.
 
@@ -17478,7 +17478,7 @@ Khả năng vượt qua các chuẩn mực và quy tắc xã hội để tạo r
 
 ---
 
-#### **5. Synergetics** - Hình Học Hiệp Lực
+#### **5. Synergetics - Hình Học Hiệp Lực**
 
 Một hệ thống hình học và triết học của Buckminster Fuller, nghiên cứu các hành vi đột sinh của toàn bộ hệ thống.
 
@@ -17491,7 +17491,7 @@ Một hệ thống hình học và triết học của Buckminster Fuller, nghi�
 
 ---
 
-#### **6. Metamodern Synthesis** - Tổng Hợp Siêu Hiện Đại
+#### **6. Metamodern Synthesis - Tổng Hợp Siêu Hiện Đại**
 
 Kết hợp các yếu tố tốt nhất của chủ nghĩa hiện đại và hậu hiện đại thành một tổng hợp mới.
 
@@ -17504,7 +17504,9 @@ Kết hợp các yếu tố tốt nhất của chủ nghĩa hiện đại và h�
 
 ---
 
-#### **7. Global-Local Integration** - Tích Hợp Toàn Cầu-Địa Phương
+### **2. Cultural & Temporal Integration - Tích Hợp Văn Hóa & Thời Gian**
+
+#### **7. Global-Local Integration - Tích Hợp Toàn Cầu-Địa Phương**
 
 Cân bằng giữa các quan điểm và hành động toàn cầu với các ngữ cảnh và nhu cầu địa phương.
 
@@ -17517,7 +17519,7 @@ Cân bằng giữa các quan điểm và hành động toàn cầu với các ng
 
 ---
 
-#### **8. East-West Integration** - Tích Hợp Đông-Tây
+#### **8. East-West Integration - Tích Hợp Đông-Tây**
 
 Tổng hợp các truyền thống triết học, tâm linh và khoa học từ Đông và Tây.
 
@@ -17530,7 +17532,7 @@ Tổng hợp các truyền thống triết học, tâm linh và khoa học từ 
 
 ---
 
-#### **9. Science-Spirituality Integration** - Tích Hợp Khoa Học-Tâm Linh
+#### **9. Science-Spirituality Integration - Tích Hợp Khoa Học-Tâm Linh**
 
 Xây cầu giữa tri thức khoa học và trải nghiệm tâm linh.
 
@@ -17543,7 +17545,7 @@ Xây cầu giữa tri thức khoa học và trải nghiệm tâm linh.
 
 ---
 
-#### **10. Ancient-Modern Synthesis** - Tổng Hợp Cổ Đại-Hiện Đại
+#### **10. Ancient-Modern Synthesis - Tổng Hợp Cổ Đại-Hiện Đại**
 
 Kết hợp trí tuệ cổ xưa với tri thức và công nghệ hiện đại.
 
@@ -17556,7 +17558,9 @@ Kết hợp trí tuệ cổ xưa với tri thức và công nghệ hiện đại
 
 ---
 
-#### **11. Theory-Practice Integration** - Tích Hợp Lý Thuyết-Thực Hành
+### **3. Structural Polarity Balance - Cân Bằng Đối Cực Cấu Trúc**
+
+#### **11. Theory-Practice Integration - Tích Hợp Lý Thuyết-Thực Hành**
 
 Kết nối hiểu biết lý thuyết với ứng dụng thực tế.
 
@@ -17569,7 +17573,7 @@ Kết nối hiểu biết lý thuyết với ứng dụng thực tế.
 
 ---
 
-#### **12. Individual-Collective Balance** - Cân Bằng Cá Nhân-Tập Thể
+#### **12. Individual-Collective Balance - Cân Bằng Cá Nhân-Tập Thể**
 
 Hài hòa nhu cầu và phát triển cá nhân với phúc lợi tập thể.
 
@@ -17582,7 +17586,7 @@ Hài hòa nhu cầu và phát triển cá nhân với phúc lợi tập thể.
 
 ---
 
-#### **13. Art-Science Integration** - Tích Hợp Nghệ Thuật-Khoa Học
+#### **13. Art-Science Integration - Tích Hợp Nghệ Thuật-Khoa Học**
 
 Kết hợp tư duy sáng tạo nghệ thuật với phương pháp khoa học chặt chẽ.
 
@@ -17595,7 +17599,7 @@ Kết hợp tư duy sáng tạo nghệ thuật với phương pháp khoa học c
 
 ---
 
-#### **14. Tradition-Innovation Balance** - Cân Bằng Truyền Thống-Đổi Mới
+#### **14. Tradition-Innovation Balance - Cân Bằng Truyền Thống-Đổi Mới**
 
 Tôn vinh và bảo tồn truyền thống trong khi khuyến khích đổi mới và thay đổi.
 
@@ -17608,7 +17612,7 @@ Tôn vinh và bảo tồn truyền thống trong khi khuyến khích đổi mớ
 
 ---
 
-#### **15. Macro-Micro Integration** - Tích Hợp Vĩ Mô-Vi Mô
+#### **15. Macro-Micro Integration - Tích Hợp Vĩ Mô-Vi Mô**
 
 Kết nối các quan điểm và hành động ở cấp độ lớn (vĩ mô) với cấp độ nhỏ (vi mô).
 
@@ -17621,7 +17625,9 @@ Kết nối các quan điểm và hành động ở cấp độ lớn (vĩ mô) 
 
 ---
 
-#### **16. Rationality-Intuition Integration** - Tích Hợp Lý Trí-Trực Giác
+### **4. Cognitive Polarity Integration - Tích Hợp Đối Cực Nhận Thức**
+
+#### **16. Rationality-Intuition Integration - Tích Hợp Lý Trí-Trực Giác**
 
 Cân bằng tư duy lý trí phân tích với tri thức trực quan.
 
@@ -17634,7 +17640,7 @@ Cân bằng tư duy lý trí phân tích với tri thức trực quan.
 
 ---
 
-#### **17. Chaos-Order Integration** - Tích Hợp Hỗn Độn-Trật Tự
+#### **17. Chaos-Order Integration - Tích Hợp Hỗn Độn-Trật Tự**
 
 Điều hướng và hài hòa giữa các lực lượng của hỗn loạn và trật tự.
 
@@ -17647,7 +17653,7 @@ Cân bằng tư duy lý trí phân tích với tri thức trực quan.
 
 ---
 
-#### **18. Objective-Subjective Integration** - Tích Hợp Khách Quan-Chủ Quan
+#### **18. Objective-Subjective Integration - Tích Hợp Khách Quan-Chủ Quan**
 
 Tích hợp các quan điểm khách quan (bên ngoài) và chủ quan (bên trong).
 
@@ -17660,7 +17666,7 @@ Tích hợp các quan điểm khách quan (bên ngoài) và chủ quan (bên tro
 
 ---
 
-#### **19. Quantitative-Qualitative Integration** - Tích Hợp Định Lượng-Định Tính
+#### **19. Quantitative-Qualitative Integration - Tích Hợp Định Lượng-Định Tính**
 
 Kết hợp dữ liệu số lượng với hiểu biết về chất lượng và ngữ cảnh.
 
@@ -17673,7 +17679,7 @@ Kết hợp dữ liệu số lượng với hiểu biết về chất lượng v
 
 ---
 
-#### **20. Competitive-Cooperative Integration** - Tích Hợp Cạnh Tranh-Hợp Tác
+#### **20. Competitive-Cooperative Integration - Tích Hợp Cạnh Tranh-Hợp Tác**
 
 Cân bằng các động lực cạnh tranh và hợp tác trong các hệ thống.
 
@@ -17684,9 +17690,11 @@ Cân bằng các động lực cạnh tranh và hợp tác trong các hệ thố
 
 → **Liên kết:** AMPLIFICATION (Network Effects), FOUNDATIONS (Game Theory).
 
-### **Nhóm Unity Principles - Các Nguyên Lý Thống Nhất (5 mục mới)**
+---
 
-#### **21. Include and Transcend** - Bao Gồm và Vượt Qua
+### **5. Unity Principles - Nguyên Lý Thống Nhất**
+
+#### **21. Include and Transcend - Bao Gồm và Vượt Qua**
 
 Nguyên tắc phát triển: mỗi giai đoạn mới bao gồm và vượt qua giai đoạn trước.
 
@@ -17699,7 +17707,7 @@ Nguyên tắc phát triển: mỗi giai đoạn mới bao gồm và vượt qua 
 
 ---
 
-#### **22. Universal Connection** - Kết Nối Phổ Quát
+#### **22. Universal Connection - Kết Nối Phổ Quát**
 
 Mọi thứ đều kết nối với mọi thứ khác.
 
@@ -17712,7 +17720,7 @@ Mọi thứ đều kết nối với mọi thứ khác.
 
 ---
 
-#### **23. Unity in Diversity** - Thống Nhất Trong Đa Dạng
+#### **23. Unity in Diversity - Thống Nhất Trong Đa Dạng**
 
 Sự đa dạng không mâu thuẫn với thống nhất mà làm phong phú nó.
 
@@ -17740,7 +17748,7 @@ Sự đa dạng không mâu thuẫn với thống nhất mà làm phong phú nó
 
 ---
 
-#### **25. Interconnectedness Principle** - Nguyên Lý Liên Kết
+#### **25. Interconnectedness Principle - Nguyên Lý Liên Kết**
 
 Tất cả các hệ thống và hiện tượng đều liên kết sâu sắc.
 
@@ -17753,7 +17761,7 @@ Tất cả các hệ thống và hiện tượng đều liên kết sâu sắc.
 
 ---
 
-### **Nhóm Bridging Methods - Phương Pháp Kết Nối (8 mục mới)**
+### **6. Bridging Methods - Phương Pháp Kết Nối**
 
 #### **26. Analogical Thinking - Tư Duy Tương Tự [Phương Pháp Kết Nối]**
 
@@ -17772,7 +17780,7 @@ Sử dụng tương tự để hiểu cái mới qua cái quen và KẾT NỐI c
 
 ---
 
-#### **27. Metaphorical Thinking** - Tư Duy Ẩn Dụ
+#### **27. Metaphorical Thinking - Tư Duy Ẩn Dụ**
 
 Hiểu và giao tiếp thông qua ẩn dụ.
 
@@ -17811,7 +17819,9 @@ Quy trình có hệ thống để tích hợp tri thức từ nhiều lĩnh vự
 
 ---
 
-#### **30. Cross-Domain Validation** - Xác Thực Xuyên Lĩnh Vực
+### **7. Cross-Domain Validation - Xác Thực Xuyên Lĩnh Vực**
+
+#### **30. Cross-Domain Validation - Xác Thực Xuyên Lĩnh Vực**
 
 Kiểm tra tính đúng đắn bằng cách sử dụng bằng chứng từ nhiều lĩnh vực.
 
@@ -17863,9 +17873,9 @@ Kiểm tra giá trị và tính đúng đắn với tất cả các bên liên q
 
 ---
 
-### **Nhóm Paradox Navigation - Điều Hướng Nghịch Lý (7 mục mới)**
+### **8. Paradox Navigation - Điều Hướng Nghịch Lý**
 
-#### **34. Paradox Mastery** - Thành Thạo Nghịch Lý
+#### **34. Paradox Mastery - Thành Thạo Nghịch Lý**
 
 Khả năng làm việc với và vượt qua nghịch lý.
 
@@ -17878,7 +17888,7 @@ Khả năng làm việc với và vượt qua nghịch lý.
 
 ---
 
-#### **35. Paradox Mapping** - Lập Bản Đồ Nghịch Lý
+#### **35. Paradox Mapping - Lập Bản Đồ Nghịch Lý**
 
 Xác định và lập bản đồ các nghịch lý trong hệ thống.
 
@@ -17923,7 +17933,7 @@ Phương pháp tư duy để KẾT NỐI các paradigm và lĩnh vực khác nha
 
 ---
 
-#### **38. Paradoxical Integration** - Tích Hợp Nghịch Lý
+#### **38. Paradoxical Integration - Tích Hợp Nghịch Lý**
 
 Kết hợp các yếu tố nghịch lý thành một tổng thể mạch lạc.
 
@@ -17954,7 +17964,7 @@ Phá vỡ các mẫu hình và mô thức tư duy ở cấp độ hệ thống �
 
 ---
 
-#### **40. Improvisation Integration** - Tích Hợp Ứng Biến
+#### **40. Improvisation Integration - Tích Hợp Ứng Biến**
 
 Tích hợp khả năng ứng biến và tự phát vào hệ thống.
 
@@ -17967,9 +17977,9 @@ Tích hợp khả năng ứng biến và tự phát vào hệ thống.
 
 ---
 
-### **Nhóm Contemplative Practice - Thực Hành Quán Chiếu (6 mục mới)**
+### **9. Contemplative Practice - Thực Hành Quán Chiếu**
 
-#### **41. Void Meditation** - Thiền Hư Không
+#### **41. Void Meditation - Thiền Hư Không**
 
 Thực hành thiền tập trung vào sự trống không và khoảng trống.
 
@@ -17982,7 +17992,7 @@ Thực hành thiền tập trung vào sự trống không và khoảng trống.
 
 ---
 
-#### **42. Paradox Contemplation** - Quán Chiếu Nghịch Lý
+#### **42. Paradox Contemplation - Quán Chiếu Nghịch Lý**
 
 Thiền định trên các nghịch lý để vượt qua tư duy thông thường.
 
@@ -17995,7 +18005,7 @@ Thiền định trên các nghịch lý để vượt qua tư duy thông thườ
 
 ---
 
-#### **43. Pattern Scanning** - Quét Mẫu Hình
+#### **43. Pattern Scanning - Quét Mẫu Hình**
 
 Thực hành nhận diện các mẫu hình trong kinh nghiệm.
 
@@ -18008,7 +18018,7 @@ Thực hành nhận diện các mẫu hình trong kinh nghiệm.
 
 ---
 
-#### **44. Insight Distillation** - Chắt Lọc Hiểu Biết
+#### **44. Insight Distillation - Chắt Lọc Hiểu Biết**
 
 Quá trình tinh lọc kinh nghiệm thành bản chất và hiểu biết cốt lõi.
 
@@ -18021,7 +18031,7 @@ Quá trình tinh lọc kinh nghiệm thành bản chất và hiểu biết cốt
 
 ---
 
-#### **45. Artistic Integration Practice** - Thực Hành Tích Hợp Nghệ Thuật
+#### **45. Artistic Integration Practice - Thực Hành Tích Hợp Nghệ Thuật**
 
 Sử dụng nghệ thuật như phương tiện tích hợp.
 
@@ -18034,7 +18044,7 @@ Sử dụng nghệ thuật như phương tiện tích hợp.
 
 ---
 
-#### **46. Play-Based Integration** - Tích Hợp Dựa Trên Chơi
+#### **46. Play-Based Integration - Tích Hợp Dựa Trên Chơi**
 
 Sử dụng tính chơi đùa như phương tiện tích hợp.
 
@@ -18047,9 +18057,9 @@ Sử dụng tính chơi đùa như phương tiện tích hợp.
 
 ---
 
-### **Nhóm Knowledge Synthesis (Cross-Paradigm) - Tổng Hợp Tri Thức (7 mục mới)**
+### **10. Applied Knowledge Synthesis - Tổng Hợp Tri Thức Ứng Dụng**
 
-#### **47. Integral Psychology** - Tâm Lý Học Tích Hợp
+#### **47. Integral Psychology - Tâm Lý Học Tích Hợp**
 
 Tổng hợp các trường phái tâm lý học khác nhau.
 
@@ -18062,7 +18072,7 @@ Tổng hợp các trường phái tâm lý học khác nhau.
 
 ---
 
-#### **48. Interdisciplinary Studies** - Nghiên Cứu Liên Ngành
+#### **48. Interdisciplinary Studies - Nghiên Cứu Liên Ngành**
 
 Học thuật vượt qua ranh giới các ngành truyền thống.
 
@@ -18075,7 +18085,7 @@ Học thuật vượt qua ranh giới các ngành truyền thống.
 
 ---
 
-#### **49. Holistic Medicine** - Y Học Toàn Diện
+#### **49. Holistic Medicine - Y Học Toàn Diện**
 
 Tiếp cận y học xem xét toàn bộ con người.
 
@@ -18088,7 +18098,7 @@ Tiếp cận y học xem xét toàn bộ con người.
 
 ---
 
-#### **50. Mind-Body Medicine** - Y Học Tâm-Thân
+#### **50. Mind-Body Medicine - Y Học Tâm-Thân**
 
 Nhận thức về mối liên kết sâu sắc giữa tâm trí và cơ thể.
 
@@ -18101,7 +18111,7 @@ Nhận thức về mối liên kết sâu sắc giữa tâm trí và cơ thể.
 
 ---
 
-#### **51. Comparative Religion & Law** - Tôn Giáo & Luật Pháp So Sánh
+#### **51. Comparative Religion & Law - Tôn Giáo & Luật Pháp So Sánh**
 
 Nghiên cứu các hệ thống tôn giáo và luật pháp khác nhau để tìm nguyên tắc chung.
 
@@ -18114,7 +18124,7 @@ Nghiên cứu các hệ thống tôn giáo và luật pháp khác nhau để tì
 
 ---
 
-#### **52. Gender Intersectionality** - Giao Thoa Giới Tính
+#### **52. Gender Intersectionality - Giao Thoa Giới Tính**
 
 Hiểu cách giới tính giao thoa với các bản sắc khác (chủng tộc, giai cấp, v.v.).
 
@@ -18127,9 +18137,9 @@ Hiểu cách giới tính giao thoa với các bản sắc khác (chủng tộc,
 
 ---
 
-### **Nhóm Creative Convergence - Hội Tụ Sáng Tạo (7 mục mới)**
+### **11. Creative Convergence - Hội Tụ Sáng Tạo**
 
-#### **53. Multimedia & Convergence Arts** - Nghệ Thuật Đa Phương Tiện & Hội Tụ
+#### **53. Multimedia & Convergence Arts - Nghệ Thuật Đa Phương Tiện & Hội Tụ**
 
 Nghệ thuật kết hợp nhiều phương tiện khác nhau.
 
@@ -18142,7 +18152,7 @@ Nghệ thuật kết hợp nhiều phương tiện khác nhau.
 
 ---
 
-#### **54. Opera & Gesamtkunstwerk** - Opera & Tác Phẩm Nghệ Thuật Tổng Hợp
+#### **54. Opera & Gesamtkunstwerk - Opera & Tác Phẩm Nghệ Thuật Tổng Hợp**
 
 Tác phẩm nghệ thuật tổng hợp, kết hợp tất cả các hình thức nghệ thuật.
 
@@ -18155,7 +18165,7 @@ Tác phẩm nghệ thuật tổng hợp, kết hợp tất cả các hình thứ
 
 ---
 
-#### **55. Installation Art** - Nghệ Thuật Sắp Đặt
+#### **55. Installation Art - Nghệ Thuật Sắp Đặt**
 
 Nghệ thuật tạo ra một không gian trải nghiệm toàn diện.
 
@@ -18168,7 +18178,7 @@ Nghệ thuật tạo ra một không gian trải nghiệm toàn diện.
 
 ---
 
-#### **56. Transmedia Storytelling** - Kể Chuyện Xuyên Phương Tiện
+#### **56. Transmedia Storytelling - Kể Chuyện Xuyên Phương Tiện**
 
 Kể một câu chuyện qua nhiều nền tảng và phương tiện khác nhau.
 
@@ -18181,7 +18191,7 @@ Kể một câu chuyện qua nhiều nền tảng và phương tiện khác nhau
 
 ---
 
-#### **57. Cross-disciplinary Collaboration** - Cộng Tác Xuyên Ngành
+#### **57. Cross-disciplinary Collaboration - Cộng Tác Xuyên Ngành**
 
 Làm việc cùng nhau qua ranh giới ngành học và chuyên môn.
 
@@ -18194,7 +18204,7 @@ Làm việc cùng nhau qua ranh giới ngành học và chuyên môn.
 
 ---
 
-#### **58. Fusion Cuisines** - Ẩm Thực Kết Hợp
+#### **58. Fusion Cuisines - Ẩm Thực Kết Hợp**
 
 Kết hợp các truyền thống ẩm thực khác nhau.
 
@@ -18207,7 +18217,7 @@ Kết hợp các truyền thống ẩm thực khác nhau.
 
 ---
 
-#### **59. Mixed Reality Experiences** - Trải Nghiệm Thực Tế Hỗn Hợp
+#### **59. Mixed Reality Experiences - Trải Nghiệm Thực Tế Hỗn Hợp**
 
 Kết hợp thế giới vật lý và kỹ thuật số.
 
