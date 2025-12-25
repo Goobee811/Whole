@@ -19956,9 +19956,9 @@ _Miền này chứa các phương pháp và hệ thống để kiểm tra ý tư
 
 Kiểm tra các ý tưởng, giả định và mô hình với thực tế thông qua bằng chứng thực nghiệm và các phép thử nghiệm.
 
-### **Các Khái Niệm & Phương Pháp Cốt Lõi**
+### **1. Scientific Method Foundations - Nền Tảng Phương Pháp Khoa Học**
 
-#### **1. Falsification Principle** - Nguyên Tắc Bác Bỏ
+#### **1. Falsification Principle - Nguyên Tắc Bác Bỏ**
 Một lý thuyết hoặc giả thuyết khoa học phải có khả năng bị chứng minh là sai thông qua thực nghiệm.
 - **Testability Requirement**: Yêu cầu về tính khả kiểm; một tuyên bố phải có thể được kiểm tra một cách khách quan.
 - **Disconfirmation Seeking**: Chủ động tìm kiếm bằng chứng bác bỏ thay vì chỉ tìm bằng chứng xác nhận.
@@ -19966,7 +19966,7 @@ Một lý thuyết hoặc giả thuyết khoa học phải có khả năng bị 
 - **Scientific Humility**: Sự khiêm tốn trí tuệ, chấp nhận rằng mọi lý thuyết đều có thể bị lật đổ bởi bằng chứng mới.
 → **Liên kết:** OPERATIONS (Analytical Razors), FOUNDATIONS (Socratic Wisdom)
 
-#### **2. Ground Truth Validation** - Xác Thực Sự Thật Nền
+#### **2. Ground Truth Validation - Xác Thực Sự Thật Nền**
 Quá trình so sánh kết quả của một mô hình hoặc giả định với một tập hợp dữ liệu đã được xác nhận là chính xác.
 - **Reference Standard**: Sử dụng một tiêu chuẩn tham chiếu đáng tin cậy để đo lường.
 - **Error Measurement**: Đo lường sự khác biệt và sai số giữa dự đoán và thực tế.
@@ -19974,7 +19974,9 @@ Quá trình so sánh kết quả của một mô hình hoặc giả định vớ
 - **Objective Benchmark**: Cung cấp một điểm chuẩn khách quan để so sánh hiệu suất.
 → **Liên kết:** OPERATIONS (Bayesian Thinking), FOUNDATIONS (Map-Territory Distinction)
 
-#### **3. A/B Testing** - Thử Nghiệm A/B
+### **2. Research Study Designs - Thiết Kế Nghiên Cứu**
+
+#### **3. A/B Testing - Thử Nghiệm A/B**
 Phương pháp so sánh hai phiên bản (A và B) của một biến duy nhất để xác định phiên bản nào hoạt động tốt hơn.
 - **Controlled Comparison**: So sánh có kiểm soát giữa một nhóm đối chứng (A) và một nhóm thử nghiệm (B).
 - **Statistical Significance**: Xác định xem sự khác biệt quan sát được có ý nghĩa thống kê hay chỉ là ngẫu nhiên.
@@ -19982,7 +19984,7 @@ Phương pháp so sánh hai phiên bản (A và B) của một biến duy nhất
 - **Data-Driven Decision**: Ra quyết định dựa trên dữ liệu thực nghiệm thay vì trực giác.
 → **Liên kết:** OPERATIONS (Decision Frameworks), DYNAMICS (Evolution & Adaptation)
 
-#### **4. Triangulation** - Tam Giác Hóa
+#### **4. Triangulation - Tam Giác Hóa**
 Sử dụng nhiều phương pháp, nguồn dữ liệu hoặc góc nhìn để xác thực một kết quả, làm tăng độ tin cậy.
 - **Methodological Triangulation**: Sử dụng nhiều phương pháp nghiên cứu khác nhau.
 - **Data Triangulation**: Sử dụng nhiều nguồn dữ liệu khác nhau.
@@ -19990,7 +19992,7 @@ Sử dụng nhiều phương pháp, nguồn dữ liệu hoặc góc nhìn để 
 - **Cross-Verification**: Kiểm tra chéo kết quả để tìm kiếm sự hội tụ.
 → **Liên kết:** INTEGRATION (Knowledge Integration), FOUNDATIONS (Mental Models)
 
-#### **5. Controlled Experiment** - Thí Nghiệm Có Kiểm Soát
+#### **5. Controlled Experiment - Thí Nghiệm Có Kiểm Soát**
 Một nghiên cứu thực nghiệm trong đó một biến độc lập được thao tác để quan sát tác động của nó lên biến phụ thuộc, đồng thời kiểm soát các biến gây nhiễu.
 - **Variable Isolation**: Cô lập các biến để xác định quan hệ nhân quả.
 - **Random Assignment**: Phân bổ ngẫu nhiên các đối tượng vào các nhóm để giảm thiểu thiên kiến.
@@ -19998,7 +20000,7 @@ Một nghiên cứu thực nghiệm trong đó một biến độc lập đượ
 - **Replicability**: Có thể lặp lại, một tiêu chuẩn vàng của nghiên cứu khoa học.
 → **Liên kết:** OPERATIONS (Causal Reasoning), FOUNDATIONS (First Principles)
 
-#### **6. Observational Study** - Nghiên Cứu Quan Sát
+#### **6. Observational Study - Nghiên Cứu Quan Sát**
 Quan sát và phân tích một hiện tượng trong môi trường tự nhiên của nó mà không có sự can thiệp.
 - **Naturalistic Observation**: Quan sát trong môi trường tự nhiên, không bị sắp đặt.
 - **Correlation not Causation**: Thường chỉ có thể xác định mối tương quan, không phải quan hệ nhân quả.
@@ -20006,7 +20008,7 @@ Quan sát và phân tích một hiện tượng trong môi trường tự nhiên
 - **Hypothesis Generation**: Rất hữu ích cho việc tạo ra các giả thuyết để kiểm tra sau này.
 → **Liên kết:** NAVIGATION (Environmental Scanning), CREATION (Idea Generation)
 
-#### **7. Case Study Analysis** - Phân Tích Tình Huống
+#### **7. Case Study Analysis - Phân Tích Tình Huống**
 Nghiên cứu sâu, chi tiết về một trường hợp hoặc một nhóm trường hợp cụ thể.
 - **In-depth Exploration**: Khám phá sâu và chi tiết một hiện tượng trong bối cảnh thực tế của nó.
 - **Rich Qualitative Data**: Cung cấp dữ liệu định tính phong phú, giúp hiểu "tại sao" và "như thế nào".
@@ -20014,7 +20016,7 @@ Nghiên cứu sâu, chi tiết về một trường hợp hoặc một nhóm tr�
 - **Illustrative Power**: Có sức mạnh minh họa cao, làm cho các khái niệm trừu tượng trở nên cụ thể.
 → **Liên kết:** INTEGRATION (Narrative Weaving), OPERATIONS (Root Cause Analysis)
 
-#### **8. Longitudinal Study** - Nghiên Cứu Dọc
+#### **8. Longitudinal Study - Nghiên Cứu Dọc**
 Theo dõi và quan sát cùng một nhóm đối tượng trong một khoảng thời gian dài.
 - **Temporal Patterns**: Phát hiện các xu hướng và thay đổi theo thời gian.
 - **Causal Sequence**: Xác định thứ tự thời gian của các sự kiện, hỗ trợ suy luận nhân quả.
@@ -20022,7 +20024,9 @@ Theo dõi và quan sát cùng một nhóm đối tượng trong một khoảng t
 - **Individual Trajectories**: Theo dõi quỹ đạo phát triển của từng cá nhân.
 → **Liên kết:** DYNAMICS (Temporal Dynamics), NAVIGATION (Long-term Planning)
 
-#### **9. Peer Review** - Đánh Giá Đồng Cấp
+### **3. Community & Scientific Validation - Kiểm Chứng Cộng Đồng & Khoa Học**
+
+#### **9. Peer Review - Đánh Giá Đồng Cấp**
 Quá trình các chuyên gia trong cùng lĩnh vực xem xét, phê bình và xác thực công trình của một đồng nghiệp.
 - **Expert Scrutiny**: Sự giám sát chặt chẽ của các chuyên gia để đảm bảo tính chính xác và nghiêm ngặt.
 - **Bias Reduction**: Giảm thiểu thiên kiến cá nhân thông qua các quy trình đánh giá mù.
@@ -20030,7 +20034,7 @@ Quá trình các chuyên gia trong cùng lĩnh vực xem xét, phê bình và x�
 - **Consensus Building**: Đóng góp vào việc xây dựng sự đồng thuận khoa học về một chủ đề.
 → **Liên kết:** AMPLIFICATION (Community Amplifiers), NAVIGATION (Expert Consultation)
 
-#### **10. Replication Studies** - Nghiên Cứu Tái Lập
+#### **10. Replication Studies - Nghiên Cứu Tái Lập**
 Lặp lại một nghiên cứu để xác minh xem các kết quả có thể được tái tạo một cách độc lập hay không.
 - **Direct Replication**: Tái lập trực tiếp, cố gắng làm theo quy trình ban đầu một cách chính xác nhất.
 - **Conceptual Replication**: Tái lập khái niệm, kiểm tra cùng một giả thuyết nhưng bằng các phương pháp khác nhau.
@@ -20038,7 +20042,9 @@ Lặp lại một nghiên cứu để xác minh xem các kết quả có thể �
 - **Scientific Integrity**: Là một trụ cột của tính toàn vẹn và tự điều chỉnh trong khoa học.
 → **Liên kết:** VALIDATION (Peer Review), OPERATIONS (Scientific Reasoning)
 
-#### **11. Backtesting** - Kiểm Tra Ngược
+### **4. Testing & Comparison Methods - Phương Pháp Thử Nghiệm & So Sánh**
+
+#### **11. Backtesting - Kiểm Tra Ngược**
 Áp dụng một chiến lược hoặc mô hình cho dữ liệu lịch sử để xem nó sẽ hoạt động như thế nào trong quá khứ.
 - **Historical Simulation**: Mô phỏng hiệu suất dựa trên các điều kiện trong quá khứ.
 - **Strategy Validation**: Xác thực một chiến lược giao dịch hoặc ra quyết định trước khi triển khai thực tế.
@@ -20060,7 +20066,7 @@ Quy trình kiểm chứng để XÁC ĐỊNH tiêu chuẩn hiệu suất và Đ�
 → **Ứng dụng cá nhân:** META #11 (theo dõi tiến độ bản thân)
 → **Khác biệt chính:** Tập trung vào KIỂM CHỨNG chất lượng và TIÊU CHUẨN
 
-#### **13. Pragmatism Test** - Kiểm Tra Thực Dụng
+#### **13. Pragmatism Test - Kiểm Tra Thực Dụng**
 Đánh giá một ý tưởng dựa trên tính hữu dụng và hiệu quả của nó trong thực tế ("Nó có hoạt động không?").
 - **Utility Focus**: Tập trung vào tính hữu dụng và khả năng ứng dụng.
 - **Cash Value of an Idea**: "Giá trị tiền mặt" của một ý tưởng; hệ quả thực tế của nó.
@@ -20081,9 +20087,9 @@ Thử thách cuối cùng của thực tế - những gì tồn tại và phát 
 
 → **Liên kết:** FOUNDATIONS (Evolution & Selection), DYNAMICS #40 (Lindy Effect), VALIDATION #47 (Lindy Effect)
 
-### **Các Khái Niệm & Phương Pháp Bổ Sung**
+### **5. Observable Fields - Các Trường Có Thể Quan Sát**
 
-#### **15. Magnetic Field** - Trường Từ
+#### **15. Magnetic Field - Trường Từ**
 Một trường lực vật lý được tạo ra bởi nam châm và dòng điện, có thể đo lường và quan sát được.
 - **Observable Force**: Lực có thể quan sát thông qua tác động lên các vật liệu sắt từ.
 - **Measurable Intensity**: Cường độ có thể đo lường bằng các thiết bị như gaussmeter.
@@ -20091,7 +20097,7 @@ Một trường lực vật lý được tạo ra bởi nam châm và dòng đi�
 - **Field Interaction**: Tương tác với các trường điện và tạo ra sóng điện từ.
 → **Liên kết:** FOUNDATIONS (Universal Laws), OPERATIONS (Measurement Systems)
 
-#### **16. Electric Field** - Trường Điện
+#### **16. Electric Field - Trường Điện**
 Trường lực được tạo ra bởi điện tích, quyết định lực tác động lên các điện tích khác.
 - **Charge-Based**: Được tạo ra bởi và tác động lên các điện tích.
 - **Detectable**: Có thể phát hiện thông qua các thiết bị đo điện trường.
@@ -20099,7 +20105,7 @@ Trường lực được tạo ra bởi điện tích, quyết định lực tá
 - **Electromagnetic Interaction**: Là một phần của lực điện từ.
 → **Liên kết:** FOUNDATIONS (Universal Laws), OPERATIONS (Detection Methods)
 
-#### **17. Gravitational Field** - Trường Hấp Dẫn
+#### **17. Gravitational Field - Trường Hấp Dẫn**
 Trường lực phổ quát được tạo ra bởi khối lượng, tác động lên mọi vật có khối lượng.
 - **Universal**: Tác động lên mọi vật thể có khối lượng trong vũ trụ.
 - **Always Attractive**: Luôn là lực hút, không có lực đẩy hấp dẫn.
@@ -20107,7 +20113,7 @@ Trường lực phổ quát được tạo ra bởi khối lượng, tác độn
 - **Weakest Fundamental Force**: Là lực yếu nhất trong 4 lực cơ bản.
 → **Liên kết:** FOUNDATIONS (Universal Laws), DYNAMICS (System Dynamics)
 
-#### **18. Information Field** - Trường Thông Tin
+#### **18. Information Field - Trường Thông Tin**
 Một khái niệm trừu tượng về "trường" của dữ liệu và thông tin có thể truyền tải.
 - **Data Carrier**: Mang theo dữ liệu có thể được mã hóa và giải mã.
 - **Transmissible**: Có thể truyền qua không gian và thời gian.
@@ -20115,7 +20121,7 @@ Một khái niệm trừu tượng về "trường" của dữ liệu và thông
 - **Network Effect**: Giá trị tăng lên khi có nhiều nút kết nối.
 → **Liên kết:** INTEGRATION (Information Architecture), AMPLIFICATION (Network Effects)
 
-#### **19. Potentiality Field** - Trường Tiềm Năng
+#### **19. Potentiality Field - Trường Tiềm Năng**
 Trường của các khả năng và tiềm năng chưa được hiện thực hóa.
 - **Latent Possibilities**: Chứa các khả năng chưa được thể hiện.
 - **Quantum Parallel**: Tương tự trạng thái chồng chất trong cơ học lượng tử.
@@ -20123,7 +20129,9 @@ Trường của các khả năng và tiềm năng chưa được hiện thực h
 - **Creative Source**: Nguồn của sự sáng tạo và đột phá.
 → **Liên kết:** CREATION (Possibility Space), TRANSCENDENCE (Potential Actualization)
 
-#### **20. Empiricism** - Chủ Nghĩa Kinh Nghiệm
+### **6. Foundational Testing & Prototyping - Thử Nghiệm Nền Tảng & Nguyên Mẫu**
+
+#### **20. Empiricism - Chủ Nghĩa Kinh Nghiệm**
 Triết lý rằng kiến thức xuất phát từ kinh nghiệm giác quan và quan sát.
 - **Observation-Based**: Dựa trên quan sát và kinh nghiệm trực tiếp.
 - **Sensory Evidence**: Ưu tiên bằng chứng từ các giác quan.
@@ -20131,7 +20139,7 @@ Triết lý rằng kiến thức xuất phát từ kinh nghiệm giác quan và 
 - **Inductive Reasoning**: Sử dụng lý luận quy nạp từ đặc thù lên tổng quát.
 → **Liên kết:** FOUNDATIONS (Epistemology), OPERATIONS (Scientific Method)
 
-#### **21. Field Testing** - Thử Nghiệm Thực Địa
+#### **21. Field Testing - Thử Nghiệm Thực Địa**
 Kiểm tra một sản phẩm hoặc ý tưởng trong môi trường thực tế, không phải trong phòng thí nghiệm.
 - **Real-World Conditions**: Kiểm tra trong điều kiện thực tế không kiểm soát.
 - **Ecological Validity**: Có tính hợp lệ sinh thái cao.
@@ -20139,7 +20147,7 @@ Kiểm tra một sản phẩm hoặc ý tưởng trong môi trường thực t�
 - **Context Complexity**: Phải đối mặt với sự phức tạp của bối cảnh thực.
 → **Liên kết:** VALIDATION (Pragmatism Test), NAVIGATION (Market Testing)
 
-#### **22. Prototype Testing** - Thử Nghiệm Nguyên Mẫu
+#### **22. Prototype Testing - Thử Nghiệm Nguyên Mẫu**
 Kiểm tra các phiên bản sớm của một sản phẩm để cải thiện thiết kế.
 - **Iterative Development**: Phát triển lặp lại dựa trên phản hồi.
 - **Design Refinement**: Tinh chỉnh thiết kế qua các chu kỳ thử nghiệm.
@@ -20147,7 +20155,7 @@ Kiểm tra các phiên bản sớm của một sản phẩm để cải thiện 
 - **MVP Testing**: Kiểm tra sản phẩm khả thi tối thiểu (Minimum Viable Product).
 → **Liên kết:** CREATION (Rapid Prototyping), DYNAMICS (Iterative Evolution)
 
-#### **23. Baseline Comparison** - So Sánh Chuẩn
+#### **23. Baseline Comparison - So Sánh Chuẩn**
 Thiết lập một điểm chuẩn để đo lường sự thay đổi hoặc cải thiện.
 - **Reference Point**: Tạo điểm tham chiếu để so sánh.
 - **Change Measurement**: Đo lường mức độ thay đổi so với chuẩn.
@@ -20155,7 +20163,9 @@ Thiết lập một điểm chuẩn để đo lường sự thay đổi hoặc c
 - **Before-After Analysis**: Phân tích trước và sau can thiệp.
 → **Liên kết:** VALIDATION (A/B Testing), OPERATIONS (Metrics Design)
 
-#### **24. Hitchens's Razor** - Dao Cạo của Hitchens
+### **7. Epistemic Razors & Standards - Dao Cạo Tri Thức & Tiêu Chuẩn**
+
+#### **24. Hitchens's Razor - Dao Cạo của Hitchens**
 "Những gì được khẳng định mà không có bằng chứng có thể bị bác bỏ mà không cần bằng chứng." Nguyên tắc tri thức luận được phát minh bởi Christopher Hitchens, là công cụ cốt lõi để KIỂM CHỨNG tính hợp lệ của các tuyên bố.
 - **Burden of Proof**: Gánh nặng chứng minh thuộc về người đưa ra tuyên bố.
 - **Evidence Requirement**: Yêu cầu bằng chứng cho mọi khẳng định.
@@ -20165,7 +20175,7 @@ Thiết lập một điểm chuẩn để đo lường sự thay đổi hoặc c
 
 ⚠️ **Lưu ý phân loại:** Trước đây bị phân loại sai vào FOUNDATIONS #28 - Natural Principles & Biomimicry. Hitchens's Razor không phải là nguyên lý tự nhiên mà là công cụ epistemology nhân tạo để kiểm chứng tri thức. Đây là công cụ LẬP LUẬN và KIỂM CHỨNG, không liên quan đến sinh học hay biomimicry.
 
-#### **25. Sagan Standard** - Tiêu Chuẩn Sagan
+#### **25. Sagan Standard - Tiêu Chuẩn Sagan**
 "Các tuyên bố phi thường đòi hỏi bằng chứng phi thường."
 - **Proportional Evidence**: Bằng chứng cần tỷ lệ với mức độ phi thường của tuyên bố.
 - **Skepticism Scale**: Mức độ hoài nghi tỷ lệ với mức độ khác thường.
@@ -20173,7 +20183,7 @@ Thiết lập một điểm chuẩn để đo lường sự thay đổi hoặc c
 - **Extraordinary Claims**: Đặc biệt áp dụng cho các tuyên bố siêu nhiên hoặc vi phạm định luật tự nhiên.
 → **Liên kết:** OPERATIONS (Bayesian Thinking), VALIDATION (Evidence Standards)
 
-#### **26. Hume's Guillotine** - Máy Chém của Hume
+#### **26. Hume's Guillotine - Máy Chém của Hume**
 Không thể suy ra "nên" (ought) từ "là" (is) - phân biệt giữa sự kiện và giá trị.
 - **Is-Ought Distinction**: Phân biệt rõ ràng giữa mô tả và quy phạm.
 - **Fact-Value Gap**: Có khoảng cách logic giữa sự kiện và giá trị đạo đức.
@@ -20181,7 +20191,7 @@ Không thể suy ra "nên" (ought) từ "là" (is) - phân biệt giữa sự ki
 - **Naturalistic Fallacy**: Ngăn chặn ngụy biện tự nhiên chủ nghĩa.
 → **Liên kết:** FOUNDATIONS (Core Values & Ethics), OPERATIONS (Logical Reasoning)
 
-#### **27. Russell's Teapot** - Ấm Trà của Russell
+#### **27. Russell's Teapot - Ấm Trà của Russell**
 Gánh nặng chứng minh thuộc về người đưa ra tuyên bố không thể bác bỏ được.
 - **Unfalsifiable Claims**: Giải quyết các tuyên bố không thể bác bỏ.
 - **Burden Shift**: Không chuyển gánh nặng chứng minh sang người hoài nghi.
@@ -20189,7 +20199,9 @@ Gánh nặng chứng minh thuộc về người đưa ra tuyên bố không th�
 - **Theological Critique**: Ban đầu được sử dụng để phê phán các lập luận thần học.
 → **Liên kết:** VALIDATION (Falsification Principle), OPERATIONS (Critical Thinking)
 
-#### **28. Coherence Check** - Kiểm Tra Tính Mạch Lạc
+### **8. Validity & Consistency Checks - Kiểm Tra Hiệu Lực & Nhất Quán**
+
+#### **28. Coherence Check - Kiểm Tra Tính Mạch Lạc**
 Kiểm tra xem các phần của một hệ thống niềm tin hoặc lý thuyết có nhất quán với nhau không.
 - **Internal Consistency**: Tính nhất quán nội tại, không có mâu thuẫn logic.
 - **Logical Coherence**: Các phần phải phù hợp logic với nhau.
@@ -20197,7 +20209,7 @@ Kiểm tra xem các phần của một hệ thống niềm tin hoặc lý thuy�
 - **Contradiction Detection**: Phát hiện các mâu thuẫn trong hệ thống.
 → **Liên kết:** OPERATIONS (Logical Reasoning), INTEGRATION (System Coherence)
 
-#### **29. Correspondence Check** - Kiểm Tra Tính Tương Ứng
+#### **29. Correspondence Check - Kiểm Tra Tính Tương Ứng**
 Kiểm tra xem các tuyên bố có tương ứng với thực tế bên ngoài không.
 - **External Validation**: Xác thực bên ngoài với thực tế khách quan.
 - **Reality Mapping**: Ánh xạ các tuyên bố lên thực tế.
@@ -20205,7 +20217,7 @@ Kiểm tra xem các tuyên bố có tương ứng với thực tế bên ngoài 
 - **Truth Correspondence**: Lý thuyết sự thật tương ứng.
 → **Liên kết:** VALIDATION (Ground Truth Validation), FOUNDATIONS (Map-Territory Distinction)
 
-#### **30. Cross-Validation** - Kiểm Chứng Chéo
+#### **30. Cross-Validation - Kiểm Chứng Chéo**
 Kỹ thuật kiểm tra mô hình bằng cách chia dữ liệu thành các tập huấn luyện và kiểm tra.
 - **Data Partitioning**: Chia dữ liệu thành nhiều phần để kiểm tra.
 - **Model Generalization**: Kiểm tra khả năng khái quát hóa của mô hình.
@@ -20213,7 +20225,7 @@ Kỹ thuật kiểm tra mô hình bằng cách chia dữ liệu thành các tậ
 - **K-Fold Validation**: Phương pháp k-fold phổ biến trong machine learning.
 → **Liên kết:** OPERATIONS (Machine Learning), VALIDATION (Model Comparison)
 
-#### **31. Convergent Validity** - Hiệu Lực Hội Tụ
+#### **31. Convergent Validity - Hiệu Lực Hội Tụ**
 Các phương pháp khác nhau đo cùng một khái niệm nên cho kết quả tương đồng.
 - **Multiple Measures**: Sử dụng nhiều phép đo khác nhau.
 - **Agreement Expectation**: Kỳ vọng sự đồng thuận giữa các phép đo.
@@ -20221,7 +20233,7 @@ Các phương pháp khác nhau đo cùng một khái niệm nên cho kết quả
 - **Measurement Triangulation**: Tam giác hóa phép đo.
 → **Liên kết:** VALIDATION (Triangulation), OPERATIONS (Measurement Systems)
 
-#### **32. Divergent Validity** - Hiệu Lực Phân Kỳ
+#### **32. Divergent Validity - Hiệu Lực Phân Kỳ**
 Các phép đo của các khái niệm khác nhau nên cho kết quả khác biệt.
 - **Discriminant Validity**: Khả năng phân biệt giữa các cấu trúc.
 - **Construct Independence**: Các cấu trúc khác nhau nên độc lập.
@@ -20229,7 +20241,7 @@ Các phép đo của các khái niệm khác nhau nên cho kết quả khác bi�
 - **Specificity Test**: Kiểm tra tính đặc hiệu của phép đo.
 → **Liên kết:** VALIDATION (Construct Validity), OPERATIONS (Factor Analysis)
 
-#### **33. Crowdsourced Validation** - Kiểm Chứng Cộng Đồng
+#### **33. Crowdsourced Validation - Kiểm Chứng Cộng Đồng**
 Sử dụng trí tuệ tập thể để xác thực thông tin hoặc giải pháp.
 - **Collective Intelligence**: Khai thác trí tuệ của đám đông.
 - **Distributed Verification**: Xác thực phân tán qua nhiều người.
@@ -20237,7 +20249,7 @@ Sử dụng trí tuệ tập thể để xác thực thông tin hoặc giải ph
 - **Wikipedia Model**: Mô hình Wikipedia là ví dụ điển hình.
 → **Liên kết:** AMPLIFICATION (Wisdom of Crowds), INTEGRATION (Collective Intelligence)
 
-#### **34. Longitudinal Validation** - Kiểm Chứng Dọc Theo Thời Gian
+#### **34. Longitudinal Validation - Kiểm Chứng Dọc Theo Thời Gian**
 Xác thực bằng cách theo dõi trong một khoảng thời gian dài.
 - **Temporal Consistency**: Tính nhất quán theo thời gian.
 - **Persistence Test**: Kiểm tra sự bền vững của phát hiện.
