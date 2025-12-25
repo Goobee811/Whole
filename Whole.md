@@ -16005,7 +16005,7 @@ _Miền này chứa đựng các phương pháp, thực hành và nguyên lý đ
 
 Chức năng này tập trung vào các phương pháp để thu thập, kết nối và tổng hợp thông tin, dữ liệu và tri thức từ nhiều nguồn khác nhau thành một hệ thống hiểu biết mạch lạc.
 
-### **Các Mục Nội Dung (25 mục)**
+### **1. Core Synthesis Methods - Phương Pháp Tổng Hợp Cốt Lõi (5 mục)**
 
 #### **1. Synthesis** - Tổng Hợp
 
@@ -16020,48 +16020,7 @@ Quá trình kết hợp các bộ phận hoặc yếu tố riêng lẻ để t�
 
 ---
 
-#### **2. Interdisciplinary Thinking** - Tư Duy Liên Ngành
-
-Khả năng tích hợp tri thức, phương pháp và góc nhìn từ nhiều lĩnh vực khác nhau để giải quyết các vấn đề phức tạp.
-
-- **Boundary Crossing**: Vượt qua các ranh giới giữa các lĩnh vực và phát hiện các khoảng trống màu mỡ.
-- **Concept Translation**: Dịch các khái niệm và mô hình từ một lĩnh vực sang lĩnh vực khác.
-- **Methodological Pluralism**: Sử dụng nhiều phương pháp từ các ngành khác nhau một cách linh hoạt.
-- **Novel Problem Framing**: Đóng khung vấn đề theo những cách mới mà một ngành duy nhất không thể đạt được.
-
-→ **Liên kết:** NAVIGATION (Complexity Navigation), META-STRUCTURES (Framework of Frameworks).
-
-⚠️ **Lưu ý:** Với tích hợp ở cấp độ MÔ THỨC (paradigm level), xem META LAYER #26 (Cross-Paradigm Synthesis) - năng lực meta để thiết kế framework vượt qua ranh giới mô thức.
-
----
-
-#### **3. Living Systems Integration** - Tích Hợp Hệ Thống Sống
-
-Các nguyên tắc tích hợp được rút ra từ việc nghiên cứu các hệ thống sống, như hệ sinh thái.
-
-- **Interdependence**: Mọi thành phần đều phụ thuộc lẫn nhau để tồn tại và phát triển.
-- **Synergy & Symbiosis**: Sự hợp tác tạo ra lợi ích chung và sức mạnh tổng hợp.
-- **Self-Regulation & Homeostasis**: Khả năng tự điều chỉnh để duy trì sự cân bằng nội tại.
-- **Regenerative Cycles**: Các chu trình tái tạo, trong đó chất thải của một quá trình là thức ăn cho quá trình khác.
-
-→ **Liên kết:** FOUNDATIONS (Systems Thinking), DYNAMICS (System Dynamics).
-
----
-
-#### **4. System of Systems Thinking** - Tư Duy Hệ Thống của các Hệ Thống
-
-Khả năng mô hình hóa và tích hợp các tập hợp các hệ thống độc lập, có thể tương tác với nhau.
-
-- **Inter-system Analysis**: Phân tích các mối quan hệ, sự phụ thuộc và các dòng chảy giữa các hệ thống.
-- **Emergent Behavior at Scale**: Hiểu các hành vi đột sinh xuất hiện ở cấp độ "hệ thống của các hệ thống".
-- **Architectural Governance**: Quản trị kiến trúc tổng thể để đảm bảo sự tương tác hiệu quả.
-- **Holistic Optimization**: Tối ưu hóa hiệu suất của toàn bộ tập hợp, không chỉ các hệ thống riêng lẻ.
-
-→ **Liên kết:** [META] LAYER (System of Systems Thinking), AMPLIFICATION (Network Effects).
-
----
-
-#### **5. Consilience - Sự Hội Quy [Công Cụ Tổng Hợp]**
+#### **2. Consilience - Sự Hội Quy [Công Cụ Tổng Hợp]**
 
 Sự "nhảy cùng nhau" của tri thức - khi các bằng chứng từ NHIỀU LĨNH VỰC KHÔNG LIÊN QUAN hội tụ để tạo ra một lý thuyết thống nhất mạnh mẽ. Đây là PHƯƠNG PHÁP TỔNG HỢP để xây dựng tri thức mới từ sự đồng thuận xuyên ngành.
 
@@ -16080,31 +16039,80 @@ Sự "nhảy cùng nhau" của tri thức - khi các bằng chứng từ NHIỀU
 
 ---
 
-#### **6. Value System Integration** - Tích Hợp Hệ Thống Giá Trị
+#### **3. Comparative Analysis** - Phân Tích So Sánh [Phương Pháp Tổng Hợp]
 
-Quá trình nhận diện, làm rõ và hài hòa các hệ thống giá trị khác nhau từ nhiều nguồn (cá nhân, văn hóa, tổ chức) để tạo ra sự thống nhất và hiệp lực.
+Phương pháp xem xét hai hoặc nhiều đối tượng, hệ thống hoặc ý tưởng cùng nhau để TRÍCH XUẤT NGUYÊN TẮC PHỔ QUÁT và tạo ra tri thức mới. Khác với công cụ so sánh trong OPERATIONS (để quyết định), đây là PHƯƠNG PHÁP TỔNG HỢP TRI THỨC - tìm kiếm mẫu hình chung và siêu-nguyên tắc xuyên suốt các ngữ cảnh khác nhau.
 
-- **Value Hierarchy Mapping**: Lập bản đồ phân cấp các giá trị.
-- **Conflict Resolution**: Giải quyết xung đột phát sinh từ các giá trị khác nhau.
-- **Shared Value Creation**: Tạo ra các giá trị chung làm nền tảng cho sự hợp tác.
-- **Ethical Synthesis**: Tổng hợp hệ thống đạo đức ở cấp độ cao hơn, bao hàm nhiều quan điểm.
+- **Side-by-Side Examination**: Xem xét song song - KHÁM PHÁ MẪU HÌNH CHUNG.
+- **Identifying Universal Patterns**: Tìm quy luật phổ quát - TẠO TRI THỨC MỚI.
+- **Contextual Nuance**: Hiểu sự khác biệt do ngữ cảnh - TINH TẾ TRONG TỔNG HỢP.
+- **Meta-Principle Extraction**: Trích xuất siêu-nguyên tắc - NÂNG LÊN CẤP ĐỘ CAO HƠN.
 
-→ **Liên kết:** NAVIGATION (Guiding Principles), OPERATIONS (Decision Frameworks).
-→ **Ứng dụng meta-level:** META LAYER (Quan sát và điều chỉnh các hệ thống giá trị).
-→ **Ghi chú:** Khái niệm này cũng liên quan đến Framework Evolution & Regulation ở META LAYER.
+→ **Liên kết nội bộ:** META-COGNITION (Pattern Recognition)
+→ **Nguồn dữ liệu:** OPERATIONS #15 (Comparative Analysis - công cụ phân tích để cung cấp dữ liệu so sánh)
+→ **Các phương pháp tổng hợp khác:**
+  • INTEGRATION #16 (Pattern Synthesis - tổng hợp mẫu hình)
+  • INTEGRATION #35 (Comparative Methodologies - phương pháp luận so sánh)
+  • INTEGRATION #15 (Semantic Integration - tích hợp ý nghĩa)
 
 ---
 
-#### **7. Worldview Integration** - Tích Hợp Thế Giới Quan
+#### **4. Pattern Synthesis** - Tổng Hợp Mẫu Hình
 
-Quá trình tích hợp các thế giới quan khác nhau (ví dụ: truyền thống, hiện đại, hậu hiện đại) vào một viễn kiến lớn hơn.
+Khả năng nhận diện, phân tích và kết hợp các mẫu hình từ nhiều lĩnh vực, nguồn và cấp độ khác nhau để tạo ra các hiểu biết mới và toàn diện. Đây là nghệ thuật nhìn thấy "mẫu hình của các mẫu hình" và tạo ra sự tổng hợp có ý nghĩa từ sự đa dạng.
 
-- **Developmental Stages**: Hiểu các thế giới quan như các giai đoạn phát triển (ví dụ: Spiral Dynamics).
-- **Transcend and Include**: Vượt qua và bao gồm; mỗi giai đoạn mới tích hợp những gì tốt nhất của giai đoạn trước.
-- **Perspective Synthesis**: Tổng hợp các góc nhìn từ các thế giới quan khác nhau.
-- **Multi-perspectival Fluency**: Sự trôi chảy trong việc áp dụng nhiều thế giới quan khác nhau.
+- **Cross-Domain Pattern Recognition**: Nhận diện các mẫu hình tương tự trong các lĩnh vực khác nhau (isomorphic structures).
+- **Multi-Pattern Integration**: Kết hợp nhiều mẫu hình từ các nguồn khác nhau vào một framework thống nhất.
+- **Meta-Pattern Discovery**: Phát hiện các "mẫu hình của các mẫu hình" - các nguyên lý tổ chức ở cấp độ cao hơn.
+- **Analogical Reasoning**: Suy luận dựa trên tương tự để áp dụng mẫu hình từ một lĩnh vực sang lĩnh vực khác.
+- **Universal Principle Extraction**: Chiết xuất các nguyên lý phổ quát từ các mẫu hình cụ thể.
+- **Synthetic Understanding**: Tạo ra hiểu biết tổng hợp mới - lớn hơn tổng các phần riêng lẻ.
 
-→ **Liên kết:** DYNAMICS (Evolution), META-STRUCTURES (Meta-Paradigm Thinking).
+→ **Liên kết nội bộ:** PATTERN RECOGNITION ACROSS DOMAINS (Chức năng 3), META-STRUCTURES (Chức năng 4).
+→ **Liên kết các domain khác:** META-COGNITION (Pattern Recognition), CREATION (Pattern Breaking), FOUNDATIONS (Universal Patterns), OPERATIONS (Analytical Tools).
+
+---
+
+#### **5. Meta-Synthesis** - Siêu Tổng Hợp
+
+Quá trình tổng hợp các kết quả từ nhiều nghiên cứu hoặc quan điểm để đạt được một hiểu biết toàn diện hơn. Đây là CÔNG CỤ THỰC HÀNH trong nghiên cứu học thuật.
+
+- **Literature Review & Integration**: Xem xét và tích hợp các nghiên cứu hiện có.
+- **Evidence Weighing**: Cân nhắc và đánh giá chất lượng của các bằng chứng khác nhau.
+- **Conflicting Finding Resolution**: Giải quyết các phát hiện mâu thuẫn bằng cách tìm kiếm nguyên nhân sâu xa.
+- **Emergent Understanding**: Tạo ra một sự hiểu biết mới, vượt xa tổng các phần.
+
+→ **Liên kết:** VALIDATION (Scientific Method, Meta-Analysis)
+→ **Cấp độ cao hơn:** META LAYER #17 (Meta-Synthesis - siêu tổng hợp ở cấp meta)
+→ **Ứng dụng:** Academic research, systematic reviews, knowledge integration
+
+---
+
+### **2. Systems Integration - Tích Hợp Hệ Thống (4 mục)**
+
+#### **6. Living Systems Integration** - Tích Hợp Hệ Thống Sống
+
+Các nguyên tắc tích hợp được rút ra từ việc nghiên cứu các hệ thống sống, như hệ sinh thái.
+
+- **Interdependence**: Mọi thành phần đều phụ thuộc lẫn nhau để tồn tại và phát triển.
+- **Synergy & Symbiosis**: Sự hợp tác tạo ra lợi ích chung và sức mạnh tổng hợp.
+- **Self-Regulation & Homeostasis**: Khả năng tự điều chỉnh để duy trì sự cân bằng nội tại.
+- **Regenerative Cycles**: Các chu trình tái tạo, trong đó chất thải của một quá trình là thức ăn cho quá trình khác.
+
+→ **Liên kết:** FOUNDATIONS (Systems Thinking), DYNAMICS (System Dynamics).
+
+---
+
+#### **7. System of Systems Thinking** - Tư Duy Hệ Thống của các Hệ Thống
+
+Khả năng mô hình hóa và tích hợp các tập hợp các hệ thống độc lập, có thể tương tác với nhau.
+
+- **Inter-system Analysis**: Phân tích các mối quan hệ, sự phụ thuộc và các dòng chảy giữa các hệ thống.
+- **Emergent Behavior at Scale**: Hiểu các hành vi đột sinh xuất hiện ở cấp độ "hệ thống của các hệ thống".
+- **Architectural Governance**: Quản trị kiến trúc tổng thể để đảm bảo sự tương tác hiệu quả.
+- **Holistic Optimization**: Tối ưu hóa hiệu suất của toàn bộ tập hợp, không chỉ các hệ thống riêng lẻ.
+
+→ **Liên kết:** [META] LAYER (System of Systems Thinking), AMPLIFICATION (Network Effects).
 
 ---
 
@@ -16134,7 +16142,37 @@ Sự xuất hiện của một cấp độ trí tuệ tập thể cao hơn thôn
 
 ---
 
-#### **10. Cultural Integration** - Tích Hợp Văn Hóa
+### **3. Cultural & Social Integration - Tích Hợp Văn Hóa & Xã Hội (5 mục)**
+
+#### **10. Value System Integration** - Tích Hợp Hệ Thống Giá Trị
+
+Quá trình nhận diện, làm rõ và hài hòa các hệ thống giá trị khác nhau từ nhiều nguồn (cá nhân, văn hóa, tổ chức) để tạo ra sự thống nhất và hiệp lực.
+
+- **Value Hierarchy Mapping**: Lập bản đồ phân cấp các giá trị.
+- **Conflict Resolution**: Giải quyết xung đột phát sinh từ các giá trị khác nhau.
+- **Shared Value Creation**: Tạo ra các giá trị chung làm nền tảng cho sự hợp tác.
+- **Ethical Synthesis**: Tổng hợp hệ thống đạo đức ở cấp độ cao hơn, bao hàm nhiều quan điểm.
+
+→ **Liên kết:** NAVIGATION (Guiding Principles), OPERATIONS (Decision Frameworks).
+→ **Ứng dụng meta-level:** META LAYER (Quan sát và điều chỉnh các hệ thống giá trị).
+→ **Ghi chú:** Khái niệm này cũng liên quan đến Framework Evolution & Regulation ở META LAYER.
+
+---
+
+#### **11. Worldview Integration** - Tích Hợp Thế Giới Quan
+
+Quá trình tích hợp các thế giới quan khác nhau (ví dụ: truyền thống, hiện đại, hậu hiện đại) vào một viễn kiến lớn hơn.
+
+- **Developmental Stages**: Hiểu các thế giới quan như các giai đoạn phát triển (ví dụ: Spiral Dynamics).
+- **Transcend and Include**: Vượt qua và bao gồm; mỗi giai đoạn mới tích hợp những gì tốt nhất của giai đoạn trước.
+- **Perspective Synthesis**: Tổng hợp các góc nhìn từ các thế giới quan khác nhau.
+- **Multi-perspectival Fluency**: Sự trôi chảy trong việc áp dụng nhiều thế giới quan khác nhau.
+
+→ **Liên kết:** DYNAMICS (Evolution), META-STRUCTURES (Meta-Paradigm Thinking).
+
+---
+
+#### **12. Cultural Integration** - Tích Hợp Văn Hóa
 
 Quá trình các cá nhân hoặc nhóm từ các nền văn hóa khác nhau đến với nhau và tạo ra một nền văn hóa chung.
 
@@ -16147,7 +16185,7 @@ Quá trình các cá nhân hoặc nhóm từ các nền văn hóa khác nhau đ�
 
 ---
 
-#### **11. Historical Integration** - Tích Hợp Lịch Sử
+#### **13. Historical Integration** - Tích Hợp Lịch Sử
 
 Kết nối hiện tại với quá khứ để tạo ra một cảm giác liên tục và học hỏi từ lịch sử.
 
@@ -16160,25 +16198,22 @@ Kết nối hiện tại với quá khứ để tạo ra một cảm giác liên
 
 ---
 
-#### **12. Comparative Analysis** - Phân Tích So Sánh [Phương Pháp Tổng Hợp]
+#### **14. Collective Sensemaking** - Cùng Nhau Cảm Nhận Ý Nghĩa
 
-Phương pháp xem xét hai hoặc nhiều đối tượng, hệ thống hoặc ý tưởng cùng nhau để TRÍCH XUẤT NGUYÊN TẮC PHỔ QUÁT và tạo ra tri thức mới. Khác với công cụ so sánh trong OPERATIONS (để quyết định), đây là PHƯƠNG PHÁP TỔNG HỢP TRI THỨC - tìm kiếm mẫu hình chung và siêu-nguyên tắc xuyên suốt các ngữ cảnh khác nhau.
+Quá trình một nhóm người cùng nhau diễn giải và tạo ra ý nghĩa từ các tình huống phức tạp hoặc mơ hồ.
 
-- **Side-by-Side Examination**: Xem xét song song - KHÁM PHÁ MẪU HÌNH CHUNG.
-- **Identifying Universal Patterns**: Tìm quy luật phổ quát - TẠO TRI THỨC MỚI.
-- **Contextual Nuance**: Hiểu sự khác biệt do ngữ cảnh - TINH TẾ TRONG TỔNG HỢP.
-- **Meta-Principle Extraction**: Trích xuất siêu-nguyên tắc - NÂNG LÊN CẤP ĐỘ CAO HƠN.
+- **Shared Interpretation**: Cùng nhau diễn giải thông tin.
+- **Emergent Understanding**: Một sự hiểu biết chung đột sinh từ sự tương tác.
+- **Dialogue & Deliberation**: Đối thoại và thảo luận sâu sắc.
+- **Actionable Consensus**: Đạt được sự đồng thuận có thể dẫn đến hành động.
 
-→ **Liên kết nội bộ:** META-COGNITION (Pattern Recognition)
-→ **Nguồn dữ liệu:** OPERATIONS #15 (Comparative Analysis - công cụ phân tích để cung cấp dữ liệu so sánh)
-→ **Các phương pháp tổng hợp khác:**
-  • INTEGRATION #16 (Pattern Synthesis - tổng hợp mẫu hình)
-  • INTEGRATION #35 (Comparative Methodologies - phương pháp luận so sánh)
-  • INTEGRATION #15 (Semantic Integration - tích hợp ý nghĩa)
+→ **Liên kết:** AMPLIFICATION (Community Dynamics), VALIDATION (Peer Review).
 
 ---
 
-#### **13. Data Integration & Analysis** - Tích Hợp & Phân Tích Dữ Liệu
+### **4. Knowledge & Data Integration - Tích Hợp Tri Thức & Dữ Liệu (4 mục)**
+
+#### **15. Data Integration & Analysis** - Tích Hợp & Phân Tích Dữ Liệu
 
 Quá trình kết hợp dữ liệu từ nhiều nguồn khác nhau để tạo ra một cái nhìn thống nhất và có ý nghĩa.
 
@@ -16191,7 +16226,7 @@ Quá trình kết hợp dữ liệu từ nhiều nguồn khác nhau để tạo 
 
 ---
 
-#### **14. Semantic Integration** - Tích Hợp Ngữ Nghĩa
+#### **16. Semantic Integration** - Tích Hợp Ngữ Nghĩa
 
 Quá trình hiểu và liên kết ý nghĩa của thông tin từ các nguồn và ngữ cảnh khác nhau.
 
@@ -16204,23 +16239,7 @@ Quá trình hiểu và liên kết ý nghĩa của thông tin từ các nguồn 
 
 ---
 
-#### **15. Pattern Synthesis** - Tổng Hợp Mẫu Hình
-
-Khả năng nhận diện, phân tích và kết hợp các mẫu hình từ nhiều lĩnh vực, nguồn và cấp độ khác nhau để tạo ra các hiểu biết mới và toàn diện. Đây là nghệ thuật nhìn thấy "mẫu hình của các mẫu hình" và tạo ra sự tổng hợp có ý nghĩa từ sự đa dạng.
-
-- **Cross-Domain Pattern Recognition**: Nhận diện các mẫu hình tương tự trong các lĩnh vực khác nhau (isomorphic structures).
-- **Multi-Pattern Integration**: Kết hợp nhiều mẫu hình từ các nguồn khác nhau vào một framework thống nhất.
-- **Meta-Pattern Discovery**: Phát hiện các "mẫu hình của các mẫu hình" - các nguyên lý tổ chức ở cấp độ cao hơn.
-- **Analogical Reasoning**: Suy luận dựa trên tương tự để áp dụng mẫu hình từ một lĩnh vực sang lĩnh vực khác.
-- **Universal Principle Extraction**: Chiết xuất các nguyên lý phổ quát từ các mẫu hình cụ thể.
-- **Synthetic Understanding**: Tạo ra hiểu biết tổng hợp mới - lớn hơn tổng các phần riêng lẻ.
-
-→ **Liên kết nội bộ:** PATTERN RECOGNITION ACROSS DOMAINS (Chức năng 3), META-STRUCTURES (Chức năng 4).
-→ **Liên kết các domain khác:** META-COGNITION (Pattern Recognition), CREATION (Pattern Breaking), FOUNDATIONS (Universal Patterns), OPERATIONS (Analytical Tools).
-
----
-
-#### **16. Knowledge Graph Construction** - Xây Dựng Đồ Thị Tri Thức
+#### **17. Knowledge Graph Construction** - Xây Dựng Đồ Thị Tri Thức
 
 Tạo ra các biểu diễn có cấu trúc của tri thức, trong đó các thực thể và mối quan hệ của chúng được kết nối một cách rõ ràng.
 
@@ -16230,21 +16249,6 @@ Tạo ra các biểu diễn có cấu trúc của tri thức, trong đó các th
 - **Graph Traversal & Exploration**: Khám phá đồ thị để phát hiện các mối liên hệ mới.
 
 → **Liên kết:** NAVIGATION (Mapping), AMPLIFICATION (Network Effects).
-
----
-
-#### **17. Meta-Synthesis** - Siêu Tổng Hợp
-
-Quá trình tổng hợp các kết quả từ nhiều nghiên cứu hoặc quan điểm để đạt được một hiểu biết toàn diện hơn. Đây là CÔNG CỤ THỰC HÀNH trong nghiên cứu học thuật.
-
-- **Literature Review & Integration**: Xem xét và tích hợp các nghiên cứu hiện có.
-- **Evidence Weighing**: Cân nhắc và đánh giá chất lượng của các bằng chứng khác nhau.
-- **Conflicting Finding Resolution**: Giải quyết các phát hiện mâu thuẫn bằng cách tìm kiếm nguyên nhân sâu xa.
-- **Emergent Understanding**: Tạo ra một sự hiểu biết mới, vượt xa tổng các phần.
-
-→ **Liên kết:** VALIDATION (Scientific Method, Meta-Analysis)
-→ **Cấp độ cao hơn:** META LAYER #17 (Meta-Synthesis - siêu tổng hợp ở cấp meta)
-→ **Ứng dụng:** Academic research, systematic reviews, knowledge integration
 
 ---
 
@@ -16260,6 +16264,8 @@ Một cách tiếp cận vượt qua ranh giới các ngành để tạo ra mộ
 → **Liên kết:** META-STRUCTURES (Framework of Frameworks), NAVIGATION (Complexity Navigation).
 
 ---
+
+### **5. Experiential & Temporal Integration - Tích Hợp Trải Nghiệm & Thời Gian (5 mục)**
 
 #### **19. Narrative Integration** - Tích Hợp Tường Thuật
 
@@ -16326,22 +16332,9 @@ Việc lập bản đồ các cấu trúc và mối quan hệ của tri thức, 
 
 ---
 
-#### **24. Collective Sensemaking** - Cùng Nhau Cảm Nhận Ý Nghĩa
+### **6. Foundational Methods - Phương Pháp Nền Tảng (5 mục)**
 
-Quá trình một nhóm người cùng nhau diễn giải và tạo ra ý nghĩa từ các tình huống phức tạp hoặc mơ hồ.
-
-- **Shared Interpretation**: Cùng nhau diễn giải thông tin.
-- **Emergent Understanding**: Một sự hiểu biết chung đột sinh từ sự tương tác.
-- **Dialogue & Deliberation**: Đối thoại và thảo luận sâu sắc.
-- **Actionable Consensus**: Đạt được sự đồng thuận có thể dẫn đến hành động.
-
-→ **Liên kết:** AMPLIFICATION (Community Dynamics), VALIDATION (Peer Review).
-
----
-
-### **Nhóm Foundational Methods - Phương Pháp Nền Tảng (5 mục mới)**
-
-#### **25. Feynman Technique** - Kỹ Thuật Feynman
+#### **24. Feynman Technique** - Kỹ Thuật Feynman
 
 Phương pháp học tập thông qua việc giải thích đơn giản như thể đang dạy người khác.
 
@@ -16354,7 +16347,7 @@ Phương pháp học tập thông qua việc giải thích đơn giản như th�
 
 ---
 
-#### **26. Zettelkasten Method** - Phương Pháp Zettelkasten
+#### **25. Zettelkasten Method** - Phương Pháp Zettelkasten
 
 Hệ thống ghi chú liên kết để xây dựng mạng lưới tri thức.
 
@@ -16367,7 +16360,7 @@ Hệ thống ghi chú liên kết để xây dựng mạng lưới tri thức.
 
 ---
 
-#### **27. Progressive Summarization** - Tóm Tắt Tiến Bộ
+#### **26. Progressive Summarization** - Tóm Tắt Tiến Bộ
 
 Phương pháp chắt lọc thông tin qua nhiều lớp tóm tắt.
 
@@ -16380,7 +16373,7 @@ Phương pháp chắt lọc thông tin qua nhiều lớp tóm tắt.
 
 ---
 
-#### **28. Knowledge Synthesis Protocol** - Giao Thức Tổng Hợp Tri Thức
+#### **27. Knowledge Synthesis Protocol** - Giao Thức Tổng Hợp Tri Thức
 
 Quy trình có hệ thống để tích hợp tri thức từ nhiều nguồn.
 
@@ -16393,7 +16386,7 @@ Quy trình có hệ thống để tích hợp tri thức từ nhiều nguồn.
 
 ---
 
-#### **29. Meta-Learning Protocols - Giao Thức Siêu Học** [Tổng Hợp Đa Phương Pháp]
+#### **28. Meta-Learning Protocols - Giao Thức Siêu Học** [Tổng Hợp Đa Phương Pháp]
 
 PROTOCOL để tích hợp nhiều framework và phương pháp meta-learning thành một hệ thống học tập toàn diện. Không chỉ dùng một công cụ mà TỔNG HỢP nhiều công cụ để tối ưu học tập.
 
@@ -16411,9 +16404,9 @@ Khác với framework đơn lẻ ở OPERATIONS #24, đây là về TÍCH HỢP:
 
 ---
 
-### **Nhóm Thinking Modes - Các Chế Độ Tư Duy (7 mục mới)**
+### **7. Thinking Modes - Các Chế Độ Tư Duy (7 mục)**
 
-#### **30. Dialectical Thinking** - Tư Duy Biện Chứng
+#### **29. Dialectical Thinking** - Tư Duy Biện Chứng
 
 Tư duy thông qua sự tổng hợp các mặt đối lập (thesis-antithesis-synthesis).
 
@@ -16426,7 +16419,7 @@ Tư duy thông qua sự tổng hợp các mặt đối lập (thesis-antithesis-
 
 ---
 
-#### **31. Both/And Thinking - Tư Duy Cả Hai [Công Cụ Tổng Hợp]**
+#### **30. Both/And Thinking - Tư Duy Cả Hai [Công Cụ Tổng Hợp]**
 
 Công cụ tư duy để tích hợp các quan điểm tưởng chừng như mâu thuẫn trong quá trình tổng hợp tri thức. Đây là PHƯƠNG PHÁP THỰC HÀNH giúp kết nối các nguồn tri thức đa dạng, khác với trạng thái siêu việt ở TRANSCENDENCE.
 
@@ -16449,7 +16442,7 @@ Công cụ tư duy để tích hợp các quan điểm tưởng chừng như mâ
 
 ---
 
-#### **32. Holistic Integration Thinking** - Tư Duy Tích Hợp Toàn Diện
+#### **31. Holistic Integration Thinking** - Tư Duy Tích Hợp Toàn Diện
 
 Nhìn nhận các hệ thống như một tổng thể thống nhất.
 
@@ -16462,7 +16455,7 @@ Nhìn nhận các hệ thống như một tổng thể thống nhất.
 
 ---
 
-#### **33. Integral Thinking** - Tư Duy Tích Hợp (AQAL)
+#### **32. Integral Thinking** - Tư Duy Tích Hợp (AQAL)
 
 Áp dụng framework AQAL để tư duy đa chiều.
 
@@ -16475,7 +16468,7 @@ Nhìn nhận các hệ thống như một tổng thể thống nhất.
 
 ---
 
-#### **34. Integrative Reasoning** - Suy Luận Tích Hợp
+#### **33. Integrative Reasoning** - Suy Luận Tích Hợp
 
 Kết hợp nhiều phương pháp suy luận để đạt kết luận toàn diện.
 
@@ -16488,7 +16481,7 @@ Kết hợp nhiều phương pháp suy luận để đạt kết luận toàn di
 
 ---
 
-#### **35. Transdisciplinary Reasoning - Suy Luận Xuyên Ngành [Nguyên Tắc & Mục Tiêu]**
+#### **34. Transdisciplinary Reasoning - Suy Luận Xuyên Ngành [Nguyên Tắc & Mục Tiêu]**
 
 NGUYÊN TẮC NHẬN THỨC và MỤC TIÊU của việc suy luận vượt qua ranh giới các ngành. Đây không phải là công cụ mà là TRIẾT HỌC và ĐỊNH HƯỚNG - tập trung vào "TẠI SAO" và "ĐIỀU GÌ" đạt được khi vượt qua các ranh giới ngành học.
 
@@ -16504,7 +16497,7 @@ NGUYÊN TẮC NHẬN THỨC và MỤC TIÊU của việc suy luận vượt qua 
 
 ---
 
-#### **36. Holographic Reasoning** - Suy Luận Toàn Ảnh
+#### **35. Holographic Reasoning** - Suy Luận Toàn Ảnh
 
 Tư duy dựa trên nguyên lý toàn ảnh: mỗi phần chứa đựng thông tin về toàn bộ.
 
@@ -16517,9 +16510,9 @@ Tư duy dựa trên nguyên lý toàn ảnh: mỗi phần chứa đựng thông 
 
 ---
 
-### **Nhóm Creative Bridging - Kết Nối Sáng Tạo (8 mục mới)**
+### **8. Creative Bridging - Kết Nối Sáng Tạo (8 mục)**
 
-#### **37. Conceptual Bridging** - Kết Nối Khái Niệm
+#### **36. Conceptual Bridging** - Kết Nối Khái Niệm
 
 Tạo cầu nối giữa các khái niệm từ các lĩnh vực khác nhau.
 
@@ -16532,7 +16525,7 @@ Tạo cầu nối giữa các khái niệm từ các lĩnh vực khác nhau.
 
 ---
 
-#### **38. Analogical Transfer** - Chuyển Giao Tương Tự
+#### **37. Analogical Transfer** - Chuyển Giao Tương Tự
 
 Áp dụng kiến thức từ một lĩnh vực sang lĩnh vực khác thông qua tương tự.
 
@@ -16545,7 +16538,7 @@ Tạo cầu nối giữa các khái niệm từ các lĩnh vực khác nhau.
 
 ---
 
-#### **39. Hybrid Thinking** - Tư Duy Lai
+#### **38. Hybrid Thinking** - Tư Duy Lai
 
 Kết hợp các phương pháp tư duy khác nhau để tạo ra cách tiếp cận mới.
 
@@ -16558,7 +16551,7 @@ Kết hợp các phương pháp tư duy khác nhau để tạo ra cách tiếp c
 
 ---
 
-#### **40. Interdisciplinary Fusion** - Kết Hợp Liên Ngành
+#### **39. Interdisciplinary Fusion** - Kết Hợp Liên Ngành
 
 Hợp nhất các ngành học khác nhau để tạo ra lĩnh vực mới.
 
@@ -16571,7 +16564,7 @@ Hợp nhất các ngành học khác nhau để tạo ra lĩnh vực mới.
 
 ---
 
-#### **41. Fusion Methodology** - Phương Pháp Luận Kết Hợp
+#### **40. Fusion Methodology** - Phương Pháp Luận Kết Hợp
 
 Cách tiếp cận có hệ thống để hợp nhất các phương pháp khác nhau.
 
@@ -16584,7 +16577,7 @@ Cách tiếp cận có hệ thống để hợp nhất các phương pháp khác
 
 ---
 
-#### **42. Creative Alchemy** - Giả Kim Sáng Tạo
+#### **41. Creative Alchemy** - Giả Kim Sáng Tạo
 
 Quá trình chuyển hóa các yếu tố khác nhau thành cái gì đó hoàn toàn mới.
 
@@ -16597,7 +16590,7 @@ Quá trình chuyển hóa các yếu tố khác nhau thành cái gì đó hoàn 
 
 ---
 
-#### **43. Synthesis Protocols** - Giao Thức Tổng Hợp [Tri Thức]
+#### **42. Synthesis Protocols** - Giao Thức Tổng Hợp [Tri Thức]
 
 Quy trình có cấu trúc để tổng hợp thông tin và tri thức từ nhiều nguồn. Đây là PHƯƠNG PHÁP CÓ HỆ THỐNG để tạo ra hiểu biết mạch lạc từ các yếu tố phân tán - khác với việc tái kết hợp tự do trong sáng tạo.
 
@@ -16612,9 +16605,9 @@ Quy trình có cấu trúc để tổng hợp thông tin và tri thức từ nhi
 
 ---
 
-### **Nhóm Knowledge Architecture - Kiến Trúc Tri Thức (4 mục mới)**
+### **9. Knowledge Architecture - Kiến Trúc Tri Thức (4 mục)**
 
-#### **44. Second Brain Systems** - Hệ Thống Bộ Não Thứ Hai
+#### **43. Second Brain Systems** - Hệ Thống Bộ Não Thứ Hai
 
 Các công cụ và hệ thống bên ngoài để lưu trữ và tổ chức tri thức.
 
@@ -16627,7 +16620,7 @@ Các công cụ và hệ thống bên ngoài để lưu trữ và tổ chức tr
 
 ---
 
-#### **45. Knowledge Graphs** - Đồ Thị Tri Thức
+#### **44. Knowledge Graphs** - Đồ Thị Tri Thức
 
 Biểu diễn tri thức dưới dạng mạng lưới các node và mối quan hệ.
 
@@ -16640,7 +16633,7 @@ Biểu diễn tri thức dưới dạng mạng lưới các node và mối quan 
 
 ---
 
-#### **46. Semantic Networks** - Mạng Lưới Ngữ Nghĩa
+#### **45. Semantic Networks** - Mạng Lưới Ngữ Nghĩa
 
 Cấu trúc tri thức dựa trên ý nghĩa và mối quan hệ giữa các khái niệm.
 
@@ -16653,7 +16646,7 @@ Cấu trúc tri thức dựa trên ý nghĩa và mối quan hệ giữa các kh�
 
 ---
 
-#### **47. Thought Scaffolding** - Giàn Giáo Tư Duy
+#### **46. Thought Scaffolding** - Giàn Giáo Tư Duy
 
 Các cấu trúc hỗ trợ để phát triển và tổ chức tư duy.
 
@@ -16666,9 +16659,9 @@ Các cấu trúc hỗ trợ để phát triển và tổ chức tư duy.
 
 ---
 
-### **Nhóm Wisdom Traditions - Truyền Thống Trí Tuệ (4 mục mới)**
+### **10. Wisdom Traditions - Truyền Thống Trí Tuệ (4 mục)**
 
-#### **48. Vedanta Synthesis** - Tổng Hợp Vedanta
+#### **47. Vedanta Synthesis** - Tổng Hợp Vedanta
 
 Hệ thống triết học Ấn Độ tích hợp các con đường để đạt giác ngộ.
 
@@ -16681,7 +16674,7 @@ Hệ thống triết học Ấn Độ tích hợp các con đường để đạ
 
 ---
 
-#### **49. Neo-Confucian Integration** - Tích Hợp Tân Nho
+#### **48. Neo-Confucian Integration** - Tích Hợp Tân Nho
 
 Tổng hợp Nho giáo với các yếu tố Phật giáo và Đạo giáo.
 
@@ -16694,7 +16687,7 @@ Tổng hợp Nho giáo với các yếu tố Phật giáo và Đạo giáo.
 
 ---
 
-#### **50. Syncretic Traditions** - Các Truyền Thống Dung Hợp
+#### **49. Syncretic Traditions** - Các Truyền Thống Dung Hợp
 
 Các tôn giáo và triết học kết hợp nhiều truyền thống khác nhau.
 
@@ -16707,7 +16700,7 @@ Các tôn giáo và triết học kết hợp nhiều truyền thống khác nha
 
 ---
 
-#### **51. Sufi Poetry/Love Synthesis** - Tổng Hợp Thơ Ca/Tình Yêu Sufi
+#### **50. Sufi Poetry/Love Synthesis** - Tổng Hợp Thơ Ca/Tình Yêu Sufi
 
 Biểu đạt trải nghiệm huyền bí thông qua thơ ca và biểu tượng tình yêu.
 
