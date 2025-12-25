@@ -18239,7 +18239,7 @@ Kết hợp thế giới vật lý và kỹ thuật số.
 
 Chức năng này tập trung vào các phương pháp và thực hành để kết nối con người, ý tưởng và hệ thống thông qua giao tiếp, hợp tác và tạo ý nghĩa chung.
 
-### **Các Mục Nội Dung (20 mục)**
+### **1. Dialogue & Collective Wisdom - Đối Thoại & Trí Tuệ Tập Thể**
 
 #### **1. Dialogue** - Đối Thoại
 
@@ -18254,7 +18254,63 @@ Một hình thức giao tiếp sâu sắc nhằm khám phá ý nghĩa và tạo 
 
 ---
 
-#### **2. Collaborative Problem-Solving** - Giải Quyết Vấn Đề Cộng Tác
+#### **2. Collective Sensemaking - Cùng Nhau Cảm Nhận Ý Nghĩa** (lặp lại từ Chức năng 1)
+
+Quá trình một nhóm người cùng nhau diễn giải và tạo ra ý nghĩa từ các tình huống phức tạp hoặc mơ hồ trong bối cảnh hợp tác.
+
+- **Shared Interpretation**: Cùng nhau diễn giải thông tin và tình huống từ nhiều góc nhìn khác nhau
+- **Collaborative Meaning-Making**: Tạo ra ý nghĩa chung thông qua đối thoại và tương tác nhóm
+- **Collective Understanding**: Xây dựng sự hiểu biết chung về các vấn đề phức tạp hoặc mơ hồ
+- **Integration in Collaboration**: Trong bối cảnh hợp tác, sensemaking tập thể giúp nhóm điều hướng sự không chắc chắn
+
+→ **Liên kết:** INTEGRATION - Chức năng 1 (Collective Sensemaking - định nghĩa đầy đủ), NAVIGATION (Complexity Navigation), OPERATIONS (Group Decision Making)
+
+---
+
+#### **3. Dialogue Integration** - Tích Hợp Đối Thoại
+
+Sử dụng đối thoại sâu sắc để tích hợp quan điểm.
+
+- **Deep Conversation**: Cuộc trò chuyện sâu sắc; vượt qua bề mặt.
+- **Meaning Synthesis**: Tổng hợp ý nghĩa; tạo hiểu biết chung từ đối thoại.
+- **Collective Sensemaking**: Cùng tạo ý nghĩa; nhóm cùng hiểu.
+- **Integration through Dialogue**: Tích hợp qua đối thoại; gắn kết qua giao tiếp.
+
+→ **Liên kết:** COLLABORATION (Dialogue), COMMUNICATION (Meaning-Making).
+
+---
+
+#### **4. Wisdom Councils** - Hội Đồng Trí Tuệ
+
+Các nhóm tạm thời được triệu tập để cung cấp trí tuệ tập thể về các vấn đề quan trọng.
+
+- **Diverse Representation**: Đại diện đa dạng từ các phần khác nhau của tổ chức/cộng đồng.
+- **Deep Dialogue**: Đối thoại sâu sắc; khám phá các vấn đề một cách toàn diện.
+- **Collective Wisdom Emergence**: Trí tuệ tập thể đột sinh từ cuộc trò chuyện.
+- **Recommendations to Leadership**: Đưa ra khuyến nghị cho lãnh đạo hoặc cộng đồng.
+
+→ **Liên kết:** TRANSCENDENCE (Wisdom Crystallization), VALIDATION (Expert Panels).
+
+---
+
+#### **5. Collective Wisdom** - Trí Tuệ Tập Thể
+
+Sự xuất hiện của trí tuệ - bao gồm cả chiều sâu đạo đức, reflection và wisdom - vượt qua bất kỳ cá nhân nào từ một nhóm người. Khác với swarm intelligence trong tự nhiên (FOUNDATIONS #36), đây là về WISDOM - không chỉ intelligence - đòi hỏi consciousness và ethical reflection.
+
+- **Emergent Intelligence**: Trí tuệ đột sinh; nhóm thông minh hơn cá nhân
+- **Transcendent Understanding**: Hiểu biết vượt thoát; wisdom domain
+- **Group Gnosis**: Tri thức nhóm; insight sâu sắc từ tập thể
+- **Wisdom Circle**: Vòng tròn trí tuệ; sacred space cho wisdom emergence
+
+→ **Liên kết nội bộ:** TRANSCENDENCE (Wisdom Crystallization)
+→ **Gốc nguyên lý:** FOUNDATIONS #36 (Swarm Intelligence - natural principle)
+→ **Công cụ thực hành:** COLLABORATION (Wisdom Councils)
+
+---
+
+### **2. Collaborative Problem-Solving & Innovation - Giải Quyết Vấn Đề & Đổi Mới Cộng Tác**
+
+#### **6. Collaborative Problem-Solving** - Giải Quyết Vấn Đề Cộng Tác
 
 Làm việc cùng nhau để giải quyết các vấn đề phức tạp bằng cách tận dụng các quan điểm đa dạng.
 
@@ -18267,20 +18323,7 @@ Làm việc cùng nhau để giải quyết các vấn đề phức tạp bằng
 
 ---
 
-#### **3. Peer Learning & Communities of Practice** - Học Tập Ngang Hàng & Cộng Đồng Thực Hành
-
-Học hỏi từ và với những người đồng nghiệp trong một cộng đồng có thực hành chung.
-
-- **Shared Expertise**: Chia sẻ chuyên môn; mọi người đều có điều gì đó để đóng góp.
-- **Legitimate Peripheral Participation**: Tham gia ngoại vi hợp pháp; người mới tham gia ở rìa và dần di chuyển vào trung tâm.
-- **Situated Learning**: Học tập trong tình huống; học bằng cách làm trong ngữ cảnh thực.
-- **Knowledge Exchange**: Trao đổi tri thức; dòng chảy hai chiều của thông tin.
-
-→ **Liên kết:** OPERATIONS (Learning Systems), AMPLIFICATION (Network Learning).
-
----
-
-#### **4. Design Thinking (Collaborative)** - Tư Duy Thiết Kế (Cộng Tác)
+#### **7. Design Thinking (Collaborative)** - Tư Duy Thiết Kế (Cộng Tác)
 
 Một phương pháp giải quyết vấn đề lấy con người làm trung tâm, được thực hiện trong các nhóm đa chức năng.
 
@@ -18293,7 +18336,7 @@ Một phương pháp giải quyết vấn đề lấy con người làm trung t�
 
 ---
 
-#### **5. Open Innovation - Đổi Mới Mở [Trí Tuệ Cộng Tác]**
+#### **8. Open Innovation - Đổi Mới Mở [Trí Tuệ Cộng Tác]**
 
 Tận dụng SỨC MẠNH CỘNG ĐỒNG và TRÍ TUỆ TẬP THỂ từ một mạng lưới rộng lớn để giải quyết vấn đề và đổi mới. Khác với phương pháp ở CREATION và nền tảng ở AMPLIFICATION, đây là về CỘNG ĐỒNG và CON NGƯỜI.
 
@@ -18309,7 +18352,7 @@ Tận dụng SỨC MẠNH CỘNG ĐỒNG và TRÍ TUỆ TẬP THỂ từ một m
 
 ---
 
-#### **6. Crowdsourcing - Khai Thác Đám Đông**
+#### **9. Crowdsourcing - Khai Thác Đám Đông**
 
 Phương pháp CỤ THỂ để huy động sức mạnh đám đông giải quyết vấn đề, tạo nội dung, hoặc tài trợ dự án. Đây là một DẠNG ỨNG DỤNG của Open Innovation tập trung vào QUY MÔ và ĐA DẠNG của người tham gia.
 
@@ -18325,20 +18368,7 @@ Phương pháp CỤ THỂ để huy động sức mạnh đám đông giải quy
 
 ---
 
-#### **7. Facilitation & Group Process** - Tạo Điều Kiện & Quá Trình Nhóm
-
-Kỹ năng hướng dẫn và tạo điều kiện cho các nhóm làm việc hiệu quả và sáng tạo.
-
-- **Process Awareness**: Nhận thức về quá trình; chú ý đến cách nhóm làm việc, không chỉ nội dung.
-- **Holding Space**: Giữ không gian; tạo ra một môi trường an toàn và hỗ trợ.
-- **Conflict Navigation**: Điều hướng xung đột; giúp nhóm vượt qua bất đồng một cách xây dựng.
-- **Emergent Leadership**: Lãnh đạo đột sinh; cho phép lãnh đạo xuất hiện tự nhiên.
-
-→ **Liên kết:** OPERATIONS (Group Dynamics), NAVIGATION (Process Management).
-
----
-
-#### **8. Co-Creation & Participatory Design** - Đồng Sáng Tạo & Thiết Kế Tham Gia [Phương Thức Hợp Tác]
+#### **10. Co-Creation & Participatory Design** - Đồng Sáng Tạo & Thiết Kế Tham Gia [Phương Thức Hợp Tác]
 
 PHƯƠNG THỨC làm việc cùng nhau trong đó tất cả các bên liên quan được tích cực thu hút vào QUÁ TRÌNH thiết kế và sáng tạo. Khác với CREATION #25 tập trung vào SẢN PHẨM đổi mới, đây là về CÁCH THỨC hợp tác - làm thế nào để nhiều tiếng nói cùng tạo ra một điều gì đó có ý nghĩa.
 
@@ -18355,47 +18385,18 @@ PHƯƠNG THỨC làm việc cùng nhau trong đó tất cả các bên liên qua
 
 ---
 
-#### **9. Networked Collaboration** - Cộng Tác Mạng Lưới
+### **3. Team & Group Dynamics - Động Lực Nhóm & Đội**
 
-Làm việc cùng nhau qua các mạng lưới phân tán, thường được hỗ trợ bởi công nghệ.
+#### **11. Facilitation & Group Process** - Tạo Điều Kiện & Quá Trình Nhóm
 
-- **Asynchronous Collaboration**: Cộng tác không đồng bộ; làm việc cùng nhau không cần cùng một thời gian.
-- **Distributed Teams**: Các nhóm phân tán; làm việc từ các địa điểm khác nhau.
-- **Digital Platforms**: Các nền tảng kỹ thuật số; công cụ hỗ trợ cộng tác từ xa.
-- **Weak Ties Strength**: Sức mạnh của các mối quan hệ yếu; các kết nối lỏng lẻo có thể mang lại thông tin và cơ hội mới.
+Kỹ năng hướng dẫn và tạo điều kiện cho các nhóm làm việc hiệu quả và sáng tạo.
 
-→ **Liên kết:** AMPLIFICATION (Network Effects), OPERATIONS (Technology).
+- **Process Awareness**: Nhận thức về quá trình; chú ý đến cách nhóm làm việc, không chỉ nội dung.
+- **Holding Space**: Giữ không gian; tạo ra một môi trường an toàn và hỗ trợ.
+- **Conflict Navigation**: Điều hướng xung đột; giúp nhóm vượt qua bất đồng một cách xây dựng.
+- **Emergent Leadership**: Lãnh đạo đột sinh; cho phép lãnh đạo xuất hiện tự nhiên.
 
----
-
-#### **10. Swarm Intelligence - Trí Tuệ Bầy Đàn [Trong Cộng Tác Con Người]**
-
-Áp dụng các nguyên tắc từ hành vi bầy đàn tự nhiên vào TỔ CHỨC CON NGƯỜI và cộng tác nhóm. Khác với nguyên lý tự nhiên ở DYNAMICS, đây là về THỰC HÀNH - làm thế nào để con người cộng tác như một bầy đàn thông minh.
-
-- **Decentralized Coordination**: Không có CEO bầy đàn - MÔ HÌNH tổ chức
-- **Simple Rules, Complex Behavior**: Quy tắc đơn giản → hành vi phức tạp - NGUYÊN TẮC thiết kế
-- **Stigmergy**: Phối hợp qua môi trường (wiki, tools) - CÔNG CỤ cộng tác
-- **Emergent Intelligence**: Nhóm thông minh hơn cá nhân - MỤC TIÊU cuối cùng
-
-→ **Liên kết nội bộ:** INTEGRATION (Collective Intelligence), COLLABORATION (Networked)
-→ **Gốc lý thuyết:** DYNAMICS #26 (Swarm Intelligence - hiện tượng tự nhiên)
-→ **Thuật toán:** OPERATIONS (Swarm Algorithms - nếu có)
-→ **Khuếch đại:** AMPLIFICATION #43 (scale up trí tuệ tập thể)
-
-📌 **TIÊU ĐIỂM:** ỨNG DỤNG nguyên tắc bầy đàn vào tổ chức và cộng tác
-
----
-
-#### **11. Holocracy & Self-Management** - Toàn Quyền & Tự Quản
-
-Các hệ thống tổ chức dựa trên phân phối quyền lực và tự quản.
-
-- **Distributed Authority**: Quyền lực phân tán; quyền quyết định được phân bổ.
-- **Role-Based Structure**: Cấu trúc dựa trên vai trò; con người đảm nhận vai trò, không phải chức vụ cố định.
-- **Dynamic Governance**: Quản trị động; cấu trúc tiến hóa theo nhu cầu.
-- **Collective Sense-and-Respond**: Cảm nhận và phản ứng tập thể; nhóm cùng nhau điều chỉnh.
-
-→ **Liên kết:** NAVIGATION (Distributed Leadership), DYNAMICS (Organizational Evolution).
+→ **Liên kết:** OPERATIONS (Group Dynamics), NAVIGATION (Process Management).
 
 ---
 
@@ -18425,33 +18426,61 @@ Làm việc cùng nhau qua các lĩnh vực chuyên môn và chức năng khác 
 
 ---
 
-#### **14. Collective Sensemaking - Cùng Nhau Cảm Nhận Ý Nghĩa** (lặp lại từ Chức năng 1)
+#### **14. Team Alchemy** - Giả Kim Nhóm
 
-Quá trình một nhóm người cùng nhau diễn giải và tạo ra ý nghĩa từ các tình huống phức tạp hoặc mơ hồ trong bối cảnh hợp tác.
+Chuyển hóa một nhóm thành một đơn vị có hiệu suất cao.
 
-- **Shared Interpretation**: Cùng nhau diễn giải thông tin và tình huống từ nhiều góc nhìn khác nhau
-- **Collaborative Meaning-Making**: Tạo ra ý nghĩa chung thông qua đối thoại và tương tác nhóm
-- **Collective Understanding**: Xây dựng sự hiểu biết chung về các vấn đề phức tạp hoặc mơ hồ
-- **Integration in Collaboration**: Trong bối cảnh hợp tác, sensemaking tập thể giúp nhóm điều hướng sự không chắc chắn
+- **Team Transformation**: Chuyển hóa nhóm; từ nhóm thành đội.
+- **Synergy Creation**: Tạo ra hiệp lực; tổng thể lớn hơn tổng các phần.
+- **Collective Magic**: Ma thuật tập thể; những gì xảy ra khi nhóm hoạt động tối ưu.
+- **High-Performance State**: Trạng thái hiệu suất cao; dòng chảy của nhóm.
 
-→ **Liên kết:** INTEGRATION - Chức năng 1 (Collective Sensemaking - định nghĩa đầy đủ), NAVIGATION (Complexity Navigation), OPERATIONS (Group Decision Making)
-
----
-
-#### **15. Distributed Leadership** - Lãnh Đạo Phân Tán
-
-Mô hình lãnh đạo nơi quyền lực và trách nhiệm được chia sẻ và luân chuyển.
-
-- **Leadership as Function, Not Position**: Lãnh đạo như một chức năng, không phải vị trí cố định.
-- **Situational Leadership**: Lãnh đạo tình huống; người có kỹ năng phù hợp lãnh đạo trong ngữ cảnh đó.
-- **Shared Accountability**: Trách nhiệm được chia sẻ.
-- **Empowerment**: Trao quyền; mọi người đều có quyền lực để hành động.
-
-→ **Liên kết:** NAVIGATION (Adaptive Leadership), DYNAMICS (Organizational Evolution).
+→ **Liên kết:** COLLABORATION (Team Synergy), TRANSCENDENCE (Transformation).
 
 ---
 
-#### **16. Knowledge Commons** - Tri Thức Chung
+#### **15. Group Process Work** - Công Việc Quá Trình Nhóm
+
+Làm việc với động lực và quá trình của nhóm.
+
+- **Process Awareness**: Nhận thức về quá trình; chú ý cách nhóm làm việc.
+- **Group Dynamics Facilitation**: Tạo điều kiện động lực nhóm; hỗ trợ nhóm làm việc tốt.
+- **Conflict Navigation**: Điều hướng xung đột; giúp nhóm vượt qua bất đồng.
+- **Field Work**: Công việc trường; làm việc với năng lượng của nhóm.
+
+→ **Liên kết:** COLLABORATION (Group Process), DYNAMICS (Group Dynamics).
+
+---
+
+#### **16. Community Dynamics** - Động Lực Cộng Đồng
+
+Các mẫu hình năng lượng và tương tác trong cộng đồng.
+
+- **Energy Flow**: Dòng chảy năng lượng; cách năng lượng di chuyển trong nhóm.
+- **Interaction Patterns**: Các mẫu hình tương tác; ai nói chuyện với ai, như thế nào.
+- **Group Development**: Phát triển nhóm; các giai đoạn nhóm trải qua.
+- **Social Dynamics**: Động lực xã hội; các lực lượng hình thành hành vi nhóm.
+
+→ **Liên kết:** DYNAMICS (Group Dynamics), AMPLIFICATION (Community Energy).
+
+---
+
+### **4. Learning & Knowledge Communities - Cộng Đồng Học Tập & Tri Thức**
+
+#### **17. Peer Learning & Communities of Practice** - Học Tập Ngang Hàng & Cộng Đồng Thực Hành
+
+Học hỏi từ và với những người đồng nghiệp trong một cộng đồng có thực hành chung.
+
+- **Shared Expertise**: Chia sẻ chuyên môn; mọi người đều có điều gì đó để đóng góp.
+- **Legitimate Peripheral Participation**: Tham gia ngoại vi hợp pháp; người mới tham gia ở rìa và dần di chuyển vào trung tâm.
+- **Situated Learning**: Học tập trong tình huống; học bằng cách làm trong ngữ cảnh thực.
+- **Knowledge Exchange**: Trao đổi tri thức; dòng chảy hai chiều của thông tin.
+
+→ **Liên kết:** OPERATIONS (Learning Systems), AMPLIFICATION (Network Learning).
+
+---
+
+#### **18. Knowledge Commons** - Tri Thức Chung
 
 Các hệ thống nơi tri thức được chia sẻ tự do và cộng tác được xây dựng.
 
@@ -18464,180 +18493,7 @@ Các hệ thống nơi tri thức được chia sẻ tự do và cộng tác đ�
 
 ---
 
-#### **17. Agile & Scrum** - Linh Hoạt & Scrum
-
-Các phương pháp phát triển lặp lại, gia tăng, tập trung vào cộng tác và phản hồi.
-
-- **Iterative Development**: Phát triển lặp lại; làm việc theo chu kỳ ngắn.
-- **Continuous Feedback**: Phản hồi liên tục; điều chỉnh dựa trên kết quả.
-- **Self-Organizing Teams**: Các nhóm tự tổ chức.
-- **Adaptive Planning**: Lập kế hoạch thích ứng; linh hoạt với thay đổi.
-
-→ **Liên kết:** OPERATIONS (Agile Methodology), VALIDATION (Iterative Testing).
-
----
-
-#### **18. Appreciative Inquiry** - Khám Phá Đánh Giá Cao
-
-Một phương pháp thay đổi tổ chức tập trung vào những gì đang hoạt động tốt.
-
-- **Strengths-Based Approach**: Phương pháp dựa trên điểm mạnh.
-- **Positive Core**: Cốt lõi tích cực; khai thác những gì tốt nhất.
-- **Generative Questions**: Các câu hỏi tạo sinh; câu hỏi mở ra khả năng.
-- **Co-Constructing the Future**: Đồng xây dựng tương lai; tạo ra tầm nhìn chung.
-
-→ **Liên kết:** CREATION (Positive Psychology), DYNAMICS (Organizational Development).
-
----
-
-#### **19. Sociocracy & Consent Decision-Making** - Xã Hội Học & Ra Quyết Định Bằng Đồng Thuận
-
-Hệ thống quản trị dựa trên sự đồng thuận (không có phản đối nghiêm trọng) thay vì đa số.
-
-- **Consent vs. Consensus**: Đồng thuận (không phản đối) khác với sự nhất trí (tất cả đồng ý).
-- **Objection-Based Decision-Making**: Ra quyết định dựa trên phản đối; chỉ cần lý do chính đáng.
-- **Circle Structure**: Cấu trúc vòng tròn; các nhóm bán tự trị liên kết.
-- **Double-Linking**: Liên kết kép; đại diện từ mỗi vòng tròn tham gia vòng tròn khác.
-
-→ **Liên kết:** NAVIGATION (Governance), VALIDATION (Consent Validation).
-
----
-
-#### **20. Wisdom Councils** - Hội Đồng Trí Tuệ
-
-Các nhóm tạm thời được triệu tập để cung cấp trí tuệ tập thể về các vấn đề quan trọng.
-
-- **Diverse Representation**: Đại diện đa dạng từ các phần khác nhau của tổ chức/cộng đồng.
-- **Deep Dialogue**: Đối thoại sâu sắc; khám phá các vấn đề một cách toàn diện.
-- **Collective Wisdom Emergence**: Trí tuệ tập thể đột sinh từ cuộc trò chuyện.
-- **Recommendations to Leadership**: Đưa ra khuyến nghị cho lãnh đạo hoặc cộng đồng.
-
-→ **Liên kết:** TRANSCENDENCE (Wisdom Crystallization), VALIDATION (Expert Panels).
-
----
-
-#### **21. Relational Coordination** - Phối Hợp Quan Hệ
-
-Phối hợp công việc thông qua các mối quan hệ chất lượng cao được đặc trưng bởi giao tiếp thường xuyên, kịp thời, chính xác và giải quyết vấn đề.
-
-- **High-Quality Relationships**: Các mối quan hệ chất lượng cao là nền tảng.
-- **Shared Goals**: Mục tiêu chung; mọi người làm việc hướng tới cùng một kết quả.
-- **Shared Knowledge**: Tri thức chung; hiểu biết lẫn nhau về công việc.
-- **Mutual Respect**: Tôn trọng lẫn nhau và vai trò của nhau.
-
-→ **Liên kết:** OPERATIONS (Coordination), AMPLIFICATION (Network Dynamics).
-
-### **Nhóm Collective Mind - Tâm Trí Tập Thể (8 mục mới)**
-
-#### **22. Collective Wisdom** - Trí Tuệ Tập Thể
-
-Sự xuất hiện của trí tuệ - bao gồm cả chiều sâu đạo đức, reflection và wisdom - vượt qua bất kỳ cá nhân nào từ một nhóm người. Khác với swarm intelligence trong tự nhiên (FOUNDATIONS #36), đây là về WISDOM - không chỉ intelligence - đòi hỏi consciousness và ethical reflection.
-
-- **Emergent Intelligence**: Trí tuệ đột sinh; nhóm thông minh hơn cá nhân
-- **Transcendent Understanding**: Hiểu biết vượt thoát; wisdom domain
-- **Group Gnosis**: Tri thức nhóm; insight sâu sắc từ tập thể
-- **Wisdom Circle**: Vòng tròn trí tuệ; sacred space cho wisdom emergence
-
-→ **Liên kết nội bộ:** TRANSCENDENCE (Wisdom Crystallization)
-→ **Gốc nguyên lý:** FOUNDATIONS #36 (Swarm Intelligence - natural principle)
-→ **Công cụ thực hành:** COLLABORATION (Wisdom Councils)
-
----
-
-#### **23. Collective Intelligence (System)** - Trí Tuệ Tập Thể (Hệ Thống)
-
-Khả năng giải quyết vấn đề và ra quyết định của nhóm.
-
-- **Distributed Problem-Solving**: Giải quyết vấn đề phân tán; chia nhỏ và xử lý song song.
-- **Synergistic Thinking**: Tư duy hiệp lực; kết hợp quan điểm để tạo giải pháp tốt hơn.
-- **Collective Decision-Making**: Ra quyết định tập thể; sử dụng trí tuệ của nhóm.
-- **Group Intelligence Quotient**: Chỉ số thông minh nhóm; khả năng tập thể.
-
-→ **Liên kết:** AMPLIFICATION (Collective Intelligence), OPERATIONS (Decision Frameworks).
-
----
-
-#### **24. Swarm Intelligence Integration** - Tích Hợp Trí Tuệ Bầy Đàn
-
-Áp dụng các nguyên tắc từ hành vi bầy đàn vào tổ chức con người.
-
-- **Decentralized Coordination**: Phối hợp phi tập trung; không có người chỉ huy trung tâm.
-- **Self-Organization**: Tự tổ chức; trật tự đột sinh từ các quy tắc đơn giản.
-- **Adaptive Behavior**: Hành vi thích ứng; nhóm thích ứng nhanh với thay đổi.
-- **Emergent Patterns**: Các mẫu hình đột sinh; hành vi phức tạp từ tương tác đơn giản.
-
-→ **Liên kết:** COLLABORATION (Swarm Intelligence), DYNAMICS (Self-Organization).
-
----
-
-#### **25. Hive Mind Optimization** - Tối Ưu Hóa Tâm Trí Tổ Ong
-
-Tạo ra trạng thái tâm trí thống nhất trong nhóm.
-
-- **Unified Processing**: Xử lý thống nhất; nhóm hoạt động như một tâm trí.
-- **Distributed Awareness**: Nhận thức phân tán; mọi người nhận thức về tổng thể.
-- **Collective Consciousness**: Ý thức tập thể; cảm giác là một phần của tổng thể lớn hơn.
-- **Hive Mentality**: Tư duy tổ ong; sự gắn kết và phối hợp cao.
-
-→ **Liên kết:** TRANSCENDENCE (Collective Consciousness), AMPLIFICATION (Network Synchronization).
-
----
-
-#### **26. Global Brain Interface** - Giao Diện Não Bộ Toàn Cầu
-
-Kết nối con người và máy tính thành một mạng lưới trí tuệ toàn cầu.
-
-- **Planetary Intelligence**: Trí tuệ hành tinh; trí tuệ xuất hiện ở cấp độ toàn cầu.
-- **Networked Consciousness**: Ý thức mạng lưới; kết nối qua công nghệ.
-- **Global Information System**: Hệ thống thông tin toàn cầu; tri thức có thể truy cập mọi nơi.
-- **Collective Neural Network**: Mạng lưới thần kinh tập thể; não người và máy kết nối.
-
-→ **Liên kết:** SYSTEMIC INTEGRATION (Global Brain), AMPLIFICATION (Technology Leverage).
-
----
-
-#### **27. AI Thinking Partners** - Đối Tác Tư Duy AI
-
-Sử dụng trí tuệ nhân tạo như công cụ mở rộng tư duy.
-
-- **Augmented Intelligence**: Trí tuệ tăng cường; AI hỗ trợ tư duy con người.
-- **Human-AI Collaboration**: Cộng tác người-AI; kết hợp điểm mạnh của cả hai.
-- **Cognitive Enhancement**: Nâng cao nhận thức; AI mở rộng khả năng tư duy.
-- **Hybrid Thinking**: Tư duy lai; con người và AI cùng tư duy.
-
-→ **Liên kết:** AMPLIFICATION (AI Augmentation), SYSTEMIC INTEGRATION (Technology-Humanity).
-
----
-
-#### **28. Distributed Cognition** - Nhận Thức Phân Tán
-
-Tư duy được phân tán qua nhiều cá nhân, công cụ và môi trường.
-
-- **Extended Cognitive System**: Hệ thống nhận thức mở rộng; không chỉ trong não.
-- **Tool-Mediated Thinking**: Tư duy qua công cụ; công cụ là phần của quá trình tư duy.
-- **Network Cognition**: Nhận thức mạng lưới; tư duy lan tỏa qua mạng lưới.
-- **Collective Processing**: Xử lý tập thể; nhóm cùng xử lý thông tin.
-
-→ **Liên kết:** SYSTEM COHERENCE (Extended Mind Thesis), AMPLIFICATION (Distributed Systems).
-
----
-
-#### **29. Extended Mind Thesis (Collaborative)** - Luận Đề Tâm Trí Mở Rộng (Cộng Tác)
-
-Tâm trí mở rộng không chỉ ra môi trường mà cả vào các tâm trí khác.
-
-- **Boundary Expansion**: Mở rộng ranh giới; tâm trí lan ra ngoài cá nhân.
-- **Shared Mental Space**: Không gian tâm trí chung; nhóm chia sẻ tư duy.
-- **Collective Mind Field**: Trường tâm trí tập thể; năng lượng tư duy chung.
-- **Inter-Mind Connection**: Kết nối giữa các tâm trí; tâm trí kết nối với nhau.
-
-→ **Liên kết:** SYSTEM COHERENCE (Extended Mind), TRANSCENDENCE (Field Consciousness).
-
----
-
-### **Nhóm Community Practice - Thực Hành Cộng Đồng (8 mục mới)**
-
-#### **30. Community of Practice** - Cộng Đồng Thực Hành
+#### **19. Community of Practice** - Cộng Đồng Thực Hành
 
 Nhóm người cùng chia sẻ mối quan tâm và học hỏi lẫn nhau.
 
@@ -18650,7 +18506,319 @@ Nhóm người cùng chia sẻ mối quan tâm và học hỏi lẫn nhau.
 
 ---
 
-#### **31. Community Building [Tạo Sự Gắn Kết]** - Xây Dựng Cộng Đồng [Tạo Sự Gắn Kết]
+#### **20. Community Practice Circles** - Vòng Tròn Thực Hành Cộng Đồng
+
+Các buổi họp thường xuyên của cộng đồng để thực hành chung.
+
+- **Ritual Gathering**: Tập hợp theo nghi thức; tạo không gian thiêng liêng.
+- **Shared Practice**: Thực hành chung; cùng nhau thực hiện.
+- **Mutual Support**: Hỗ trợ lẫn nhau; chăm sóc và khích lệ.
+- **Circle Process**: Quá trình vòng tròn; mọi người đều có tiếng nói.
+
+→ **Liên kết:** COLLABORATION (Circle Process), FOUNDATIONS (Ritual).
+
+---
+
+#### **21. Learning Multiplication** - Nhân Lên Học Tập
+
+Khuếch đại học tập thông qua chia sẻ tri thức.
+
+- **Knowledge Sharing**: Chia sẻ tri thức; học từ nhau.
+- **Collective Learning**: Học tập tập thể; nhóm học nhanh hơn cá nhân.
+- **Exponential Growth**: Tăng trưởng hàm mũ; học tập tăng tốc.
+- **Learning Network**: Mạng lưới học tập; kết nối để học hỏi.
+
+→ **Liên kết:** AMPLIFICATION (Learning), COLLABORATION (Peer Learning).
+
+---
+
+#### **22. Experience Multiplication** - Nhân Lên Trải Nghiệm
+
+Khuếch đại trải nghiệm thông qua chia sẻ.
+
+- **Shared Experience**: Trải nghiệm chia sẻ; cùng nhau trải nghiệm.
+- **Collective Memory**: Ký ức tập thể; những gì nhóm trải qua cùng nhau.
+- **Amplified Impact**: Tác động được khuếch đại; chia sẻ làm tăng giá trị.
+- **Social Amplification**: Khuếch đại xã hội; trải nghiệm lan tỏa.
+
+→ **Liên kết:** AMPLIFICATION (Experience), COLLABORATION (Sharing).
+
+---
+
+### **5. Organizational Governance - Mô Hình Quản Trị Tổ Chức**
+
+#### **23. Holocracy & Self-Management** - Toàn Quyền & Tự Quản
+
+Các hệ thống tổ chức dựa trên phân phối quyền lực và tự quản.
+
+- **Distributed Authority**: Quyền lực phân tán; quyền quyết định được phân bổ.
+- **Role-Based Structure**: Cấu trúc dựa trên vai trò; con người đảm nhận vai trò, không phải chức vụ cố định.
+- **Dynamic Governance**: Quản trị động; cấu trúc tiến hóa theo nhu cầu.
+- **Collective Sense-and-Respond**: Cảm nhận và phản ứng tập thể; nhóm cùng nhau điều chỉnh.
+
+→ **Liên kết:** NAVIGATION (Distributed Leadership), DYNAMICS (Organizational Evolution).
+
+---
+
+#### **24. Distributed Leadership** - Lãnh Đạo Phân Tán
+
+Mô hình lãnh đạo nơi quyền lực và trách nhiệm được chia sẻ và luân chuyển.
+
+- **Leadership as Function, Not Position**: Lãnh đạo như một chức năng, không phải vị trí cố định.
+- **Situational Leadership**: Lãnh đạo tình huống; người có kỹ năng phù hợp lãnh đạo trong ngữ cảnh đó.
+- **Shared Accountability**: Trách nhiệm được chia sẻ.
+- **Empowerment**: Trao quyền; mọi người đều có quyền lực để hành động.
+
+→ **Liên kết:** NAVIGATION (Adaptive Leadership), DYNAMICS (Organizational Evolution).
+
+---
+
+#### **25. Agile & Scrum** - Linh Hoạt & Scrum
+
+Các phương pháp phát triển lặp lại, gia tăng, tập trung vào cộng tác và phản hồi.
+
+- **Iterative Development**: Phát triển lặp lại; làm việc theo chu kỳ ngắn.
+- **Continuous Feedback**: Phản hồi liên tục; điều chỉnh dựa trên kết quả.
+- **Self-Organizing Teams**: Các nhóm tự tổ chức.
+- **Adaptive Planning**: Lập kế hoạch thích ứng; linh hoạt với thay đổi.
+
+→ **Liên kết:** OPERATIONS (Agile Methodology), VALIDATION (Iterative Testing).
+
+---
+
+#### **26. Appreciative Inquiry** - Khám Phá Đánh Giá Cao
+
+Một phương pháp thay đổi tổ chức tập trung vào những gì đang hoạt động tốt.
+
+- **Strengths-Based Approach**: Phương pháp dựa trên điểm mạnh.
+- **Positive Core**: Cốt lõi tích cực; khai thác những gì tốt nhất.
+- **Generative Questions**: Các câu hỏi tạo sinh; câu hỏi mở ra khả năng.
+- **Co-Constructing the Future**: Đồng xây dựng tương lai; tạo ra tầm nhìn chung.
+
+→ **Liên kết:** CREATION (Positive Psychology), DYNAMICS (Organizational Development).
+
+---
+
+#### **27. Sociocracy & Consent Decision-Making** - Xã Hội Học & Ra Quyết Định Bằng Đồng Thuận
+
+Hệ thống quản trị dựa trên sự đồng thuận (không có phản đối nghiêm trọng) thay vì đa số.
+
+- **Consent vs. Consensus**: Đồng thuận (không phản đối) khác với sự nhất trí (tất cả đồng ý).
+- **Objection-Based Decision-Making**: Ra quyết định dựa trên phản đối; chỉ cần lý do chính đáng.
+- **Circle Structure**: Cấu trúc vòng tròn; các nhóm bán tự trị liên kết.
+- **Double-Linking**: Liên kết kép; đại diện từ mỗi vòng tròn tham gia vòng tròn khác.
+
+→ **Liên kết:** NAVIGATION (Governance), VALIDATION (Consent Validation).
+
+---
+
+#### **28. Collective Leadership** - Lãnh Đạo Tập Thể
+
+Lãnh đạo được chia sẻ và phân tán trong nhóm.
+
+- **Shared Responsibility**: Trách nhiệm chung; tất cả đều chịu trách nhiệm.
+- **Distributed Authority**: Quyền lực phân tán; không tập trung ở một người.
+- **Emergent Leadership**: Lãnh đạo đột sinh; ai phù hợp thì lãnh đạo khi đó.
+- **Collective Wisdom**: Trí tuệ tập thể; quyết định từ nhóm.
+
+→ **Liên kết:** COLLABORATION (Distributed Leadership), NAVIGATION (Adaptive Leadership).
+
+---
+
+### **6. Networked Collaboration - Cộng Tác Mạng Lưới**
+
+#### **29. Networked Collaboration** - Cộng Tác Mạng Lưới
+
+Làm việc cùng nhau qua các mạng lưới phân tán, thường được hỗ trợ bởi công nghệ.
+
+- **Asynchronous Collaboration**: Cộng tác không đồng bộ; làm việc cùng nhau không cần cùng một thời gian.
+- **Distributed Teams**: Các nhóm phân tán; làm việc từ các địa điểm khác nhau.
+- **Digital Platforms**: Các nền tảng kỹ thuật số; công cụ hỗ trợ cộng tác từ xa.
+- **Weak Ties Strength**: Sức mạnh của các mối quan hệ yếu; các kết nối lỏng lẻo có thể mang lại thông tin và cơ hội mới.
+
+→ **Liên kết:** AMPLIFICATION (Network Effects), OPERATIONS (Technology).
+
+---
+
+#### **30. Relational Coordination** - Phối Hợp Quan Hệ
+
+Phối hợp công việc thông qua các mối quan hệ chất lượng cao được đặc trưng bởi giao tiếp thường xuyên, kịp thời, chính xác và giải quyết vấn đề.
+
+- **High-Quality Relationships**: Các mối quan hệ chất lượng cao là nền tảng.
+- **Shared Goals**: Mục tiêu chung; mọi người làm việc hướng tới cùng một kết quả.
+- **Shared Knowledge**: Tri thức chung; hiểu biết lẫn nhau về công việc.
+- **Mutual Respect**: Tôn trọng lẫn nhau và vai trò của nhau.
+
+→ **Liên kết:** OPERATIONS (Coordination), AMPLIFICATION (Network Dynamics).
+
+---
+
+#### **31. Partnership Leverage** - Tận Dụng Đối Tác
+
+Khuếch đại tác động thông qua quan hệ đối tác chiến lược.
+
+- **Strategic Alliance**: Liên minh chiến lược; hợp tác để đạt mục tiêu chung.
+- **Mutual Amplification**: Khuếch đại lẫn nhau; cả hai đều mạnh hơn.
+- **Complementary Strengths**: Điểm mạnh bổ sung; mỗi bên đóng góp điều riêng biệt.
+- **Win-Win Partnership**: Đối tác đôi bên cùng có lợi; cả hai đều hưởng lợi.
+
+→ **Liên kết:** AMPLIFICATION (Partnership), NAVIGATION (Strategic Alliance).
+
+---
+
+#### **32. Ecosystem Orchestration** - Dàn Dựng Hệ Sinh Thái
+
+Phối hợp một mạng lưới phức tạp của các bên liên quan.
+
+- **Systems Coordination**: Phối hợp hệ thống; điều phối nhiều thành phần.
+- **Multi-Party Alignment**: Thẳng hàng nhiều bên; tất cả hướng cùng một hướng.
+- **Ecosystem Health**: Sức khỏe hệ sinh thái; tất cả các phần đều thịnh vượng.
+- **Holistic Management**: Quản lý toàn diện; xem xét toàn bộ hệ sinh thái.
+
+→ **Liên kết:** NAVIGATION (Ecosystem Navigation), FOUNDATIONS (Living Systems).
+
+---
+
+#### **33. Collaborative Integration** - Tích Hợp Cộng Tác
+
+Quá trình tích hợp thông qua cộng tác.
+
+- **Co-Creation Synthesis**: Tổng hợp đồng sáng tạo; cùng nhau tạo ra cái mới.
+- **Collective Emergence**: Đột sinh tập thể; cái mới xuất hiện từ cộng tác.
+- **Synergistic Integration**: Tích hợp hiệp lực; tổng hợp tạo ra giá trị lớn hơn.
+- **Collaborative Wholeness**: Toàn vẹn cộng tác; sự hoàn chỉnh từ làm việc cùng nhau.
+
+→ **Liên kết:** COLLABORATION (Co-Creation), KNOWLEDGE SYNTHESIS (Synthesis).
+
+---
+
+### **7. Collective & Distributed Intelligence - Trí Tuệ Tập Thể & Nhận Thức Phân Tán**
+
+#### **34. Swarm Intelligence - Trí Tuệ Bầy Đàn [Trong Cộng Tác Con Người]**
+
+Áp dụng các nguyên tắc từ hành vi bầy đàn tự nhiên vào TỔ CHỨC CON NGƯỜI và cộng tác nhóm. Khác với nguyên lý tự nhiên ở DYNAMICS, đây là về THỰC HÀNH - làm thế nào để con người cộng tác như một bầy đàn thông minh.
+
+- **Decentralized Coordination**: Không có CEO bầy đàn - MÔ HÌNH tổ chức
+- **Simple Rules, Complex Behavior**: Quy tắc đơn giản → hành vi phức tạp - NGUYÊN TẮC thiết kế
+- **Stigmergy**: Phối hợp qua môi trường (wiki, tools) - CÔNG CỤ cộng tác
+- **Emergent Intelligence**: Nhóm thông minh hơn cá nhân - MỤC TIÊU cuối cùng
+
+→ **Liên kết nội bộ:** INTEGRATION (Collective Intelligence), COLLABORATION (Networked)
+→ **Gốc lý thuyết:** DYNAMICS #26 (Swarm Intelligence - hiện tượng tự nhiên)
+→ **Thuật toán:** OPERATIONS (Swarm Algorithms - nếu có)
+→ **Khuếch đại:** AMPLIFICATION #43 (scale up trí tuệ tập thể)
+
+📌 **TIÊU ĐIỂM:** ỨNG DỤNG nguyên tắc bầy đàn vào tổ chức và cộng tác
+
+---
+
+#### **35. Collective Intelligence (System)** - Trí Tuệ Tập Thể (Hệ Thống)
+
+Khả năng giải quyết vấn đề và ra quyết định của nhóm.
+
+- **Distributed Problem-Solving**: Giải quyết vấn đề phân tán; chia nhỏ và xử lý song song.
+- **Synergistic Thinking**: Tư duy hiệp lực; kết hợp quan điểm để tạo giải pháp tốt hơn.
+- **Collective Decision-Making**: Ra quyết định tập thể; sử dụng trí tuệ của nhóm.
+- **Group Intelligence Quotient**: Chỉ số thông minh nhóm; khả năng tập thể.
+
+→ **Liên kết:** AMPLIFICATION (Collective Intelligence), OPERATIONS (Decision Frameworks).
+
+---
+
+#### **36. Swarm Intelligence Integration** - Tích Hợp Trí Tuệ Bầy Đàn
+
+Áp dụng các nguyên tắc từ hành vi bầy đàn vào tổ chức con người.
+
+- **Decentralized Coordination**: Phối hợp phi tập trung; không có người chỉ huy trung tâm.
+- **Self-Organization**: Tự tổ chức; trật tự đột sinh từ các quy tắc đơn giản.
+- **Adaptive Behavior**: Hành vi thích ứng; nhóm thích ứng nhanh với thay đổi.
+- **Emergent Patterns**: Các mẫu hình đột sinh; hành vi phức tạp từ tương tác đơn giản.
+
+→ **Liên kết:** COLLABORATION (Swarm Intelligence), DYNAMICS (Self-Organization).
+
+---
+
+#### **37. Hive Mind Optimization** - Tối Ưu Hóa Tâm Trí Tổ Ong
+
+Tạo ra trạng thái tâm trí thống nhất trong nhóm.
+
+- **Unified Processing**: Xử lý thống nhất; nhóm hoạt động như một tâm trí.
+- **Distributed Awareness**: Nhận thức phân tán; mọi người nhận thức về tổng thể.
+- **Collective Consciousness**: Ý thức tập thể; cảm giác là một phần của tổng thể lớn hơn.
+- **Hive Mentality**: Tư duy tổ ong; sự gắn kết và phối hợp cao.
+
+→ **Liên kết:** TRANSCENDENCE (Collective Consciousness), AMPLIFICATION (Network Synchronization).
+
+---
+
+#### **38. Global Brain Interface** - Giao Diện Não Bộ Toàn Cầu
+
+Kết nối con người và máy tính thành một mạng lưới trí tuệ toàn cầu.
+
+- **Planetary Intelligence**: Trí tuệ hành tinh; trí tuệ xuất hiện ở cấp độ toàn cầu.
+- **Networked Consciousness**: Ý thức mạng lưới; kết nối qua công nghệ.
+- **Global Information System**: Hệ thống thông tin toàn cầu; tri thức có thể truy cập mọi nơi.
+- **Collective Neural Network**: Mạng lưới thần kinh tập thể; não người và máy kết nối.
+
+→ **Liên kết:** SYSTEMIC INTEGRATION (Global Brain), AMPLIFICATION (Technology Leverage).
+
+---
+
+#### **39. AI Thinking Partners** - Đối Tác Tư Duy AI
+
+Sử dụng trí tuệ nhân tạo như công cụ mở rộng tư duy.
+
+- **Augmented Intelligence**: Trí tuệ tăng cường; AI hỗ trợ tư duy con người.
+- **Human-AI Collaboration**: Cộng tác người-AI; kết hợp điểm mạnh của cả hai.
+- **Cognitive Enhancement**: Nâng cao nhận thức; AI mở rộng khả năng tư duy.
+- **Hybrid Thinking**: Tư duy lai; con người và AI cùng tư duy.
+
+→ **Liên kết:** AMPLIFICATION (AI Augmentation), SYSTEMIC INTEGRATION (Technology-Humanity).
+
+---
+
+#### **40. Distributed Cognition** - Nhận Thức Phân Tán
+
+Tư duy được phân tán qua nhiều cá nhân, công cụ và môi trường.
+
+- **Extended Cognitive System**: Hệ thống nhận thức mở rộng; không chỉ trong não.
+- **Tool-Mediated Thinking**: Tư duy qua công cụ; công cụ là phần của quá trình tư duy.
+- **Network Cognition**: Nhận thức mạng lưới; tư duy lan tỏa qua mạng lưới.
+- **Collective Processing**: Xử lý tập thể; nhóm cùng xử lý thông tin.
+
+→ **Liên kết:** SYSTEM COHERENCE (Extended Mind Thesis), AMPLIFICATION (Distributed Systems).
+
+---
+
+#### **41. Extended Mind Thesis (Collaborative)** - Luận Đề Tâm Trí Mở Rộng (Cộng Tác)
+
+Tâm trí mở rộng không chỉ ra môi trường mà cả vào các tâm trí khác.
+
+- **Boundary Expansion**: Mở rộng ranh giới; tâm trí lan ra ngoài cá nhân.
+- **Shared Mental Space**: Không gian tâm trí chung; nhóm chia sẻ tư duy.
+- **Collective Mind Field**: Trường tâm trí tập thể; năng lượng tư duy chung.
+- **Inter-Mind Connection**: Kết nối giữa các tâm trí; tâm trí kết nối với nhau.
+
+→ **Liên kết:** SYSTEM COHERENCE (Extended Mind), TRANSCENDENCE (Field Consciousness).
+
+---
+
+#### **42. Collective Intelligence Taps** - Vòi Trí Tuệ Tập Thể
+
+Công cụ và kỹ thuật để truy cập trí tuệ tập thể.
+
+- **Intelligence Extraction**: Chiết xuất trí tuệ; lấy ra hiểu biết từ nhóm.
+- **Group Mind Access**: Truy cập tâm trí nhóm; kết nối với trí tuệ tập thể.
+- **Wisdom Channels**: Các kênh trí tuệ; con đường để trí tuệ chảy.
+- **Collective Insight**: Hiểu biết tập thể; những gì nhóm biết cùng nhau.
+
+→ **Liên kết:** AMPLIFICATION (Intelligence Access), META-COGNITION (Group Mind).
+
+---
+
+### **8. Community Building & Social Cohesion - Xây Dựng Cộng Đồng & Gắn Kết Xã Hội**
+
+#### **43. Community Building [Tạo Sự Gắn Kết]** - Xây Dựng Cộng Đồng [Tạo Sự Gắn Kết]
 
 Nghệ thuật tạo ra và nuôi dưỡng cộng đồng gắn kết - nơi mọi người cảm thấy THUỘC VỀ, được CHÀO ĐÓN và KẾT NỐI sâu sắc với nhau. Khác với cách tiếp cận tăng trưởng ở AMPLIFICATION, đây là về CHẤT LƯỢNG quan hệ và không gian tâm lý an toàn.
 
@@ -18665,46 +18833,7 @@ Nghệ thuật tạo ra và nuôi dưỡng cộng đồng gắn kết - nơi m�
 
 ---
 
-#### **32. Community Dynamics** - Động Lực Cộng Đồng
-
-Các mẫu hình năng lượng và tương tác trong cộng đồng.
-
-- **Energy Flow**: Dòng chảy năng lượng; cách năng lượng di chuyển trong nhóm.
-- **Interaction Patterns**: Các mẫu hình tương tác; ai nói chuyện với ai, như thế nào.
-- **Group Development**: Phát triển nhóm; các giai đoạn nhóm trải qua.
-- **Social Dynamics**: Động lực xã hội; các lực lượng hình thành hành vi nhóm.
-
-→ **Liên kết:** DYNAMICS (Group Dynamics), AMPLIFICATION (Community Energy).
-
----
-
-#### **33. Community Practice Circles** - Vòng Tròn Thực Hành Cộng Đồng
-
-Các buổi họp thường xuyên của cộng đồng để thực hành chung.
-
-- **Ritual Gathering**: Tập hợp theo nghi thức; tạo không gian thiêng liêng.
-- **Shared Practice**: Thực hành chung; cùng nhau thực hiện.
-- **Mutual Support**: Hỗ trợ lẫn nhau; chăm sóc và khích lệ.
-- **Circle Process**: Quá trình vòng tròn; mọi người đều có tiếng nói.
-
-→ **Liên kết:** COLLABORATION (Circle Process), FOUNDATIONS (Ritual).
-
----
-
-#### **34. Dialogue Integration** - Tích Hợp Đối Thoại
-
-Sử dụng đối thoại sâu sắc để tích hợp quan điểm.
-
-- **Deep Conversation**: Cuộc trò chuyện sâu sắc; vượt qua bề mặt.
-- **Meaning Synthesis**: Tổng hợp ý nghĩa; tạo hiểu biết chung từ đối thoại.
-- **Collective Sensemaking**: Cùng tạo ý nghĩa; nhóm cùng hiểu.
-- **Integration through Dialogue**: Tích hợp qua đối thoại; gắn kết qua giao tiếp.
-
-→ **Liên kết:** COLLABORATION (Dialogue), COMMUNICATION (Meaning-Making).
-
----
-
-#### **35. Cultural Integration (Community)** - Tích Hợp Văn Hóa (Cộng Đồng)
+#### **44. Cultural Integration (Community)** - Tích Hợp Văn Hóa (Cộng Đồng)
 
 Hòa nhập các yếu tố văn hóa khác nhau trong cộng đồng.
 
@@ -18717,7 +18846,7 @@ Hòa nhập các yếu tố văn hóa khác nhau trong cộng đồng.
 
 ---
 
-#### **36. Social Cohesion** - Gắn Kết Xã Hội
+#### **45. Social Cohesion** - Gắn Kết Xã Hội
 
 Sự gắn bó và kết nối trong cộng đồng hoặc xã hội.
 
@@ -18730,7 +18859,7 @@ Sự gắn bó và kết nối trong cộng đồng hoặc xã hội.
 
 ---
 
-#### **37. Restorative Justice Circles** - Vòng Tròn Công Lý Phục Hồi
+#### **46. Restorative Justice Circles** - Vòng Tròn Công Lý Phục Hồi
 
 Quá trình nhóm để chữa lành và hòa giải sau xung đột.
 
@@ -18743,301 +18872,20 @@ Quá trình nhóm để chữa lành và hòa giải sau xung đột.
 
 ---
 
-### **Nhóm Relational Field - Trường Quan Hệ (7 mục mới)**
+#### **47. Community Integration Protocol** - Giao Thức Tích Hợp Cộng Đồng
 
-#### **38. Interpersonal Integration** - Tích Hợp Liên Cá Nhân
+Quy trình có hệ thống để tích hợp thành viên vào cộng đồng.
 
-Hòa hợp trong các mối quan hệ giữa các cá nhân.
+- **Onboarding Process**: Quá trình giới thiệu; đưa thành viên mới vào.
+- **Inclusion Practice**: Thực hành bao hàm; đảm bảo mọi người được chấp nhận.
+- **Belonging Creation**: Tạo cảm giác thuộc về; cảm thấy là một phần.
+- **Integration Support**: Hỗ trợ tích hợp; giúp đỡ quá trình hòa nhập.
 
-- **Relationship Harmony**: Hài hòa mối quan hệ; các mối quan hệ cân bằng và khỏe mạnh.
-- **Individual-Connection Balance**: Cân bằng cá nhân-kết nối; duy trì bản thể trong khi kết nối.
-- **Empathic Bonding**: Gắn kết đồng cảm; kết nối qua hiểu biết lẫn nhau.
-- **Relational Wholeness**: Toàn vẹn trong quan hệ; mối quan hệ hoàn chỉnh.
-
-→ **Liên kết:** PERSONAL INTEGRATION (Work-Life Integration), DYNAMICS (Relational Dynamics).
+→ **Liên kết:** COLLABORATION (Community Building), OPERATIONS (Onboarding).
 
 ---
 
-#### **39. Family System Integration** - Tích Hợp Hệ Thống Gia Đình
-
-Chữa lành và hài hòa hóa các động lực gia đình.
-
-- **Family Dynamics**: Động lực gia đình; các mẫu hình tương tác.
-- **Generational Patterns**: Các mẫu hình xuyên thế hệ; thừa kế từ tổ tiên.
-- **Family Healing**: Chữa lành gia đình; giải quyết vết thương tập thể.
-- **Systemic Balance**: Cân bằng hệ thống; tất cả các thành viên hài hòa.
-
-→ **Liên kết:** PERSONAL INTEGRATION (Ancestral Integration), OPERATIONS (Systems Therapy).
-
----
-
-#### **40. Global Integration** - Tích Hợp Toàn Cầu
-
-Ý thức và kết nối ở cấp độ hành tinh.
-
-- **Planetary Consciousness**: Ý thức hành tinh; nhận thức về tổng thể toàn cầu.
-- **Global Community**: Cộng đồng toàn cầu; nhân loại như một gia đình.
-- **Worldwide Unity**: Thống nhất toàn thế giới; vượt qua ranh giới quốc gia.
-- **Earth Citizenship**: Công dân Trái Đất; bản sắc toàn cầu.
-
-→ **Liên kết:** SYSTEMIC INTEGRATION (Global Integration), TRANSCENDENCE (Unity Consciousness).
-
----
-
-#### **41. Family & Ancestral Healing** - Chữa Lành Gia Đình & Tổ Tiên
-
-Chữa lành các vết thương xuyên thế hệ.
-
-- **Lineage Healing**: Chữa lành dòng dõi; giải phóng các mẫu hình cũ.
-- **Ancestral Trauma Release**: Giải phóng chấn thương tổ tiên; phá vỡ chu kỳ.
-- **Generational Restoration**: Phục hồi xuyên thế hệ; chữa lành cho quá khứ và tương lai.
-- **Family Constellation**: Xếp đặt gia đình; phương pháp của Bert Hellinger.
-
-→ **Liên kết:** PERSONAL INTEGRATION (Ancestral Integration), DYNAMICS (Healing).
-
----
-
-#### **42. Sacred Relationship Work** - Công Việc Quan Hệ Thiêng Liêng
-
-Xem mối quan hệ như con đường tâm linh.
-
-- **Relationship as Practice**: Quan hệ như thực hành; tu luyện qua quan hệ.
-- **Sacred Union**: Hợp nhất thiêng liêng; mối quan hệ như cổng vào thần thánh.
-- **Spiritual Partnership**: Đối tác tâm linh; hỗ trợ nhau phát triển tâm linh.
-- **Transformative Intimacy**: Gần gũi chuyển hóa; thân mật sâu sắc biến đổi.
-
-→ **Liên kết:** TRANSCENDENCE (Spiritual Practice), PERSONAL INTEGRATION (Relationship).
-
----
-
-#### **43. Sacred Relationship Practice** - Thực Hành Quan Hệ Thiêng Liêng
-
-Các thực hành cụ thể để nuôi dưỡng quan hệ thiêng liêng.
-
-- **Ritual Connection**: Kết nối qua nghi thức; các nghi lễ chung.
-- **Devotional Practice**: Thực hành tận hiến; cống hiến cho nhau.
-- **Sacred Intimacy**: Gần gũi thiêng liêng; kết nối sâu sắc và thánh thiện.
-- **Conscious Relating**: Quan hệ có ý thức; hiện diện và tỉnh thức trong quan hệ.
-
-→ **Liên kết:** FOUNDATIONS (Sacred Practices), PERSONAL INTEGRATION (Spiritual-Mundane).
-
----
-
-#### **44. Relational Field** - Trường Quan Hệ
-
-Không gian năng lượng giữa các người trong quan hệ.
-
-- **Between-Space**: Không gian ở giữa; điều gì xuất hiện trong khoảng trống giữa hai người.
-- **Field Energy**: Năng lượng trường; năng lượng tập thể trong quan hệ.
-- **Co-Created Space**: Không gian đồng tạo; cả hai cùng tạo ra.
-- **Resonance Field**: Trường cộng hưởng; năng lượng dao động cùng nhau.
-
-→ **Liên kết:** SYSTEM COHERENCE (Field Coherence), TRANSCENDENCE (Field Effects).
-
----
-
-### **Nhóm Collaborative Creation - Sáng Tạo Cộng Tác (7 mục mới)**
-
-#### **45. Collaborative Integration** - Tích Hợp Cộng Tác
-
-Quá trình tích hợp thông qua cộng tác.
-
-- **Co-Creation Synthesis**: Tổng hợp đồng sáng tạo; cùng nhau tạo ra cái mới.
-- **Collective Emergence**: Đột sinh tập thể; cái mới xuất hiện từ cộng tác.
-- **Synergistic Integration**: Tích hợp hiệp lực; tổng hợp tạo ra giá trị lớn hơn.
-- **Collaborative Wholeness**: Toàn vẹn cộng tác; sự hoàn chỉnh từ làm việc cùng nhau.
-
-→ **Liên kết:** COLLABORATION (Co-Creation), KNOWLEDGE SYNTHESIS (Synthesis).
-
----
-
-#### **46. Team Alchemy** - Giả Kim Nhóm
-
-Chuyển hóa một nhóm thành một đơn vị có hiệu suất cao.
-
-- **Team Transformation**: Chuyển hóa nhóm; từ nhóm thành đội.
-- **Synergy Creation**: Tạo ra hiệp lực; tổng thể lớn hơn tổng các phần.
-- **Collective Magic**: Ma thuật tập thể; những gì xảy ra khi nhóm hoạt động tối ưu.
-- **High-Performance State**: Trạng thái hiệu suất cao; dòng chảy của nhóm.
-
-→ **Liên kết:** COLLABORATION (Team Synergy), TRANSCENDENCE (Transformation).
-
----
-
-#### **47. Partnership Leverage** - Tận Dụng Đối Tác
-
-Khuếch đại tác động thông qua quan hệ đối tác chiến lược.
-
-- **Strategic Alliance**: Liên minh chiến lược; hợp tác để đạt mục tiêu chung.
-- **Mutual Amplification**: Khuếch đại lẫn nhau; cả hai đều mạnh hơn.
-- **Complementary Strengths**: Điểm mạnh bổ sung; mỗi bên đóng góp điều riêng biệt.
-- **Win-Win Partnership**: Đối tác đôi bên cùng có lợi; cả hai đều hưởng lợi.
-
-→ **Liên kết:** AMPLIFICATION (Partnership), NAVIGATION (Strategic Alliance).
-
----
-
-#### **48. Ecosystem Orchestration** - Dàn Dựng Hệ Sinh Thái
-
-Phối hợp một mạng lưới phức tạp của các bên liên quan.
-
-- **Systems Coordination**: Phối hợp hệ thống; điều phối nhiều thành phần.
-- **Multi-Party Alignment**: Thẳng hàng nhiều bên; tất cả hướng cùng một hướng.
-- **Ecosystem Health**: Sức khỏe hệ sinh thái; tất cả các phần đều thịnh vượng.
-- **Holistic Management**: Quản lý toàn diện; xem xét toàn bộ hệ sinh thái.
-
-→ **Liên kết:** NAVIGATION (Ecosystem Navigation), FOUNDATIONS (Living Systems).
-
----
-
-#### **49. Collective Leadership** - Lãnh Đạo Tập Thể
-
-Lãnh đạo được chia sẻ và phân tán trong nhóm.
-
-- **Shared Responsibility**: Trách nhiệm chung; tất cả đều chịu trách nhiệm.
-- **Distributed Authority**: Quyền lực phân tán; không tập trung ở một người.
-- **Emergent Leadership**: Lãnh đạo đột sinh; ai phù hợp thì lãnh đạo khi đó.
-- **Collective Wisdom**: Trí tuệ tập thể; quyết định từ nhóm.
-
-→ **Liên kết:** COLLABORATION (Distributed Leadership), NAVIGATION (Adaptive Leadership).
-
----
-
-#### **50. Group Decision Making** - Ra Quyết Định Nhóm
-
-Quá trình nhóm đi đến quyết định chung.
-
-- **Consensus Building**: Xây dựng đồng thuận; tìm điểm chung.
-- **Participatory Process**: Quá trình tham gia; tất cả đều có tiếng nói.
-- **Wisdom Harvesting**: Thu hoạch trí tuệ; lấy hiểu biết từ tất cả.
-- **Collective Choice**: Lựa chọn tập thể; quyết định cùng nhau.
-
-→ **Liên kết:** COLLABORATION (Group Decision Making), OPERATIONS (Decision Frameworks).
-
----
-
-#### **51. Group Process Work** - Công Việc Quá Trình Nhóm
-
-Làm việc với động lực và quá trình của nhóm.
-
-- **Process Awareness**: Nhận thức về quá trình; chú ý cách nhóm làm việc.
-- **Group Dynamics Facilitation**: Tạo điều kiện động lực nhóm; hỗ trợ nhóm làm việc tốt.
-- **Conflict Navigation**: Điều hướng xung đột; giúp nhóm vượt qua bất đồng.
-- **Field Work**: Công việc trường; làm việc với năng lượng của nhóm.
-
-→ **Liên kết:** COLLABORATION (Group Process), DYNAMICS (Group Dynamics).
-
----
-
-### **Nhóm Synergistic Value - Giá Trị Hiệp Lực (8 mục mới)**
-
-#### **52. Synergy (Collaborative)** - Hiệp Lực (Cộng Tác)
-
-Sức mạnh tổng hợp khi các phần làm việc cùng nhau.
-
-- **Combined Power**: Sức mạnh kết hợp; 1+1>2.
-- **Emergent Value**: Giá trị đột sinh; giá trị mới xuất hiện từ sự kết hợp.
-- **Multiplication Effect**: Hiệu ứng nhân lên; không cộng mà nhân.
-- **Whole Greater than Sum**: Tổng thể lớn hơn tổng các phần; định nghĩa của hiệp lực.
-
-→ **Liên kết:** COLLABORATION (Team Synergy), AMPLIFICATION (Synergy).
-
----
-
-#### **53. Complementarity (Collaborative)** - Bổ Sung (Cộng Tác)
-
-Các phần khác nhau bổ sung cho nhau để tạo toàn vẹn.
-
-- **Mutual Completion**: Hoàn thiện lẫn nhau; mỗi bên làm đầy chỗ trống của bên kia.
-- **Diversity as Strength**: Đa dạng là sức mạnh; khác biệt tạo ra giá trị.
-- **Balance through Difference**: Cân bằng qua khác biệt; các mặt đối lập cân bằng nhau.
-- **Wholeness from Parts**: Toàn vẹn từ các phần; các phần khác nhau tạo tổng thể.
-
-→ **Liên kết:** FOUNDATIONS (Complementarity), COLLABORATION (Diversity).
-
----
-
-#### **54. Integration Magic** - Ma Thuật Tích Hợp
-
-Sự kỳ diệu xảy ra khi tích hợp đạt đến đỉnh cao.
-
-- **Transformative Synergy**: Hiệp lực chuyển hóa; không chỉ cộng mà biến đổi.
-- **Emergent Wonder**: Kỳ quan đột sinh; điều kỳ diệu xuất hiện.
-- **Alchemical Fusion**: Kết hợp giả kim; chuyển hóa qua tích hợp.
-- **Transcendent Integration**: Tích hợp vượt thoát; đạt đến cấp độ cao hơn.
-
-→ **Liên kết:** TRANSCENDENCE (Alchemy), COLLABORATION (Synergy).
-
----
-
-#### **55. Fusion Dynamics** - Động Lực Kết Hợp
-
-Các lực lượng và quá trình của sự kết hợp.
-
-- **Merging Process**: Quá trình hợp nhất; cách các phần kết hợp.
-- **Integration Forces**: Các lực tích hợp; điều gì thúc đẩy sự hợp nhất.
-- **Unity Creation**: Tạo ra sự thống nhất; từ nhiều thành một.
-- **Fusion Energy**: Năng lượng kết hợp; năng lượng giải phóng khi hợp nhất.
-
-→ **Liên kết:** DYNAMICS (Fusion), SYSTEMIC INTEGRATION (Fusion).
-
----
-
-#### **56. Multi-Stakeholder Value** - Giá Trị Nhiều Bên Liên Quan
-
-Tạo ra giá trị cho tất cả các bên liên quan.
-
-- **Inclusive Value Creation**: Tạo giá trị bao hàm; tất cả đều hưởng lợi.
-- **Shared Prosperity**: Thịnh vượng chung; không chỉ một bên.
-- **Stakeholder Balance**: Cân bằng bên liên quan; công bằng cho tất cả.
-- **Collective Benefit**: Lợi ích tập thể; tốt cho tổng thể.
-
-→ **Liên kết:** NAVIGATION (Stakeholder Management), SYSTEMIC INTEGRATION (Multi-Stakeholder).
-
----
-
-#### **57. Value Chain Innovation** - Đổi Mới Chuỗi Giá Trị
-
-Nâng cấp toàn bộ hệ thống tạo giá trị.
-
-- **System Upgrade**: Nâng cấp hệ thống; cải thiện toàn bộ chuỗi.
-- **End-to-End Optimization**: Tối ưu từ đầu đến cuối; toàn bộ quy trình.
-- **Value Flow Enhancement**: Nâng cao dòng chảy giá trị; giá trị di chuyển tốt hơn.
-- **Ecosystem Value**: Giá trị hệ sinh thái; tạo giá trị cho toàn hệ thống.
-
-→ **Liên kết:** AMPLIFICATION (System Optimization), CREATION (Innovation).
-
----
-
-#### **58. Experience Multiplication** - Nhân Lên Trải Nghiệm
-
-Khuếch đại trải nghiệm thông qua chia sẻ.
-
-- **Shared Experience**: Trải nghiệm chia sẻ; cùng nhau trải nghiệm.
-- **Collective Memory**: Ký ức tập thể; những gì nhóm trải qua cùng nhau.
-- **Amplified Impact**: Tác động được khuếch đại; chia sẻ làm tăng giá trị.
-- **Social Amplification**: Khuếch đại xã hội; trải nghiệm lan tỏa.
-
-→ **Liên kết:** AMPLIFICATION (Experience), COLLABORATION (Sharing).
-
----
-
-#### **59. Learning Multiplication** - Nhân Lên Học Tập
-
-Khuếch đại học tập thông qua chia sẻ tri thức.
-
-- **Knowledge Sharing**: Chia sẻ tri thức; học từ nhau.
-- **Collective Learning**: Học tập tập thể; nhóm học nhanh hơn cá nhân.
-- **Exponential Growth**: Tăng trưởng hàm mũ; học tập tăng tốc.
-- **Learning Network**: Mạng lưới học tập; kết nối để học hỏi.
-
-→ **Liên kết:** AMPLIFICATION (Learning), COLLABORATION (Peer Learning).
-
----
-
-### **Nhóm Protocol & Infrastructure - Giao Thức & Cơ Sở Hạ Tầng (3 mục mới)**
-
-#### **60. Collective Intelligence Protocols** - Giao Thức Trí Tuệ Tập Thể
+#### **48. Collective Intelligence Protocols** - Giao Thức Trí Tuệ Tập Thể
 
 Các phương pháp có cấu trúc để khai thác trí tuệ nhóm.
 
@@ -19050,29 +18898,189 @@ Các phương pháp có cấu trúc để khai thác trí tuệ nhóm.
 
 ---
 
-#### **61. Collective Intelligence Taps** - Vòi Trí Tuệ Tập Thể
+### **9. Relational Field & Sacred Relationships - Trường Quan Hệ & Mối Quan Hệ Thiêng Liêng**
 
-Công cụ và kỹ thuật để truy cập trí tuệ tập thể.
+#### **49. Interpersonal Integration** - Tích Hợp Liên Cá Nhân
 
-- **Intelligence Extraction**: Chiết xuất trí tuệ; lấy ra hiểu biết từ nhóm.
-- **Group Mind Access**: Truy cập tâm trí nhóm; kết nối với trí tuệ tập thể.
-- **Wisdom Channels**: Các kênh trí tuệ; con đường để trí tuệ chảy.
-- **Collective Insight**: Hiểu biết tập thể; những gì nhóm biết cùng nhau.
+Hòa hợp trong các mối quan hệ giữa các cá nhân.
 
-→ **Liên kết:** AMPLIFICATION (Intelligence Access), META-COGNITION (Group Mind).
+- **Relationship Harmony**: Hài hòa mối quan hệ; các mối quan hệ cân bằng và khỏe mạnh.
+- **Individual-Connection Balance**: Cân bằng cá nhân-kết nối; duy trì bản thể trong khi kết nối.
+- **Empathic Bonding**: Gắn kết đồng cảm; kết nối qua hiểu biết lẫn nhau.
+- **Relational Wholeness**: Toàn vẹn trong quan hệ; mối quan hệ hoàn chỉnh.
+
+→ **Liên kết:** PERSONAL INTEGRATION (Work-Life Integration), DYNAMICS (Relational Dynamics).
 
 ---
 
-#### **62. Community Integration Protocol** - Giao Thức Tích Hợp Cộng Đồng
+#### **50. Family System Integration** - Tích Hợp Hệ Thống Gia Đình
 
-Quy trình có hệ thống để tích hợp thành viên vào cộng đồng.
+Chữa lành và hài hòa hóa các động lực gia đình.
 
-- **Onboarding Process**: Quá trình giới thiệu; đưa thành viên mới vào.
-- **Inclusion Practice**: Thực hành bao hàm; đảm bảo mọi người được chấp nhận.
-- **Belonging Creation**: Tạo cảm giác thuộc về; cảm thấy là một phần.
-- **Integration Support**: Hỗ trợ tích hợp; giúp đỡ quá trình hòa nhập.
+- **Family Dynamics**: Động lực gia đình; các mẫu hình tương tác.
+- **Generational Patterns**: Các mẫu hình xuyên thế hệ; thừa kế từ tổ tiên.
+- **Family Healing**: Chữa lành gia đình; giải quyết vết thương tập thể.
+- **Systemic Balance**: Cân bằng hệ thống; tất cả các thành viên hài hòa.
 
-→ **Liên kết:** COLLABORATION (Community Building), OPERATIONS (Onboarding).
+→ **Liên kết:** PERSONAL INTEGRATION (Ancestral Integration), OPERATIONS (Systems Therapy).
+
+---
+
+#### **51. Global Integration** - Tích Hợp Toàn Cầu
+
+Ý thức và kết nối ở cấp độ hành tinh.
+
+- **Planetary Consciousness**: Ý thức hành tinh; nhận thức về tổng thể toàn cầu.
+- **Global Community**: Cộng đồng toàn cầu; nhân loại như một gia đình.
+- **Worldwide Unity**: Thống nhất toàn thế giới; vượt qua ranh giới quốc gia.
+- **Earth Citizenship**: Công dân Trái Đất; bản sắc toàn cầu.
+
+→ **Liên kết:** SYSTEMIC INTEGRATION (Global Integration), TRANSCENDENCE (Unity Consciousness).
+
+---
+
+#### **52. Family & Ancestral Healing** - Chữa Lành Gia Đình & Tổ Tiên
+
+Chữa lành các vết thương xuyên thế hệ.
+
+- **Lineage Healing**: Chữa lành dòng dõi; giải phóng các mẫu hình cũ.
+- **Ancestral Trauma Release**: Giải phóng chấn thương tổ tiên; phá vỡ chu kỳ.
+- **Generational Restoration**: Phục hồi xuyên thế hệ; chữa lành cho quá khứ và tương lai.
+- **Family Constellation**: Xếp đặt gia đình; phương pháp của Bert Hellinger.
+
+→ **Liên kết:** PERSONAL INTEGRATION (Ancestral Integration), DYNAMICS (Healing).
+
+---
+
+#### **53. Sacred Relationship Work** - Công Việc Quan Hệ Thiêng Liêng
+
+Xem mối quan hệ như con đường tâm linh.
+
+- **Relationship as Practice**: Quan hệ như thực hành; tu luyện qua quan hệ.
+- **Sacred Union**: Hợp nhất thiêng liêng; mối quan hệ như cổng vào thần thánh.
+- **Spiritual Partnership**: Đối tác tâm linh; hỗ trợ nhau phát triển tâm linh.
+- **Transformative Intimacy**: Gần gũi chuyển hóa; thân mật sâu sắc biến đổi.
+
+→ **Liên kết:** TRANSCENDENCE (Spiritual Practice), PERSONAL INTEGRATION (Relationship).
+
+---
+
+#### **54. Sacred Relationship Practice** - Thực Hành Quan Hệ Thiêng Liêng
+
+Các thực hành cụ thể để nuôi dưỡng quan hệ thiêng liêng.
+
+- **Ritual Connection**: Kết nối qua nghi thức; các nghi lễ chung.
+- **Devotional Practice**: Thực hành tận hiến; cống hiến cho nhau.
+- **Sacred Intimacy**: Gần gũi thiêng liêng; kết nối sâu sắc và thánh thiện.
+- **Conscious Relating**: Quan hệ có ý thức; hiện diện và tỉnh thức trong quan hệ.
+
+→ **Liên kết:** FOUNDATIONS (Sacred Practices), PERSONAL INTEGRATION (Spiritual-Mundane).
+
+---
+
+#### **55. Relational Field** - Trường Quan Hệ
+
+Không gian năng lượng giữa các người trong quan hệ.
+
+- **Between-Space**: Không gian ở giữa; điều gì xuất hiện trong khoảng trống giữa hai người.
+- **Field Energy**: Năng lượng trường; năng lượng tập thể trong quan hệ.
+- **Co-Created Space**: Không gian đồng tạo; cả hai cùng tạo ra.
+- **Resonance Field**: Trường cộng hưởng; năng lượng dao động cùng nhau.
+
+→ **Liên kết:** SYSTEM COHERENCE (Field Coherence), TRANSCENDENCE (Field Effects).
+
+---
+
+### **10. Synergistic Value Creation - Tạo Giá Trị Hiệp Lực**
+
+#### **56. Group Decision Making** - Ra Quyết Định Nhóm
+
+Quá trình nhóm đi đến quyết định chung.
+
+- **Consensus Building**: Xây dựng đồng thuận; tìm điểm chung.
+- **Participatory Process**: Quá trình tham gia; tất cả đều có tiếng nói.
+- **Wisdom Harvesting**: Thu hoạch trí tuệ; lấy hiểu biết từ tất cả.
+- **Collective Choice**: Lựa chọn tập thể; quyết định cùng nhau.
+
+→ **Liên kết:** COLLABORATION (Group Decision Making), OPERATIONS (Decision Frameworks).
+
+---
+
+#### **57. Synergy (Collaborative)** - Hiệp Lực (Cộng Tác)
+
+Sức mạnh tổng hợp khi các phần làm việc cùng nhau.
+
+- **Combined Power**: Sức mạnh kết hợp; 1+1>2.
+- **Emergent Value**: Giá trị đột sinh; giá trị mới xuất hiện từ sự kết hợp.
+- **Multiplication Effect**: Hiệu ứng nhân lên; không cộng mà nhân.
+- **Whole Greater than Sum**: Tổng thể lớn hơn tổng các phần; định nghĩa của hiệp lực.
+
+→ **Liên kết:** COLLABORATION (Team Synergy), AMPLIFICATION (Synergy).
+
+---
+
+#### **58. Complementarity (Collaborative)** - Bổ Sung (Cộng Tác)
+
+Các phần khác nhau bổ sung cho nhau để tạo toàn vẹn.
+
+- **Mutual Completion**: Hoàn thiện lẫn nhau; mỗi bên làm đầy chỗ trống của bên kia.
+- **Diversity as Strength**: Đa dạng là sức mạnh; khác biệt tạo ra giá trị.
+- **Balance through Difference**: Cân bằng qua khác biệt; các mặt đối lập cân bằng nhau.
+- **Wholeness from Parts**: Toàn vẹn từ các phần; các phần khác nhau tạo tổng thể.
+
+→ **Liên kết:** FOUNDATIONS (Complementarity), COLLABORATION (Diversity).
+
+---
+
+#### **59. Integration Magic** - Ma Thuật Tích Hợp
+
+Sự kỳ diệu xảy ra khi tích hợp đạt đến đỉnh cao.
+
+- **Transformative Synergy**: Hiệp lực chuyển hóa; không chỉ cộng mà biến đổi.
+- **Emergent Wonder**: Kỳ quan đột sinh; điều kỳ diệu xuất hiện.
+- **Alchemical Fusion**: Kết hợp giả kim; chuyển hóa qua tích hợp.
+- **Transcendent Integration**: Tích hợp vượt thoát; đạt đến cấp độ cao hơn.
+
+→ **Liên kết:** TRANSCENDENCE (Alchemy), COLLABORATION (Synergy).
+
+---
+
+#### **60. Fusion Dynamics** - Động Lực Kết Hợp
+
+Các lực lượng và quá trình của sự kết hợp.
+
+- **Merging Process**: Quá trình hợp nhất; cách các phần kết hợp.
+- **Integration Forces**: Các lực tích hợp; điều gì thúc đẩy sự hợp nhất.
+- **Unity Creation**: Tạo ra sự thống nhất; từ nhiều thành một.
+- **Fusion Energy**: Năng lượng kết hợp; năng lượng giải phóng khi hợp nhất.
+
+→ **Liên kết:** DYNAMICS (Fusion), SYSTEMIC INTEGRATION (Fusion).
+
+---
+
+#### **61. Multi-Stakeholder Value** - Giá Trị Nhiều Bên Liên Quan
+
+Tạo ra giá trị cho tất cả các bên liên quan.
+
+- **Inclusive Value Creation**: Tạo giá trị bao hàm; tất cả đều hưởng lợi.
+- **Shared Prosperity**: Thịnh vượng chung; không chỉ một bên.
+- **Stakeholder Balance**: Cân bằng bên liên quan; công bằng cho tất cả.
+- **Collective Benefit**: Lợi ích tập thể; tốt cho tổng thể.
+
+→ **Liên kết:** NAVIGATION (Stakeholder Management), SYSTEMIC INTEGRATION (Multi-Stakeholder).
+
+---
+
+#### **62. Value Chain Innovation** - Đổi Mới Chuỗi Giá Trị
+
+Nâng cấp toàn bộ hệ thống tạo giá trị.
+
+- **System Upgrade**: Nâng cấp hệ thống; cải thiện toàn bộ chuỗi.
+- **End-to-End Optimization**: Tối ưu từ đầu đến cuối; toàn bộ quy trình.
+- **Value Flow Enhancement**: Nâng cao dòng chảy giá trị; giá trị di chuyển tốt hơn.
+- **Ecosystem Value**: Giá trị hệ sinh thái; tạo giá trị cho toàn hệ thống.
+
+→ **Liên kết:** AMPLIFICATION (System Optimization), CREATION (Innovation).
 
 ---
 
