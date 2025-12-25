@@ -16726,7 +16726,7 @@ Biểu đạt trải nghiệm huyền bí thông qua thơ ca và biểu tượng
 
 Chức năng này chứa các thực hành để hợp nhất các khía cạnh khác nhau của bản thể—lý trí, cảm xúc, cơ thể, bóng tối, tâm linh—thành một con người toàn vẹn và hài hòa.
 
-### **Các Mục Nội Dung (20 mục)**
+### **1. Inner Self & Psyche Integration - Tích Hợp Tự Ngã & Tâm Lý (5 mục)**
 
 #### **1. Shadow Integration** - Tích Hợp Bóng Tối
 
@@ -16741,46 +16741,7 @@ Quá trình nhận biết, chấp nhận và tích hợp các khía cạnh bị 
 
 ---
 
-#### **2. Embodied Cognition** - Nhận Thức Hiện Thân
-
-Sự hiểu biết rằng tâm trí không chỉ giới hạn trong não bộ mà còn bao gồm cả cơ thể.
-
-- **Body as Mind**: Xem cơ thể là một phần không thể tách rời của quá trình nhận thức.
-- **Somatic Intelligence**: Trí tuệ của cơ thể; lắng nghe và học hỏi từ các cảm giác và tín hiệu cơ thể.
-- **Gesture & Movement Thinking**: Tư duy thông qua cử chỉ và chuyển động.
-- **Grounded Abstraction**: Neo các khái niệm trừu tượng vào trải nghiệm vật lý cụ thể.
-
-→ **Liên kết:** DYNAMICS (Cognitive Dynamics), NAVIGATION (Intuitive Wayfinding).
-
----
-
-#### **3. Peak Experience Integration** - Tích Hợp Trải Nghiệm Đỉnh
-
-Quá trình chắt lọc và áp dụng những hiểu biết từ các trạng thái ý thức cao vào cuộc sống hàng ngày.
-
-- **Experience Capture**: Ghi lại và phản ánh về các trải nghiệm đỉnh ngay sau khi chúng xảy ra.
-- **Insight Extraction**: Chiết xuất các hiểu biết cốt lõi và bài học từ trải nghiệm.
-- **Behavioral Translation**: Dịch các hiểu biết thành các hành động và thói quen cụ thể.
-- **Integration Rituals**: Tạo ra các nghi thức để neo các trải nghiệm vào cuộc sống hàng ngày.
-
-→ **Liên kết:** TRANSCENDENCE (Peak States), OPERATIONS (Practice & Execution).
-
----
-
-#### **4. Emotional Alchemy** - Giả Kim Cảm Xúc
-
-Khả năng chuyển hóa các cảm xúc khó khăn thành nguồn lực và hiểu biết.
-
-- **Feeling into Emotions**: Cảm nhận đầy đủ các cảm xúc mà không kìm nén hoặc bị cuốn theo.
-- **Transmutation**: Chuyển hóa năng lượng cảm xúc thành hành động sáng tạo hoặc hiểu biết.
-- **Emotional Wisdom**: Học hỏi từ các thông điệp và bài học mà các cảm xúc mang lại.
-- **Compassionate Acceptance**: Chấp nhận các cảm xúc với lòng từ bi, không phán xét.
-
-→ **Liên kết:** DYNAMICS (Emotional Intelligence), TRANSCENDENCE (Transformation).
-
----
-
-#### **5. Inner Dialogue Harmonization** - Hài Hòa Đối Thoại Nội Tâm
+#### **2. Inner Dialogue Harmonization** - Hài Hòa Đối Thoại Nội Tâm
 
 Quá trình nhận diện, hiểu và hài hòa các "tiếng nói" khác nhau bên trong bản thân.
 
@@ -16793,33 +16754,7 @@ Quá trình nhận diện, hiểu và hài hòa các "tiếng nói" khác nhau b
 
 ---
 
-#### **6. Masculine-Feminine Integration** - Tích Hợp Nam Tính-Nữ Tính
-
-Cân bằng và hợp nhất các năng lượng nam tính và nữ tính bên trong mỗi người.
-
-- **Recognizing Both Energies**: Nhận diện cả hai năng lượng bên trong, không phụ thuộc vào giới tính sinh học.
-- **Balancing Action & Receptivity**: Cân bằng giữa hành động chủ động và sự tiếp nhận.
-- **Transcending Gender Stereotypes**: Vượt qua các khuôn mẫu về giới tính để đạt được sự toàn vẹn.
-- **Sacred Union**: Sự hợp nhất thiêng liêng của các mặt đối lập tạo ra sức mạnh sáng tạo.
-
-→ **Liên kết:** FOUNDATIONS (Duality & Unity), TRANSCENDENCE (Paradox Mastery).
-
----
-
-#### **7. Temporal Self-Integration** - Tích Hợp Bản Thể Theo Thời Gian
-
-Kết nối và hài hòa giữa bản thể trong quá khứ, hiện tại và tương lai.
-
-- **Past Self Reconciliation**: Hòa giải với và học hỏi từ bản thể trong quá khứ.
-- **Present Moment Grounding**: Neo mình vào thời điểm hiện tại.
-- **Future Self Connection**: Kết nối với và được hướng dẫn bởi bản thể tương lai lý tưởng.
-- **Continuous Identity**: Tạo ra một ý thức về bản sắc liên tục qua thời gian.
-
-→ **Liên kết:** NAVIGATION (Temporal Mapping), DYNAMICS (Evolution).
-
----
-
-#### **8. Subpersonality Integration** - Tích Hợp Các Tiểu Nhân Cách
+#### **3. Subpersonality Integration** - Tích Hợp Các Tiểu Nhân Cách
 
 Quá trình nhận diện và tích hợp các "tiểu nhân cách"—các phần khác nhau của bản thể với đặc điểm và nhu cầu riêng.
 
@@ -16832,20 +16767,7 @@ Quá trình nhận diện và tích hợp các "tiểu nhân cách"—các phầ
 
 ---
 
-#### **9. Developmental Stage Integration** - Tích Hợp Các Giai Đoạn Phát Triển
-
-Tích hợp các giai đoạn phát triển tâm lý khác nhau đã trải qua trong cuộc đời.
-
-- **Stage Identification**: Nhận diện các giai đoạn phát triển (ví dụ: Erikson, Kegan).
-- **Unfinished Business**: Giải quyết các vấn đề chưa hoàn thành từ các giai đoạn trước.
-- **Integrating Gifts of Each Stage**: Tích hợp những điểm mạnh và bài học từ mỗi giai đoạn.
-- **Maturation**: Đạt được sự trưởng thành bằng cách vượt qua và bao gồm các giai đoạn trước.
-
-→ **Liên kết:** DYNAMICS (Developmental Psychology), TRANSCENDENCE (Evolution of Consciousness).
-
----
-
-#### **10. Archetypal Integration** - Tích Hợp Nguyên Mẫu
+#### **4. Archetypal Integration** - Tích Hợp Nguyên Mẫu
 
 Làm việc với và tích hợp các nguyên mẫu (archetype) từ vô thức tập thể vào cuộc sống cá nhân.
 
@@ -16858,33 +16780,7 @@ Làm việc với và tích hợp các nguyên mẫu (archetype) từ vô thức
 
 ---
 
-#### **11. Cognitive-Affective Integration** - Tích Hợp Nhận Thức-Cảm Xúc
-
-Hợp nhất tư duy lý trí và cảm xúc để đạt được một sự hiểu biết toàn diện.
-
-- **Head & Heart Balance**: Cân bằng giữa lý trí (đầu) và cảm xúc (trái tim).
-- **Emotional Intelligence in Decision-Making**: Sử dụng trí tuệ cảm xúc trong các quyết định.
-- **Feelings as Information**: Xem các cảm xúc như là thông tin quý giá, không chỉ là nhiễu loạn.
-- **Wise Mind**: Đạt đến trạng thái "tâm trí khôn ngoan" nơi lý trí và cảm xúc hòa quyện.
-
-→ **Liên kết:** DYNAMICS (Emotional Intelligence), OPERATIONS (Decision Frameworks).
-
----
-
-#### **12. Spiritual-Mundane Integration** - Tích Hợp Tâm Linh-Thế Tục
-
-Kết nối và hài hòa giữa cuộc sống tâm linh và cuộc sống thế tục hàng ngày.
-
-- **Sacred in the Ordinary**: Tìm thấy cái thiêng liêng trong các hoạt động bình thường.
-- **Living Your Values**: Sống theo các giá trị tâm linh trong mọi khía cạnh của cuộc sống.
-- **Grounded Spirituality**: Một tâm linh được neo đất, không tách rời với thực tế.
-- **Embodied Transcendence**: Vượt thoát được hiện thân trong cơ thể và cuộc sống.
-
-→ **Liên kết:** TRANSCENDENCE (Spiritual Practices), OPERATIONS (Daily Practice).
-
----
-
-#### **13. Ancestral Integration** - Tích Hợp Tổ Tiên
+#### **5. Ancestral Integration** - Tích Hợp Tổ Tiên
 
 Kết nối, hòa giải và học hỏi từ dòng dõi tổ tiên.
 
@@ -16897,16 +16793,126 @@ Kết nối, hòa giải và học hỏi từ dòng dõi tổ tiên.
 
 ---
 
-#### **14. Work-Life Integration** - Tích Hợp Công Việc-Cuộc Sống
+### **2. Body-Emotion Synthesis - Tổng Hợp Cơ Thể-Cảm Xúc (4 mục)**
 
-Tạo ra một sự hợp nhất hài hòa và hiệp lực giữa các khía cạnh khác nhau của cuộc sống.
+#### **6. Embodied Cognition** - Nhận Thức Hiện Thân
 
-- **Synergistic Blend**: Pha trộn một cách hiệp lực thay vì cố gắng cân bằng một cách riêng rẽ.
-- **Boundary Fluidity**: Ranh giới linh hoạt, cho phép các khía cạnh của cuộc sống làm giàu cho nhau.
-- **Holistic Identity**: Xây dựng một bản sắc toàn vẹn, không bị phân mảnh bởi các vai trò.
-- **Congruent Living**: Sống một cách nhất quán với các giá trị của mình trên mọi lĩnh vực.
+Sự hiểu biết rằng tâm trí không chỉ giới hạn trong não bộ mà còn bao gồm cả cơ thể.
 
-→ **Liên kết:** NAVIGATION (Guiding Principles), FOUNDATIONS (Unity).
+- **Body as Mind**: Xem cơ thể là một phần không thể tách rời của quá trình nhận thức.
+- **Somatic Intelligence**: Trí tuệ của cơ thể; lắng nghe và học hỏi từ các cảm giác và tín hiệu cơ thể.
+- **Gesture & Movement Thinking**: Tư duy thông qua cử chỉ và chuyển động.
+- **Grounded Abstraction**: Neo các khái niệm trừu tượng vào trải nghiệm vật lý cụ thể.
+
+→ **Liên kết:** DYNAMICS (Cognitive Dynamics), NAVIGATION (Intuitive Wayfinding).
+
+---
+
+#### **7. Emotional Alchemy** - Giả Kim Cảm Xúc
+
+Khả năng chuyển hóa các cảm xúc khó khăn thành nguồn lực và hiểu biết.
+
+- **Feeling into Emotions**: Cảm nhận đầy đủ các cảm xúc mà không kìm nén hoặc bị cuốn theo.
+- **Transmutation**: Chuyển hóa năng lượng cảm xúc thành hành động sáng tạo hoặc hiểu biết.
+- **Emotional Wisdom**: Học hỏi từ các thông điệp và bài học mà các cảm xúc mang lại.
+- **Compassionate Acceptance**: Chấp nhận các cảm xúc với lòng từ bi, không phán xét.
+
+→ **Liên kết:** DYNAMICS (Emotional Intelligence), TRANSCENDENCE (Transformation).
+
+---
+
+#### **8. Cognitive-Affective Integration** - Tích Hợp Nhận Thức-Cảm Xúc
+
+Hợp nhất tư duy lý trí và cảm xúc để đạt được một sự hiểu biết toàn diện.
+
+- **Head & Heart Balance**: Cân bằng giữa lý trí (đầu) và cảm xúc (trái tim).
+- **Emotional Intelligence in Decision-Making**: Sử dụng trí tuệ cảm xúc trong các quyết định.
+- **Feelings as Information**: Xem các cảm xúc như là thông tin quý giá, không chỉ là nhiễu loạn.
+- **Wise Mind**: Đạt đến trạng thái "tâm trí khôn ngoan" nơi lý trí và cảm xúc hòa quyện.
+
+→ **Liên kết:** DYNAMICS (Emotional Intelligence), OPERATIONS (Decision Frameworks).
+
+---
+
+#### **9. Trauma Integration** - Tích Hợp Chấn Thương
+
+Quá trình chữa lành và tích hợp các trải nghiệm chấn thương vào một câu chuyện cuộc đời mạch lạc.
+
+- **Somatic Processing**: Giải phóng chấn thương được lưu trữ trong cơ thể.
+- **Narrative Reconstruction**: Xây dựng lại câu chuyện về chấn thương theo cách trao quyền.
+- **Meaning Making**: Tạo ý nghĩa từ chấn thương; tìm thấy sự phát triển sau chấn thương.
+- **Post-Traumatic Growth**: Đạt được sự phát triển và chuyển hóa từ kinh nghiệm chấn thương.
+
+→ **Liên kết:** DYNAMICS (Healing), VALIDATION (Therapeutic Validation).
+
+---
+
+### **3. Temporal & Developmental Integration - Tích Hợp Thời Gian & Phát Triển (3 mục)**
+
+#### **10. Peak Experience Integration** - Tích Hợp Trải Nghiệm Đỉnh
+
+Quá trình chắt lọc và áp dụng những hiểu biết từ các trạng thái ý thức cao vào cuộc sống hàng ngày.
+
+- **Experience Capture**: Ghi lại và phản ánh về các trải nghiệm đỉnh ngay sau khi chúng xảy ra.
+- **Insight Extraction**: Chiết xuất các hiểu biết cốt lõi và bài học từ trải nghiệm.
+- **Behavioral Translation**: Dịch các hiểu biết thành các hành động và thói quen cụ thể.
+- **Integration Rituals**: Tạo ra các nghi thức để neo các trải nghiệm vào cuộc sống hàng ngày.
+
+→ **Liên kết:** TRANSCENDENCE (Peak States), OPERATIONS (Practice & Execution).
+
+---
+
+#### **11. Temporal Self-Integration** - Tích Hợp Bản Thể Theo Thời Gian
+
+Kết nối và hài hòa giữa bản thể trong quá khứ, hiện tại và tương lai.
+
+- **Past Self Reconciliation**: Hòa giải với và học hỏi từ bản thể trong quá khứ.
+- **Present Moment Grounding**: Neo mình vào thời điểm hiện tại.
+- **Future Self Connection**: Kết nối với và được hướng dẫn bởi bản thể tương lai lý tưởng.
+- **Continuous Identity**: Tạo ra một ý thức về bản sắc liên tục qua thời gian.
+
+→ **Liên kết:** NAVIGATION (Temporal Mapping), DYNAMICS (Evolution).
+
+---
+
+#### **12. Developmental Stage Integration** - Tích Hợp Các Giai Đoạn Phát Triển
+
+Tích hợp các giai đoạn phát triển tâm lý khác nhau đã trải qua trong cuộc đời.
+
+- **Stage Identification**: Nhận diện các giai đoạn phát triển (ví dụ: Erikson, Kegan).
+- **Unfinished Business**: Giải quyết các vấn đề chưa hoàn thành từ các giai đoạn trước.
+- **Integrating Gifts of Each Stage**: Tích hợp những điểm mạnh và bài học từ mỗi giai đoạn.
+- **Maturation**: Đạt được sự trưởng thành bằng cách vượt qua và bao gồm các giai đoạn trước.
+
+→ **Liên kết:** DYNAMICS (Developmental Psychology), TRANSCENDENCE (Evolution of Consciousness).
+
+---
+
+### **4. Polarity & Paradox Mastery - Làm Chủ Cực Tính & Nghịch Lý (4 mục)**
+
+#### **13. Masculine-Feminine Integration** - Tích Hợp Nam Tính-Nữ Tính
+
+Cân bằng và hợp nhất các năng lượng nam tính và nữ tính bên trong mỗi người.
+
+- **Recognizing Both Energies**: Nhận diện cả hai năng lượng bên trong, không phụ thuộc vào giới tính sinh học.
+- **Balancing Action & Receptivity**: Cân bằng giữa hành động chủ động và sự tiếp nhận.
+- **Transcending Gender Stereotypes**: Vượt qua các khuôn mẫu về giới tính để đạt được sự toàn vẹn.
+- **Sacred Union**: Sự hợp nhất thiêng liêng của các mặt đối lập tạo ra sức mạnh sáng tạo.
+
+→ **Liên kết:** FOUNDATIONS (Duality & Unity), TRANSCENDENCE (Paradox Mastery).
+
+---
+
+#### **14. Spiritual-Mundane Integration** - Tích Hợp Tâm Linh-Thế Tục
+
+Kết nối và hài hòa giữa cuộc sống tâm linh và cuộc sống thế tục hàng ngày.
+
+- **Sacred in the Ordinary**: Tìm thấy cái thiêng liêng trong các hoạt động bình thường.
+- **Living Your Values**: Sống theo các giá trị tâm linh trong mọi khía cạnh của cuộc sống.
+- **Grounded Spirituality**: Một tâm linh được neo đất, không tách rời với thực tế.
+- **Embodied Transcendence**: Vượt thoát được hiện thân trong cơ thể và cuộc sống.
+
+→ **Liên kết:** TRANSCENDENCE (Spiritual Practices), OPERATIONS (Daily Practice).
 
 ---
 
@@ -16923,7 +16929,35 @@ Tạo ra sự cộng hưởng và thẳng hàng giữa thế giới bên trong v
 
 ---
 
-#### **16. Value Clarification & Integration** - Làm Rõ & Tích Hợp Giá Trị
+#### **16. Paradox Integration** - Tích Hợp Nghịch Lý
+
+Khả năng giữ và hòa giải các ý tưởng, cảm xúc hoặc chân lý tưởng chừng như mâu thuẫn.
+
+- **Both/And Thinking**: Tư duy "cả hai" thay vì "hoặc cái này hoặc cái kia".
+- **Holding Tension**: Giữ vững sự căng thẳng giữa các mặt đối lập mà không giải quyết quá sớm.
+- **Emergent Third**: Cho phép một giải pháp hoặc hiểu biết thứ ba đột sinh.
+- **Wisdom through Paradox**: Đạt được trí tuệ bằng cách chấp nhận và làm việc với các nghịch lý.
+
+→ **Liên kết:** TRANSCENDENCE (Paradox Mastery), FOUNDATIONS (Duality & Unity).
+
+---
+
+### **5. Practical Life Coherence - Mạch Lạc Đời Sống Thực Tiễn (4 mục)**
+
+#### **17. Work-Life Integration** - Tích Hợp Công Việc-Cuộc Sống
+
+Tạo ra một sự hợp nhất hài hòa và hiệp lực giữa các khía cạnh khác nhau của cuộc sống.
+
+- **Synergistic Blend**: Pha trộn một cách hiệp lực thay vì cố gắng cân bằng một cách riêng rẽ.
+- **Boundary Fluidity**: Ranh giới linh hoạt, cho phép các khía cạnh của cuộc sống làm giàu cho nhau.
+- **Holistic Identity**: Xây dựng một bản sắc toàn vẹn, không bị phân mảnh bởi các vai trò.
+- **Congruent Living**: Sống một cách nhất quán với các giá trị của mình trên mọi lĩnh vực.
+
+→ **Liên kết:** NAVIGATION (Guiding Principles), FOUNDATIONS (Unity).
+
+---
+
+#### **18. Value Clarification & Integration** - Làm Rõ & Tích Hợp Giá Trị
 
 Quá trình xác định và sống theo các giá trị cốt lõi của bản thân.
 
@@ -16936,7 +16970,7 @@ Quá trình xác định và sống theo các giá trị cốt lõi của bản 
 
 ---
 
-#### **17. Skill Integration** - Tích Hợp Kỹ Năng
+#### **19. Skill Integration** - Tích Hợp Kỹ Năng
 
 Kết hợp các kỹ năng riêng lẻ thành các năng lực cấp cao, phức tạp hơn.
 
@@ -16949,7 +16983,7 @@ Kết hợp các kỹ năng riêng lẻ thành các năng lực cấp cao, phứ
 
 ---
 
-#### **18. Habit Integration** - Tích Hợp Thói Quen
+#### **20. Habit Integration** - Tích Hợp Thói Quen
 
 Xây dựng một hệ sinh thái các thói quen hỗ trợ lẫn nhau.
 
@@ -16962,31 +16996,7 @@ Xây dựng một hệ sinh thái các thói quen hỗ trợ lẫn nhau.
 
 ---
 
-#### **19. Trauma Integration** - Tích Hợp Chấn Thương
-
-Quá trình chữa lành và tích hợp các trải nghiệm chấn thương vào một câu chuyện cuộc đời mạch lạc.
-
-- **Somatic Processing**: Giải phóng chấn thương được lưu trữ trong cơ thể.
-- **Narrative Reconstruction**: Xây dựng lại câu chuyện về chấn thương theo cách trao quyền.
-- **Meaning Making**: Tạo ý nghĩa từ chấn thương; tìm thấy sự phát triển sau chấn thương.
-- **Post-Traumatic Growth**: Đạt được sự phát triển và chuyển hóa từ kinh nghiệm chấn thương.
-
-→ **Liên kết:** DYNAMICS (Healing), VALIDATION (Therapeutic Validation).
-
----
-
-#### **20. Paradox Integration** - Tích Hợp Nghịch Lý
-
-Khả năng giữ và hòa giải các ý tưởng, cảm xúc hoặc chân lý tưởng chừng như mâu thuẫn.
-
-- **Both/And Thinking**: Tư duy "cả hai" thay vì "hoặc cái này hoặc cái kia".
-- **Holding Tension**: Giữ vững sự căng thẳng giữa các mặt đối lập mà không giải quyết quá sớm.
-- **Emergent Third**: Cho phép một giải pháp hoặc hiểu biết thứ ba đột sinh.
-- **Wisdom through Paradox**: Đạt được trí tuệ bằng cách chấp nhận và làm việc với các nghịch lý.
-
-→ **Liên kết:** TRANSCENDENCE (Paradox Mastery), FOUNDATIONS (Duality & Unity).
-
-### **Nhóm Structural Patterns - Mẫu Hình Cấu Trúc (6 mục mới)**
+### **6. Structural Patterns - Mẫu Hình Cấu Trúc (6 mục)**
 
 #### **21. Network Structure** - Cấu Trúc Mạng Lưới
 
@@ -17071,7 +17081,7 @@ Cấu trúc có chứa bản thân nó như một phần - nguyên lý TỔ CH�
 
 ---
 
-### **Nhóm System Dynamics - Động Lực Hệ Thống (6 mục mới)**
+### **7. System Dynamics - Động Lực Hệ Thống (6 mục)**
 
 #### **27. Dynamic Balance** - Cân Bằng Động
 
@@ -17158,7 +17168,7 @@ Khả năng tạo và duy trì sự mạch lạc trong các trường năng lư�
 
 ---
 
-### **Nhóm Thinking Systems - Hệ Thống Tư Duy (6 mục mới)**
+### **8. Thinking Systems - Hệ Thống Tư Duy (6 mục)**
 
 #### **33. Network Thinking - Tư Duy Mạng Lưới** [Công Cụ Tích Hợp]
 
@@ -17269,7 +17279,7 @@ Khả năng nén thông tin phức tạp vào không gian thấp hơn.
 
 ---
 
-### **Nhóm Unification Theories - Các Lý Thuyết Thống Nhất (6 mục mới)**
+### **9. Unification Theories - Các Lý Thuyết Thống Nhất (6 mục)**
 
 #### **39. Unified Field Theories** - Các Lý Thuyết Trường Thống Nhất
 
@@ -17351,7 +17361,7 @@ Trái Đất là một siêu sinh vật tự điều hòa.
 
 ---
 
-### **Nhóm Cognitive Tools - Công Cụ Nhận Thức (5 mục mới)**
+### **10. Cognitive Tools - Công Cụ Nhận Thức (5 mục)**
 
 #### **45. Cognitive Prosthetics** - Bộ Phận Nhận Thức Giả
 
