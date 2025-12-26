@@ -62,13 +62,12 @@ Ready to regroup CHỨC NĂNG ${targetFunction}? [Y/n]
 |-------|--------|
 | `Y`, `y`, `yes`, `Yes`, empty | Proceed with regroup |
 | `N`, `n`, `no`, `No` | Cancel, show `/regroup [number]` hint |
-| `continue`, `/continue` | Resume from `.whole-state.json` if operation pending |
 | Number (e.g., `32`) | Switch to that CF number |
 
 **If interrupted mid-workflow:**
-1. Check `.whole-state.json` for `currentOperation`
-2. If found, ask: "Resume CF{N} at phase {phase}? [Y/n]"
-3. If user confirms, continue from saved phase
+1. Check TodoWrite for in_progress tasks
+2. Re-read required files (previous reads are invalid after resume)
+3. Continue from current step
 
 ### Step 4: Activate whole-regrouper skill
 ```markdown
@@ -260,6 +259,6 @@ This command works seamlessly with `whole-regrouper` skill:
 
 ---
 
-**Version:** 2.0.0 (Intelligent routing with auto-detection)
+**Version:** 2.1.0 (Simplified state management)
 **Requires:** `whole-regrouper` skill v3.0.0+, `.whole-progress.json`
-**Optional:** `.claude/hooks/regroup-session-init.cjs` for auto-reminders
+**Hooks:** `session-init.cjs` for auto-reminders on startup

@@ -101,7 +101,7 @@ Whole/
 │   │   ├── status.md
 │   │   └── validate.md
 │   ├── hooks/
-│   │   └── regroup-session-init.cjs
+│   │   └── session-init.cjs
 │   ├── agents/
 │   │   ├── whole-content-validator.md
 │   │   ├── whole-cross-reference.md

@@ -116,31 +116,9 @@ After long operation: "✓ Hoàn thành [action]"
    - PHẢI Read lại trước khi Edit
    - Output: "Re-reading Whole.md..."
 
-3. CHECK .whole-state.json (if exists)
-   - Xác định phase đang thực hiện
-   - Recover context từ saved state
-
-4. CONTINUE from current step
+3. CONTINUE from current step
    - Không restart từ đầu
    - Output: "Tiếp tục từ [step]..."
-```
-
-### State Recovery Pattern
-
-```json
-// .whole-state.json structure
-{
-  "currentOperation": "regroup",
-  "targetFunction": 33,
-  "phase": "edit",  // grep|read|analyze|edit|validate|commit
-  "pendingAction": "apply_edit",
-  "lastReadOffset": 20649,
-  "lastReadLimit": 250,
-  "context": {
-    "totalConcepts": 27,
-    "proposedGroups": 8
-  }
-}
 ```
 
 ### Resume Handler
@@ -148,15 +126,10 @@ After long operation: "✓ Hoàn thành [action]"
 ```markdown
 ## On Session Resume
 
-IF .whole-state.json exists AND currentOperation == "regroup":
-  1. Read .whole-state.json
-  2. Output: "Resuming CF[N] at phase: [phase]"
-  3. Re-read Whole.md với saved offset/limit
-  4. Continue từ saved phase
-ELSE:
-  1. Check TodoWrite for in_progress tasks
-  2. Re-read required files
-  3. Continue normally
+1. Check TodoWrite for in_progress tasks
+2. Output: "Session resumed. Task hiện tại: [task name]"
+3. Re-read required files (previous reads invalid)
+4. Continue from current step
 ```
 
 ---

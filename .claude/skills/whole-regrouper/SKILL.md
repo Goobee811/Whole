@@ -185,26 +185,13 @@ Previous reads không còn valid trong context mới.
 ]
 ```
 
-**Update `.whole-state.json` at each phase:**
-```json
-{
-  "currentOperation": "regroup",
-  "phase": "analyze",
-  "pendingAction": "create_groups",
-  "lastReadFile": "Whole.md",
-  "lastReadLines": "20262-20638",
-  "context": {"cf": 32, "concepts": 36}
-}
-```
-
 ---
 
 ## Integration
 
 - **Command:** `/regroup [domain] [function-number]` - Auto-activates this skill
-- **Hooks:** `session-init`, `regroup-validation` (if available)
-- **Progress:** `.whole-progress.json` (if available)
-- **State:** `.whole-state.json` (for resume capability)
+- **Hooks:** `session-init` (displays progress on startup)
+- **Progress:** `.whole-progress.json` - Update after each CF completion
 
 ---
 

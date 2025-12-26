@@ -1,15 +1,18 @@
 #!/usr/bin/env node
 
 /**
- * SessionStart Hook - Initializes session for Whole Knowledge Architecture
+ * SessionStart Hook - Unified session initializer for Whole Knowledge Architecture
+ *
+ * Merged from: session-init.cjs + regroup-session-init.cjs
  *
  * Fires: Once per session (startup, resume, clear, compact)
  * Purpose:
- * - Detect current progress from .whole-progress.json
- * - Output context about current working section
- * - Persist state for cross-session continuity
+ * - Display progress from .whole-progress.json
+ * - Show next suggested function
+ * - Output key rules reminder
+ * - Suggest available commands
  *
- * v1.1.0: Added idempotency guard to prevent hook loop
+ * v2.0.0: Merged hooks, simplified output
  */
 
 const fs = require('fs');
@@ -42,34 +45,31 @@ function getGitBranch() {
 }
 
 /**
- * Build context summary for output
+ * Build progress line
  */
-function buildContextOutput(progress) {
-  const lines = [];
+function buildProgressLine(progress) {
+  if (!progress) return null;
 
-  if (progress) {
-    const totalFunctions = progress.totalFunctions || 50;
-    // FIX: Use completedFunctions (array) not completed
-    const completedArr = progress.completedFunctions || progress.completed || [];
-    const completedCount = Array.isArray(completedArr) ? completedArr.length : 0;
-    const percentage = Math.round((completedCount / totalFunctions) * 100);
+  const totalFunctions = progress.totalFunctions || 50;
+  const completedArr = progress.completedFunctions || [];
+  const completedCount = Array.isArray(completedArr) ? completedArr.length : 0;
+  const percentage = Math.round((completedCount / totalFunctions) * 100);
 
-    lines.push(`Progress: ${completedCount}/${totalFunctions} (${percentage}%)`);
+  const parts = [`Progress: ${completedCount}/${totalFunctions} (${percentage}%)`];
 
-    if (progress.nextSuggested) {
-      lines.push(`Next: CF${progress.nextSuggested}`);
-    }
+  if (progress.nextSuggested) {
+    parts.push(`Next: CF${progress.nextSuggested}`);
+  }
 
-    if (progress.lastUpdated) {
-      const lastDate = new Date(progress.lastUpdated).toLocaleDateString('vi-VN');
-      lines.push(`Last session: ${lastDate}`);
-    }
+  if (progress.lastUpdated) {
+    const lastDate = new Date(progress.lastUpdated).toLocaleDateString('vi-VN');
+    parts.push(`Last session: ${lastDate}`);
   }
 
   const branch = getGitBranch();
-  if (branch) lines.push(`Branch: ${branch}`);
+  if (branch) parts.push(`Branch: ${branch}`);
 
-  return lines.join(' | ');
+  return parts.join(' | ');
 }
 
 async function main() {
@@ -79,31 +79,29 @@ async function main() {
     const source = data.source || 'unknown';
     const sessionId = data.session_id || process.ppid || 'default';
 
-    // IDEMPOTENCY GUARD: Prevent hook loop on resume
+    // Idempotency guard: Prevent hook loop on resume
     const sessionMarker = path.join(os.tmpdir(), `whole-session-${sessionId}`);
     if (source === 'resume' && fs.existsSync(sessionMarker)) {
-      // Already initialized in this session, skip to avoid loop
       process.exit(0);
     }
-    // Mark session as initialized
     try {
       fs.writeFileSync(sessionMarker, Date.now().toString());
-    } catch (e) { /* ignore if temp write fails */ }
+    } catch (e) { /* ignore */ }
 
     const progress = loadProgress();
-    const context = buildContextOutput(progress);
+    const progressLine = buildProgressLine(progress);
 
     // Output session info
     console.log(`Session ${source}. Whole Knowledge Architecture`);
-    if (context) console.log(context);
+    if (progressLine) console.log(progressLine);
 
-    // Output key reminders
+    // Key rules
     console.log(`\nKey Rules:`);
     console.log(` 1. Only Add, Never Subtract`);
     console.log(` 2. Bilingual: Vietnamese primary, English secondary`);
     console.log(` 3. 4-Point Structure: Definition, Context, Application, Integration`);
 
-    // Show available commands
+    // Available commands
     console.log(`\nAvailable: /edit, /analyze, /expand, /regroup, /status, /validate`);
 
     process.exit(0);

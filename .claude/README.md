@@ -46,7 +46,8 @@ This directory contains custom Agent Skills, commands, hooks, and configuration 
 │   └── validate.md               # /validate [section]
 │
 ├── hooks/                        # Automation hooks
-│   ├── regroup-session-init.cjs  # Session startup hook
+│   ├── session-init.cjs          # Session startup hook (unified)
+│   ├── progress-indicator.cjs    # PostToolUse feedback
 │   └── docs/
 │       └── README.md
 │
@@ -116,11 +117,15 @@ Manages bidirectional cross-references. Validates links and detects orphaned ref
 
 ## Hooks
 
-### regroup-session-init.cjs
+### session-init.cjs (unified v2.0)
 Runs on session startup to display:
 - Current progress (X/50 functions)
 - Next suggested function
-- Last session info
+- Key rules reminder
+- Available commands
+
+### progress-indicator.cjs
+PostToolUse hook for feedback after each tool call.
 
 ## Workflow
 
