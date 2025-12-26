@@ -23,6 +23,12 @@ Comprehensive reference for all Claude Code skills in the Whole project.
 
 **Activation**: `/edit [section]`
 
+**References**:
+- `.claude/skills/whole-editor/references/editing-protocol.md`
+- `.claude/skills/whole-editor/references/duplicate-resolution.md`
+- `.claude/skills/whole-editor/references/bilingual-rules.md`
+- `.claude/skills/whole-editor/references/structure-validation.md`
+
 ### whole-analyzer
 
 **Purpose**: Pre-editing analysis and duplicate detection.
@@ -51,9 +57,9 @@ Comprehensive reference for all Claude Code skills in the Whole project.
 
 **Activation**: Automatically after edits
 
-### whole-regrouper
+### whole-regrouper (v3.0.0)
 
-**Purpose**: Reorganize concepts into thematic groups.
+**Purpose**: Reorganize concepts into thematic groups with progressive disclosure.
 
 **Use When**:
 - Function has too many ungrouped concepts
@@ -61,49 +67,43 @@ Comprehensive reference for all Claude Code skills in the Whole project.
 - Improving navigation within a function
 
 **Key Rules**:
-- Preserve "Tong Quan" section exactly
+- Preserve "Tổng Quan" section exactly
 - Keep all concept content intact
 - Create groups of 3-8 concepts
 - Number groups and concepts sequentially
+- Use bilingual group names
 
-**Activation**: `/regroup [function-number]`
+**Features** (v3.0.0):
+- Progressive disclosure - loads detailed guidance only when needed
+- Auto-detection of next function to process
+- Integrated validation before commit
+- Progress tracking with `.whole-progress.json`
+
+**Activation**: `/regroup [function-number]` or just `/regroup`
+
+**References**:
+- `.claude/skills/whole-regrouper/references/grouping-principles.md`
+- `.claude/skills/whole-regrouper/references/workflow-steps.md`
+- `.claude/skills/whole-regrouper/references/naming-guidelines.md`
+- `.claude/skills/whole-regrouper/references/quality-checklist.md`
+- `.claude/skills/whole-regrouper/references/robust-operations.md`
 
 ## Validation Scripts
 
-Located in `.claude/skills/whole-editor/scripts/`:
+Located in `.claude/skills/whole-regrouper/scripts/`:
 
-### validate-structure.js
-
-```bash
-node .claude/skills/whole-editor/scripts/validate-structure.js [function-number]
-```
-
-Checks:
-- 4-point structure compliance
-- Bullet point count (minimum 4)
-- Cross-reference section presence
-
-### bilingual-check.js
+### validate-regroup.js
 
 ```bash
-node .claude/skills/whole-editor/scripts/bilingual-check.js [function-number]
+node .claude/skills/whole-regrouper/scripts/validate-regroup.js [function-number]
 ```
 
-Checks:
-- Bilingual header format
-- Separator usage (- or |)
-- Vietnamese character presence
-
-### check-cross-refs.js
-
-```bash
-node .claude/skills/whole-editor/scripts/check-cross-refs.js [function-number]
-```
-
-Checks:
-- Reference format compliance
-- Target existence
-- Bidirectional link suggestions
+**Checks**:
+- "Tổng Quan" section preservation
+- Continuous numbering (1, 2, 3...)
+- Bilingual group names
+- No content deletion
+- Group size (3-8 concepts recommended)
 
 ## Agents
 
@@ -116,9 +116,9 @@ Located in `.claude/agents/`:
 **Model**: haiku (fast, efficient)
 
 **Checks**:
-- 4-point structure
+- 4-point structure compliance
 - Bilingual integrity
-- Cross-references
+- Cross-references validity
 - Numbering consistency
 
 ### whole-translator
@@ -128,9 +128,10 @@ Located in `.claude/agents/`:
 **Model**: haiku
 
 **Capabilities**:
-- Cultural adaptation
+- Cultural adaptation (Vietnamese authenticity)
 - Terminology consistency
 - Format compliance
+- Bidirectional translation
 
 ### whole-cross-reference
 
@@ -142,6 +143,7 @@ Located in `.claude/agents/`:
 - Link validation
 - Orphan detection
 - Reference mapping
+- Broken link identification
 
 ## Integration Notes
 
@@ -149,3 +151,20 @@ Located in `.claude/agents/`:
 - Agents can be invoked for specialized tasks
 - Validation scripts run automatically via hooks
 - Progress tracker updates after commits
+- Progressive disclosure reduces token usage by ~60%
+
+## Skill Activation Flow
+
+```
+/status → Display progress
+    ↓
+/next → Identify next function
+    ↓
+/regroup or /edit → Activate skill
+    ↓
+[Work on content]
+    ↓
+/validate → Run validation
+    ↓
+Commit → Update progress tracker
+```

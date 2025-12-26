@@ -41,8 +41,8 @@ Specialized Claude skills for editing and expanding the Whole bilingual knowledg
 - Auto-updates progress tracker after completion
 
 ### Hooks System (NEW)
-- `regroup-session-init.cjs` - Displays progress on session start
-- Auto-activates relevant skills based on context
+- `session-init.cjs` - Displays progress on session start
+- `progress-indicator.cjs` - PostToolUse feedback
 - Suggests next CHỨC NĂNG automatically
 
 ### Validation Scripts (NEW)
