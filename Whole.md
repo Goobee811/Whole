@@ -21977,7 +21977,7 @@ _Miền này khám phá các nguyên lý và cơ chế tạo ra sự tăng trư�
 
 Chức năng này tập trung vào việc xây dựng và tận dụng các hiệu ứng mạng lưới - nơi giá trị tăng lên theo số lượng người dùng. Đây là động lực khuếch đại mạnh mẽ nhất trong kỷ nguyên kết nối.
 
-### **Các Nguyên Lý Cốt Lõi (25 mục)**
+### **1. Core Network Effect Theory - Lý Thuyết Hiệu Ứng Mạng Cốt Lõi**
 
 #### **1. Network Effects** - Hiệu Ứng Mạng Lưới
 
@@ -21999,6 +21999,8 @@ Các định luật mô tả sự tăng trưởng giá trị của mạng lướ
 - **Exponential Value Growth**: Cho thấy tiềm năng tăng trưởng giá trị bùng nổ và phi tuyến tính của các mạng lưới.  
     → **Liên kết:** FOUNDATIONS (Network Thinking), CREATION (Community Building).
 
+### **2. Network Structure & Formation - Cấu Trúc & Hình Thành Mạng Lưới**
+
 #### **3. Preferential Attachment** - Gắn Kết Ưu Tiên
 
 Hiện tượng trong các mạng lưới đang phát triển, các nút mới có xu hướng kết nối với các nút đã có nhiều kết nối.
@@ -22018,6 +22020,8 @@ Các nguyên tắc vận hành của các nền tảng đa diện, kết nối c
 - **Cross-Side Network Effects**: Hiệu ứng mạng lưới chéo, giá trị cho một phía tăng lên khi phía kia tăng.
 - **Platform Governance**: Vai trò của các quy tắc và chính sách trong việc thúc đẩy hành vi tích cực và ngăn chặn hành vi tiêu cực.  
     → **Liên kết:** OPERATIONS (Game Theory), INTEGRATION (Ecosystem Building).
+
+### **3. Growth & Viral Dynamics - Động Lực Tăng Trưởng & Lan Truyền**
 
 #### **5. Community Building [Động Cơ Tăng Trưởng]** - Xây Dựng Cộng Đồng [Động Cơ Tăng Trưởng]
 
@@ -22091,6 +22095,8 @@ Chi phí (thời gian, công sức) để sử dụng nhiều nền tảng cạn
 - **Attention Economics**: Kinh tế học về sự chú ý, người dùng có thời gian và năng lượng hạn chế.  
     → **Liên kết:** NAVIGATION (Resource Management), OPERATIONS (Decision Frameworks).
 
+### **4. Network Effect Types - Các Loại Hiệu Ứng Mạng**
+
 #### **12. Direct Network Effects** - Hiệu Ứng Mạng Lưới Trực Tiếp
 
 Giá trị của một sản phẩm tăng lên trực tiếp cho tất cả người dùng khi có thêm người dùng mới.
@@ -22140,6 +22146,8 @@ Khi quá nhiều người dùng làm giảm giá trị hoặc trải nghiệm ch
 - **Trolling & Abuse**: Hành vi quấy rối và lạm dụng tăng lên với quy mô.
 - **Quality Dilution**: Pha loãng chất lượng, giá trị trung bình giảm khi quy mô tăng.  
     → **Liên kết:** VALIDATION (Quality Control), OPERATIONS (Moderation Systems).
+
+### **5. Special Network Contexts - Bối Cảnh Mạng Lưới Đặc Biệt**
 
 #### **17. Protocol Networks** - Mạng Lưới Giao Thức
 
@@ -22201,6 +22209,8 @@ Hiệu ứng mạng lưới được tạo ra giữa phần cứng và phần m�
 - **Coordinated Development**: Phát triển phối hợp giữa hai phía.  
     → **Liên kết:** CREATION (Platform Design), INTEGRATION (Ecosystem Building).
 
+### **6. Scaling & Resilience - Mở Rộng Quy Mô & Khả Năng Phục Hồi**
+
 #### **23. Scalability Strategies** - Các Chiến Lược Mở Rộng Quy Mô
 
 Các phương pháp để mở rộng hoạt động một cách hiệu quả khi nhu cầu tăng lên.
@@ -22231,7 +22241,7 @@ Khả năng nhìn thấy, xây dựng, điều hướng và định hình các m
 - **Conscious Network Evolution**: Chủ động phát triển các mạng lưới để đạt được các mục tiêu mong muốn.  
     → **Liên kết:** Tích hợp tất cả các khái niệm trong NETWORK EFFECTS & SCALING.
 
-### **Fundamental Network Elements (7 mục bổ sung)**
+### **7. Network Elements & Topology - Thành Tố & Hình Thái Mạng Lưới**
 
 #### **26. Node** - Nút Mạng
 
@@ -22303,7 +22313,7 @@ Vai trò trung gian kiểm soát dòng chảy thông tin giữa các phần khá
 - **Bridge Builder**: Người xây cầu nối giữa các cộng đồng tách biệt.  
     → **Liên kết:** NAVIGATION (Strategic Brokerage), INTEGRATION (Connection Building).
 
-### **Connection Dynamics (4 mục bổ sung)**
+### **8. Connection Dynamics - Động Lực Kết Nối**
 
 #### **33. Weak Tie Power** - Sức Mạnh Của Mối Quan Hệ Yếu
 
@@ -22345,7 +22355,7 @@ Sự lan truyền của hành vi, thái độ, hoặc hiện tượng qua các k
 - **Network Structure Impact**: Tác động của cấu trúc mạng lên tốc độ lây lan.  
     → **Liên kết:** DYNAMICS (Contagion), VIRAL MECHANICS (Social Contagion).
 
-### **Digital Network (2 mục bổ sung)**
+### **9. Digital & Social Networks - Mạng Lưới Số & Mạng Xã Hội**
 
 #### **37. Social Media Leverage** - Đòn Bẩy Mạng Xã Hội
 
@@ -22367,7 +22377,7 @@ Giá trị của mạng xã hội tăng lên khi bạn bè và người quen tha
 - **Social Capital Accumulation**: Tích lũy vốn xã hội qua thời gian.  
     → **Liên kết:** INTEGRATION (Social Integration), AMPLIFICATION (Personal Networks).
 
-### **Strategic Implementation (5 mục bổ sung)**
+### **10. Strategic Network Positioning - Định Vị Mạng Lưới Chiến Lược**
 
 #### **39. Hub Creation** - Tạo Trung Tâm
 
