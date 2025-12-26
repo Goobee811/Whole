@@ -26257,10 +26257,9 @@ Khái niệm về việc kích hoạt một mạng lưới năng lượng hoặc
 
 Sự biến đổi hoàn toàn của các hệ thống - cá nhân, tổ chức, xã hội - từ một trạng thái tồn tại này sang một trạng thái khác. Giống như sự biến thái của sâu bướm thành bướm, đây là những thay đổi không thể đảo ngược và mang tính chuyển đổi.
 
-### **Nguyên Lý**
+---
 
-Chức năng này tích hợp các khía cạnh của tất cả ba phần để mô tả các loại và quá trình biến đổi hệ thống khác nhau.
-
+### **1. Core Transformation Principles - Nguyên Lý Biến Đổi Cốt Lõi**
 
 #### **1. Personal Metamorphosis** - Biến Đổi Cá Nhân
 
@@ -26325,7 +26324,9 @@ Các thay đổi ở quy mô toàn cầu:
 
 → **Liên kết:** TRANSCENDENCE (Collective Evolution), VALIDATION (Systems Change).
 
-### **Pattern & Structure - Mẫu Hình Và Cấu Trúc**
+---
+
+### **2. Pattern Recognition & Structural Dynamics - Nhận Diện Mẫu Hình & Động Lực Cấu Trúc**
 
 #### **6. Self-similarity Across Scales** - Sự Tự Tương Đồng Qua Các Quy Mô
 
@@ -26503,7 +26504,7 @@ và động lực chuyển đổi, đây là về BIẾN THÁI - sự thay đổ
 
 ---
 
-### **Field & Force - Trường Và Lực**
+### **3. Field Theory & Force Dynamics - Lý Thuyết Trường & Động Lực Lực**
 
 #### **17. Morphic Fields** - Các Trường Hình Thái
 
@@ -26583,7 +26584,7 @@ Các điểm mật độ vô hạn ở trung tâm lỗ đen, nơi các quy luậ
 
 ---
 
-### **System Intelligence - Trí Tuệ Hệ Thống**
+### **4. Intelligence & Adaptive Systems - Trí Tuệ & Hệ Thống Thích Ứng**
 
 #### **23. Flow-State Engineering** - Kỹ Thuật Trạng Thái Dòng Chảy
 
@@ -26693,7 +26694,7 @@ Sự nhận thức và thực hành ở cấp độ siêu việt về việc cá
 
 ---
 
-### **Human Transformation - Biến Đổi Con Người**
+### **5. Human Evolution & Consciousness Transformation - Tiến Hóa Con Người & Biến Đổi Ý Thức**
 
 #### **31. Peak Experiences & Flow States** - Trải Nghiệm Đỉnh Và Trạng Thái Dòng Chảy
 
@@ -26851,7 +26852,7 @@ Các phương pháp chữa lành sử dụng ý thức, ý định và nhận th
 
 ---
 
-### **Scientific Exploration - Khám Phá Khoa Học**
+### **6. Scientific Frontiers & Exploration - Biên Giới Khoa Học & Khám Phá**
 
 #### **43. Consciousness Studies** - Các Nghiên Cứu Ý Thức
 
@@ -26905,7 +26906,7 @@ Nghiên cứu các trường giả thuyết hướng dẫn sự phát triển v�
 
 ---
 
-### **Creative Expression - Biểu Hiện Sáng Tạo**
+### **7. Creative Innovation & Expression - Đổi Mới Sáng Tạo & Biểu Đạt**
 
 #### **47. Transformative Theatre** - Sân Khấu Biến Đổi
 
