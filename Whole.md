@@ -25694,7 +25694,9 @@ Những trải nghiệm siêu việt gợi lên cảm giác kinh ngạc, kính s
 
 Khám phá trạng thái ý thức nơi sự phân biệt giữa chủ thể và khách thể, giữa bản thân và người khác, giữa phần và toàn thể tan biến. Đây là trải nghiệm về sự thống nhất căn bản của mọi thứ.
 
-### **Các Nguyên Lý Ý Thức Thống Nhất**
+---
+
+### **1. Core Unity Principles - Nguyên Lý Thống Nhất Cốt Lõi**
 
 #### **1. Non-Dual Awareness** - Nhận Thức Bất Nhị
 
@@ -25773,6 +25775,8 @@ Khái niệm Phật giáo của Thích Nhất Hạnh rằng mọi thứ đều t
 → **Liên kết:** FOUNDATIONS (Interconnectedness), INTEGRATION (System Coherence).
 
 ---
+
+### **2. Ultimate Reality Concepts - Khái Niệm Thực Tại Tối Hậu**
 
 #### **7. The Perennial Philosophy** - Triết Học Trường Tồn [Trải Nghiệm Sống Động]
 
@@ -25885,6 +25889,8 @@ Hình ảnh Phật giáo Hoa Nghiêm về mạng lưới vô hạn với viên n
 
 ---
 
+### **3. Cosmic Information & Structure - Thông Tin & Cấu Trúc Vũ Trụ**
+
 #### **15. The Omega Point** - Điểm Omega [Lý Thuyết Teilhard de Chardin]
 
 Lý thuyết của nhà thần học-nhà khoa học Teilhard de Chardin về một điểm hội tụ tối hậu mà tiến hóa vũ trụ đang hướng tới - nơi ý thức, phức tạp và tổ chức đạt đến đỉnh cao tuyệt đối. Đây là ĐIỂM CUỐI của tiến hóa vũ trụ, nơi tất cả sự sống và ý thức hợp nhất thành một thực tại duy nhất siêu việt.
@@ -25975,7 +25981,9 @@ Lý thuyết của David Bohm về một thực tại thống nhất ẩn, từ 
 
 → **Liên kết:** FOUNDATIONS (Holographic Universe), DYNAMICS (Flow Understanding).
 
-### **Primordial Unity States**
+---
+
+### **4. Primordial Unity States - Trạng Thái Thống Nhất Nguyên Thủy**
 
 #### **21. The One - Cái Một** [Khái Niệm Tối Hậu Về Sự Thống Nhất]
 
@@ -26068,7 +26076,7 @@ Trạng thái nhận ra sự thống nhất căn bản của tất cả thực t
 
 ---
 
-### **Mystical Union Paths**
+### **5. Mystical Union Paths - Con Đường Hợp Nhất Huyền Bí**
 
 #### **26. Unio Mystica** - Hợp Nhất Huyền Bí
 
@@ -26135,7 +26143,7 @@ Sự kết hợp các yếu tố thiêng liêng và thế tục, tạo ra một 
 
 ---
 
-### **Integration Practices**
+### **6. Integration Practices - Thực Hành Tích Hợp**
 
 #### **31. Non-Dual Integration** - Tích Hợp Bất Nhị
 
@@ -26202,7 +26210,7 @@ Sự biến đổi và hợp nhất các mặt đối lập thông qua các quá
 
 ---
 
-### **Scientific Unity Perspectives**
+### **7. Scientific Unity Perspectives - Góc Nhìn Thống Nhất Khoa Học**
 
 #### **36. Quantum Entanglement** - Rối Lượng Tử
 
