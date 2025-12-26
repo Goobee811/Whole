@@ -20907,17 +20907,9 @@ Khả năng điều chỉnh hành động với thời điểm tối ưu.
 
 Thiết kế và thực hiện các thử nghiệm có cấu trúc để kiểm tra giả thuyết và khám phá kiến thức mới.
 
-### **Các Khái Niệm & Phương Pháp Cốt Lõi**
+### **1. Experimental Design Types - Các Loại Thiết Kế Thực Nghiệm**
 
-#### **1. War Gaming & Simulation** - Diễn Tập & Mô Phỏng Chiến Tranh
-Mô phỏng các kịch bản cạnh tranh để kiểm tra các chiến lược và khả năng ra quyết định dưới áp lực.
-- **Competitive Simulation**: Mô phỏng một môi trường động với các đối thủ thông minh và có phản ứng.
-- **Strategic Stress Test**: Kiểm tra sức chịu đựng của một chiến lược trước các hành động và phản ứng của đối thủ.
-- **Response Evaluation**: Đánh giá hiệu quả của các phản ứng và quyết định trong thời gian thực.
-- **Dynamic Learning Environment**: Tạo ra một môi trường học hỏi động để tinh chỉnh chiến lược.
-→ **Liên kết:** NAVIGATION (Strategic Wayfinding), OPERATIONS (Game Theory)
-
-#### **2. Quasi-Experiment** - Thí Nghiệm Giả
+#### **1. Quasi-Experiment** - Thí Nghiệm Giả
 Một nghiên cứu thực nghiệm trong đó các đối tượng không được phân bổ ngẫu nhiên vào các nhóm.
 - **Real-world Settings**: Thường được sử dụng trong các bối cảnh thế giới thực nơi phân bổ ngẫu nhiên là không khả thi.
 - **Causal Inference Limitations**: Suy luận nhân quả yếu hơn so với thí nghiệm có kiểm soát thực sự.
@@ -20925,7 +20917,7 @@ Một nghiên cứu thực nghiệm trong đó các đối tượng không đư�
 - **Pragmatic Approach**: Một cách tiếp cận thực dụng để đánh giá các can thiệp trong thực tế.
 → **Liên kết:** VALIDATION (Controlled Experiment), OPERATIONS (Causal Reasoning)
 
-#### **3. Natural Experiment** - Thí Nghiệm Tự Nhiên
+#### **2. Natural Experiment** - Thí Nghiệm Tự Nhiên
 Một nghiên cứu quan sát trong đó một sự kiện hoặc tình huống tự nhiên tạo ra sự phân chia ngẫu nhiên hoặc gần như ngẫu nhiên vào các nhóm.
 - **Naturally Occurring Randomization**: Tận dụng sự ngẫu nhiên xảy ra tự nhiên.
 - **Strong Causal Inference**: Cho phép suy luận nhân quả mạnh mẽ hơn so với các nghiên cứu quan sát thông thường.
@@ -20933,25 +20925,7 @@ Một nghiên cứu quan sát trong đó một sự kiện hoặc tình huống 
 - **Ethical Advantages**: Có lợi thế về mặt đạo đức vì không có sự can thiệp có chủ đích.
 → **Liên kết:** DYNAMICS (System Dynamics), FOUNDATIONS (Causality & Interdependence)
 
-#### **4. Smoke Testing** - Thử Nghiệm Khói
-Một bộ các bài kiểm tra sơ bộ để xác nhận rằng các chức năng quan trọng nhất của một bản dựng phần mềm hoạt động bình thường.
-- **Build Verification**: Xác minh rằng bản dựng ổn định và sẵn sàng cho các bài kiểm tra sâu hơn.
-- **Critical Functionality Check**: Kiểm tra các chức năng cốt lõi, quan trọng nhất.
-- **Go/No-Go Decision**: Giúp đưa ra quyết định tiếp tục/dừng lại việc kiểm tra chi tiết.
-- **Quick Assessment**: Cung cấp một đánh giá nhanh chóng về sức khỏe của hệ thống.
-→ **Liên kết:** VALIDATION (Quality Assurance & Risk Assessment), OPERATIONS (Process Gating)
-
-#### **5. Sanity Check** - Kiểm Tra Sự Tỉnh Táo
-Một bài kiểm tra nhanh, cơ bản để đảm bảo rằng một kết quả hoặc một hành động có vẻ hợp lý và không vô lý.
-- **Plausibility Assessment**: Đánh giá tính hợp lý của một kết quả.
-- **Order of Magnitude Check**: Kiểm tra xem kết quả có đúng bậc độ lớn hay không ("tư duy Fermi").
-- **Common Sense Filter**: Sử dụng lẽ thường như một bộ lọc đầu tiên.
-- **Quick Reality Check**: Một cách kiểm tra thực tế nhanh chóng trước khi đi sâu vào chi tiết.
-→ **Liên kết:** FOUNDATIONS (Mental Models), OPERATIONS (Analytical Razors)
-
-### **Các Khái Niệm & Phương Pháp Bổ Sung**
-
-#### **6. Pilot Programs** - Chương Trình Thí Điểm
+#### **3. Pilot Programs** - Chương Trình Thí Điểm
 Triển khai quy mô nhỏ để kiểm tra trước khi mở rộng.
 - **Small-Scale Trial**: Thử nghiệm quy mô nhỏ.
 - **Risk Mitigation**: Giảm thiểu rủi ro.
@@ -20959,15 +20933,7 @@ Triển khai quy mô nhỏ để kiểm tra trước khi mở rộng.
 - **Refinement Stage**: Giai đoạn tinh chỉnh.
 → **Liên kết:** VALIDATION (Pilot Study), NAVIGATION (Waypoint System)
 
-#### **7. Champion-Challenger** - Nhà Vô Địch - Thách Thức
-Mô hình kiểm tra trong đó một giải pháp hiện tại (champion) được thách thức bởi các giải pháp mới (challengers).
-- **Incumbent vs New**: So sánh giải pháp hiện tại với giải pháp mới.
-- **Continuous Competition**: Cạnh tranh liên tục để cải thiện.
-- **Performance Benchmark**: Điểm chuẩn hiệu suất.
-- **Evolution Through Challenge**: Tiến hóa qua thách thức.
-→ **Liên kết:** VALIDATION (A/B Testing), DYNAMICS (Evolution & Adaptation)
-
-#### **8. Multivariate Testing** - Kiểm Thử Đa Biến
+#### **4. Multivariate Testing** - Kiểm Thử Đa Biến
 Kiểm tra nhiều biến số đồng thời để hiểu tác động kết hợp.
 - **Multiple Variables**: Nhiều biến số cùng lúc.
 - **Interaction Effects**: Hiệu ứng tương tác giữa các biến.
@@ -20975,21 +20941,57 @@ Kiểm tra nhiều biến số đồng thời để hiểu tác động kết h�
 - **Full Factorial Design**: Thiết kế giai thừa đầy đủ.
 → **Liên kết:** OPERATIONS (Experimental Design), VALIDATION (A/B Testing)
 
-#### **9. Tournament Selection** - Lựa Chọn Đấu Trường
-Phương pháp chọn lựa trong đó các ứng viên cạnh tranh theo cặp hoặc nhóm.
-- **Pairwise Competition**: Cạnh tranh theo cặp.
-- **Elimination Process**: Quá trình loại bỏ.
-- **Best-of-Breed Selection**: Chọn lựa tốt nhất.
-- **Evolutionary Algorithm**: Thuật toán tiến hóa.
-→ **Liên kết:** OPERATIONS (Decision Frameworks), CREATION (Innovation Methods)
+### **2. Preliminary Assessment Methods - Phương Pháp Đánh Giá Sơ Bộ**
 
-#### **10. Model Comparison** - So Sánh Mô Hình
+#### **5. Smoke Testing** - Thử Nghiệm Khói
+Một bộ các bài kiểm tra sơ bộ để xác nhận rằng các chức năng quan trọng nhất của một bản dựng phần mềm hoạt động bình thường.
+- **Build Verification**: Xác minh rằng bản dựng ổn định và sẵn sàng cho các bài kiểm tra sâu hơn.
+- **Critical Functionality Check**: Kiểm tra các chức năng cốt lõi, quan trọng nhất.
+- **Go/No-Go Decision**: Giúp đưa ra quyết định tiếp tục/dừng lại việc kiểm tra chi tiết.
+- **Quick Assessment**: Cung cấp một đánh giá nhanh chóng về sức khỏe của hệ thống.
+→ **Liên kết:** VALIDATION (Quality Assurance & Risk Assessment), OPERATIONS (Process Gating)
+
+#### **6. Sanity Check** - Kiểm Tra Sự Tỉnh Táo
+Một bài kiểm tra nhanh, cơ bản để đảm bảo rằng một kết quả hoặc một hành động có vẻ hợp lý và không vô lý.
+- **Plausibility Assessment**: Đánh giá tính hợp lý của một kết quả.
+- **Order of Magnitude Check**: Kiểm tra xem kết quả có đúng bậc độ lớn hay không ("tư duy Fermi").
+- **Common Sense Filter**: Sử dụng lẽ thường như một bộ lọc đầu tiên.
+- **Quick Reality Check**: Một cách kiểm tra thực tế nhanh chóng trước khi đi sâu vào chi tiết.
+→ **Liên kết:** FOUNDATIONS (Mental Models), OPERATIONS (Analytical Razors)
+
+#### **7. Model Comparison** - So Sánh Mô Hình
 Đánh giá và xếp hạng các mô hình khác nhau dựa trên hiệu suất.
 - **Performance Metrics**: Các chỉ số hiệu suất.
 - **Goodness of Fit**: Độ phù hợp.
 - **Predictive Accuracy**: Độ chính xác dự đoán.
 - **Information Criteria**: Tiêu chí thông tin (AIC, BIC).
 → **Liên kết:** OPERATIONS (Model Comparison), VALIDATION #12 (Benchmarking - kiểm chứng chất lượng)
+
+### **3. Competitive Selection Protocols - Giao Thức Lựa Chọn Cạnh Tranh**
+
+#### **8. War Gaming & Simulation** - Diễn Tập & Mô Phỏng Chiến Tranh
+Mô phỏng các kịch bản cạnh tranh để kiểm tra các chiến lược và khả năng ra quyết định dưới áp lực.
+- **Competitive Simulation**: Mô phỏng một môi trường động với các đối thủ thông minh và có phản ứng.
+- **Strategic Stress Test**: Kiểm tra sức chịu đựng của một chiến lược trước các hành động và phản ứng của đối thủ.
+- **Response Evaluation**: Đánh giá hiệu quả của các phản ứng và quyết định trong thời gian thực.
+- **Dynamic Learning Environment**: Tạo ra một môi trường học hỏi động để tinh chỉnh chiến lược.
+→ **Liên kết:** NAVIGATION (Strategic Wayfinding), OPERATIONS (Game Theory)
+
+#### **9. Champion-Challenger** - Nhà Vô Địch - Thách Thức
+Mô hình kiểm tra trong đó một giải pháp hiện tại (champion) được thách thức bởi các giải pháp mới (challengers).
+- **Incumbent vs New**: So sánh giải pháp hiện tại với giải pháp mới.
+- **Continuous Competition**: Cạnh tranh liên tục để cải thiện.
+- **Performance Benchmark**: Điểm chuẩn hiệu suất.
+- **Evolution Through Challenge**: Tiến hóa qua thách thức.
+→ **Liên kết:** VALIDATION (A/B Testing), DYNAMICS (Evolution & Adaptation)
+
+#### **10. Tournament Selection** - Lựa Chọn Đấu Trường
+Phương pháp chọn lựa trong đó các ứng viên cạnh tranh theo cặp hoặc nhóm.
+- **Pairwise Competition**: Cạnh tranh theo cặp.
+- **Elimination Process**: Quá trình loại bỏ.
+- **Best-of-Breed Selection**: Chọn lựa tốt nhất.
+- **Evolutionary Algorithm**: Thuật toán tiến hóa.
+→ **Liên kết:** OPERATIONS (Decision Frameworks), CREATION (Innovation Methods)
 
 #### **11. Shock Doctrine Thinking** - Tư Duy Học Thuyết Cú Sốc
 Nghiên cứu cách hệ thống phản ứng và có thể bị khai thác trong các cuộc khủng hoảng.
@@ -20999,6 +21001,8 @@ Nghiên cứu cách hệ thống phản ứng và có thể bị khai thác tron
 - **Defense Planning**: Lập kế hoạch phòng thủ.
 → **Liên kết:** NAVIGATION (Crisis Management), VALIDATION (Stress Testing)
 
+### **4. Temporal Performance Testing - Kiểm Thử Hiệu Năng Theo Thời Gian**
+
 #### **12. Forward Testing** - Kiểm Thử Tiến
 Kiểm tra mô hình trên dữ liệu tương lai (out-of-sample) chưa được sử dụng trong huấn luyện.
 - **Future Data**: Dữ liệu tương lai chưa thấy.
@@ -21007,21 +21011,21 @@ Kiểm tra mô hình trên dữ liệu tương lai (out-of-sample) chưa đượ
 - **Walk-Forward Analysis**: Phân tích đi-tiến.
 → **Liên kết:** VALIDATION (Backtesting), OPERATIONS (Predictive Modeling)
 
-#### **13. Regime Change Detection** - Phát Hiện Thay Đổi Chế Độ
-Nhận diện khi các quy tắc hoặc động lực cơ bản của hệ thống thay đổi.
-- **Structural Breaks**: Các điểm gãy cấu trúc.
-- **Paradigm Shifts**: Thay đổi mô hình.
-- **Discontinuity Detection**: Phát hiện sự gián đoạn.
-- **Adaptive Response**: Phản ứng thích nghi.
-→ **Liên kết:** DYNAMICS (Phase Transition), NAVIGATION (Situational Awareness)
-
-#### **14. Decay Testing** - Kiểm Thử Suy Giảm
+#### **13. Decay Testing** - Kiểm Thử Suy Giảm
 Kiểm tra cách hiệu suất của hệ thống suy giảm theo thời gian.
 - **Performance Degradation**: Suy giảm hiệu suất.
 - **Time-Based Erosion**: Xói mòn theo thời gian.
 - **Longevity Assessment**: Đánh giá tuổi thọ.
 - **Maintenance Requirements**: Yêu cầu bảo trì.
 → **Liên kết:** DYNAMICS (Entropy), VALIDATION (Stress Testing)
+
+#### **14. Regime Change Detection** - Phát Hiện Thay Đổi Chế Độ
+Nhận diện khi các quy tắc hoặc động lực cơ bản của hệ thống thay đổi.
+- **Structural Breaks**: Các điểm gãy cấu trúc.
+- **Paradigm Shifts**: Thay đổi mô hình.
+- **Discontinuity Detection**: Phát hiện sự gián đoạn.
+- **Adaptive Response**: Phản ứng thích nghi.
+→ **Liên kết:** DYNAMICS (Phase Transition), NAVIGATION (Situational Awareness)
 
 #### **15. Evolution Tracking** - Theo Dõi Tiến Hóa
 Giám sát cách một hệ thống hoặc mô hình thay đổi và phát triển theo thời gian.
@@ -21038,6 +21042,8 @@ Thiết kế hệ thống để duy trì tính hữu dụng và khả năng thí
 - **Scenario Robustness**: Vững chắc trước nhiều kịch bản.
 - **Long-term Viability**: Khả năng tồn tại lâu dài.
 → **Liên kết:** NAVIGATION (Strategic Wayfinding), INTEGRATION (Antifragile Design)
+
+### **5. Predictive & Stochastic Validation - Kiểm Chứng Dự Đoán & Ngẫu Nhiên**
 
 #### **17. Prediction Accuracy** - Độ Chính Xác Dự Đoán
 Đo lường mức độ chính xác của các dự đoán so với kết quả thực tế.
@@ -21070,6 +21076,8 @@ Xác định các biến nào có tác động lớn nhất đến kết quả d
 - **Relevance Ranking**: Xếp hạng mức độ liên quan.
 - **Model Interpretability**: Khả năng diễn giải mô hình.
 → **Liên kết:** OPERATIONS (Machine Learning), VALIDATION (Sensitivity Analysis)
+
+### **6. Paradox & Breakthrough Protocols - Giao Thức Nghịch Lý & Đột Phá**
 
 #### **21. Koan Processing** - Xử Lý Công Án
 Sử dụng các câu đố nghịch lý (koan) để phá vỡ tư duy tuyến tính và đạt insight đột phá.
