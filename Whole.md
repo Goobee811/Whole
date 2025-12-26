@@ -20265,7 +20265,7 @@ Xác thực bằng cách theo dõi trong một khoảng thời gian dài.
 
 Tìm kiếm, phát hiện và khắc phục các điểm yếu, lỗi hổng và thiên kiến trong tư duy và hệ thống.
 
-### **Các Khái Niệm & Phương Pháp Cốt Lõi**
+### **1. Adversarial Testing Methods - Phương Pháp Kiểm Thử Đối Kháng**
 
 #### **1. Red Teaming** - Đội Đỏ [Phương Pháp Kiểm Chứng Phản Biện]
 
@@ -20291,7 +20291,33 @@ Mô phỏng một cuộc tấn công mạng để phát hiện các lỗ hổng 
 - **Defense Improvement**: Cung cấp thông tin cụ thể để cải thiện các biện pháp phòng thủ.
 → **Liên kết:** INTEGRATION (System Resilience), OPERATIONS (Cybersecurity)
 
-#### **3. Stress Testing** - Thử Nghiệm Áp Lực
+#### **3. Fault Injection** - Tiêm Lỗi
+Cố ý đưa các lỗi hoặc lỗi vào một hệ thống để kiểm tra khả năng xử lý lỗi và khả năng phục hồi của nó.
+- **Targeted Error Introduction**: Cố ý đưa vào các lỗi cụ thể tại các điểm được nhắm mục tiêu.
+- **Component Failure Simulation**: Mô phỏng sự thất bại của các thành phần riêng lẻ.
+- **System Response Analysis**: Phân tích cách hệ thống phát hiện, cách ly và phục hồi từ lỗi.
+- **Fault Tolerance Verification**: Xác minh rằng các cơ chế chịu lỗi của hệ thống hoạt động như mong đợi.
+→ **Liên kết:** INTEGRATION (System Resilience), DYNAMICS (System Dynamics)
+
+#### **4. Byzantine Fault Tolerance (BFT) Testing** - Kiểm Thử Khả Năng Chịu Lỗi Byzantine
+Kiểm tra khả năng của một hệ thống phân tán đạt được sự đồng thuận ngay cả khi một số thành phần hoạt động độc hại.
+- **Malicious Actor Simulation**: Mô phỏng các nút trong mạng gửi thông tin sai lệch hoặc mâu thuẫn.
+- **Network Consensus Testing**: Kiểm tra xem các nút trung thực có thể đạt được thỏa thuận về trạng thái của hệ thống hay không.
+- **Distributed System Resilience**: Đánh giá khả năng phục hồi của hệ thống trước các cuộc tấn công nội bộ.
+- **Split-Brain Scenario Handling**: Xử lý các kịch bản "não chia đôi".
+→ **Liên kết:** AMPLIFICATION (Network Effects), INTEGRATION (Systemic Integration)
+
+#### **5. Trojan Horse Testing** - Kiểm Thử Ngựa Troia
+Kiểm tra hệ thống phòng thủ bằng cách mô phỏng một cuộc tấn công bắt nguồn từ bên trong các rào cản an ninh.
+- **Insider Threat Simulation**: Mô phỏng các mối đe dọa từ nội bộ (do vô tình hoặc cố ý).
+- **Trust Model Validation**: Xác thực các mô hình tin cậy và các giả định về những gì được coi là "an toàn" bên trong.
+- **Internal Security Testing**: Kiểm tra hiệu quả của các biện pháp an ninh nội bộ.
+- **Privilege Escalation Analysis**: Phân tích xem một kẻ tấn công bên trong có thể leo thang đặc quyền của chúng như thế nào.
+→ **Liên kết:** NAVIGATION (Risk Navigation), INTEGRATION (System Boundaries)
+
+### **2. Stress & Resilience Testing - Kiểm Thử Áp Lực & Khả Năng Phục Hồi**
+
+#### **6. Stress Testing** - Thử Nghiệm Áp Lực
 Đẩy một hệ thống đến giới hạn của nó để xem nó có thể chịu được bao nhiêu trước khi thất bại.
 - **Capacity Limits**: Xác định giới hạn tải tối đa của hệ thống.
 - **Breaking Point Analysis**: Phân tích điểm vỡ để hiểu nơi hệ thống yếu nhất.
@@ -20299,7 +20325,7 @@ Mô phỏng một cuộc tấn công mạng để phát hiện các lỗ hổng 
 - **Risk Quantification**: Định lượng rủi ro trong các kịch bản cực đoan.
 → **Liên kết:** DYNAMICS (Resilience Building), VALIDATION (Risk Assessment)
 
-#### **4. Chaos Engineering** - Kỹ Thuật Hỗn Loạn
+#### **7. Chaos Engineering** - Kỹ Thuật Hỗn Loạn
 Cố ý đưa vào các lỗi và sự thất bại ngẫu nhiên vào một hệ thống sản xuất để kiểm tra khả năng phục hồi của nó.
 - **Proactive Failure Injection**: Chủ động gây ra lỗi để phát hiện điểm yếu.
 - **Production Environment Testing**: Kiểm tra trong môi trường thực tế, nơi các vấn đề thực sự xảy ra.
@@ -20307,7 +20333,25 @@ Cố ý đưa vào các lỗi và sự thất bại ngẫu nhiên vào một h�
 - **Continuous Learning**: Học hỏi liên tục từ các thử nghiệm để cải thiện hệ thống.
 → **Liên kết:** INTEGRATION (Antifragile Design), DYNAMICS (System Dynamics)
 
-#### **5. Pre-mortem Analysis** - Phân Tích Tiền Khám Nghiệm [Công Cụ Kiểm Chứng]
+#### **8. Boundary Condition Testing** - Kiểm Tra Điều Kiện Biên
+Tập trung kiểm tra các giá trị đầu vào ở các giới hạn cực đoan của phạm vi hợp lệ.
+- **Edge Case Exploration**: Khám phá các trường hợp biên, nơi các lỗi thường xảy ra nhất.
+- **Limit Testing**: Kiểm tra hệ thống ở các giá trị tối thiểu, tối đa và các giá trị ngay bên ngoài phạm vi.
+- **Extreme Input Validation**: Xác thực cách hệ thống xử lý các đầu vào cực đoan hoặc không mong muốn.
+- **System Stability Check**: Kiểm tra sự ổn định của hệ thống khi hoạt động ở giới hạn của nó.
+→ **Liên kết:** OPERATIONS (Constraint Analysis), DYNAMICS (Tipping Points)
+
+#### **9. Conceptual Stress Testing** - Kiểm Thử Sức Chịu Đựng Khái Niệm
+Đẩy một ý tưởng hoặc lý thuyết đến các giới hạn logic hoặc thực tế của nó.
+- **Extreme Case Application**: Áp dụng ý tưởng cho các trường hợp cực đoan hoặc giả định để xem nó có còn đúng hay không.
+- **Scaling Test**: Kiểm tra xem ý tưởng có còn hoạt động khi được mở rộng quy mô lên rất lớn hoặc thu nhỏ lại rất nhỏ không.
+- **Temporal Test**: Kiểm tra xem ý tưởng có còn giá trị trong quá khứ xa hoặc tương lai xa không.
+- **Logical Contradiction Search**: Tìm kiếm các mâu thuẫn logic phát sinh khi ý tưởng được áp dụng một cách nhất quán.
+→ **Liên kết:** TRANSCENDENCE (Paradox Mastery), OPERATIONS (Reasoning Architectures)
+
+### **3. Proactive Failure Prevention - Phòng Ngừa Thất Bại Chủ Động**
+
+#### **10. Pre-mortem Analysis** - Phân Tích Tiền Khám Nghiệm [Công Cụ Kiểm Chứng]
 
 Kỹ thuật kiểm chứng bằng cách tưởng tượng dự án đã THẤT BẠI và phân tích ngược để xác định rủi ro tiềm tàng. Đây là công cụ "STRESS-TEST TƯỞNG TƯỢNG" - kiểm tra độ vững chắc của kế hoạch TRƯỚC KHI thực thi.
 
@@ -20327,7 +20371,33 @@ Kỹ thuật kiểm chứng bằng cách tưởng tượng dự án đã THẤT 
 💡 **Khi nào dùng:** TRƯỚC khi commit nguồn lực lớn vào một kế hoạch
 💡 **Sức mạnh:** Phát hiện "unknown unknowns" - những rủi ro mà planning thường không thấy
 
-#### **6. Devil's Advocate** - Người Bào Chữa Cho Quỷ
+#### **11. Inversion (as a testing method)** - Đảo Ngược
+Thay vì hỏi "Làm thế nào để thành công?", hãy hỏi "Điều gì có thể gây ra thất bại?"
+- **Problem Reversal**: Đảo ngược vấn đề để tập trung vào việc ngăn chặn kết quả tiêu cực.
+- **Failure Pathway Identification**: Xác định tất cả các con đường có thể dẫn đến thất bại.
+- **Avoidance Strategy Generation**: Tạo ra các chiến lược để tránh các con đường thất bại đó.
+- **Blind Spot Discovery**: Khám phá các điểm mù và các rủi ro không rõ ràng.
+→ **Liên kết:** FOUNDATIONS (Via Negativa), CREATION (Problem Reframing)
+
+#### **12. Backcasting from Failure** - Suy Lùi từ Thất Bại
+Bắt đầu từ một chế độ thất bại cụ thể và truy ngược lại để xác định các chuỗi sự kiện có thể dẫn đến nó.
+- **Failure-to-Cause Mapping**: Lập bản đồ từ một thất bại cụ thể trở lại các nguyên nhân tiềm tàng.
+- **Causal Chain Analysis**: Phân tích các chuỗi nhân quả có thể dẫn đến kết quả không mong muốn.
+- **Preventative Control Identification**: Xác định các điểm kiểm soát phòng ngừa dọc theo chuỗi nhân quả.
+- **Early Warning Signal Design**: Thiết kế các tín hiệu cảnh báo sớm cho thấy một chuỗi thất bại đang diễn ra.
+→ **Liên kết:** OPERATIONS (Root Cause Analysis), DYNAMICS (System Dynamics)
+
+#### **13. "Kill the Company" Exercise** - Bài Tập "Giết Chết Công Ty"
+Một bài tập chiến lược trong đó một nhóm đóng vai một đối thủ cạnh tranh mới và tìm cách đánh bại công ty của chính mình.
+- **Competitor Simulation**: Mô phỏng một đối thủ cạnh tranh nhanh nhẹn, được tài trợ tốt và không bị ràng buộc bởi di sản.
+- **Market Disruption Modeling**: Lập mô hình các chiến lược đột phá có thể làm lung lay thị trường hiện tại.
+- **Strategic Vulnerability Discovery**: Khám phá các lỗ hổng chiến lược, sản phẩm hoặc văn hóa của chính công ty.
+- **Defensive Moat Testing**: Kiểm tra sức mạnh của các "hào" phòng thủ cạnh tranh của công ty.
+→ **Liên kết:** CREATION (Disruptive Innovation), NAVIGATION (Strategic Wayfinding)
+
+### **4. Critical Inquiry & Dissent - Truy Vấn Phản Biện & Bất Đồng**
+
+#### **14. Devil's Advocate** - Người Bào Chữa Cho Quỷ
 
 Vai trò hoặc phương pháp chủ động lấy lập trường đối lập để thách thức tư duy nhóm, phơi bày điểm mù và tăng cường độ tin cậy của quyết định. Đây là một cơ chế kiểm định có cấu trúc để PHÁ VỠ SỰ ĐỒNG THUẬN SỚM và buộc nhóm phải xem xét các góc nhìn thay thế.
 
@@ -20363,7 +20433,7 @@ Vai trò hoặc phương pháp chủ động lấy lập trường đối lập 
 
 **Gốc lịch sử:** Từ thủ tục phong thánh của Giáo hội Công giáo - một người được chỉ định để tìm mọi lý do CHỐNG LẠI việc phong thánh.
 
-#### **7. Socratic Questioning** - Truy Vấn Socrates
+#### **15. Socratic Questioning** - Truy Vấn Socrates
 Phương pháp đặt các câu hỏi sâu sắc và dẫn dắt để thăm dò các niềm tin, phơi bày giả định và tìm ra mâu thuẫn logic.
 - **Deep Questioning**: Đặt các câu hỏi sâu để thăm dò và làm rõ các niềm tin.
 - **Assumption Exposure**: Phơi bày các giả định tiềm ẩn và các mâu thuẫn logic trong một lập luận.
@@ -20371,7 +20441,7 @@ Phương pháp đặt các câu hỏi sâu sắc và dẫn dắt để thăm dò
 - **Collaborative Truth-Seeking**: Một quá trình đối kháng với ý tưởng (không phải con người) để cùng nhau tiến gần hơn đến sự thật.
 → **Liên kết:** FOUNDATIONS (Socratic Wisdom), [META] LAYER (Meta-Cognition)
 
-#### **8. Cross-Examination** - Đối Chất
+#### **16. Cross-Examination** - Đối Chất
 Kỹ thuật trong phòng xử án để thẩm vấn một nhân chứng của phe đối lập nhằm kiểm tra tính xác thực và độ tin cậy của lời khai.
 - **Leading Questions**: Sử dụng các câu hỏi dẫn dắt để kiểm soát và định hướng câu trả lời.
 - **Credibility Challenge**: Thách thức độ tin cậy và sự nhất quán của nhân chứng.
@@ -20379,15 +20449,7 @@ Kỹ thuật trong phòng xử án để thẩm vấn một nhân chứng của 
 - **Inconsistency Exposure**: Phơi bày những mâu thuẫn trong lời khai hoặc giữa lời khai và bằng chứng khác.
 → **Liên kết:** OPERATIONS (Reasoning Architectures), VALIDATION (Correspondence Check)
 
-#### **9. Inversion (as a testing method)** - Đảo Ngược
-Thay vì hỏi "Làm thế nào để thành công?", hãy hỏi "Điều gì có thể gây ra thất bại?"
-- **Problem Reversal**: Đảo ngược vấn đề để tập trung vào việc ngăn chặn kết quả tiêu cực.
-- **Failure Pathway Identification**: Xác định tất cả các con đường có thể dẫn đến thất bại.
-- **Avoidance Strategy Generation**: Tạo ra các chiến lược để tránh các con đường thất bại đó.
-- **Blind Spot Discovery**: Khám phá các điểm mù và các rủi ro không rõ ràng.
-→ **Liên kết:** FOUNDATIONS (Via Negativa), CREATION (Problem Reframing)
-
-#### **10. Assumption Testing** - Kiểm Tra Giả Định
+#### **17. Assumption Testing** - Kiểm Tra Giả Định
 Quá trình xác định và thách thức một cách có hệ thống các giả định tiềm ẩn đằng sau một kế hoạch hoặc niềm tin.
 - **Assumption Identification**: Làm cho các giả định ngầm trở nên tường minh.
 - **Evidence Challenge**: Thách thức bằng chứng (hoặc sự thiếu bằng chứng) cho mỗi giả định.
@@ -20395,23 +20457,7 @@ Quá trình xác định và thách thức một cách có hệ thống các gi�
 - **Foundation Strengthening**: Củng cố nền tảng của tư duy và lập kế hoạch.
 → **Liên kết:** OPERATIONS (First Principles), [META] LAYER (Meta-Cognition)
 
-#### **11. Fault Injection** - Tiêm Lỗi
-Cố ý đưa các lỗi hoặc lỗi vào một hệ thống để kiểm tra khả năng xử lý lỗi và khả năng phục hồi của nó.
-- **Targeted Error Introduction**: Cố ý đưa vào các lỗi cụ thể tại các điểm được nhắm mục tiêu.
-- **Component Failure Simulation**: Mô phỏng sự thất bại của các thành phần riêng lẻ.
-- **System Response Analysis**: Phân tích cách hệ thống phát hiện, cách ly và phục hồi từ lỗi.
-- **Fault Tolerance Verification**: Xác minh rằng các cơ chế chịu lỗi của hệ thống hoạt động như mong đợi.
-→ **Liên kết:** INTEGRATION (System Resilience), DYNAMICS (System Dynamics)
-
-#### **12. Byzantine Fault Tolerance (BFT) Testing** - Kiểm Thử Khả Năng Chịu Lỗi Byzantine
-Kiểm tra khả năng của một hệ thống phân tán đạt được sự đồng thuận ngay cả khi một số thành phần hoạt động độc hại.
-- **Malicious Actor Simulation**: Mô phỏng các nút trong mạng gửi thông tin sai lệch hoặc mâu thuẫn.
-- **Network Consensus Testing**: Kiểm tra xem các nút trung thực có thể đạt được thỏa thuận về trạng thái của hệ thống hay không.
-- **Distributed System Resilience**: Đánh giá khả năng phục hồi của hệ thống trước các cuộc tấn công nội bộ.
-- **Split-Brain Scenario Handling**: Xử lý các kịch bản "não chia đôi".
-→ **Liên kết:** AMPLIFICATION (Network Effects), INTEGRATION (Systemic Integration)
-
-#### **13. Disconfirmation Seeking** - Tìm Kiếm Sự Bác Bỏ
+#### **18. Disconfirmation Seeking** - Tìm Kiếm Sự Bác Bỏ
 Hành động chủ động và có ý thức tìm kiếm bằng chứng chống lại các niềm tin hoặc giả thuyết của chính mình.
 - **Active Search for Counter-evidence**: Chủ động tìm kiếm các dữ liệu, lập luận hoặc quan điểm mâu thuẫn.
 - **Confirmation Bias Mitigation**: Là một liều thuốc giải độc mạnh mẽ cho thiên kiến xác nhận.
@@ -20419,7 +20465,7 @@ Hành động chủ động và có ý thức tìm kiếm bằng chứng chống
 - **Intellectual Honesty**: Thể hiện sự trung thực và nghiêm túc trong trí tuệ.
 → **Liên kết:** [META] LAYER (Intellectual Humility), VALIDATION (Falsification Principle)
 
-#### **14. Tenth Man Rule** - Quy Tắc Người Thứ Mười
+#### **19. Tenth Man Rule** - Quy Tắc Người Thứ Mười
 Một quy trình ra quyết định trong đó nếu chín người trong một nhóm đồng ý, người thứ mười có nhiệm vụ phải phản đối.
 - **Mandatory Dissent**: Sự bất đồng bắt buộc, đảm bảo rằng các quan điểm đối lập luôn được xem xét.
 - **Alternative Hypothesis Generation**: Buộc phải tạo ra và khám phá các giả thuyết thay thế.
@@ -20427,23 +20473,125 @@ Một quy trình ra quyết định trong đó nếu chín người trong một 
 - **Extreme Scenario Validation**: Đảm bảo rằng các kịch bản cực đoan hoặc khó tin nhất cũng đã được phân tích.
 → **Liên kết:** OPERATIONS (Decision Frameworks), [META] LAYER (Bias Awareness)
 
-#### **15. "Kill the Company" Exercise** - Bài Tập "Giết Chết Công Ty"
-Một bài tập chiến lược trong đó một nhóm đóng vai một đối thủ cạnh tranh mới và tìm cách đánh bại công ty của chính mình.
-- **Competitor Simulation**: Mô phỏng một đối thủ cạnh tranh nhanh nhẹn, được tài trợ tốt và không bị ràng buộc bởi di sản.
-- **Market Disruption Modeling**: Lập mô hình các chiến lược đột phá có thể làm lung lay thị trường hiện tại.
-- **Strategic Vulnerability Discovery**: Khám phá các lỗ hổng chiến lược, sản phẩm hoặc văn hóa của chính công ty.
-- **Defensive Moat Testing**: Kiểm tra sức mạnh của các "hào" phòng thủ cạnh tranh của công ty.
-→ **Liên kết:** CREATION (Disruptive Innovation), NAVIGATION (Strategic Wayfinding)
+#### **20. Assumption Hunting** - Săn Lùng Giả Định
+Thực hành tích cực tìm kiếm và thách thức các giả định ẩn.
+- **Hidden Assumption Discovery**: Phát hiện các giả định ngầm.
+- **Explicit Articulation**: Diễn đạt rõ ràng các giả định.
+- **Challenge Protocol**: Quy trình thách thức giả định.
+- **Foundation Questioning**: Đặt câu hỏi về nền tảng.
+→ **Liên kết:** VALIDATION (Assumption Testing), OPERATIONS (First Principles)
 
-#### **16. Boundary Condition Testing** - Kiểm Tra Điều Kiện Biên
-Tập trung kiểm tra các giá trị đầu vào ở các giới hạn cực đoan của phạm vi hợp lệ.
-- **Edge Case Exploration**: Khám phá các trường hợp biên, nơi các lỗi thường xảy ra nhất.
-- **Limit Testing**: Kiểm tra hệ thống ở các giá trị tối thiểu, tối đa và các giá trị ngay bên ngoài phạm vi.
-- **Extreme Input Validation**: Xác thực cách hệ thống xử lý các đầu vào cực đoan hoặc không mong muốn.
-- **System Stability Check**: Kiểm tra sự ổn định của hệ thống khi hoạt động ở giới hạn của nó.
-→ **Liên kết:** OPERATIONS (Constraint Analysis), DYNAMICS (Tipping Points)
+### **5. Cognitive Bias & Blind Spot Detection - Phát Hiện Thiên Kiến & Điểm Mù**
 
-#### **17. Sensitivity Analysis** - Phân Tích Độ Nhạy [Phát Hiện Lỗi & Điểm Yếu]
+#### **21. Cognitive Biases** - Các Thiên Kiến Nhận Thức (Tổng Quan)
+
+Tập hợp hệ thống các lỗi tư duy có tính hệ thống do cách bộ não xử lý thông tin. Đây là một trong những nguồn lỗi CHÍNH CẦN KIỂM CHỨNG trong hệ thống tư duy.
+
+• Systematic Errors: Lỗi có tính hệ thống, không ngẫu nhiên
+• Mental Shortcuts: Xuất phát từ các phím tắt tư duy (heuristics)
+• Predictable Patterns: Có các mẫu có thể dự đoán được
+• Universal Human: Phổ quát ở con người, không phải lỗi cá nhân
+
+→ Liên kết nội bộ: [META] LAYER (#4 Awareness of Bias - công cụ nhận thức)
+→ Tác động đến: DYNAMICS (#4 Cognitive Flexibility - cản trở sự linh hoạt)
+→ Công cụ chống lại: OPERATIONS (Critical Thinking), VALIDATION (Devil's Advocate)
+→ Danh sách chi tiết: Xem #1-11 và nhiều bias khác trong chức năng này
+
+**Ghi chú:** Cognitive Biases là CẢN TRỞ cho Cognitive Flexibility (DYNAMICS), nhưng được phân loại và xử lý chủ yếu tại VALIDATION vì đây là domain chuyên về phát hiện và sửa lỗi hệ thống.
+
+#### **22. Black Swan Blindness** - Mù Lòa Thiên Nga Đen
+Khuynh hướng đánh giá thấp hoặc bỏ qua các sự kiện hiếm gặp nhưng có tác động lớn.
+- **Rare Event Neglect**: Bỏ qua các sự kiện hiếm.
+- **Fat Tail Ignorance**: Không nhận thức về "đuôi béo" trong phân phối.
+- **Fragility to Extremes**: Dễ tổn thương trước các sự kiện cực đoan.
+- **Narrative Fallacy**: Giải thích hậu sự kiện bằng các câu chuyện gọn gàng.
+→ **Liên kết:** NAVIGATION (Risk Navigation), VALIDATION (The Ludic Fallacy)
+
+#### **23. Blind Spot Analysis** - Phân Tích Điểm Mù
+Phương pháp tìm kiếm các khu vực mà hệ thống hoặc cá nhân không thể tự nhìn thấy.
+- **Coverage Mapping**: Lập bản đồ phạm vi phủ sóng.
+- **Gap Identification**: Xác định các khoảng trống.
+- **Unknown Unknowns**: Tìm kiếm những điều chưa biết mà ta chưa biết.
+- **External Perspective**: Sử dụng góc nhìn bên ngoài để phát hiện.
+→ **Liên kết:** VALIDATION (360-Degree Feedback), [META] LAYER (Meta-Cognition)
+
+#### **24. Algorithmic Bias Audit** - Kiểm Toán Thiên Kiến Thuật Toán
+Một quy trình có hệ thống để kiểm tra các hệ thống thuật toán nhằm phát hiện và giảm thiểu các kết quả không công bằng hoặc mang tính phân biệt đối xử.
+- **Fairness Metrics Analysis**: Phân tích các chỉ số công bằng khác nhau để xem thuật toán có đối xử bất lợi với các nhóm cụ thể hay không.
+- **Disparate Impact Testing**: Kiểm tra tác động chênh lệch, ngay cả khi không có ý định phân biệt đối xử.
+- **Data Set Examination**: Kiểm tra tập dữ liệu huấn luyện để tìm các thiên kiến tiềm ẩn có thể được thuật toán học theo.
+- **Mitigation Strategy Design**: Thiết kế các chiến lược để làm cho thuật toán trở nên công bằng hơn.
+→ **Liên kết:** FOUNDATIONS (Core Values & Ethics), AMPLIFICATION (Network Effects)
+
+### **6. Error Detection & Analysis - Phát Hiện & Phân Tích Lỗi**
+
+#### **25. Error Detection** - Phát Hiện Lỗi (Tổng Quan)
+Các phương pháp và kỹ thuật để nhận diện lỗi trong hệ thống.
+- **Systematic Identification**: Nhận diện có hệ thống.
+- **Pattern Recognition**: Nhận dạng mẫu lỗi.
+- **Anomaly Detection**: Phát hiện bất thường.
+- **Quality Control**: Kiểm soát chất lượng tự động.
+→ **Liên kết:** OPERATIONS (Quality Assurance), VALIDATION (Statistical Process Control)
+
+#### **26. Error Analysis** - Phân Tích Lỗi
+Nghiên cứu chi tiết về bản chất, nguyên nhân và tác động của lỗi.
+- **Root Cause Identification**: Xác định nguyên nhân gốc rễ.
+- **Error Classification**: Phân loại các loại lỗi.
+- **Impact Assessment**: Đánh giá tác động của lỗi.
+- **Pattern Analysis**: Phân tích mẫu lỗi để phòng ngừa.
+→ **Liên kết:** OPERATIONS (Root Cause Analysis), VALIDATION (Failure Mode Analysis)
+
+#### **27. Failure Mode Analysis** - Phân Tích Chế Độ Thất Bại
+Nghiên cứu có hệ thống các cách khác nhau mà một hệ thống có thể thất bại.
+- **FMEA (Failure Mode and Effects Analysis)**: Phương pháp tiêu chuẩn.
+- **Systematic Enumeration**: Liệt kê có hệ thống các chế độ thất bại.
+- **Probability x Severity**: Xác suất nhân với mức độ nghiêm trọng.
+- **Preventive Design**: Thiết kế phòng ngừa dựa trên phân tích.
+→ **Liên kết:** VALIDATION (Risk Assessment), OPERATIONS (Systems Engineering)
+
+#### **28. Near-Miss Analysis** - Phân Tích Suýt Nữa
+Nghiên cứu các sự cố suýt xảy ra nhưng may mắn tránh được.
+- **Leading Indicators**: Chỉ số dẫn đầu về rủi ro.
+- **Early Warning**: Cảnh báo sớm về vấn đề tiềm ẩn.
+- **Prevention Focus**: Tập trung vào phòng ngừa.
+- **Safety Culture**: Xây dựng văn hóa an toàn.
+→ **Liên kết:** NAVIGATION (Leading Indicators), VALIDATION (Statistical Process Control)
+
+#### **29. Cascading Failure Analysis** - Phân Tích Thất Bại Dây Chuyền
+Nghiên cứu cách một thất bại có thể kích hoạt chuỗi thất bại khác.
+- **Domino Effect**: Hiệu ứng domino.
+- **System Interdependencies**: Sự phụ thuộc lẫn nhau trong hệ thống.
+- **Propagation Patterns**: Các mẫu lan truyền của thất bại.
+- **Circuit Breakers**: Thiết kế các "cầu chì" để ngắt chuỗi thất bại.
+→ **Liên kết:** DYNAMICS (System Dynamics), INTEGRATION (System Resilience)
+
+#### **30. Reality Glitches Detection** - Phát Hiện "Lỗi" Thực Tế
+Nhận diện các bất thường trong nhận thức hoặc dữ liệu có thể chỉ ra lỗi hệ thống hoặc hiểu biết không đầy đủ.
+- **Anomaly Awareness**: Nhận thức về bất thường.
+- **Perception Errors**: Lỗi trong nhận thức.
+- **Data Inconsistencies**: Sự không nhất quán trong dữ liệu.
+- **Signal vs Noise**: Phân biệt tín hiệu thực với nhiễu.
+→ **Liên kết:** VALIDATION (Outlier Detection), [META] LAYER (Epistemology)
+
+#### **31. Error Pattern Mining** - Khai Thác Mẫu Lỗi
+Sử dụng kỹ thuật phân tích dữ liệu để phát hiện các mẫu lỗi lặp lại.
+- **Pattern Recognition**: Nhận dạng mẫu trong lỗi.
+- **Data Mining**: Khai thác dữ liệu lỗi.
+- **Predictive Patterns**: Các mẫu có thể dự đoán lỗi tương lai.
+- **Root Cause Clustering**: Gom nhóm các nguyên nhân gốc rễ.
+→ **Liên kết:** OPERATIONS (Data Analysis), VALIDATION (Statistical Methods)
+
+#### **32. Signal vs Noise Separation** - Phân Tách Tín Hiệu và Nhiễu
+Kỹ năng phân biệt thông tin có ý nghĩa (tín hiệu) khỏi thông tin vô nghĩa (nhiễu).
+- **Information Filtering**: Lọc thông tin.
+- **Statistical Significance**: Ý nghĩa thống kê.
+- **Clarity Enhancement**: Tăng cường độ rõ ràng.
+- **Noise Reduction**: Giảm nhiễu.
+→ **Liên kết:** OPERATIONS (Statistical Thinking), FOUNDATIONS (Signal & Noise)
+
+### **7. Error Correction & Learning - Sửa Lỗi & Học Hỏi**
+
+#### **33. Sensitivity Analysis** - Phân Tích Độ Nhạy [Phát Hiện Lỗi & Điểm Yếu]
 
 Phương pháp kiểm tra và xác thực để phát hiện các điểm yếu, lỗ hổng và nguồn gốc lỗi trong mô hình, hệ thống hoặc quyết định. Trong ngữ cảnh VALIDATION, Sensitivity Analysis tập trung vào:
 - Tìm các điểm lỗi tiềm ẩn (failure modes)
@@ -20472,81 +20620,7 @@ Phương pháp kiểm tra và xác thực để phát hiện các điểm yếu,
 → **Liên kết khác:** OPERATIONS #17 (Sensitivity Analysis - công cụ giải quyết vấn đề)
 → **Tích hợp:** Nội dung từ VALIDATION Chức năng 3 #5 (Feedback Processing) và VALIDATION Chức năng 5 #39 (Sensitivity Testing)
 
-#### **18. Backcasting from Failure** - Suy Lùi từ Thất Bại
-Bắt đầu từ một chế độ thất bại cụ thể và truy ngược lại để xác định các chuỗi sự kiện có thể dẫn đến nó.
-- **Failure-to-Cause Mapping**: Lập bản đồ từ một thất bại cụ thể trở lại các nguyên nhân tiềm tàng.
-- **Causal Chain Analysis**: Phân tích các chuỗi nhân quả có thể dẫn đến kết quả không mong muốn.
-- **Preventative Control Identification**: Xác định các điểm kiểm soát phòng ngừa dọc theo chuỗi nhân quả.
-- **Early Warning Signal Design**: Thiết kế các tín hiệu cảnh báo sớm cho thấy một chuỗi thất bại đang diễn ra.
-→ **Liên kết:** OPERATIONS (Root Cause Analysis), DYNAMICS (System Dynamics)
-
-#### **19. Trojan Horse Testing** - Kiểm Thử Ngựa Troia
-Kiểm tra hệ thống phòng thủ bằng cách mô phỏng một cuộc tấn công bắt nguồn từ bên trong các rào cản an ninh.
-- **Insider Threat Simulation**: Mô phỏng các mối đe dọa từ nội bộ (do vô tình hoặc cố ý).
-- **Trust Model Validation**: Xác thực các mô hình tin cậy và các giả định về những gì được coi là "an toàn" bên trong.
-- **Internal Security Testing**: Kiểm tra hiệu quả của các biện pháp an ninh nội bộ.
-- **Privilege Escalation Analysis**: Phân tích xem một kẻ tấn công bên trong có thể leo thang đặc quyền của chúng như thế nào.
-→ **Liên kết:** NAVIGATION (Risk Navigation), INTEGRATION (System Boundaries)
-
-#### **20. Conceptual Stress Testing** - Kiểm Thử Sức Chịu Đựng Khái Niệm
-Đẩy một ý tưởng hoặc lý thuyết đến các giới hạn logic hoặc thực tế của nó.
-- **Extreme Case Application**: Áp dụng ý tưởng cho các trường hợp cực đoan hoặc giả định để xem nó có còn đúng hay không.
-- **Scaling Test**: Kiểm tra xem ý tưởng có còn hoạt động khi được mở rộng quy mô lên rất lớn hoặc thu nhỏ lại rất nhỏ không.
-- **Temporal Test**: Kiểm tra xem ý tưởng có còn giá trị trong quá khứ xa hoặc tương lai xa không.
-- **Logical Contradiction Search**: Tìm kiếm các mâu thuẫn logic phát sinh khi ý tưởng được áp dụng một cách nhất quán.
-→ **Liên kết:** TRANSCENDENCE (Paradox Mastery), OPERATIONS (Reasoning Architectures)
-
-#### **21. Algorithmic Bias Audit** - Kiểm Toán Thiên Kiến Thuật Toán
-Một quy trình có hệ thống để kiểm tra các hệ thống thuật toán nhằm phát hiện và giảm thiểu các kết quả không công bằng hoặc mang tính phân biệt đối xử.
-- **Fairness Metrics Analysis**: Phân tích các chỉ số công bằng khác nhau để xem thuật toán có đối xử bất lợi với các nhóm cụ thể hay không.
-- **Disparate Impact Testing**: Kiểm tra tác động chênh lệch, ngay cả khi không có ý định phân biệt đối xử.
-- **Data Set Examination**: Kiểm tra tập dữ liệu huấn luyện để tìm các thiên kiến tiềm ẩn có thể được thuật toán học theo.
-- **Mitigation Strategy Design**: Thiết kế các chiến lược để làm cho thuật toán trở nên công bằng hơn.
-→ **Liên kết:** FOUNDATIONS (Core Values & Ethics), AMPLIFICATION (Network Effects)
-
-### **Các Khái Niệm & Phương Pháp Bổ Sung**
-
-#### **22. Cognitive Biases** - Các Thiên Kiến Nhận Thức (Tổng Quan)
-
-Tập hợp hệ thống các lỗi tư duy có tính hệ thống do cách bộ não xử lý thông tin. Đây là một trong những nguồn lỗi CHÍNH CẦN KIỂM CHỨNG trong hệ thống tư duy.
-
-• Systematic Errors: Lỗi có tính hệ thống, không ngẫu nhiên
-• Mental Shortcuts: Xuất phát từ các phím tắt tư duy (heuristics)
-• Predictable Patterns: Có các mẫu có thể dự đoán được
-• Universal Human: Phổ quát ở con người, không phải lỗi cá nhân
-
-→ Liên kết nội bộ: [META] LAYER (#4 Awareness of Bias - công cụ nhận thức)
-→ Tác động đến: DYNAMICS (#4 Cognitive Flexibility - cản trở sự linh hoạt)
-→ Công cụ chống lại: OPERATIONS (Critical Thinking), VALIDATION (Devil's Advocate)
-→ Danh sách chi tiết: Xem #1-11 và nhiều bias khác trong chức năng này
-
-**Ghi chú:** Cognitive Biases là CẢN TRỞ cho Cognitive Flexibility (DYNAMICS), nhưng được phân loại và xử lý chủ yếu tại VALIDATION vì đây là domain chuyên về phát hiện và sửa lỗi hệ thống.
-
-#### **23. Black Swan Blindness** - Mù Lòa Thiên Nga Đen
-Khuynh hướng đánh giá thấp hoặc bỏ qua các sự kiện hiếm gặp nhưng có tác động lớn.
-- **Rare Event Neglect**: Bỏ qua các sự kiện hiếm.
-- **Fat Tail Ignorance**: Không nhận thức về "đuôi béo" trong phân phối.
-- **Fragility to Extremes**: Dễ tổn thương trước các sự kiện cực đoan.
-- **Narrative Fallacy**: Giải thích hậu sự kiện bằng các câu chuyện gọn gàng.
-→ **Liên kết:** NAVIGATION (Risk Navigation), VALIDATION (The Ludic Fallacy)
-
-#### **24. Error Detection** - Phát Hiện Lỗi (Tổng Quan)
-Các phương pháp và kỹ thuật để nhận diện lỗi trong hệ thống.
-- **Systematic Identification**: Nhận diện có hệ thống.
-- **Pattern Recognition**: Nhận dạng mẫu lỗi.
-- **Anomaly Detection**: Phát hiện bất thường.
-- **Quality Control**: Kiểm soát chất lượng tự động.
-→ **Liên kết:** OPERATIONS (Quality Assurance), VALIDATION (Statistical Process Control)
-
-#### **25. Error Analysis** - Phân Tích Lỗi
-Nghiên cứu chi tiết về bản chất, nguyên nhân và tác động của lỗi.
-- **Root Cause Identification**: Xác định nguyên nhân gốc rễ.
-- **Error Classification**: Phân loại các loại lỗi.
-- **Impact Assessment**: Đánh giá tác động của lỗi.
-- **Pattern Analysis**: Phân tích mẫu lỗi để phòng ngừa.
-→ **Liên kết:** OPERATIONS (Root Cause Analysis), VALIDATION (Failure Mode Analysis)
-
-#### **26. Correction Strategies** - Chiến Lược Sửa Lỗi
+#### **34. Correction Strategies** - Chiến Lược Sửa Lỗi
 Các phương pháp có hệ thống để khắc phục và ngăn chặn lỗi.
 - **Remediation Plans**: Kế hoạch khắc phục cụ thể.
 - **Prevention Measures**: Biện pháp phòng ngừa.
@@ -20554,7 +20628,7 @@ Các phương pháp có hệ thống để khắc phục và ngăn chặn lỗi.
 - **Feedback Integration**: Tích hợp phản hồi để học hỏi.
 → **Liên kết:** OPERATIONS (Continuous Improvement), DYNAMICS (Adaptive Systems)
 
-#### **27. Adaptive Learning** - Học Thích Nghi
+#### **35. Adaptive Learning** - Học Thích Nghi
 Hệ thống học hỏi và cải thiện dựa trên lỗi và phản hồi.
 - **Error-Based Learning**: Học hỏi từ lỗi.
 - **Continuous Adaptation**: Thích nghi liên tục.
@@ -20562,77 +20636,13 @@ Hệ thống học hỏi và cải thiện dựa trên lỗi và phản hồi.
 - **Evolutionary Improvement**: Cải tiến theo kiểu tiến hóa.
 → **Liên kết:** DYNAMICS (Learning Systems), [META] LAYER (Meta-Learning)
 
-#### **28. Blind Spot Analysis** - Phân Tích Điểm Mù
-Phương pháp tìm kiếm các khu vực mà hệ thống hoặc cá nhân không thể tự nhìn thấy.
-- **Coverage Mapping**: Lập bản đồ phạm vi phủ sóng.
-- **Gap Identification**: Xác định các khoảng trống.
-- **Unknown Unknowns**: Tìm kiếm những điều chưa biết mà ta chưa biết.
-- **External Perspective**: Sử dụng góc nhìn bên ngoài để phát hiện.
-→ **Liên kết:** VALIDATION (360-Degree Feedback), [META] LAYER (Meta-Cognition)
-
-#### **29. Failure Mode Analysis** - Phân Tích Chế Độ Thất Bại
-Nghiên cứu có hệ thống các cách khác nhau mà một hệ thống có thể thất bại.
-- **FMEA (Failure Mode and Effects Analysis)**: Phương pháp tiêu chuẩn.
-- **Systematic Enumeration**: Liệt kê có hệ thống các chế độ thất bại.
-- **Probability x Severity**: Xác suất nhân với mức độ nghiêm trọng.
-- **Preventive Design**: Thiết kế phòng ngừa dựa trên phân tích.
-→ **Liên kết:** VALIDATION (Risk Assessment), OPERATIONS (Systems Engineering)
-
-#### **30. Near-Miss Analysis** - Phân Tích Suýt Nữa
-Nghiên cứu các sự cố suýt xảy ra nhưng may mắn tránh được.
-- **Leading Indicators**: Chỉ số dẫn đầu về rủi ro.
-- **Early Warning**: Cảnh báo sớm về vấn đề tiềm ẩn.
-- **Prevention Focus**: Tập trung vào phòng ngừa.
-- **Safety Culture**: Xây dựng văn hóa an toàn.
-→ **Liên kết:** NAVIGATION (Leading Indicators), VALIDATION (Statistical Process Control)
-
-#### **31. Cascading Failure Analysis** - Phân Tích Thất Bại Dây Chuyền
-Nghiên cứu cách một thất bại có thể kích hoạt chuỗi thất bại khác.
-- **Domino Effect**: Hiệu ứng domino.
-- **System Interdependencies**: Sự phụ thuộc lẫn nhau trong hệ thống.
-- **Propagation Patterns**: Các mẫu lan truyền của thất bại.
-- **Circuit Breakers**: Thiết kế các "cầu chì" để ngắt chuỗi thất bại.
-→ **Liên kết:** DYNAMICS (System Dynamics), INTEGRATION (System Resilience)
-
-#### **32. Failure Harvesting** - Thu Hoạch Thất Bại
+#### **36. Failure Harvesting** - Thu Hoạch Thất Bại
 Thực hành thu thập và học hỏi có hệ thống từ thất bại.
 - **Systematic Collection**: Thu thập có hệ thống các thất bại.
 - **Learning Repository**: Kho lưu trữ bài học.
 - **Pattern Extraction**: Trích xuất các mẫu từ thất bại.
 - **Knowledge Transfer**: Chuyển giao kiến thức từ thất bại.
 → **Liên kết:** [META] LAYER (Organizational Learning), OPERATIONS (Knowledge Management)
-
-#### **33. Assumption Hunting** - Săn Lùng Giả Định
-Thực hành tích cực tìm kiếm và thách thức các giả định ẩn.
-- **Hidden Assumption Discovery**: Phát hiện các giả định ngầm.
-- **Explicit Articulation**: Diễn đạt rõ ràng các giả định.
-- **Challenge Protocol**: Quy trình thách thức giả định.
-- **Foundation Questioning**: Đặt câu hỏi về nền tảng.
-→ **Liên kết:** VALIDATION (Assumption Testing), OPERATIONS (First Principles)
-
-#### **34. Reality Glitches Detection** - Phát Hiện "Lỗi" Thực Tế
-Nhận diện các bất thường trong nhận thức hoặc dữ liệu có thể chỉ ra lỗi hệ thống hoặc hiểu biết không đầy đủ.
-- **Anomaly Awareness**: Nhận thức về bất thường.
-- **Perception Errors**: Lỗi trong nhận thức.
-- **Data Inconsistencies**: Sự không nhất quán trong dữ liệu.
-- **Signal vs Noise**: Phân biệt tín hiệu thực với nhiễu.
-→ **Liên kết:** VALIDATION (Outlier Detection), [META] LAYER (Epistemology)
-
-#### **35. Error Pattern Mining** - Khai Thác Mẫu Lỗi
-Sử dụng kỹ thuật phân tích dữ liệu để phát hiện các mẫu lỗi lặp lại.
-- **Pattern Recognition**: Nhận dạng mẫu trong lỗi.
-- **Data Mining**: Khai thác dữ liệu lỗi.
-- **Predictive Patterns**: Các mẫu có thể dự đoán lỗi tương lai.
-- **Root Cause Clustering**: Gom nhóm các nguyên nhân gốc rễ.
-→ **Liên kết:** OPERATIONS (Data Analysis), VALIDATION (Statistical Methods)
-
-#### **36. Signal vs Noise Separation** - Phân Tách Tín Hiệu và Nhiễu
-Kỹ năng phân biệt thông tin có ý nghĩa (tín hiệu) khỏi thông tin vô nghĩa (nhiễu).
-- **Information Filtering**: Lọc thông tin.
-- **Statistical Significance**: Ý nghĩa thống kê.
-- **Clarity Enhancement**: Tăng cường độ rõ ràng.
-- **Noise Reduction**: Giảm nhiễu.
-→ **Liên kết:** OPERATIONS (Statistical Thinking), FOUNDATIONS (Signal & Noise)
 
 ---
 
