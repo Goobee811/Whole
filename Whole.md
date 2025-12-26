@@ -23355,7 +23355,7 @@ Giải pháp mà mọi người tự nhiên hội tụ khi không có giao tiế
 
 Chức năng này tập trung vào việc hiểu và tạo ra các mẫu hình tăng trưởng theo cấp số nhân - nơi tốc độ tăng trưởng tỷ lệ với kích thước hiện tại.
 
-### **Các Nguyên Lý Cốt Lõi (15 mục)**
+### **1. Core Exponential Principles - Nguyên Lý Cấp Số Nhân Cốt Lõi**
 
 #### **1. Exponential Technology Growth** - Tăng Trưởng Công Nghệ Theo Cấp Số Nhân
 
@@ -23494,6 +23494,8 @@ Hiện tượng những lợi thế nhỏ ban đầu tích lũy và phóng đạ
 - **Inequality Generation**: Tạo ra bất bình đẳng, xu hướng tự nhiên của nhiều hệ thống.  
     → **Liên kết:** DYNAMICS (Power Laws), NAVIGATION (Positioning Strategy).
 
+### **2. Scaling Dynamics - Động Lực Mở Rộng Quy Mô**
+
 #### **14. Power Laws** - Các Định Luật Lũy Thừa
 
 Phân phối trong đó một số ít yếu tố chiếm phần lớn giá trị - CÔNG CỤ để xác định điểm đòn bẩy. Khác với lý thuyết ở FOUNDATIONS và mô hình tiến hóa ở DYNAMICS, đây là về CHIẾN LƯỢC TẬN DỤNG Power Laws để khuếch đại tác động.
@@ -23520,7 +23522,7 @@ Các thị trường hoặc tình huống trong đó người đứng đầu chi
 - **First/Second Place Gap**: Khoảng cách giữa vị trí thứ nhất và thứ hai, thường rất lớn.  
     → **Liên kết:** NAVIGATION (Competitive Strategy), OPERATIONS (Market Analysis).
 
-### **Core Growth Principles (6 mục bổ sung)**
+### **3. Replication & Reproduction - Sao Chép & Sinh Sản**
 
 #### **16. Exponential** - Tính Lũy Thừa
 
@@ -23572,7 +23574,7 @@ Quá trình lặp lại một hành động hoặc quy trình để cải thiệ
 - **Spiral Development**: Phát triển theo hình xoáy ốc.  
     → **Liên kết:** OPERATIONS (Iterative Methods), CREATION (Prototyping).
 
-### **Fractal & Recursive (3 mục bổ sung)**
+### **4. Momentum & Acceleration - Quán Tính & Gia Tốc**
 
 #### **21. Fractal Growth** - Tăng Trưởng Phân Hình
 
@@ -23604,7 +23606,7 @@ Các mẫu hình có tham chiếu hoặc chứa đựng chính nó.
 - **Meta-Patterns**: Các mẫu hình về mẫu hình.  
     → **Liên kết:** [META] LAYER (Recursion), FOUNDATIONS (Self-Reference).
 
-### **Feedback & Amplification (5 mục bổ sung)**
+### **5. Emergent & Nonlinear Patterns - Mẫu Xuất Hiện & Phi Tuyến**
 
 #### **24. Feedback Acceleration** - Gia Tốc Phản Hồi
 
@@ -23646,7 +23648,7 @@ Kích hoạt và tăng tốc sự thay đổi ở cấp độ hệ thống.
 - **Leverage Point Activation**: Kích hoạt điểm đòn bẩy.  
     → **Liên kết:** DYNAMICS (System Transformation), NAVIGATION (Leverage Points).
 
-### **Replication & Scaling (5 mục bổ sung)**
+### **6. Recursive & Fractal Structures - Cấu Trúc Đệ Quy & Fractal**
 
 #### **28. Replication - Sao Chép [Cơ Chế Tăng Trưởng]**
 
@@ -23702,7 +23704,7 @@ Khái niệm về sức mạnh của số đông, đa dạng và phân tán.
 - **Abundance Mindset**: Tâm thế dồi dào.  
     → **Liên kết:** FOUNDATIONS (Multiplicity), INTEGRATION (Collective).
 
-### **Activation & Catalyst (5 mục bổ sung)**
+### **7. Long-term Evolution - Tiến Hóa Dài Hạn**
 
 #### **33. Activation Energy** - Năng Lượng Kích Hoạt
 
@@ -23754,7 +23756,7 @@ Quá trình kích thích và gia tốc sự tăng trưởng.
 - **Expansion Trigger**: Kích hoạt mở rộng.  
     → **Liên kết:** DYNAMICS (Growth Dynamics), OPERATIONS (Growth Strategy).
 
-### **Emergence & Evolution (6 mục bổ sung)**
+### **8. Intergenerational & Multi-Scale - Liên Thế Hệ & Đa Quy Mô**
 
 #### **38. Emergence Acceleration** - Gia Tốc Đột Sinh
 
