@@ -31,6 +31,15 @@
             "command": "node .claude/hooks/validate-edit.cjs"
           }
         ]
+      },
+      {
+        "matcher": "Read|Edit|Bash|Grep|Glob",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node .claude/hooks/progress-indicator.cjs"
+          }
+        ]
       }
     ]
   }
