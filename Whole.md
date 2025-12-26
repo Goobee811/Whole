@@ -25303,9 +25303,9 @@ Thực hành thiền Zen sử dụng các câu đố nghịch lý để phá v�
 
 Các bước nhảy lượng tử trong hiểu biết, những thay đổi căn bản trong cách chúng ta nhìn thế giới. Đây là những khoảnh khắc mà mọi thứ được nhìn thấy theo một ánh sáng hoàn toàn mới, dẫn đến sự biến đổi sâu sắc.
 
-### **Nguyên Lý**
+---
 
-Trong chức năng này, các mục từ cả ba phần (Paradox Mastery, Unity Consciousness, Living Wisdom) được tổng hợp để mô tả các dạng đột phá và chuyển đổi mẫu hình khác nhau.
+### **1. Types of Shifts & Awakenings - Các Loại Chuyển Dịch & Giác Ngộ**
 
 #### **1. Perceptual Shifts** - Chuyển Dịch Nhận Thức
 
@@ -25370,7 +25370,9 @@ Các chuyển đổi trong ý thức đạo đức và tâm linh:
 
 → **Liên kết:** FOUNDATIONS (Core Values), TRANSCENDENCE (Spiritual Development).
 
-### **Breakthrough Thinking Methods**
+---
+
+### **2. Breakthrough Thinking Methods - Phương Pháp Tư Duy Đột Phá**
 
 #### **6. Breakthrough Thinking** - Tư Duy Đột Phá
 
@@ -25427,7 +25429,7 @@ Tư duy về TIẾN HÓA ở cấp độ SIÊU VIỆT - nhìn thấy các mẫu 
 
 ---
 
-### **Cognitive Mastery**
+### **3. Cognitive Mastery & Transcendence - Làm Chủ & Siêu Việt Nhận Thức**
 
 #### **10. Cognitive Sovereignty - Chủ Quyền Nhận Thức** [Giải Phóng Hoàn Toàn]
 
@@ -25496,7 +25498,7 @@ Khả năng suy luận vượt qua logic thông thường, sử dụng các hìn
 
 ---
 
-### **Transformation Mechanics**
+### **4. Transformation Mechanics - Cơ Chế Chuyển Hóa**
 
 #### **15. Discontinuous Jump** - Bước Nhảy Gián Đoạn
 
@@ -25576,7 +25578,7 @@ Khả năng tưởng tượng và làm việc hướng đến các mục tiêu c
 
 ---
 
-### **Navigation & Protocols**
+### **5. Navigation Protocols - Giao Thức Điều Hướng**
 
 #### **21. Singularity Navigation** - Điều Hướng Kỳ Dị
 
@@ -25630,7 +25632,7 @@ Khả năng định hướng trong các địa hình chưa được khám phá c
 
 ---
 
-### **Advanced Concepts**
+### **6. Advanced Consciousness Concepts - Khái Niệm Ý Thức Nâng Cao**
 
 #### **25. Theory of Everything Glimpses** - Thoáng Thấy Lý Thuyết Của Mọi Thứ
 
@@ -25645,19 +25647,6 @@ Những khoảnh khắc hiếm hoi khi một người thoáng thấy sự thốn
 
 ---
 
-#### **26. Kairos and Chronos** - Thời Gian Định Tính Và Định Lượng
-
-Sự phân biệt Hy Lạp giữa thời gian theo đồng hồ (chronos) và thời gian có chất lượng, những khoảnh khắc quan trọng (kairos).
-
-- **Qualitative Time**: Thời gian định tính; những khoảnh khắc quan trọng vượt qua đo lường theo đồng hồ.
-- **Opportune Moments**: Các khoảnh khắc thuận lợi; "đúng lúc" cho hành động hoặc quyết định.
-- **Time Fullness**: Sự đầy đủ của thời gian; khi thời gian trưởng thành và sẵn sàng.
-- **Sacred Timing**: Thời điểm thiêng liêng; biết khi nào thời điểm là đặc biệt quan trọng.
-
-→ **Liên kết:** NAVIGATION (Temporal Wisdom), TRANSCENDENCE (Sacred Time).
-
----
-
 #### **27. Consciousness Architecture** - Kiến Trúc Ý Thức
 
 Thiết kế và cấu trúc của ý thức, các cấp độ, trạng thái và khả năng của nhận thức.
@@ -25668,6 +25657,21 @@ Thiết kế và cấu trúc của ý thức, các cấp độ, trạng thái v�
 - **Capacity Building**: Xây dựng khả năng; phát triển các năng lực ý thức mới.
 
 → **Liên kết:** TRANSCENDENCE (Consciousness States), [META] LAYER (Self-Design).
+
+---
+
+### **7. Time & Sublime Experience - Thời Gian & Trải Nghiệm Cao Quý**
+
+#### **26. Kairos and Chronos** - Thời Gian Định Tính Và Định Lượng
+
+Sự phân biệt Hy Lạp giữa thời gian theo đồng hồ (chronos) và thời gian có chất lượng, những khoảnh khắc quan trọng (kairos).
+
+- **Qualitative Time**: Thời gian định tính; những khoảnh khắc quan trọng vượt qua đo lường theo đồng hồ.
+- **Opportune Moments**: Các khoảnh khắc thuận lợi; "đúng lúc" cho hành động hoặc quyết định.
+- **Time Fullness**: Sự đầy đủ của thời gian; khi thời gian trưởng thành và sẵn sàng.
+- **Sacred Timing**: Thời điểm thiêng liêng; biết khi nào thời điểm là đặc biệt quan trọng.
+
+→ **Liên kết:** NAVIGATION (Temporal Wisdom), TRANSCENDENCE (Sacred Time).
 
 ---
 
