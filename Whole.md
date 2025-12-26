@@ -22873,7 +22873,7 @@ Tìm giải pháp hoạt động tốt ngay cả khi có sự không chắc ch�
 
 Chức năng này tập trung vào các cơ chế giúp ý tưởng, nội dung, hoặc sản phẩm lan truyền như virus - tự nhân rộng thông qua hành vi của người dùng.
 
-### **Các Nguyên Lý Cốt Lõi (17 mục)**
+### **1. Core Viral Mechanisms - Cơ Chế Lan Truyền Cốt Lõi**
 
 #### **1. Viral Mechanics** - Cơ Chế Lan Truyền
 
@@ -22935,6 +22935,10 @@ Sự lan truyền của hành vi, cảm xúc, hoặc niềm tin qua các mạng 
 - **Network Topology Impact**: Tác động của cấu trúc mạng lưới lên tốc độ lan truyền.  
     → **Liên kết:** DYNAMICS (Social Dynamics), INTEGRATION (Social Networks).
 
+---
+
+### **2. Cascade & Amplification Dynamics - Động Lực Tầng Thác & Khuếch Đại**
+
 #### **7. Cascade Effects** - Hiệu Ứng Tầng Thác
 
 Một chuỗi các sự kiện trong đó mỗi sự kiện kích hoạt một chuỗi sự kiện tiếp theo, lan rộng ra.
@@ -22984,6 +22988,10 @@ Sức mạnh của câu chuyện trong việc làm cho thông điệp dễ nhớ
 - **Memorable Packaging**: Đóng gói đáng nhớ, câu chuyện dễ nhớ hơn các sự kiện.
 - **Viral Story Structure**: Cấu trúc câu chuyện lan truyền, có khởi đầu, xung đột, và kết thúc.  
     → **Liên kết:** INTEGRATION (Narrative Building), CREATION (Story Design).
+
+---
+
+### **3. Psychological Triggers & Trends - Kích Hoạt Tâm Lý & Xu Hướng**
 
 #### **12. FOMO (Fear of Missing Out)** - Nỗi Sợ Bị Bỏ Lỡ
 
@@ -23045,7 +23053,9 @@ Các hệ thống khuyến khích và khen thưởng người dùng khi giới t
 - **Value First**: Giá trị trước tiên, đảm bảo người dùng có trải nghiệm tốt trước khi yêu cầu giới thiệu.  
     → **Liên kết:** OPERATIONS (Incentive Design), VALIDATION (User Experience).
 
-### **Tipping Point Dynamics (7 mục bổ sung)**
+---
+
+### **4. Tipping Point & Critical Mass - Điểm Bùng Phát & Khối Lượng Tới Hạn**
 
 #### **18. Momentum Building** - Xây Dựng Động Lực
 
@@ -23117,7 +23127,9 @@ Khả năng phát hiện khi nào một hệ thống đang gần đến điểm 
 - **Anticipatory Action**: Hành động dự đoán trước.  
     → **Liên kết:** VALIDATION (Early Detection), NAVIGATION (Anticipation).
 
-### **Cultural Transmission (7 mục bổ sung)**
+---
+
+### **5. Content & Cultural Propagation - Lan Truyền Nội Dung & Văn Hóa**
 
 #### **25. Viral Marketing** - Tiếp Thị Lan Truyền
 
@@ -23193,7 +23205,9 @@ Năng lượng duy trì và tăng cường quá trình sáng tạo.
 - **Inspiration Compounding**: Cảm hứng lãi kép.  
     → **Liên kết:** CREATION (Creative Flow), DYNAMICS (Energy Management).
 
-### **Mass Communication (5 mục bổ sung)**
+---
+
+### **6. Mass Distribution Systems - Hệ Thống Phân Phối Đại Chúng**
 
 #### **32. Mass Communication & Media** - Truyền Thông Đại Chúng & Phương Tiện
 
@@ -23245,7 +23259,9 @@ Các phương pháp chữa lành không bị giới hạn bởi không gian vậ
 - **Non-locality**: Tính phi địa phương.  
     → **Liên kết:** FOUNDATIONS (Quantum), TRANSCENDENCE (Non-local Consciousness).
 
-### **Advanced Propagation (5 mục bổ sung)**
+---
+
+### **7. Reality & Discourse Shifting - Chuyển Dịch Thực Tại & Diễn Ngôn**
 
 #### **37. Reality Tunnel Adjustment** - Điều Chỉnh Đường Hầm Thực Tại
 
@@ -23287,7 +23303,9 @@ Sử dụng các câu hỏi chiến lược để kích hoạt suy nghĩ và tha
 - **Cognitive Opening**: Mở cửa nhận thức.  
     → **Liên kết:** OPERATIONS (Inquiry Methods), TRANSCENDENCE (Questioning).
 
-### **Social Principles (4 mục bổ sung)**
+---
+
+### **8. Social Coordination Principles - Nguyên Lý Phối Hợp Xã Hội**
 
 #### **41. Girard's Mimetic Razor** - Dao Cạo Bắt Chước của Girard
 
