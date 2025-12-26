@@ -21111,7 +21111,7 @@ Sử dụng thất bại hoặc đổ vỡ như một phương pháp để đạ
 
 Xác định và giảm thiểu rủi ro, phát hiện lỗi sai lầm và duy trì tiêu chuẩn chất lượng cao.
 
-### **Các Khái Niệm & Phương Pháp Cốt Lõi**
+### **1. Cognitive Biases in Judgment - Thiên Kiến Nhận Thức Trong Phán Đoán**
 
 #### **1. Confirmation Bias** - Thiên Kiến Xác Nhận
 Khuynh hướng tìm kiếm, diễn giải và ghi nhớ thông tin theo cách xác nhận các niềm tin có sẵn của một người.
@@ -21176,6 +21176,8 @@ Khuynh hướng tiếp tục một nỗ lực vì các nguồn lực đã đư�
 - **Psychological Investment**: Đầu tư tâm lý vào dự án.
 - **Rational Exit Failure**: Thất bại trong việc thoát ra một cách hợp lý.
 → **Liên kết:** OPERATIONS (Decision Frameworks), FOUNDATIONS (Mental Models)
+
+### **2. Verification Anti-Patterns & Fallacies - Mô Hình Sai & Ngụy Biện Kiểm Chứng**
 
 #### **9. The Streetlight Effect - Hiệu Ứng Đèn Đường [Rủi Ro Kiểm Chứng]**
 
@@ -21434,6 +21436,8 @@ Một thiên kiến nhận thức quan trọng trong QUALITY ASSURANCE: Hiện t
   • #5 Hindsight Bias
   • #17 Gell-Mann Amnesia Effect ← (vị trí hiện tại)
 
+### **3. Social & System Effects - Hiệu Ứng Xã Hội & Hệ Thống**
+
 #### **18. The Johari Window** - Cửa Sổ Johari [Framework Nhận Thức Bản Thân]
 
 Công cụ framework 2x2 để đánh giá và cải thiện sự tự nhận thức trong giao tiếp và phát triển cá nhân. Được tạo ra bởi Joseph Luft và Harrington Ingham (1955) để giúp PHÁT HIỆN BLIND SPOTS và cải thiện chất lượng tương tác.
@@ -21518,6 +21522,8 @@ VẤN ĐỀ PHƯƠNG PHÁP LUẬN: Hành động quan sát và đo lường CAN 
 → **Gốc lý thuyết:** FOUNDATIONS #31 (Observer Effect - định luật vật lý)
 → **Chiều đạo đức:** FOUNDATIONS #3 (trách nhiệm đạo đức)
 → **Công cụ meta:** META LAYER #31 (quan sát việc quan sát)
+
+### **4. Measurement Laws & Fallacies - Định Luật & Ngụy Biện Đo Lường**
 
 #### **25. Goodhart's Law** - Định Luật Goodhart [Trong Thiết Kế Đo Lường]
 
@@ -21611,7 +21617,7 @@ Khả năng tích hợp và điều phối tất cả các phương pháp kiểm
 - **Meta-Validation**: Kiểm chứng các quy trình kiểm chứng.
 → **Liên kết:** Tích hợp tất cả các khái niệm trong VALIDATION, [META] LAYER (Meta-Learning)
 
-### **Các Khái Niệm & Phương Pháp Bổ Sung**
+### **5. Risk Assessment Tools - Công Cụ Đánh Giá Rủi Ro**
 
 #### **34. Risk Assessment** - Đánh Giá Rủi Ro [Quy Trình Kiểm Định Hệ Thống]
 
@@ -21674,6 +21680,8 @@ Thực hành liên tục xác minh các giả định và mô hình với thực
 - **Model Recalibration**: Hiệu chỉnh lại mô hình.
 → **Liên kết:** VALIDATION (Ground Truth Validation), OPERATIONS (Empiricism)
 
+### **6. Distribution Laws - Các Định Luật Phân Phối**
+
 #### **39. Sturgeon's Law** - Định Luật Sturgeon
 "90% của mọi thứ đều là rác rưởi" - nhắc nhở về sự phổ biến của chất lượng thấp.
 - **Quality Distribution**: Phân phối chất lượng không đồng đều.
@@ -21713,6 +21721,8 @@ Phân phối thông tin trong các tài liệu theo nhóm: một số ít nguồ
 - **Literature Distribution**: Phân phối tài liệu.
 - **Source Prioritization**: Ưu tiên nguồn.
 → **Liên kết:** INTEGRATION (Knowledge Integration), NAVIGATION (Research Strategy)
+
+### **7. Temporal & System Laws - Định Luật Thời Gian & Hệ Thống**
 
 #### **44. Lindy Effect** - Hiệu Ứng Lindy [Heuristic Kiểm Chứng]
 
@@ -21795,6 +21805,8 @@ Các công cụ kiểm chứng liên quan vẫn còn trong VALIDATION:
 - **Expectation Management**: Quản lý kỳ vọng.
 → **Liên kết:** NAVIGATION (Strategic Wayfinding), VALIDATION (Ground Truth Validation)
 
+### **8. Analytical Razors & Principles - Dao Cạo Phân Tích & Nguyên Lý**
+
 #### **49. Survivorship Bias Filter** - Bộ Lọc Thiên Kiến Sống Sót
 Công cụ để nhận diện và điều chỉnh thiên kiến chỉ nhìn vào những gì tồn tại.
 - **Invisible Failures**: Những thất bại vô hình.
@@ -21862,6 +21874,8 @@ Tối đa hóa entropy (thông tin) trong khi tối thiểu hóa độ phức t�
 - **Clarity Standard**: Tiêu chuẩn rõ ràng.
 - **Teaching Criterion**: Tiêu chí giảng dạy.
 → **Liên kết:** INTEGRATION (Knowledge Integration), [META] LAYER (Meta-Cognition)
+
+### **9. Testing & Validation Methods - Phương Pháp Kiểm Thử & Kiểm Chứng**
 
 #### **56. Brandolini's Law** - Định Luật Brandolini
 "Lượng năng lượng cần thiết để bác bỏ nhảm nhí lớn hơn một bậc so với lượng năng lượng cần để tạo ra nó."
