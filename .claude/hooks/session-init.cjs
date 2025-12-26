@@ -8,10 +8,13 @@
  * - Detect current progress from .whole-progress.json
  * - Output context about current working section
  * - Persist state for cross-session continuity
+ *
+ * v1.1.0: Added idempotency guard to prevent hook loop
  */
 
 const fs = require('fs');
 const path = require('path');
+const os = require('os');
 const { execSync } = require('child_process');
 
 /**
@@ -46,10 +49,12 @@ function buildContextOutput(progress) {
 
   if (progress) {
     const totalFunctions = progress.totalFunctions || 50;
-    const completed = progress.completed?.length || 0;
-    const percentage = Math.round((completed / totalFunctions) * 100);
+    // FIX: Use completedFunctions (array) not completed
+    const completedArr = progress.completedFunctions || progress.completed || [];
+    const completedCount = Array.isArray(completedArr) ? completedArr.length : 0;
+    const percentage = Math.round((completedCount / totalFunctions) * 100);
 
-    lines.push(`Progress: ${completed}/${totalFunctions} (${percentage}%)`);
+    lines.push(`Progress: ${completedCount}/${totalFunctions} (${percentage}%)`);
 
     if (progress.nextSuggested) {
       lines.push(`Next: CF${progress.nextSuggested}`);
@@ -72,6 +77,18 @@ async function main() {
     const stdin = fs.readFileSync(0, 'utf-8').trim();
     const data = stdin ? JSON.parse(stdin) : {};
     const source = data.source || 'unknown';
+    const sessionId = data.session_id || process.ppid || 'default';
+
+    // IDEMPOTENCY GUARD: Prevent hook loop on resume
+    const sessionMarker = path.join(os.tmpdir(), `whole-session-${sessionId}`);
+    if (source === 'resume' && fs.existsSync(sessionMarker)) {
+      // Already initialized in this session, skip to avoid loop
+      process.exit(0);
+    }
+    // Mark session as initialized
+    try {
+      fs.writeFileSync(sessionMarker, Date.now().toString());
+    } catch (e) { /* ignore if temp write fails */ }
 
     const progress = loadProgress();
     const context = buildContextOutput(progress);
