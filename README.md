@@ -1,90 +1,163 @@
-# Whole Document Editor
+# Whole Knowledge Architecture
 
-Claude Code skills for editing the Whole knowledge architecture documentation.
+Claude Code skills for editing and managing the Whole bilingual knowledge architecture documentation.
+
+## Current Progress
+
+```
+██████████████████████░░░░░░░░ 74% (37/50 functions)
+```
+
+**Completed Domains**: FOUNDATIONS, DYNAMICS, OPERATIONS, CREATION, NAVIGATION, INTEGRATION, VALIDATION
+**In Progress**: AMPLIFICATION (2/5)
+**Remaining**: TRANSCENDENCE, META
 
 ## Quick Start
 
 1. Clone this repo
-2. Open with Claude Code Desktop: `cd Whole && claude`
-3. Use commands:
-   - `/analyze Foundations > Understanding` - Analyze section
-   - `/edit Dynamics > Analysis` - Edit section
-   - `/expand Meta Integration "knowledge synthesis"` - Add concepts
+2. Open with Claude Code: `cd Whole && claude`
+3. Check progress: `/status`
+4. Start working: `/regroup` (auto-detects next function)
 
 ## Skills
 
 | Skill | Purpose |
 |-------|---------|
 | whole-editor | Main editing operations |
-| whole-analyzer | Pre-edit analysis |
+| whole-analyzer | Pre-edit analysis & duplicate detection |
 | whole-reviewer | Post-edit validation |
+| whole-regrouper | Concept reorganization into thematic groups |
 
-## Philosophy
+## Commands
+
+| Command | Description |
+|---------|-------------|
+| `/status` | Show current progress status |
+| `/next` | Auto-detect next function to work on |
+| `/analyze [section]` | Analyze section for issues |
+| `/edit [section]` | Start editing session |
+| `/expand [domain] [func] [topic]` | Add new concepts |
+| `/regroup [number]` | Reorganize concepts (auto-detects if no number) |
+| `/validate [section]` | Validate changes |
+| `/report` | Generate comprehensive progress report |
+
+## Core Philosophy
 
 - **Only Add, Never Subtract**: Preserve all existing content
 - **Bilingual Integrity**: Vietnamese primary, English secondary
-- **4-Point Structure**: Definition, Context, Application, Integration
+- **4-Point Structure**: Definition, Context, Application, Integration (minimum)
 - **Cross-Reference Integrity**: Bidirectional links always
 
 ## Document Structure
 
-- 10 Domains × 5 Functions = 50 sections
+- **10 Domains** × **5 Functions** = **50 sections**
 - 4-point descriptions for each concept
 - Cross-references across domains
+
+### Domains
+
+1. FOUNDATIONS - Epistemological & ontological basics
+2. DYNAMICS - Systems thinking & emergence
+3. OPERATIONS - Process & workflow management
+4. CREATION - Innovation & design thinking
+5. NAVIGATION - Decision making & pathfinding
+6. INTEGRATION - Synthesis & connection
+7. VALIDATION - Testing & verification
+8. AMPLIFICATION - Scaling & growth
+9. TRANSCENDENCE - Meta-cognition & evolution
+10. META - Self-reference & documentation
 
 ## Project Structure
 
 ```
 Whole/
+├── Whole.md                      # Main documentation (>1MB)
+├── .whole-progress.json          # Progress tracking (37/50)
+├── README.md                     # This file
 ├── .claude/
+│   ├── CLAUDE.md                 # Project instructions
+│   ├── README.md                 # Claude config docs
+│   ├── settings.json             # Claude Code settings
 │   ├── skills/
 │   │   ├── whole-editor/
 │   │   │   ├── SKILL.md
 │   │   │   └── references/
-│   │   │       ├── editing-protocol.md
-│   │   │       ├── duplicate-resolution.md
-│   │   │       ├── bilingual-rules.md
-│   │   │       └── structure-validation.md
 │   │   ├── whole-analyzer/
 │   │   │   └── SKILL.md
-│   │   └── whole-reviewer/
-│   │       └── SKILL.md
+│   │   ├── whole-reviewer/
+│   │   │   └── SKILL.md
+│   │   └── whole-regrouper/
+│   │       ├── SKILL.md
+│   │       ├── references/
+│   │       ├── plans/templates/
+│   │       └── scripts/
 │   ├── commands/
-│   │   ├── edit.md
 │   │   ├── analyze.md
-│   │   └── expand.md
-│   ├── workflows/
-│   │   └── editing-workflow.md
-│   ├── CLAUDE.md
-│   └── settings.json
+│   │   ├── edit.md
+│   │   ├── expand.md
+│   │   ├── next.md
+│   │   ├── regroup.md
+│   │   ├── report.md
+│   │   ├── status.md
+│   │   └── validate.md
+│   ├── hooks/
+│   │   └── regroup-session-init.cjs
+│   ├── agents/
+│   │   ├── whole-content-validator.md
+│   │   ├── whole-cross-reference.md
+│   │   └── whole-translator.md
+│   └── workflows/
+│       ├── editing-workflow.md
+│       ├── primary-workflow.md
+│       ├── development-rules.md
+│       └── quality-assurance.md
 ├── docs/
-├── plans/
-├── Whole.md
-├── README.md
-└── .gitignore
+│   ├── project-overview.md
+│   ├── skill-reference.md
+│   ├── workflow-guide.md
+│   └── troubleshooting.md
+└── plans/
+    └── templates/
 ```
 
 ## Workflow Example
 
 ```
-User: /analyze Foundations > Understanding
+User: /status
+Claude: Progress: 37/50 (74%) | Next: CF38 | Domain: AMPLIFICATION
 
-Claude: [Activates whole-analyzer]
-        [Generates analysis report]
-        Found 45 concepts, 3 incomplete, 2 potential duplicates...
-
-User: /edit Foundations > Understanding
-
-Claude: [Activates whole-editor]
-        Based on analysis, proposing:
-        1. Complete 3 incomplete 4-point descriptions
-        2. Consolidate "Basic Cognition" duplicates
-        [Presents detailed proposal]
+User: /regroup
+Claude: [Auto-detects CF38: AMPLIFICATION > RESOURCE OPTIMIZATION]
+        [Activates whole-regrouper]
+        [Analyzes 45 concepts]
+        [Proposes 8 thematic groups]
 
 User: Approved
 
-Claude: [Implements changes]
-        [Activates whole-reviewer]
-        [Validation passed]
-        Summary: Added 12 points, consolidated 1 concept, updated 5 cross-refs
+Claude: [Applies regrouping]
+        [Validates changes]
+        [Updates progress tracker]
+        Summary: 45 concepts -> 8 groups, all content preserved
 ```
+
+## Working with Whole.md
+
+**IMPORTANT**: Whole.md is a large file (>1MB). Always:
+
+1. Use `grep` to find relevant sections first
+2. Read with `offset/limit` parameters
+3. Never load the entire file at once
+
+## Statistics
+
+| Metric | Value |
+|--------|-------|
+| Total concepts processed | 1,504 |
+| Total groups created | 278 |
+| Average concepts/function | 40.6 |
+| Average groups/function | 7.5 |
+| Sessions completed | 23 |
+
+## License
+
+Private project for Whole Knowledge Architecture development.
