@@ -57,6 +57,19 @@ If no $ARG1 provided, ask:
 Ready to regroup CHỨC NĂNG ${targetFunction}? [Y/n]
 ```
 
+**User Input Handling:**
+| Input | Action |
+|-------|--------|
+| `Y`, `y`, `yes`, `Yes`, empty | Proceed with regroup |
+| `N`, `n`, `no`, `No` | Cancel, show `/regroup [number]` hint |
+| `continue`, `/continue` | Resume from `.whole-state.json` if operation pending |
+| Number (e.g., `32`) | Switch to that CF number |
+
+**If interrupted mid-workflow:**
+1. Check `.whole-state.json` for `currentOperation`
+2. If found, ask: "Resume CF{N} at phase {phase}? [Y/n]"
+3. If user confirms, continue from saved phase
+
 ### Step 4: Activate whole-regrouper skill
 ```markdown
 ## Task: Regroup CHỨC NĂNG ${targetFunction}
@@ -219,35 +232,22 @@ This command works seamlessly with `whole-regrouper` skill:
 
 ## Output Format
 
-Minimal output during execution:
+**Token-efficient output** (avoid decorative ASCII art):
 
 ```
-⚡ /regroup command activated
-
-📊 PROGRESS: 4/50 (8.0%)
-🎯 TARGET: CHỨC NĂNG 5
-📍 DOMAIN: [Auto-detected from Whole.md]
-
-───────────────────────────────────────
-
-🔍 Grep: Line 1450
-📖 Read: 15 concepts
-🧠 Analyze: 15 → 4 groups
-
-📝 NEW GROUPS:
-1. [Group 1] (4 concepts)
-2. [Group 2] (4 concepts)
-3. [Group 3] (4 concepts)
-4. [Group 4] (3 concepts)
-
-✍️ Writing...
-✅ Validation: PASS
-📦 Commit: [hash]
-🚀 Pushed successfully
-
-📊 Updated progress: 5/50 (10.0%)
-🎯 Next: CHỨC NĂNG 6
+[REGROUP] CF5 | Progress: 4/50 (8%)
+[GREP] Line 1450 | [READ] 15 concepts
+[ANALYZE] 15 → 4 groups: Group1(4), Group2(4), Group3(4), Group4(3)
+[EDIT] Done | [VALIDATE] PASS
+[COMMIT] abc1234 | [PUSH] OK
+[DONE] Progress: 5/50 (10%) | Next: CF6
 ```
+
+**DO NOT use:**
+- Box art (┌─────┐)
+- Decorative lines (───────)
+- Excessive emoji per line
+- Multi-line banners
 
 ---
 
