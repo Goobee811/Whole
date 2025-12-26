@@ -29995,7 +29995,9 @@ Trạng thái tri thức hoàn hảo và toàn diện về mọi thứ.
 
 Chức năng này tập trung vào việc thiết kế, phát triển và điều chỉnh các siêu cấu trúc - các khung, mô hình và hệ thống được sử dụng để tổ chức tư duy và tri thức ở cấp độ cao nhất.
 
-### **Các Khái Niệm Cốt Lõi**
+---
+
+### **1. Meta-Framework Architecture - Kiến Trúc Siêu Khung**
 
 #### **1. Framework of Frameworks** - Khung của các Khung
 
@@ -30117,6 +30119,10 @@ Tạo ra các ngôn ngữ để nói về các ngôn ngữ khác hoặc về ch�
 - **Self-Describing Systems**: Các hệ thống tự mô tả.
 
 → **Liên kết:** [META] LAYER (Reflexivity), INTEGRATION (Semantic Integration).
+
+---
+
+### **2. Conceptual Blending & Integration - Pha Trộn Khái Niệm & Tích Hợp**
 
 #### **12. Conceptual Blending Spaces** - Không Gian Pha Trộn Khái Niệm [Kiến Trúc Meta]
 
@@ -30312,7 +30318,9 @@ Trạng thái trong đó việc tích hợp không còn là một hành động 
 
 → **Liên kết:** INTEGRATION (Living Systems Integration), TRANSCENDENCE (Living Wisdom).
 
-### **Nhóm Bổ Sung: Meta-Architecture (7 mục mới)**
+---
+
+### **3. Extended Meta-Architecture - Kiến Trúc Meta Mở Rộng**
 
 #### **27. Framework of Frameworks (Extended)** - Khung Của Các Khung (Mở Rộng)
 
@@ -30414,7 +30422,7 @@ Khả năng thiết kế và áp dụng PHƯƠNG PHÁP CÓ HỆ THỐNG ở cấ
 
 ---
 
-### **Nhóm Bổ Sung: Perspective Engineering (6 mục mới)**
+### **4. Perspective Engineering - Kỹ Thuật Quan Điểm**
 
 #### **34. Perspective Taking** - Chuyển Đổi Quan Điểm
 
@@ -30484,7 +30492,7 @@ Thấu kính quan sát qua đó nhìn thấy tất cả các thấu kính khác.
 
 ---
 
-### **Nhóm Bổ Sung: Navigation & Transformation (7 mục mới)**
+### **5. Meta-Navigation & Transformation - Siêu Điều Hướng & Chuyển Hóa**
 
 #### **40. Meta-Wayfinding** - Siêu Tìm Đường **[Không Gian Của Các Không Gian]**
 
@@ -30580,7 +30588,7 @@ AQAL không phải là một framework cụ thể trong một domain - nó là f
 
 ---
 
-### **Nhóm Bổ Sung: Selection & Optimization (6 mục mới)**
+### **6. Selection & Optimization Principles - Nguyên Lý Lựa Chọn & Tối Ưu**
 
 #### **45. Razor Selection Razor** - Dao Cạo Lựa Chọn Dao Cạo
 
@@ -30650,7 +30658,7 @@ Quá trình vô hạn của việc vượt qua các giới hạn.
 
 ---
 
-### **Nhóm Bổ Sung: Knowledge Foundation (6 mục mới)**
+### **7. Knowledge Foundations & Philosophy - Nền Tảng Tri Thức & Triết Học**
 
 #### **51. Philosophy of Mathematics** - Triết Học Toán Học
 
@@ -30730,7 +30738,7 @@ Hệ thống cổ đại về các giai đoạn chuyển hóa ý thức.
 
 ---
 
-### **Nhóm Bổ Sung: Creative Expression (7 mục mới)**
+### **8. Creative & Cultural Analysis - Phân Tích Sáng Tạo & Văn Hóa**
 
 #### **57. Art Theory & Criticism** - Lý Thuyết Nghệ Thuật & Phê Bình
 
