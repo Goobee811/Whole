@@ -4,7 +4,7 @@ description: |
   Phân tích và gom nhóm lại các khái niệm trong từng CHỨC NĂNG của Whole.md.
   Một workflow hoàn chỉnh: Grep → Read → Analyze → Regroup → Edit → Commit & Push.
   Uses progressive disclosure: core workflow in this file, detailed references loaded as needed.
-version: 3.1.0
+version: 3.2.0
 license: MIT
 allowed-tools:
   - Edit
@@ -35,11 +35,22 @@ Regroup concepts in Whole.md CHỨC NĂNGs using thematic analysis.
 
 ## Critical Rules
 
-### 🚨 MANDATORY: Read Before Edit
-**ALWAYS use Read tool on Whole.md BEFORE any Edit operation.**
-Claude Code requires this. If you get "File has not been read yet" error:
-1. Immediately run: `Read /home/user/Whole/Whole.md offset=X limit=Y`
-2. Retry the Edit with exact old_string from Read output
+### 🚨 MANDATORY: Atomic Read-Edit Pattern
+**ALWAYS Read file IMMEDIATELY before Edit - in the SAME turn, NO output in between.**
+
+```
+✅ ĐÚNG:  Read(Whole.md) → Edit(Whole.md)  [same turn]
+❌ SAI:   Read(Whole.md) → [output dài] → Edit(Whole.md)  [có thể fail]
+❌ SAI:   Read(Whole.md) → [session resume] → Edit(Whole.md)  [CHẮC CHẮN fail]
+```
+
+**If "File has not been read yet" error:**
+1. Output: "Lỗi Edit - re-reading..."
+2. Read file NGAY LẬP TỨC: `Read /home/user/Whole/Whole.md offset=X limit=Y`
+3. Edit NGAY trong cùng turn (không output dài)
+4. Output: "✓ Edit thành công"
+
+**Detailed error handling:** `references/robust-operations.md`
 
 ### ✅ MUST PRESERVE
 - "### **Tổng Quan**" section (exact content, exact format)
@@ -105,7 +116,46 @@ Regroup [DOMAIN] CHỨC NĂNG [số]: [summary]
 
 ---
 
+## Progress Output (MANDATORY)
+
+**LUÔN output status sau mỗi tool call để user biết tiến độ:**
+
+```markdown
+After Grep:  "✓ Grep: tìm thấy CF[N] tại line [X]"
+After Read:  "✓ Read: [N] lines từ Whole.md (line [X]-[Y])"
+After Edit:  "✓ Edit: đã sửa [description]"
+After Bash:  "✓ Bash: [command] - [result]"
+
+Before long operation: "Đang [action]..."
+After long operation:  "✓ Hoàn thành [action]"
+```
+
+**KHÔNG để user phải hỏi "đang làm tới đâu?"** - luôn output proactively.
+
+---
+
+## Session Resume Handling
+
+**Khi session resume (sau khi bị interrupt/compact):**
+
+1. **Check TodoWrite** - tìm task đang in_progress
+2. **Output status**: "Session resumed. Đang ở: [current task]"
+3. **Re-read files** - previous reads đã INVALID
+4. **Continue** từ current step
+
+```markdown
+⚠️ CRITICAL: Sau session resume, PHẢI Read lại Whole.md trước khi Edit!
+Previous reads không còn valid trong context mới.
+```
+
+**Detailed recovery:** `references/robust-operations.md`
+
+---
+
 ## References (Load as Needed)
+
+**Error Handling & Recovery:**
+- `references/robust-operations.md` - Atomic patterns, progress feedback, session resume
 
 **Grouping & Analysis:**
 - `references/grouping-principles.md` - Detailed criteria, decision framework, examples
@@ -158,4 +208,4 @@ Regroup [DOMAIN] CHỨC NĂNG [số]: [summary]
 
 ---
 
-**Version:** 3.0.0 (Progressive disclosure with references system)
+**Version:** 3.2.0 (Robust operations, progress feedback, session resume handling)
