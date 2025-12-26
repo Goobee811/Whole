@@ -22437,7 +22437,7 @@ Thiết kế và quản lý có chủ đích để tối đa hóa hiệu ứng m
 
 Chức năng này tập trung vào việc sử dụng đòn bẩy để tạo ra kết quả lớn từ đầu vào nhỏ - nghệ thuật của "làm nhiều hơn với ít hơn".
 
-### **Các Nguyên Lý Cốt Lõi (18 mục)**
+### **1. Core Leverage Principles - Nguyên Lý Đòn Bẩy Cốt Lõi**
 
 #### **1. Compounding** - Lãi Kép
 
@@ -22499,6 +22499,10 @@ Lợi thế chi phí đạt được khi sản xuất với khối lượng lớ
 - **Learning Curve Effects**: Hiệu ứng đường cong học tập, cải thiện hiệu quả theo thời gian.  
     → **Liên kết:** OPERATIONS (Optimization), NAVIGATION (Scaling Strategy).
 
+---
+
+### **2. Replication & Systems Leverage - Đòn Bẩy Sao Chép & Hệ Thống**
+
 #### **6. Standardization & Replication** - Tiêu Chuẩn Hóa & Sao Chép
 
 Tạo ra một mô hình có thể được sao chép nhất quán nhiều lần.
@@ -22529,6 +22533,10 @@ Viết mã một lần nhưng nó có thể chạy vô số lần với chi phí
 - **Software Eating the World**: Phần mềm đang "nuốt chửng" thế giới, số hóa mọi ngành.  
     → **Liên kết:** CREATION (Software Development), OPERATIONS (Automation).
 
+---
+
+### **3. Content & Capital Leverage - Đòn Bẩy Nội Dung & Vốn**
+
 #### **9. Media & Content Leverage** - Đòn Bẩy Truyền Thông & Nội Dung
 
 Tạo ra nội dung một lần nhưng nó có thể được tiêu thụ bởi hàng triệu người.
@@ -22548,6 +22556,10 @@ Sử dụng vốn (của mình hoặc vay) để kiểm soát tài sản lớn h
 - **Risk Amplification**: Đòn bẩy cũng khuếch đại rủi ro, không chỉ lợi nhuận.
 - **Strategic Investment**: Đầu tư chiến lược để tạo ra giá trị dài hạn.  
     → **Liên kết:** NAVIGATION (Financial Strategy), VALIDATION (Risk Management).
+
+---
+
+### **4. Strategic Positioning Leverage - Đòn Bẩy Định Vị Chiến Lược**
 
 #### **11. Information Asymmetry** - Bất Cân Xứng Thông Tin [Đòn Bẩy Chiến Lược]
 
@@ -22585,6 +22597,10 @@ Hợp tác với người khác để đạt được những gì bạn không t
 - **Co-opetition**: Cạnh tranh hợp tác; vừa cạnh tranh vừa hợp tác với cùng một đối tác.  
     → **Liên kết:** INTEGRATION (Collaboration), NAVIGATION (Partnership Strategy).
 
+---
+
+### **5. Knowledge & Learning Leverage - Đòn Bẩy Tri Thức & Học Tập**
+
 #### **14. Mentorship & Modeling** - Cố Vấn & Mô Hình Hóa
 
 Học hỏi từ kinh nghiệm của người khác để rút ngắn đường cong học tập của mình.
@@ -22621,6 +22637,74 @@ Tối đa hóa giá trị tạo ra mỗi đơn vị thời gian.
 - **Energy Management**: Quản lý năng lượng; làm việc quan trọng nhất khi năng lượng cao nhất.
 - **Deep Work Blocks**: Các khối làm việc sâu; thời gian tập trung không bị gián đoạn.  
     → **Liên kết:** NAVIGATION (Time Management), OPERATIONS (Productivity Systems).
+
+#### **18. The Master Leverager** - Bậc Thầy Đòn Bẩy
+
+Khả năng nhận diện, lựa chọn và kết hợp nhiều hình thức đòn bẩy một cách chiến lược.
+
+- **Leverage Stacking**: Xếp chồng đòn bẩy; sử dụng nhiều hình thức đòn bẩy cùng lúc.
+- **Context-Appropriate Selection**: Lựa chọn phù hợp với bối cảnh; biết khi nào nên dùng đòn bẩy nào.
+- **Compound Leverage**: Đòn bẩy kép; đòn bẩy tạo ra đòn bẩy.
+- **Sustainable Amplification**: Khuếch đại bền vững; không chỉ tăng trưởng nhanh mà còn duy trì được.
+    → **Liên kết:** Tích hợp tất cả các khái niệm trong FORCE MULTIPLICATION & LEVERAGE.
+
+---
+
+### **6. Human & Social Leverage - Đòn Bẩy Con Người & Xã Hội**
+
+#### **19. Teaching Leverage** - Đòn Bẩy Giảng Dạy
+
+Nhân rộng tri thức và kỹ năng thông qua việc dạy người khác.
+
+- **Knowledge Multiplication**: Nhân rộng kiến thức qua nhiều người học.
+- **Compounding Impact**: Tác động lãi kép khi học viên dạy tiếp người khác.
+- **Scalable Influence**: Ảnh hưởng có thể mở rộng quy mô.
+- **Legacy Creation**: Tạo ra di sản thông qua truyền đạt tri thức.
+    → **Liên kết:** INTEGRATION (Knowledge Transfer), AMPLIFICATION (Educational Scaling).
+
+#### **20. Leadership Catalysis** - Xúc Tác Lãnh Đạo
+
+Vai trò lãnh đạo như chất xúc tác kích hoạt tiềm năng của người khác.
+
+- **Activation Role**: Vai trò kích hoạt năng lực tiềm ẩn.
+- **Vision Alignment**: Liên kết tầm nhìn để tạo ra hành động tập thể.
+- **Energy Direction**: Định hướng năng lượng của nhóm.
+- **Multiplier Effect**: Hiệu ứng nhân tố qua người khác.
+    → **Liên kết:** INTEGRATION (Leadership), DYNAMICS (Activation).
+
+#### **21. Mentorship Multiplication** - Nhân Rộng Cố Vấn
+
+Hệ thống cố vấn tạo ra chuỗi phát triển nhiều thế hệ.
+
+- **Guidance Scaling**: Mở rộng quy mô sự hướng dẫn.
+- **Wisdom Transmission**: Truyền tải trí tuệ qua các thế hệ.
+- **Accelerated Development**: Phát triển gia tốc cho mentee.
+- **Network Building**: Xây dựng mạng lưới qua mối quan hệ mentor-mentee.
+    → **Liên kết:** INTEGRATION (Mentorship), AMPLIFICATION (Generational Impact).
+
+#### **22. Influence Amplification** - Khuếch Đại Ảnh Hưởng
+
+Tăng cường khả năng tác động lên người khác và tình huống.
+
+- **Impact Expansion**: Mở rộng tác động cá nhân.
+- **Persuasion Leverage**: Đòn bẩy thuyết phục.
+- **Authority Building**: Xây dựng uy tín và quyền lực.
+- **Ripple Effect Creation**: Tạo ra hiệu ứng gợn sóng.
+    → **Liên kết:** INTEGRATION (Influence), NAVIGATION (Power Dynamics).
+
+#### **23. Connector Power** - Sức Mạnh Người Kết Nối
+
+Sức mạnh đến từ việc kết nối mọi người và ý tưởng với nhau.
+
+- **Network Bridging**: Bắc cầu giữa các mạng lưới.
+- **Relationship Capital**: Vốn quan hệ như tài sản.
+- **Introduction Value**: Giá trị từ việc giới thiệu đúng người.
+- **Ecosystem Weaving**: Dệt nên hệ sinh thái qua kết nối.
+    → **Liên kết:** INTEGRATION (Network Building), AMPLIFICATION (Connection Power).
+
+---
+
+### **7. Advanced Optimization & Energy Leverage - Đòn Bẩy Tối Ưu Hóa & Năng Lượng Tiên Tiến**
 
 #### **17. Constraints as Leverage** - Ràng Buộc Như Đòn Bẩy [Chiến Lược Khuếch Đại]
 
@@ -22681,70 +22765,6 @@ Các ví dụ thực tế.
 → **Ứng dụng:** NAVIGATION (Strategic Planning), VALIDATION (MVP Testing)
 → **Creative Problem-Solving:** CREATION (Creative Problem-Solving)
 
-#### **18. The Master Leverager** - Bậc Thầy Đòn Bẩy
-
-Khả năng nhận diện, lựa chọn và kết hợp nhiều hình thức đòn bẩy một cách chiến lược.
-
-- **Leverage Stacking**: Xếp chồng đòn bẩy; sử dụng nhiều hình thức đòn bẩy cùng lúc.
-- **Context-Appropriate Selection**: Lựa chọn phù hợp với bối cảnh; biết khi nào nên dùng đòn bẩy nào.
-- **Compound Leverage**: Đòn bẩy kép; đòn bẩy tạo ra đòn bẩy.
-- **Sustainable Amplification**: Khuếch đại bền vững; không chỉ tăng trưởng nhanh mà còn duy trì được.  
-    → **Liên kết:** Tích hợp tất cả các khái niệm trong FORCE MULTIPLICATION & LEVERAGE.
-
-### **Human Leverage (5 mục bổ sung)**
-
-#### **19. Teaching Leverage** - Đòn Bẩy Giảng Dạy
-
-Nhân rộng tri thức và kỹ năng thông qua việc dạy người khác.
-
-- **Knowledge Multiplication**: Nhân rộng kiến thức qua nhiều người học.
-- **Compounding Impact**: Tác động lãi kép khi học viên dạy tiếp người khác.
-- **Scalable Influence**: Ảnh hưởng có thể mở rộng quy mô.
-- **Legacy Creation**: Tạo ra di sản thông qua truyền đạt tri thức.  
-    → **Liên kết:** INTEGRATION (Knowledge Transfer), AMPLIFICATION (Educational Scaling).
-
-#### **20. Leadership Catalysis** - Xúc Tác Lãnh Đạo
-
-Vai trò lãnh đạo như chất xúc tác kích hoạt tiềm năng của người khác.
-
-- **Activation Role**: Vai trò kích hoạt năng lực tiềm ẩn.
-- **Vision Alignment**: Liên kết tầm nhìn để tạo ra hành động tập thể.
-- **Energy Direction**: Định hướng năng lượng của nhóm.
-- **Multiplier Effect**: Hiệu ứng nhân tố qua người khác.  
-    → **Liên kết:** INTEGRATION (Leadership), DYNAMICS (Activation).
-
-#### **21. Mentorship Multiplication** - Nhân Rộng Cố Vấn
-
-Hệ thống cố vấn tạo ra chuỗi phát triển nhiều thế hệ.
-
-- **Guidance Scaling**: Mở rộng quy mô sự hướng dẫn.
-- **Wisdom Transmission**: Truyền tải trí tuệ qua các thế hệ.
-- **Accelerated Development**: Phát triển gia tốc cho mentee.
-- **Network Building**: Xây dựng mạng lưới qua mối quan hệ mentor-mentee.  
-    → **Liên kết:** INTEGRATION (Mentorship), AMPLIFICATION (Generational Impact).
-
-#### **22. Influence Amplification** - Khuếch Đại Ảnh Hưởng
-
-Tăng cường khả năng tác động lên người khác và tình huống.
-
-- **Impact Expansion**: Mở rộng tác động cá nhân.
-- **Persuasion Leverage**: Đòn bẩy thuyết phục.
-- **Authority Building**: Xây dựng uy tín và quyền lực.
-- **Ripple Effect Creation**: Tạo ra hiệu ứng gợn sóng.  
-    → **Liên kết:** INTEGRATION (Influence), NAVIGATION (Power Dynamics).
-
-#### **23. Connector Power** - Sức Mạnh Người Kết Nối
-
-Sức mạnh đến từ việc kết nối mọi người và ý tưởng với nhau.
-
-- **Network Bridging**: Bắc cầu giữa các mạng lưới.
-- **Relationship Capital**: Vốn quan hệ như tài sản.
-- **Introduction Value**: Giá trị từ việc giới thiệu đúng người.
-- **Ecosystem Weaving**: Dệt nên hệ sinh thái qua kết nối.  
-    → **Liên kết:** INTEGRATION (Network Building), AMPLIFICATION (Connection Power).
-
-### **Energy & Field (5 mục bổ sung)**
-
 #### **24. Energy Field Management** - Quản Lý Trường Năng Lượng
 
 Khả năng nhận thức và định hướng các trường năng lượng tinh tế.
@@ -22752,7 +22772,7 @@ Khả năng nhận thức và định hướng các trường năng lượng tin
 - **Field Awareness**: Nhận thức về trường năng lượng xung quanh.
 - **Energy Direction**: Định hướng dòng năng lượng.
 - **Space Holding**: Giữ không gian năng lượng cho người khác.
-- **Collective Field**: Trường năng lượng tập thể của nhóm.  
+- **Collective Field**: Trường năng lượng tập thể của nhóm.
     → **Liên kết:** DYNAMICS (Energy Dynamics), INTEGRATION (Field Coherence).
 
 #### **25. Presence as Influence** - Sự Hiện Diện Như Ảnh Hưởng
@@ -22762,7 +22782,7 @@ Tác động tinh tế nhưng mạnh mẽ của sự hiện diện có ý thức
 - **Subtle Impact**: Tác động tinh tế qua sự hiện diện.
 - **Non-verbal Communication**: Giao tiếp phi ngôn ngữ mạnh mẽ.
 - **Energetic Resonance**: Cộng hưởng năng lượng với người khác.
-- **Being as Doing**: Sự tồn tại như hành động.  
+- **Being as Doing**: Sự tồn tại như hành động.
     → **Liên kết:** TRANSCENDENCE (Presence), INTEGRATION (Embodied Wisdom).
 
 #### **26. Silence as Statement** - Im Lặng Như Tuyên Bố
@@ -22772,7 +22792,7 @@ Sức mạnh của im lặng trong việc tạo ra tác động và ý nghĩa.
 - **Absence as Power**: Sự vắng mặt như quyền lực.
 - **Space for Emergence**: Không gian cho sự đột sinh.
 - **Listening Leverage**: Đòn bẩy lắng nghe.
-- **Strategic Non-action**: Không hành động chiến lược.  
+- **Strategic Non-action**: Không hành động chiến lược.
     → **Liên kết:** FOUNDATIONS (Wu Wei), TRANSCENDENCE (Paradox).
 
 #### **27. Electromagnetic & Subtle Energy Devices** - Thiết Bị Năng Lượng Điện Từ & Tinh Tế
@@ -22782,7 +22802,7 @@ Công nghệ tăng cường hoặc làm việc với các trường năng lượ
 - **Energy Enhancement**: Tăng cường năng lượng cá nhân.
 - **Frequency Modulation**: Điều chế tần số năng lượng.
 - **Biofield Interaction**: Tương tác với trường sinh học.
-- **Technology-Biology Interface**: Giao diện công nghệ-sinh học.  
+- **Technology-Biology Interface**: Giao diện công nghệ-sinh học.
     → **Liên kết:** CREATION (Energy Technology), OPERATIONS (Biohacking).
 
 #### **28. Plasma & Photonic Medicine** - Y Học Plasma & Photon
@@ -22792,10 +22812,8 @@ Các phương pháp y học tiên tiến sử dụng plasma và ánh sáng.
 - **Light Therapy**: Liệu pháp ánh sáng ở nhiều tần số.
 - **Plasma Healing**: Chữa lành bằng plasma.
 - **Frequency Medicine**: Y học tần số.
-- **Non-invasive Treatment**: Điều trị không xâm lấn.  
+- **Non-invasive Treatment**: Điều trị không xâm lấn.
     → **Liên kết:** FOUNDATIONS (Energy Medicine), CREATION (Medical Innovation).
-
-### **Optimization Strategies (5 mục bổ sung)**
 
 #### **29. Linear Optimization** - Tối Ưu Hóa Tuyến Tính
 
@@ -22804,7 +22822,7 @@ Phương pháp toán học để tìm giải pháp tốt nhất trong các ràng
 - **Mathematical Direct**: Tiếp cận toán học trực tiếp.
 - **Resource Allocation**: Phân bổ nguồn lực tối ưu.
 - **Simplex Method**: Phương pháp simplex và các biến thể.
-- **Constraint Satisfaction**: Thỏa mãn các ràng buộc.  
+- **Constraint Satisfaction**: Thỏa mãn các ràng buộc.
     → **Liên kết:** OPERATIONS (Mathematical Optimization), NAVIGATION (Resource Planning).
 
 #### **30. Non-linear Optimization** - Tối Ưu Hóa Phi Tuyến
@@ -22814,7 +22832,7 @@ Xử lý các hệ thống phức tạp với mối quan hệ phi tuyến tính.
 - **Complex System Handling**: Xử lý hệ thống phức tạp.
 - **Emergent Solutions**: Giải pháp đột sinh.
 - **Gradient Methods**: Các phương pháp gradient.
-- **Local vs Global Optima**: Tối ưu cục bộ so với toàn cục.  
+- **Local vs Global Optima**: Tối ưu cục bộ so với toàn cục.
     → **Liên kết:** DYNAMICS (Non-linearity), OPERATIONS (Complex Optimization).
 
 #### **31. Combinatorial Optimization** - Tối Ưu Hóa Tổ Hợp
@@ -22824,7 +22842,7 @@ Tìm giải pháp tốt nhất từ một tập hợp hữu hạn các khả nă
 - **Finite Selection**: Lựa chọn từ tập hợp hữu hạn.
 - **Discrete Optimization**: Tối ưu hóa rời rạc.
 - **Heuristic Methods**: Các phương pháp heuristic.
-- **Computational Complexity**: Độ phức tạp tính toán.  
+- **Computational Complexity**: Độ phức tạp tính toán.
     → **Liên kết:** OPERATIONS (Algorithm Design), CREATION (Solution Space).
 
 #### **32. Multi-Objective Optimization** - Tối Ưu Hóa Đa Mục Tiêu
@@ -22844,7 +22862,7 @@ Tìm giải pháp hoạt động tốt ngay cả khi có sự không chắc ch�
 - **Uncertainty Handling**: Xử lý sự không chắc chắn.
 - **Resilience Building**: Xây dựng khả năng phục hồi.
 - **Worst-case Planning**: Lập kế hoạch cho trường hợp xấu nhất.
-- **Adaptive Solutions**: Giải pháp thích ứng.  
+- **Adaptive Solutions**: Giải pháp thích ứng.
     → **Liên kết:** VALIDATION (Risk Management), NAVIGATION (Resilience Strategy).
 
 ---
