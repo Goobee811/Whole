@@ -19,6 +19,14 @@ metadata:
 
 # Whole Knowledge Architecture Editor
 
+## Critical Rules
+
+### 🚨 MANDATORY: Read Before Edit
+**ALWAYS use Read tool on Whole.md BEFORE any Edit operation.**
+Claude Code requires this. If you get "File has not been read yet" error:
+1. Immediately run: `Read /home/user/Whole/Whole.md offset=X limit=Y`
+2. Retry the Edit with exact old_string from Read output
+
 ## Core Principles
 1. **Only Add, Never Subtract** - Never delete without explicit approval
 2. **Bilingual Format** - Always use `## English | Tiếng Việt`
@@ -57,3 +65,4 @@ Load: `references/structure-validation.md`
 - Skip 4-point structure
 - Translate literally without context
 - Change structure without impact analysis
+- Edit without Reading first

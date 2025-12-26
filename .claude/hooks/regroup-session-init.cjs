@@ -32,41 +32,30 @@ try {
 }
 
 // Display progress
-const completedCount = progress.completed?.length || 0;
+// FIX: Use completedFunctions (array) not completed
+const completedArr = progress.completedFunctions || progress.completed || [];
+const completedCount = Array.isArray(completedArr) ? completedArr.length : 0;
 const totalCount = progress.totalFunctions || 50;
 const nextSuggested = progress.nextSuggested || 1;
 const progressPercent = ((completedCount / totalCount) * 100).toFixed(1);
 
-console.log(`
-╔═══════════════════════════════════════════════════════════╗
-║  🎯 WHOLE REGROUP PROGRESS                                ║
-╠═══════════════════════════════════════════════════════════╣
-║  Completed:     ${completedCount}/${totalCount} CHỨC NĂNGs (${progressPercent}%)                   ║
-║  Next:          CHỨC NĂNG ${nextSuggested}                               ║
-║  Last updated:  ${progress.lastUpdated || 'N/A'}              ║
-╚═══════════════════════════════════════════════════════════╝
+// Token-efficient output (no ASCII box art)
+console.log(`[WHOLE-REGROUP] Progress: ${completedCount}/${totalCount} (${progressPercent}%)`);
+console.log(`[NEXT] CF${nextSuggested} | Last: ${progress.lastUpdated || 'N/A'}`);
 
-📊 Session Stats:
-   - Avg concepts/function: ${progress.stats?.averageConceptsPerFunction || 'N/A'}
-   - Avg groups/function:   ${progress.stats?.averageGroupsPerFunction || 'N/A'}
-   - Total time:            ${progress.stats?.totalTimeMinutes || 'N/A'} min
+if (progress.statistics) {
+  console.log(`[STATS] Avg concepts: ${progress.statistics.averageConceptsPerFunction || 'N/A'} | Avg groups: ${progress.statistics.averageGroupsPerFunction || 'N/A'}`);
+}
 
-${progress.lastCompletedFunction ? `
-✅ Last completed:
-   - Domain:   ${progress.lastCompletedFunction.domain}
-   - Function: CF${progress.lastCompletedFunction.functionNumber} - ${progress.lastCompletedFunction.functionName}
-   - Date:     ${progress.lastCompletedFunction.completedDate}
-   - Groups:   ${progress.lastCompletedFunction.groupCount} thematic groups
-   - Concepts: ${progress.lastCompletedFunction.conceptCount} total
-` : ''}
+if (progress.lastCompletedFunction) {
+  const last = progress.lastCompletedFunction;
+  console.log(`[LAST] CF${last.functionNumber} ${last.functionName} → ${last.groupCount} groups`);
+}
 
-💡 Quick Tips:
-   - Use \`/regroup\` to auto-start next function (CF${nextSuggested})
-   - Use \`/regroup [domain] [number]\` for specific function
-   - Progress auto-tracked after each commit
-
-🎯 Next Milestone: ${progress.milestones?.nextMilestone || '10 functions (20%)'}
-`);
+console.log(`[HINT] /regroup (auto-CF${nextSuggested}) | /regroup [N] (specific)`);
+if (progress.milestones?.nextMilestone) {
+  console.log(`[MILESTONE] Next: ${progress.milestones.nextMilestone}`);
+}
 
 // Auto-activate skill if working on Whole.md
 if (process.env.PWD?.includes('Whole')) {
