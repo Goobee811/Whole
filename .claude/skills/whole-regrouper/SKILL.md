@@ -121,11 +121,40 @@ Regroup [DOMAIN] CHỨC NĂNG [số]: [summary]
 
 ---
 
+## TodoWrite (MANDATORY)
+
+**Use TodoWrite tool at each checkpoint** - don't just output emoji text!
+
+```json
+[
+  {"content": "Read CF{N} content", "status": "in_progress", "activeForm": "Reading CF content"},
+  {"content": "Analyze and create groups", "status": "pending", "activeForm": "Analyzing concepts"},
+  {"content": "Edit Whole.md", "status": "pending", "activeForm": "Editing Whole.md"},
+  {"content": "Validate changes", "status": "pending", "activeForm": "Validating"},
+  {"content": "Commit and push", "status": "pending", "activeForm": "Committing"}
+]
+```
+
+**Update `.whole-state.json` at each phase:**
+```json
+{
+  "currentOperation": "regroup",
+  "phase": "analyze",
+  "pendingAction": "create_groups",
+  "lastReadFile": "Whole.md",
+  "lastReadLines": "20262-20638",
+  "context": {"cf": 32, "concepts": 36}
+}
+```
+
+---
+
 ## Integration
 
 - **Command:** `/regroup [domain] [function-number]` - Auto-activates this skill
 - **Hooks:** `session-init`, `regroup-validation` (if available)
 - **Progress:** `.whole-progress.json` (if available)
+- **State:** `.whole-state.json` (for resume capability)
 
 ---
 
