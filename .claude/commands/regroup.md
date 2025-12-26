@@ -78,11 +78,26 @@ Ready to regroup CHỨC NĂNG ${targetFunction}? [Y/n]
 After successful commit & push:
 ```javascript
 // Update .whole-progress.json:
-// - Add targetFunction to completed[]
+// - Add targetFunction to completedFunctions[]
 // - Update nextSuggested (targetFunction + 1)
 // - Update lastUpdated timestamp
 // - Update stats (if available: time, concept count, group count)
 ```
+
+### Step 6: Completion Signal (MANDATORY)
+**ALWAYS output this exact format when done:**
+```
+✅ REGROUP COMPLETE
+CF{N}: {NAME} - {old_count} concepts → {new_groups} groups
+Next: CF{N+1}
+Progress: {completed}/{total} ({pct}%)
+```
+
+**DO NOT:**
+- Loop back and re-run /regroup
+- Leave todos incomplete
+- Skip the completion signal
+- Edit without Reading first
 
 ---
 

@@ -35,6 +35,12 @@ Regroup concepts in Whole.md CHỨC NĂNGs using thematic analysis.
 
 ## Critical Rules
 
+### 🚨 MANDATORY: Read Before Edit
+**ALWAYS use Read tool on Whole.md BEFORE any Edit operation.**
+Claude Code requires this. If you get "File has not been read yet" error:
+1. Immediately run: `Read /home/user/Whole/Whole.md offset=X limit=Y`
+2. Retry the Edit with exact old_string from Read output
+
 ### ✅ MUST PRESERVE
 - "### **Tổng Quan**" section (exact content, exact format)
 - All concept content (every word, every bullet point, every → **Liên kết:**)
@@ -48,6 +54,7 @@ Regroup concepts in Whole.md CHỨC NĂNGs using thematic analysis.
 - Delete concepts
 - Modify concept content
 - Restart numbering per group
+- Edit without Reading first
 
 ---
 
