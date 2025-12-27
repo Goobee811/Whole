@@ -29569,6 +29569,8 @@ Chức năng này là về việc sử dụng hệ thống meta để cải thi�
 
 ### **Các Khái Niệm Cốt Lõi**
 
+### **Nhóm 1: Core Self-Improvement - Tự Cải Thiện Cốt Lõi**
+
 #### **1. Deliberate Practice of Thinking** - Thực Hành Có Chủ Ý về Tư Duy
 
 Áp dụng nguyên tắc thực hành có chủ ý để cải thiện các kỹ năng tư duy.
@@ -29704,7 +29706,7 @@ Làm việc ở ranh giới của khả năng hiện tại để tối đa hóa 
 
 → **Liên kết:** DYNAMICS (Flow States), OPERATIONS (Goal Setting).
 
-### **Nhóm Bổ Sung: Foundational Recursion (6 mục mới)**
+### **Nhóm 2: Foundational Recursion - Đệ Quy Nền Tảng**
 
 #### **13. Creating Creation** - Tạo Ra Sự Sáng Tạo
 
@@ -29783,7 +29785,7 @@ Suy luận có cấu trúc tự tham chiếu và đệ quy.
 
 ---
 
-### **Nhóm Bổ Sung: Progressive Depth (5 mục mới)**
+### **Nhóm 3: Progressive Depth - Chiều Sâu Tiến Hóa**
 
 #### **19. Learning → Learning to Learn → Learning How Learning Changes the Learner** - Học Tập → Học Cách Học → Học Cách Học Tập Thay Đổi Người Học
 
@@ -29855,7 +29857,7 @@ Ba cấp độ đệ quy của tư duy hệ thống.
 
 ---
 
-### **Nhóm Bổ Sung: Navigation Evolution (5 mục mới)**
+### **Nhóm 4: Navigation Evolution - Tiến Hóa Điều Hướng**
 
 #### **24. Navigation Learning** - Học Tập Điều Hướng
 
@@ -29919,7 +29921,7 @@ Khác với các biến thể "con người", đây là về COMPUTATION:
 
 ---
 
-### **Nhóm Bổ Sung: Infinite Iteration (4 mục mới)**
+### **Nhóm 5: Infinite Iteration - Lặp Lại Vô Hạn**
 
 #### **29. Meta-izing the Meta of Meta** - Siêu Hóa Cái Siêu Của Siêu
 
@@ -29969,7 +29971,7 @@ Hệ thống tiến bộ qua các cấp độ ngày càng sâu sắc của nhậ
 
 ---
 
-### **Nhóm Bổ Sung: Ultimate Intelligence (3 mục mới)**
+### **Nhóm 6: Ultimate Intelligence - Trí Tuệ Tối Thượng**
 
 #### **33. Supreme Intelligence** - Trí Tuệ Tối Thượng
 
