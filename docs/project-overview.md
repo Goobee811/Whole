@@ -9,8 +9,8 @@ Whole is a comprehensive bilingual (Vietnamese-English) knowledge architecture d
 **50/50 functions completed (100%)**
 
 - All 10 domains fully regrouped
-- 1,504 concepts processed
-- 278 thematic groups created
+- 2,072 concepts processed
+- 371 thematic groups created
 - Project duration: 12 days (2025-12-16 to 2025-12-27)
 
 ## Structure
@@ -153,9 +153,9 @@ Use `/report` for a comprehensive progress report.
 | Total functions | 50 |
 | Completed | 50 (100%) |
 | Total domains | 10 |
-| Total concepts | 1,504 |
-| Total groups | 278 |
-| Avg concepts/function | 30.1 |
-| Avg groups/function | 5.6 |
-| Total sessions | 24 |
+| Total concepts | 2,072 |
+| Total groups | 371 |
+| Avg concepts/function | 41.1 |
+| Avg groups/function | 7.5 |
+| Total sessions | 31 |
 | Project duration | 12 days |

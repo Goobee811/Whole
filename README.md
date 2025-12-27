@@ -154,11 +154,11 @@ Claude: [Applies regrouping]
 |--------|-------|
 | Functions completed | 50/50 (100%) |
 | Domains completed | 10/10 |
-| Total concepts processed | 1,504 |
-| Total groups created | 278 |
-| Average concepts/function | 30.1 |
-| Average groups/function | 5.6 |
-| Sessions completed | 24 |
+| Total concepts processed | 2,072 |
+| Total groups created | 371 |
+| Average concepts/function | 41.1 |
+| Average groups/function | 7.5 |
+| Sessions completed | 31 |
 | Project duration | 12 days |
 
 ## License
