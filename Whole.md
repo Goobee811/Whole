@@ -28059,7 +28059,9 @@ Siêu Tầng này chứa các khái niệm, quy trình và cấu trúc để qua
 
 Chức năng này bao gồm các quy trình tư duy về chính tư duy - khả năng tự quan sát, giám sát và điều chỉnh các hoạt động nhận thức của bản thân trong thời gian thực. Đây là nền tảng của sự tự chủ nhận thức và học tập có ý thức.
 
-### **Các Khái Niệm Cốt Lõi**
+---
+
+### **Nhóm 1: Core Meta-Cognition & Self-Awareness - Nền Tảng Siêu Nhận Thức & Tự Nhận Biết**
 
 #### **1. Metacognition** - Siêu Nhận Thức [Khái niệm Nền Tảng của Meta Layer]
 
@@ -28138,6 +28140,10 @@ Khả năng nhận ra và điều chỉnh các thiên kiến nhận thức của
 
 → **Liên kết:** VALIDATION (Cognitive Biases), OPERATIONS (Critical Thinking).
 
+---
+
+### **Nhóm 2: Meta-Learning & Reflective Growth - Siêu Học Tập & Phát Triển Phản Tư**
+
 #### **5. Intellectual Humility** - Khiêm Tốn Trí Tuệ
 
 Nhận thức về giới hạn của tri thức và sự cởi mở với việc sai lầm hoặc thay đổi quan điểm.
@@ -28210,6 +28216,10 @@ Khả năng chủ động định hướng và duy trì chú ý theo ý muốn.
 
 → **Liên kết:** OPERATIONS (Systematic Execution), DYNAMICS (Flow States).
 
+---
+
+### **Nhóm 3: Cognitive Monitoring & Regulation - Giám Sát & Điều Tiết Nhận Thức**
+
 #### **10. Reflective Practice** - Thực Hành Phản Tư
 
 Quá trình có hệ thống xem xét lại kinh nghiệm để học hỏi và cải thiện.
@@ -28267,6 +28277,10 @@ Tin tưởng rằng chính khả năng tư duy và học tập có thể đượ
 
 → **Liên kết:** DYNAMICS (Growth Mindset), OPERATIONS (Deliberate Practice).
 
+---
+
+### **Nhóm 4: Wisdom, Humility & Sovereignty - Trí Tuệ, Khiêm Tốn & Chủ Quyền**
+
 #### **15. The Master Meta-Skill** - Siêu Kỹ Năng Bậc Thầy
 
 Khả năng lựa chọn, kết hợp và áp dụng tất cả các kỹ năng meta-nhận thức khác một cách phù hợp và linh hoạt.
@@ -28278,7 +28292,10 @@ Khả năng lựa chọn, kết hợp và áp dụng tất cả các kỹ năng 
 
 → **Liên kết:** Tích hợp tất cả các khái niệm trong nhóm META-COGNITION.
 
-### **Nhóm Bổ Sung: Foundational Meta (5 mục mới)**
+---
+
+### **Nhóm 5: Witness Consciousness & Pure Awareness - Ý Thức Chứng Kiến & Nhận Thức Thuần Khiết**
+
 #### **16. Observing Observation** - Quan Sát Sự Quan Sát
 
 Khả năng quan sát chính hành động quan sát - tầng meta thứ hai của nhận thức.
@@ -28324,8 +28341,6 @@ Nhận thức về chính trạng thái ý thức hiện tại - biết mình đ
 → **Liên kết:** DYNAMICS (Mindfulness), [META] LAYER (Meta-State Awareness).
 
 ---
-
-### **Nhóm Bổ Sung: Witness & Pure Awareness (5 mục mới)**
 
 #### **20. Witness Consciousness** - Ý Thức Chứng Kiến
 
@@ -28387,7 +28402,7 @@ Thực hành tỉnh thức và nhận thức liên tục về hiện tại trong
 
 ---
 
-### **Nhóm Bổ Sung: Universal Intelligence (4 mục mới)**
+### **Nhóm 6: Universal Consciousness & Perspectives - Ý Thức Vũ Trụ & Các Quan Điểm**
 
 #### **25. Universal Intelligence** - Trí Tuệ Vũ Trụ
 
@@ -28423,8 +28438,6 @@ Khả năng nhận biết và làm việc với các "trạng thái về trạng
 → **Liên kết:** DYNAMICS (State Management), [META] LAYER (Cognitive State Transitions).
 
 ---
-
-### **Nhóm Bổ Sung: Perspective Architecture (4 mục mới)**
 
 #### **28. First to Seventh & Nth Person Perspective** - Quan Điểm Từ Ngôi Thứ Nhất Đến Thứ Bảy & Ngôi Thứ N
 
@@ -28475,7 +28488,7 @@ Lời khuyên cổ xưa về tầm quan trọng của tự tri - nền tảng c�
 
 ---
 
-### **Nhóm Bổ Sung: Scientific & Philosophical (5 mục mới)**
+### **Nhóm 7: Scientific Frameworks & Contemplative Practices - Khung Lý Thuyết Khoa Học & Thực Hành Thiền Quán**
 
 #### **32. Philosophy of Mind** - Triết Học Tâm Trí
 
@@ -28541,8 +28554,6 @@ Xã hội học tự phản tư về chính phương pháp và giả định c�
 → **Liên kết:** VALIDATION (Methodological Rigor), INTEGRATION (Social Systems).
 
 ---
-
-### **Nhóm Bổ Sung: Practice & Application (4 mục mới)**
 
 #### **36. Transcendental Meditation** - Thiền Siêu Việt
 
