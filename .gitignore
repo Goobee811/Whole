@@ -4,3 +4,12 @@ node_modules/
 .DS_Store
 __pycache__/
 *.pyc
+
+# Local settings
+.claude/settings.local.json
+
+# Temporary files from manual regrouping
+*temp*.txt
+*-regroup-plan.txt
+regroup_*.py
+complete_regroup_*.py
