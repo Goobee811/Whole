@@ -22873,7 +22873,7 @@ Tìm giải pháp hoạt động tốt ngay cả khi có sự không chắc ch�
 
 Chức năng này tập trung vào các cơ chế giúp ý tưởng, nội dung, hoặc sản phẩm lan truyền như virus - tự nhân rộng thông qua hành vi của người dùng.
 
-### **Các Nguyên Lý Cốt Lõi (17 mục)**
+### **1. Core Viral Mechanisms - Cơ Chế Lan Truyền Cốt Lõi**
 
 #### **1. Viral Mechanics** - Cơ Chế Lan Truyền
 
@@ -22935,6 +22935,10 @@ Sự lan truyền của hành vi, cảm xúc, hoặc niềm tin qua các mạng 
 - **Network Topology Impact**: Tác động của cấu trúc mạng lưới lên tốc độ lan truyền.  
     → **Liên kết:** DYNAMICS (Social Dynamics), INTEGRATION (Social Networks).
 
+---
+
+### **2. Cascade & Amplification Dynamics - Động Lực Tầng Thác & Khuếch Đại**
+
 #### **7. Cascade Effects** - Hiệu Ứng Tầng Thác
 
 Một chuỗi các sự kiện trong đó mỗi sự kiện kích hoạt một chuỗi sự kiện tiếp theo, lan rộng ra.
@@ -22984,6 +22988,10 @@ Sức mạnh của câu chuyện trong việc làm cho thông điệp dễ nhớ
 - **Memorable Packaging**: Đóng gói đáng nhớ, câu chuyện dễ nhớ hơn các sự kiện.
 - **Viral Story Structure**: Cấu trúc câu chuyện lan truyền, có khởi đầu, xung đột, và kết thúc.  
     → **Liên kết:** INTEGRATION (Narrative Building), CREATION (Story Design).
+
+---
+
+### **3. Psychological Triggers & Trends - Kích Hoạt Tâm Lý & Xu Hướng**
 
 #### **12. FOMO (Fear of Missing Out)** - Nỗi Sợ Bị Bỏ Lỡ
 
@@ -23045,7 +23053,9 @@ Các hệ thống khuyến khích và khen thưởng người dùng khi giới t
 - **Value First**: Giá trị trước tiên, đảm bảo người dùng có trải nghiệm tốt trước khi yêu cầu giới thiệu.  
     → **Liên kết:** OPERATIONS (Incentive Design), VALIDATION (User Experience).
 
-### **Tipping Point Dynamics (7 mục bổ sung)**
+---
+
+### **4. Tipping Point & Critical Mass - Điểm Bùng Phát & Khối Lượng Tới Hạn**
 
 #### **18. Momentum Building** - Xây Dựng Động Lực
 
@@ -23117,7 +23127,9 @@ Khả năng phát hiện khi nào một hệ thống đang gần đến điểm 
 - **Anticipatory Action**: Hành động dự đoán trước.  
     → **Liên kết:** VALIDATION (Early Detection), NAVIGATION (Anticipation).
 
-### **Cultural Transmission (7 mục bổ sung)**
+---
+
+### **5. Content & Cultural Propagation - Lan Truyền Nội Dung & Văn Hóa**
 
 #### **25. Viral Marketing** - Tiếp Thị Lan Truyền
 
@@ -23193,7 +23205,9 @@ Năng lượng duy trì và tăng cường quá trình sáng tạo.
 - **Inspiration Compounding**: Cảm hứng lãi kép.  
     → **Liên kết:** CREATION (Creative Flow), DYNAMICS (Energy Management).
 
-### **Mass Communication (5 mục bổ sung)**
+---
+
+### **6. Mass Distribution Systems - Hệ Thống Phân Phối Đại Chúng**
 
 #### **32. Mass Communication & Media** - Truyền Thông Đại Chúng & Phương Tiện
 
@@ -23245,7 +23259,9 @@ Các phương pháp chữa lành không bị giới hạn bởi không gian vậ
 - **Non-locality**: Tính phi địa phương.  
     → **Liên kết:** FOUNDATIONS (Quantum), TRANSCENDENCE (Non-local Consciousness).
 
-### **Advanced Propagation (5 mục bổ sung)**
+---
+
+### **7. Reality & Discourse Shifting - Chuyển Dịch Thực Tại & Diễn Ngôn**
 
 #### **37. Reality Tunnel Adjustment** - Điều Chỉnh Đường Hầm Thực Tại
 
@@ -23287,7 +23303,9 @@ Sử dụng các câu hỏi chiến lược để kích hoạt suy nghĩ và tha
 - **Cognitive Opening**: Mở cửa nhận thức.  
     → **Liên kết:** OPERATIONS (Inquiry Methods), TRANSCENDENCE (Questioning).
 
-### **Social Principles (4 mục bổ sung)**
+---
+
+### **8. Social Coordination Principles - Nguyên Lý Phối Hợp Xã Hội**
 
 #### **41. Girard's Mimetic Razor** - Dao Cạo Bắt Chước của Girard
 
@@ -23337,7 +23355,7 @@ Giải pháp mà mọi người tự nhiên hội tụ khi không có giao tiế
 
 Chức năng này tập trung vào việc hiểu và tạo ra các mẫu hình tăng trưởng theo cấp số nhân - nơi tốc độ tăng trưởng tỷ lệ với kích thước hiện tại.
 
-### **Các Nguyên Lý Cốt Lõi (15 mục)**
+### **1. Core Exponential Principles - Nguyên Lý Cấp Số Nhân Cốt Lõi**
 
 #### **1. Exponential Technology Growth** - Tăng Trưởng Công Nghệ Theo Cấp Số Nhân
 
@@ -23476,6 +23494,8 @@ Hiện tượng những lợi thế nhỏ ban đầu tích lũy và phóng đạ
 - **Inequality Generation**: Tạo ra bất bình đẳng, xu hướng tự nhiên của nhiều hệ thống.  
     → **Liên kết:** DYNAMICS (Power Laws), NAVIGATION (Positioning Strategy).
 
+### **2. Scaling Dynamics - Động Lực Mở Rộng Quy Mô**
+
 #### **14. Power Laws** - Các Định Luật Lũy Thừa
 
 Phân phối trong đó một số ít yếu tố chiếm phần lớn giá trị - CÔNG CỤ để xác định điểm đòn bẩy. Khác với lý thuyết ở FOUNDATIONS và mô hình tiến hóa ở DYNAMICS, đây là về CHIẾN LƯỢC TẬN DỤNG Power Laws để khuếch đại tác động.
@@ -23502,7 +23522,7 @@ Các thị trường hoặc tình huống trong đó người đứng đầu chi
 - **First/Second Place Gap**: Khoảng cách giữa vị trí thứ nhất và thứ hai, thường rất lớn.  
     → **Liên kết:** NAVIGATION (Competitive Strategy), OPERATIONS (Market Analysis).
 
-### **Core Growth Principles (6 mục bổ sung)**
+### **3. Replication & Reproduction - Sao Chép & Sinh Sản**
 
 #### **16. Exponential** - Tính Lũy Thừa
 
@@ -23554,7 +23574,7 @@ Quá trình lặp lại một hành động hoặc quy trình để cải thiệ
 - **Spiral Development**: Phát triển theo hình xoáy ốc.  
     → **Liên kết:** OPERATIONS (Iterative Methods), CREATION (Prototyping).
 
-### **Fractal & Recursive (3 mục bổ sung)**
+### **4. Momentum & Acceleration - Quán Tính & Gia Tốc**
 
 #### **21. Fractal Growth** - Tăng Trưởng Phân Hình
 
@@ -23586,7 +23606,7 @@ Các mẫu hình có tham chiếu hoặc chứa đựng chính nó.
 - **Meta-Patterns**: Các mẫu hình về mẫu hình.  
     → **Liên kết:** [META] LAYER (Recursion), FOUNDATIONS (Self-Reference).
 
-### **Feedback & Amplification (5 mục bổ sung)**
+### **5. Emergent & Nonlinear Patterns - Mẫu Xuất Hiện & Phi Tuyến**
 
 #### **24. Feedback Acceleration** - Gia Tốc Phản Hồi
 
@@ -23628,7 +23648,7 @@ Kích hoạt và tăng tốc sự thay đổi ở cấp độ hệ thống.
 - **Leverage Point Activation**: Kích hoạt điểm đòn bẩy.  
     → **Liên kết:** DYNAMICS (System Transformation), NAVIGATION (Leverage Points).
 
-### **Replication & Scaling (5 mục bổ sung)**
+### **6. Recursive & Fractal Structures - Cấu Trúc Đệ Quy & Fractal**
 
 #### **28. Replication - Sao Chép [Cơ Chế Tăng Trưởng]**
 
@@ -23684,7 +23704,7 @@ Khái niệm về sức mạnh của số đông, đa dạng và phân tán.
 - **Abundance Mindset**: Tâm thế dồi dào.  
     → **Liên kết:** FOUNDATIONS (Multiplicity), INTEGRATION (Collective).
 
-### **Activation & Catalyst (5 mục bổ sung)**
+### **7. Long-term Evolution - Tiến Hóa Dài Hạn**
 
 #### **33. Activation Energy** - Năng Lượng Kích Hoạt
 
@@ -23736,7 +23756,7 @@ Quá trình kích thích và gia tốc sự tăng trưởng.
 - **Expansion Trigger**: Kích hoạt mở rộng.  
     → **Liên kết:** DYNAMICS (Growth Dynamics), OPERATIONS (Growth Strategy).
 
-### **Emergence & Evolution (6 mục bổ sung)**
+### **8. Intergenerational & Multi-Scale - Liên Thế Hệ & Đa Quy Mô**
 
 #### **38. Emergence Acceleration** - Gia Tốc Đột Sinh
 
@@ -23847,7 +23867,7 @@ Cơ chế nhân rộng tác động qua nhiều thế hệ - mỗi thế hệ x�
 
 Chức năng này tập trung vào việc xây dựng các nền tảng và hệ sinh thái - nơi nhiều bên tạo ra và trao đổi giá trị.
 
-### **Các Nguyên Lý Cốt Lõi (15 mục)**
+### **1. Core Platform Principles - Nguyên Lý Nền Tảng Cốt Lõi**
 
 #### **1. Platform Effects** - Hiệu Ứng Nền Tảng
 
@@ -23918,6 +23938,8 @@ Cung cấp công cụ, tài liệu và cơ sở hạ tầng để các nhà phá
 - **Developer Community**: Cộng đồng nhà phát triển, nơi mọi người giúp đỡ lẫn nhau.
 - **Platform Evangelism**: Truyền bá nền tảng, khuyến khích việc chấp nhận và sử dụng.  
     → **Liên kết:** INTEGRATION (Developer Relations), OPERATIONS (Platform Operations).
+
+### **2. Marketplace & Business Models - Mô Hình Thị Trường & Kinh Doanh**
 
 #### **8. Marketplace Design** - Thiết Kế Thị Trường
 
@@ -23993,6 +24015,8 @@ Chiến lược CHỦ ĐỘNG kết hợp các công nghệ, ngành công nghi�
 
 → **Ví dụ thực tế:** Smartphone = phone + camera + computer + GPS (technology fusion); Fintech = finance + technology (industry blurring); WeChat = messaging + payment + social + services (platform convergence); Apple ecosystem = hardware + software + services (unified experience)
 
+### **3. Platform Architecture & Design - Kiến Trúc & Thiết Kế Nền Tảng**
+
 #### **14. Synergistic Systems** - Các Hệ Thống Hiệp Lực
 
 Hệ thống được thiết kế để các thành phần làm việc cùng nhau tạo ra giá trị lớn hơn tổng các phần.
@@ -24013,7 +24037,7 @@ Khả năng nhìn thấy, thiết kế, xây dựng và phát triển các nền
 - **Long-term Ecosystem Thinking**: Tư duy hệ sinh thái dài hạn, không chỉ tối ưu hóa ngắn hạn.  
     → **Liên kết:** Tích hợp tất cả các khái niệm trong PLATFORM & ECOSYSTEM BUILDING.
 
-### **Platform Architecture (5 mục bổ sung)**
+### **4. Ecosystem Development & Community - Phát Triển Hệ Sinh Thái & Cộng Đồng**
 
 #### **16. Platform Catalysis** - Xúc Tác Nền Tảng
 
@@ -24034,8 +24058,6 @@ Khuếch đại thông qua các không gian ảo và thực tại mở rộng.
 - **Digital Twin**: Sinh đôi kỹ thuật số.
 - **Virtual Presence**: Sự hiện diện ảo.  
     → **Liên kết:** CREATION (Virtual Worlds), INTEGRATION (Hybrid Reality).
-
-### **Ecosystem Development (6 mục bổ sung)**
 
 #### **18. Ecosystem Development** - Phát Triển Hệ Sinh Thái
 
@@ -24087,7 +24109,7 @@ Các phương pháp quản trị tập thể dựa trên trí tuệ tập thể.
 - **Deliberative Process**: Quá trình thảo luận.  
     → **Liên kết:** INTEGRATION (Governance), OPERATIONS (Decision Processes).
 
-### **Innovation Systems (6 mục bổ sung)**
+### **5. Innovation Systems - Hệ Thống Đổi Mới**
 
 #### **23. Innovation Catalysis** - Xúc Tác Đổi Mới
 
@@ -24200,7 +24222,7 @@ Quy trình tập trung, ngắn hạn để giải quyết vấn đề và thử 
 → **Liên kết:** PLATFORM EFFECTS (Platform Building), INTEGRATION (Ecosystem Coordination)
 → **Kết hợp với:** API Economy, Developer Platform, Marketplace Design
 
-### **Generative Design (6 mục bổ sung)**
+### **6. Generative & Creative Systems - Hệ Thống Tạo Sinh & Sáng Tạo**
 
 #### **29. Generative Design** - Thiết Kế Tạo Sinh
 
@@ -24252,7 +24274,7 @@ Triết lý học hỏi từ thất bại một cách sáng tạo.
 - **Discovery Through Error**: Khám phá qua lỗi lầm.  
     → **Liên kết:** VALIDATION (Failure Analysis), CREATION (Experimental Culture).
 
-### **Creative Distribution (6 mục bổ sung)**
+### **7. Creative Distribution & Legacy - Phân Phối Sáng Tạo & Di Sản**
 
 #### **34. Festival Circuits** - Vòng Liên Hoan
 
@@ -24303,8 +24325,6 @@ Nghệ thuật được tạo ra và phân phối qua mạng xã hội.
 - **Audience Participation**: Sự tham gia của khán giả.
 - **Real-time Creation**: Sáng tạo thời gian thực.  
     → **Liên kết:** CREATION (Digital Art), VIRAL MECHANICS (Social Media).
-
-### **Transmission & Legacy (6 mục bổ sung)**
 
 #### **39. Teaching & Transmission** - Giảng Dạy & Truyền Đạt
 
@@ -24357,8 +24377,6 @@ Truyền bá giáo lý và trí tuệ tâm linh.
 - **Truth Sharing**: Chia sẻ chân lý.  
     → **Liên kết:** FOUNDATIONS (Dharma), TRANSCENDENCE (Spiritual Transmission).
 
-### **Sacred Amplification (5 mục bổ sung)**
-
 #### **44. Spiritual Movement Building** - Xây Dựng Phong Trào Tâm Linh
 
 Khuếch đại tác động xã hội thông qua việc xây dựng các phong trào được thúc đẩy bởi giá trị tâm linh và đạo đức. Đây là PHƯƠNG PHÁP để biến các giá trị thiêng liêng (như Tikkun Olam, Dharma, Sacred Activism) thành hành động tập thể quy mô lớn.
@@ -24407,7 +24425,7 @@ Nghệ thuật như một NỀN TẢNG và HỆ SINH THÁI cho thực hành ch�
 → **Tác động:** TRANSCENDENCE (Healing), INTEGRATION (Social Cohesion)
 → **Ví dụ thực tế:** Community art centers, healing circles, social art movements
 
-### **Technology Integration (5 mục bổ sung)**
+### **8. Technology Integration - Tích Hợp Công Nghệ**
 
 #### **48. AI-Augmented Integration** - Tích Hợp Tăng Cường AI
 
@@ -24459,7 +24477,7 @@ Thu thập và phân tích dữ liệu cá nhân để cải thiện bản thân
 - **Personal Analytics**: Phân tích cá nhân.  
     → **Liên kết:** VALIDATION (Self-Measurement), OPERATIONS (Personal Optimization).
 
-### **Universal Field (7 mục bổ sung)**
+### **9. Sacred & Consciousness Amplification - Khuếch Đại Thiêng Liêng & Ý Thức**
 
 #### **53. Universal Force Fields** - Trường Lực Phổ Quát
 
@@ -24535,7 +24553,9 @@ Miền này khám phá các trạng thái, nguyên lý và thực hành để v�
 
 Khả năng giữ và hợp nhất các ý tưởng, thực tại có vẻ đối lập cùng một lúc. Nghệ thuật biến mâu thuẫn thành nguồn sức mạnh và sáng tạo, vượt qua tư duy "hoặc/hoặc" để đạt đến sự thống nhất cao hơn.
 
-### **Các Nguyên Lý Làm Chủ Nghịch Lý**
+---
+
+### **1. Core Both/And & Non-Dual Principles - Nguyên Lý Cốt Lõi Vừa/Và & Bất Nhị**
 
 #### **1. Both/And Thinking - Tư Duy Vừa/Và [Nguyên Lý Siêu Việt]**
 
@@ -24598,7 +24618,229 @@ Khả năng tồn tại trong sự không chắc chắn, bí ẩn và nghi ngờ
 
 ---
 
-#### **5. The Middle Way** - Trung Đạo
+#### **5. Complementarity Thinking - Tư Duy Bổ Sung** [Nguyên Lý Siêu Việt]
+
+Nhận thức sâu sắc rằng các mặt đối lập thường BỔ SUNG và CẦN THIẾT cho nhau ở một cấp độ thực tại sâu hơn, như được minh họa trong nguyên lý bổ sung của vật lý lượng tử (sóng-hạt). Đây là NGUYÊN LÝ SIÊU VIỆT để vượt qua nghịch lý bằng cách nhận ra sự thống nhất cơ bản.
+
+- **Integration of Opposites**: Tích hợp đối lập - NHẬN RA sự thống nhất cơ bản.
+- **Mutual Necessity**: Sự cần thiết lẫn nhau - HIỂU mỗi phía định nghĩa phía kia.
+- **Dynamic Balance**: Cân bằng động - TRẢI NGHIỆM sự hài hòa giữa các cực.
+- **Whole Greater Than Parts**: Toàn thể lớn hơn phần - GIÁC NGỘ về tính toàn vẹn.
+
+**Ví dụ minh họa nguyên lý:**
+- **Sóng-Hạt**: Ánh sáng vừa là sóng VÀ hạt (không phải hoặc/hoặc).
+- **Yin-Yang**: Âm và Dương bổ sung, định nghĩa và tạo ra nhau.
+- **Form-Emptiness**: Hình tướng VÀ không tánh là một (Phật giáo).
+- **Order-Chaos**: Trật tự xuất hiện TỪ hỗn loạn và quay về hỗn loạn.
+
+→ **Liên kết:** PARADOX RESOLUTION (Both/And Thinking, Paradoxical Integration), FOUNDATIONS (Complementarity Principle - vật lý lượng tử), INTEGRATION #37 (công cụ thực hành - như phương pháp kết nối paradigm).
+
+---
+
+#### **6. Both/And Logic** - Logic Vừa/Và
+
+Hệ thống logic cho phép cả hai tuyên bố đối lập đều đúng đồng thời.
+
+- **Inclusive Logic**: Logic bao gồm; không loại trừ các khả năng.
+- **Multi-Truth Acceptance**: Chấp nhận đa chân lý; nhiều sự thật có thể đồng tồn tại.
+- **Transcendent Truth**: Chân lý siêu việt; sự thật ở cấp độ cao hơn bao gồm các mặt đối lập.
+- **Paradoxical Validity**: Tính hợp lệ nghịch lý; các nghịch lý có thể đều đúng.
+
+→ **Liên kết:** TRANSCENDENCE (Both/And Thinking), OPERATIONS (Multi-Valued Logic).
+
+---
+
+###  **2. Self-Referential Logical Paradoxes - Nghịch Lý Logic Tự Tham Chiếu**
+
+#### **7. The Liar's Paradox** - Nghịch Lý Người Nói Dối
+
+Một câu phát biểu tự tham chiếu nổi tiếng: "Câu này là sai."
+
+- **Self-Reference Problem**: Vấn đề tự tham chiếu; các câu phát biểu về chính chúng tạo ra những vòng lặp kỳ lạ.
+- **Truth Undecidability**: Không thể quyết định chân lý; một số câu phát biểu không thể được gán nhãn đúng hay sai.
+- **Limits of Logic**: Giới hạn của logic; hệ thống logic có những điểm mù nội tại.
+- **Meta-Level Awareness**: Nhận thức cấp độ meta; quan sát hệ thống từ bên ngoài nó.
+
+→ **Liên kết:** OPERATIONS (Logic), [META] LAYER (System Self-Observation).
+
+---
+
+#### **8. Epimenides Paradox** - Nghịch Lý Epimenides
+
+"Tất cả người Crete đều là kẻ nói dối," nói bởi Epimenides, một người Crete.
+
+- **Self-Referential Contradictions**: Mâu thuẫn tự tham chiếu; các phát biểu về chính chúng tạo ra vòng lặp logic.
+- **Group-Member Paradox**: Nghịch lý thành viên-nhóm; thành viên của một nhóm tuyên bố về nhóm đó.
+- **Truth and Identity**: Chân lý và bản sắc; ai bạn ảnh hưởng đến những gì bạn có thể nói một cách nhất quán.
+- **Meta-Statements**: Các phát biểu meta; nói về nói.
+
+→ **Liên kết:** [META] LAYER (Meta-Cognition), OPERATIONS (Logic).
+
+---
+
+#### **9. Gödel's Incompleteness Theorems** - Định Lý Bất Toàn Gödel
+
+Chứng minh rằng trong bất kỳ hệ thống toán học đủ mạnh nào, luôn có những phát biểu đúng nhưng không thể chứng minh được.
+
+- **Inherent Limitations**: Những giới hạn vốn có; mọi hệ thống đều có những chân lý mà nó không thể chứng minh.
+- **Self-Consistency Issues**: Vấn đề tự nhất quán; một hệ thống không thể chứng minh tính nhất quán của chính nó từ bên trong.
+- **Beyond Formal Systems**: Vượt qua các hệ thống hình thức; trực giác và sáng tạo có thể thấy những gì logic không thể.
+- **Meta-Mathematical Insight**: Thấu hiểu siêu toán học; hiểu về toán học yêu cầu nhiều hơn chỉ toán học.
+
+→ **Liên kết:** OPERATIONS (Logic), [META] LAYER (Framework Evolution).
+
+---
+
+#### **10. Aporia** - Bế Tắc Tri Thức
+
+Một câu hỏi không thể giải quyết phát sinh từ những lý lẽ tốt một cách bình đẳng nhưng không tương thích với nhau.
+
+- **Productive Confusion**: Sự nhầm lẫn có ích; không biết có thể dẫn đến hiểu biết sâu sắc hơn.
+- **Intellectual Humility**: Khiêm tốn trí tuệ; chấp nhận giới hạn của sự hiểu biết.
+- **Questioning Assumptions**: Đặt câu hỏi về các giả định; các aporia buộc chúng ta xem xét lại niềm tin cơ bản.
+- **Gateway to Insight**: Cổng dẫn đến sự thấu hiểu; đi qua sự bế tắc có thể mang lại sự đột phá.
+
+→ **Liên kết:** [META] LAYER (Meta-Cognition), OPERATIONS (Reasoning).
+
+---
+
+#### **11. The Unexpected Hanging Paradox** - Nghịch Lý Treo Cổ Bất Ngờ
+
+Một tù nhân được nói rằng anh ta sẽ bị treo cổ vào một ngày bất ngờ trong tuần tới. Anh ta lập luận rằng điều này là không thể.
+
+- **Prediction Paradox**: Nghịch lý dự đoán; dự đoán một sự kiện bất ngờ là tự mâu thuẫn.
+- **Knowledge and Surprise**: Kiến thức và ngạc nhiên; biết trước làm mất đi sự ngạc nhiên.
+- **Recursive Reasoning**: Suy luận đệ quy; tư duy về tư duy dẫn đến các vòng lặp kỳ lạ.
+- **Limits of Rationality**: Giới hạn của lý trí; logic có thể tự đánh bại chính nó.
+
+→ **Liên kết:** NAVIGATION (Strategic Planning), OPERATIONS (Reasoning).
+
+---
+
+### **3. Philosophical Identity & Change - Bản Sắc & Thay Đổi Triết Học**
+
+#### **12. The Ship of Theseus** - Con Tàu Của Theseus
+
+Nếu tất cả các bộ phận của một con tàu được thay thế, nó còn là con tàu nguyên bản không?
+
+- **Identity Through Change**: Bản sắc qua thay đổi; điều gì làm cho một thứ là chính nó khi nó thay đổi?
+- **Continuity vs. Composition**: Liên tục so với cấu thành; có phải bản sắc là về các phần hay về mẫu hình?
+- **Essence vs. Form**: Bản chất so với hình thức; cái gì là cốt lõi và cái gì là tùy ý?
+- **Process Identity**: Bản sắc quá trình; có lẽ chúng ta là các quá trình, không phải các đối tượng tĩnh.
+
+→ **Liên kết:** DYNAMICS (Transformation), FOUNDATIONS (Identity & Change).
+
+---
+
+#### **13. Heraclitus' Unity of Opposites** - Sự Thống Nhất Của Các Mặt Đối Lập
+
+"Con đường lên và con đường xuống là một và giống nhau."
+
+- **Flux and Permanence**: Dòng chảy và bất biến; thay đổi là hằng số duy nhất.
+- **Conflict as Harmony**: Xung đột là hài hòa; sự đấu tranh tạo ra sự cân bằng.
+- **Hidden Connections**: Các liên kết ẩn giấu; những mặt đối lập được kết nối ở cấp độ sâu hơn.
+- **Process Philosophy**: Triết học quá trình; thực tại là động, không phải tĩnh.
+
+→ **Liên kết:** DYNAMICS (Flow Understanding), FOUNDATIONS (Duality & Unity).
+
+---
+
+#### **14. The Sorites Paradox** - Nghịch Lý Đống Cát
+
+Một hạt cát không phải là một đống. Thêm một hạt vào cũng không tạo ra một đống. Nhưng ở đâu đó, nó trở thành một đống.
+
+- **Vague Boundaries**: Ranh giới mơ hồ; nhiều khái niệm không có ranh giới rõ ràng.
+- **Gradual Transitions**: Chuyển đổi dần dần; thay đổi xảy ra từng bước nhỏ, không thể nhận biết.
+- **Category Fluidity**: Tính lưu động của phạm trù; các phân loại thường là nhân tạo.
+- **Threshold Awareness**: Nhận thức về ngưỡng; biết khi nào một bước nhỏ tạo ra sự khác biệt định tính.
+
+→ **Liên kết:** DYNAMICS (Emergence), VALIDATION (Reality Testing).
+
+---
+
+### **4. Practical Decision Paradoxes - Nghịch Lý Quyết Định Thực Tiễn**
+
+#### **15. Paradox of Choice** - Nghịch Lý Của Sự Lựa Chọn
+
+Có nhiều lựa chọn hơn có thể dẫn đến ít hạnh phúc hơn và khó quyết định hơn.
+
+- **Analysis Paralysis**: Liệt phân tích; quá nhiều thông tin gây ra sự bất động.
+- **Opportunity Cost Anxiety**: Lo lắng về chi phí cơ hội; suy nghĩ về những gì bạn đã bỏ lỡ.
+- **Satisficing vs. Maximizing**: Đủ tốt so với tối ưu hóa; đôi khi "đủ tốt" tốt hơn là hoàn hảo.
+- **Freedom as Burden**: Tự do như gánh nặng; tự do quá nhiều có thể gây căng thẳng.
+
+→ **Liên kết:** NAVIGATION (Decision-Making), OPERATIONS (Decision Frameworks).
+
+---
+
+#### **16. Buridan's Ass** - Con Lừa Của Buridan
+
+Một con lừa đói và khát chết vì không thể quyết định giữa thức ăn và nước khi chúng cách đều.
+
+- **Paralysis of Equivalence**: Liệt cứng của sự tương đương; khi các lựa chọn bằng nhau, quyết định trở nên không thể.
+- **Breaking Symmetry**: Phá vỡ đối xứng; đôi khi cần một yếu tố ngẫu nhiên để tiến lên.
+- **Rational Indecision**: Sự do dự lý trí; lý trí đơn thuần có thể không đủ để hành động.
+- **Will and Freedom**: Ý chí và tự do; liệu chúng ta có sự lựa chọn tự do hay là bị quyết định?
+
+→ **Liên kết:** NAVIGATION (Decision-Making), OPERATIONS (Decision Frameworks).
+
+---
+
+#### **17. The Paradox of Tolerance** - Nghịch Lý Của Sự Khoan Dung
+
+Một xã hội khoan dung phải không khoan dung với sự không khoan dung, nếu không nó sẽ bị tiêu diệt.
+
+- **Intolerance of Intolerance**: Không khoan dung với sự không khoan dung; bảo vệ giá trị đôi khi yêu cầu từ chối các giá trị đối lập.
+- **Defending Openness**: Bảo vệ sự cởi mở; đôi khi cần có ranh giới để duy trì tự do.
+- **Limits of Pluralism**: Giới hạn của chủ nghĩa đa nguyên; không phải mọi quan điểm đều có thể được chứa đựng.
+- **Pragmatic Paradox Resolution**: Giải quyết nghịch lý một cách thực dụng; tìm cân bằng giữa nguyên tắc và sự sống còn.
+
+→ **Liên kết:** FOUNDATIONS (Core Values), INTEGRATION (Social Systems).
+
+---
+
+#### **18. The Paradox of Thrift** - Nghịch Lý Của Sự Tiết Kiệm
+
+Nếu mọi người đều tiết kiệm nhiều hơn, tổng tiết kiệm có thể giảm vì thu nhập giảm.
+
+- **Individual vs. Collective Good**: Lợi ích cá nhân so với tập thể; những gì tốt cho một có thể xấu cho tất cả.
+- **Fallacy of Composition**: Ngụy biện của sự cấu thành; những gì đúng cho một phần không nhất thiết đúng cho toàn bộ.
+- **System Dynamics**: Động lực hệ thống; các hành động cá nhân tạo ra các hiệu ứng hệ thống phức tạp.
+- **Unintended Consequences**: Hậu quả không mong muốn; hành động tốt có thể dẫn đến kết quả xấu.
+
+→ **Liên kết:** AMPLIFICATION (System Effects), VALIDATION (Systems Thinking).
+
+---
+
+#### **19. Paradoxical Intention** - Ý Định Nghịch Lý
+
+Kỹ thuật tâm lý trị liệu trong đó người ta cố ý thực hiện hoặc mong muốn chính điều mà họ sợ hãi, làm giảm sự lo lắng.
+
+- **Fear Inversion**: Đảo ngược sợ hãi; đối mặt trực tiếp với nỗi sợ để làm giảm sức mạnh của nó.
+- **Anti-Goal Setting**: Đặt ra các mục tiêu ngược lại; đôi khi không cố gắng đạt được điều gì đó lại giúp nó đến dễ dàng hơn.
+- **Symptom Prescription**: Kê đơn triệu chứng; yêu cầu bệnh nhân làm chính điều họ muốn tránh.
+- **Letting Go to Gain Control**: Buông bỏ để kiểm soát; thỉnh thoảng, từ bỏ sự kiểm soát lại mang lại sự kiểm soát lớn hơn.
+
+→ **Liên kết:** DYNAMICS (Emotional Intelligence), OPERATIONS (Problem-Solving).
+
+---
+
+### **5. Eastern Wisdom & Via Negativa - Trí Tuệ Phương Đông & Con Đường Phủ Định**
+
+#### **20. Zen Koans** - Công Án Thiền
+
+Những câu đố hoặc câu chuyện nghịch lý được thiết kế để phá vỡ tư duy logic và dẫn đến sự giác ngộ đột ngột.
+
+- **Logic Breaking**: Phá vỡ logic; các koan được thiết kế để làm cho tâm trí vượt qua lý trí tuyến tính.
+- **Intuitive Leap**: Bước nhảy trực giác; câu trả lời không thể được suy luận, mà phải được thấu hiểu.
+- **Beyond Words**: Vượt qua ngôn ngữ; các koan chỉ ra sự giới hạn của ngôn ngữ và khái niệm.
+- **Direct Pointing**: Chỉ trực tiếp vào bản chất tâm, không dựa vào lời nói.
+
+→ **Liên kết:** TRANSCENDENCE (Unity Consciousness), VALIDATION (Reality Testing).
+
+---
+
+#### **21. The Middle Way** - Trung Đạo
 
 Con đường Phật giáo tránh các thái cực, tìm kiếm sự cân bằng giữa khổ hạnh và khoái lạc, giữa các cực đoan.
 
@@ -24611,7 +24853,20 @@ Con đường Phật giáo tránh các thái cực, tìm kiếm sự cân bằng
 
 ---
 
-#### **6. Via Negativa** - Con Đường Phủ Định [Trong Nghịch Lý]
+#### **22. Koan Meditation** - Thiền Công Án
+
+Thực hành thiền Zen sử dụng các câu đố nghịch lý để phá vỡ tư duy logic.
+
+- **Logic Breaking**: Phá vỡ logic; câu hỏi không thể giải quyết bằng lý trí.
+- **Intuitive Breakthrough**: Đột phá trực giác; câu trả lời đến đột ngột, không qua suy luận.
+- **Mind Exhaustion**: Kiệt sức tâm trí; đẩy tâm trí đến giới hạn của nó.
+- **Sudden Awakening**: Giác ngộ đột ngột; khoảnh khắc hiểu biết đột ngột.
+
+→ **Liên kết:** TRANSCENDENCE (Zen Koans), OPERATIONS (Meditation Practice).
+
+---
+
+#### **23. Via Negativa** - Con Đường Phủ Định [Trong Nghịch Lý]
 
 CÔNG CỤ VƯỢT THOÁT nghịch lý: Tiếp cận chân lý TỐI HẬU bằng cách nói những gì nó KHÔNG PHẢI, thay vì định nghĩa tích cực. Đây là NGHỆ THUẬT làm việc với nghịch lý qua phủ định - đặc biệt mạnh mẽ khi đối mặt với những gì VƯỢT TẦM HIỂU BIẾT khái niệm hóa.
 
@@ -24629,98 +24884,22 @@ CÔNG CỤ VƯỢT THOÁT nghịch lý: Tiếp cận chân lý TỐI HẬU bằn
 
 ---
 
-#### **7. Complementarity Principle** - Nguyên Lý Bổ Sung
+#### **24. Negative Capability** - Khả Năng Phủ Định
 
-Trong vật lý lượng tử, các hiện tượng có thể có các thuộc tính bổ sung nhưng loại trừ lẫn nhau (ví dụ: sóng-hạt).
+Khả năng tồn tại trong sự không chắc chắn, bí ẩn và nghi ngờ mà không tìm kiếm sự chắc chắn hay lý do tức thì.
 
-- **Wave-Particle Duality**: Nhị nguyên sóng-hạt; ánh sáng vừa là sóng vừa là hạt, tùy thuộc vào cách quan sát.
-- **Observer-Dependent Reality**: Thực tại phụ thuộc người quan sát; cách chúng ta nhìn ảnh hưởng đến những gì chúng ta thấy.
-- **Context Determines Manifestation**: Bối cảnh quyết định biểu hiện; cùng một thực thể có thể biểu hiện khác nhau.
-- **Integration of Incompatibles**: Tích hợp những điều không tương thích; cả hai đều đúng trong ngữ cảnh của chúng.
+- **Embracing Uncertainty**: Ôm lấy sự không chắc chắn; thoải mái với việc không biết.
+- **Suspending Judgment**: Đình chỉ phán xét; giữ lại ý kiến để cho phép nhiều khả năng xuất hiện.
+- **Mystery Appreciation**: Đánh giá cao sự bí ẩn; tôn trọng những gì không thể giải thích được.
+- **Creative Ambiguity**: Sự mơ hồ sáng tạo; không rõ ràng có thể là nguồn của sự sáng tạo.
 
-→ **Liên kết:** VALIDATION (Reality Testing), FOUNDATIONS (Universal Laws).
-
----
-
-#### **8. Aporia** - Bế Tắc Tri Thức
-
-Một câu hỏi không thể giải quyết phát sinh từ những lý lẽ tốt một cách bình đẳng nhưng không tương thích với nhau.
-
-- **Productive Confusion**: Sự nhầm lẫn có ích; không biết có thể dẫn đến hiểu biết sâu sắc hơn.
-- **Intellectual Humility**: Khiêm tốn trí tuệ; chấp nhận giới hạn của sự hiểu biết.
-- **Questioning Assumptions**: Đặt câu hỏi về các giả định; các aporia buộc chúng ta xem xét lại niềm tin cơ bản.
-- **Gateway to Insight**: Cổng dẫn đến sự thấu hiểu; đi qua sự bế tắc có thể mang lại sự đột phá.
-
-→ **Liên kết:** [META] LAYER (Meta-Cognition), OPERATIONS (Reasoning).
+→ **Liên kết:** CREATION (Creative Evolution), NAVIGATION (Context Sensing).
 
 ---
 
-#### **9. The Liar's Paradox** - Nghịch Lý Người Nói Dối
+### **6. Quantum Reality & Temporal Paradoxes - Thực Tại Lượng Tử & Nghịch Lý Thời Gian**
 
-Một câu phát biểu tự tham chiếu nổi tiếng: "Câu này là sai."
-
-- **Self-Reference Problem**: Vấn đề tự tham chiếu; các câu phát biểu về chính chúng tạo ra những vòng lặp kỳ lạ.
-- **Truth Undecidability**: Không thể quyết định chân lý; một số câu phát biểu không thể được gán nhãn đúng hay sai.
-- **Limits of Logic**: Giới hạn của logic; hệ thống logic có những điểm mù nội tại.
-- **Meta-Level Awareness**: Nhận thức cấp độ meta; quan sát hệ thống từ bên ngoài nó.
-
-→ **Liên kết:** OPERATIONS (Logic), [META] LAYER (System Self-Observation).
-
----
-
-#### **10. Gödel's Incompleteness Theorems** - Định Lý Bất Toàn Gödel
-
-Chứng minh rằng trong bất kỳ hệ thống toán học đủ mạnh nào, luôn có những phát biểu đúng nhưng không thể chứng minh được.
-
-- **Inherent Limitations**: Những giới hạn vốn có; mọi hệ thống đều có những chân lý mà nó không thể chứng minh.
-- **Self-Consistency Issues**: Vấn đề tự nhất quán; một hệ thống không thể chứng minh tính nhất quán của chính nó từ bên trong.
-- **Beyond Formal Systems**: Vượt qua các hệ thống hình thức; trực giác và sáng tạo có thể thấy những gì logic không thể.
-- **Meta-Mathematical Insight**: Thấu hiểu siêu toán học; hiểu về toán học yêu cầu nhiều hơn chỉ toán học.
-
-→ **Liên kết:** OPERATIONS (Logic), [META] LAYER (Framework Evolution).
-
----
-
-#### **11. Heraclitus' Unity of Opposites** - Sự Thống Nhất Của Các Mặt Đối Lập
-
-"Con đường lên và con đường xuống là một và giống nhau."
-
-- **Flux and Permanence**: Dòng chảy và bất biến; thay đổi là hằng số duy nhất.
-- **Conflict as Harmony**: Xung đột là hài hòa; sự đấu tranh tạo ra sự cân bằng.
-- **Hidden Connections**: Các liên kết ẩn giấu; những mặt đối lập được kết nối ở cấp độ sâu hơn.
-- **Process Philosophy**: Triết học quá trình; thực tại là động, không phải tĩnh.
-
-→ **Liên kết:** DYNAMICS (Flow Understanding), FOUNDATIONS (Duality & Unity).
-
----
-
-#### **12. Paradox of Choice** - Nghịch Lý Của Sự Lựa Chọn
-
-Có nhiều lựa chọn hơn có thể dẫn đến ít hạnh phúc hơn và khó quyết định hơn.
-
-- **Analysis Paralysis**: Liệt phân tích; quá nhiều thông tin gây ra sự bất động.
-- **Opportunity Cost Anxiety**: Lo lắng về chi phí cơ hội; suy nghĩ về những gì bạn đã bỏ lỡ.
-- **Satisficing vs. Maximizing**: Đủ tốt so với tối ưu hóa; đôi khi "đủ tốt" tốt hơn là hoàn hảo.
-- **Freedom as Burden**: Tự do như gánh nặng; tự do quá nhiều có thể gây căng thẳng.
-
-→ **Liên kết:** NAVIGATION (Decision-Making), OPERATIONS (Decision Frameworks).
-
----
-
-#### **13. The Sorites Paradox** - Nghịch Lý Đống Cát
-
-Một hạt cát không phải là một đống. Thêm một hạt vào cũng không tạo ra một đống. Nhưng ở đâu đó, nó trở thành một đống.
-
-- **Vague Boundaries**: Ranh giới mơ hồ; nhiều khái niệm không có ranh giới rõ ràng.
-- **Gradual Transitions**: Chuyển đổi dần dần; thay đổi xảy ra từng bước nhỏ, không thể nhận biết.
-- **Category Fluidity**: Tính lưu động của phạm trù; các phân loại thường là nhân tạo.
-- **Threshold Awareness**: Nhận thức về ngưỡng; biết khi nào một bước nhỏ tạo ra sự khác biệt định tính.
-
-→ **Liên kết:** DYNAMICS (Emergence), VALIDATION (Reality Testing).
-
----
-
-#### **14. Schrödinger's Cat** - Con Mèo Của Schrödinger
+#### **25. Schrödinger's Cat** - Con Mèo Của Schrödinger
 
 Trong cơ học lượng tử, một con mèo trong hộp có thể đồng thời sống và chết cho đến khi quan sát.
 
@@ -24733,85 +24912,157 @@ Trong cơ học lượng tử, một con mèo trong hộp có thể đồng th�
 
 ---
 
-#### **15. The Paradox of Tolerance** - Nghịch Lý Của Sự Khoan Dung
+#### **26. Wave-Particle Duality** - Nhị Nguyên Sóng-Hạt
 
-Một xã hội khoan dung phải không khoan dung với sự không khoan dung, nếu không nó sẽ bị tiêu diệt.
+Khái niệm lượng tử rằng các thực thể có thể thể hiện cả thuộc tính sóng và hạt.
 
-- **Intolerance of Intolerance**: Không khoan dung với sự không khoan dung; bảo vệ giá trị đôi khi yêu cầu từ chối các giá trị đối lập.
-- **Defending Openness**: Bảo vệ sự cởi mở; đôi khi cần có ranh giới để duy trì tự do.
-- **Limits of Pluralism**: Giới hạn của chủ nghĩa đa nguyên; không phải mọi quan điểm đều có thể được chứa đựng.
-- **Pragmatic Paradox Resolution**: Giải quyết nghịch lý một cách thực dụng; tìm cân bằng giữa nguyên tắc và sự sống còn.
+- **Dual Nature**: Bản chất kép; hai khía cạnh dường như không tương thích cùng tồn tại.
+- **Context-Dependent**: Phụ thuộc bối cảnh; cách chúng ta đo lường quyết định cái gì xuất hiện.
+- **Complementarity**: Tính bổ sung; cả hai mô tả đều cần thiết cho bức tranh đầy đủ.
+- **Observation Determines Reality**: Quan sát quyết định thực tại; hành động đo lường tạo ra thuộc tính.
 
-→ **Liên kết:** FOUNDATIONS (Core Values), INTEGRATION (Social Systems).
-
----
-
-#### **16. Epimenides Paradox** - Nghịch Lý Epimenides
-
-"Tất cả người Crete đều là kẻ nói dối," nói bởi Epimenides, một người Crete.
-
-- **Self-Referential Contradictions**: Mâu thuẫn tự tham chiếu; các phát biểu về chính chúng tạo ra vòng lặp logic.
-- **Group-Member Paradox**: Nghịch lý thành viên-nhóm; thành viên của một nhóm tuyên bố về nhóm đó.
-- **Truth and Identity**: Chân lý và bản sắc; ai bạn ảnh hưởng đến những gì bạn có thể nói một cách nhất quán.
-- **Meta-Statements**: Các phát biểu meta; nói về nói.
-
-→ **Liên kết:** [META] LAYER (Meta-Cognition), OPERATIONS (Logic).
+→ **Liên kết:** FOUNDATIONS (Complementarity Principle), VALIDATION (Context Sensitivity).
 
 ---
 
-#### **17. The Unexpected Hanging Paradox** - Nghịch Lý Treo Cổ Bất Ngờ
+#### **27. Quantum Superposition - Chồng Chập Lượng Tử [Giải Quyết Nghịch Lý]**
 
-Một tù nhân được nói rằng anh ta sẽ bị treo cổ vào một ngày bất ngờ trong tuần tới. Anh ta lập luận rằng điều này là không thể.
+Khả năng tồn tại trong nhiều trạng thái hoặc giữ các ý tưởng đối lập đồng thời cho đến khi quan sát/quyết định. Đây là CÔNG CỤ GIẢI QUYẾT NGHỊCH LÝ - vượt qua tư duy "hoặc/hoặc" để đạt đến tư duy "vừa/và".
 
-- **Prediction Paradox**: Nghịch lý dự đoán; dự đoán một sự kiện bất ngờ là tự mâu thuẫn.
-- **Knowledge and Surprise**: Kiến thức và ngạc nhiên; biết trước làm mất đi sự ngạc nhiên.
-- **Recursive Reasoning**: Suy luận đệ quy; tư duy về tư duy dẫn đến các vòng lặp kỳ lạ.
-- **Limits of Rationality**: Giới hạn của lý trí; logic có thể tự đánh bại chính nó.
+- **Multiple States Simultaneously**: Nhiều trạng thái đồng thời - CẢ HAI đối lập đều đúng
+- **Potential Actuality**: Tiềm năng và hiện thực - CHƯA CẦN quyết định ngay
+- **Collapse Upon Measurement**: Sụp đổ khi đo lường - chỉ CHỌN một khi cần thiết
+- **Parallel Possibilities**: Các khả năng song song - NHIỀU chân lý cùng tồn tại
 
-→ **Liên kết:** NAVIGATION (Strategic Planning), OPERATIONS (Reasoning).
+⚡ **BẢN CHẤT**: Trong giải quyết nghịch lý, superposition cho phép giữ "A là đúng" và "không-A cũng đúng" đồng thời mà không cần giải quyết ngay. Đây là nền tảng của Both/And Thinking.
 
----
+**VÍ DỤ THỰC HÀNH:**
+• Một người có thể vừa mạnh mẽ vừa dễ bị tổn thương (cả hai trạng thái đồng thời)
+• Một quyết định có thể vừa đúng vừa sai (phụ thuộc góc nhìn)
+• Thành công và thất bại có thể là cùng một sự kiện (ở các cấp độ khác nhau)
 
-#### **18. The Ship of Theseus** - Con Tàu Của Theseus
-
-Nếu tất cả các bộ phận của một con tàu được thay thế, nó còn là con tàu nguyên bản không?
-
-- **Identity Through Change**: Bản sắc qua thay đổi; điều gì làm cho một thứ là chính nó khi nó thay đổi?
-- **Continuity vs. Composition**: Liên tục so với cấu thành; có phải bản sắc là về các phần hay về mẫu hình?
-- **Essence vs. Form**: Bản chất so với hình thức; cái gì là cốt lõi và cái gì là tùy ý?
-- **Process Identity**: Bản sắc quá trình; có lẽ chúng ta là các quá trình, không phải các đối tượng tĩnh.
-
-→ **Liên kết:** DYNAMICS (Transformation), FOUNDATIONS (Identity & Change).
-
----
-
-#### **19. Buridan's Ass** - Con Lừa Của Buridan
-
-Một con lừa đói và khát chết vì không thể quyết định giữa thức ăn và nước khi chúng cách đều.
-
-- **Paralysis of Equivalence**: Liệt cứng của sự tương đương; khi các lựa chọn bằng nhau, quyết định trở nên không thể.
-- **Breaking Symmetry**: Phá vỡ đối xứng; đôi khi cần một yếu tố ngẫu nhiên để tiến lên.
-- **Rational Indecision**: Sự do dự lý trí; lý trí đơn thuần có thể không đủ để hành động.
-- **Will and Freedom**: Ý chí và tự do; liệu chúng ta có sự lựa chọn tự do hay là bị quyết định?
-
-→ **Liên kết:** NAVIGATION (Decision-Making), OPERATIONS (Decision Frameworks).
+→ **Liên kết nội bộ:** FOUNDATIONS (Quantum Reality)
+→ **Nguồn sáng tạo:** CREATION #36 (Quantum Superposition - động cơ sáng tạo)
+→ **Ứng dụng thực hành:**
+  • TRANSCENDENCE #1 (Both/And Thinking)
+  • TRANSCENDENCE #33 (Holding Multiple Contradictory Ideas)
+  • NAVIGATION #24 (Quantum Navigation States)
+→ **Khác biệt then chốt:**
+  • Ở đây (TRANSCENDENCE): Về khả năng GIỮ nghịch lý mà không cần giải quyết
+  • Ở CREATION: Về khả năng SINH RA nhiều ý tưởng từ tiềm năng
 
 ---
 
-#### **20. The Paradox of Thrift** - Nghịch Lý Của Sự Tiết Kiệm
+#### **28. Uncertainty Principle** - Nguyên Lý Bất Định
 
-Nếu mọi người đều tiết kiệm nhiều hơn, tổng tiết kiệm có thể giảm vì thu nhập giảm.
+Nguyên lý Heisenberg rằng một số cặp thuộc tính vật lý không thể được đo chính xác đồng thời.
 
-- **Individual vs. Collective Good**: Lợi ích cá nhân so với tập thể; những gì tốt cho một có thể xấu cho tất cả.
-- **Fallacy of Composition**: Ngụy biện của sự cấu thành; những gì đúng cho một phần không nhất thiết đúng cho toàn bộ.
-- **System Dynamics**: Động lực hệ thống; các hành động cá nhân tạo ra các hiệu ứng hệ thống phức tạp.
-- **Unintended Consequences**: Hậu quả không mong muốn; hành động tốt có thể dẫn đến kết quả xấu.
+- **Fundamental Limitation**: Giới hạn cơ bản; không phải là hạn chế kỹ thuật mà là bản chất của thực tại.
+- **Measurement Trade-off**: Đánh đổi đo lường; biết chính xác một điều làm mờ điều khác.
+- **Quantum Fuzziness**: Sự mờ nhạt lượng tử; không có giá trị xác định chính xác.
+- **Observer Impact**: Tác động người quan sát; quan sát thay đổi hệ thống.
 
-→ **Liên kết:** AMPLIFICATION (System Effects), VALIDATION (Systems Thinking).
+→ **Liên kết:** FOUNDATIONS (Quantum Principles), VALIDATION (Measurement Limits).
 
-### **Core Paradox Navigation Methods**
+---
 
-#### **21. Paradox Navigation - Điều Hướng Nghịch Lý [Năng Lực Siêu Việt]**
+#### **29. Complementarity Principle** - Nguyên Lý Bổ Sung
+
+Trong vật lý lượng tử, các hiện tượng có thể có các thuộc tính bổ sung nhưng loại trừ lẫn nhau (ví dụ: sóng-hạt).
+
+- **Wave-Particle Duality**: Nhị nguyên sóng-hạt; ánh sáng vừa là sóng vừa là hạt, tùy thuộc vào cách quan sát.
+- **Observer-Dependent Reality**: Thực tại phụ thuộc người quan sát; cách chúng ta nhìn ảnh hưởng đến những gì chúng ta thấy.
+- **Context Determines Manifestation**: Bối cảnh quyết định biểu hiện; cùng một thực thể có thể biểu hiện khác nhau.
+- **Integration of Incompatibles**: Tích hợp những điều không tương thích; cả hai đều đúng trong ngữ cảnh của chúng.
+
+→ **Liên kết:** VALIDATION (Reality Testing), FOUNDATIONS (Universal Laws).
+
+---
+
+#### **30. Retroactive Causality** - Nhân Quả Hồi Tố
+
+**VƯỢT THOÁT NHÂN QUẢ THÔNG THƯỜNG**: Khái niệm rằng các sự kiện trong tương lai có thể ảnh hưởng đến quá khứ, đảo ngược mũi tên thời gian thông thường. Giải quyết các nghịch lý mà nhân quả tuyến tính không giải thích được.
+
+- **Time Reversal**: Đảo ngược thời gian; nguyên nhân và kết quả không luôn theo thứ tự thời gian
+- **Future Influence**: Ảnh hưởng tương lai; tương lai tác động ngược lại quá khứ
+- **Backward Causation**: Nhân quả ngược; hiệu ứng xảy ra trước nguyên nhân
+- **Temporal Paradox**: Nghịch lý thời gian; các vòng lặp nhân quả
+
+→ **Liên kết nội bộ:** DYNAMICS (Time Dynamics), TRANSCENDENCE (Time Paradoxes)
+→ **Gốc nguyên lý:** FOUNDATIONS #5 (Causality & Interdependence - nhưng vượt thoát nó)
+→ **Nhân quả thông thường:** DYNAMICS #50 (Temporal Causation - nhân quả thuận thời gian)
+→ **Khái niệm liên quan:** TRANSCENDENCE (Quantum concepts, Non-linear time)
+
+---
+
+### **7. Advanced Consciousness Integration - Tích Hợp Ý Thức Cao Cấp**
+
+#### **31. Paradox Consciousness** - Ý Thức Nghịch Lý
+
+Trạng thái ý thức có thể giữ và làm việc với các mâu thuẫn mà không cảm thấy khó chịu.
+
+- **Contradiction Tolerance**: Khoan dung mâu thuẫn; thoải mái với sự không nhất quán.
+- **Awareness of Tension**: Nhận thức về căng thẳng; cảm nhận năng lượng giữa các mặt đối lập.
+- **Non-Defensive Openness**: Sự cởi mở không phòng thủ; không cần phải giải quyết mọi mâu thuẫn.
+- **Creative Use of Paradox**: Sử dụng sáng tạo nghịch lý; biến mâu thuẫn thành cơ hội.
+
+→ **Liên kết:** TRANSCENDENCE (Negative Capability), DYNAMICS (Cognitive Flexibility).
+
+---
+
+#### **32. Non-dual Wisdom** - Trí Tuệ Bất Nhị
+
+Trí tuệ xuất phát từ nhận thức bất nhị, hiểu biết vượt qua sự phân biệt.
+
+- **Unity Insight**: Thấu hiểu sự thống nhất; nhìn thấy bản chất không chia cắt của thực tại.
+- **Beyond Conceptual**: Vượt qua khái niệm; trí tuệ không bị giới hạn bởi các phạm trù.
+- **Direct Knowing**: Biết trực tiếp; hiểu biết không qua trung gian.
+- **Wisdom of Emptiness**: Trí tuệ của không tánh; hiểu sự trống rỗng của các khái niệm.
+
+→ **Liên kết:** TRANSCENDENCE (Non-Dual Awareness), FOUNDATIONS (Buddhist Wisdom).
+
+---
+
+#### **33. Non-dual Processing** - Xử Lý Bất Nhị
+
+Khả năng nhận thức xử lý thông tin theo cách thống nhất, không phân mảnh.
+
+- **Unified Cognition**: Nhận thức thống nhất; xử lý tích hợp, không phân tách.
+- **Holistic Perception**: Nhận thức toàn diện; nhìn thấy toàn bộ cùng lúc.
+- **Seamless Understanding**: Hiểu biết liền mạch; không có khoảng cách giữa các khái niệm.
+- **Integrated Intelligence**: Trí tuệ tích hợp; tất cả các khía cạnh của tâm trí làm việc như một.
+
+→ **Liên kết:** TRANSCENDENCE (Unity Consciousness), OPERATIONS (Holistic Processing).
+
+---
+
+#### **34. Holding Multiple Contradictory Ideas** - Giữ Nhiều Ý Tưởng Mâu Thuẫn
+
+Khả năng giữ các ý tưởng đối lập trong tâm trí cùng lúc mà không cần giải quyết ngay lập tức.
+
+- **Cognitive Capacity**: Năng lực nhận thức; tâm trí đủ lớn để chứa các mâu thuẫn.
+- **Simultaneous Awareness**: Nhận thức đồng thời; thấy cả hai phía cùng lúc.
+- **Non-Attachment**: Không bám chấp; không cần phải chọn một bên.
+- **Generative Tension**: Căng thẳng tạo sinh; sự mâu thuẫn tạo ra năng lượng sáng tạo.
+
+→ **Liên kết:** TRANSCENDENCE (Both/And Thinking), OPERATIONS (Complex Cognition).
+
+---
+
+#### **35. Dialectical Integration** - Tích Hợp Biện Chứng
+
+Phương pháp tổng hợp luận điểm và phản luận điểm thành một tổng hợp cao hơn.
+
+- **Thesis-Antithesis-Synthesis**: Luận điểm-Phản luận điểm-Tổng hợp; ba bước của biện chứng.
+- **Conflict Resolution**: Giải quyết xung đột; vượt qua mâu thuẫn ở cấp độ mới.
+- **Progressive Development**: Phát triển tiến bộ; mỗi tổng hợp trở thành luận điểm mới.
+- **Opposites Transcendence**: Vượt qua các mặt đối lập; tạo ra điều gì đó cao hơn cả hai.
+
+→ **Liên kết:** TRANSCENDENCE (Both/And Thinking), OPERATIONS (Synthesis Methods).
+
+---
+
+## CHỨC NĂNG 2: PARADIGM SHIFTS & BREAKTHROUGHS - CHUYỂN DỊCH MÔ THỨC & ĐỘT PHÁ
 
 Năng lực ý thức cao để không chỉ điều hướng mà còn VƯỢT QUA và HÒA TAN các nghịch lý bằng cách truy cập vào trạng thái nhận thức cao hơn. Khác với phương pháp chiến thuật ở NAVIGATION, đây là về SỰ CHUYỂN HÓA ý thức để nghịch lý tự nhiên được giải quyết.
 
@@ -25052,9 +25303,9 @@ Thực hành thiền Zen sử dụng các câu đố nghịch lý để phá v�
 
 Các bước nhảy lượng tử trong hiểu biết, những thay đổi căn bản trong cách chúng ta nhìn thế giới. Đây là những khoảnh khắc mà mọi thứ được nhìn thấy theo một ánh sáng hoàn toàn mới, dẫn đến sự biến đổi sâu sắc.
 
-### **Nguyên Lý**
+---
 
-Trong chức năng này, các mục từ cả ba phần (Paradox Mastery, Unity Consciousness, Living Wisdom) được tổng hợp để mô tả các dạng đột phá và chuyển đổi mẫu hình khác nhau.
+### **1. Types of Shifts & Awakenings - Các Loại Chuyển Dịch & Giác Ngộ**
 
 #### **1. Perceptual Shifts** - Chuyển Dịch Nhận Thức
 
@@ -25119,7 +25370,9 @@ Các chuyển đổi trong ý thức đạo đức và tâm linh:
 
 → **Liên kết:** FOUNDATIONS (Core Values), TRANSCENDENCE (Spiritual Development).
 
-### **Breakthrough Thinking Methods**
+---
+
+### **2. Breakthrough Thinking Methods - Phương Pháp Tư Duy Đột Phá**
 
 #### **6. Breakthrough Thinking** - Tư Duy Đột Phá
 
@@ -25176,7 +25429,7 @@ Tư duy về TIẾN HÓA ở cấp độ SIÊU VIỆT - nhìn thấy các mẫu 
 
 ---
 
-### **Cognitive Mastery**
+### **3. Cognitive Mastery & Transcendence - Làm Chủ & Siêu Việt Nhận Thức**
 
 #### **10. Cognitive Sovereignty - Chủ Quyền Nhận Thức** [Giải Phóng Hoàn Toàn]
 
@@ -25245,7 +25498,7 @@ Khả năng suy luận vượt qua logic thông thường, sử dụng các hìn
 
 ---
 
-### **Transformation Mechanics**
+### **4. Transformation Mechanics - Cơ Chế Chuyển Hóa**
 
 #### **15. Discontinuous Jump** - Bước Nhảy Gián Đoạn
 
@@ -25325,7 +25578,7 @@ Khả năng tưởng tượng và làm việc hướng đến các mục tiêu c
 
 ---
 
-### **Navigation & Protocols**
+### **5. Navigation Protocols - Giao Thức Điều Hướng**
 
 #### **21. Singularity Navigation** - Điều Hướng Kỳ Dị
 
@@ -25379,7 +25632,7 @@ Khả năng định hướng trong các địa hình chưa được khám phá c
 
 ---
 
-### **Advanced Concepts**
+### **6. Advanced Consciousness Concepts - Khái Niệm Ý Thức Nâng Cao**
 
 #### **25. Theory of Everything Glimpses** - Thoáng Thấy Lý Thuyết Của Mọi Thứ
 
@@ -25394,19 +25647,6 @@ Những khoảnh khắc hiếm hoi khi một người thoáng thấy sự thốn
 
 ---
 
-#### **26. Kairos and Chronos** - Thời Gian Định Tính Và Định Lượng
-
-Sự phân biệt Hy Lạp giữa thời gian theo đồng hồ (chronos) và thời gian có chất lượng, những khoảnh khắc quan trọng (kairos).
-
-- **Qualitative Time**: Thời gian định tính; những khoảnh khắc quan trọng vượt qua đo lường theo đồng hồ.
-- **Opportune Moments**: Các khoảnh khắc thuận lợi; "đúng lúc" cho hành động hoặc quyết định.
-- **Time Fullness**: Sự đầy đủ của thời gian; khi thời gian trưởng thành và sẵn sàng.
-- **Sacred Timing**: Thời điểm thiêng liêng; biết khi nào thời điểm là đặc biệt quan trọng.
-
-→ **Liên kết:** NAVIGATION (Temporal Wisdom), TRANSCENDENCE (Sacred Time).
-
----
-
 #### **27. Consciousness Architecture** - Kiến Trúc Ý Thức
 
 Thiết kế và cấu trúc của ý thức, các cấp độ, trạng thái và khả năng của nhận thức.
@@ -25417,6 +25657,21 @@ Thiết kế và cấu trúc của ý thức, các cấp độ, trạng thái v�
 - **Capacity Building**: Xây dựng khả năng; phát triển các năng lực ý thức mới.
 
 → **Liên kết:** TRANSCENDENCE (Consciousness States), [META] LAYER (Self-Design).
+
+---
+
+### **7. Time & Sublime Experience - Thời Gian & Trải Nghiệm Cao Quý**
+
+#### **26. Kairos and Chronos** - Thời Gian Định Tính Và Định Lượng
+
+Sự phân biệt Hy Lạp giữa thời gian theo đồng hồ (chronos) và thời gian có chất lượng, những khoảnh khắc quan trọng (kairos).
+
+- **Qualitative Time**: Thời gian định tính; những khoảnh khắc quan trọng vượt qua đo lường theo đồng hồ.
+- **Opportune Moments**: Các khoảnh khắc thuận lợi; "đúng lúc" cho hành động hoặc quyết định.
+- **Time Fullness**: Sự đầy đủ của thời gian; khi thời gian trưởng thành và sẵn sàng.
+- **Sacred Timing**: Thời điểm thiêng liêng; biết khi nào thời điểm là đặc biệt quan trọng.
+
+→ **Liên kết:** NAVIGATION (Temporal Wisdom), TRANSCENDENCE (Sacred Time).
 
 ---
 
@@ -25439,7 +25694,9 @@ Những trải nghiệm siêu việt gợi lên cảm giác kinh ngạc, kính s
 
 Khám phá trạng thái ý thức nơi sự phân biệt giữa chủ thể và khách thể, giữa bản thân và người khác, giữa phần và toàn thể tan biến. Đây là trải nghiệm về sự thống nhất căn bản của mọi thứ.
 
-### **Các Nguyên Lý Ý Thức Thống Nhất**
+---
+
+### **1. Core Unity Principles - Nguyên Lý Thống Nhất Cốt Lõi**
 
 #### **1. Non-Dual Awareness** - Nhận Thức Bất Nhị
 
@@ -25518,6 +25775,8 @@ Khái niệm Phật giáo của Thích Nhất Hạnh rằng mọi thứ đều t
 → **Liên kết:** FOUNDATIONS (Interconnectedness), INTEGRATION (System Coherence).
 
 ---
+
+### **2. Ultimate Reality Concepts - Khái Niệm Thực Tại Tối Hậu**
 
 #### **7. The Perennial Philosophy** - Triết Học Trường Tồn [Trải Nghiệm Sống Động]
 
@@ -25630,6 +25889,8 @@ Hình ảnh Phật giáo Hoa Nghiêm về mạng lưới vô hạn với viên n
 
 ---
 
+### **3. Cosmic Information & Structure - Thông Tin & Cấu Trúc Vũ Trụ**
+
 #### **15. The Omega Point** - Điểm Omega [Lý Thuyết Teilhard de Chardin]
 
 Lý thuyết của nhà thần học-nhà khoa học Teilhard de Chardin về một điểm hội tụ tối hậu mà tiến hóa vũ trụ đang hướng tới - nơi ý thức, phức tạp và tổ chức đạt đến đỉnh cao tuyệt đối. Đây là ĐIỂM CUỐI của tiến hóa vũ trụ, nơi tất cả sự sống và ý thức hợp nhất thành một thực tại duy nhất siêu việt.
@@ -25720,7 +25981,9 @@ Lý thuyết của David Bohm về một thực tại thống nhất ẩn, từ 
 
 → **Liên kết:** FOUNDATIONS (Holographic Universe), DYNAMICS (Flow Understanding).
 
-### **Primordial Unity States**
+---
+
+### **4. Primordial Unity States - Trạng Thái Thống Nhất Nguyên Thủy**
 
 #### **21. The One - Cái Một** [Khái Niệm Tối Hậu Về Sự Thống Nhất]
 
@@ -25813,7 +26076,7 @@ Trạng thái nhận ra sự thống nhất căn bản của tất cả thực t
 
 ---
 
-### **Mystical Union Paths**
+### **5. Mystical Union Paths - Con Đường Hợp Nhất Huyền Bí**
 
 #### **26. Unio Mystica** - Hợp Nhất Huyền Bí
 
@@ -25880,7 +26143,7 @@ Sự kết hợp các yếu tố thiêng liêng và thế tục, tạo ra một 
 
 ---
 
-### **Integration Practices**
+### **6. Integration Practices - Thực Hành Tích Hợp**
 
 #### **31. Non-Dual Integration** - Tích Hợp Bất Nhị
 
@@ -25947,7 +26210,7 @@ Sự biến đổi và hợp nhất các mặt đối lập thông qua các quá
 
 ---
 
-### **Scientific Unity Perspectives**
+### **7. Scientific Unity Perspectives - Góc Nhìn Thống Nhất Khoa Học**
 
 #### **36. Quantum Entanglement** - Rối Lượng Tử
 
@@ -25994,10 +26257,9 @@ Khái niệm về việc kích hoạt một mạng lưới năng lượng hoặc
 
 Sự biến đổi hoàn toàn của các hệ thống - cá nhân, tổ chức, xã hội - từ một trạng thái tồn tại này sang một trạng thái khác. Giống như sự biến thái của sâu bướm thành bướm, đây là những thay đổi không thể đảo ngược và mang tính chuyển đổi.
 
-### **Nguyên Lý**
+---
 
-Chức năng này tích hợp các khía cạnh của tất cả ba phần để mô tả các loại và quá trình biến đổi hệ thống khác nhau.
-
+### **1. Core Transformation Principles - Nguyên Lý Biến Đổi Cốt Lõi**
 
 #### **1. Personal Metamorphosis** - Biến Đổi Cá Nhân
 
@@ -26062,7 +26324,9 @@ Các thay đổi ở quy mô toàn cầu:
 
 → **Liên kết:** TRANSCENDENCE (Collective Evolution), VALIDATION (Systems Change).
 
-### **Pattern & Structure - Mẫu Hình Và Cấu Trúc**
+---
+
+### **2. Pattern Recognition & Structural Dynamics - Nhận Diện Mẫu Hình & Động Lực Cấu Trúc**
 
 #### **6. Self-similarity Across Scales** - Sự Tự Tương Đồng Qua Các Quy Mô
 
@@ -26240,7 +26504,7 @@ và động lực chuyển đổi, đây là về BIẾN THÁI - sự thay đổ
 
 ---
 
-### **Field & Force - Trường Và Lực**
+### **3. Field Theory & Force Dynamics - Lý Thuyết Trường & Động Lực Lực**
 
 #### **17. Morphic Fields** - Các Trường Hình Thái
 
@@ -26320,7 +26584,7 @@ Các điểm mật độ vô hạn ở trung tâm lỗ đen, nơi các quy luậ
 
 ---
 
-### **System Intelligence - Trí Tuệ Hệ Thống**
+### **4. Intelligence & Adaptive Systems - Trí Tuệ & Hệ Thống Thích Ứng**
 
 #### **23. Flow-State Engineering** - Kỹ Thuật Trạng Thái Dòng Chảy
 
@@ -26430,7 +26694,7 @@ Sự nhận thức và thực hành ở cấp độ siêu việt về việc cá
 
 ---
 
-### **Human Transformation - Biến Đổi Con Người**
+### **5. Human Evolution & Consciousness Transformation - Tiến Hóa Con Người & Biến Đổi Ý Thức**
 
 #### **31. Peak Experiences & Flow States** - Trải Nghiệm Đỉnh Và Trạng Thái Dòng Chảy
 
@@ -26588,7 +26852,7 @@ Các phương pháp chữa lành sử dụng ý thức, ý định và nhận th
 
 ---
 
-### **Scientific Exploration - Khám Phá Khoa Học**
+### **6. Scientific Frontiers & Exploration - Biên Giới Khoa Học & Khám Phá**
 
 #### **43. Consciousness Studies** - Các Nghiên Cứu Ý Thức
 
@@ -26642,7 +26906,7 @@ Nghiên cứu các trường giả thuyết hướng dẫn sự phát triển v�
 
 ---
 
-### **Creative Expression - Biểu Hiện Sáng Tạo**
+### **7. Creative Innovation & Expression - Đổi Mới Sáng Tạo & Biểu Đạt**
 
 #### **47. Transformative Theatre** - Sân Khấu Biến Đổi
 
@@ -27795,7 +28059,9 @@ Siêu Tầng này chứa các khái niệm, quy trình và cấu trúc để qua
 
 Chức năng này bao gồm các quy trình tư duy về chính tư duy - khả năng tự quan sát, giám sát và điều chỉnh các hoạt động nhận thức của bản thân trong thời gian thực. Đây là nền tảng của sự tự chủ nhận thức và học tập có ý thức.
 
-### **Các Khái Niệm Cốt Lõi**
+---
+
+### **Nhóm 1: Core Meta-Cognition & Self-Awareness - Nền Tảng Siêu Nhận Thức & Tự Nhận Biết**
 
 #### **1. Metacognition** - Siêu Nhận Thức [Khái niệm Nền Tảng của Meta Layer]
 
@@ -27874,6 +28140,10 @@ Khả năng nhận ra và điều chỉnh các thiên kiến nhận thức của
 
 → **Liên kết:** VALIDATION (Cognitive Biases), OPERATIONS (Critical Thinking).
 
+---
+
+### **Nhóm 2: Meta-Learning & Reflective Growth - Siêu Học Tập & Phát Triển Phản Tư**
+
 #### **5. Intellectual Humility** - Khiêm Tốn Trí Tuệ
 
 Nhận thức về giới hạn của tri thức và sự cởi mở với việc sai lầm hoặc thay đổi quan điểm.
@@ -27946,6 +28216,10 @@ Khả năng chủ động định hướng và duy trì chú ý theo ý muốn.
 
 → **Liên kết:** OPERATIONS (Systematic Execution), DYNAMICS (Flow States).
 
+---
+
+### **Nhóm 3: Cognitive Monitoring & Regulation - Giám Sát & Điều Tiết Nhận Thức**
+
 #### **10. Reflective Practice** - Thực Hành Phản Tư
 
 Quá trình có hệ thống xem xét lại kinh nghiệm để học hỏi và cải thiện.
@@ -28003,6 +28277,10 @@ Tin tưởng rằng chính khả năng tư duy và học tập có thể đượ
 
 → **Liên kết:** DYNAMICS (Growth Mindset), OPERATIONS (Deliberate Practice).
 
+---
+
+### **Nhóm 4: Wisdom, Humility & Sovereignty - Trí Tuệ, Khiêm Tốn & Chủ Quyền**
+
 #### **15. The Master Meta-Skill** - Siêu Kỹ Năng Bậc Thầy
 
 Khả năng lựa chọn, kết hợp và áp dụng tất cả các kỹ năng meta-nhận thức khác một cách phù hợp và linh hoạt.
@@ -28014,7 +28292,10 @@ Khả năng lựa chọn, kết hợp và áp dụng tất cả các kỹ năng 
 
 → **Liên kết:** Tích hợp tất cả các khái niệm trong nhóm META-COGNITION.
 
-### **Nhóm Bổ Sung: Foundational Meta (5 mục mới)**
+---
+
+### **Nhóm 5: Witness Consciousness & Pure Awareness - Ý Thức Chứng Kiến & Nhận Thức Thuần Khiết**
+
 #### **16. Observing Observation** - Quan Sát Sự Quan Sát
 
 Khả năng quan sát chính hành động quan sát - tầng meta thứ hai của nhận thức.
@@ -28060,8 +28341,6 @@ Nhận thức về chính trạng thái ý thức hiện tại - biết mình đ
 → **Liên kết:** DYNAMICS (Mindfulness), [META] LAYER (Meta-State Awareness).
 
 ---
-
-### **Nhóm Bổ Sung: Witness & Pure Awareness (5 mục mới)**
 
 #### **20. Witness Consciousness** - Ý Thức Chứng Kiến
 
@@ -28123,7 +28402,7 @@ Thực hành tỉnh thức và nhận thức liên tục về hiện tại trong
 
 ---
 
-### **Nhóm Bổ Sung: Universal Intelligence (4 mục mới)**
+### **Nhóm 6: Universal Consciousness & Perspectives - Ý Thức Vũ Trụ & Các Quan Điểm**
 
 #### **25. Universal Intelligence** - Trí Tuệ Vũ Trụ
 
@@ -28159,8 +28438,6 @@ Khả năng nhận biết và làm việc với các "trạng thái về trạng
 → **Liên kết:** DYNAMICS (State Management), [META] LAYER (Cognitive State Transitions).
 
 ---
-
-### **Nhóm Bổ Sung: Perspective Architecture (4 mục mới)**
 
 #### **28. First to Seventh & Nth Person Perspective** - Quan Điểm Từ Ngôi Thứ Nhất Đến Thứ Bảy & Ngôi Thứ N
 
@@ -28211,7 +28488,7 @@ Lời khuyên cổ xưa về tầm quan trọng của tự tri - nền tảng c�
 
 ---
 
-### **Nhóm Bổ Sung: Scientific & Philosophical (5 mục mới)**
+### **Nhóm 7: Scientific Frameworks & Contemplative Practices - Khung Lý Thuyết Khoa Học & Thực Hành Thiền Quán**
 
 #### **32. Philosophy of Mind** - Triết Học Tâm Trí
 
@@ -28278,8 +28555,6 @@ Xã hội học tự phản tư về chính phương pháp và giả định c�
 
 ---
 
-### **Nhóm Bổ Sung: Practice & Application (4 mục mới)**
-
 #### **36. Transcendental Meditation** - Thiền Siêu Việt
 
 Kỹ thuật thiền tập trung vào việc vượt qua tư duy thông thường để tiếp cận ý thức thuần khiết.
@@ -28334,7 +28609,9 @@ Chức năng này tập trung vào khả năng quan sát hệ thống tư duy c�
 
 📌 **LƯU Ý:** Khái niệm "Second-order Cybernetics" trước đây có phiên bản "chi tiết" riêng (#25) nhưng đã được tích hợp vào khái niệm #37 ở CHỨC NĂNG 1: META-COGNITION & AWARENESS để tránh trùng lặp không cần thiết. Xem CHỨC NĂNG 1, khái niệm #37 để có thông tin đầy đủ về Second-order Cybernetics.
 
-### **Các Khái Niệm Cốt Lõi**
+---
+
+### **Nhóm 1: Core Self-Observation Methods - Phương Pháp Tự Quan Sát Cốt Lõi**
 
 #### **1. Self-Observation Protocol** - Quy Trình Tự Quan Sát
 
@@ -28435,6 +28712,10 @@ Quan sát và phân tích cuộc đối thoại nội tâm của bản thân.
 
 → **Liên kết:** INTEGRATION (Personal Integration), DYNAMICS (Self-Awareness).
 
+---
+
+### **Nhóm 2: System Dynamics & Ecology - Động Lực Hệ Thống & Sinh Thái**
+
 #### **10. Cognitive State Transitions** - Chuyển Đổi Trạng Thái Nhận Thức
 
 Quan sát cách tâm trí chuyển đổi giữa các trạng thái nhận thức khác nhau.
@@ -28468,7 +28749,9 @@ Nhận thức về môi trường tư duy - các công cụ, không gian và m�
 
 → **Liên kết:** NAVIGATION (Resource Management), AMPLIFICATION (Leverage Points).
 
-### **Nhóm Bổ Sung: Recursive Observation (5 mục mới)**
+---
+
+### **Nhóm 3: Recursive & Reflexive Observation - Quan Sát Đệ Quy & Phản Tư**
 
 #### **13. Observing** - Quan Sát (Cơ Bản)
 
@@ -28527,7 +28810,7 @@ Nghiên cứu sâu về cách quan sát ảnh hưởng đến hiện tượng đ
 
 ---
 
-### **Nhóm Bổ Sung: Learning Systems (5 mục mới)**
+### **Nhóm 4: Meta-Learning & Feedback Systems - Siêu Học Tập & Hệ Thống Phản Hồi**
 
 #### **18. Learning to Learn (System Focus)** - Học Cách Học (Tập Trung Hệ Thống)
 
@@ -28606,7 +28889,7 @@ Tích hợp thực hành thiền định vào QUÁ TRÌNH HỌC TẬP VÀ PHÁT 
 
 ---
 
-### **Nhóm Bổ Sung: Control Theory (4 mục mới)**
+### **Nhóm 5: Control Theory & Practice - Lý Thuyết Kiểm Soát & Thực Hành**
 
 #### **23. Cybernetics** - Điều Khiển Học
 
@@ -28641,10 +28924,6 @@ Lý thuyết toán học về cách điều khiển các hệ thống động.
 
 → **Liên kết:** VALIDATION (Research Methods), INTEGRATION (Social Systems).
 
----
-
-### **Nhóm Bổ Sung: Practice (1 mục mới)**
-
 #### **26. Neurofeedback Training (System Focus)** - Huấn Luyện Phản Hồi Thần Kinh (Tập Trung Hệ Thống)
 
 Sử dụng phản hồi thần kinh để quan sát và điều chỉnh hoạt động não bộ.
@@ -28665,6 +28944,8 @@ Sử dụng phản hồi thần kinh để quan sát và điều chỉnh hoạt 
 Chức năng này là về việc phát hiện các mẫu hình, cấu trúc và nguyên lý chung xuyên suốt nhiều lĩnh vực tư duy và tri thức khác nhau - khả năng nhìn thấy sự tương đồng trong sự khác biệt.
 
 ### **Các Khái Niệm Cốt Lõi**
+
+### **Nhóm 1: Core Pattern Recognition - Nhận Dạng Mẫu Hình Cốt Lõi**
 
 #### **1. Cross-Domain Pattern Detection** - Phát Hiện Mẫu Hình Xuyên Lĩnh Vực
 
@@ -28892,7 +29173,7 @@ Khả năng nhận ra khi nào các thuộc tính mới đột sinh từ sự t�
 
 → **Liên kết:** DYNAMICS (Emergence), TRANSCENDENCE (Breakthrough Recognition).
 
-### **Nhóm Bổ Sung: Meta-Pattern (7 mục mới)**
+### **Nhóm 2: Meta-Pattern & Abstraction - Siêu Mẫu Hình & Trừu Tượng Hóa**
 
 #### **14. Pattern of Patterns** - Mẫu Hình Của Các Mẫu Hình
 
@@ -29010,7 +29291,7 @@ Nhiều cách khác nhau để mô tả cùng một hiện tượng ở các c�
 
 ---
 
-### **Nhóm Bổ Sung: Cognitive Architecture (7 mục mới)**
+### **Nhóm 3: Cognitive Architecture - Kiến Trúc Nhận Thức**
 
 #### **20. Holographic Mind** - Tâm Trí Toàn Ảnh
 
@@ -29091,7 +29372,7 @@ Khả năng tư duy về các hiện tượng ở nhiều quy mô khác nhau.
 
 ---
 
-### **Nhóm Bổ Sung: Information Field (5 mục mới)**
+### **Nhóm 4: Information Field - Trường Thông Tin**
 
 #### **27. Information Field Theory** - Lý Thuyết Trường Thông Tin [Meta-Pattern]
 
@@ -29160,7 +29441,7 @@ CÔNG CỤ NHẬN DẠNG PATTERN & META-THINKING: Sử dụng nguyên lý toàn 
 
 ---
 
-### **Nhóm Bổ Sung: Knowledge Systems (5 mục mới)**
+### **Nhóm 5: Knowledge Systems - Hệ Thống Tri Thức**
 
 #### **32. Complexity Science Overview** - Tổng Quan Khoa Học Phức Tạp
 
@@ -29219,7 +29500,7 @@ Xã hội học tự phản tư về cách tri thức được tạo ra.
 
 ---
 
-### **Nhóm Bổ Sung: Applied Recognition (5 mục mới)**
+### **Nhóm 6: Applied Recognition - Nhận Dạng Ứng Dụng**
 
 #### **37. Semiotics in Arts** - Ký Hiệu Học Trong Nghệ Thuật
 
@@ -29287,6 +29568,8 @@ Sử dụng phản hồi thần kinh để nhận dạng và tối ưu hóa các
 Chức năng này là về việc sử dụng hệ thống meta để cải thiện chính hệ thống - khả năng học cách học tốt hơn, tư duy về cách tư duy tốt hơn, và tối ưu hóa chính quá trình tối ưu hóa.
 
 ### **Các Khái Niệm Cốt Lõi**
+
+### **Nhóm 1: Core Self-Improvement - Tự Cải Thiện Cốt Lõi**
 
 #### **1. Deliberate Practice of Thinking** - Thực Hành Có Chủ Ý về Tư Duy
 
@@ -29423,7 +29706,7 @@ Làm việc ở ranh giới của khả năng hiện tại để tối đa hóa 
 
 → **Liên kết:** DYNAMICS (Flow States), OPERATIONS (Goal Setting).
 
-### **Nhóm Bổ Sung: Foundational Recursion (6 mục mới)**
+### **Nhóm 2: Foundational Recursion - Đệ Quy Nền Tảng**
 
 #### **13. Creating Creation** - Tạo Ra Sự Sáng Tạo
 
@@ -29502,7 +29785,7 @@ Suy luận có cấu trúc tự tham chiếu và đệ quy.
 
 ---
 
-### **Nhóm Bổ Sung: Progressive Depth (5 mục mới)**
+### **Nhóm 3: Progressive Depth - Chiều Sâu Tiến Hóa**
 
 #### **19. Learning → Learning to Learn → Learning How Learning Changes the Learner** - Học Tập → Học Cách Học → Học Cách Học Tập Thay Đổi Người Học
 
@@ -29574,7 +29857,7 @@ Ba cấp độ đệ quy của tư duy hệ thống.
 
 ---
 
-### **Nhóm Bổ Sung: Navigation Evolution (5 mục mới)**
+### **Nhóm 4: Navigation Evolution - Tiến Hóa Điều Hướng**
 
 #### **24. Navigation Learning** - Học Tập Điều Hướng
 
@@ -29638,7 +29921,7 @@ Khác với các biến thể "con người", đây là về COMPUTATION:
 
 ---
 
-### **Nhóm Bổ Sung: Infinite Iteration (4 mục mới)**
+### **Nhóm 5: Infinite Iteration - Lặp Lại Vô Hạn**
 
 #### **29. Meta-izing the Meta of Meta** - Siêu Hóa Cái Siêu Của Siêu
 
@@ -29688,7 +29971,7 @@ Hệ thống tiến bộ qua các cấp độ ngày càng sâu sắc của nhậ
 
 ---
 
-### **Nhóm Bổ Sung: Ultimate Intelligence (3 mục mới)**
+### **Nhóm 6: Ultimate Intelligence - Trí Tuệ Tối Thượng**
 
 #### **33. Supreme Intelligence** - Trí Tuệ Tối Thượng
 
@@ -29731,7 +30014,9 @@ Trạng thái tri thức hoàn hảo và toàn diện về mọi thứ.
 
 Chức năng này tập trung vào việc thiết kế, phát triển và điều chỉnh các siêu cấu trúc - các khung, mô hình và hệ thống được sử dụng để tổ chức tư duy và tri thức ở cấp độ cao nhất.
 
-### **Các Khái Niệm Cốt Lõi**
+---
+
+### **Nhóm 1: Meta-Framework Architecture - Kiến Trúc Siêu Khung**
 
 #### **1. Framework of Frameworks** - Khung của các Khung
 
@@ -29853,6 +30138,10 @@ Tạo ra các ngôn ngữ để nói về các ngôn ngữ khác hoặc về ch�
 - **Self-Describing Systems**: Các hệ thống tự mô tả.
 
 → **Liên kết:** [META] LAYER (Reflexivity), INTEGRATION (Semantic Integration).
+
+---
+
+### **Nhóm 2: Conceptual Blending & Integration - Pha Trộn Khái Niệm & Tích Hợp**
 
 #### **12. Conceptual Blending Spaces** - Không Gian Pha Trộn Khái Niệm [Kiến Trúc Meta]
 
@@ -30048,7 +30337,9 @@ Trạng thái trong đó việc tích hợp không còn là một hành động 
 
 → **Liên kết:** INTEGRATION (Living Systems Integration), TRANSCENDENCE (Living Wisdom).
 
-### **Nhóm Bổ Sung: Meta-Architecture (7 mục mới)**
+---
+
+### **Nhóm 3: Extended Meta-Architecture - Kiến Trúc Meta Mở Rộng**
 
 #### **27. Framework of Frameworks (Extended)** - Khung Của Các Khung (Mở Rộng)
 
@@ -30150,7 +30441,7 @@ Khả năng thiết kế và áp dụng PHƯƠNG PHÁP CÓ HỆ THỐNG ở cấ
 
 ---
 
-### **Nhóm Bổ Sung: Perspective Engineering (6 mục mới)**
+### **Nhóm 4: Perspective Engineering - Kỹ Thuật Quan Điểm**
 
 #### **34. Perspective Taking** - Chuyển Đổi Quan Điểm
 
@@ -30220,7 +30511,7 @@ Thấu kính quan sát qua đó nhìn thấy tất cả các thấu kính khác.
 
 ---
 
-### **Nhóm Bổ Sung: Navigation & Transformation (7 mục mới)**
+### **Nhóm 5: Meta-Navigation & Transformation - Siêu Điều Hướng & Chuyển Hóa**
 
 #### **40. Meta-Wayfinding** - Siêu Tìm Đường **[Không Gian Của Các Không Gian]**
 
@@ -30316,7 +30607,7 @@ AQAL không phải là một framework cụ thể trong một domain - nó là f
 
 ---
 
-### **Nhóm Bổ Sung: Selection & Optimization (6 mục mới)**
+### **Nhóm 6: Selection & Optimization Principles - Nguyên Lý Lựa Chọn & Tối Ưu**
 
 #### **45. Razor Selection Razor** - Dao Cạo Lựa Chọn Dao Cạo
 
@@ -30386,7 +30677,7 @@ Quá trình vô hạn của việc vượt qua các giới hạn.
 
 ---
 
-### **Nhóm Bổ Sung: Knowledge Foundation (6 mục mới)**
+### **Nhóm 7: Knowledge Foundations & Philosophy - Nền Tảng Tri Thức & Triết Học**
 
 #### **51. Philosophy of Mathematics** - Triết Học Toán Học
 
@@ -30466,7 +30757,7 @@ Hệ thống cổ đại về các giai đoạn chuyển hóa ý thức.
 
 ---
 
-### **Nhóm Bổ Sung: Creative Expression (7 mục mới)**
+### **Nhóm 8: Creative & Cultural Analysis - Phân Tích Sáng Tạo & Văn Hóa**
 
 #### **57. Art Theory & Criticism** - Lý Thuyết Nghệ Thuật & Phê Bình
 
