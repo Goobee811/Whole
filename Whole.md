@@ -29,6 +29,24 @@ Miền này tập hợp các nguyên lý, mô hình tư duy và trí tuệ cốt
 
 Các nguyên lý đầu tiên và tiên đề là những chân lý tự hiển không thể giản lược thêm - nền tảng của mọi suy luận và tri thức. Chúng là các "nguyên tử" của tư duy, từ đó mọi cấu trúc phức tạp hơn được xây dựng.
 
+Bao gồm 40 khái niệm được tổ chức thành 13 nhóm chủ đề:
+
+1. **Foundational Axioms & Logic** (3): Tiên Đề & Logic Nền Tảng - First Principles, Mathematical Axioms, Set Theory and Logic
+2. **Unity, Duality & Ultimate Reality** (3): Thống Nhất, Nhị Nguyên & Thực Tại Tối Hậu - Duality & Unity [Nguyên Lý Bản Thể], The Absolute, The One
+3. **Emergence & Creative Principles** (4): Đột Sinh & Nguyên Lý Sáng Tạo - Emergence & Self-Organization, The Creative Principle, Potentiality & Actuality, Evolution & Selection
+4. **Causality, Time & Transformation** (4): Nhân Quả, Thời Gian & Chuyển Hóa - Causality & Interdependence, Cycles & Rhythms, Irreversibility & Entropy, Conservation & Transformation
+5. **System Dynamics & Feedback** (3): Động Lực Hệ Thống & Phản Hồi - Inertia & Momentum, Equilibrium & Homeostasis, Gradients & Flow
+16. **Feedback Loops** (3): Vòng Lặp Phản Hồi [Nguyên Lý Nền Tảng] - Inertia & Momentum, Equilibrium & Homeostasis, Gradients & Flow
+6. **Structure, Scale & Organization** (5): Cấu Trúc, Quy Mô & Tổ Chức - Scale & Hierarchy, Recursion & Self-Reference, Hologram, Point, Link
+7. **Boundaries, Constraints & Resources** (2): Ranh Giới, Ràng Buộc & Nguồn Lực - Constraints & Boundaries, Scarcity & Abundance
+8. **Energy, Information & Flow** (2): Năng Lượng, Thông Tin & Dòng Chảy - Energy & Information, Signal & Noise
+9. **Form, Function & Design** (1): Hình Thức, Chức Năng & Thiết Kế - Form & Function
+10. **Interaction & Relationship** (3): Tương Tác & Quan Hệ - Resonance & Attunement, Interference & Dissonance, Symbiosis & Competition
+11. **Observation, Context & Perspective** (5): Quan Sát, Bối Cảnh & Góc Nhìn - Observer Effect & Participation, Relativity & Context, Representation & Reality, Holism & Reductionism, Polarity & Spectrum
+12. **Foundational Disciplines** (2): Các Ngành Nền Tảng - Ontology, Cosmology
+
+---
+
 ### **1. Foundational Axioms & Logic - Tiên Đề & Logic Nền Tảng**
 
 Các tiên đề và nguyên lý logic cơ bản không thể rút gọn thêm - nền tảng của mọi suy luận hợp lý và tri thức toán học.
@@ -630,6 +648,31 @@ Nghiên cứu về cấu trúc, nguồn gốc và tiến hóa của vũ trụ.
 ### **Tổng Quan**
 
 Các định luật phổ quát và mẫu hình là những cấu trúc lặp lại, các mô hình tư duy và quy luật vận hành được quan sát thấy ở nhiều lĩnh vực khác nhau - từ vật lý đến xã hội học, từ tâm lý học đến kinh tế học.
+
+Bao gồm 71 khái niệm được tổ chức thành 20 nhóm chủ đề:
+
+1. **Thinking Models & Mental Frameworks** (4): Mô Hình Tư Duy & Khung Tinh Thần - Systems Thinking, Probabilistic Thinking, Map-Territory Distinction, Inversion
+1. **Mental Models** (4): Mô Hình Tư Duy [Khung Diễn Giải Phổ Quát] - Systems Thinking, Probabilistic Thinking, Map-Territory Distinction, Inversion
+3. **Network Thinking** (3): Tư Duy Mạng Lưới - Probabilistic Thinking, Map-Territory Distinction, Inversion
+4. **Abstraction Ladder** (3): Thang Trừu Tượng [Mô Hình Tư Duy Cơ Bản] - Probabilistic Thinking, Map-Territory Distinction, Inversion
+5. **Fractal Thinking** (3): Tư Duy Fractal [Nguyên Lý Toán Học] - Probabilistic Thinking, Map-Territory Distinction, Inversion
+8. **Second-Order Thinking** (1): Tư Duy Bậc Hai [Nguyên Lý Phổ Quát] - Inversion
+2. **System Robustness & Constraints** (2): Độ Vững Chắc Hệ Thống & Ràng Buộc - Redundancy, Bottlenecks (Theory of Constraints)
+10. **Leverage** (2): Đòn Bẩy [Định Luật Cơ Học Cơ Bản] - Redundancy, Bottlenecks (Theory of Constraints)
+11. **Margin of Safety** (2): Biên An Toàn - Redundancy, Bottlenecks (Theory of Constraints)
+3. **Economic & Information Dynamics** (3): Động Lực Kinh Tế & Thông Tin - Supply and Demand, Information Asymmetry, Signaling Theory
+4. **Statistical Distributions & Probability** (3): Phân Phối Thống Kê & Xác Suất - Power Law Distribution (Pareto Distribution), The Black Swan, Ergodicity
+18. **Normal Distribution (The Bell Curve)** (3): Phân Phối Chuẩn (Đường Cong Chuông) - Power Law Distribution (Pareto Distribution), The Black Swan, Ergodicity
+5. **Human Psychology & Meaning-Making** (5): Tâm Lý Con Người & Tạo Ý Nghĩa - The Elephant and the Rider, Narrative & Story, Metaphor, The Overton Window, Mimetic Theory
+22. **Maslow's Hierarchy of Needs** (5): Tháp Nhu Cầu của Maslow - The Elephant and the Rider, Narrative & Story, Metaphor, The Overton Window, Mimetic Theory
+6. **Physical Laws & Natural Principles** (1): Định Luật Vật Lý & Nguyên Lý Tự Nhiên - Relativity
+28. **Entropy (Second Law of Thermodynamics)** (1): Entropy - Relativity
+11. **Sacred Arts & Aesthetic Patterns** (10): Nghệ Thuật Thiêng Liêng & Mô Thức Thẩm Mỹ - Mandala Art, Islamic Patterns, Yantra Design, Fractal Art, Harmony & Counterpoint, Rhythm & Time, Form & Structure, Overtone Singing, Color Theory & Composition, Classical Orders
+49. **Sacred Geometry Base Principles** (10): Nguyên Lý Hình Học Thiêng Liêng - Mandala Art, Islamic Patterns, Yantra Design, Fractal Art, Harmony & Counterpoint, Rhythm & Time, Form & Structure, Overtone Singing, Color Theory & Composition, Classical Orders
+12. **Meta-Patterns & Universal Structures** (3): Mô Thức Siêu Việt & Cấu Trúc Phổ Quát - Archetype Activation, Universal Principles Mining, Holonomic Understanding
+60. **Universal Grammar** (3): Ngữ Pháp Phổ Quát - Archetype Activation, Universal Principles Mining, Holonomic Understanding
+
+---
 
 ### **1. Thinking Models & Mental Frameworks - Mô Hình Tư Duy & Khung Tinh Thần**
 
@@ -1576,6 +1619,17 @@ Nhận thức về tính toàn vẹn và sự liên kết của mọi thứ.
 
 Các giá trị cốt lõi và khung đạo đức cung cấp "la bàn đạo đức" để định hướng hành động và quyết định trong mọi bối cảnh.
 
+Bao gồm 23 khái niệm được tổ chức thành 6 nhóm chủ đề:
+
+1. **Core Universal Virtues** (7): Các Đức Hạnh Phổ Quát Cốt Lõi - Truthfulness, Compassion, Integrity, Humility, Courage, Wisdom, Responsibility
+2. **Foundational Ethical Principles** (2): Các Nguyên Tắc Đạo Đức Nền Tảng - Unity in Diversity [Giá Trị Đạo Đức], Justice
+10. **Observer Effect** (1): Hiệu Ứng Người Quan Sát [Trách Nhiệm Đạo Đức] - Justice
+3. **Systematic Ethical Frameworks** (6): Các Khung Hệ Thống Đạo Đức - Virtue Ethics, Deontology, Natural Law, Legal Philosophy, Theory of Justice & Rights, Phronesis
+4. **Cultural Wisdom & Applications** (5): Trí Tuệ Văn Hóa & Ứng Dụng - Character Strengths Foundation, Greek Tragedy, Shakespeare Drama, Wisdom Literature, Epic Poetry
+5. **Sacred & Embodied Practices** (2): Thực Hành Thiêng Liêng & Hóa Thân - Sacred Foods, Medicinal Cooking
+
+---
+
 ### **1. Core Universal Virtues - Các Đức Hạnh Phổ Quát Cốt Lõi**
 
 Các đức hạnh phổ quát được trân trọng xuyên suốt mọi nền văn hóa và thời đại.
@@ -1944,6 +1998,22 @@ Nghệ thuật nấu ăn với mục đích chữa bệnh.
 ### **Tổng Quan**
 
 Trí tuệ từ các truyền thống tư tưởng lớn của nhân loại, được chưng cất thành các nguyên lý sống và tư duy đã được thời gian kiểm chứng.
+
+Bao gồm 72 khái niệm được tổ chức thành 11 nhóm chủ đề:
+
+1. **Western Philosophical Foundations** (15): Nền Tảng Triết Học Phương Tây - Stoicism, Socratic Wisdom, Aristotelian Virtue Ethics, Epicureanism, Existentialism, Pragmatism, Platonic Forms, Pyrrhonian Skepticism, The Categorical Imperative, Utilitarianism, Amor Fati, The Veil of Ignorance, I and Thou, Humanism, The Trivium
+2. **Eastern Spiritual & Philosophical Paths** (14): Con Đường Tâm Linh & Triết Học Đông Phương - Taoist Principles, Buddhist Principles, The Four Noble Truths, The Eightfold Path, Bodhisattva Ideal, Zen Principles, Advaita Vedanta, Karma Yoga, Confucian Ethics, Yin-Yang, Middle Way, Brahman-Atman, Ren (仁), Li (禮)
+3. **Contemplative & Meditative Practices** (6): Các Thực Hành Thiền Định & Nội Quán - Shamatha, Vipassana, Zen Shikantaza, Dzogchen Sky Gazing, Atma Vichara, Shoshin
+4. **Japanese Aesthetic & Life Philosophy** (4): Thẩm Mỹ & Triết Sống Nhật Bản - Kintsugi Philosophy, Wabi-Sabi, Ikigai, Japanese Gardens
+5. **Sacred Traditions & Mysticism** (6): Truyền Thống Thiêng Liêng & Huyền Bí - Sufi Wisdom, Tikkun Olam, Via Negativa, Ein Sof, Ma'at, The Perennial Philosophy
+41. **Ahimsa** (5): Bất Bạo Động - Tikkun Olam, Via Negativa, Ein Sof, Ma'at, The Perennial Philosophy
+42. **The Golden Rule** (5): Quy Tắc Vàng [Trí Tuệ Phổ Quát] - Tikkun Olam, Via Negativa, Ein Sof, Ma'at, The Perennial Philosophy
+6. **Universal Patterns & Archetypes** (8): Trí Tuệ Nguyên Mẫu & Mẫu Hình Phổ Quát - The Hero's Journey, Synchronicity, Seven Generation Stewardship, Memento Mori, The Art of War Wisdom, Ubuntu, Master Wisdom Tradition, Negative Space
+7. **Cultural Arts & Sacred Expression** (5): Nghệ Thuật Văn Hóa & Biểu Đạt Thiêng Liêng - Islamic Gardens, Raga System, Gamelan Orchestra, Noh & Kabuki, Indian Classical Dance
+8. **Holistic Health & Natural Systems** (3): Sức Khỏe Toàn Diện & Hệ Thống Tự Nhiên - TCM (Traditional Chinese Medicine), Ayurveda, Meridian System
+63. **Five Elements** (1): Ngũ Hành - Meridian System
+
+---
 
 
 ### **1. Western Philosophical Foundations - Nền Tảng Triết Học Phương Tây**
@@ -2729,6 +2799,21 @@ Các đường năng lượng trong cơ thể.
 
 Học hỏi từ 3.8 tỷ năm nghiên cứu và phát triển của tự nhiên - các nguyên lý thiết kế, tối ưu hóa và tồn tại đã được kiểm chứng qua tiến hóa.
 
+Bao gồm 56 khái niệm được tổ chức thành 10 nhóm chủ đề:
+
+1. **Core Natural Principles** (8): Nguyên Lý Tự Nhiên Cốt Lõi - Đột Sinh & Tự Tổ Chức, Hình Thức & Chức Năng, Chu Kỳ & Nhịp Điệu, Tiến Hóa & Chọn Lọc, Cộng Sinh & Cạnh Tranh, Dự Phòng & Kiên Cường, Năng Lượng & Thông Tin, Cân Bằng & Cân Bằng Nội Môi
+2. **Biomimicry Applications** (5): Ứng Dụng Sinh Học Bắt Chước - Circular Economy, Resilient Networks, Efficient Resource Use, Cooperative Systems, Self-Healing Design
+9. **Adaptive Systems** (5): Hệ Thống Thích Ứng [Nguyên Lý Sinh Học] - Circular Economy, Resilient Networks, Efficient Resource Use, Cooperative Systems, Self-Healing Design
+3. **Indigenous Wisdom & Earth-Based Practices** (5): Trí Tuệ Bản Địa & Thực Hành Gắn Với Đất - Great Spirit Concepts, Indigenous Design, Indigenous Landscapes, Vernacular Building, Monastic Gardens
+4. **Traditional Crafts & Material Arts** (8): Thủ Công Truyền Thống & Nghệ Thuật Vật Liệu - Ceramics & Pottery, Woodworking, Metalsmithing, Glassblowing, Weaving Traditions, Natural Dyes, Aromatherapy, Fermentation Arts
+5. **Analytical Methods & Knowledge Systems** (3): Phương Pháp Phân Tích & Hệ Thống Tri Thức - Newton's Razor, Knowledge Archaeology, Anti-Knowledge Investigation
+6. **Wisdom Synthesis & Integration** (7): Tổng Hợp & Tích Hợp Trí Tuệ - Wisdom Synthesis, Transcendent Wisdom, Swarm Intelligence, Wisdom Crystallization, Classical Text Study Methods, Gnosis, Elder Wisdom Cultivation
+7. **Sacred Arts & Creative Expression** (6): Nghệ Thuật Thiêng Liêng & Biểu Đạt Sáng Tạo - Sound Creation & Sacred Chanting, Mantra Composition, Sacred Architecture, Mythology, Storytelling Art, Bardic Arts
+8. **Mystical Practices & Transformative Experiences** (6): Thực Hành Thần Bí & Trải Nghiệm Biến Đổi - Via Mystica, Dark Night Wisdom, Illumination Principle, Akashic Wisdom, Nature of Beauty, Sublime Experience
+9. **Physical & Performance Arts** (3): Nghệ Thuật Thể Chất & Biểu Diễn - Acrobatics, Juggling, Clowning
+
+---
+
 ### **1. Core Natural Principles - Nguyên Lý Tự Nhiên Cốt Lõi**
 Các nguyên lý tự nhiên cốt lõi từ quan sát thiên nhiên.
 
@@ -3452,6 +3537,18 @@ Miền này khám phá các quy trình, dòng chảy và các lực lượng t�
 
 Khả năng nhận diện và làm việc với các thuộc tính đột sinh - những gì xuất hiện từ sự tương tác phức tạp - và hiểu các trạng thái dòng chảy tối ưu trong tư duy và hành động.
 
+Bao gồm 44 khái niệm được tổ chức thành 7 nhóm chủ đề:
+
+1. **Core Emergence Principles** (8): Nguyên Lý Đột Sinh Cốt Lõi - Emergence, Complexity, Self-Organization, Dissipative Structures, Autopoiesis, Meta-Emergence, Recombination Engine, Generative Systems
+2. **Chaos & Criticality Dynamics** (7): Động Lực Hỗn Loạn & Tới Hạn - Edge of Chaos, Strange Attractors, Criticality, Nonlinearity, Turbulence, Bifurcation, Cascade Dynamics
+3. **System Stability & Transitions** (5): Ổn Định & Chuyển Đổi Hệ Thống - Metastability, Hysteresis, Metastable Switching, Keystone Elements, Flywheel Effect
+4. **Synchronization & Harmony** (4): Đồng Bộ & Hài Hòa - Synchronization, Coherence, Resonance, Entrainment
+5. **Flow States & Optimization** (6): Trạng Thái Flow & Tối Ưu Hóa - Flow State, Flow Hacking, Effortless Mastery, Time Dilation Practice, Hyperfocus States, Instant Integration
+6. **Collective Intelligence** (7): Trí Tuệ Tập Thể - Hive Mind Phenomena, Crowd Wisdom, Stigmergic Coordination, Collective Creativity, Breakthrough Zones, Serendipity Systems, Adjacent Possible
+31. **Swarm Intelligence** (7): Trí Tuệ Bầy Đàn [Hiện Tượng Đột Sinh] - Hive Mind Phenomena, Crowd Wisdom, Stigmergic Coordination, Collective Creativity, Breakthrough Zones, Serendipity Systems, Adjacent Possible
+
+---
+
 ### **1. Core Emergence Principles - Nguyên Lý Đột Sinh Cốt Lõi**
 
 Các nguyên lý liên quan đến nguyên lý đột sinh cốt lõi.
@@ -3975,6 +4072,24 @@ Tập hợp tất cả các khả năng mới có thể đạt được chỉ b�
 ### **Tổng Quan**
 
 Hiểu các quá trình, chu kỳ và các lực lượng thúc đẩy sự thay đổi sâu sắc, từ tiến hóa tăng dần đến biến đổi đột phá.
+
+Bao gồm 77 khái niệm được tổ chức thành 13 nhóm chủ đề:
+
+1. **Fundamental Evolution & Adaptation** (5): Tiến Hóa & Thích Ứng Cơ Bản - Evolution & Adaptation, Growth & Decay Cycles, Punctuated Equilibrium, S-Curve Dynamics, Gradual vs. Punctuated Change
+2. **Metamorphosis & Discontinuous Change** (7): Biến Thái & Thay Đổi Gián Đoạn - Metamorphosis & Phase Transition, Crisis & Breakthrough, Punctuation Dynamics, Threshold Crossing, Quantum Leap, Transmutation, Molting & Shedding
+3. **Creative Destruction & Regeneration** (5): Phá Hủy Sáng Tạo & Tái Sinh - Creative Destruction & Renewal, Ego Death & Rebirth, Apoptosis & Regeneration, Dissolution & Rebirth, Assumption Annihilation
+4. **Paradigm Shifts & Cognitive Transformation** (8): Chuyển Đổi Mô Thức & Chuyển Hóa Nhận Thức - Paradigm Shift Dynamics, Paradigm Shifting, Cognitive Reboot, State Shifting, Evolutionary Thinking, Conceptual Mutation, Paradigm Hacking, Transformative Learning
+5. **Antifragility & Crisis Catalysis** (7): Phản Mong Manh & Xúc Tác Khủng Hoảng - Hormesis & Antifragility, Crisis Optimization, Crisis Farming, Pressure Catalysis, Emergency Emergence, Antifragile Mindset (Bổ sung), Black Swan Surfing
+6. **Order-Chaos Dynamics & Complexity** (5): Động Lực Trật Tự-Hỗn Loạn & Phức Tạp - Order ↔ Chaos Dynamics, Disruptive Innovation Dynamics, Bifurcation Cascade, Reversibility & Irreversibility, Plasma Instabilities
+7. **Timing, Cycles & Developmental Rhythms** (7): Thời Cơ, Chu Kỳ & Nhịp Điệu Phát Triển - Unfolding (Entelechy), Kairos & Chronos, Liminal Transition, Maturation & Ripening, Incubation & Emergence, Recovery Cycles, Adaptation Rhythms
+8. **Dialectical Process & Morphogenesis** (6): Quá Trình Biện Chứng & Hình Thái Phát Sinh - Dialectical Process, Morphogenesis, Catalytic Transformation, Spiral Dynamics, Hysteresis in Change, Developmental Thinking
+9. **Alchemical & Conscious Evolution** (5): Giả Kim & Tiến Hóa Ý Thức - Alchemical Transformation, Evolutionary Consciousness, Personal Evolution, Kundalini Awakening, Tummo Inner Fire
+10. **Phase Change Dynamics** (5): Động Lực Chuyển Pha - Melting, Solidification, Evaporation, Condensation, Sublimation
+11. **Evolutionary Innovation & Design** (7): Đổi Mới & Thiết Kế Tiến Hóa - Evolutionary Innovation, Evolutionary Design, Artificial Life Creativity, Evolution Hacking, Mutation Acceleration, Metamorphic Precision, Transmutation Algorithms
+12. **Trauma Healing & Post-traumatic Growth** (4): Chữa Lành Chấn Thương & Tăng Trưởng Sau Nghịch Cảnh - Trauma Resolution, Inner Child Repair, Energy Psychology, Post-traumatic Growth
+13. **Breathwork & Energetic Practices** (6): Thở & Thực Hành Năng Lượng - Breathwork Transformation, Holotropic Breathwork, Wim Hof Method, Sound & Vibrational Medicine, Movement & Dance Therapy, Cellular & DNA Activation
+
+---
 
 
 ### **1. Fundamental Evolution & Adaptation - Tiến Hóa & Thích Ứng Cơ Bản**
@@ -5790,6 +5905,25 @@ Các quá trình thay đổi xã hội tập thể quy mô lớn.
 
 Các chế độ và dòng chảy cơ bản của quá trình xử lý thông tin, cách thức tâm trí di chuyển giữa các trạng thái khác nhau để nhận thức và tương tác với thực tại.
 
+Bao gồm 84 khái niệm được tổ chức thành 14 nhóm chủ đề:
+
+1. **Dual Processing Modes** (9): Các Chế Độ Xử Lý Kép - Convergent ↔ Divergent Thinking, Fast ↔ Slow Thinking, Abstract ↔ Concrete Thinking, Analytic ↔ Holistic Thinking, Analysis ↔ Synthesis, Linear ↔ Non-linear, Sequential ↔ Parallel, Focused ↔ Diffuse Mode, Hot ↔ Cold Cognition
+2. **Core Flexibility Mechanisms** (5): Cơ Chế Linh Hoạt Cốt Lõi - Cognitive Flexibility, Cognitive Flexibility in Problem-Solving, Metacognition, Meta-Cognitive Flow, Adaptive Reasoning
+3. **Memory Systems & Knowledge Structures** (8): Hệ Thống Trí Nhớ & Cấu Trúc Tri Thức - Memory Dynamics, Working Memory Dynamics, State-Dependent Learning, Concept Formation, Transfer of Learning, Dual Coding, Schema Theory, Spreading Activation
+4. **Attention & Resource Management** (6): Quản Lý Chú Ý & Tài Nguyên - Attention Dynamics, Mind Wandering, Cognitive Load, Decision Fatigue, Automaticity, Cognitive Momentum
+5. **Insight & Creative Emergence** (7): Thấu Suốt & Đột Sinh Sáng Tạo - Intuitive Leap Dynamics, Insight Dynamics ("Aha!" Moment), Creativity Modes, Mental Simulation Dynamics, Incubation Effect, Productive Failure, Curiosity Drive
+6. **Reasoning & Causal Inference** (5): Suy Luận & Suy Diễn Nhân Quả - Conceptual Blending, Causal Reasoning, Causal Networks, Intervention Reasoning, Temporal Causation
+37. **Analogical Reasoning** (5): Suy Luận Tương Tự [Năng Lực Linh Hoạt] - Conceptual Blending, Causal Reasoning, Causal Networks, Intervention Reasoning, Temporal Causation
+7. **Perceptual Effects & Cognitive Biases** (6): Hiệu Ứng Tri Giác & Thiên Lệch Nhận Thức - Priming Effects, Framing Effects, Perceptual Set, Cognitive Dissonance, Cognitive Restructuring, Pattern Recognition
+8. **Decision Dynamics & Strategic Thinking** (6): Động Lực Quyết Định & Tư Duy Chiến Lược - Decision Velocity, Decision Stack, Decision Momentum, Portfolio Reasoning, Complex Systems Decisions, Emergent Wayfinding
+50. **Option Preservation** (5): Bảo Tồn Lựa Chọn [Trong Tư Duy] - Decision Stack, Decision Momentum, Portfolio Reasoning, Complex Systems Decisions, Emergent Wayfinding
+9. **Complex Adaptive Creativity** (5): Sáng Tạo Thích Ứng Phức Tạp - Feedback Loop Creativity, Attractor Dynamics (Creativity), Nonlinear Creativity, Swarm Creativity, Phase Transition Creativity
+57. **Adaptive Systems (Creativity)** (5): Hệ Thống Thích Ứng Sáng Tạo - Feedback Loop Creativity, Attractor Dynamics (Creativity), Nonlinear Creativity, Swarm Creativity, Phase Transition Creativity
+10. **Decision Biases & Cognitive Razors** (4): Thiên Lệch Quyết Định & Dao Cạo Nhận Thức - Dunning-Kruger Razor, Fredkin's Paradox, Sayre's Law, Bikeshedding Law
+11. **Edge Dynamics & Boundary Navigation** (8): Động Lực Biên Giới & Điều Hướng Ngưỡng - Contextual Navigation, Antifragile Navigation, Collective Navigation, Liminal Navigation, Boundary Dissolution, Chaos Surfing, Avalanche Triggering, Synchronicity Engineering
+
+---
+
 ### **1. Dual Processing Modes - Các Chế Độ Xử Lý Kép**
 
 Các khái niệm và nguyên lý về các chế độ xử lý kép.
@@ -6731,6 +6865,22 @@ Tạo ra điều kiện cho các sự kiện ý nghĩa trùng hợp xảy ra.
 
 Hiểu và điều khiển các trạng thái cảm xúc và năng lượng của bản thân, và khả năng điều hướng các động lực cảm xúc trong các hệ thống phức tạp.
 
+Bao gồm 60 khái niệm được tổ chức thành 11 nhóm chủ đề:
+
+1. **Emotional Awareness & Intelligence** (7): Nhận Thức & Trí Tuệ Cảm Xúc - Emotional Valence Dynamics, Emotional Granularity, Emotional Complexity, Empathy Dynamics, Emotional Intelligence, Somatic Intelligence, Emotional Agility
+2. **Emotional Regulation & Shadow Work** (6): Điều Chỉnh Cảm Xúc & Công Việc Bóng Tối - Emotional Regulation, Emotional Contagion, Affective Forecasting, Emotional Labor, Emotional Momentum, Shadow Work
+3. **Energy, Arousal & Performance States** (5): Năng Lượng, Hưng Phấn & Trạng Thái - Arousal Dynamics, Stress Dynamics, Flow & Immersion, Peak Experience, Burnout Dynamics
+15. **Energy Management** (4): Quản Lý Năng Lượng [Nghệ Thuật Nội Tại] - Stress Dynamics, Flow & Immersion, Peak Experience, Burnout Dynamics
+4. **Motivation, Resilience & Growth** (5): Động Lực, Phục Hồi & Phát Triển - Motivational Dynamics, Resilience Building, Passion & Purpose, Psychological Safety, Patience Cultivation
+5. **Primordial & Universal Energy** (5): Năng Lượng Nguyên Thủy & Vũ Trụ - Primordial Energy (Shakti), Life Force (Prana/Qi/Ki), Kundalini, Entropy & Negentropy, Quantum Wave-Particle Duality
+6. **Traditional Energy Systems** (9): Hệ Thống Năng Lượng Truyền Thống - Chakra Integration, Meridian Integration, Biofield Integration, Grounding Integration, Buddhist Dependent Origination, Taoist Yin-Yang, I Ching (Book of Changes), Sufi Stations of Soul, Norse Wyrd & Orlog
+34. **Five Elements** (5): Ngũ Hành - Buddhist Dependent Origination, Taoist Yin-Yang, I Ching (Book of Changes), Sufi Stations of Soul, Norse Wyrd & Orlog
+7. **Movement, Embodiment & Performance** (6): Chuyển Động, Hiện Thân & Biểu Diễn - 5Rhythms Movement, Kinetic Art & Architecture, Movement Dynamics (Dance, Circus), Temporal Arts (Film, Performance), Interactive & Responsive Design, Live Performance Energy
+41. **Improvisation** (5): Ứng Biến - Kinetic Art & Architecture, Movement Dynamics (Dance, Circus), Temporal Arts (Film, Performance), Interactive & Responsive Design, Live Performance Energy
+8. **Energy Practices & Applications** (3): Thực Hành & Ứng Dụng Năng Lượng - Breathwork Energy Practices, Silence Practice, Complexity Science Applications
+
+---
+
 ### **1. Emotional Awareness & Intelligence - Nhận Thức & Trí Tuệ Cảm Xúc**
 
 Các khái niệm và nguyên lý về nhận thức & trí tuệ cảm xúc.
@@ -7350,6 +7500,38 @@ Thực hành nuôi dưỡng im lặng bên trong và bên ngoài - một công c
 ### **Tổng Quan**
 
 Hệ thống suy luận và kiến trúc logic để xây dựng lập luận chặt chẽ, phân tích bằng chứng và rút ra kết luận hợp lệ. Đây là "bộ xử lý logic" của tư duy.
+
+Bao gồm 89 khái niệm được tổ chức thành 27 nhóm chủ đề:
+
+1. **Core Reasoning Paradigms** (2): Các Mô Thức Suy Luận Cốt Lõi - Inductive Reasoning, Abductive Reasoning
+1. **Deductive Reasoning** (2): Suy Luận Diễn Dịch - Inductive Reasoning, Abductive Reasoning
+2. **Causal, Probabilistic & Modal Reasoning** (3): Suy Luận Nhân Quả, Xác Suất & Khả Thể - Probabilistic Reasoning, Modal Reasoning, Dialectical Reasoning
+5. **Causal Reasoning** (3): Suy Luận Nhân Quả [Công Cụ Phân Tích] - Probabilistic Reasoning, Modal Reasoning, Dialectical Reasoning
+3. **Dimensional Reasoning** (2): Suy Luận Chiều Không-Thời Gian & Khái Niệm - Spatial Reasoning, Conceptual Reasoning
+9. **Temporal Reasoning** (2): Suy Luận Theo Thời Gian - Spatial Reasoning, Conceptual Reasoning
+4. **Formal & Computational Methods** (3): Phương Pháp Hình Thức & Tính Toán - Mathematical Reasoning, Algorithmic Reasoning, Heuristic Reasoning
+12. **Formal Logic & Symbolic Reasoning** (3): Logic Hình Thức & Suy Luận Ký Hiệu - Mathematical Reasoning, Algorithmic Reasoning, Heuristic Reasoning
+5. **Systems & Optimization Analysis** (3): Phân Tích Hệ Thống & Tối Ưu Hóa - Systems Reasoning, Network Reasoning, Statistical Reasoning
+16. **Constraint Analysis & Optimization** (3): Phân Tích & Tối Ưu Ràng Buộc [Phương Pháp Tích Hợp] - Systems Reasoning, Network Reasoning, Statistical Reasoning
+17. **Evolutionary Reasoning** (3): Suy Luận Tiến Hóa [Công Cụ Phân Tích] - Systems Reasoning, Network Reasoning, Statistical Reasoning
+6. **Domain-Specific Applied Reasoning** (6): Suy Luận Ứng Dụng Theo Lĩnh Vực - Legal Reasoning, Scientific Reasoning, Historical Reasoning, Economic Reasoning, Strategic Reasoning, Counterfactual Reasoning
+21. **Ethical Reasoning** (6): Suy Luận Đạo Đức - Legal Reasoning, Scientific Reasoning, Historical Reasoning, Economic Reasoning, Strategic Reasoning, Counterfactual Reasoning
+7. **Advanced Logic Systems** (1): Hệ Thống Logic Nâng Cao - Argumentation Analysis
+28. **Non-Monotonic Reasoning** (1): Suy Luận Phi Đơn Điệu - Argumentation Analysis
+8. **Cognitive Process Dynamics** (6): Động Lực Quá Trình Nhận Thức - Distributed Reasoning, Meta-Cognitive Reasoning, Intuitive Reasoning, Deliberative Reasoning, Critical Reasoning, Creative Reasoning
+30. **Motivational Reasoning** (6): Suy Luận theo Động Lực - Distributed Reasoning, Meta-Cognitive Reasoning, Intuitive Reasoning, Deliberative Reasoning, Critical Reasoning, Creative Reasoning
+9. **Embodied & Social Cognition** (3): Nhận Thức Hiện Thân & Xã Hội - Emotional Reasoning, Social Reasoning, Cross-Cultural Reasoning
+37. **Embodied Reasoning** (3): Suy Luận Hiện Thân - Emotional Reasoning, Social Reasoning, Cross-Cultural Reasoning
+10. **Meta-Level Mastery** (2): Tinh Thông Siêu Nhận Thức - Wisdom-Based Reasoning (Phronesis), Architectural Mastery
+42. **Applied Meta-Reasoning** (2): Ứng Dụng Siêu Suy Luận - Wisdom-Based Reasoning (Phronesis), Architectural Mastery
+11. **Cognitive Toolkit & Foundations** (2): Bộ Công Cụ Nhận Thức & Nền Tảng - Thinking Moves Toolkit, Lenses & Filters System
+45. **Fundamental Cognitive Operations** (2): Các Thao Tác Nhận Thức Cơ Bản - Thinking Moves Toolkit, Lenses & Filters System
+12. **Extended Logic Forms** (5): Các Dạng Logic Mở Rộng - Default Reasoning, Fuzzy Logic, Evidential Reasoning, Forensic Reasoning, Clinical Reasoning
+48. **Conditional Logic** (5): Logic Điều Kiện - Default Reasoning, Fuzzy Logic, Evidential Reasoning, Forensic Reasoning, Clinical Reasoning
+13. **Advanced Computational Methods** (5): Phương Pháp Tính Toán Nâng Cao - Quantum Analysis, Tensor Analysis Mind, Bayesian Brain Optimization, Fourier Transform Thinking, Eigenvector Extraction
+54. **Machine Reasoning** (5): Suy Luận Máy - Quantum Analysis, Tensor Analysis Mind, Bayesian Brain Optimization, Fourier Transform Thinking, Eigenvector Extraction
+
+---
 
 ### **1. Core Reasoning Paradigms - Các Mô Thức Suy Luận Cốt Lõi**
 
@@ -8131,6 +8313,21 @@ Xác định các hướng chủ đạo và các yếu tố quan trọng nhất 
 ### **Tổng Quan**
 
 Các phương pháp và công cụ có cấu trúc để phân tích vấn đề, tìm ra nguyên nhân gốc rễ và thiết kế giải pháp hiệu quả. Đây là "bộ công cụ giải quyết vấn đề" của OPERATIONS.
+
+Bao gồm 57 khái niệm được tổ chức thành 10 nhóm chủ đề:
+
+1. **Analytical Razors & Parsimony Principles** (5): Dao Cạo Phân Tích & Nguyên Tắc Tiết Kiệm - Analytical Razors, Newton's Flaming Laser Sword, Grice's Razor, Morgan's Canon, Einstein's Razor
+2. **Root Cause & Problem Diagnosis** (5): Chẩn Đoán Vấn Đề & Nguyên Nhân Gốc - Root Cause Analysis (RCA), Decomposition, Kepner-Tregoe Problem Analysis, FMEA (Failure Mode and Effects Analysis), Inversion for Problem Prevention
+3. **Problem Framing & Gap Analysis** (4): Định Khung Vấn Đề & Phân Tích Khoảng Cách - Problem Framing & Reframing, Gap Analysis, Inversion (Analytical Tool), The Master Analytical Tool: Clarity
+4. **Scenario & Consequential Analysis** (4): Phân Tích Kịch Bản & Hệ Quả - Force Field Analysis, Scenario Analysis, Scenario Cross-Impact Analysis, Second-Order Thinking Analysis
+5. **Statistical & Data Analysis** (5): Phân Tích Thống Kê & Dữ Liệu - Trend Analysis, Sensitivity Analysis, Dimensionality Reduction, Distribution Analysis, Correlation Analysis
+6. **System & Process Mapping** (6): Ánh Xạ Hệ Thống & Quy Trình - Process Analysis / Mapping, Black Box Analysis, Causal Loop Diagrams, Value Chain Analysis, System Interface Analysis, Predecessor-Successor Analysis
+7. **Decision & Comparative Evaluation** (7): Đánh Giá So Sánh & Ra Quyết Định - Pareto Analysis (80/20 Rule), Decision Matrix (Multi-Criteria Decision Analysis), Cost-Benefit Analysis, Comparative Analysis, Benchmarking, Trade-off Analysis, Comparison
+8. **Context & Critical Thinking** (5): Phân Tích Bối Cảnh & Tư Duy Phản Biện - Stakeholder Analysis, Argument Deconstruction, Content Analysis, Checklist Analysis, Cognitive Load Analysis
+9. **Structural & Set Operations** (9): Thao Tác Cấu Trúc & Tập Hợp - Connection, Separation, Transformation, Addition, Multiplication, Intersection, Union, Mapping, Rotation
+10. **Mental Tools & Knowledge Organization** (7): Công Cụ Tư Duy & Tổ Chức Tri Thức - Replication, Oscillation, Mental Models, Framework Synthesis, Schema Construction, Taxonomy Development, Search-Based Reasoning
+
+---
 
 ### **1. Analytical Razors & Parsimony Principles - Dao Cạo Phân Tích & Nguyên Tắc Tiết Kiệm**
 
@@ -8924,6 +9121,21 @@ Phương pháp giải quyết vấn đề bằng cách khám phá không gian gi
 
 Các phương pháp và kỹ thuật để biến ý tưởng thành hành động, thực hiện có kỷ luật và rèn luyện kỹ năng đến mức thành thạo. Đây là "bộ phận thực thi" của OPERATIONS.
 
+Bao gồm 49 khái niệm được tổ chức thành 10 nhóm chủ đề:
+
+1. **Deliberate Practice & Skill Development** (4): Rèn Luyện Có Chủ Đích & Phát Triển Kỹ Năng - Deliberate Practice, Elaborative Interrogation, Retrieval Practice, Learning Integration
+2. **Habit Formation & Behavior Design** (5): Hình Thành Thói Quen & Thiết Kế Hành Vi - Implementation Intentions, Habit Stacking, Temptation Bundling, Commitment Devices, Context Design & Environment Shaping
+3. **Time & Task Management** (5): Quản Lý Thời Gian & Nhiệm Vụ - Pomodoro Technique, Time Blocking, Batch Processing, Automation & Systematization, Standard Operating Procedures (SOPs)
+4. **Progress Monitoring & Feedback** (6): Theo Dõi Tiến Độ & Phản Hồi - Implementation Review & Iteration, Progress Tracking & Metrics, Continuous Monitoring, Action Tracking, Impact Measurement, Course Correction
+5. **Execution Excellence & Precision** (5): Tinh Thông Thực Thi & Độ Chính Xác - Execution Mastery, Surgical Precision Thinking, Zero-Defect Thinking, Six Sigma Mind, Quantum Error Correction
+6. **Somatic & Body-Mind Integration** (5): Tích Hợp Thể Xác & Thân-Tâm - Somatic Integration, Breath-Mind Integration, Heart-Brain Coherence, Movement Integration [Học Tập & Thực Hành], Sensory Integration
+7. **Contemplative & Energy Practices** (5): Thực Hành Thiền Định & Năng Lượng - Walking Meditation, Qigong Standing, Pranayama, Trataka, Dream Yoga
+8. **Daily Rhythms & Routine Practices** (6): Nhịp Điệu Hàng Ngày & Thực Hành Thường Xuyên - Morning Integration Practice, Evening Integration Review, Transition Rituals, Micro-Practice Integration, Weekly Rhythm Practices, Energy Management Systems
+9. **Energy & Biofield Therapies** (4): Liệu Pháp Năng Lượng & Trường Sinh Học - Biofield Therapies, Bodywork & Manual Energy, Meridian-Based Therapies, Biofield Assessment Tools
+10. **Therapeutic & Technical Methods** (4): Phương Pháp Trị Liệu & Kỹ Thuật - Hypnotherapy & Trance Work, Gestalt Therapy Experiments, Art Therapy Transformation, Applied Technical Methods
+
+---
+
 ### **1. Deliberate Practice & Skill Development - Rèn Luyện Có Chủ Đích & Phát Triển Kỹ Năng**
 
 Các khái niệm và nguyên lý về rèn luyện có chủ đích & phát triển kỹ năng.
@@ -9517,6 +9729,20 @@ Bộ sưu tập các phương pháp và công nghệ tiên tiến từ nhiều l
 
 Các phương pháp và hệ thống để thu nhận, mã hóa, lưu trữ và truy xuất thông tin một cách hiệu quả. Đây là "hệ thống quản lý tri thức" của OPERATIONS.
 
+Bao gồm 40 khái niệm được tổ chức thành 9 nhóm chủ đề:
+
+1. **Memory Encoding Techniques** (5): Kỹ Thuật Mã Hóa Ký Ức - Spaced Repetition, Active Recall & Testing Effect, Elaborative Encoding, Dual Coding Theory, Method of Loci (Memory Palace)
+5. **Chunking** (1): Chia Khối / Gộp Nhóm Thông Tin - Method of Loci (Memory Palace)
+2. **Learning Optimization Strategies** (4): Chiến Lược Tối Ưu Hóa Học Tập - Interleaving, Generation Effect, Metacognitive Monitoring, Knowledge Organization & Schema Building
+3. **Core Cognitive Processes** (4): Các Quy Trình Nhận Thức Cốt Lõi - Core Cognitive Operations, Perception, Memory Processes, Decision Making Process
+4. **Attention Management Systems** (6): Hệ Thống Quản Lý Chú Ý - Selective vs. Divided Attention, Sustained vs. Shifting Attention, Narrow vs. Broad Attention, Working Memory Optimization, Processing Efficiency, Cognitive Reserve
+5. **Advanced Learning & Knowledge Transfer** (7): Học Tập Nâng Cao & Chuyển Giao Tri Thức - Transfer Learning, Embodied Learning, Pattern Recognition Training, Interleaving Practice, Zero-Point Access, Pattern Compression, Signal-Noise Separation
+24. **Meta-Learning Frameworks** (4): Khung Siêu Học Tập - Interleaving Practice, Zero-Point Access, Pattern Compression, Signal-Noise Separation
+6. **Feedback & Adaptive Response Systems** (6): Hệ Thống Phản Hồi & Phản Ứng Thích Ứng - Feedback Synthesis, Priority Weighting, Feedback Validation, Calibrated Response, Adaptive Response, Threshold Response
+7. **Professional Practice Applications** (3): Ứng Dụng Thực Hành Chuyên Nghiệp - Teaching Methods & Pedagogical Techniques, Clinical Psychology Practices, Medical Procedures & Treatments
+
+---
+
 ### **1. Memory Encoding Techniques - Kỹ Thuật Mã Hóa Ký Ức**
 
 Các kỹ thuật liên quan đến kỹ thuật mã hóa ký ức.
@@ -9996,6 +10222,21 @@ Các quy trình và giao thức y tế chuẩn.
 ### **Tổng Quan**
 
 Các mô hình có cấu trúc để đánh giá các lựa chọn, quản lý rủi ro và lựa chọn một hướng hành động tối ưu trong các bối cảnh khác nhau. Đây là "hệ thống ra quyết định" của OPERATIONS.
+
+Bao gồm 57 khái niệm được tổ chức thành 10 nhóm chủ đề:
+
+1. **Strategic Decision Frameworks** (5): Khung Quyết Định Chiến Lược - Game Theory, Cynefin Framework, OODA Loop, Recognition-Primed Decision (RPD) Model, The Master Decision Framework
+2. **Analytical Decision Tools** (7): Công Cụ Phân Tích Quyết Định - Decision Trees, Multi-Criteria Decision Analysis (MCDA), Risk-Based Decision Making, Algorithmic Decision Making, Delphi Method, Pugh Matrix, Sequential Decision Making
+3. **Decision Principles & Mental Models** (7): Nguyên Tắc & Mô Hình Quyết Định - Inversion Principle, Circle of Competence, Satisficing vs. Maximizing, Precautionary Principle, Opportunity Cost Thinking, Reversible vs. Irreversible Decisions, Expected Value Thinking
+4. **Value & Future-Oriented Frameworks** (4): Khung Định Hướng Giá Trị - Real Options Framework, Regret Minimization Framework, Value-Based Decision Making, BATNA Principle
+23. **Jobs-to-be-Done Framework** (1): Khung Công Việc Cần Hoàn Thành [Core Tool] - BATNA Principle
+5. **Organizational & Process Systems** (6): Hệ Thống Tổ Chức & Quy Trình - RACI Matrix, Consequence Scanning, Decision Journaling, PDCA Cycle, OKRs (Objectives & Key Results), Flow Optimization
+6. **Decision Laws & Cognitive Heuristics** (8): Định Luật & Heuristic Nhận Thức - Grey's Law, Actor-Observer Bias, Eisenhower's Razor, Parkinson's Law, Hofstadter's Law, Murphy's Law, Opportunity Cost Razor, Sunk Cost Razor
+32. **Shirky Principle** (7): Nguyên Tắc Shirky [Công Cụ Phát Hiện Bias] - Actor-Observer Bias, Eisenhower's Razor, Parkinson's Law, Hofstadter's Law, Murphy's Law, Opportunity Cost Razor, Sunk Cost Razor
+7. **Cross-References & Navigation Metrics** (6): Tham Chiếu & Chỉ Số Điều Hướng - Eisenhower Matrix, Progress Indicators, Navigation KPIs, Waypoint Metrics, Course Efficiency, [CROSS-REFERENCE → NAVIGATION #40]
+8. **Specialized Applications & Domains** (6): Ứng Dụng & Lĩnh Vực Chuyên Biệt - Applied Decision Domains, Karma, Morphogenetic Fields, Adaptation Algorithms, Creation, Algorithms & Computation
+
+---
 
 ### **1. Strategic Decision Frameworks - Khung Quyết Định Chiến Lược**
 
@@ -10752,6 +10993,24 @@ _Miền này tập hợp các công cụ, phương pháp và động lực để
 ### **Tổng Quan**
 
 Khả năng tạo sinh ý tưởng thông qua các phương pháp tư duy không truyền thống, phá vỡ các khuôn mẫu và khám phá không gian khả năng rộng lớn. Đây là nền tảng của quá trình sáng tạo - giai đoạn sinh ra nhiều lựa chọn trước khi thu hẹp.
+
+Bao gồm 52 khái niệm được tổ chức thành 13 nhóm chủ đề:
+
+1. **Core Lateral & Disruptive Methods** (4): Phương Pháp Tư Duy Ngang & Phá Vỡ Cốt Lõi - Lateral Thinking, Random Stimulation, Provocation, Provocative Operations
+4. **Pattern Breaking** (1): Phá Vỡ Mẫu Hình - Provocative Operations
+2. **Structured Creative Frameworks** (3): Khung Sáng Tạo Có Cấu Trúc - Six Thinking Hats, Attribute Listing, Morphological Analysis
+6. **SCAMPER** (3): Phương Pháp SCAMPER - Six Thinking Hats, Attribute Listing, Morphological Analysis
+3. **Questioning & Reframing Techniques** (5): Kỹ Thuật Đặt Câu Hỏi & Tái Khung - Reverse Brainstorming, Questioning Techniques, Assumption Reversing, Question Burst, Creative Problem Definition
+4. **Association & Conceptual Synthesis** (4): Liên Tưởng & Tổng Hợp Khái Niệm - Bisociation, Conceptual Blending, Synectics, Forcing Connections
+19. **Analogical Thinking** (1): Tư Duy Tương Tự [Công Cụ Sáng Tạo] - Forcing Connections
+5. **Visual & Spatial Methods** (5): Phương Pháp Thị Giác & Không Gian - Mind Mapping, Visualization, Storyboarding, Doodling & Sketching, Negative Space Thinking
+6. **Collaborative Intelligence Methods** (5): Phương Pháp Trí Tuệ Cộng Tác - Dialogue & Conversation, The Gallery Walk, Crowdsourcing Ideas, Improv Techniques, "Yes, and..." Thinking
+27. **Brainstorming & Brainwriting** (5): Động Não & Viết Não - Dialogue & Conversation, The Gallery Walk, Crowdsourcing Ideas, Improv Techniques, "Yes, and..." Thinking
+7. **Perspective, Simulation & Exploration** (6): Quan Điểm, Mô Phỏng & Khám Phá - Role Playing & Empathy Mapping, Biomimicry, Science Fiction Prototyping, Alternative Thinking, Thought Experiment Design, Mental Simulation
+8. **Flow, Momentum & Discovery** (6): Dòng Chảy, Động Lực & Khám Phá - Inspiration Overdrive, Ideation Explosion, Combinatorial Play, Incubation, Idea Quotas, Serendipity Engineering
+9. **Creative Expression & Meta-Integration** (4): Biểu Đạt Sáng Tạo & Tích Hợp Meta - The Master Generative Skill, Sonic Storytelling, Writing as Spiritual Practice, Teaching Artistry
+
+---
 
 ### **1. Core Lateral & Disruptive Methods - Phương Pháp Tư Duy Ngang & Phá Vỡ Cốt Lõi**
 
@@ -11899,6 +12158,27 @@ Hình thức báo chí tập trung vào các giải pháp thay vì chỉ vấn �
 
 Phát triển khả năng sáng tạo như một quá trình tiến hóa liên tục, kết hợp với việc nuôi dưỡng và tin tưởng vào trực giác - nguồn sáng tạo sâu thẳm từ tiềm thức và kinh nghiệm tích lũy.
 
+Bao gồm 61 khái niệm được tổ chức thành 16 nhóm chủ đề:
+
+1. **Intuition & Subconscious Methods** (4): Trực Giác & Phương Pháp Tiềm Thức - Intuition Development, Sleep & Dreams, Active Imagination & Dreams, Channeling Protocols
+2. **Creative Practices & Mindful States** (6): Thực Hành Sáng Tạo & Trạng Thái Tỉnh Thức - Creative Rituals, Solitude & Reflection, Playful Experimentation, Meditation & Mindfulness, Walking & Movement, Nature Immersion
+3. **Learning & Skill Development** (4): Học Tập & Phát Triển Kỹ Năng - Cross-Domain Learning, Inspiration Curation, Tool Mastery, Context Shifting
+4. **Creative States & Breakthrough Moments** (5): Trạng Thái Sáng Tạo & Khoảnh Khắc Đột Phá - Learning States, Analytical States, Hypercreative States, Inspiration Burst, Idea Explosion
+5. **Creative Rhythms & Cycles** (6): Nhịp Điệu & Chu Kỳ Sáng Tạo - Divergent-Convergent Cycling, Creative Momentum Building, Creative Constraints, Dynamic Structures - Loop, Dynamic Structures - Spiral, Dynamic Structures - Wave
+24. **Dynamic Structures** (2): Loop - Dynamic Structures - Spiral, Dynamic Structures - Wave
+25. **Dynamic Structures** (1): Spiral - Dynamic Structures - Wave
+6. **Growth Through Feedback & Connection** (5): Phát Triển Qua Phản Hồi & Kết Nối - Mistake Embracing, Conversation & Dialogue, Creative Feedback Loops, Authenticity & Voice, Creative Evolution Tracking
+7. **Creative Forces & Field Dynamics** (6): Lực Sáng Tạo & Động Lực Trường - Dynamic Structures - Field, Creative Forces - Attraction, Creative Forces - Repulsion, Creative Forces - Friction, Creative Forces - Elasticity, Creative Forces - Inertia
+32. **Dynamic Structures** (5): Field - Creative Forces - Attraction, Creative Forces - Repulsion, Creative Forces - Friction, Creative Forces - Elasticity, Creative Forces - Inertia
+33. **Creative Forces** (4): Attraction - Creative Forces - Repulsion, Creative Forces - Friction, Creative Forces - Elasticity, Creative Forces - Inertia
+34. **Creative Forces** (3): Repulsion - Creative Forces - Friction, Creative Forces - Elasticity, Creative Forces - Inertia
+35. **Creative Forces** (2): Friction - Creative Forces - Elasticity, Creative Forces - Inertia
+36. **Creative Forces** (1): Elasticity - Creative Forces - Inertia
+8. **Source Energy & Emergence** (3): Năng Lượng Nguồn & Nổi Lên - Zero Point Energy, Emergence Properties, Self-Organization
+9. **Esoteric & Spiritual Traditions** (4): Truyền Thống Huyền Bí & Tâm Linh - Tantric Transformation, Taoist Inner Alchemy, Gnostic Emanations, Celtic Bardic Arts
+
+---
+
 
 ### **1. Intuition & Subconscious Methods - Trực Giác & Phương Pháp Tiềm Thức**
 
@@ -12940,6 +13220,19 @@ Khám phá các hình thức truyền thông và biểu đạt mới nổi.
 ### **Tổng Quan**
 
 Các phương pháp và công cụ có cấu trúc cao để hệ thống hóa quá trình sáng tạo - biến nghệ thuật thành khoa học có thể lặp lại và dạy được. Kết hợp cả trực giác và phân tích.
+
+Bao gồm 41 khái niệm được tổ chức thành 8 nhóm chủ đề:
+
+1. **Core Design Tools & Frameworks** (4): Các Công Cụ & Framework Cốt Lõi - Design Thinking Framework, SCAMPER Framework, Double Diamond Framework, Integrated Innovation Toolkit
+3. **TRIZ** (2): Theory of Inventive Problem Solving - Double Diamond Framework, Integrated Innovation Toolkit
+2. **Advanced Design Methods** (5): Phương Pháp Thiết Kế Nâng Cao - Biomimetic Reasoning, Artificial Life, Synthetic Biology, Molecular Machines Design, Metamaterials Engineering
+3. **Applied Creative Arts** (7): Nghệ Thuật Sáng Tạo Ứng Dụng - Composition & Songwriting, Choreography, Screenplay Writing, Generative Art, Experimental Forms, Icon Painting Meditation, Calligraphy Practice
+4. **Creative Therapies & Healing** (6): Liệu Pháp Sáng Tạo & Chữa Lành - Creative Therapies, Sound & Vibration Healing, Movement Medicine, Theater of the Oppressed, Light & Color Therapies, Water & Fluid Energy
+5. **Sacred & Contemplative Art** (7): Nghệ Thuật Thiêng Liêng & Chiêm Nghiệm - Sacred Art & Mandala Creation, Sound Creation & Sacred Music, Movement as Art Practice, Sound Sculpture, Vibrational Therapy Design, Algorithmic Sacred Music, Binaural Beat Meditation
+6. **Innovation & Community** (9): Đổi Mới & Cộng Đồng - Educational Innovation, Gamification, Flipped Classroom, Community Art Practice, Eco-Art & Land Art, Digital Sacred Art, VR Meditation Environments, Meta-Creative Practice, Structured Water Creation
+38. **Meta-Creative Practice**** (1): Thực Hành Siêu Sáng Tạo - Structured Water Creation
+
+---
 
 ### **1. Core Design Tools & Frameworks - Các Công Cụ & Framework Cốt Lõi**
 
@@ -16423,6 +16716,24 @@ _Miền này chứa đựng các phương pháp, thực hành và nguyên lý đ
 
 Chức năng này tập trung vào các phương pháp để thu thập, kết nối và tổng hợp thông tin, dữ liệu và tri thức từ nhiều nguồn khác nhau thành một hệ thống hiểu biết mạch lạc.
 
+Bao gồm 54 khái niệm được tổ chức thành 13 nhóm chủ đề:
+
+1. **Core Synthesis Methods** (4): Phương Pháp Tổng Hợp Cốt Lõi - Synthesis, Comparative Analysis, Pattern Synthesis, Meta-Synthesis
+2. **Consilience** (3): Sự Hội Quy [Công Cụ Tổng Hợp] - Comparative Analysis, Pattern Synthesis, Meta-Synthesis
+2. **Systems Integration** (4): Tích Hợp Hệ Thống - Living Systems Integration, System of Systems Thinking, Technology-Humanity Integration, Global Brain Integration
+3. **Cultural & Social Integration** (5): Tích Hợp Văn Hóa & Xã Hội - Value System Integration, Worldview Integration, Cultural Integration, Historical Integration, Collective Sensemaking
+4. **Knowledge & Data Integration** (4): Tích Hợp Tri Thức & Dữ Liệu - Data Integration & Analysis, Semantic Integration, Knowledge Graph Construction, Transdisciplinary Framework
+5. **Experiential & Temporal Integration** (5): Tích Hợp Trải Nghiệm & Thời Gian - Narrative Integration, Temporal Integration, Multi-Modal Learning, Memetic Integration, Cognitive Cartography
+6. **Foundational Methods** (4): Phương Pháp Nền Tảng - Feynman Technique, Zettelkasten Method, Progressive Summarization, Knowledge Synthesis Protocol
+7. **Thinking Modes** (5): Các Chế Độ Tư Duy - Dialectical Thinking, Holistic Integration Thinking, Integral Thinking, Integrative Reasoning, Holographic Reasoning
+30. **Both/And Thinking** (4): Tư Duy Cả Hai [Công Cụ Tổng Hợp] - Holistic Integration Thinking, Integral Thinking, Integrative Reasoning, Holographic Reasoning
+34. **Transdisciplinary Reasoning** (1): Suy Luận Xuyên Ngành [Nguyên Tắc & Mục Tiêu] - Holographic Reasoning
+8. **Creative Bridging** (7): Kết Nối Sáng Tạo - Conceptual Bridging, Analogical Transfer, Hybrid Thinking, Interdisciplinary Fusion, Fusion Methodology, Creative Alchemy, Synthesis Protocols
+9. **Knowledge Architecture** (4): Kiến Trúc Tri Thức - Second Brain Systems, Knowledge Graphs, Semantic Networks, Thought Scaffolding
+10. **Wisdom Traditions** (4): Truyền Thống Trí Tuệ - Vedanta Synthesis, Neo-Confucian Integration, Syncretic Traditions, Sufi Poetry/Love Synthesis
+
+---
+
 ### **1. Core Synthesis Methods - Phương Pháp Tổng Hợp Cốt Lõi**
 
 Các phương pháp liên quan đến phương pháp tổng hợp cốt lõi.
@@ -17157,6 +17468,25 @@ Biểu đạt trải nghiệm huyền bí thông qua thơ ca và biểu tượng
 
 Chức năng này chứa các thực hành để hợp nhất các khía cạnh khác nhau của bản thể—lý trí, cảm xúc, cơ thể, bóng tối, tâm linh—thành một con người toàn vẹn và hài hòa.
 
+Bao gồm 54 khái niệm được tổ chức thành 14 nhóm chủ đề:
+
+1. **Inner Self & Psyche Integration** (5): Tích Hợp Tự Ngã & Tâm Lý - Shadow Integration, Inner Dialogue Harmonization, Subpersonality Integration, Archetypal Integration, Ancestral Integration
+2. **Body-Emotion Synthesis** (4): Tổng Hợp Cơ Thể-Cảm Xúc - Embodied Cognition, Emotional Alchemy, Cognitive-Affective Integration, Trauma Integration
+3. **Temporal & Developmental Integration** (3): Tích Hợp Thời Gian & Phát Triển - Peak Experience Integration, Temporal Self-Integration, Developmental Stage Integration
+4. **Polarity & Paradox Mastery** (4): Làm Chủ Cực Tính & Nghịch Lý - Masculine-Feminine Integration, Spiritual-Mundane Integration, Inner-Outer World Integration, Paradox Integration
+5. **Practical Life Coherence** (4): Mạch Lạc Đời Sống Thực Tiễn - Work-Life Integration, Value Clarification & Integration, Skill Integration, Habit Integration
+6. **Structural Patterns** (4): Mẫu Hình Cấu Trúc - Network Structure, Hierarchy Structure, Matrix Structure, Fractal Structure
+7. **System Dynamics** (5): Động Lực Hệ Thống - Dynamic Balance, Structure ↔ Flexibility Polarity, Integrative States, Ecosystem Dynamics, Field Coherence Mastery
+30. **Cognitive Load Management** (2): Quản Lý Tải Nhận Thức [Trong Tích Hợp Hệ Thống] - Ecosystem Dynamics, Field Coherence Mastery
+8. **Thinking Systems** (4): Hệ Thống Tư Duy - Systems Biology Thinking, Morphic Resonance Tuning, Dimensional Folding, Fractal Wisdom Navigation
+33. **Network Thinking** (4): Tư Duy Mạng Lưới - Systems Biology Thinking, Morphic Resonance Tuning, Dimensional Folding, Fractal Wisdom Navigation
+34. **Fractal Thinking** (4): Tư Duy Phân Dạng [Công Cụ Tổng Hợp] - Systems Biology Thinking, Morphic Resonance Tuning, Dimensional Folding, Fractal Wisdom Navigation
+9. **Unification Theories** (5): Các Lý Thuyết Thống Nhất - Unified Field Theories, Theory of Everything, M-Theory, The Unified Field (Consciousness), Gaia Hypothesis
+43. **Holographic Principle** (1): Nguyên Lý Toàn Ảnh [Công Cụ Tích Hợp Hệ Thống] - Gaia Hypothesis
+10. **Cognitive Tools** (5): Công Cụ Nhận Thức - Cognitive Prosthetics, Extended Mind Thesis, Network Theory, Category Theory, Holographic Universe Framework
+
+---
+
 ### **1. Inner Self & Psyche Integration - Tích Hợp Tự Ngã & Tâm Lý**
 
 Các khái niệm và nguyên lý về tích hợp tự ngã & tâm lý.
@@ -17884,6 +18214,23 @@ Mô hình xem vũ trụ như một toàn ảnh.
 ### **Tổng Quan**
 
 Chức năng này chứa các nguyên tắc, khung và phương pháp để kết hợp các hệ thống, mô thức và thế giới quan khác nhau thành các cấu trúc lớn hơn, phức tạp và mạch lạc hơn.
+
+Bao gồm 19 khái niệm được tổ chức thành 12 nhóm chủ đề:
+
+5. **Unity Principles** (1): Nguyên Lý Thống Nhất - Indra's Net
+21. **Include and Transcend** (1): Bao Gồm và Vượt Qua - Indra's Net
+22. **Universal Connection** (1): Kết Nối Phổ Quát - Indra's Net
+23. **Unity in Diversity** (1): Thống Nhất Trong Đa Dạng - Indra's Net
+6. **Bridging Methods** (2): Phương Pháp Kết Nối - Cross-Domain Bridging, Cross-Domain Integration Method
+26. **Analogical Thinking** (2): Tư Duy Tương Tự [Phương Pháp Kết Nối] - Cross-Domain Bridging, Cross-Domain Integration Method
+27. **Metaphorical Thinking** (2): Tư Duy Ẩn Dụ - Cross-Domain Bridging, Cross-Domain Integration Method
+7. **Cross-Domain Validation** (3): Xác Thực Xuyên Lĩnh Vực - Multi-Scale Validation, Temporal Integration Validation, Stakeholder Validation
+30. **Cross-Domain Validation** (3): Xác Thực Xuyên Lĩnh Vực - Multi-Scale Validation, Temporal Integration Validation, Stakeholder Validation
+8. **Paradox Navigation** (1): Điều Hướng Nghịch Lý - Dialectical Transcendence
+34. **Paradox Mastery** (1): Thành Thạo Nghịch Lý - Dialectical Transcendence
+35. **Paradox Mapping** (1): Lập Bản Đồ Nghịch Lý - Dialectical Transcendence
+
+---
 
 ### **1. Meta-Integration Frameworks - Khung Siêu Tích Hợp**
 
@@ -18718,6 +19065,25 @@ Kết hợp thế giới vật lý và kỹ thuật số.
 ### **Tổng Quan**
 
 Chức năng này tập trung vào các phương pháp và thực hành để kết nối con người, ý tưởng và hệ thống thông qua giao tiếp, hợp tác và tạo ý nghĩa chung.
+
+Bao gồm 71 khái niệm được tổ chức thành 14 nhóm chủ đề:
+
+1. **Dialogue & Collective Wisdom** (4): Đối Thoại & Trí Tuệ Tập Thể - Dialogue, Dialogue Integration, Wisdom Councils, Collective Wisdom
+2. **Collective Sensemaking** (3): Cùng Nhau Cảm Nhận Ý Nghĩa - Dialogue Integration, Wisdom Councils, Collective Wisdom
+2. **Collaborative Problem-Solving & Innovation** (3): Giải Quyết Vấn Đề & Đổi Mới Cộng Tác - Collaborative Problem-Solving, Design Thinking (Collaborative), Co-Creation & Participatory Design
+8. **Open Innovation** (1): Đổi Mới Mở [Trí Tuệ Cộng Tác] - Co-Creation & Participatory Design
+9. **Crowdsourcing** (1): Khai Thác Đám Đông - Co-Creation & Participatory Design
+3. **Team & Group Dynamics** (6): Động Lực Nhóm & Đội - Facilitation & Group Process, Team Synergy, Cross-Functional Collaboration, Team Alchemy, Group Process Work, Community Dynamics
+4. **Learning & Knowledge Communities** (6): Cộng Đồng Học Tập & Tri Thức - Peer Learning & Communities of Practice, Knowledge Commons, Community of Practice, Community Practice Circles, Learning Multiplication, Experience Multiplication
+5. **Organizational Governance** (6): Mô Hình Quản Trị Tổ Chức - Holocracy & Self-Management, Distributed Leadership, Agile & Scrum, Appreciative Inquiry, Sociocracy & Consent Decision-Making, Collective Leadership
+6. **Networked Collaboration** (5): Cộng Tác Mạng Lưới - Networked Collaboration, Relational Coordination, Partnership Leverage, Ecosystem Orchestration, Collaborative Integration
+7. **Collective & Distributed Intelligence** (8): Trí Tuệ Tập Thể & Nhận Thức Phân Tán - Collective Intelligence (System), Swarm Intelligence Integration, Hive Mind Optimization, Global Brain Interface, AI Thinking Partners, Distributed Cognition, Extended Mind Thesis (Collaborative), Collective Intelligence Taps
+34. **Swarm Intelligence** (8): Trí Tuệ Bầy Đàn [Trong Cộng Tác Con Người] - Collective Intelligence (System), Swarm Intelligence Integration, Hive Mind Optimization, Global Brain Interface, AI Thinking Partners, Distributed Cognition, Extended Mind Thesis (Collaborative), Collective Intelligence Taps
+8. **Community Building & Social Cohesion** (6): Xây Dựng Cộng Đồng & Gắn Kết Xã Hội - Community Building [Tạo Sự Gắn Kết], Cultural Integration (Community), Social Cohesion, Restorative Justice Circles, Community Integration Protocol, Collective Intelligence Protocols
+9. **Relational Field & Sacred Relationships** (7): Trường Quan Hệ & Mối Quan Hệ Thiêng Liêng - Interpersonal Integration, Family System Integration, Global Integration, Family & Ancestral Healing, Sacred Relationship Work, Sacred Relationship Practice, Relational Field
+10. **Synergistic Value Creation** (7): Tạo Giá Trị Hiệp Lực - Group Decision Making, Synergy (Collaborative), Complementarity (Collaborative), Integration Magic, Fusion Dynamics, Multi-Stakeholder Value, Value Chain Innovation
+
+---
 
 ### **1. Dialogue & Collective Wisdom - Đối Thoại & Trí Tuệ Tập Thể**
 
@@ -22569,6 +22935,21 @@ _Miền này khám phá các nguyên lý và cơ chế tạo ra sự tăng trư�
 
 Chức năng này tập trung vào việc xây dựng và tận dụng các hiệu ứng mạng lưới - nơi giá trị tăng lên theo số lượng người dùng. Đây là động lực khuếch đại mạnh mẽ nhất trong kỷ nguyên kết nối.
 
+Bao gồm 43 khái niệm được tổ chức thành 10 nhóm chủ đề:
+
+1. **Core Network Effect Theory** (2): Lý Thuyết Hiệu Ứng Mạng Cốt Lõi - Network Effects, Metcalfe's Law & Reed's Law
+2. **Network Structure & Formation** (2): Cấu Trúc & Hình Thành Mạng Lưới - Preferential Attachment, Platform Dynamics
+3. **Growth & Viral Dynamics** (7): Động Lực Tăng Trưởng & Lan Truyền - Community Building [Động Cơ Tăng Trưởng], Data Network Effects, Marketplace Dynamics, Viral Coefficient, Social Proof, Switching Costs, Multi-Homing Costs
+4. **Network Effect Types** (5): Các Loại Hiệu Ứng Mạng - Direct Network Effects, Indirect Network Effects, Local Network Effects, Asymmetric Network Effects, Negative Network Effects
+5. **Special Network Contexts** (6): Bối Cảnh Mạng Lưới Đặc Biệt - Protocol Networks, Language Network Effects, Bandwagon Network Effects, Personal Network Effects, Market Network Effects, Hardware-Software Symbiosis
+6. **Scaling & Resilience** (3): Mở Rộng Quy Mô & Khả Năng Phục Hồi - Scalability Strategies, Network Resilience, Meta-Network Mastery
+7. **Network Elements & Topology** (7): Thành Tố & Hình Thái Mạng Lưới - Node, Network Density, Network Centrality, Structural Holes, Network Intelligence, Network Evolution, Information Brokerage
+8. **Connection Dynamics** (4): Động Lực Kết Nối - Weak Tie Power, Strong Tie Depth, Small World Effects, Network Contagion
+9. **Digital & Social Networks** (2): Mạng Lưới Số & Mạng Xã Hội - Social Media Leverage, Social Network Effects
+10. **Strategic Network Positioning** (5): Định Vị Mạng Lưới Chiến Lược - Hub Creation, Bridge Positioning, Weak Tie Exploitation, Build Unusual Networks, Network Effect Optimization
+
+---
+
 ### **1. Core Network Effect Theory - Lý Thuyết Hiệu Ứng Mạng Cốt Lõi**
 
 Các lý thuyết liên quan đến lý thuyết hiệu ứng mạng cốt lõi.
@@ -23049,6 +23430,20 @@ Thiết kế và quản lý có chủ đích để tối đa hóa hiệu ứng m
 
 Chức năng này tập trung vào việc sử dụng đòn bẩy để tạo ra kết quả lớn từ đầu vào nhỏ - nghệ thuật của "làm nhiều hơn với ít hơn".
 
+Bao gồm 36 khái niệm được tổ chức thành 9 nhóm chủ đề:
+
+1. **Core Leverage Principles** (4): Nguyên Lý Đòn Bẩy Cốt Lõi - Compounding, 80/20 Principle (Pareto), Automation & Delegation, Economies of Scale
+2. **Leverage** (3): Đòn Bẩy [Công Cụ Khuếch Đại] - 80/20 Principle (Pareto), Automation & Delegation, Economies of Scale
+2. **Replication & Systems Leverage** (3): Đòn Bẩy Sao Chép & Hệ Thống - Standardization & Replication, Tools & Technology, Code & Software Leverage
+3. **Content & Capital Leverage** (2): Đòn Bẩy Nội Dung & Vốn - Media & Content Leverage, Capital Leverage
+4. **Strategic Positioning Leverage** (3): Đòn Bẩy Định Vị Chiến Lược - Information Asymmetry, Positioning & Branding, Strategic Alliances & Partnerships
+5. **Knowledge & Learning Leverage** (3): Đòn Bẩy Tri Thức & Học Tập - Mentorship & Modeling, Time Leverage, The Master Leverager
+15. **Frameworks & Mental Models** (2): Khung Tư Duy & Mô Hình Tâm Thần [Công Cụ Đòn Bẩy] - Time Leverage, The Master Leverager
+6. **Human & Social Leverage** (5): Đòn Bẩy Con Người & Xã Hội - Teaching Leverage, Leadership Catalysis, Mentorship Multiplication, Influence Amplification, Connector Power
+7. **Advanced Optimization & Energy Leverage** (11): Đòn Bẩy Tối Ưu Hóa & Năng Lượng Tiên Tiến - Constraints as Leverage, Energy Field Management, Presence as Influence, Silence as Statement, Electromagnetic & Subtle Energy Devices, Plasma & Photonic Medicine, Linear Optimization, Non-linear Optimization, Combinatorial Optimization, Multi-Objective Optimization, Robust Optimization
+
+---
+
 ### **1. Core Leverage Principles - Nguyên Lý Đòn Bẩy Cốt Lõi**
 
 Các nguyên lý liên quan đến nguyên lý đòn bẩy cốt lõi.
@@ -23498,6 +23893,19 @@ Tìm giải pháp hoạt động tốt ngay cả khi có sự không chắc ch�
 ### **Tổng Quan**
 
 Chức năng này tập trung vào các cơ chế giúp ý tưởng, nội dung, hoặc sản phẩm lan truyền như virus - tự nhân rộng thông qua hành vi của người dùng.
+
+Bao gồm 44 khái niệm được tổ chức thành 8 nhóm chủ đề:
+
+1. **Core Viral Mechanisms** (6): Cơ Chế Lan Truyền Cốt Lõi - Viral Mechanics, Memetics & Idea Replication, Cultural Transmission, Influencer Leverage, Bandwagon Effect, Social Contagion
+2. **Cascade & Amplification Dynamics** (5): Động Lực Tầng Thác & Khuếch Đại - Cascade Effects, Word of Mouth, Shareable Content Design, Emotional Triggers, Storytelling as Amplifier
+3. **Psychological Triggers & Trends** (6): Kích Hoạt Tâm Lý & Xu Hướng - FOMO (Fear of Missing Out), Trend Amplification, Meme Engineering, Viral Loops, Growth Hacking, Referral Mechanics
+4. **Tipping Point & Critical Mass** (7): Điểm Bùng Phát & Khối Lượng Tới Hạn - Momentum Building, Tipping Dynamics, Tipping Point Engineering, Avalanche Dynamics, Chain Reaction Mastery, Cascade Initiation, Tipping Point Sensing
+5. **Content & Cultural Propagation** (7): Lan Truyền Nội Dung & Văn Hóa - Viral Marketing, Viral Content, Meme Propagation, Cultural Diffusion, Memetic Engineering, Narrative Architecture, Creative Momentum
+6. **Mass Distribution Systems** (5): Hệ Thống Phân Phối Đại Chúng - Mass Communication & Media, Broadcasting & Distribution, Public Health Campaigns, Political Campaigns, Distance & Non-Local Healing
+7. **Reality & Discourse Shifting** (4): Chuyển Dịch Thực Tại & Diễn Ngôn - Reality Tunnel Adjustment, Overton Window Shifting, Paradigm Seed Planting, Question Deployment
+8. **Social Coordination Principles** (4): Nguyên Lý Phối Hợp Xã Hội - Girard's Mimetic Razor, Veblen's Razor, Zahavian Handicap, Schelling Point
+
+---
 
 ### **1. Core Viral Mechanisms - Cơ Chế Lan Truyền Cốt Lõi**
 
@@ -23996,6 +24404,22 @@ Giải pháp mà mọi người tự nhiên hội tụ khi không có giao tiế
 ### **Tổng Quan**
 
 Chức năng này tập trung vào việc hiểu và tạo ra các mẫu hình tăng trưởng theo cấp số nhân - nơi tốc độ tăng trưởng tỷ lệ với kích thước hiện tại.
+
+Bao gồm 59 khái niệm được tổ chức thành 11 nhóm chủ đề:
+
+1. **Core Exponential Principles** (12): Nguyên Lý Cấp Số Nhân Cốt Lõi - Exponential Technology Growth, Moore's Law, S-Curves & Technology Adoption, Learning Curve, Positive Reinforcement, Recursive Self-Improvement, Data Flywheel, Amplification Spirals, Virtuous Cycles, Momentum, Cumulative Advantage, Matthew Effect
+5. **Feedback Loops** (8): Vòng Lặp Phản Hồi [Động Cơ Tăng Trưởng] - Positive Reinforcement, Recursive Self-Improvement, Data Flywheel, Amplification Spirals, Virtuous Cycles, Momentum, Cumulative Advantage, Matthew Effect
+2. **Scaling Dynamics** (2): Động Lực Mở Rộng Quy Mô - Power Laws, Winner-Take-All Dynamics
+3. **Replication & Reproduction** (5): Sao Chép & Sinh Sản - Exponential, Exponential Thinking, Compound Effect Mastery, Fractals, Iteration
+4. **Momentum & Acceleration** (3): Quán Tính & Gia Tốc - Fractal Growth, L-System Creativity, Recursive Patterns
+5. **Emergent & Nonlinear Patterns** (4): Mẫu Xuất Hiện & Phi Tuyến - Feedback Acceleration, Process Acceleration, Amplification Systems, System Catalysis
+6. **Recursive & Fractal Structures** (4): Cấu Trúc Đệ Quy & Fractal - Scale What Works, Innovation Scaling, Educational Scaling, The Many
+28. **Replication** (4): Sao Chép [Cơ Chế Tăng Trưởng] - Scale What Works, Innovation Scaling, Educational Scaling, The Many
+7. **Long-term Evolution** (5): Tiến Hóa Dài Hạn - Activation Energy, Trigger Points, Catalyst, Catalyst Identification, Growth Catalysis
+8. **Intergenerational & Multi-Scale** (8): Liên Thế Hệ & Đa Quy Mô - Emergence Acceleration, Emergence Riding, Capability Emergence, Potential Actualization, Collective Intelligence Surfing, Abundance Mindset, Regenerative Practice, Intergenerational Amplification
+42. **Swarm Intelligence** (4): Trí Tuệ Bầy Đàn [Động Cơ Khuếch Đại] - Collective Intelligence Surfing, Abundance Mindset, Regenerative Practice, Intergenerational Amplification
+
+---
 
 ### **1. Core Exponential Principles - Nguyên Lý Cấp Số Nhân Cốt Lõi**
 
@@ -24524,6 +24948,21 @@ Cơ chế nhân rộng tác động qua nhiều thế hệ - mỗi thế hệ x�
 ### **Tổng Quan**
 
 Chức năng này tập trung vào việc xây dựng các nền tảng và hệ sinh thái - nơi nhiều bên tạo ra và trao đổi giá trị.
+
+Bao gồm 58 khái niệm được tổ chức thành 10 nhóm chủ đề:
+
+1. **Core Platform Principles** (7): Nguyên Lý Nền Tảng Cốt Lõi - Platform Effects, API Economy, Ecosystem Design, Complementary Assets, Stack Effects, Open Source Leverage, Developer Platform
+2. **Marketplace & Business Models** (4): Mô Hình Thị Trường & Kinh Doanh - Marketplace Design, Franchising, Education as a Multiplier, Community-Led Growth
+3. **Platform Architecture & Design** (2): Kiến Trúc & Thiết Kế Nền Tảng - Synergistic Systems, Master Platform Builder
+4. **Ecosystem Development & Community** (7): Phát Triển Hệ Sinh Thái & Cộng Đồng - Platform Catalysis, Metaverse Multiplication, Ecosystem Development, Movement Building, Community Intelligence, Engagement Mechanics, Wisdom Council Practices
+5. **Innovation Systems** (5): Hệ Thống Đổi Mới - Innovation Catalysis, Systematic Innovation, Platform Architecture Design, Design Sprint, Jobs-to-be-Done Platform Design
+25. **Open Innovation** (3): Đổi Mới Mở [Xây Dựng Nền Tảng] - Platform Architecture Design, Design Sprint, Jobs-to-be-Done Platform Design
+6. **Generative & Creative Systems** (5): Hệ Thống Tạo Sinh & Sáng Tạo - Generative Design, Creative Algorithms, Procedural Creation, Prototype Rapidly, Fail Interestingly
+7. **Creative Distribution & Legacy** (14): Phân Phối Sáng Tạo & Di Sản - Festival Circuits, Gallery Systems, Publishing Platforms, Streaming Services, Social Media Arts, Teaching & Transmission, Lineage & Legacy Work, Service as Practice, Missionary Traditions, Dharma Spreading, Spiritual Movement Building, Sacred Activism, Sacred Content Virality, Community Art Practice
+8. **Technology Integration** (5): Tích Hợp Công Nghệ - AI-Augmented Integration, Digital Knowledge Garden, VR/AR Integration, Biofeedback Integration, Quantified Self Integration
+9. **Sacred & Consciousness Amplification** (6): Khuếch Đại Thiêng Liêng & Ý Thức - Universal Force Fields, Superconductors, Synergy Multiplication, Reality Consensus Hacking, Synchronicity Creation, Pattern Interrupt
+
+---
 
 ### **1. Core Platform Principles - Nguyên Lý Nền Tảng Cốt Lõi**
 
@@ -27744,6 +28183,18 @@ Sử dụng các tần số âm thanh và rung động cụ thể cho mục đí
 ### **Tổng Quan**
 
 Quá trình tinh luyện kinh nghiệm, hiểu biết và thực hành thành những nguyên tắc trí tuệ sống động, có thể truyền đạt và có thể áp dụng. Đây là nghệ thuật biến tri thức thành trí tuệ, và trí tuệ thành sự sống.
+
+Bao gồm 59 khái niệm được tổ chức thành 7 nhóm chủ đề:
+
+2. **Pure Awareness States** (7): Các Trạng Thái Nhận Thức Thuần Túy - Emptiness Wisdom, Fullness Wisdom, Primordial Wisdom, Living Wisdom, Flow Consciousness, Pure Awareness, The Eternal Now
+27. **Void Navigation** (1): Điều Hướng Hư Không - The Eternal Now
+3. **Ultimate Testing** (9): Các Thử Nghiệm Tối Hậu - Pragmatic Ultimate Test, Coherence Ultimate Test, Resilience Ultimate Test, Evolution Ultimate Test, Wisdom Ultimate Test, Beginner's Navigation, Master's Navigation, Empty Navigation, Ultimate Navigation
+34. **Wu Wei Navigation** (4): Điều Hướng Vô Vi [Cảnh Giới Tối Cao] - Beginner's Navigation, Master's Navigation, Empty Navigation, Ultimate Navigation
+4. **Quantum Consciousness** (9): Ý Thức Lượng Tử - Quantum Consciousness, Non-local Awareness, Omniscient Glimpses, Omniscience Architecture, Oracle Functions, Collapsing Wave Possibilities, Cross-domain Entanglement, Conceptual Tunneling, Probability Amplitude Navigation
+5. **Shadow & Hidden Patterns** (11): Bóng Tối Và Các Mẫu Hình Ẩn - Negative Space Patterns, Silence Between Words, Implicit Assumptions, Shadow Projections, Collective Unconscious Forms, Dark Knowledge, Anti-patterns, Meta-patterns, Future Memory, Time Fractals, Time Loop Navigation
+6. **Knowledge Access** (18): Truy Cập Tri Thức - Noetic Science Exploration, Akashic Records Access, Post-modern Philosophy, Morphogenetic Field Work, Mystical Experiences, Hard Problem of Consciousness, Śūnyatā, Fana & Baqa, Liberation, Effortless Mastery, Retreat & Intensive Forms, Crisis as Initiation, Spiritual Emergency Support, Death as Teacher, Master Development Path, Meta-Practice, Loving-Kindness/Metta, Microdosing Protocols
+
+---
 
 ### **1. Các Nguyên Lý Sống Với Trí Tuệ**
 
