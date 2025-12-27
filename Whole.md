@@ -16005,7 +16005,7 @@ _Miền này chứa đựng các phương pháp, thực hành và nguyên lý đ
 
 Chức năng này tập trung vào các phương pháp để thu thập, kết nối và tổng hợp thông tin, dữ liệu và tri thức từ nhiều nguồn khác nhau thành một hệ thống hiểu biết mạch lạc.
 
-### **1. Core Synthesis Methods - Phương Pháp Tổng Hợp Cốt Lõi (5 mục)**
+### **1. Core Synthesis Methods - Phương Pháp Tổng Hợp Cốt Lõi**
 
 #### **1. Synthesis** - Tổng Hợp
 
@@ -16088,7 +16088,7 @@ Quá trình tổng hợp các kết quả từ nhiều nghiên cứu hoặc quan
 
 ---
 
-### **2. Systems Integration - Tích Hợp Hệ Thống (4 mục)**
+### **2. Systems Integration - Tích Hợp Hệ Thống**
 
 #### **6. Living Systems Integration** - Tích Hợp Hệ Thống Sống
 
@@ -16142,7 +16142,7 @@ Sự xuất hiện của một cấp độ trí tuệ tập thể cao hơn thôn
 
 ---
 
-### **3. Cultural & Social Integration - Tích Hợp Văn Hóa & Xã Hội (5 mục)**
+### **3. Cultural & Social Integration - Tích Hợp Văn Hóa & Xã Hội**
 
 #### **10. Value System Integration** - Tích Hợp Hệ Thống Giá Trị
 
@@ -16211,7 +16211,7 @@ Quá trình một nhóm người cùng nhau diễn giải và tạo ra ý nghĩa
 
 ---
 
-### **4. Knowledge & Data Integration - Tích Hợp Tri Thức & Dữ Liệu (4 mục)**
+### **4. Knowledge & Data Integration - Tích Hợp Tri Thức & Dữ Liệu**
 
 #### **15. Data Integration & Analysis** - Tích Hợp & Phân Tích Dữ Liệu
 
@@ -16265,7 +16265,7 @@ Một cách tiếp cận vượt qua ranh giới các ngành để tạo ra mộ
 
 ---
 
-### **5. Experiential & Temporal Integration - Tích Hợp Trải Nghiệm & Thời Gian (5 mục)**
+### **5. Experiential & Temporal Integration - Tích Hợp Trải Nghiệm & Thời Gian**
 
 #### **19. Narrative Integration** - Tích Hợp Tường Thuật
 
@@ -16332,7 +16332,7 @@ Việc lập bản đồ các cấu trúc và mối quan hệ của tri thức, 
 
 ---
 
-### **6. Foundational Methods - Phương Pháp Nền Tảng (5 mục)**
+### **6. Foundational Methods - Phương Pháp Nền Tảng**
 
 #### **24. Feynman Technique** - Kỹ Thuật Feynman
 
@@ -16404,7 +16404,7 @@ Khác với framework đơn lẻ ở OPERATIONS #24, đây là về TÍCH HỢP:
 
 ---
 
-### **7. Thinking Modes - Các Chế Độ Tư Duy (7 mục)**
+### **7. Thinking Modes - Các Chế Độ Tư Duy**
 
 #### **29. Dialectical Thinking** - Tư Duy Biện Chứng
 
@@ -16510,7 +16510,7 @@ Tư duy dựa trên nguyên lý toàn ảnh: mỗi phần chứa đựng thông 
 
 ---
 
-### **8. Creative Bridging - Kết Nối Sáng Tạo (8 mục)**
+### **8. Creative Bridging - Kết Nối Sáng Tạo**
 
 #### **36. Conceptual Bridging** - Kết Nối Khái Niệm
 
@@ -16605,7 +16605,7 @@ Quy trình có cấu trúc để tổng hợp thông tin và tri thức từ nhi
 
 ---
 
-### **9. Knowledge Architecture - Kiến Trúc Tri Thức (4 mục)**
+### **9. Knowledge Architecture - Kiến Trúc Tri Thức**
 
 #### **43. Second Brain Systems** - Hệ Thống Bộ Não Thứ Hai
 
@@ -16659,7 +16659,7 @@ Các cấu trúc hỗ trợ để phát triển và tổ chức tư duy.
 
 ---
 
-### **10. Wisdom Traditions - Truyền Thống Trí Tuệ (4 mục)**
+### **10. Wisdom Traditions - Truyền Thống Trí Tuệ**
 
 #### **47. Vedanta Synthesis** - Tổng Hợp Vedanta
 
@@ -16719,7 +16719,7 @@ Biểu đạt trải nghiệm huyền bí thông qua thơ ca và biểu tượng
 
 Chức năng này chứa các thực hành để hợp nhất các khía cạnh khác nhau của bản thể—lý trí, cảm xúc, cơ thể, bóng tối, tâm linh—thành một con người toàn vẹn và hài hòa.
 
-### **1. Inner Self & Psyche Integration - Tích Hợp Tự Ngã & Tâm Lý (5 mục)**
+### **1. Inner Self & Psyche Integration - Tích Hợp Tự Ngã & Tâm Lý**
 
 #### **1. Shadow Integration** - Tích Hợp Bóng Tối
 
@@ -16786,7 +16786,7 @@ Kết nối, hòa giải và học hỏi từ dòng dõi tổ tiên.
 
 ---
 
-### **2. Body-Emotion Synthesis - Tổng Hợp Cơ Thể-Cảm Xúc (4 mục)**
+### **2. Body-Emotion Synthesis - Tổng Hợp Cơ Thể-Cảm Xúc**
 
 #### **6. Embodied Cognition** - Nhận Thức Hiện Thân
 
@@ -16840,7 +16840,7 @@ Quá trình chữa lành và tích hợp các trải nghiệm chấn thương v�
 
 ---
 
-### **3. Temporal & Developmental Integration - Tích Hợp Thời Gian & Phát Triển (3 mục)**
+### **3. Temporal & Developmental Integration - Tích Hợp Thời Gian & Phát Triển**
 
 #### **10. Peak Experience Integration** - Tích Hợp Trải Nghiệm Đỉnh
 
@@ -16881,7 +16881,7 @@ Tích hợp các giai đoạn phát triển tâm lý khác nhau đã trải qua 
 
 ---
 
-### **4. Polarity & Paradox Mastery - Làm Chủ Cực Tính & Nghịch Lý (4 mục)**
+### **4. Polarity & Paradox Mastery - Làm Chủ Cực Tính & Nghịch Lý**
 
 #### **13. Masculine-Feminine Integration** - Tích Hợp Nam Tính-Nữ Tính
 
@@ -16935,7 +16935,7 @@ Khả năng giữ và hòa giải các ý tưởng, cảm xúc hoặc chân lý 
 
 ---
 
-### **5. Practical Life Coherence - Mạch Lạc Đời Sống Thực Tiễn (4 mục)**
+### **5. Practical Life Coherence - Mạch Lạc Đời Sống Thực Tiễn**
 
 #### **17. Work-Life Integration** - Tích Hợp Công Việc-Cuộc Sống
 
@@ -16989,7 +16989,7 @@ Xây dựng một hệ sinh thái các thói quen hỗ trợ lẫn nhau.
 
 ---
 
-### **6. Structural Patterns - Mẫu Hình Cấu Trúc (6 mục)**
+### **6. Structural Patterns - Mẫu Hình Cấu Trúc**
 
 #### **21. Network Structure** - Cấu Trúc Mạng Lưới
 
@@ -17074,7 +17074,7 @@ Cấu trúc có chứa bản thân nó như một phần - nguyên lý TỔ CH�
 
 ---
 
-### **7. System Dynamics - Động Lực Hệ Thống (6 mục)**
+### **7. System Dynamics - Động Lực Hệ Thống**
 
 #### **27. Dynamic Balance** - Cân Bằng Động
 
@@ -17161,7 +17161,7 @@ Khả năng tạo và duy trì sự mạch lạc trong các trường năng lư�
 
 ---
 
-### **8. Thinking Systems - Hệ Thống Tư Duy (6 mục)**
+### **8. Thinking Systems - Hệ Thống Tư Duy**
 
 #### **33. Network Thinking - Tư Duy Mạng Lưới** [Công Cụ Tích Hợp]
 
@@ -17272,7 +17272,7 @@ Khả năng nén thông tin phức tạp vào không gian thấp hơn.
 
 ---
 
-### **9. Unification Theories - Các Lý Thuyết Thống Nhất (6 mục)**
+### **9. Unification Theories - Các Lý Thuyết Thống Nhất**
 
 #### **39. Unified Field Theories** - Các Lý Thuyết Trường Thống Nhất
 
@@ -17354,7 +17354,7 @@ Trái Đất là một siêu sinh vật tự điều hòa.
 
 ---
 
-### **10. Cognitive Tools - Công Cụ Nhận Thức (5 mục)**
+### **10. Cognitive Tools - Công Cụ Nhận Thức**
 
 #### **45. Cognitive Prosthetics** - Bộ Phận Nhận Thức Giả
 
