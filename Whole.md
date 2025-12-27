@@ -28609,7 +28609,9 @@ Chức năng này tập trung vào khả năng quan sát hệ thống tư duy c�
 
 📌 **LƯU Ý:** Khái niệm "Second-order Cybernetics" trước đây có phiên bản "chi tiết" riêng (#25) nhưng đã được tích hợp vào khái niệm #37 ở CHỨC NĂNG 1: META-COGNITION & AWARENESS để tránh trùng lặp không cần thiết. Xem CHỨC NĂNG 1, khái niệm #37 để có thông tin đầy đủ về Second-order Cybernetics.
 
-### **Các Khái Niệm Cốt Lõi**
+---
+
+### **Nhóm 1: Core Self-Observation Methods - Phương Pháp Tự Quan Sát Cốt Lõi**
 
 #### **1. Self-Observation Protocol** - Quy Trình Tự Quan Sát
 
@@ -28710,6 +28712,10 @@ Quan sát và phân tích cuộc đối thoại nội tâm của bản thân.
 
 → **Liên kết:** INTEGRATION (Personal Integration), DYNAMICS (Self-Awareness).
 
+---
+
+### **Nhóm 2: System Dynamics & Ecology - Động Lực Hệ Thống & Sinh Thái**
+
 #### **10. Cognitive State Transitions** - Chuyển Đổi Trạng Thái Nhận Thức
 
 Quan sát cách tâm trí chuyển đổi giữa các trạng thái nhận thức khác nhau.
@@ -28743,7 +28749,9 @@ Nhận thức về môi trường tư duy - các công cụ, không gian và m�
 
 → **Liên kết:** NAVIGATION (Resource Management), AMPLIFICATION (Leverage Points).
 
-### **Nhóm Bổ Sung: Recursive Observation (5 mục mới)**
+---
+
+### **Nhóm 3: Recursive & Reflexive Observation - Quan Sát Đệ Quy & Phản Tư**
 
 #### **13. Observing** - Quan Sát (Cơ Bản)
 
@@ -28802,7 +28810,7 @@ Nghiên cứu sâu về cách quan sát ảnh hưởng đến hiện tượng đ
 
 ---
 
-### **Nhóm Bổ Sung: Learning Systems (5 mục mới)**
+### **Nhóm 4: Meta-Learning & Feedback Systems - Siêu Học Tập & Hệ Thống Phản Hồi**
 
 #### **18. Learning to Learn (System Focus)** - Học Cách Học (Tập Trung Hệ Thống)
 
@@ -28881,7 +28889,7 @@ Tích hợp thực hành thiền định vào QUÁ TRÌNH HỌC TẬP VÀ PHÁT 
 
 ---
 
-### **Nhóm Bổ Sung: Control Theory (4 mục mới)**
+### **Nhóm 5: Control Theory & Practice - Lý Thuyết Kiểm Soát & Thực Hành**
 
 #### **23. Cybernetics** - Điều Khiển Học
 
@@ -28915,10 +28923,6 @@ Lý thuyết toán học về cách điều khiển các hệ thống động.
 - **Knowledge Production Awareness**: Nhận thức về sản xuất tri thức.
 
 → **Liên kết:** VALIDATION (Research Methods), INTEGRATION (Social Systems).
-
----
-
-### **Nhóm Bổ Sung: Practice (1 mục mới)**
 
 #### **26. Neurofeedback Training (System Focus)** - Huấn Luyện Phản Hồi Thần Kinh (Tập Trung Hệ Thống)
 
