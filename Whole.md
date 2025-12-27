@@ -4950,6 +4950,20 @@ Các thực hành nhằm kích hoạt tiềm năng ẩn trong tế bào và DNA.
 
 Nhận diện và làm việc với các mẫu hình tiến hóa của hệ thống phức tạp, từ các chu kỳ sinh trưởng đến các quy luật động lực học phi tuyến.
 
+Bao gồm 60 khái niệm được tổ chức thành 9 nhóm chủ đề:
+
+1. **Foundational System Theories** (8): Lý Thuyết Hệ Thống Nền Tảng - System Dynamics, Chaos Theory, Complexity Theory, Phase Space, Resilience & Robustness, Modularity & Coupling, Hierarchical Organization, System Archetypes
+2. **Emergence & Network Dynamics** (7): Động Lực Nổi Trội & Mạng Lưới - Power Laws, Network Effects, Tipping Points, Path Dependence, Co-evolutionary Dynamics, Hysteresis Loops, Metcalfe's Law
+3. **Critical States & Adaptive Cycles** (5): Trạng Thái Tới Hạn & Chu Kỳ Thích Ứng - Criticality & SOC, Adaptive Cycles, Panarchy, Criticality Indicators, Regime Shifts
+4. **Fundamental Evolution Patterns** (9): Các Mô Thức Tiến Hóa Cơ Bản - Fitness Landscapes, Expansion, Contraction, Evolution, Balance, Oscillation & Pulsation, Divergence, Interference, Adaptation
+28. **Convergence** (3): Hội Tụ [Mô Hình Tiến Hóa] - Divergence, Interference, Adaptation
+5. **System Laws & Perverse Effects** (8): Định Luật Hệ Thống & Hiệu Ứng Nghịch Lý - Campbell's Law, McNamara Fallacy, Cobra Effect, Streisand Effect, Jevons Paradox, Peter Principle, Parkinson's Law of Triviality, Gresham's Law
+6. **Design & Organizational Laws** (6): Định Luật Thiết Kế & Tổ Chức - Brooks's Law, Lindy Effect, Occam's Razor, Conway's Law, Goodhart's Law (Meta-version), Hyrum's Law
+7. **Natural System Patterns** (8): Mô Thức Hệ Thống Tự Nhiên - Temporal Hierarchy, Iterative Refinement, Process Philosophy, Chemical Reaction Dynamics, Evolution & Ecology Dynamics, Climate Systems, Ocean Currents, Galaxy Formation
+8. **Social & Cultural Evolution** (6): Tiến Hóa Xã Hội & Văn Hóa - Social Systems Theory, Cultural Evolution, Language Change & Variation, Economic Cycles & Behavioral Economics, Power Dynamics & Conflict Theory, Social Movements & Revolutions
+
+---
+
 ### **1. Foundational System Theories - Lý Thuyết Hệ Thống Nền Tảng**
 
 Các lý thuyết liên quan đến lý thuyết hệ thống nền tảng.
@@ -25215,6 +25229,20 @@ Miền này khám phá các trạng thái, nguyên lý và thực hành để v�
 
 Khả năng giữ và hợp nhất các ý tưởng, thực tại có vẻ đối lập cùng một lúc. Nghệ thuật biến mâu thuẫn thành nguồn sức mạnh và sáng tạo, vượt qua tư duy "hoặc/hoặc" để đạt đến sự thống nhất cao hơn.
 
+Bao gồm 75 khái niệm được tổ chức thành 11 nhóm chủ đề:
+
+1. **Core Both/And & Non-Dual Principles** (9): Nguyên Lý Cốt Lõi Vừa/Và & Bất Nhị - Paradoxical Intention, Zen Koans, Negative Capability, Both/And Logic, The Liar's Paradox, Epimenides Paradox, Gödel's Incompleteness Theorems, Aporia, The Unexpected Hanging Paradox
+1. **Both/And Thinking** (9): Tư Duy Vừa/Và [Nguyên Lý Siêu Việt] - Paradoxical Intention, Zen Koans, Negative Capability, Both/And Logic, The Liar's Paradox, Epimenides Paradox, Gödel's Incompleteness Theorems, Aporia, The Unexpected Hanging Paradox
+5. **Complementarity Thinking** (6): Tư Duy Bổ Sung - Both/And Logic, The Liar's Paradox, Epimenides Paradox, Gödel's Incompleteness Theorems, Aporia, The Unexpected Hanging Paradox
+3. **Philosophical Identity & Change** (3): Bản Sắc & Thay Đổi Triết Học - The Ship of Theseus, Heraclitus' Unity of Opposites, The Sorites Paradox
+4. **Practical Decision Paradoxes** (5): Nghịch Lý Quyết Định Thực Tiễn - Paradox of Choice, Buridan's Ass, The Paradox of Tolerance, The Paradox of Thrift, Paradoxical Intention
+5. **Eastern Wisdom & Via Negativa** (5): Trí Tuệ Phương Đông & Con Đường Phủ Định - Zen Koans, The Middle Way, Koan Meditation, Via Negativa, Negative Capability
+6. **Quantum Reality & Temporal Paradoxes** (5): Thực Tại Lượng Tử & Nghịch Lý Thời Gian - Schrödinger's Cat, Wave-Particle Duality, Uncertainty Principle, Complementarity Principle, Retroactive Causality
+27. **Quantum Superposition** (3): Chồng Chập Lượng Tử [Giải Quyết Nghịch Lý] - Uncertainty Principle, Complementarity Principle, Retroactive Causality
+7. **Advanced Consciousness Integration** (17): Tích Hợp Ý Thức Cao Cấp - Paradox Consciousness, Non-dual Wisdom, Non-dual Processing, Holding Multiple Contradictory Ideas, Dialectical Integration, Paradoxical Reasoning, Non-Dual Thinking, Paradox Consciousness, Non-dual Wisdom, Non-dual Processing, Both/And Logic, Uncertainty Principle, Retroactive Causality, Wave-Particle Duality, Holding Multiple Contradictory Ideas, Dialectical Integration, Koan Meditation
+24. **Complementarity Thinking** (10): Tư Duy Bổ Sung - Paradox Consciousness, Non-dual Wisdom, Non-dual Processing, Both/And Logic, Uncertainty Principle, Retroactive Causality, Wave-Particle Duality, Holding Multiple Contradictory Ideas, Dialectical Integration, Koan Meditation
+32. **Quantum Superposition** (3): Chồng Chập Lượng Tử [Giải Quyết Nghịch Lý] - Holding Multiple Contradictory Ideas, Dialectical Integration, Koan Meditation
+
 ---
 
 ### **1. Core Both/And & Non-Dual Principles - Nguyên Lý Cốt Lõi Vừa/Và & Bất Nhị**
@@ -25954,6 +25982,17 @@ Thực hành thiền Zen sử dụng các câu đố nghịch lý để phá v�
 
 Các bước nhảy lượng tử trong hiểu biết, những thay đổi căn bản trong cách chúng ta nhìn thế giới. Đây là những khoảnh khắc mà mọi thứ được nhìn thấy theo một ánh sáng hoàn toàn mới, dẫn đến sự biến đổi sâu sắc.
 
+Bao gồm 30 khái niệm được tổ chức thành 8 nhóm chủ đề:
+
+1. **Types of Shifts & Awakenings** (5): Các Loại Chuyển Dịch & Giác Ngộ - Perceptual Shifts, Epistemological Breakthroughs, Existential Transformations, Creative Breakthroughs, Moral and Spiritual Awakenings
+2. **Breakthrough Thinking Methods** (3): Phương Pháp Tư Duy Đột Phá - Breakthrough Thinking, Quantum Thinking, Quantum Leap Reasoning
+3. **Cognitive Mastery & Transcendence** (4): Làm Chủ & Siêu Việt Nhận Thức - Transcendent Cognition, Cognitive Mastery, Transcendent Reasoning, Quantum Reasoning
+10. **Cognitive Sovereignty** (4): Chủ Quyền Nhận Thức - Transcendent Cognition, Cognitive Mastery, Transcendent Reasoning, Quantum Reasoning
+4. **Transformation Mechanics** (6): Cơ Chế Chuyển Hóa - Discontinuous Jump, Phase Shift Mastery, Dimensional Breakthrough, Phase Transitions, Critical Moments, Omega Point Creation
+5. **Navigation Protocols** (4): Giao Thức Điều Hướng - Singularity Navigation, Phoenix Protocols, Future Navigation, Transcendent Navigation
+6. **Advanced Consciousness Concepts** (2): Khái Niệm Ý Thức Nâng Cao - Theory of Everything Glimpses, Consciousness Architecture
+7. **Time & Sublime Experience** (2): Thời Gian & Trải Nghiệm Cao Quý - Kairos and Chronos, Sublime Experiences
+
 ---
 
 ### **1. Types of Shifts & Awakenings - Các Loại Chuyển Dịch & Giác Ngộ**
@@ -26358,6 +26397,17 @@ Những trải nghiệm siêu việt gợi lên cảm giác kinh ngạc, kính s
 ### **Tổng Quan**
 
 Khám phá trạng thái ý thức nơi sự phân biệt giữa chủ thể và khách thể, giữa bản thân và người khác, giữa phần và toàn thể tan biến. Đây là trải nghiệm về sự thống nhất căn bản của mọi thứ.
+
+Bao gồm 41 khái niệm được tổ chức thành 8 nhóm chủ đề:
+
+1. **Core Unity Principles** (6): Nguyên Lý Thống Nhất Cốt Lõi - Non-Dual Awareness, Collective Consciousness, Universal Mind, Holographic Universe, Oceanic Feeling, Interbeing
+2. **Ultimate Reality Concepts** (8): Khái Niệm Thực Tại Tối Hậu - The Perennial Philosophy, Cosmic Consciousness, Atman = Brahman, The Tao, Sunyata (Emptiness), The Ground of Being, The Pleroma, Indra's Net
+3. **Cosmic Information & Structure** (6): Thông Tin & Cấu Trúc Vũ Trụ - The Omega Point, Akashic Records, Anima Mundi, Nous, The Unus Mundus, The Implicate Order
+4. **Primordial Unity States** (4): Trạng Thái Thống Nhất Nguyên Thủy - Sat-Chit-Ananda, I AM Presence, Non-dual Consciousness, Unity Consciousness
+21. **The One** (4): Cái Một - Sat-Chit-Ananda, I AM Presence, Non-dual Consciousness, Unity Consciousness
+5. **Mystical Union Paths** (5): Con Đường Hợp Nhất Huyền Bí - Unio Mystica, Henosis, Moksha, Cosmic Creativity, Sacred Synthesis
+6. **Integration Practices** (5): Thực Hành Tích Hợp - Non-Dual Integration, Integral Mastery, Wisdom Integration Mastery, Cosmic Integration, Alchemical Union
+7. **Scientific Unity Perspectives** (3): Góc Nhìn Thống Nhất Khoa Học - Quantum Entanglement, Enlightenment/Individuation, Unity Grid Activation
 
 ---
 
@@ -26935,6 +26985,19 @@ Khái niệm về việc kích hoạt một mạng lưới năng lượng hoặc
 ### **Tổng Quan**
 
 Sự biến đổi hoàn toàn của các hệ thống - cá nhân, tổ chức, xã hội - từ một trạng thái tồn tại này sang một trạng thái khác. Giống như sự biến thái của sâu bướm thành bướm, đây là những thay đổi không thể đảo ngược và mang tính chuyển đổi.
+
+Bao gồm 63 khái niệm được tổ chức thành 10 nhóm chủ đề:
+
+1. **Core Transformation Principles** (5): Nguyên Lý Biến Đổi Cốt Lõi - Personal Metamorphosis, Collective Evolution, Organizational Transformation, Cultural Metamorphosis, Civilizational Transformation
+2. **Pattern Recognition & Structural Dynamics** (8): Nhận Diện Mẫu Hình & Động Lực Cấu Trúc - Self-similarity Across Scales, Micro-patterns in Macro-systems, "As Above, So Below" Dynamics, Power Laws, Universality Classes, Cycles within Cycles, Spiral Development, Punctuated Equilibrium
+9. **Holographic Principle** (5): Nguyên Lý Toàn Ảnh [Trải Nghiệm Thống Nhất] - Power Laws, Universality Classes, Cycles within Cycles, Spiral Development, Punctuated Equilibrium
+10. **Recursive Structures** (5): Cấu Trúc Đệ Quy [Trong Biến Đổi Hệ Thống] - Power Laws, Universality Classes, Cycles within Cycles, Spiral Development, Punctuated Equilibrium
+12. **Scale-free Networks** (4): Mạng Lưới Không Quy Mô [Bản Chất Phổ Quát] - Universality Classes, Cycles within Cycles, Spiral Development, Punctuated Equilibrium
+3. **Field Theory & Force Dynamics** (6): Lý Thuyết Trường & Động Lực Lực - Morphic Fields, Interference Patterns, Many Worlds Interpretation, Wormholes, Higher Dimensions, Black Hole Singularities
+4. **Intelligence & Adaptive Systems** (8): Trí Tuệ & Hệ Thống Thích Ứng - Flow-State Engineering, Integral Reasoning, Systems Wisdom, Temporal Wisdom, Ultimate Integration, Adaptive Navigation Systems, Emergent Navigation, Transcendent Co-evolution
+5. **Human Evolution & Consciousness Transformation** (12): Tiến Hóa Con Người & Biến Đổi Ý Thức - Peak Experiences & Flow States, Near-Death Experiences, Spiritual Emergency, Post-human Futures, Death and Rebirth Practice, Vision Quest & Initiation, Plant Medicine Integration, Quantum Healing Modalities, Future Self Work, Shamanic Energy Medicine, Etheric Surgery & Archetype Work, Consciousness-based Energy Healing
+6. **Scientific Frontiers & Exploration** (4): Biên Giới Khoa Học & Khám Phá - Consciousness Studies, SETI Research, Noetic Science, Morphogenetic Field Research
+7. **Creative Innovation & Expression** (6): Đổi Mới Sáng Tạo & Biểu Đạt - Transformative Theatre, Visionary Art, Psychedelic Art/Film, Sacred & Ritual Arts, Ecstatic Dance, Sound Healing Frequencies
 
 ---
 
@@ -28764,6 +28827,20 @@ Siêu Tầng này chứa các khái niệm, quy trình và cấu trúc để qua
 
 Chức năng này bao gồm các quy trình tư duy về chính tư duy - khả năng tự quan sát, giám sát và điều chỉnh các hoạt động nhận thức của bản thân trong thời gian thực. Đây là nền tảng của sự tự chủ nhận thức và học tập có ý thức.
 
+Bao gồm 42 khái niệm được tổ chức thành 11 nhóm chủ đề:
+
+1. **Core Meta-Cognition & Self-Awareness** (3): Nền Tảng Siêu Nhận Thức & Tự Nhận Biết - Metacognition, Meta-Cognitive Flexibility Awareness, Awareness of Bias
+2. **Meta-Learning** (2): Siêu Học Tập - Meta-Cognitive Flexibility Awareness, Awareness of Bias
+2. **Meta-Learning & Reflective Growth** (4): Siêu Học Tập & Phát Triển Phản Tư - Intellectual Humility, Mental Model Awareness, Thinking About Thinking, Attentional Control
+6. **Cognitive Load Management** (3): Quản Lý Tải Nhận Thức [Siêu Nhận Thức] - Mental Model Awareness, Thinking About Thinking, Attentional Control
+3. **Cognitive Monitoring & Regulation** (4): Giám Sát & Điều Tiết Nhận Thức - Reflective Practice, Emotional Awareness in Cognition, Meta-Attention, Growth Mindset in Meta-Cognition
+13. **Cognitive Sovereignty** (1): Chủ Quyền Nhận Thức - Growth Mindset in Meta-Cognition
+4. **Wisdom, Humility & Sovereignty** (1): Trí Tuệ, Khiêm Tốn & Chủ Quyền - The Master Meta-Skill
+5. **Witness Consciousness & Pure Awareness** (9): Ý Thức Chứng Kiến & Nhận Thức Thuần Khiết - Observing Observation, Learning to Learn, Metacognition, Meta-Awareness, Witness Consciousness, The Witness, Primordial Awareness, Direct Knowing/Gnosis, Sati
+6. **Universal Consciousness & Perspectives** (6): Ý Thức Vũ Trụ & Các Quan Điểm - Universal Intelligence, Cosmic Mind, Meta-State Awareness, First to Seventh & Nth Person Perspective, Recursive Consciousness, Know Thyself
+30. **Observer Effect** (1): Hiệu Ứng Người Quan Sát [Công Cụ Siêu Nhận Thức] - Know Thyself
+7. **Scientific Frameworks & Contemplative Practices** (8): Khung Lý Thuyết Khoa Học & Thực Hành Thiền Quán - Philosophy of Mind, Cybernetics & Control Theory, Second-order Cybernetics, Reflexive Sociology, Transcendental Meditation, Contemplative Science Methods, Hypnagogic State Work, Neurofeedback Training
+
 ---
 
 ### **1. Core Meta-Cognition & Self-Awareness - Nền Tảng Siêu Nhận Thức & Tự Nhận Biết**
@@ -29326,6 +29403,16 @@ Kỹ thuật huấn luyện não bộ thông qua phản hồi thời gian thực
 
 Chức năng này tập trung vào khả năng quan sát hệ thống tư duy của chính mình như một đối tượng - nhìn vào các mẫu hình, chu kỳ, điểm mạnh và điểm yếu của hệ thống nhận thức cá nhân.
 
+Bao gồm 28 khái niệm được tổ chức thành 7 nhóm chủ đề:
+
+1. **Core Self-Observation Methods** (9): Phương Pháp Tự Quan Sát Cốt Lõi - Self-Observation Protocol, Pattern Recognition in Self, Cognitive Strengths & Weaknesses Analysis, Thought Stream Observation, Cognitive Rhythm Tracking, Meta-Memory Monitoring, Decision-Making Patterns, Reflexivity, Internal Dialogue Analysis
+2. **System Dynamics & Ecology** (3): Động Lực Hệ Thống & Sinh Thái - Cognitive State Transitions, System Architecture Awareness, Cognitive Ecology
+3. **Recursive & Reflexive Observation** (5): Quan Sát Đệ Quy & Phản Tư - Observing, Observing the Observer, Observing the Process of Observation, Self-referential Loops, Observer Effect (Detailed)
+4. **Meta-Learning & Feedback Systems** (3): Siêu Học Tập & Hệ Thống Phản Hồi - Learning to Learn (System Focus), Reflection Protocols, Contemplative Integration
+19. **Meta-Learning from Errors** (2): Siêu Học Từ Lỗi - Reflection Protocols, Contemplative Integration
+20. **Meta-Feedback** (2): Siêu Phản Hồi [Tối Ưu Hóa Vòng Phản Hồi] - Reflection Protocols, Contemplative Integration
+5. **Control Theory & Practice** (4): Lý Thuyết Kiểm Soát & Thực Hành - Cybernetics, Control Theory, Reflexive Sociology (Methodological), Neurofeedback Training (System Focus)
+
 ---
 
 ### **1. Core Self-Observation Methods - Phương Pháp Tự Quan Sát Cốt Lõi**
@@ -29669,6 +29756,20 @@ Sử dụng phản hồi thần kinh để quan sát và điều chỉnh hoạt 
 ### **Tổng Quan**
 
 Chức năng này là về việc phát hiện các mẫu hình, cấu trúc và nguyên lý chung xuyên suốt nhiều lĩnh vực tư duy và tri thức khác nhau - khả năng nhìn thấy sự tương đồng trong sự khác biệt.
+
+Bao gồm 52 khái niệm được tổ chức thành 11 nhóm chủ đề:
+
+1. **Core Pattern Recognition** (10): Nhận Dạng Mẫu Hình Cốt Lõi - Cross-Domain Pattern Detection, Meta-Pattern Recognition, Archetypal Thinking, Isomorphism Detection, Systems Archetypes, Gestalt Perception, Rhythmic Patterns, Information Theory Patterns, Causality Patterns, Emergence Recognition
+5. **Fractal Thinking** (6): Tư Duy Fractal [Meta-Nhận Thức] - Systems Archetypes, Gestalt Perception, Rhythmic Patterns, Information Theory Patterns, Causality Patterns, Emergence Recognition
+6. **Network Thinking** (6): Tư Duy Mạng Lưới - Systems Archetypes, Gestalt Perception, Rhythmic Patterns, Information Theory Patterns, Causality Patterns, Emergence Recognition
+10. **Symmetry & Asymmetry** (3): Đối Xứng & Bất Đối Xứng [Công Cụ Meta-Nhận Thức] - Information Theory Patterns, Causality Patterns, Emergence Recognition
+2. **Meta-Pattern & Abstraction** (5): Siêu Mẫu Hình & Trừu Tượng Hóa - Pattern of Patterns, Space of Spaces, Time of Times, Meta-Synthesis, Levels of Description
+18. **Abstraction Ladder** (1): Thang Trừu Tượng [Công Cụ Meta-Nhận Thức] - Levels of Description
+3. **Cognitive Architecture** (7): Kiến Trúc Nhận Thức - Holographic Mind, Parallel Processing Mind, Hypergraph Thinking, Category Theory Mind, Topos Consciousness, Dimensional Analysis, Scale Thinking
+4. **Information Field** (4): Trường Thông Tin - Information Field Theory, Akashic Access, Noospheric Interface, Information Theory
+5. **Knowledge Systems** (5): Hệ Thống Tri Thức - Complexity Science Overview, Category Theory (Applied), Comparative Methodologies, Media Ecology Theory, Reflexive Sociology (Knowledge Focus)
+6. **Applied Recognition** (4): Nhận Dạng Ứng Dụng - Semiotics in Arts, Cultural Analysis, Holographic Mind Training, Neurofeedback Training (Pattern Focus)
+40. **Integral Research Methods** (1): Phương Pháp Nghiên Cứu Toàn Diện [Khung Nhận Thức] - Neurofeedback Training (Pattern Focus)
 
 ---
 
@@ -30306,6 +30407,16 @@ Sử dụng phản hồi thần kinh để nhận dạng và tối ưu hóa các
 
 Chức năng này là về việc sử dụng hệ thống meta để cải thiện chính hệ thống - khả năng học cách học tốt hơn, tư duy về cách tư duy tốt hơn, và tối ưu hóa chính quá trình tối ưu hóa.
 
+Bao gồm 35 khái niệm được tổ chức thành 7 nhóm chủ đề:
+
+1. **Core Self-Improvement** (12): Tự Cải Thiện Cốt Lõi - Deliberate Practice of Thinking, Cognitive Upgrade Protocols, Learning Rate Optimization, Error Cultivation, Feedback Loop Optimization, Skill Tree Mapping, Cognitive Tool Building, System Bottleneck Identification, Recursive Learning Loops, Cognitive Refactoring, Performance Benchmarking, Zone of Proximal Development Navigation
+2. **Foundational Recursion** (5): Đệ Quy Nền Tảng - Creating Creation, Integrating Integration, Learning to Learn (Recursive), Meta-Adaptation, Recursive Reasoning
+16. **Meta-Learning (Advanced)** (2): Siêu Học Nâng Cao - Meta-Adaptation, Recursive Reasoning
+3. **Progressive Depth** (5): Chiều Sâu Tiến Hóa - Learning → Learning to Learn → Learning How Learning Changes the Learner, Creating → Creating Creation Methods → Creating Meta-Creative Systems, Thinking About Thinking About Thinking, Finding Patterns of Patterns of Patterns, Systematizing Systems of Systems
+4. **Navigation Evolution** (4): Tiến Hóa Điều Hướng - Navigation Learning, Navigation Innovation, Navigation Mastery, Razor Recursion
+5. **Infinite Iteration** (4): Lặp Lại Vô Hạn - Meta-izing the Meta of Meta, Navigating Infinite Regression, Meta-Systemic Thinking, Egyptian Temple Initiation Rites
+6. **Ultimate Intelligence** (3): Trí Tuệ Tối Thượng - Supreme Intelligence, Meta-Intelligence, Omniscience
+
 ---
 
 ### **1. Core Self-Improvement - Tự Cải Thiện Cốt Lõi**
@@ -30764,6 +30875,22 @@ Trạng thái tri thức hoàn hảo và toàn diện về mọi thứ.
 ### **Tổng Quan**
 
 Chức năng này tập trung vào việc thiết kế, phát triển và điều chỉnh các siêu cấu trúc - các khung, mô hình và hệ thống được sử dụng để tổ chức tư duy và tri thức ở cấp độ cao nhất.
+
+Bao gồm 75 khái niệm được tổ chức thành 13 nhóm chủ đề:
+
+1. **Meta-Framework Architecture** (11): Kiến Trúc Siêu Khung - Framework of Frameworks, Pattern Language, Ontology Engineering, Taxonomy Creation, Mental Model Engineering, Matrix Thinking, Logical Topologies, Knowledge Graph Architecture, Holarchy & Nested Systems, Generative Grammar, Meta-Language Design
+2. **Conceptual Blending & Integration** (14): Pha Trộn Khái Niệm & Tích Hợp - Conceptual Blending Spaces, Dialectical Frameworks, Paradigm Engineering, System Regulation Mechanisms, Conceptual Universe Design, The Master Structure, Wisdom Synthesis, Holographic Integration, Integral Synthesis, System of Systems Integration, Dialectical Transcendence, Meta-Integration Framework, Cross-Paradigm Synthesis, Living Integration
+21. **Consilience** (5): Sự Hội Quy [Nguyên Tắc Xác Thực Framework] - System of Systems Integration, Dialectical Transcendence, Meta-Integration Framework, Cross-Paradigm Synthesis, Living Integration
+3. **Extended Meta-Architecture** (7): Kiến Trúc Meta Mở Rộng - Framework of Frameworks (Extended), Language of Languages, Meta Level, Meta-Reasoning, Meta-Strategy, Meta-Integration (Extended), Meta-Systematic Thinking
+31. **Meta-Strategy**** (2): Siêu Chiến Lược - Meta-Integration (Extended), Meta-Systematic Thinking
+4. **Perspective Engineering** (6): Kỹ Thuật Quan Điểm - Perspective Taking, Reference Frame Shifting, Vantage Point Multiplication, Questioning → Questioning Questions → Questioning the Framework of Questioning, Meta Razor, Meta Lens
+5. **Meta-Navigation & Transformation** (4): Siêu Điều Hướng & Chuyển Hóa - Meta-Wayfinding, Navigation Philosophy, Dimensional Shifting [Trong Tiến Hóa Framework], Integral Navigation
+40. **Meta-Wayfinding**** (3): Siêu Tìm Đường - Navigation Philosophy, Dimensional Shifting [Trong Tiến Hóa Framework], Integral Navigation
+43. **Holographic Navigation** (1): Điều Hướng Toàn Ảnh - Integral Navigation
+6. **Selection & Optimization Principles** (6): Nguyên Lý Lựa Chọn & Tối Ưu - Razor Selection Razor, Complementarity Razor, Synthesis Razor, Transcendence Razor, Transcending Transcendence, Going Beyond Going Beyond
+7. **Knowledge Foundations & Philosophy** (5): Nền Tảng Tri Thức & Triết Học - Philosophy of Mathematics, Historiography & Meta-history, Critical Theory, Tree of Life Structure, Egyptian Temple Initiation Rites (Foundation)
+52. **Anthropic Principle** (4): Nguyên Lý Nhân Trạng [Strong Version - Participatory Universe] - Historiography & Meta-history, Critical Theory, Tree of Life Structure, Egyptian Temple Initiation Rites (Foundation)
+8. **Creative & Cultural Analysis** (7): Phân Tích Sáng Tạo & Văn Hóa - Art Theory & Criticism, Aesthetics Philosophy, Creative Process Studies, Performance Studies, Medium Theory, Semiotics in Arts (Framework), Cultural Analysis (Framework)
 
 ---
 
