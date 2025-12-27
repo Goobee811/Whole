@@ -30016,7 +30016,7 @@ Chức năng này tập trung vào việc thiết kế, phát triển và điề
 
 ---
 
-### **1. Meta-Framework Architecture - Kiến Trúc Siêu Khung**
+### **Nhóm 1: Meta-Framework Architecture - Kiến Trúc Siêu Khung**
 
 #### **1. Framework of Frameworks** - Khung của các Khung
 
@@ -30141,7 +30141,7 @@ Tạo ra các ngôn ngữ để nói về các ngôn ngữ khác hoặc về ch�
 
 ---
 
-### **2. Conceptual Blending & Integration - Pha Trộn Khái Niệm & Tích Hợp**
+### **Nhóm 2: Conceptual Blending & Integration - Pha Trộn Khái Niệm & Tích Hợp**
 
 #### **12. Conceptual Blending Spaces** - Không Gian Pha Trộn Khái Niệm [Kiến Trúc Meta]
 
@@ -30339,7 +30339,7 @@ Trạng thái trong đó việc tích hợp không còn là một hành động 
 
 ---
 
-### **3. Extended Meta-Architecture - Kiến Trúc Meta Mở Rộng**
+### **Nhóm 3: Extended Meta-Architecture - Kiến Trúc Meta Mở Rộng**
 
 #### **27. Framework of Frameworks (Extended)** - Khung Của Các Khung (Mở Rộng)
 
@@ -30441,7 +30441,7 @@ Khả năng thiết kế và áp dụng PHƯƠNG PHÁP CÓ HỆ THỐNG ở cấ
 
 ---
 
-### **4. Perspective Engineering - Kỹ Thuật Quan Điểm**
+### **Nhóm 4: Perspective Engineering - Kỹ Thuật Quan Điểm**
 
 #### **34. Perspective Taking** - Chuyển Đổi Quan Điểm
 
@@ -30511,7 +30511,7 @@ Thấu kính quan sát qua đó nhìn thấy tất cả các thấu kính khác.
 
 ---
 
-### **5. Meta-Navigation & Transformation - Siêu Điều Hướng & Chuyển Hóa**
+### **Nhóm 5: Meta-Navigation & Transformation - Siêu Điều Hướng & Chuyển Hóa**
 
 #### **40. Meta-Wayfinding** - Siêu Tìm Đường **[Không Gian Của Các Không Gian]**
 
@@ -30607,7 +30607,7 @@ AQAL không phải là một framework cụ thể trong một domain - nó là f
 
 ---
 
-### **6. Selection & Optimization Principles - Nguyên Lý Lựa Chọn & Tối Ưu**
+### **Nhóm 6: Selection & Optimization Principles - Nguyên Lý Lựa Chọn & Tối Ưu**
 
 #### **45. Razor Selection Razor** - Dao Cạo Lựa Chọn Dao Cạo
 
@@ -30677,7 +30677,7 @@ Quá trình vô hạn của việc vượt qua các giới hạn.
 
 ---
 
-### **7. Knowledge Foundations & Philosophy - Nền Tảng Tri Thức & Triết Học**
+### **Nhóm 7: Knowledge Foundations & Philosophy - Nền Tảng Tri Thức & Triết Học**
 
 #### **51. Philosophy of Mathematics** - Triết Học Toán Học
 
@@ -30757,7 +30757,7 @@ Hệ thống cổ đại về các giai đoạn chuyển hóa ý thức.
 
 ---
 
-### **8. Creative & Cultural Analysis - Phân Tích Sáng Tạo & Văn Hóa**
+### **Nhóm 8: Creative & Cultural Analysis - Phân Tích Sáng Tạo & Văn Hóa**
 
 #### **57. Art Theory & Criticism** - Lý Thuyết Nghệ Thuật & Phê Bình
 
