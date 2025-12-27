@@ -27682,7 +27682,9 @@ Sử dụng các tần số âm thanh và rung động cụ thể cho mục đí
 
 Quá trình tinh luyện kinh nghiệm, hiểu biết và thực hành thành những nguyên tắc trí tuệ sống động, có thể truyền đạt và có thể áp dụng. Đây là nghệ thuật biến tri thức thành trí tuệ, và trí tuệ thành sự sống.
 
-### **Các Nguyên Lý Sống Với Trí Tuệ**
+### **1. Các Nguyên Lý Sống Với Trí Tuệ**
+
+Các nguyên lý để sống với trí tuệ hiện thân và thực tiễn.
 
 #### **1. Embodied Wisdom** - Trí Tuệ Hiện Thân
 
@@ -27945,7 +27947,9 @@ Khả năng kết hợp trí tuệ từ nhiều nguồn và truyền thống th�
 
 → **Liên kết:** [META] LAYER (Wisdom Synthesis), INTEGRATION (Knowledge Synthesis).
 
-### **Pure Awareness States - Các Trạng Thái Nhận Thức Thuần Túy**
+### **2. Pure Awareness States - Các Trạng Thái Nhận Thức Thuần Túy**
+
+Các trạng thái nhận thức thuần túy vượt qua sự phân biệt chủ-khách.
 
 #### **21. Emptiness Wisdom** - Trí Tuệ Của Không
 
@@ -28082,7 +28086,9 @@ Trải nghiệm về thời điểm hiện tại như vĩnh cửu, vượt qua q
 
 ---
 
-### **Ultimate Testing - Các Thử Nghiệm Tối Hậu**
+### **3. Ultimate Testing - Các Thử Nghiệm Tối Hậu**
+
+Các thử nghiệm tối hậu để kiểm chứng độ chín muồi của trí tuệ.
 
 #### **29. Pragmatic Ultimate Test** - Thử Nghiệm Tối Hậu Thực Dụng
 
@@ -28224,7 +28230,9 @@ Hình thức cao nhất của điều hướng, tích hợp tất cả các phư
 
 ---
 
-### **Quantum Consciousness - Ý Thức Lượng Tử**
+### **4. Quantum Consciousness - Ý Thức Lượng Tử**
+
+Các khái niệm về ý thức lượng tử và các hiện tượng liên quan.
 
 #### **39. Quantum Consciousness** - Ý Thức Lượng Tử
 
@@ -28343,7 +28351,9 @@ Kỹ thuật lượng tử để vượt qua các rào cản khái niệm, giố
 
 ---
 
-### **Shadow & Hidden Patterns - Bóng Tối Và Các Mẫu Hình Ẩn**
+### **5. Shadow & Hidden Patterns - Bóng Tối Và Các Mẫu Hình Ẩn**
+
+Các mẫu hình ẩn và công việc với bóng tối trong quá trình siêu việt.
 
 #### **48. Negative Space Patterns** - Các Mẫu Hình Không Gian Âm
 
@@ -28488,7 +28498,9 @@ Khả năng điều hướng qua các vòng lặp thời gian hoặc các mẫu 
 
 ---
 
-### **Knowledge Access - Truy Cập Tri Thức**
+### **6. Knowledge Access - Truy Cập Tri Thức**
+
+Các phương thức truy cập tri thức vũ trụ và bản ghi Akashic.
 
 #### **59. Noetic Science Exploration** - Khám Phá Khoa Học Noetic
 
