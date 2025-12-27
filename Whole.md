@@ -28061,7 +28061,7 @@ Chức năng này bao gồm các quy trình tư duy về chính tư duy - khả 
 
 ---
 
-### **Nhóm 1: Core Meta-Cognition & Self-Awareness - Nền Tảng Siêu Nhận Thức & Tự Nhận Biết**
+### **1. Core Meta-Cognition & Self-Awareness - Nền Tảng Siêu Nhận Thức & Tự Nhận Biết**
 
 #### **1. Metacognition** - Siêu Nhận Thức [Khái niệm Nền Tảng của Meta Layer]
 
@@ -28142,7 +28142,7 @@ Khả năng nhận ra và điều chỉnh các thiên kiến nhận thức của
 
 ---
 
-### **Nhóm 2: Meta-Learning & Reflective Growth - Siêu Học Tập & Phát Triển Phản Tư**
+### **2. Meta-Learning & Reflective Growth - Siêu Học Tập & Phát Triển Phản Tư**
 
 #### **5. Intellectual Humility** - Khiêm Tốn Trí Tuệ
 
@@ -28218,7 +28218,7 @@ Khả năng chủ động định hướng và duy trì chú ý theo ý muốn.
 
 ---
 
-### **Nhóm 3: Cognitive Monitoring & Regulation - Giám Sát & Điều Tiết Nhận Thức**
+### **3. Cognitive Monitoring & Regulation - Giám Sát & Điều Tiết Nhận Thức**
 
 #### **10. Reflective Practice** - Thực Hành Phản Tư
 
@@ -28279,7 +28279,7 @@ Tin tưởng rằng chính khả năng tư duy và học tập có thể đượ
 
 ---
 
-### **Nhóm 4: Wisdom, Humility & Sovereignty - Trí Tuệ, Khiêm Tốn & Chủ Quyền**
+### **4. Wisdom, Humility & Sovereignty - Trí Tuệ, Khiêm Tốn & Chủ Quyền**
 
 #### **15. The Master Meta-Skill** - Siêu Kỹ Năng Bậc Thầy
 
@@ -28294,7 +28294,7 @@ Khả năng lựa chọn, kết hợp và áp dụng tất cả các kỹ năng 
 
 ---
 
-### **Nhóm 5: Witness Consciousness & Pure Awareness - Ý Thức Chứng Kiến & Nhận Thức Thuần Khiết**
+### **5. Witness Consciousness & Pure Awareness - Ý Thức Chứng Kiến & Nhận Thức Thuần Khiết**
 
 #### **16. Observing Observation** - Quan Sát Sự Quan Sát
 
@@ -28402,7 +28402,7 @@ Thực hành tỉnh thức và nhận thức liên tục về hiện tại trong
 
 ---
 
-### **Nhóm 6: Universal Consciousness & Perspectives - Ý Thức Vũ Trụ & Các Quan Điểm**
+### **6. Universal Consciousness & Perspectives - Ý Thức Vũ Trụ & Các Quan Điểm**
 
 #### **25. Universal Intelligence** - Trí Tuệ Vũ Trụ
 
@@ -28488,7 +28488,7 @@ Lời khuyên cổ xưa về tầm quan trọng của tự tri - nền tảng c�
 
 ---
 
-### **Nhóm 7: Scientific Frameworks & Contemplative Practices - Khung Lý Thuyết Khoa Học & Thực Hành Thiền Quán**
+### **7. Scientific Frameworks & Contemplative Practices - Khung Lý Thuyết Khoa Học & Thực Hành Thiền Quán**
 
 #### **32. Philosophy of Mind** - Triết Học Tâm Trí
 
@@ -28611,7 +28611,7 @@ Chức năng này tập trung vào khả năng quan sát hệ thống tư duy c�
 
 ---
 
-### **Nhóm 1: Core Self-Observation Methods - Phương Pháp Tự Quan Sát Cốt Lõi**
+### **1. Core Self-Observation Methods - Phương Pháp Tự Quan Sát Cốt Lõi**
 
 #### **1. Self-Observation Protocol** - Quy Trình Tự Quan Sát
 
@@ -28714,7 +28714,7 @@ Quan sát và phân tích cuộc đối thoại nội tâm của bản thân.
 
 ---
 
-### **Nhóm 2: System Dynamics & Ecology - Động Lực Hệ Thống & Sinh Thái**
+### **2. System Dynamics & Ecology - Động Lực Hệ Thống & Sinh Thái**
 
 #### **10. Cognitive State Transitions** - Chuyển Đổi Trạng Thái Nhận Thức
 
@@ -28751,7 +28751,7 @@ Nhận thức về môi trường tư duy - các công cụ, không gian và m�
 
 ---
 
-### **Nhóm 3: Recursive & Reflexive Observation - Quan Sát Đệ Quy & Phản Tư**
+### **3. Recursive & Reflexive Observation - Quan Sát Đệ Quy & Phản Tư**
 
 #### **13. Observing** - Quan Sát (Cơ Bản)
 
@@ -28810,7 +28810,7 @@ Nghiên cứu sâu về cách quan sát ảnh hưởng đến hiện tượng đ
 
 ---
 
-### **Nhóm 4: Meta-Learning & Feedback Systems - Siêu Học Tập & Hệ Thống Phản Hồi**
+### **4. Meta-Learning & Feedback Systems - Siêu Học Tập & Hệ Thống Phản Hồi**
 
 #### **18. Learning to Learn (System Focus)** - Học Cách Học (Tập Trung Hệ Thống)
 
@@ -28889,7 +28889,7 @@ Tích hợp thực hành thiền định vào QUÁ TRÌNH HỌC TẬP VÀ PHÁT 
 
 ---
 
-### **Nhóm 5: Control Theory & Practice - Lý Thuyết Kiểm Soát & Thực Hành**
+### **5. Control Theory & Practice - Lý Thuyết Kiểm Soát & Thực Hành**
 
 #### **23. Cybernetics** - Điều Khiển Học
 
@@ -28943,9 +28943,9 @@ Sử dụng phản hồi thần kinh để quan sát và điều chỉnh hoạt 
 
 Chức năng này là về việc phát hiện các mẫu hình, cấu trúc và nguyên lý chung xuyên suốt nhiều lĩnh vực tư duy và tri thức khác nhau - khả năng nhìn thấy sự tương đồng trong sự khác biệt.
 
-### **Các Khái Niệm Cốt Lõi**
+---
 
-### **Nhóm 1: Core Pattern Recognition - Nhận Dạng Mẫu Hình Cốt Lõi**
+### **1. Core Pattern Recognition - Nhận Dạng Mẫu Hình Cốt Lõi**
 
 #### **1. Cross-Domain Pattern Detection** - Phát Hiện Mẫu Hình Xuyên Lĩnh Vực
 
@@ -29173,7 +29173,7 @@ Khả năng nhận ra khi nào các thuộc tính mới đột sinh từ sự t�
 
 → **Liên kết:** DYNAMICS (Emergence), TRANSCENDENCE (Breakthrough Recognition).
 
-### **Nhóm 2: Meta-Pattern & Abstraction - Siêu Mẫu Hình & Trừu Tượng Hóa**
+### **2. Meta-Pattern & Abstraction - Siêu Mẫu Hình & Trừu Tượng Hóa**
 
 #### **14. Pattern of Patterns** - Mẫu Hình Của Các Mẫu Hình
 
@@ -29291,7 +29291,7 @@ Nhiều cách khác nhau để mô tả cùng một hiện tượng ở các c�
 
 ---
 
-### **Nhóm 3: Cognitive Architecture - Kiến Trúc Nhận Thức**
+### **3. Cognitive Architecture - Kiến Trúc Nhận Thức**
 
 #### **20. Holographic Mind** - Tâm Trí Toàn Ảnh
 
@@ -29372,7 +29372,7 @@ Khả năng tư duy về các hiện tượng ở nhiều quy mô khác nhau.
 
 ---
 
-### **Nhóm 4: Information Field - Trường Thông Tin**
+### **4. Information Field - Trường Thông Tin**
 
 #### **27. Information Field Theory** - Lý Thuyết Trường Thông Tin [Meta-Pattern]
 
@@ -29441,7 +29441,7 @@ CÔNG CỤ NHẬN DẠNG PATTERN & META-THINKING: Sử dụng nguyên lý toàn 
 
 ---
 
-### **Nhóm 5: Knowledge Systems - Hệ Thống Tri Thức**
+### **5. Knowledge Systems - Hệ Thống Tri Thức**
 
 #### **32. Complexity Science Overview** - Tổng Quan Khoa Học Phức Tạp
 
@@ -29500,7 +29500,7 @@ Xã hội học tự phản tư về cách tri thức được tạo ra.
 
 ---
 
-### **Nhóm 6: Applied Recognition - Nhận Dạng Ứng Dụng**
+### **6. Applied Recognition - Nhận Dạng Ứng Dụng**
 
 #### **37. Semiotics in Arts** - Ký Hiệu Học Trong Nghệ Thuật
 
@@ -29567,9 +29567,9 @@ Sử dụng phản hồi thần kinh để nhận dạng và tối ưu hóa các
 
 Chức năng này là về việc sử dụng hệ thống meta để cải thiện chính hệ thống - khả năng học cách học tốt hơn, tư duy về cách tư duy tốt hơn, và tối ưu hóa chính quá trình tối ưu hóa.
 
-### **Các Khái Niệm Cốt Lõi**
+---
 
-### **Nhóm 1: Core Self-Improvement - Tự Cải Thiện Cốt Lõi**
+### **1. Core Self-Improvement - Tự Cải Thiện Cốt Lõi**
 
 #### **1. Deliberate Practice of Thinking** - Thực Hành Có Chủ Ý về Tư Duy
 
@@ -29706,7 +29706,7 @@ Làm việc ở ranh giới của khả năng hiện tại để tối đa hóa 
 
 → **Liên kết:** DYNAMICS (Flow States), OPERATIONS (Goal Setting).
 
-### **Nhóm 2: Foundational Recursion - Đệ Quy Nền Tảng**
+### **2. Foundational Recursion - Đệ Quy Nền Tảng**
 
 #### **13. Creating Creation** - Tạo Ra Sự Sáng Tạo
 
@@ -29785,7 +29785,7 @@ Suy luận có cấu trúc tự tham chiếu và đệ quy.
 
 ---
 
-### **Nhóm 3: Progressive Depth - Chiều Sâu Tiến Hóa**
+### **3. Progressive Depth - Chiều Sâu Tiến Hóa**
 
 #### **19. Learning → Learning to Learn → Learning How Learning Changes the Learner** - Học Tập → Học Cách Học → Học Cách Học Tập Thay Đổi Người Học
 
@@ -29857,7 +29857,7 @@ Ba cấp độ đệ quy của tư duy hệ thống.
 
 ---
 
-### **Nhóm 4: Navigation Evolution - Tiến Hóa Điều Hướng**
+### **4. Navigation Evolution - Tiến Hóa Điều Hướng**
 
 #### **24. Navigation Learning** - Học Tập Điều Hướng
 
@@ -29921,7 +29921,7 @@ Khác với các biến thể "con người", đây là về COMPUTATION:
 
 ---
 
-### **Nhóm 5: Infinite Iteration - Lặp Lại Vô Hạn**
+### **5. Infinite Iteration - Lặp Lại Vô Hạn**
 
 #### **29. Meta-izing the Meta of Meta** - Siêu Hóa Cái Siêu Của Siêu
 
@@ -29971,7 +29971,7 @@ Hệ thống tiến bộ qua các cấp độ ngày càng sâu sắc của nhậ
 
 ---
 
-### **Nhóm 6: Ultimate Intelligence - Trí Tuệ Tối Thượng**
+### **6. Ultimate Intelligence - Trí Tuệ Tối Thượng**
 
 #### **33. Supreme Intelligence** - Trí Tuệ Tối Thượng
 
@@ -30016,7 +30016,7 @@ Chức năng này tập trung vào việc thiết kế, phát triển và điề
 
 ---
 
-### **Nhóm 1: Meta-Framework Architecture - Kiến Trúc Siêu Khung**
+### **1. Meta-Framework Architecture - Kiến Trúc Siêu Khung**
 
 #### **1. Framework of Frameworks** - Khung của các Khung
 
@@ -30141,7 +30141,7 @@ Tạo ra các ngôn ngữ để nói về các ngôn ngữ khác hoặc về ch�
 
 ---
 
-### **Nhóm 2: Conceptual Blending & Integration - Pha Trộn Khái Niệm & Tích Hợp**
+### **2. Conceptual Blending & Integration - Pha Trộn Khái Niệm & Tích Hợp**
 
 #### **12. Conceptual Blending Spaces** - Không Gian Pha Trộn Khái Niệm [Kiến Trúc Meta]
 
@@ -30339,7 +30339,7 @@ Trạng thái trong đó việc tích hợp không còn là một hành động 
 
 ---
 
-### **Nhóm 3: Extended Meta-Architecture - Kiến Trúc Meta Mở Rộng**
+### **3. Extended Meta-Architecture - Kiến Trúc Meta Mở Rộng**
 
 #### **27. Framework of Frameworks (Extended)** - Khung Của Các Khung (Mở Rộng)
 
@@ -30441,7 +30441,7 @@ Khả năng thiết kế và áp dụng PHƯƠNG PHÁP CÓ HỆ THỐNG ở cấ
 
 ---
 
-### **Nhóm 4: Perspective Engineering - Kỹ Thuật Quan Điểm**
+### **4. Perspective Engineering - Kỹ Thuật Quan Điểm**
 
 #### **34. Perspective Taking** - Chuyển Đổi Quan Điểm
 
@@ -30511,7 +30511,7 @@ Thấu kính quan sát qua đó nhìn thấy tất cả các thấu kính khác.
 
 ---
 
-### **Nhóm 5: Meta-Navigation & Transformation - Siêu Điều Hướng & Chuyển Hóa**
+### **5. Meta-Navigation & Transformation - Siêu Điều Hướng & Chuyển Hóa**
 
 #### **40. Meta-Wayfinding** - Siêu Tìm Đường **[Không Gian Của Các Không Gian]**
 
@@ -30607,7 +30607,7 @@ AQAL không phải là một framework cụ thể trong một domain - nó là f
 
 ---
 
-### **Nhóm 6: Selection & Optimization Principles - Nguyên Lý Lựa Chọn & Tối Ưu**
+### **6. Selection & Optimization Principles - Nguyên Lý Lựa Chọn & Tối Ưu**
 
 #### **45. Razor Selection Razor** - Dao Cạo Lựa Chọn Dao Cạo
 
@@ -30677,7 +30677,7 @@ Quá trình vô hạn của việc vượt qua các giới hạn.
 
 ---
 
-### **Nhóm 7: Knowledge Foundations & Philosophy - Nền Tảng Tri Thức & Triết Học**
+### **7. Knowledge Foundations & Philosophy - Nền Tảng Tri Thức & Triết Học**
 
 #### **51. Philosophy of Mathematics** - Triết Học Toán Học
 
@@ -30757,7 +30757,7 @@ Hệ thống cổ đại về các giai đoạn chuyển hóa ý thức.
 
 ---
 
-### **Nhóm 8: Creative & Cultural Analysis - Phân Tích Sáng Tạo & Văn Hóa**
+### **8. Creative & Cultural Analysis - Phân Tích Sáng Tạo & Văn Hóa**
 
 #### **57. Art Theory & Criticism** - Lý Thuyết Nghệ Thuật & Phê Bình
 
