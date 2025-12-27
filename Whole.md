@@ -28584,8 +28584,6 @@ Kỹ thuật huấn luyện não bộ thông qua phản hồi thời gian thực
 
 Chức năng này tập trung vào khả năng quan sát hệ thống tư duy của chính mình như một đối tượng - nhìn vào các mẫu hình, chu kỳ, điểm mạnh và điểm yếu của hệ thống nhận thức cá nhân.
 
-📌 **LƯU Ý:** Khái niệm "Second-order Cybernetics" trước đây có phiên bản "chi tiết" riêng (#25) nhưng đã được tích hợp vào khái niệm #37 ở CHỨC NĂNG 1: META-COGNITION & AWARENESS để tránh trùng lặp không cần thiết. Xem CHỨC NĂNG 1, khái niệm #37 để có thông tin đầy đủ về Second-order Cybernetics.
-
 ---
 
 ### **1. Core Self-Observation Methods - Phương Pháp Tự Quan Sát Cốt Lõi**
