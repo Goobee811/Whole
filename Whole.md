@@ -28945,6 +28945,8 @@ Chức năng này là về việc phát hiện các mẫu hình, cấu trúc và
 
 ### **Các Khái Niệm Cốt Lõi**
 
+### **Nhóm 1: Core Pattern Recognition - Nhận Dạng Mẫu Hình Cốt Lõi**
+
 #### **1. Cross-Domain Pattern Detection** - Phát Hiện Mẫu Hình Xuyên Lĩnh Vực
 
 Khả năng nhận ra các mẫu hình tương tự trong các lĩnh vực dường như không liên quan.
@@ -29171,7 +29173,7 @@ Khả năng nhận ra khi nào các thuộc tính mới đột sinh từ sự t�
 
 → **Liên kết:** DYNAMICS (Emergence), TRANSCENDENCE (Breakthrough Recognition).
 
-### **Nhóm Bổ Sung: Meta-Pattern (7 mục mới)**
+### **Nhóm 2: Meta-Pattern & Abstraction - Siêu Mẫu Hình & Trừu Tượng Hóa**
 
 #### **14. Pattern of Patterns** - Mẫu Hình Của Các Mẫu Hình
 
@@ -29289,7 +29291,7 @@ Nhiều cách khác nhau để mô tả cùng một hiện tượng ở các c�
 
 ---
 
-### **Nhóm Bổ Sung: Cognitive Architecture (7 mục mới)**
+### **Nhóm 3: Cognitive Architecture - Kiến Trúc Nhận Thức**
 
 #### **20. Holographic Mind** - Tâm Trí Toàn Ảnh
 
@@ -29370,7 +29372,7 @@ Khả năng tư duy về các hiện tượng ở nhiều quy mô khác nhau.
 
 ---
 
-### **Nhóm Bổ Sung: Information Field (5 mục mới)**
+### **Nhóm 4: Information Field - Trường Thông Tin**
 
 #### **27. Information Field Theory** - Lý Thuyết Trường Thông Tin [Meta-Pattern]
 
@@ -29439,7 +29441,7 @@ CÔNG CỤ NHẬN DẠNG PATTERN & META-THINKING: Sử dụng nguyên lý toàn 
 
 ---
 
-### **Nhóm Bổ Sung: Knowledge Systems (5 mục mới)**
+### **Nhóm 5: Knowledge Systems - Hệ Thống Tri Thức**
 
 #### **32. Complexity Science Overview** - Tổng Quan Khoa Học Phức Tạp
 
@@ -29498,7 +29500,7 @@ Xã hội học tự phản tư về cách tri thức được tạo ra.
 
 ---
 
-### **Nhóm Bổ Sung: Applied Recognition (5 mục mới)**
+### **Nhóm 6: Applied Recognition - Nhận Dạng Ứng Dụng**
 
 #### **37. Semiotics in Arts** - Ký Hiệu Học Trong Nghệ Thuật
 
