@@ -13994,6 +13994,24 @@ _Miền này cung cấp các công cụ và phương pháp để xác định v�
 
 _Các phương pháp và khung tư duy để điều hướng trong các môi trường cạnh tranh, không chắc chắn và có nhiều tác nhân thông minh khác._
 
+### **Tổng Quan**
+
+Các phương pháp và khung tư duy để điều hướng trong các môi trường cạnh tranh, không chắc chắn và có nhiều tác nhân thông minh khác.
+
+Bao gồm 54 khái niệm được tổ chức thành 9 nhóm chủ đề:
+
+1. **Strategic Planning & Positioning Frameworks** (7): Khung Hoạch Định & Định Vị Chiến Lược - Scenario Planning**, Game Theory Navigation**, Decision Speed & Tempo**, Wardley Mapping for Strategy**, Blue Ocean Strategy**, Porter's Five Forces**, Strategic Intent**
+2. **Alternative Approaches & Paradox Navigation** (8): Cách Tiếp Cận Thay Thế & Điều Hướng Nghịch Lý - Red Teaming**, Inversion Strategy**, Apophatic Navigation (Via Negativa)**, Naturalistic Decision Making**, Bifurcation Point Navigation**, Negative Space Navigation**, Paradox Navigation, Quantum Navigation
+14. **Paradox Navigation** (1): Điều Hướng Nghịch Lý [Phương Pháp Chiến Thuật] - Quantum Navigation
+3. **Military & Competitive Tactics** (8): Chiến Thuật Quân Sự & Cạnh Tranh - Guerrilla Strategy**, Encirclement & Flanking**, Prisoner's Dilemma Navigation**, Decisive Point**, Center of Gravity**, Force Concentration**, Maneuver Warfare**, Information Warfare**
+4. **Strategic Resource Management** (7): Quản Lý Nguồn Lực Chiến Lược - Strategic Patience**, Strategic Reserves**, Strategic Ambiguity**, Doctrine of Completed Staff Work**, Strategic Decoupling**, Network-Centric Warfare**, Soft Power Navigation**
+5. **Physical Navigation Tools** (7): Công Cụ Định Hướng Vật Lý - Compass**, Map**, Coordinates**, Radar**, Lighthouse**, Triangulation Navigation**, Journey Mapping**
+6. **Strategic Analysis & Leadership** (7): Phân Tích Chiến Lược & Lãnh Đạo - Strategic Terrain Analysis**, SWOT Analysis**, Strategic Thinking Framework**, Servant Leadership**, Adaptive Leadership**, Authentic Leadership**, Wu Wei Navigation
+7. **Natural Navigation & Intuition** (4): Định Hướng Tự Nhiên & Trực Giác - Celestial Navigation**, Terrain Reading**, Bioindicators**, Intuitive Wayfinding**
+8. **Market Creation & Thought Leadership** (5): Tạo Lập Thị Trường & Lãnh Đạo Tư Tưởng - Thought Leadership**, Paradigm Pioneering**, Category Creation**, Market Making**, International Relations & Geopolitics**
+
+---
+
 ### **1. Strategic Planning & Positioning Frameworks - Khung Hoạch Định & Định Vị Chiến Lược**
 
 Các khung liên quan đến khung hoạch định & định vị chiến lược.
@@ -14732,6 +14750,26 @@ Tạo ra một hệ sinh thái thị trường nơi trước đây không tồn 
 
 _Các công cụ và nguyên tắc để thiết lập khung tham chiếu, lập bản đồ lãnh thổ và lập kế hoạch trên nhiều chiều thời gian và không gian._
 
+### **Tổng Quan**
+
+Các công cụ và nguyên tắc để thiết lập khung tham chiếu, lập bản đồ lãnh thổ và lập kế hoạch trên nhiều chiều thời gian và không gian.
+
+Bao gồm 53 khái niệm được tổ chức thành 11 nhóm chủ đề:
+
+1. **Direction & Purpose Foundations** (6): Nền Tảng Định Hướng & Mục Đích - North Star**, Compass Calibration**, Moral Compass**, Life Planning & Purpose Finding**, Career Counseling**, Evolutionary Purpose Discovery**
+2. **Strategic Mapping & Visualization** (5): Lập Bản Đồ & Trực Quan Hóa Chiến Lược - Territory Mapping**, Wardley Mapping**, Resource Mapping**, Roadmap Creation**, Scenario Cartography**
+3. **Goal Setting & Progress Systems** (5): Thiết Lập Mục Tiêu & Hệ Thống Tiến Độ - Waypoint System**, OKRs (Objectives and Key Results)**, Gantt Charts & Critical Path**, Feasibility Diamond**, Conceptual Framework**
+4. **Temporal Planning & Time Horizons** (5): Lập Kế Hoạch Thời Gian & Chân Trời Thời Gian - Horizons Framework (Three Horizons)**, Backcasting**, Sequential Path Analysis**, Multi-Scale Time Horizons**, Spacetime Continuum**
+5. **Scenario Planning & Possibility Exploration** (6): Lập Kế Hoạch Kịch Bản & Khám Phá Khả Năng - Scenario Tree**, Pre-mortem & Pre-parade**, Options Thinking**, Parallel Universes**, Alternative Timeline Surfing**, Future History Writing**
+6. **Multi-Dimensional & Quantum Navigation** (8): Điều Hướng Đa Chiều & Lượng Tử - Master Planner**, Dimensional Shifting [Trong Lập Kế Hoạch]**, Parallel Navigation**, Holographic Navigation, Quantum Navigation States**, Multidimensional Reality**, Quantum Computing Navigation**, Quantum Tunneling Focus**
+31. **Holographic Navigation** (4): Điều Hướng Toàn Ảnh - Quantum Navigation States**, Multidimensional Reality**, Quantum Computing Navigation**, Quantum Tunneling Focus**
+7. **Narrative & Future Engineering** (6): Tường Thuật & Kỹ Thuật Thiết Kế Tương Lai - Prophetic Engineering**, Reality Fiction Techniques**, Story Structure Hacking**, Archetype Invocation**, Myth Modernization**, Meta-Narrative Awareness**
+8. **Evolutionary & Meta-Level Planning** (5): Lập Kế Hoạch Tiến Hóa & Cấp Siêu - Evolutionary Navigation**, Co-evolutionary Navigation**, Meta-Strategy**, Meta-Wayfinding**, Life Design Architecture**
+44. **Meta-Strategy**** (2): Siêu Chiến Lược - Meta-Wayfinding**, Life Design Architecture**
+45. **Meta-Wayfinding**** (1): Siêu Tìm Đường - Life Design Architecture**
+
+---
+
 ### **1. Direction & Purpose Foundations - Nền Tảng Định Hướng & Mục Đích**
 
 Các khái niệm và nguyên lý về nền tảng định hướng & mục đích.
@@ -15348,6 +15386,33 @@ Thiết kế có chủ đích các cấu trúc và hệ thống của cuộc s�
 ## CHỨC NĂNG 3: RESOURCE & PRIORITY MANAGEMENT - QUẢN LÝ TÀI NGUYÊN & ƯU TIÊN
 
 _Các công cụ để phân bổ nguồn lực hữu hạn, thiết lập ưu tiên và tối ưu hóa hiệu suất._
+
+### **Tổng Quan**
+
+Các công cụ để phân bổ nguồn lực hữu hạn, thiết lập ưu tiên và tối ưu hóa hiệu suất.
+
+Bao gồm 82 khái niệm được tổ chức thành 18 nhóm chủ đề:
+
+1. **Priority Frameworks & Decision Tools** (5): Khung Ưu Tiên & Công Cụ Quyết Định - Eisenhower Matrix, Pareto Principle (80/20 Rule)**, MoSCoW Method**, ROI Thinking**, Zero-Based Prioritization**
+1. **Eisenhower Matrix** (4): Ma Trận Eisenhower - Pareto Principle (80/20 Rule)**, MoSCoW Method**, ROI Thinking**, Zero-Based Prioritization**
+2. **Resource Assessment & Operations** (5): Đánh Giá Tài Nguyên & Vận Hành - Trade-off Analysis, Resource Inventory**, Lean Thinking**, Opportunity Cost Awareness**, Capacity Planning**
+6. **Trade-off Analysis** (4): Phân Tích Đánh Đổi - Resource Inventory**, Lean Thinking**, Opportunity Cost Awareness**, Capacity Planning**
+3. **Personal Resource Management** (4): Quản Lý Tài Nguyên Cá Nhân - Energy Management, Attention Management**, Decision Fatigue Awareness**, Master Resource Allocator**
+11. **Energy Management** (3): Quản Lý Năng Lượng - Attention Management**, Decision Fatigue Awareness**, Master Resource Allocator**
+4. **Strategic Investment & Protection** (6): Đầu Tư Chiến Lược & Bảo Vệ - Resource Alchemy, Supply Chain Navigation**, Conservation Principle**, Investment Wisdom, Risk Matrix**, Margin of Safety
+15. **Resource Alchemy** (5): Giả Kim Tài Nguyên - Supply Chain Navigation**, Conservation Principle**, Investment Wisdom, Risk Matrix**, Margin of Safety
+18. **Investment Wisdom** (2): Trí Tuệ Đầu Tư - Risk Matrix**, Margin of Safety
+5. **Information Processing & Flexibility** (5): Xử Lý Thông Tin & Linh Hoạt - Signal Processing, Knowledge Navigation**, Option Preservation, Opportunity Magnetism**, Luck Surface Area Expansion**
+21. **Signal Processing** (4): Xử Lý Tín Hiệu - Knowledge Navigation**, Option Preservation, Opportunity Magnetism**, Luck Surface Area Expansion**
+23. **Option Preservation** (2): Bảo Tồn Quyền Chọn [Trong Chiến Lược] - Opportunity Magnetism**, Luck Surface Area Expansion**
+6. **Barrier Navigation & Breakthrough** (6): Điều Hướng Rào Cản & Đột Phá - Barrier Detection, Circumvention Strategies**, Breakthrough Navigation**, Thiel's Competition Razor**, Adjacent Possible Surfing**, Reality Entrepreneurship**
+26. **Barrier Detection** (5): Phát Hiện Rào Cản - Circumvention Strategies**, Breakthrough Navigation**, Thiel's Competition Razor**, Adjacent Possible Surfing**, Reality Entrepreneurship**
+7. **Project Planning & Execution** (7): Lập Kế Hoạch Dự Án & Thực Thi - Production Management, Creative Project Management**, Exhibition Planning**, Tour Planning**, Urban Development Strategies**, Valuable Uniqueness**, Irreplaceable Perspectives**
+32. **Production Management** (6): Quản Lý Sản Xuất - Creative Project Management**, Exhibition Planning**, Tour Planning**, Urban Development Strategies**, Valuable Uniqueness**, Irreplaceable Perspectives**
+8. **Strategic Metrics & Decision Razors** (5): Chỉ Số Chiến Lược & Dao Cạo Quyết Định - Navigation ROI, Bezos' Reversibility Razor**, Gates' Complexity Razor**, Sunk Cost Razor in Resource Management**, Marginal Utility Razor**
+39. **Navigation ROI** (4): Lợi Nhuận Đầu Tư Điều Hướng - Bezos' Reversibility Razor**, Gates' Complexity Razor**, Sunk Cost Razor in Resource Management**, Marginal Utility Razor**
+
+---
 
 ### **1. Priority Frameworks & Decision Tools - Khung Ưu Tiên & Công Cụ Quyết Định**
 
@@ -21031,6 +21096,44 @@ _Miền này chứa các phương pháp và hệ thống để kiểm tra ý tư
 
 Kiểm tra các ý tưởng, giả định và mô hình với thực tế thông qua bằng chứng thực nghiệm và các phép thử nghiệm.
 
+Bao gồm 98 khái niệm được tổ chức thành 33 nhóm chủ đề:
+
+1. **Scientific Method Foundations** (2): Nền Tảng Phương Pháp Khoa Học - Falsification Principle, Ground Truth Validation
+1. **Falsification Principle** (1): Nguyên Tắc Bác Bỏ - Ground Truth Validation
+2. **Research Study Designs** (6): Thiết Kế Nghiên Cứu - A/B Testing, Triangulation, Controlled Experiment, Observational Study, Case Study Analysis, Longitudinal Study
+3. **A/B Testing** (5): Thử Nghiệm A/B - Triangulation, Controlled Experiment, Observational Study, Case Study Analysis, Longitudinal Study
+4. **Triangulation** (4): Tam Giác Hóa - Controlled Experiment, Observational Study, Case Study Analysis, Longitudinal Study
+5. **Controlled Experiment** (3): Thí Nghiệm Có Kiểm Soát - Observational Study, Case Study Analysis, Longitudinal Study
+6. **Observational Study** (2): Nghiên Cứu Quan Sát - Case Study Analysis, Longitudinal Study
+7. **Case Study Analysis** (1): Phân Tích Tình Huống - Longitudinal Study
+3. **Community & Scientific Validation** (2): Kiểm Chứng Cộng Đồng & Khoa Học - Peer Review, Replication Studies
+9. **Peer Review** (1): Đánh Giá Đồng Cấp - Replication Studies
+4. **Testing & Comparison Methods** (4): Phương Pháp Thử Nghiệm & So Sánh - Backtesting, Benchmarking**, Pragmatism Test, The Final Empirical Test: Survival**
+11. **Backtesting** (3): Kiểm Tra Ngược - Benchmarking**, Pragmatism Test, The Final Empirical Test: Survival**
+13. **Pragmatism Test** (1): Kiểm Tra Thực Dụng - The Final Empirical Test: Survival**
+5. **Observable Fields** (5): Các Trường Có Thể Quan Sát - Magnetic Field, Electric Field, Gravitational Field, Information Field, Potentiality Field
+15. **Magnetic Field** (4): Trường Từ - Electric Field, Gravitational Field, Information Field, Potentiality Field
+16. **Electric Field** (3): Trường Điện - Gravitational Field, Information Field, Potentiality Field
+17. **Gravitational Field** (2): Trường Hấp Dẫn - Information Field, Potentiality Field
+18. **Information Field** (1): Trường Thông Tin - Potentiality Field
+6. **Foundational Testing & Prototyping** (4): Thử Nghiệm Nền Tảng & Nguyên Mẫu - Empiricism, Field Testing, Prototype Testing, Baseline Comparison
+20. **Empiricism** (3): Chủ Nghĩa Kinh Nghiệm - Field Testing, Prototype Testing, Baseline Comparison
+21. **Field Testing** (2): Thử Nghiệm Thực Địa - Prototype Testing, Baseline Comparison
+22. **Prototype Testing** (1): Thử Nghiệm Nguyên Mẫu - Baseline Comparison
+7. **Epistemic Razors & Standards** (4): Dao Cạo Tri Thức & Tiêu Chuẩn - Hitchens's Razor, Sagan Standard, Hume's Guillotine, Russell's Teapot
+24. **Hitchens's Razor** (3): Dao Cạo của Hitchens - Sagan Standard, Hume's Guillotine, Russell's Teapot
+25. **Sagan Standard** (2): Tiêu Chuẩn Sagan - Hume's Guillotine, Russell's Teapot
+26. **Hume's Guillotine** (1): Máy Chém của Hume - Russell's Teapot
+8. **Validity & Consistency Checks** (7): Kiểm Tra Hiệu Lực & Nhất Quán - Coherence Check, Correspondence Check, Cross-Validation, Convergent Validity, Divergent Validity, Crowdsourced Validation, Longitudinal Validation
+28. **Coherence Check** (6): Kiểm Tra Tính Mạch Lạc - Correspondence Check, Cross-Validation, Convergent Validity, Divergent Validity, Crowdsourced Validation, Longitudinal Validation
+29. **Correspondence Check** (5): Kiểm Tra Tính Tương Ứng - Cross-Validation, Convergent Validity, Divergent Validity, Crowdsourced Validation, Longitudinal Validation
+30. **Cross-Validation** (4): Kiểm Chứng Chéo - Convergent Validity, Divergent Validity, Crowdsourced Validation, Longitudinal Validation
+31. **Convergent Validity** (3): Hiệu Lực Hội Tụ - Divergent Validity, Crowdsourced Validation, Longitudinal Validation
+32. **Divergent Validity** (2): Hiệu Lực Phân Kỳ - Crowdsourced Validation, Longitudinal Validation
+33. **Crowdsourced Validation** (1): Kiểm Chứng Cộng Đồng - Longitudinal Validation
+
+---
+
 ### **1. Scientific Method Foundations - Nền Tảng Phương Pháp Khoa Học**
 
 Các phương pháp liên quan đến nền tảng phương pháp khoa học.
@@ -21355,6 +21458,18 @@ Xác thực bằng cách theo dõi trong một khoảng thời gian dài.
 ### **Tổng quan**
 
 Tìm kiếm, phát hiện và khắc phục các điểm yếu, lỗi hổng và thiên kiến trong tư duy và hệ thống.
+
+Bao gồm 36 khái niệm được tổ chức thành 7 nhóm chủ đề:
+
+1. **Adversarial Testing Methods** (5): Phương Pháp Kiểm Thử Đối Kháng - Red Teaming**, Penetration Testing**, Fault Injection**, Byzantine Fault Tolerance (BFT) Testing**, Trojan Horse Testing**
+2. **Stress & Resilience Testing** (4): Kiểm Thử Áp Lực & Khả Năng Phục Hồi - Stress Testing**, Chaos Engineering**, Boundary Condition Testing**, Conceptual Stress Testing**
+3. **Proactive Failure Prevention** (4): Phòng Ngừa Thất Bại Chủ Động - Pre-mortem Analysis**, Inversion (as a testing method)**, Backcasting from Failure**, "Kill the Company" Exercise**
+4. **Critical Inquiry & Dissent** (7): Truy Vấn Phản Biện & Bất Đồng - Devil's Advocate**, Socratic Questioning**, Cross-Examination**, Assumption Testing**, Disconfirmation Seeking**, Tenth Man Rule**, Assumption Hunting**
+5. **Cognitive Bias & Blind Spot Detection** (4): Phát Hiện Thiên Kiến & Điểm Mù - Cognitive Biases**, Black Swan Blindness**, Blind Spot Analysis**, Algorithmic Bias Audit**
+6. **Error Detection & Analysis** (8): Phát Hiện & Phân Tích Lỗi - Error Detection**, Error Analysis**, Failure Mode Analysis**, Near-Miss Analysis**, Cascading Failure Analysis**, Reality Glitches Detection**, Error Pattern Mining**, Signal vs Noise Separation**
+7. **Error Correction & Learning** (4): Sửa Lỗi & Học Hỏi - Sensitivity Analysis**, Correction Strategies**, Adaptive Learning**, Failure Harvesting**
+
+---
 
 ### **1. Adversarial Testing Methods - Phương Pháp Kiểm Thử Đối Kháng**
 
@@ -21757,6 +21872,38 @@ Thực hành thu thập và học hỏi có hệ thống từ thất bại.
 
 Thu thập, phân tích và sử dụng phản hồi để liên tục hiệu chỉnh và cải thiện hệ thống và quy trình.
 
+Bao gồm 60 khái niệm được tổ chức thành 27 nhóm chủ đề:
+
+1. **Testing & Early Validation Methods** (3): Thử Nghiệm & Phương Pháp Kiểm Chứng Sớm - Pilot Study, Canary Testing, Cohort Analysis
+1. **Pilot Study** (2): Nghiên Cứu Thí Điểm - Canary Testing, Cohort Analysis
+2. **Canary Testing** (1): Thử Nghiệm Chim Hoàng Yến - Cohort Analysis
+2. **Measurement & Instrument Validation** (3): Đo Lường & Xác Thực Công Cụ - Instrument Validation, Statistical Process Control (SPC), Construct Validity
+4. **Instrument Validation** (2): Xác Thực Công Cụ Đo - Statistical Process Control (SPC), Construct Validity
+5. **Statistical Process Control (SPC)** (1): Kiểm Soát Quy Trình Thống Kê - Construct Validity
+3. **Research Synthesis & Meta-Methods** (3): Tổng Hợp Nghiên Cứu & Phương Pháp Siêu Cấp - Meta-Analysis, Ablation Study, Meta-Testing
+7. **Meta-Analysis** (2): Phân Tích Tổng Hợp [Phương Pháp Nghiên Cứu] - Ablation Study, Meta-Testing
+8. **Ablation Study** (1): Nghiên Cứu Loại Bỏ - Meta-Testing
+4. **Robustness & Stability Testing** (3): Kiểm Tra Độ Vững Chắc & Ổn Định - Robustness Check, Model Stability, Perturbation Analysis
+10. **Robustness Check** (2): Kiểm Tra Độ Vững Chắc - Model Stability, Perturbation Analysis
+11. **Model Stability** (1): Ổn Định Mô Hình - Perturbation Analysis
+5. **Statistical Reasoning Paradigms** (3): Các Mô Thức Lý Luận Thống Kê - Bayesian Thinking, Frequentist Reasoning, Stochastic Reasoning
+13. **Bayesian Thinking** (2): Tư Duy Bayesian - Frequentist Reasoning, Stochastic Reasoning
+14. **Frequentist Reasoning** (1): Lý Luận Tần Suất - Stochastic Reasoning
+6. **Multi-Source Feedback Systems** (4): Hệ Thống Phản Hồi Đa Nguồn - Peer Debriefing, Prediction Market, 360-Degree Feedback, Feedback Loop Architecture
+16. **Peer Debriefing** (3): Gỡ Rối Cùng Đồng Cấp - Prediction Market, 360-Degree Feedback, Feedback Loop Architecture
+17. **Prediction Market** (2): Thị Trường Dự Đoán - 360-Degree Feedback, Feedback Loop Architecture
+18. **360-Degree Feedback** (1): Phản Hồi 360 Độ - Feedback Loop Architecture
+7. **Reflective & Contemplative Integration** (4): Phản Tư & Tích Hợp Trầm Tư - Reflection Protocols, Integration Journaling, Contemplative Integration, Dream Integration
+20. **Reflection Protocols** (3): Quy Trình Phản Tư [Trong Xử Lý Phản Hồi] - Integration Journaling, Contemplative Integration, Dream Integration
+21. **Integration Journaling** (2): Nhật Ký Tích Hợp - Contemplative Integration, Dream Integration
+22. **Contemplative Integration** (1): Tích Hợp Trầm Tư [Xử Lý Phản Hồi Sâu] - Dream Integration
+8. **Validation Process Optimization** (4): Tối Ưu Hóa Quy Trình Kiểm Chứng - Validation Metrics, Validation Evolution, Calibrated Response Systems, Precision Timing Mastery
+24. **Validation Metrics** (3): Các Chỉ Số Kiểm Chứng - Validation Evolution, Calibrated Response Systems, Precision Timing Mastery
+25. **Validation Evolution** (2): Tiến Hóa Kiểm Chứng - Calibrated Response Systems, Precision Timing Mastery
+26. **Calibrated Response Systems** (1): Hệ Thống Phản Ứng Được Hiệu Chỉnh - Precision Timing Mastery
+
+---
+
 ### **1. Testing & Early Validation Methods - Thử Nghiệm & Phương Pháp Kiểm Chứng Sớm**
 
 Các phương pháp liên quan đến thử nghiệm & phương pháp kiểm chứng sớm.
@@ -22028,6 +22175,17 @@ Khả năng điều chỉnh hành động với thời điểm tối ưu.
 
 Thiết kế và thực hiện các thử nghiệm có cấu trúc để kiểm tra giả thuyết và khám phá kiến thức mới.
 
+Bao gồm 23 khái niệm được tổ chức thành 6 nhóm chủ đề:
+
+1. **Experimental Design Types** (4): Các Loại Thiết Kế Thực Nghiệm - Quasi-Experiment**, Natural Experiment**, Pilot Programs**, Multivariate Testing**
+2. **Preliminary Assessment Methods** (3): Phương Pháp Đánh Giá Sơ Bộ - Smoke Testing**, Sanity Check**, Model Comparison**
+3. **Competitive Selection Protocols** (4): Giao Thức Lựa Chọn Cạnh Tranh - War Gaming & Simulation**, Champion-Challenger**, Tournament Selection**, Shock Doctrine Thinking**
+4. **Temporal Performance Testing** (5): Kiểm Thử Hiệu Năng Theo Thời Gian - Forward Testing**, Decay Testing**, Regime Change Detection**, Evolution Tracking**, Future-Proofing**
+5. **Predictive & Stochastic Validation** (4): Kiểm Chứng Dự Đoán & Ngẫu Nhiên - Prediction Accuracy**, Scenario Testing**, Monte Carlo Validation**, Feature Importance**
+6. **Paradox & Breakthrough Protocols** (3): Giao Thức Nghịch Lý & Đột Phá - Koan Processing**, Double Bind Navigation**, Breakdown Protocol**
+
+---
+
 ### **1. Experimental Design Types - Các Loại Thiết Kế Thực Nghiệm**
 
 Các khái niệm và nguyên lý về các loại thiết kế thực nghiệm.
@@ -22243,6 +22401,24 @@ Sử dụng thất bại hoặc đổ vỡ như một phương pháp để đạ
 ### **Tổng quan**
 
 Xác định và giảm thiểu rủi ro, phát hiện lỗi sai lầm và duy trì tiêu chuẩn chất lượng cao.
+
+Bao gồm 81 khái niệm được tổ chức thành 13 nhóm chủ đề:
+
+1. **Cognitive Biases in Judgment** (8): Thiên Kiến Nhận Thức Trong Phán Đoán - Confirmation Bias**, Availability Heuristic**, Anchoring Bias**, Survivorship Bias**, Hindsight Bias**, Overconfidence Effect**, Groupthink**, Sunk Cost Fallacy**
+2. **Verification Anti-Patterns & Fallacies** (8): Mô Hình Sai & Ngụy Biện Kiểm Chứng - The Streetlight Effect, The Boiling Frog, Occam's Broom**, Platonicity**, The Ludic Fallacy**, Cargo Cult Science**, The Empty World Assumption**, The Gell-Mann Amnesia Effect**
+9. **The Streetlight Effect** (7): Hiệu Ứng Đèn Đường [Rủi Ro Kiểm Chứng] - The Boiling Frog, Occam's Broom**, Platonicity**, The Ludic Fallacy**, Cargo Cult Science**, The Empty World Assumption**, The Gell-Mann Amnesia Effect**
+10. **The Boiling Frog** (6): Con Ếch Luộc [Risk Detection Tool - Công Cụ Phát Hiện Rủi Ro] - Occam's Broom**, Platonicity**, The Ludic Fallacy**, Cargo Cult Science**, The Empty World Assumption**, The Gell-Mann Amnesia Effect**
+3. **Social & System Effects** (7): Hiệu Ứng Xã Hội & Hệ Thống - The Johari Window**, The Pygmalion Effect**, The Cobra Effect**, Moral Hazard**, Selection Bias**, Regression to the Mean**, Observer Effect
+4. **Measurement Laws & Fallacies** (9): Định Luật & Ngụy Biện Đo Lường - Goodhart's Law**, The Texas Sharpshooter Fallacy**, The McNamara Fallacy**, The Narrative Fallacy**, Recency Bias**, The Peak-End Rule**, The Planning Fallacy**, Base Rate Neglect**, The Master Validator**
+5. **Risk Assessment Tools** (5): Công Cụ Đánh Giá Rủi Ro - Risk Assessment**, Uncertainty Quantification**, Confidence Estimation**, Signal Harvesting**, Reality Checking**
+6. **Distribution Laws** (5): Các Định Luật Phân Phối - Sturgeon's Law**, Pareto Principle**, Price's Law**, Benford's Law**, Bradford's Law**
+7. **Temporal & System Laws** (5): Định Luật Thời Gian & Hệ Thống - Lindy Effect**, Chesterton's Fence**, Gall's Law**, [REMOVED, Amara's Law**
+47. **[REMOVED** (1): See DYNAMICS #46] - Amara's Law**
+8. **Analytical Razors & Principles** (7): Dao Cạo Phân Tích & Nguyên Lý - Survivorship Bias Filter**, Anthropic Principle, Ergodicity Razor**, Mediocrity Principle**, Shannon's Razor**, Deutsch's Razor**, Feynman's Razor**
+50. **Anthropic Principle** (5): Nguyên Lý Nhân Trạng [Weak Version - Selection Bias Tool] - Ergodicity Razor**, Mediocrity Principle**, Shannon's Razor**, Deutsch's Razor**, Feynman's Razor**
+9. **Testing & Validation Methods** (8): Phương Pháp Kiểm Thử & Kiểm Chứng - Brandolini's Law**, Antifragility Testing**, Boundary Testing**, Mutation Testing**, Adversarial Examples**, Bayesian Validation**, Ensemble Validation**, Systemic Validation**
+
+---
 
 ### **1. Cognitive Biases in Judgment - Thiên Kiến Nhận Thức Trong Phán Đoán**
 
