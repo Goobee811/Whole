@@ -1,10 +1,10 @@
 ---
 name: whole-regrouper
 description: |
-  Phân tích và gom nhóm lại các khái niệm trong từng CHỨC NĂNG của Whole.md.
-  Một workflow hoàn chỉnh: Grep → Read → Analyze → Regroup → Edit → Commit & Push.
-  Uses progressive disclosure: core workflow in this file, detailed references loaded as needed.
-version: 3.2.0
+  Phân tích, gom nhóm, và ĐỒNG BỘ (reconcile) giữa Tổng Quan listing và actual group headers.
+  Detects inconsistencies between what Tổng Quan says vs what actual content shows.
+  v4.0.0: Added reconciliation workflow for Tổng Quan ↔ Content sync.
+version: 4.0.0
 license: MIT
 allowed-tools:
   - Edit
@@ -14,185 +14,254 @@ allowed-tools:
 metadata:
   author: "Whole Project"
   category: "documentation"
-  updated: "2025-12-17"
+  updated: "2025-12-28"
 ---
 
-# Whole Concept Regrouper
+# Whole Concept Regrouper & Reconciler
 
-Regroup concepts in Whole.md CHỨC NĂNGs using thematic analysis.
+**v4.0.0** - Now includes reconciliation between Tổng Quan and actual content.
 
-## Quick Start (5 Steps)
+## The Problem This Solves
 
-1. 🔍 **Grep** → Find CHỨC NĂNG line numbers
-2. 📖 **Read** → Load concepts (use offset/limit)
-3. 🧠 **Analyze** → Propose thematic groups (3-8 concepts each)
-4. ✍️ **Edit** → Rewrite with new groups, preserve all content
-5. 🚀 **Commit & Push** → Save with proper message format
+There are TWO representations of groups in each CHỨC NĂNG:
 
-**Detailed workflow:** `references/workflow-steps.md`
+1. **Tổng Quan Listing** (at top):
+   ```markdown
+   ### **Tổng Quan**
+   Bao gồm 44 khái niệm được tổ chức thành 7 nhóm chủ đề:
+   1. **Core Emergence Principles** (8): Nguyên Lý Đột Sinh Cốt Lõi...
+   2. **Chaos & Criticality Dynamics** (7): Động Lực Hỗn Loạn...
+   ```
+
+2. **Actual Group Headers** (in content):
+   ```markdown
+   ### **1. Foundational Axioms & Logic - Tiên Đề & Logic Nền Tảng**
+   ### **2. Unity, Duality & Ultimate Reality - Thống Nhất, Nhị Nguyên...**
+   ```
+
+**Problem:** These two can be DIFFERENT - causing confusion!
 
 ---
 
-## Critical Rules
+## Two Workflows
+
+### Workflow A: REGROUP (Original)
+Bottom-up: Analyze concepts → Create new groups → Update both Tổng Quan + Headers
+
+### Workflow B: RECONCILE (New in v4.0)
+Sync existing: Compare Tổng Quan vs Headers → Fix mismatches → Choose source of truth
+
+---
+
+## Workflow B: RECONCILE (Step-by-Step)
+
+### Step 1: 🔍 Parse Both Representations
+
+**1.1 Parse Tổng Quan Listing:**
+```markdown
+Look for pattern after "nhóm chủ đề:" or "groups:"
+1. **[English Name]** (N): [Vietnamese] - concept1, concept2...
+2. **[English Name]** (N): [Vietnamese] - concept1, concept2...
+```
+
+Extract:
+- Group number
+- English name
+- Concept count (N)
+- Vietnamese name
+- Listed concepts
+
+**1.2 Parse Actual Headers:**
+```markdown
+Look for pattern: ### **[số]. [English] - [Vietnamese]**
+```
+
+Extract:
+- Group number
+- English name
+- Vietnamese name
+- Concepts under this header (count #### headings until next ###)
+
+---
+
+### Step 2: 🔎 Compare & Detect Mismatches
+
+Create comparison table:
+
+```markdown
+| # | Tổng Quan Says | Actual Header Says | Match? |
+|---|----------------|-------------------|--------|
+| 1 | Core Emergence Principles (8) | Foundational Axioms & Logic | ❌ NO |
+| 2 | Chaos & Criticality (7) | Unity, Duality & Reality | ❌ NO |
+| 3 | System Stability (5) | Emergence & Creative Principles | ❌ NO |
+...
+```
+
+**Mismatch Types:**
+- **Name Mismatch**: Same position, different names
+- **Count Mismatch**: Tổng Quan says 8, actual has 6
+- **Missing Group**: Exists in one but not other
+- **Order Mismatch**: Same groups, different order
+
+---
+
+### Step 3: 🎯 Choose Reconciliation Strategy
+
+**OPTION A: Tổng Quan → Content (Tổng Quan is authoritative)**
+- Update actual ### headers to match Tổng Quan listing
+- Reorganize concepts to match Tổng Quan's groupings
+- Use when: Tổng Quan was carefully designed, content drifted
+
+**OPTION B: Content → Tổng Quan (Content is authoritative)**
+- Update Tổng Quan listing to reflect actual headers
+- Recalculate concept counts
+- Use when: Content was recently regrouped correctly, Tổng Quan outdated
+
+**OPTION C: Full Regroup (Neither is good)**
+- Analyze concepts fresh
+- Create new grouping logic
+- Update BOTH Tổng Quan AND headers
+- Use when: Both are inconsistent with actual content
+
+---
+
+### Step 4: ✍️ Execute Reconciliation
+
+**For OPTION A (Tổng Quan → Content):**
+1. Read Tổng Quan's group structure
+2. For each group in Tổng Quan:
+   - Create corresponding ### header
+   - Move listed concepts under that header
+   - Verify concept count matches
+3. Renumber concepts continuously
+
+**For OPTION B (Content → Tổng Quan):**
+1. Read all ### headers and their concept counts
+2. Regenerate Tổng Quan listing:
+   ```markdown
+   Bao gồm [N] khái niệm được tổ chức thành [M] nhóm chủ đề:
+
+   1. **[Header 1 English]** ([count]): [Header 1 Vietnamese] - [concept list]
+   2. **[Header 2 English]** ([count]): [Header 2 Vietnamese] - [concept list]
+   ...
+   ```
+3. Preserve all other Tổng Quan content (intro paragraph)
+
+**For OPTION C (Full Regroup):**
+1. Follow original regroup workflow
+2. Update BOTH representations simultaneously
+
+---
+
+### Step 5: ✅ Validate Sync
+
+After reconciliation, verify:
+- [ ] Tổng Quan group count = Actual ### header count
+- [ ] Each Tổng Quan group name = Corresponding ### header name
+- [ ] Tổng Quan concept counts match actual counts
+- [ ] All concepts accounted for (no duplicates, no missing)
+
+---
+
+## Reconciliation Output Format
+
+```markdown
+📊 RECONCILIATION ANALYSIS: CHỨC NĂNG [N]
+
+TỔNG QUAN SAYS:
+1. [Group A] (8 concepts)
+2. [Group B] (7 concepts)
+...
+
+ACTUAL HEADERS:
+1. [Group X] (6 concepts)
+2. [Group Y] (5 concepts)
+...
+
+MISMATCHES DETECTED: [N]
+| Position | Tổng Quan | Actual | Issue |
+|----------|-----------|--------|-------|
+| 1 | Group A | Group X | Name differs |
+...
+
+RECOMMENDED: OPTION [A/B/C]
+REASON: [Brief explanation]
+
+Proceed with reconciliation? [Y/n]
+```
+
+---
+
+## Critical Rules (Both Workflows)
 
 ### 🚨 MANDATORY: Atomic Read-Edit Pattern
-**ALWAYS Read file IMMEDIATELY before Edit - in the SAME turn, NO output in between.**
+**ALWAYS Read IMMEDIATELY before Edit - same turn, NO output in between.**
 
 ```
 ✅ ĐÚNG:  Read(Whole.md) → Edit(Whole.md)  [same turn]
-❌ SAI:   Read(Whole.md) → [output dài] → Edit(Whole.md)  [có thể fail]
-❌ SAI:   Read(Whole.md) → [session resume] → Edit(Whole.md)  [CHẮC CHẮN fail]
+❌ SAI:   Read(Whole.md) → [output] → Edit(Whole.md)  [fail risk]
 ```
 
-**If "File has not been read yet" error:**
-1. Output: "Lỗi Edit - re-reading..."
-2. Read file NGAY LẬP TỨC: `Read /home/user/Whole/Whole.md offset=X limit=Y`
-3. Edit NGAY trong cùng turn (không output dài)
-4. Output: "✓ Edit thành công"
-
-**Detailed error handling:** `references/robust-operations.md`
-
 ### ✅ MUST PRESERVE
-- "### **Tổng Quan**" section (exact content, exact format)
-- All concept content (every word, every bullet point, every → **Liên kết:**)
+- All concept content (every word)
+- → **Liên kết:** lines
+- Markdown formatting
 
-### ✅ MUST CHANGE
-- Group headings (new thematic names, bilingual format with numbering)
-- Concept numbers (renumber continuously: 1, 2, 3...)
-- Group numbers (number groups sequentially within each CHỨC NĂNG: 1, 2, 3...)
+### ✅ MUST SYNC
+- Tổng Quan listing ↔ Actual ### headers
+- Group names (bilingual)
+- Concept counts
+- Concept numbering (continuous: 1, 2, 3...)
 
 ### ❌ NEVER
 - Delete concepts
 - Modify concept content
-- Restart numbering per group
-- Edit without Reading first
+- Leave Tổng Quan ↔ Content out of sync
 
 ---
 
-## Grouping Principles
+## Tổng Quan Format Standard
 
-Apply these when analyzing:
-
-1. **Coherence** - Concepts naturally belong together
-2. **Natural Thinking** - Users expect these together
-3. **Balance** - 3-8 concepts per group (ideal: 5-6)
-4. **Bilingual & Numbered** - All group names: `### **[số]. [English] - [Vietnamese]**`
-   - Groups numbered sequentially within each CHỨC NĂNG (1, 2, 3...)
-   - Example: `### **1. Foundational System Theories - Lý Thuyết Hệ Thống Nền Tảng**`
-
-**Detailed principles:** `references/grouping-principles.md`
-
----
-
-## Analysis Output Format
+After reconciliation, Tổng Quan MUST follow this format:
 
 ```markdown
-📊 PHÂN TÍCH:
-- Tổng: [N] concepts → [M] groups
+### **Tổng Quan**
 
-📝 CẤU TRÚC MỚI:
-### **1. [Group 1] - [Nhóm 1]** ([X] concepts)
-   - Concept A, B, C...
-### **2. [Group 2] - [Nhóm 2]** ([Y] concepts)
-   - Concept D, E, F...
-### **3. [Group 3] - [Nhóm 3]** ([Z] concepts)
-   - Concept G, H, I...
+[1-2 sentence description of this CHỨC NĂNG's purpose]
+
+Bao gồm [N] khái niệm được tổ chức thành [M] nhóm chủ đề:
+
+1. **[English Group Name]** ([count]): [Vietnamese Group Name] - [concept1], [concept2], [concept3]...
+2. **[English Group Name]** ([count]): [Vietnamese Group Name] - [concept1], [concept2], [concept3]...
+...
+
+---
 ```
 
-**Note:** Group numbers (1, 2, 3...) are scoped to each CHỨC NĂNG for easy tracking.
+**Requirements:**
+- Group number matches actual ### header number
+- English name matches actual ### header English part
+- Vietnamese name matches actual ### header Vietnamese part
+- Count matches actual concept count under that header
+- Concept list includes ALL concepts under that header
 
 ---
 
-## Commit Message Format
+## Commands
 
-```bash
-Regroup [DOMAIN] CHỨC NĂNG [số]: [summary]
-
-- [N] concepts → [M] thematic groups
-- Groups: [list English names]
-- Preserved: Tổng Quan, all concept content
-- Renumbered: 1-[N] continuous
-```
-
----
-
-## Progress Output (MANDATORY)
-
-**LUÔN output status sau mỗi tool call để user biết tiến độ:**
-
-```markdown
-After Grep:  "✓ Grep: tìm thấy CF[N] tại line [X]"
-After Read:  "✓ Read: [N] lines từ Whole.md (line [X]-[Y])"
-After Edit:  "✓ Edit: đã sửa [description]"
-After Bash:  "✓ Bash: [command] - [result]"
-
-Before long operation: "Đang [action]..."
-After long operation:  "✓ Hoàn thành [action]"
-```
-
-**KHÔNG để user phải hỏi "đang làm tới đâu?"** - luôn output proactively.
-
----
-
-## Session Resume Handling
-
-**Khi session resume (sau khi bị interrupt/compact):**
-
-1. **Check TodoWrite** - tìm task đang in_progress
-2. **Output status**: "Session resumed. Đang ở: [current task]"
-3. **Re-read files** - previous reads đã INVALID
-4. **Continue** từ current step
-
-```markdown
-⚠️ CRITICAL: Sau session resume, PHẢI Read lại Whole.md trước khi Edit!
-Previous reads không còn valid trong context mới.
-```
-
-**Detailed recovery:** `references/robust-operations.md`
+- `/regroup [N]` - Full regroup workflow (analyze → new groups → update both)
+- `/reconcile [N]` - Compare Tổng Quan vs Content, sync them
 
 ---
 
 ## References (Load as Needed)
 
-**Error Handling & Recovery:**
-- `references/robust-operations.md` - Atomic patterns, progress feedback, session resume
-
-**Grouping & Analysis:**
-- `references/grouping-principles.md` - Detailed criteria, decision framework, examples
-
-**Naming Groups:**
-- `references/naming-guidelines.md` - Format rules, strategies, good/bad examples
-
-**Detailed Workflow:**
-- `references/workflow-steps.md` - Step-by-step instructions, git commands, examples
-
-**Quality Validation:**
-- `references/quality-checklist.md` - Pre/during/post-edit checklists, common mistakes
+- `references/workflow-steps.md` - Original regroup workflow
+- `references/grouping-principles.md` - How to create good groups
+- `references/naming-guidelines.md` - Bilingual naming rules
+- `references/quality-checklist.md` - Validation checklists
+- `references/robust-operations.md` - Error handling
 
 ---
 
-## TodoWrite (MANDATORY)
-
-**Use TodoWrite tool at each checkpoint** - don't just output emoji text!
-
-```json
-[
-  {"content": "Read CF{N} content", "status": "in_progress", "activeForm": "Reading CF content"},
-  {"content": "Analyze and create groups", "status": "pending", "activeForm": "Analyzing concepts"},
-  {"content": "Edit Whole.md", "status": "pending", "activeForm": "Editing Whole.md"},
-  {"content": "Validate changes", "status": "pending", "activeForm": "Validating"},
-  {"content": "Commit and push", "status": "pending", "activeForm": "Committing"}
-]
-```
-
----
-
-## Integration
-
-- **Command:** `/regroup [domain] [function-number]` - Auto-activates this skill
-- **Hooks:** `session-init` (displays progress on startup)
-- **Progress:** `.whole-progress.json` - Update after each CF completion
-
----
-
-**Version:** 3.2.0 (Robust operations, progress feedback, session resume handling)
+**Version:** 4.0.0 (Added reconciliation for Tổng Quan ↔ Content sync)

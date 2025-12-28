@@ -12,15 +12,18 @@ Specialized Claude skills for editing and expanding the Whole bilingual knowledg
 - `whole-editor`: Main editing skill for content expansion
 - `whole-analyzer`: Pre-editing analysis and duplicate detection
 - `whole-reviewer`: Post-editing validation
-- `whole-regrouper`: Phân tích và gom nhóm lại khái niệm trong CHỨC NĂNG (v3.0.0 - Progressive disclosure)
+- `whole-regrouper`: Phân tích, gom nhóm, và ĐỒNG BỘ Tổng Quan ↔ Content (v4.0.0 - Reconciliation)
 
 ## Workflows
 - `.claude/workflows/editing-workflow.md`: Step-by-step editing process
 
 ## Automation & Productivity Features
 
-### Progressive Disclosure (NEW)
-- **whole-regrouper v3.0.0**: Main skill file reduced from 199 → 108 lines (45% reduction)
+### Reconciliation & Progressive Disclosure
+- **whole-regrouper v4.0.0**: Now includes Tổng Quan ↔ Content reconciliation
+- **Two Workflows:**
+  - `/regroup` - Full regroup (analyze concepts → new groups → update both)
+  - `/reconcile` - Sync only (compare → detect mismatch → fix)
 - Detailed guidance in `references/` (loaded as needed):
   - `grouping-principles.md` - Coherence, balance, bilingual criteria
   - `workflow-steps.md` - Detailed 5-step workflow
@@ -129,7 +132,8 @@ When evaluating duplicates:
 - `/analyze [section-path]` - Analyze section for issues
 - `/edit [section-path]` - Start editing session
 - `/expand [domain] [function] [topic]` - Add new concepts
-- `/regroup [function-number]` - ⚡ Regroup CHỨC NĂNG (auto-detects next, v2.0.0)
+- `/regroup [function-number]` - ⚡ Regroup CHỨC NĂNG (full regroup workflow)
+- `/reconcile [function-number]` - 🔄 Sync Tổng Quan ↔ Content mismatch (v4.0.0)
 
 ## Style Preferences
 - Formal yet accessible tone
