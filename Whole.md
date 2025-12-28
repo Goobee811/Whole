@@ -11623,6 +11623,52 @@ Biến giảng dạy thành một hình thức nghệ thuật sáng tạo - nơi
 
 Các phương pháp, quy trình và hệ thống có cấu trúc để phát triển các ý tưởng ban đầu thành các giải pháp, sản phẩm hoặc dịch vụ khả thi và có giá trị. Đây là giai đoạn chuyển hóa từ ý tưởng thành đổi mới thực tế.
 
+Bao gồm 127 khái niệm được tổ chức thành 41 nhóm chủ đề:
+
+1. **Core Innovation Methodologies** (6): Phương Pháp Đổi Mới Cốt Lõi - Design Thinking, Lean Innovation, Jobs-to-be-Done Innovation Application, Disruptive Innovation Theory, Open Innovation, Agile Innovation
+1. **Design Thinking** (5): Tư Duy Thiết Kế - Lean Innovation, Jobs-to-be-Done Innovation Application, Disruptive Innovation Theory, Open Innovation, Agile Innovation
+2. **Lean Innovation** (4): Đổi Mới Tinh Gọn - Jobs-to-be-Done Innovation Application, Disruptive Innovation Theory, Open Innovation, Agile Innovation
+3. **Jobs-to-be-Done Innovation Application** (3): Ứng Dụng JTBD Trong Đổi Mới - Disruptive Innovation Theory, Open Innovation, Agile Innovation
+4. **Disruptive Innovation Theory** (2): Lý Thuyết Đổi Mới Đột Phá - Open Innovation, Agile Innovation
+5. **Open Innovation** (1): Đổi Mới Mở [Phương Pháp Đột Phá] - Agile Innovation
+2. **Innovation Process Management** (3): Quản Lý Quy Trình Đổi Mới - Stage-Gate Process, Innovation Portfolio Management, Innovation Ambition Matrix
+7. **Stage-Gate Process** (2): Quy Trình Cổng-Giai Đoạn - Innovation Portfolio Management, Innovation Ambition Matrix
+8. **Innovation Portfolio Management** (1): Quản Lý Danh Mục Đổi Mới - Innovation Ambition Matrix
+3. **Business Model & Platform Innovation** (3): Đổi Mới Mô Hình Kinh Doanh & Nền Tảng - Business Model Innovation, Platform Innovation, Combinatorial Innovation
+10. **Business Model Innovation** (2): Đổi Mới Mô Hình Kinh Doanh - Platform Innovation, Combinatorial Innovation
+11. **Platform Innovation** (1): Đổi Mới Nền Tảng - Combinatorial Innovation
+4. **Breakthrough Mechanics** (5): Cơ Chế Đột Phá - Breakthrough Breeding, Evolution Hacking, Genius Mode Activation, Creative Singularity, Alchemical Creation
+13. **Breakthrough Breeding** (4): Nhân Giống Đột Phá - Evolution Hacking, Genius Mode Activation, Creative Singularity, Alchemical Creation
+14. **Evolution Hacking** (3): Hack Tiến Hóa [Thiết Kế & Định Hướng] - Genius Mode Activation, Creative Singularity, Alchemical Creation
+15. **Genius Mode Activation** (2): Kích Hoạt Chế Độ Thiên Tài - Creative Singularity, Alchemical Creation
+16. **Creative Singularity** (1): Điểm Kỳ Dị Sáng Tạo - Alchemical Creation
+5. **Design & Narrative Approaches** (6): Tiếp Cận Thiết Kế & Câu Chuyện - Narrative-Driven Innovation, Prototyping, Systematic Inventive Thinking (SIT), World-Building, Speculative & Critical Design, Service Design
+18. **Narrative-Driven Innovation** (5): Đổi Mới Dẫn Dắt Bởi Câu Chuyện - Prototyping, Systematic Inventive Thinking (SIT), World-Building, Speculative & Critical Design, Service Design
+19. **Prototyping** (4): Tạo Mẫu - Systematic Inventive Thinking (SIT), World-Building, Speculative & Critical Design, Service Design
+20. **Systematic Inventive Thinking (SIT)** (3): Tư Duy Sáng Tạo Có Hệ Thống - World-Building, Speculative & Critical Design, Service Design
+21. **World-Building** (2): Xây Dựng Thế Giới [Comprehensive Creation Method] - Speculative & Critical Design, Service Design
+22. **Speculative & Critical Design** (1): Thiết Kế Đầu Cơ & Phê Phán - Service Design
+6. **Collaborative & Open Innovation** (3): Đổi Mới Cộng Tác & Mở - Co-Creation, Innovation Labs & Sandboxes, Reverse Innovation
+24. **Co-Creation** (2): Đồng Sáng Tạo [Phương Pháp Đổi Mới Đột Phá] - Innovation Labs & Sandboxes, Reverse Innovation
+25. **Innovation Labs & Sandboxes** (1): Phòng Thí Nghiệm Đổi Mới & Hộp Cát - Reverse Innovation
+7. **Innovation Operations & Resources** (6): Vận Hành & Nguồn Lực Đổi Mới - Innovation Accounting, Technology Scouting, Innovation Sprints, Innovation Challenges & Competitions, Innovation Partnerships & Alliances, Corporate Venturing
+27. **Innovation Accounting** (5): Kế Toán Đổi Mới - Technology Scouting, Innovation Sprints, Innovation Challenges & Competitions, Innovation Partnerships & Alliances, Corporate Venturing
+28. **Technology Scouting** (4): Trinh Sát Công Nghệ - Innovation Sprints, Innovation Challenges & Competitions, Innovation Partnerships & Alliances, Corporate Venturing
+29. **Innovation Sprints** (3): Chạy Nước Rút Đổi Mới - Innovation Challenges & Competitions, Innovation Partnerships & Alliances, Corporate Venturing
+30. **Innovation Challenges & Competitions** (2): Thách Thức & Cuộc Thi Đổi Mới - Innovation Partnerships & Alliances, Corporate Venturing
+31. **Innovation Partnerships & Alliances** (1): Đối Tác & Liên Minh Đổi Mới - Corporate Venturing
+8. **Organizational Innovation Capability** (2): Năng Lực Đổi Mới Tổ Chức - Innovation Culture Building, Innovation Capability Development
+33. **Innovation Culture Building** (1): Xây Dựng Văn Hóa Đổi Mới - Innovation Capability Development
+9. **Systemic & Social Innovation** (7): Đổi Mới Hệ Thống & Xã Hội - Reality Hacking, Phoenix Innovation, Innovation Cascades, Alternative Economics Models, Innovative Governance Systems, New Relationship Models, Solutions Journalism
+35. **Reality Hacking** (6): Hack Thực Tại - Phoenix Innovation, Innovation Cascades, Alternative Economics Models, Innovative Governance Systems, New Relationship Models, Solutions Journalism
+36. **Phoenix Innovation** (5): Đổi Mới Phượng Hoàng - Innovation Cascades, Alternative Economics Models, Innovative Governance Systems, New Relationship Models, Solutions Journalism
+37. **Innovation Cascades** (4): Thác Đổi Mới - Alternative Economics Models, Innovative Governance Systems, New Relationship Models, Solutions Journalism
+38. **Alternative Economics Models** (3): Các Mô Hình Kinh Tế Thay Thế - Innovative Governance Systems, New Relationship Models, Solutions Journalism
+39. **Innovative Governance Systems** (2): Hệ Thống Quản Trị Đổi Mới - New Relationship Models, Solutions Journalism
+40. **New Relationship Models** (1): Các Mô Hình Quan Hệ Mới - Solutions Journalism
+
+---
+
 ### **1. Core Innovation Methodologies - Phương Pháp Đổi Mới Cốt Lõi**
 
 Các phương pháp liên quan đến phương pháp đổi mới cốt lõi.
@@ -12766,6 +12812,43 @@ Truyền thống kể chuyện và ma thuật ngôn từ Celtic.
 ### **Tổng Quan**
 
 Khả năng phá vỡ các mẫu hình cũ và tái kết hợp các yếu tố theo những cách mới - cốt lõi của đổi mới thực sự. Đây là nghệ thuật phá hủy sáng tạo và tổng hợp mới.
+
+Bao gồm 90 khái niệm được tổ chức thành 32 nhóm chủ đề:
+
+1. **Pattern Disruption & Creative Destruction** (3): Phá Vỡ Mẫu Hình & Hủy Diệt Sáng Tạo - Paradigm Disruption, Creative Destruction, Boundary Crossing
+1. **Paradigm Disruption** (2): Phá Vỡ Mô Hình - Creative Destruction, Boundary Crossing
+2. **Creative Destruction** (1): Phá Hủy Sáng Tạo - Boundary Crossing
+2. **Recombination & Remix Techniques** (5): Kỹ Thuật Tái Kết Hợp & Tái Phối - Remix Culture, Mutation & Variation, Hybrid Vigor, Deconstruction & Reassembly, Unexpected Juxtaposition
+4. **Remix Culture** (4): Văn Hóa Tái Phối - Mutation & Variation, Hybrid Vigor, Deconstruction & Reassembly, Unexpected Juxtaposition
+5. **Mutation & Variation** (3): Biến Đổi & Biến Thể - Hybrid Vigor, Deconstruction & Reassembly, Unexpected Juxtaposition
+6. **Hybrid Vigor** (2): Sức Mạnh Lai Ghép - Deconstruction & Reassembly, Unexpected Juxtaposition
+7. **Deconstruction & Reassembly** (1): Phá Bỏ & Tái Lắp - Unexpected Juxtaposition
+3. **Constraint Transformation** (1): Biến Đổi Ràng Buộc - Constraint Transformation
+4. **Scale, Dimension & Evolution** (4): Quy Mô, Chiều & Tiến Hóa - Inversion Practice, Scale Shifting, Abstraction & Instantiation, Evolutionary Algorithms
+10. **Inversion Practice** (3): Thực Hành Đảo Ngược - Scale Shifting, Abstraction & Instantiation, Evolutionary Algorithms
+11. **Scale Shifting** (2): Chuyển Đổi Quy Mô - Abstraction & Instantiation, Evolutionary Algorithms
+12. **Abstraction & Instantiation** (1): Trừu Tượng Hóa & Cụ Thể Hóa - Evolutionary Algorithms
+5. **Cross-Domain Synthesis** (4): Tổng Hợp Xuyên Lĩnh Vực - Cross-Cultural Synthesis, Temporal Recombination, Medium Hopping, Exaptation
+14. **Cross-Cultural Synthesis** (3): Tổng Hợp Xuyên Văn Hóa - Temporal Recombination, Medium Hopping, Exaptation
+15. **Temporal Recombination** (2): Tái Kết Hợp Thời Gian - Medium Hopping, Exaptation
+16. **Medium Hopping** (1): Nhảy Giữa Các Phương Tiện - Exaptation
+6. **Pattern Systems & Modularity** (4): Hệ Thống Mẫu Hình & Tính Mô-đun - Pattern Languages, Modularity & Interchangeability, Bricolage, Cross-Pollination Engines
+18. **Pattern Languages** (3): Ngôn Ngữ Mẫu Hình - Modularity & Interchangeability, Bricolage, Cross-Pollination Engines
+19. **Modularity & Interchangeability** (2): Tính Mô-đun & Khả Năng Thay Thế - Bricolage, Cross-Pollination Engines
+20. **Bricolage** (1): Nghệ Thuật Vá Víu [Phương Pháp Sáng Tạo] - Cross-Pollination Engines
+7. **Intuitive & Metaphorical Synthesis** (4): Tổng Hợp Trực Giác & Ẩn Dụ - Transrational Ways of Knowing, Metaphorical Reasoning, Metaphorical Transformation, Intuitive Synthesis
+22. **Transrational Ways of Knowing** (3): Các Cách Biết Siêu Lý Tính - Metaphorical Reasoning, Metaphorical Transformation, Intuitive Synthesis
+23. **Metaphorical Reasoning** (2): Lý Luận Ẩn Dụ - Metaphorical Transformation, Intuitive Synthesis
+24. **Metaphorical Transformation** (1): Biến Đổi Ẩn Dụ - Intuitive Synthesis
+8. **Artistic & Multi-Modal Integration** (7): Tích Hợp Nghệ Thuật & Đa Phương Thức - Artistic Integration, Musical Integration, Movement Integration [Tổng Hợp Sáng Tạo], Written Integration, Multimedia Ceremony, Fusion Innovations, New Media Experiments
+26. **Artistic Integration** (6): Tích Hợp Nghệ Thuật - Musical Integration, Movement Integration [Tổng Hợp Sáng Tạo], Written Integration, Multimedia Ceremony, Fusion Innovations, New Media Experiments
+27. **Musical Integration** (5): Tích Hợp Âm Nhạc - Movement Integration [Tổng Hợp Sáng Tạo], Written Integration, Multimedia Ceremony, Fusion Innovations, New Media Experiments
+28. **Movement Integration [Tổng Hợp Sáng Tạo]** (4): Tích Hợp Chuyển Động [Tổng Hợp Sáng Tạo] - Written Integration, Multimedia Ceremony, Fusion Innovations, New Media Experiments
+29. **Written Integration** (3): Tích Hợp Văn Bản - Multimedia Ceremony, Fusion Innovations, New Media Experiments
+30. **Multimedia Ceremony** (2): Nghi Lễ Đa Phương Tiện [Sáng Tạo Tái Kết Hợp] - Fusion Innovations, New Media Experiments
+31. **Fusion Innovations** (1): Các Đổi Mới Hợp Nhất - New Media Experiments
+
+---
 
 ### **1. Pattern Disruption & Creative Destruction - Phá Vỡ Mẫu Hình & Hủy Diệt Sáng Tạo**
 
@@ -16207,6 +16290,51 @@ _Quản lý và đồng bộ hóa các nhịp điệu, chu kỳ và thời đi�
 ### **Tổng Quan**
 
 Chức năng này bao gồm các phương pháp và công cụ để điều phối nhịp điệu thời gian ở nhiều cấp độ - từ kiểm soát nhịp độ cá nhân đến đồng bộ hóa tập thể, từ chu kỳ sinh học đến nhịp điệu vũ trụ. Nó tích hợp cả kiến thức khoa học hiện đại và trí tuệ truyền thống để giúp con người sống hài hòa với thời gian.
+
+---
+
+Bao gồm 118 khái niệm được tổ chức thành 40 nhóm chủ đề:
+
+1. **Time Control & Rhythm Management** (7): Kiểm Soát Thời Gian & Quản Lý Nhịp Điệu - Tempo Control, Timing Recognition, Polychronic vs. Monochronic, Polyphasic vs. Monophasic Cycles, Master Timekeeper, Kairos, Chronos Management
+1. **Tempo Control** (6): Kiểm Soát Nhịp Độ - Timing Recognition, Polychronic vs. Monochronic, Polyphasic vs. Monophasic Cycles, Master Timekeeper, Kairos, Chronos Management
+2. **Timing Recognition** (5): Nhận Dạng Thời Điểm - Polychronic vs. Monochronic, Polyphasic vs. Monophasic Cycles, Master Timekeeper, Kairos, Chronos Management
+3. **Polychronic vs. Monochronic** (4): Đa Thời vs. Đơn Thời - Polyphasic vs. Monophasic Cycles, Master Timekeeper, Kairos, Chronos Management
+4. **Polyphasic vs. Monophasic Cycles** (3): Chu Kỳ Đa Pha vs. Đơn Pha - Master Timekeeper, Kairos, Chronos Management
+5. **Master Timekeeper** (2): Bậc Thầy Quản Lý Thời Gian - Kairos, Chronos Management
+6. **Kairos** (1): Thời Điểm Đúng Đắn - Chronos Management
+2. **Biological & Natural Cycles** (7): Chu Kỳ Sinh Học & Tự Nhiên - Chronobiology Awareness, Seasonal Thinking, Seasonal Attunement Practices, Monthly Cycle Practices, Annual Rhythm Practices, Biogeochemical Cycles, Metabolic Pathways
+8. **Chronobiology Awareness** (6): Nhận Thức Sinh Học Thời Gian - Seasonal Thinking, Seasonal Attunement Practices, Monthly Cycle Practices, Annual Rhythm Practices, Biogeochemical Cycles, Metabolic Pathways
+9. **Seasonal Thinking** (5): Tư Duy Theo Mùa - Seasonal Attunement Practices, Monthly Cycle Practices, Annual Rhythm Practices, Biogeochemical Cycles, Metabolic Pathways
+10. **Seasonal Attunement Practices** (4): Thực Hành Hòa Hợp Theo Mùa - Monthly Cycle Practices, Annual Rhythm Practices, Biogeochemical Cycles, Metabolic Pathways
+11. **Monthly Cycle Practices** (3): Thực Hành Chu Kỳ Hàng Tháng - Annual Rhythm Practices, Biogeochemical Cycles, Metabolic Pathways
+12. **Annual Rhythm Practices** (2): Thực Hành Nhịp Điệu Hàng Năm - Biogeochemical Cycles, Metabolic Pathways
+13. **Biogeochemical Cycles** (1): Chu Kỳ Sinh Địa Hóa - Metabolic Pathways
+3. **Monitoring & Tracking Tools** (4): Công Cụ Giám Sát & Theo Dõi - Dashboard & Metrics Monitoring, Checklist Navigation (Time), Reference Points & Time Anchors, Dead Reckoning
+15. **Dashboard & Metrics Monitoring** (3): Giám Sát Bảng Điều Khiển & Chỉ Số - Checklist Navigation (Time), Reference Points & Time Anchors, Dead Reckoning
+16. **Checklist Navigation (Time)** (2): Điều Hướng Bằng Checklist Theo Thời Gian - Reference Points & Time Anchors, Dead Reckoning
+17. **Reference Points & Time Anchors** (1): Điểm Tham Chiếu & Neo Thời Gian - Dead Reckoning
+4. **Collective Movement & Coordination** (3): Chuyển Động Tập Thể & Phối Hợp - Formation Flying, Swarm Navigation, Convoy Systems
+19. **Formation Flying** (2): Bay Đội Hình - Swarm Navigation, Convoy Systems
+20. **Swarm Navigation** (1): Điều Hướng Bầy Đàn - Convoy Systems
+5. **Network & Communication Systems** (4): Hệ Thống Mạng & Giao Tiếp - Relationship Mapping, Communication Channels, Communication Protocols, Network Topology
+22. **Relationship Mapping** (3): Lập Bản Đồ Mối Quan Hệ - Communication Channels, Communication Protocols, Network Topology
+23. **Communication Channels** (2): Các Kênh Giao Tiếp - Communication Protocols, Network Topology
+24. **Communication Protocols** (1): Giao Thức Giao Tiếp - Network Topology
+6. **Technology-Enhanced Navigation** (3): Điều Hướng Tăng Cường Công Nghệ - AI-Assisted Navigation, Hybrid Navigation, Spacetime Navigation (GPS)
+26. **AI-Assisted Navigation** (2): Điều Hướng Hỗ Trợ Bởi AI - Hybrid Navigation, Spacetime Navigation (GPS)
+27. **Hybrid Navigation** (1): Điều Hướng Lai - Spacetime Navigation (GPS)
+7. **Wisdom Traditions & Indigenous Knowledge** (4): Truyền Thống Trí Tuệ & Tri Thức Bản Địa - Buddhist Middle Way, Confucian Rectification of Names, Native American Medicine Wheel, Aboriginal Songlines
+29. **Buddhist Middle Way** (3): Con Đường Trung Đạo Phật Giáo - Confucian Rectification of Names, Native American Medicine Wheel, Aboriginal Songlines
+30. **Confucian Rectification of Names** (2): Chính Danh Khổng Giáo - Native American Medicine Wheel, Aboriginal Songlines
+31. **Native American Medicine Wheel** (1): Bánh Xe Y Học Bản Địa Mỹ - Aboriginal Songlines
+8. **Healing & Spiritual Transformation** (4): Chữa Lành & Chuyển Hóa Tâm Linh - Sacred Time Structuring, Shamanic Soul Retrieval, Wilderness Therapy, Evolutionary Astrology Study
+33. **Sacred Time Structuring** (3): Cấu Trúc Thời Gian Thiêng - Shamanic Soul Retrieval, Wilderness Therapy, Evolutionary Astrology Study
+34. **Shamanic Soul Retrieval** (2): Lấy Lại Linh Hồn Shaman - Wilderness Therapy, Evolutionary Astrology Study
+35. **Wilderness Therapy** (1): Liệu Pháp Hoang Dã - Evolutionary Astrology Study
+9. **Creative Direction & Destiny Navigation** (4): Chỉ Đạo Sáng Tạo & Điều Hướng Số Phận - Curation & Programming, Artistic Direction, Destiny Debugging, Fate Hacking
+37. **Curation & Programming** (3): Sắp Xếp & Lập Trình - Artistic Direction, Destiny Debugging, Fate Hacking
+38. **Artistic Direction** (2): Chỉ Đạo Nghệ Thuật - Destiny Debugging, Fate Hacking
+39. **Destiny Debugging** (1): Gỡ Lỗi Số Phận - Fate Hacking
 
 ---
 
@@ -19955,6 +20083,71 @@ Nâng cấp toàn bộ hệ thống tạo giá trị.
 ### **Tổng Quan**
 
 Chức năng này tập trung vào các kỹ năng và phương pháp để giao tiếp hiệu quả, tạo ra ý nghĩa chung và kết nối con người thông qua ngôn ngữ, câu chuyện và biểu tượng.
+
+Bao gồm 295 khái niệm được tổ chức thành 60 nhóm chủ đề:
+
+1. **Core Communication Skills** (15): Kỹ Năng Giao Tiếp Cốt Lõi - Storytelling, Active Listening, Nonviolent Communication (NVC), Rhetorical Mastery, Visual Communication & Data Visualization, Symbolic Communication, Cross-Cultural Communication, Framing & Reframing, Semantic Precision, Empathic Communication, Memetic Engineering, Generative Listening, Information Architecture, Meaning-Making, Translation & Interpretation
+1. **Storytelling** (14): Kể Chuyện - Active Listening, Nonviolent Communication (NVC), Rhetorical Mastery, Visual Communication & Data Visualization, Symbolic Communication, Cross-Cultural Communication, Framing & Reframing, Semantic Precision, Empathic Communication, Memetic Engineering, Generative Listening, Information Architecture, Meaning-Making, Translation & Interpretation
+2. **Active Listening** (13): Lắng Nghe Chủ Động - Nonviolent Communication (NVC), Rhetorical Mastery, Visual Communication & Data Visualization, Symbolic Communication, Cross-Cultural Communication, Framing & Reframing, Semantic Precision, Empathic Communication, Memetic Engineering, Generative Listening, Information Architecture, Meaning-Making, Translation & Interpretation
+3. **Nonviolent Communication (NVC)** (12): Giao Tiếp Không Bạo Lực (NVC) - Rhetorical Mastery, Visual Communication & Data Visualization, Symbolic Communication, Cross-Cultural Communication, Framing & Reframing, Semantic Precision, Empathic Communication, Memetic Engineering, Generative Listening, Information Architecture, Meaning-Making, Translation & Interpretation
+4. **Rhetorical Mastery** (11): Thành Thạo Tu Từ Học - Visual Communication & Data Visualization, Symbolic Communication, Cross-Cultural Communication, Framing & Reframing, Semantic Precision, Empathic Communication, Memetic Engineering, Generative Listening, Information Architecture, Meaning-Making, Translation & Interpretation
+5. **Visual Communication & Data Visualization** (10): Giao Tiếp Trực Quan & Trực Quan Hóa Dữ Liệu - Symbolic Communication, Cross-Cultural Communication, Framing & Reframing, Semantic Precision, Empathic Communication, Memetic Engineering, Generative Listening, Information Architecture, Meaning-Making, Translation & Interpretation
+6. **Symbolic Communication** (9): Giao Tiếp Biểu Tượng - Cross-Cultural Communication, Framing & Reframing, Semantic Precision, Empathic Communication, Memetic Engineering, Generative Listening, Information Architecture, Meaning-Making, Translation & Interpretation
+7. **Cross-Cultural Communication** (8): Giao Tiếp Xuyên Văn Hóa - Framing & Reframing, Semantic Precision, Empathic Communication, Memetic Engineering, Generative Listening, Information Architecture, Meaning-Making, Translation & Interpretation
+8. **Framing & Reframing** (7): Đóng Khung & Đóng Khung Lại - Semantic Precision, Empathic Communication, Memetic Engineering, Generative Listening, Information Architecture, Meaning-Making, Translation & Interpretation
+9. **Semantic Precision** (6): Độ Chính Xác Ngữ Nghĩa - Empathic Communication, Memetic Engineering, Generative Listening, Information Architecture, Meaning-Making, Translation & Interpretation
+10. **Empathic Communication** (5): Giao Tiếp Đồng Cảm - Memetic Engineering, Generative Listening, Information Architecture, Meaning-Making, Translation & Interpretation
+11. **Memetic Engineering** (4): Kỹ Thuật Meme - Generative Listening, Information Architecture, Meaning-Making, Translation & Interpretation
+12. **Generative Listening** (3): Lắng Nghe Tạo Sinh - Information Architecture, Meaning-Making, Translation & Interpretation
+13. **Information Architecture** (2): Kiến Trúc Thông Tin - Meaning-Making, Translation & Interpretation
+14. **Meaning-Making** (1): Tạo Ý Nghĩa - Translation & Interpretation
+2. **Essence Extraction** (8): Chiết Xuất Bản Chất - Simplicity in Complexity, Aliveness, Essence Extraction (Method), Pattern Recognition (Communication), Depth vs Breadth, Exploration vs Exploitation, Speed vs Accuracy, Understanding Spirals
+16. **Simplicity in Complexity** (7): Sự Đơn Giản Trong Phức Tạp - Aliveness, Essence Extraction (Method), Pattern Recognition (Communication), Depth vs Breadth, Exploration vs Exploitation, Speed vs Accuracy, Understanding Spirals
+17. **Aliveness** (6): Sự Sống Động - Essence Extraction (Method), Pattern Recognition (Communication), Depth vs Breadth, Exploration vs Exploitation, Speed vs Accuracy, Understanding Spirals
+18. **Essence Extraction (Method)** (5): Chiết Xuất Bản Chất (Phương Pháp) - Pattern Recognition (Communication), Depth vs Breadth, Exploration vs Exploitation, Speed vs Accuracy, Understanding Spirals
+19. **Pattern Recognition (Communication)** (4): Nhận Diện Mẫu Hình (Giao Tiếp) - Depth vs Breadth, Exploration vs Exploitation, Speed vs Accuracy, Understanding Spirals
+20. **Depth vs Breadth** (3): Chiều Sâu vs Chiều Rộng - Exploration vs Exploitation, Speed vs Accuracy, Understanding Spirals
+21. **Exploration vs Exploitation** (2): Khám Phá vs Khai Thác - Speed vs Accuracy, Understanding Spirals
+22. **Speed vs Accuracy** (1): Tốc Độ vs Độ Chính Xác - Understanding Spirals
+3. **Wisdom Integration** (5): Tích Hợp Trí Tuệ - Wisdom Integration (Communication), Integral Wisdom (Communication), Meta-Systematic Integration, Transdisciplinary Synthesis (Communication), Dialectical Integration (Communication)
+24. **Wisdom Integration (Communication)** (4): Tích Hợp Trí Tuệ (Giao Tiếp) - Integral Wisdom (Communication), Meta-Systematic Integration, Transdisciplinary Synthesis (Communication), Dialectical Integration (Communication)
+25. **Integral Wisdom (Communication)** (3): Trí Tuệ Tích Hợp (Giao Tiếp) - Meta-Systematic Integration, Transdisciplinary Synthesis (Communication), Dialectical Integration (Communication)
+26. **Meta-Systematic Integration** (2): Tích Hợp Siêu Hệ Thống - Transdisciplinary Synthesis (Communication), Dialectical Integration (Communication)
+27. **Transdisciplinary Synthesis (Communication)** (1): Tổng Hợp Xuyên Ngành (Giao Tiếp) - Dialectical Integration (Communication)
+4. **Deep Psychological Integration Practices** (8): Thực Hành Tích Hợp Tâm Lý Sâu - Shadow Integration Work, Trauma Integration (Practice), Peak Experience Integration (Practice), Altered States Integration, Dream Seeding, Void Returning, Integration Day, Shadow Integration Intensive
+29. **Shadow Integration Work** (7): Công Việc Tích Hợp Bóng Tối - Trauma Integration (Practice), Peak Experience Integration (Practice), Altered States Integration, Dream Seeding, Void Returning, Integration Day, Shadow Integration Intensive
+30. **Trauma Integration (Practice)** (6): Tích Hợp Chấn Thương (Thực Hành) - Peak Experience Integration (Practice), Altered States Integration, Dream Seeding, Void Returning, Integration Day, Shadow Integration Intensive
+31. **Peak Experience Integration (Practice)** (5): Tích Hợp Trải Nghiệm Đỉnh (Thực Hành) - Altered States Integration, Dream Seeding, Void Returning, Integration Day, Shadow Integration Intensive
+32. **Altered States Integration** (4): Tích Hợp Các Trạng Thái Biến Đổi - Dream Seeding, Void Returning, Integration Day, Shadow Integration Intensive
+33. **Dream Seeding** (3): Gieo Mầm Giấc Mơ - Void Returning, Integration Day, Shadow Integration Intensive
+34. **Void Returning** (2): Trở Về Hư Không - Integration Day, Shadow Integration Intensive
+35. **Integration Day** (1): Ngày Tích Hợp - Shadow Integration Intensive
+5. **Purpose Alignment & Life Practice** (8): Thẳng Hàng Mục Đích & Thực Hành Cuộc Sống - Soul Purpose Integration, Values Integration (Purpose), Gift Integration, Legacy Integration, Integral Life Practice (ILP), Daily Integration Practices, Integration Mastery, Meta-Creative Practice
+37. **Soul Purpose Integration** (7): Tích Hợp Mục Đích Linh Hồn - Values Integration (Purpose), Gift Integration, Legacy Integration, Integral Life Practice (ILP), Daily Integration Practices, Integration Mastery, Meta-Creative Practice
+38. **Values Integration (Purpose)** (6): Tích Hợp Giá Trị (Mục Đích) - Gift Integration, Legacy Integration, Integral Life Practice (ILP), Daily Integration Practices, Integration Mastery, Meta-Creative Practice
+39. **Gift Integration** (5): Tích Hợp Tài Năng - Legacy Integration, Integral Life Practice (ILP), Daily Integration Practices, Integration Mastery, Meta-Creative Practice
+40. **Legacy Integration** (4): Tích Hợp Di Sản - Integral Life Practice (ILP), Daily Integration Practices, Integration Mastery, Meta-Creative Practice
+41. **Integral Life Practice (ILP)** (3): Thực Hành Cuộc Sống Tích Hợp (ILP) - Daily Integration Practices, Integration Mastery, Meta-Creative Practice
+42. **Daily Integration Practices** (2): Thực Hành Tích Hợp Hàng Ngày - Integration Mastery, Meta-Creative Practice
+43. **Integration Mastery** (1): Thành Thạo Tích Hợp - Meta-Creative Practice
+6. **Methodological Synthesis Frameworks** (6): Khung Tổng Hợp Phương Pháp Luận - Integral Research Methods, Integral Ecology Practices, Universal Library Access, Grand Synthesis Protocols, Integrative Energy Protocols, Synthesis Mastery (Methodological)
+45. **Integral Research Methods** (5): Phương Pháp Nghiên Cứu Tích Hợp - Integral Ecology Practices, Universal Library Access, Grand Synthesis Protocols, Integrative Energy Protocols, Synthesis Mastery (Methodological)
+46. **Integral Ecology Practices** (4): Thực Hành Sinh Thái Tích Hợp - Universal Library Access, Grand Synthesis Protocols, Integrative Energy Protocols, Synthesis Mastery (Methodological)
+47. **Universal Library Access** (3): Truy Cập Thư Viện Phổ Quát - Grand Synthesis Protocols, Integrative Energy Protocols, Synthesis Mastery (Methodological)
+48. **Grand Synthesis Protocols** (2): Giao Thức Tổng Hợp Lớn - Integrative Energy Protocols, Synthesis Mastery (Methodological)
+49. **Integrative Energy Protocols** (1): Giao Thức Năng Lượng Tích Hợp - Synthesis Mastery (Methodological)
+7. **Creative & Healing Integration** (6): Tích Hợp Sáng Tạo & Chữa Lành - Bisociative Integration, Synesthetic Integration, Holographic Integration (Creative), Healing Arts Integration, Narrative Therapy, Integrative Energy Medicine
+51. **Bisociative Integration** (5): Tích Hợp Hai Liên Tưởng - Synesthetic Integration, Holographic Integration (Creative), Healing Arts Integration, Narrative Therapy, Integrative Energy Medicine
+52. **Synesthetic Integration** (4): Tích Hợp Liên Giác - Holographic Integration (Creative), Healing Arts Integration, Narrative Therapy, Integrative Energy Medicine
+53. **Holographic Integration (Creative)** (3): Tích Hợp Toàn Ảnh (Sáng Tạo) - Healing Arts Integration, Narrative Therapy, Integrative Energy Medicine
+54. **Healing Arts Integration** (2): Tích Hợp Nghệ Thuật Chữa Lành - Narrative Therapy, Integrative Energy Medicine
+55. **Narrative Therapy** (1): Liệu Pháp Tường Thuật - Integrative Energy Medicine
+8. **Value Creation Networks** (4): Mạng Lưới Tạo Giá Trị - Value Stacking, Transformation Value, Innovation Intersections, Meta-Learning Networks
+57. **Value Stacking** (3): Xếp Chồng Giá Trị - Transformation Value, Innovation Intersections, Meta-Learning Networks
+58. **Transformation Value** (2): Giá Trị Chuyển Hóa - Innovation Intersections, Meta-Learning Networks
+59. **Innovation Intersections** (1): Giao Điểm Đổi Mới - Meta-Learning Networks
+
+---
 
 ### **1. Core Communication Skills - Kỹ Năng Giao Tiếp Cốt Lõi**
 
