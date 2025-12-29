@@ -18247,20 +18247,19 @@ Mô hình xem vũ trụ như một toàn ảnh.
 
 Chức năng này chứa các nguyên tắc, khung và phương pháp để kết hợp các hệ thống, mô thức và thế giới quan khác nhau thành các cấu trúc lớn hơn, phức tạp và mạch lạc hơn.
 
-Bao gồm 19 khái niệm được tổ chức thành 12 nhóm chủ đề:
+Bao gồm 59 khái niệm được tổ chức thành 11 nhóm chủ đề:
 
-5. **Unity Principles** (1): Nguyên Lý Thống Nhất - Indra's Net
-21. **Include and Transcend** (1): Bao Gồm và Vượt Qua - Indra's Net
-22. **Universal Connection** (1): Kết Nối Phổ Quát - Indra's Net
-23. **Unity in Diversity** (1): Thống Nhất Trong Đa Dạng - Indra's Net
-6. **Bridging Methods** (2): Phương Pháp Kết Nối - Cross-Domain Bridging, Cross-Domain Integration Method
-26. **Analogical Thinking** (2): Tư Duy Tương Tự [Phương Pháp Kết Nối] - Cross-Domain Bridging, Cross-Domain Integration Method
-27. **Metaphorical Thinking** (2): Tư Duy Ẩn Dụ - Cross-Domain Bridging, Cross-Domain Integration Method
-7. **Cross-Domain Validation** (3): Xác Thực Xuyên Lĩnh Vực - Multi-Scale Validation, Temporal Integration Validation, Stakeholder Validation
-30. **Cross-Domain Validation** (3): Xác Thực Xuyên Lĩnh Vực - Multi-Scale Validation, Temporal Integration Validation, Stakeholder Validation
-8. **Paradox Navigation** (1): Điều Hướng Nghịch Lý - Dialectical Transcendence
-34. **Paradox Mastery** (1): Thành Thạo Nghịch Lý - Dialectical Transcendence
-35. **Paradox Mapping** (1): Lập Bản Đồ Nghịch Lý - Dialectical Transcendence
+1. **Meta-Integration Frameworks** (6): Khung Siêu Tích Hợp - Integral Theory (AQAL), Holonic Theory & Holarchies, Metamodernism, Post-Conventional Thinking, Synergetics, Metamodern Synthesis
+2. **Cultural & Temporal Integration** (4): Tích Hợp Văn Hóa & Thời Gian - Global-Local Integration, East-West Integration, Science-Spirituality Integration, Ancient-Modern Synthesis
+3. **Structural Polarity Balance** (5): Cân Bằng Đối Cực Cấu Trúc - Theory-Practice Integration, Individual-Collective Balance, Art-Science Integration, Tradition-Innovation Balance, Macro-Micro Integration
+4. **Cognitive Polarity Integration** (5): Tích Hợp Đối Cực Nhận Thức - Rationality-Intuition Integration, Chaos-Order Integration, Objective-Subjective Integration, Quantitative-Qualitative Integration, Competitive-Cooperative Integration
+5. **Unity Principles** (5): Nguyên Lý Thống Nhất - Include and Transcend, Universal Connection, Unity in Diversity, Indra's Net, Interconnectedness Principle
+6. **Bridging Methods** (4): Phương Pháp Kết Nối - Analogical Thinking, Metaphorical Thinking, Cross-Domain Bridging, Cross-Domain Integration Method
+7. **Cross-Domain Validation** (4): Xác Thực Xuyên Lĩnh Vực - Cross-Domain Validation, Multi-Scale Validation, Temporal Integration Validation, Stakeholder Validation
+8. **Paradox Navigation** (7): Điều Hướng Nghịch Lý - Paradox Mastery, Paradox Mapping, Dialectical Transcendence, Complementarity Thinking, Paradoxical Integration, Pattern Breaking, Improvisation Integration
+9. **Contemplative Practice** (6): Thực Hành Quán Chiếu - Void Meditation, Paradox Contemplation, Pattern Scanning, Insight Distillation, Artistic Integration Practice, Play-Based Integration
+10. **Applied Knowledge Synthesis** (6): Tổng Hợp Tri Thức Ứng Dụng - Integral Psychology, Interdisciplinary Studies, Holistic Medicine, Mind-Body Medicine, Comparative Religion & Law, Gender Intersectionality
+11. **Creative Convergence** (7): Hội Tụ Sáng Tạo - Multimedia & Convergence Arts, Opera & Gesamtkunstwerk, Installation Art, Transmedia Storytelling, Cross-disciplinary Collaboration, Fusion Cuisines, Mixed Reality Experiences
 
 ---
 
