@@ -13197,16 +13197,14 @@ Khám phá các hình thức truyền thông và biểu đạt mới nổi.
 
 Các phương pháp và công cụ có cấu trúc cao để hệ thống hóa quá trình sáng tạo - biến nghệ thuật thành khoa học có thể lặp lại và dạy được. Kết hợp cả trực giác và phân tích.
 
-Bao gồm 41 khái niệm được tổ chức thành 8 nhóm chủ đề:
+Bao gồm 39 khái niệm được tổ chức thành 6 nhóm chủ đề:
 
-1. **Core Design Tools & Frameworks** (4): Các Công Cụ & Framework Cốt Lõi - Design Thinking Framework, SCAMPER Framework, Double Diamond Framework, Integrated Innovation Toolkit
-3. **TRIZ** (2): Theory of Inventive Problem Solving - Double Diamond Framework, Integrated Innovation Toolkit
+1. **Core Design Tools & Frameworks** (5): Các Công Cụ & Framework Cốt Lõi - Design Thinking Framework, SCAMPER Framework, TRIZ, Double Diamond Framework, Integrated Innovation Toolkit
 2. **Advanced Design Methods** (5): Phương Pháp Thiết Kế Nâng Cao - Biomimetic Reasoning, Artificial Life, Synthetic Biology, Molecular Machines Design, Metamaterials Engineering
 3. **Applied Creative Arts** (7): Nghệ Thuật Sáng Tạo Ứng Dụng - Composition & Songwriting, Choreography, Screenplay Writing, Generative Art, Experimental Forms, Icon Painting Meditation, Calligraphy Practice
 4. **Creative Therapies & Healing** (6): Liệu Pháp Sáng Tạo & Chữa Lành - Creative Therapies, Sound & Vibration Healing, Movement Medicine, Theater of the Oppressed, Light & Color Therapies, Water & Fluid Energy
 5. **Sacred & Contemplative Art** (7): Nghệ Thuật Thiêng Liêng & Chiêm Nghiệm - Sacred Art & Mandala Creation, Sound Creation & Sacred Music, Movement as Art Practice, Sound Sculpture, Vibrational Therapy Design, Algorithmic Sacred Music, Binaural Beat Meditation
 6. **Innovation & Community** (9): Đổi Mới & Cộng Đồng - Educational Innovation, Gamification, Flipped Classroom, Community Art Practice, Eco-Art & Land Art, Digital Sacred Art, VR Meditation Environments, Meta-Creative Practice, Structured Water Creation
-38. **Meta-Creative Practice**** (1): Thực Hành Siêu Sáng Tạo - Structured Water Creation
 
 ---
 
