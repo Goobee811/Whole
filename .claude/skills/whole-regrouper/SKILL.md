@@ -1,10 +1,9 @@
 ---
 name: whole-regrouper
 description: |
-  Phân tích, gom nhóm, và ĐỒNG BỘ (reconcile) giữa Tổng Quan listing và actual group headers.
-  Works on ONE CHỨC NĂNG at a time (50 total, process sequentially).
-  v4.2.0: Single-function workflow + auto commit & push.
-version: 4.2.0
+  Phân tích, gom nhóm, và ĐỒNG BỘ THÔNG MINH giữa Tổng Quan listing và actual group headers.
+  v5.0.0: Intelligent Analysis - không giả định grouping nào tốt hơn, phân tích thực sự cả hai.
+version: 5.0.0
 license: MIT
 allowed-tools:
   - Edit
@@ -17,189 +16,183 @@ metadata:
   updated: "2025-12-29"
 ---
 
-# Whole Concept Regrouper & Reconciler v4.1
+# Whole Concept Regrouper & Reconciler v5.0
 
-**Single-function workflow** - Process one CHỨC NĂNG at a time.
-
----
-
-## The Problem
-
-Each CHỨC NĂNG has TWO group representations that may be OUT OF SYNC:
-
-```
-TỔNG QUAN (top):                    ACTUAL HEADERS (content):
-1. **Group A** (8): Nhóm A          ### **1. Group X - Nhóm X**
-2. **Group B** (7): Nhóm B          ### **2. Group Y - Nhóm Y**
-   ↑ DIFFERENT NAMES! ↑                ↑ DIFFERENT NAMES! ↑
-```
+**Intelligent Analysis** - Phân tích thực sự cả hai groupings, không giả định.
 
 ---
 
-## Single-Function Workflow
+## Core Philosophy
 
-### Step 1: LOCATE
-```bash
-# Find CHỨC NĂNG N
-Grep "## CHỨC NĂNG [N]:" Whole.md → line number
+> **KHÔNG giả định grouping nào tốt hơn.**
 
-# Find next CHỨC NĂNG (to know boundary)
-Grep "## CHỨC NĂNG [N+1]:" Whole.md → end boundary
-```
+Mỗi CHỨC NĂNG có TWO representations:
+1. **Tổng Quan listing** - Overview với group names và concept counts
+2. **Content headers** - Actual ### headers với #### concepts bên dưới
 
-### Step 2: READ & PARSE
-```bash
-Read Whole.md offset=[start] limit=[end-start]
-```
+Cả hai có thể có điểm mạnh riêng:
+- **Tổng Quan** có thể có grouping logic tốt hơn (coherent, mental model rõ)
+- **Content** có thể có chi tiết chính xác hơn (accurate to actual concepts)
 
-**Parse Tổng Quan** (pattern after "nhóm chủ đề:"):
-```
-1. **[English]** ([count]): [Vietnamese] - [concepts...]
-```
-
-**Parse Actual Headers** (pattern):
-```
-### **[N]. [English] - [Vietnamese]**
-```
-
-**Count concepts** under each header (#### until next ###)
-
-### Step 3: COMPARE
-Output comparison table:
-```
-| # | Tổng Quan | Actual | Match |
-|---|-----------|--------|-------|
-| 1 | Group A (8) | Group X (6) | ❌ |
-| 2 | Group B (7) | Group Y (5) | ❌ |
-```
-
-### Step 4: CHOOSE STRATEGY
-
-**[B] Content → Tổng Quan** (RECOMMENDED - most common)
-- Actual headers are correct, Tổng Quan outdated
-- Update Tổng Quan to match actual headers
-
-**[A] Tổng Quan → Content**
-- Tổng Quan is authoritative
-- Reorganize content to match Tổng Quan
-
-**[C] Full Regroup**
-- Both are wrong, need fresh analysis
-- Use `/regroup [N]` workflow instead
-
-### Step 5: EXECUTE (Option B - typical case)
-
-**Generate new Tổng Quan from actual headers:**
-
-```markdown
-### **Tổng Quan**
-
-[Keep existing intro paragraph]
-
-Bao gồm [total] khái niệm được tổ chức thành [M] nhóm chủ đề:
-
-1. **[Header1 English]** ([count]): [Header1 Vietnamese] - [concept1], [concept2]...
-2. **[Header2 English]** ([count]): [Header2 Vietnamese] - [concept1], [concept2]...
-...
+**→ Phân tích cả hai, quyết định có căn cứ.**
 
 ---
+
+## Analysis Criteria
+
+### 1. Coherence (Mạch lạc) - Weight: HIGH
+- Các concepts trong nhóm có chung chủ đề?
+- Có thể giải thích "đều về..." trong 1 câu?
+- Có concept "lạc lõng"?
+
+### 2. Balance (Cân bằng) - Weight: MEDIUM
+- Per group: 3-8 concepts (ideal: 5-6)
+- Không có groups quá lớn (>10) hoặc quá nhỏ (<2)
+
+### 3. Natural Thinking (Tự nhiên) - Weight: HIGH
+- Phù hợp mental model của người dùng?
+- Tên nhóm gợi nhớ ngay nội dung?
+
+### 4. Accuracy (Chính xác) - Weight: MEDIUM
+- Tên nhóm mô tả chính xác nội dung?
+- Số concepts match?
+- Concept names chính xác?
+
+---
+
+## Strategy Options
+
+```
+[A] Tổng Quan → Content
+    Tổng Quan có grouping logic TỐT HƠN
+    → Reorganize content để match Tổng Quan
+
+[B] Content → Tổng Quan
+    Content có chi tiết CHÍNH XÁC HƠN
+    → Update Tổng Quan listing để match actual
+
+[C] Full Regroup
+    CẢ HAI ĐỀU CÓ VẤN ĐỀ
+    → Cần phân tích lại từ đầu với /regroup
+
+[H] Hybrid Merge
+    MỖI BÊN CÓ ĐIỂM MẠNH RIÊNG
+    → Lấy groups tốt nhất từ cả hai
+    → Chỉ định: "Group 1,3 from Tổng Quan + Group 2,4 from Content"
+
+[S] Skip - Already Synced
+    Hai bên ĐÃ ĐỒNG BỘ
+    → Không cần thay đổi
 ```
 
-### Step 6: EDIT & VALIDATE
+---
+
+## Decision Framework
+
+**Priority order khi conflict:**
+
+1. **Coherence > Balance**
+   - Grouping logic quan trọng hơn size
+
+2. **Natural Thinking > Accuracy**
+   - User experience > technical correctness
+
+3. **Khi tie → Consider Hybrid [H]**
+   - Lấy best of both worlds
+
+4. **Khi cả hai < 3 sao → Full Regroup [C]**
+   - Cần làm lại từ đầu
+
+---
+
+## Workflow
+
+### /reconcile [N]
 
 ```
-Read(Whole.md, offset, limit) → Edit(Tổng Quan section) → Verify sync
+Phase 1: LOCATE & READ
+├─ Grep "## CHỨC NĂNG" → boundaries
+└─ Read section content
+
+Phase 2: PARSE BOTH
+├─ A: Tổng Quan listing
+└─ B: Content headers + concepts
+
+Phase 3: ANALYZE
+├─ Score each grouping on 4 criteria
+├─ Compare winner per criterion
+└─ Calculate overall score
+
+Phase 4: RECOMMEND
+├─ Reasoned recommendation [A/B/C/H]
+├─ Explain trade-offs
+└─ Ask for confirmation
+
+Phase 5: EXECUTE
+├─ Apply chosen strategy
+├─ Validate changes
+└─ Auto commit & push
 ```
 
-### Step 7: COMMIT & PUSH (Auto)
+### /regroup [N]
 
-**After successful edit, automatically:**
+Full regroup workflow khi cần phân tích lại từ đầu.
 
-```bash
-git add Whole.md
-git commit -m "Reconcile CF[N]: sync Tổng Quan with [M] actual headers"
-git push
+---
+
+## Scoring Output Format
+
 ```
-
-**Commit message format:**
-```
-Reconcile [DOMAIN] CF[N]: [Function Name]
-
-- Synced Tổng Quan with [M] actual group headers
-- [total] concepts across [M] groups
-- Strategy: [A/B/C]
+╔═══════════════════════════════════════════════╗
+║ ANALYSIS: CF[N] - [Function Name]             ║
+╠═══════════════════════════════════════════════╣
+║                                               ║
+║ TỔNG QUAN: [M] groups                         ║
+║ Coherence: ⭐⭐⭐⭐☆ | Balance: ⭐⭐⭐☆☆        ║
+║ Natural: ⭐⭐⭐⭐⭐ | Accuracy: ⭐⭐⭐☆☆         ║
+║                                               ║
+║ CONTENT: [M] groups                           ║
+║ Coherence: ⭐⭐⭐☆☆ | Balance: ⭐⭐⭐⭐☆        ║
+║ Natural: ⭐⭐⭐☆☆ | Accuracy: ⭐⭐⭐⭐⭐         ║
+║                                               ║
+╠═══════════════════════════════════════════════╣
+║ RECOMMENDATION: [A/B/C/H] - [Reasoning]       ║
+╚═══════════════════════════════════════════════╝
 ```
 
 ---
 
 ## Critical Rules
 
-### 🚨 Atomic Read-Edit
-```
-✅ Read → Edit (same turn)
-❌ Read → [output] → Edit (will fail)
-```
-
 ### ✅ MUST
-- Preserve all concept content
-- Match group names exactly (Tổng Quan ↔ Headers)
-- Match concept counts exactly
-- List ALL concepts in Tổng Quan listing
+- Phân tích thực sự cả hai groupings
+- Cho điểm có căn cứ
+- Giải thích reasoning
+- Preserve all content (only add, never subtract)
 
 ### ❌ NEVER
+- Giả định B luôn đúng
+- Skip analysis phase
 - Delete concepts
 - Modify concept content
-- Process multiple functions at once
-
----
-
-## Progress Tracking
-
-Track in `.whole-progress.json` or output:
-
-```
-RECONCILE PROGRESS:
-✅ CF1-5 (FOUNDATIONS) - synced
-✅ CF6-10 (DYNAMICS) - synced
-⏳ CF11 (OPERATIONS) - in progress
-⬚ CF12-50 - pending
-```
-
-**After each CF:**
-```
-✅ RECONCILE COMPLETE: CF[N]
-- Groups: [M] synced
-- Concepts: [total]
-Next: CF[N+1]
-```
 
 ---
 
 ## Commands
 
-- `/reconcile [N]` - Reconcile single CHỨC NĂNG
-- `/reconcile` - Auto-detect next pending (from progress)
-- `/regroup [N]` - Full regroup (when reconcile isn't enough)
+- `/reconcile [N]` - Intelligent reconcile single CHỨC NĂNG
+- `/reconcile` - Auto-detect next pending
+- `/regroup [N]` - Full regroup when reconcile isn't enough
 
 ---
 
-## Output Format (Token-efficient)
+## References
 
-```
-[RECONCILE] CF6 | DYNAMICS - Emergence & Flow
-[READ] Lines 3534-4069 | 44 concepts, 7 groups
-[PARSE] Tổng Quan: 7 groups | Actual: 6 headers
-[COMPARE]
-  #1: Core Emergence (8) vs Foundational Axioms (6) ❌
-  #2: Chaos & Criticality (7) vs Unity & Duality (5) ❌
-  ...
-[STRATEGY] B - Content → Tổng Quan
-[EDIT] Updated Tổng Quan to match 6 actual headers
-[COMMIT] abc1234 | Reconcile DYNAMICS CF6
-[PUSH] OK
-[DONE] CF6 synced | Next: CF7
-```
+Load as needed:
+- `references/grouping-principles.md` - Criteria details
+- `references/naming-guidelines.md` - Naming standards
+- `references/quality-checklist.md` - Validation checklist
 
 ---
 
-**Version:** 4.2.0 (Auto commit & push after reconcile)
+**Version:** 5.0.0 | **Philosophy:** Analyze first, decide with reasoning

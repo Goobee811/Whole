@@ -1,5 +1,5 @@
 ---
-description: 🔄 Sync Tổng Quan ↔ Content for single CHỨC NĂNG
+description: 🔄 Intelligent Analysis & Sync between Tổng Quan ↔ Content groupings
 argument-hint: [function-number 1-50]
 ---
 
@@ -13,83 +13,249 @@ argument-hint: [function-number 1-50]
 
 ---
 
+## Core Philosophy
+
+**KHÔNG giả định grouping nào tốt hơn.** Phân tích thực sự cả hai và quyết định dựa trên:
+1. **Coherence**: Các khái niệm trong nhóm có liên hệ logic chặt chẽ?
+2. **Balance**: Số lượng concepts/group hợp lý (3-8, ideal 5-6)?
+3. **Natural Thinking**: Phù hợp với mental model của người dùng?
+4. **Accuracy**: Tên nhóm mô tả chính xác nội dung bên trong?
+
+---
+
 ## Workflow
 
-### 1. LOCATE target CHỨC NĂNG
+### Phase 1: LOCATE & READ
 
 ```bash
-# Grep for target function and next function boundary
+# Find target CHỨC NĂNG boundaries
 Grep "## CHỨC NĂNG" Whole.md → get line numbers
+Read Whole.md offset=[start] limit=[section_length]
 ```
 
-### 2. READ the section
+### Phase 2: PARSE BOTH REPRESENTATIONS
 
-```bash
-Read Whole.md offset=[start_line] limit=[section_length]
-```
-
-### 3. PARSE both representations
-
-**From Tổng Quan (after "nhóm chủ đề:"):**
+**A. Parse Tổng Quan** (after "nhóm chủ đề:"):
 ```
 1. **English** (count): Vietnamese - concept1, concept2...
 ```
+→ Extract: group_name, concept_count, concept_list
 
-**From Actual Headers:**
+**B. Parse Actual Headers**:
 ```
 ### **1. English - Vietnamese**
 #### **1. Concept1**
 #### **2. Concept2**
-...
 ```
+→ Extract: group_name, concepts_under_header
 
-### 4. COMPARE & OUTPUT
+### Phase 3: ANALYZE BOTH GROUPINGS
 
-```
-| # | Tổng Quan | Actual Header | Match |
-|---|-----------|---------------|-------|
-| 1 | Group A (8) | Group X (6) | ❌ |
-| 2 | Group B (7) | Group B (7) | ✅ |
-```
-
-### 5. ASK STRATEGY
+**Output analysis table:**
 
 ```
-Choose:
-[B] Content → Tổng Quan (RECOMMENDED)
+╔══════════════════════════════════════════════════════════════════════╗
+║ GROUPING ANALYSIS: CF[N] - [Function Name]                           ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║ [A] TỔNG QUAN GROUPING                                               ║
+║ ────────────────────────────────────────────────────────────────     ║
+║ Groups: [M] | Concepts: [total]                                      ║
+║                                                                      ║
+║ 1. [Group Name] (N concepts)                                         ║
+║    Concepts: [list...]                                               ║
+║    ├─ Coherence: [⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐☆ | ...]                          ║
+║    ├─ Balance: [OK ✅ | Too big ⚠️ | Too small ⚠️]                   ║
+║    └─ Logic: [Giải thích ngắn]                                       ║
+║                                                                      ║
+║ [B] CONTENT GROUPING                                                 ║
+║ ────────────────────────────────────────────────────────────────     ║
+║ Groups: [M] | Concepts: [total]                                      ║
+║                                                                      ║
+║ 1. [Group Name] (N concepts)                                         ║
+║    Concepts: [list...]                                               ║
+║    ├─ Coherence: [⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐☆ | ...]                          ║
+║    ├─ Balance: [OK ✅ | Too big ⚠️ | Too small ⚠️]                   ║
+║    └─ Logic: [Giải thích ngắn]                                       ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ COMPARISON SUMMARY                                                   ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║ Criteria        │ Tổng Quan │ Content  │ Winner                      ║
+║ ────────────────┼───────────┼──────────┼─────────                    ║
+║ Coherence       │ ⭐⭐⭐⭐☆   │ ⭐⭐⭐☆☆  │ Tổng Quan                   ║
+║ Balance         │ ⭐⭐⭐☆☆   │ ⭐⭐⭐⭐☆  │ Content                     ║
+║ Natural Thinking│ ⭐⭐⭐⭐⭐   │ ⭐⭐⭐☆☆  │ Tổng Quan                   ║
+║ Accuracy        │ ⭐⭐⭐☆☆   │ ⭐⭐⭐⭐⭐  │ Content                     ║
+║ ────────────────┼───────────┼──────────┼─────────                    ║
+║ OVERALL         │ [score]   │ [score]  │ [RECOMMENDATION]            ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+### Phase 4: REASONED RECOMMENDATION
+
+**Based on analysis, output:**
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║ 💡 RECOMMENDATION                                                    ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║ [A/B/C/H] - [Strategy Name]                                          ║
+║                                                                      ║
+║ REASONING:                                                           ║
+║ • [Point 1: Why this grouping is better for criteria X]              ║
+║ • [Point 2: Specific example of coherence/balance issue]             ║
+║ • [Point 3: User mental model consideration]                         ║
+║                                                                      ║
+║ TRADE-OFFS:                                                          ║
+║ • [What we lose by choosing this strategy]                           ║
+║ • [What we gain]                                                     ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+### Phase 5: STRATEGY OPTIONS
+
+```
 [A] Tổng Quan → Content
-[C] Full Regroup (/regroup instead)
-[S] Skip - already synced
+    Tổng Quan có grouping logic tốt hơn
+    → Reorganize content headers để match Tổng Quan
+
+[B] Content → Tổng Quan
+    Content có chi tiết chính xác hơn
+    → Update Tổng Quan listing để match actual headers
+
+[C] Full Regroup
+    Cả hai đều có vấn đề, cần phân tích lại từ đầu
+    → Use /regroup [N] workflow
+
+[H] Hybrid Merge
+    Mỗi bên có điểm mạnh riêng
+    → Lấy groups tốt nhất từ cả hai
+    → Cần chỉ định cụ thể: "Group 1,3 from Tổng Quan + Group 2,4 from Content"
+
+[S] Skip - Already Synced
+    Hai bên đã đồng bộ, không cần thay đổi
 ```
 
-### 6. EXECUTE
+### Phase 6: EXECUTE
 
-**Option B (most common):**
-- Read actual ### headers
-- Count concepts under each
-- Regenerate Tổng Quan listing
-- Edit Whole.md
+**Option A (Tổng Quan → Content):**
+- Đọc và phân tích Tổng Quan grouping
+- Reorganize các concepts trong Content theo groups mới
+- Cập nhật ### headers để match Tổng Quan
+- Di chuyển concepts giữa các groups nếu cần
 
-### 7. COMMIT & PUSH (Auto)
+**Option B (Content → Tổng Quan):**
+- Đọc actual ### headers và concepts
+- Regenerate Tổng Quan listing từ actual structure
+- Giữ nguyên content, chỉ update Tổng Quan
+
+**Option H (Hybrid):**
+- Xác định groups nào từ mỗi bên
+- Merge thành grouping mới
+- Update CẢ Tổng Quan VÀ Content headers
+
+### Phase 7: COMMIT & PUSH
 
 ```bash
 git add Whole.md
-git commit -m "Reconcile [DOMAIN] CF[N]: [Function Name]
+git commit -m "$(cat <<'EOF'
+Reconcile [DOMAIN] CF[N]: [Function Name]
 
-- Synced Tổng Quan with [M] actual group headers
-- [total] concepts across [M] groups
-- Strategy: B (Content → Tổng Quan)"
+Analysis:
+- Tổng Quan: [M] groups, [score] overall
+- Content: [M] groups, [score] overall
+
+Decision: [A/B/C/H] - [Reasoning summary]
+
+Changes:
+- [Specific changes made]
+- [Groups affected]
+EOF
+)"
 git push
 ```
 
-### 8. CONFIRM
+---
 
-```
-✅ RECONCILE COMPLETE: CF[N]
-Groups: [M] synced | Concepts: [total]
-Commit: [hash] | Pushed: OK
-Next: CF[N+1]
-```
+## Analysis Criteria Detail
+
+### 1. Coherence (Mạch lạc) ⭐⭐⭐⭐⭐
+
+**Questions to evaluate:**
+- Các concepts trong nhóm có chung chủ đề/domain con không?
+- Có thể giải thích "những concepts này đều về..." trong 1 câu không?
+- Có concept nào "lạc lõng" trong nhóm không?
+
+**Scoring:**
+- ⭐⭐⭐⭐⭐: Perfect coherence, all concepts belong together
+- ⭐⭐⭐⭐☆: Strong coherence, 1 concept slightly off
+- ⭐⭐⭐☆☆: Moderate, 2-3 concepts don't fit well
+- ⭐⭐☆☆☆: Weak, mixed concepts
+- ⭐☆☆☆☆: No coherence, random grouping
+
+### 2. Balance (Cân bằng) ⭐⭐⭐⭐⭐
+
+**Ideal distribution:**
+- Per group: 3-8 concepts (ideal: 5-6)
+- Total groups: Based on total concepts ÷ 5
+
+**Scoring:**
+- ⭐⭐⭐⭐⭐: All groups in 4-6 range
+- ⭐⭐⭐⭐☆: Most groups balanced, 1 slightly off
+- ⭐⭐⭐☆☆: Some groups too big/small (2 or 9)
+- ⭐⭐☆☆☆: Multiple imbalanced groups
+- ⭐☆☆☆☆: Severe imbalance (1 or 10+)
+
+### 3. Natural Thinking (Tự nhiên) ⭐⭐⭐⭐⭐
+
+**Questions to evaluate:**
+- Người dùng có mong đợi tìm những concepts này cùng nhau?
+- Tên nhóm có gợi nhớ ngay nội dung bên trong?
+- Grouping có phản ánh cách tư duy tự nhiên về topic?
+
+**Scoring:**
+- ⭐⭐⭐⭐⭐: Intuitive, matches mental model perfectly
+- ⭐⭐⭐⭐☆: Mostly intuitive, minor surprises
+- ⭐⭐⭐☆☆: Requires some explanation
+- ⭐⭐☆☆☆: Counter-intuitive grouping
+- ⭐☆☆☆☆: Confusing, no clear logic
+
+### 4. Accuracy (Chính xác) ⭐⭐⭐⭐⭐
+
+**Questions to evaluate:**
+- Tên nhóm có mô tả chính xác nội dung?
+- Số concepts trong listing có match actual?
+- Concept names có được liệt kê chính xác?
+
+**Scoring:**
+- ⭐⭐⭐⭐⭐: Perfect match, all correct
+- ⭐⭐⭐⭐☆: Minor discrepancies (1-2)
+- ⭐⭐⭐☆☆: Some mismatches (3-5)
+- ⭐⭐☆☆☆: Significant errors
+- ⭐☆☆☆☆: Major inaccuracies
+
+---
+
+## Decision Framework
+
+**Khi phân vân giữa các strategies:**
+
+1. **Nếu Coherence winner khác Balance winner:**
+   → Ưu tiên Coherence (grouping logic quan trọng hơn size)
+
+2. **Nếu Natural Thinking winner khác Accuracy winner:**
+   → Ưu tiên Natural Thinking (user experience > technical correctness)
+
+3. **Nếu tie:**
+   → Consider Hybrid [H] để lấy best of both
+
+4. **Nếu cả hai đều dưới 3 sao:**
+   → Full Regroup [C] là cần thiết
 
 ---
 
@@ -110,13 +276,25 @@ Next: CF[N+1]
 
 ---
 
-## Notes
+## Output Format (Compact)
 
-- Process ONE function at a time
-- Typical time: 5-10 min per CF
-- Most cases: Option B (Content → Tổng Quan)
-- If both wrong: Use `/regroup` instead
+```
+[RECONCILE] CF[N] | [DOMAIN] - [Function Name]
+[READ] Lines [start]-[end] | [total] concepts
+
+[ANALYSIS]
+┌─ TỔNG QUAN: [M] groups
+│  Coherence: ⭐⭐⭐⭐☆ | Balance: ⭐⭐⭐☆☆ | Natural: ⭐⭐⭐⭐⭐
+│
+└─ CONTENT: [M] groups
+   Coherence: ⭐⭐⭐☆☆ | Balance: ⭐⭐⭐⭐☆ | Natural: ⭐⭐⭐☆☆
+
+[DECISION] [A/B/C/H] - [Short reasoning]
+[EXECUTE] [Changes made]
+[COMMIT] [hash] | [message]
+[DONE] CF[N] reconciled | Next: CF[N+1]
+```
 
 ---
 
-**Version:** 1.2.0 | **Requires:** whole-regrouper v4.2.0+
+**Version:** 2.0.0 | **Philosophy:** Analyze first, decide with reasoning
