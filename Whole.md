@@ -14644,19 +14644,16 @@ _Các công cụ và nguyên tắc để thiết lập khung tham chiếu, lập
 
 Các công cụ và nguyên tắc để thiết lập khung tham chiếu, lập bản đồ lãnh thổ và lập kế hoạch trên nhiều chiều thời gian và không gian.
 
-Bao gồm 53 khái niệm được tổ chức thành 11 nhóm chủ đề:
+Bao gồm 46 khái niệm được tổ chức thành 8 nhóm chủ đề:
 
-1. **Direction & Purpose Foundations** (6): Nền Tảng Định Hướng & Mục Đích - North Star**, Compass Calibration**, Moral Compass**, Life Planning & Purpose Finding**, Career Counseling**, Evolutionary Purpose Discovery**
-2. **Strategic Mapping & Visualization** (5): Lập Bản Đồ & Trực Quan Hóa Chiến Lược - Territory Mapping**, Wardley Mapping**, Resource Mapping**, Roadmap Creation**, Scenario Cartography**
-3. **Goal Setting & Progress Systems** (5): Thiết Lập Mục Tiêu & Hệ Thống Tiến Độ - Waypoint System**, OKRs (Objectives and Key Results)**, Gantt Charts & Critical Path**, Feasibility Diamond**, Conceptual Framework**
-4. **Temporal Planning & Time Horizons** (5): Lập Kế Hoạch Thời Gian & Chân Trời Thời Gian - Horizons Framework (Three Horizons)**, Backcasting**, Sequential Path Analysis**, Multi-Scale Time Horizons**, Spacetime Continuum**
-5. **Scenario Planning & Possibility Exploration** (6): Lập Kế Hoạch Kịch Bản & Khám Phá Khả Năng - Scenario Tree**, Pre-mortem & Pre-parade**, Options Thinking**, Parallel Universes**, Alternative Timeline Surfing**, Future History Writing**
-6. **Multi-Dimensional & Quantum Navigation** (8): Điều Hướng Đa Chiều & Lượng Tử - Master Planner**, Dimensional Shifting [Trong Lập Kế Hoạch]**, Parallel Navigation**, Holographic Navigation, Quantum Navigation States**, Multidimensional Reality**, Quantum Computing Navigation**, Quantum Tunneling Focus**
-31. **Holographic Navigation** (4): Điều Hướng Toàn Ảnh - Quantum Navigation States**, Multidimensional Reality**, Quantum Computing Navigation**, Quantum Tunneling Focus**
-7. **Narrative & Future Engineering** (6): Tường Thuật & Kỹ Thuật Thiết Kế Tương Lai - Prophetic Engineering**, Reality Fiction Techniques**, Story Structure Hacking**, Archetype Invocation**, Myth Modernization**, Meta-Narrative Awareness**
-8. **Evolutionary & Meta-Level Planning** (5): Lập Kế Hoạch Tiến Hóa & Cấp Siêu - Evolutionary Navigation**, Co-evolutionary Navigation**, Meta-Strategy**, Meta-Wayfinding**, Life Design Architecture**
-44. **Meta-Strategy**** (2): Siêu Chiến Lược - Meta-Wayfinding**, Life Design Architecture**
-45. **Meta-Wayfinding**** (1): Siêu Tìm Đường - Life Design Architecture**
+1. **Direction & Purpose Foundations** (6): Nền Tảng Định Hướng & Mục Đích - North Star, Compass Calibration, Moral Compass, Life Planning & Purpose Finding, Career Counseling, Evolutionary Purpose Discovery
+2. **Strategic Mapping & Visualization** (5): Lập Bản Đồ & Trực Quan Hóa Chiến Lược - Territory Mapping, Wardley Mapping, Resource Mapping, Roadmap Creation, Scenario Cartography
+3. **Goal Setting & Progress Systems** (5): Thiết Lập Mục Tiêu & Hệ Thống Tiến Độ - Waypoint System, OKRs (Objectives and Key Results), Gantt Charts & Critical Path, Feasibility Diamond, Conceptual Framework
+4. **Temporal Planning & Time Horizons** (5): Lập Kế Hoạch Thời Gian & Chân Trời Thời Gian - Horizons Framework (Three Horizons), Backcasting, Sequential Path Analysis, Multi-Scale Time Horizons, Spacetime Continuum
+5. **Scenario Planning & Possibility Exploration** (6): Lập Kế Hoạch Kịch Bản & Khám Phá Khả Năng - Scenario Tree, Pre-mortem & Pre-parade, Options Thinking, Parallel Universes, Alternative Timeline Surfing, Future History Writing
+6. **Multi-Dimensional & Quantum Navigation** (8): Điều Hướng Đa Chiều & Lượng Tử - Master Planner, Dimensional Shifting [Trong Lập Kế Hoạch], Parallel Navigation, Holographic Navigation, Quantum Navigation States, Multidimensional Reality, Quantum Computing Navigation, Quantum Tunneling Focus
+7. **Narrative & Future Engineering** (6): Tường Thuật & Kỹ Thuật Thiết Kế Tương Lai - Prophetic Engineering, Reality Fiction Techniques, Story Structure Hacking, Archetype Invocation, Myth Modernization, Meta-Narrative Awareness
+8. **Evolutionary & Meta-Level Planning** (5): Lập Kế Hoạch Tiến Hóa & Cấp Siêu - Evolutionary Navigation, Co-evolutionary Navigation, Meta-Strategy, Meta-Wayfinding, Life Design Architecture
 
 ---
 
