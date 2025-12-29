@@ -17504,21 +17504,17 @@ Biểu đạt trải nghiệm huyền bí thông qua thơ ca và biểu tượng
 
 Chức năng này chứa các thực hành để hợp nhất các khía cạnh khác nhau của bản thể—lý trí, cảm xúc, cơ thể, bóng tối, tâm linh—thành một con người toàn vẹn và hài hòa.
 
-Bao gồm 54 khái niệm được tổ chức thành 14 nhóm chủ đề:
+Bao gồm 49 khái niệm được tổ chức thành 10 nhóm chủ đề:
 
 1. **Inner Self & Psyche Integration** (5): Tích Hợp Tự Ngã & Tâm Lý - Shadow Integration, Inner Dialogue Harmonization, Subpersonality Integration, Archetypal Integration, Ancestral Integration
 2. **Body-Emotion Synthesis** (4): Tổng Hợp Cơ Thể-Cảm Xúc - Embodied Cognition, Emotional Alchemy, Cognitive-Affective Integration, Trauma Integration
 3. **Temporal & Developmental Integration** (3): Tích Hợp Thời Gian & Phát Triển - Peak Experience Integration, Temporal Self-Integration, Developmental Stage Integration
 4. **Polarity & Paradox Mastery** (4): Làm Chủ Cực Tính & Nghịch Lý - Masculine-Feminine Integration, Spiritual-Mundane Integration, Inner-Outer World Integration, Paradox Integration
 5. **Practical Life Coherence** (4): Mạch Lạc Đời Sống Thực Tiễn - Work-Life Integration, Value Clarification & Integration, Skill Integration, Habit Integration
-6. **Structural Patterns** (4): Mẫu Hình Cấu Trúc - Network Structure, Hierarchy Structure, Matrix Structure, Fractal Structure
-7. **System Dynamics** (5): Động Lực Hệ Thống - Dynamic Balance, Structure ↔ Flexibility Polarity, Integrative States, Ecosystem Dynamics, Field Coherence Mastery
-30. **Cognitive Load Management** (2): Quản Lý Tải Nhận Thức [Trong Tích Hợp Hệ Thống] - Ecosystem Dynamics, Field Coherence Mastery
-8. **Thinking Systems** (4): Hệ Thống Tư Duy - Systems Biology Thinking, Morphic Resonance Tuning, Dimensional Folding, Fractal Wisdom Navigation
-33. **Network Thinking** (4): Tư Duy Mạng Lưới - Systems Biology Thinking, Morphic Resonance Tuning, Dimensional Folding, Fractal Wisdom Navigation
-34. **Fractal Thinking** (4): Tư Duy Phân Dạng [Công Cụ Tổng Hợp] - Systems Biology Thinking, Morphic Resonance Tuning, Dimensional Folding, Fractal Wisdom Navigation
-9. **Unification Theories** (5): Các Lý Thuyết Thống Nhất - Unified Field Theories, Theory of Everything, M-Theory, The Unified Field (Consciousness), Gaia Hypothesis
-43. **Holographic Principle** (1): Nguyên Lý Toàn Ảnh [Công Cụ Tích Hợp Hệ Thống] - Gaia Hypothesis
+6. **Structural Patterns** (6): Mẫu Hình Cấu Trúc - Network Structure, Hierarchy Structure, Matrix Structure, Fractal Structure, Scale-Free Networks, Recursive Structures
+7. **System Dynamics** (6): Động Lực Hệ Thống - Dynamic Balance, Structure ↔ Flexibility Polarity, Integrative States, Cognitive Load Management, Ecosystem Dynamics, Field Coherence Mastery
+8. **Thinking Systems** (6): Hệ Thống Tư Duy - Network Thinking, Fractal Thinking, Systems Biology Thinking, Morphic Resonance Tuning, Dimensional Folding, Fractal Wisdom Navigation
+9. **Unification Theories** (6): Các Lý Thuyết Thống Nhất - Unified Field Theories, Theory of Everything, M-Theory, The Unified Field (Consciousness), Holographic Principle, Gaia Hypothesis
 10. **Cognitive Tools** (5): Công Cụ Nhận Thức - Cognitive Prosthetics, Extended Mind Thesis, Network Theory, Category Theory, Holographic Universe Framework
 
 ---
