@@ -121,25 +121,35 @@ If validation fails:
 
 ### Available Scripts
 
-| Script | Purpose |
-|--------|---------|
-| `validate-regroup.js` | Regroup validation |
-| `validate-structure.js` | 4-point structure check |
-| `check-cross-refs.js` | Reference validation |
-| `bilingual-check.js` | Bilingual compliance |
+| Script | Purpose | Status |
+|--------|---------|--------|
+| `validate-regroup.js` | Regroup validation (Tổng Quan, numbering, groups) | ✅ Available |
+| `validate-structure.js` | 4-point structure check | ✅ Available |
+| `check-cross-refs.js` | Reference validation | ✅ Available |
+| `bilingual-check.js` | Bilingual compliance | ✅ Available |
 
 ### Running Validation
 
 ```bash
-# Full function validation
+# Full function validation (recommended - most comprehensive)
 node .claude/skills/whole-regrouper/scripts/validate-regroup.js [num]
 
 # Structure validation
 node .claude/skills/whole-editor/scripts/validate-structure.js [num]
 
 # Cross-reference check
-node .claude/skills/whole-editor/scripts/check-cross-refs.js [section]
+node .claude/skills/whole-editor/scripts/check-cross-refs.js [num]
+
+# Bilingual compliance
+node .claude/skills/whole-editor/scripts/bilingual-check.js [num]
 ```
+
+### Manual Checks (complement to scripts)
+
+When scripts pass but you want extra assurance:
+- **Structure**: Review 4-point format visually
+- **Cross-refs**: Verify links navigate correctly
+- **Bilingual**: Check headers match meaning, not just format
 
 ## Reporting
 
