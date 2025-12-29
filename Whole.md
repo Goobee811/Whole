@@ -2786,11 +2786,10 @@ Các đường năng lượng trong cơ thể.
 
 Học hỏi từ 3.8 tỷ năm nghiên cứu và phát triển của tự nhiên - các nguyên lý thiết kế, tối ưu hóa và tồn tại đã được kiểm chứng qua tiến hóa.
 
-Bao gồm 56 khái niệm được tổ chức thành 10 nhóm chủ đề:
+Bao gồm 52 khái niệm được tổ chức thành 9 nhóm chủ đề:
 
 1. **Core Natural Principles** (8): Nguyên Lý Tự Nhiên Cốt Lõi - Đột Sinh & Tự Tổ Chức, Hình Thức & Chức Năng, Chu Kỳ & Nhịp Điệu, Tiến Hóa & Chọn Lọc, Cộng Sinh & Cạnh Tranh, Dự Phòng & Kiên Cường, Năng Lượng & Thông Tin, Cân Bằng & Cân Bằng Nội Môi
-2. **Biomimicry Applications** (5): Ứng Dụng Sinh Học Bắt Chước - Circular Economy, Resilient Networks, Efficient Resource Use, Cooperative Systems, Self-Healing Design
-9. **Adaptive Systems** (5): Hệ Thống Thích Ứng [Nguyên Lý Sinh Học] - Circular Economy, Resilient Networks, Efficient Resource Use, Cooperative Systems, Self-Healing Design
+2. **Biomimicry Applications** (6): Ứng Dụng Sinh Học Bắt Chước - Adaptive Systems, Circular Economy, Resilient Networks, Efficient Resource Use, Cooperative Systems, Self-Healing Design
 3. **Indigenous Wisdom & Earth-Based Practices** (5): Trí Tuệ Bản Địa & Thực Hành Gắn Với Đất - Great Spirit Concepts, Indigenous Design, Indigenous Landscapes, Vernacular Building, Monastic Gardens
 4. **Traditional Crafts & Material Arts** (8): Thủ Công Truyền Thống & Nghệ Thuật Vật Liệu - Ceramics & Pottery, Woodworking, Metalsmithing, Glassblowing, Weaving Traditions, Natural Dyes, Aromatherapy, Fermentation Arts
 5. **Analytical Methods & Knowledge Systems** (3): Phương Pháp Phân Tích & Hệ Thống Tri Thức - Newton's Razor, Knowledge Archaeology, Anti-Knowledge Investigation
