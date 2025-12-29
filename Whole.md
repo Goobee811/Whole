@@ -10954,18 +10954,14 @@ _Miền này tập hợp các công cụ, phương pháp và động lực để
 
 Khả năng tạo sinh ý tưởng thông qua các phương pháp tư duy không truyền thống, phá vỡ các khuôn mẫu và khám phá không gian khả năng rộng lớn. Đây là nền tảng của quá trình sáng tạo - giai đoạn sinh ra nhiều lựa chọn trước khi thu hẹp.
 
-Bao gồm 52 khái niệm được tổ chức thành 13 nhóm chủ đề:
+Bao gồm 48 khái niệm được tổ chức thành 9 nhóm chủ đề:
 
-1. **Core Lateral & Disruptive Methods** (4): Phương Pháp Tư Duy Ngang & Phá Vỡ Cốt Lõi - Lateral Thinking, Random Stimulation, Provocation, Provocative Operations
-4. **Pattern Breaking** (1): Phá Vỡ Mẫu Hình - Provocative Operations
-2. **Structured Creative Frameworks** (3): Khung Sáng Tạo Có Cấu Trúc - Six Thinking Hats, Attribute Listing, Morphological Analysis
-6. **SCAMPER** (3): Phương Pháp SCAMPER - Six Thinking Hats, Attribute Listing, Morphological Analysis
+1. **Core Lateral & Disruptive Methods** (5): Phương Pháp Tư Duy Ngang & Phá Vỡ Cốt Lõi - Lateral Thinking, Random Stimulation, Provocation, Pattern Breaking, Provocative Operations
+2. **Structured Creative Frameworks** (5): Khung Sáng Tạo Có Cấu Trúc - SCAMPER, Six Thinking Hats, Attribute Listing, Morphological Analysis, TRIZ
 3. **Questioning & Reframing Techniques** (5): Kỹ Thuật Đặt Câu Hỏi & Tái Khung - Reverse Brainstorming, Questioning Techniques, Assumption Reversing, Question Burst, Creative Problem Definition
-4. **Association & Conceptual Synthesis** (4): Liên Tưởng & Tổng Hợp Khái Niệm - Bisociation, Conceptual Blending, Synectics, Forcing Connections
-19. **Analogical Thinking** (1): Tư Duy Tương Tự [Công Cụ Sáng Tạo] - Forcing Connections
+4. **Association & Conceptual Synthesis** (6): Liên Tưởng & Tổng Hợp Khái Niệm - Bisociation, Conceptual Blending, Synectics, Analogical Thinking, Forcing Connections, Cross-Pollination
 5. **Visual & Spatial Methods** (5): Phương Pháp Thị Giác & Không Gian - Mind Mapping, Visualization, Storyboarding, Doodling & Sketching, Negative Space Thinking
-6. **Collaborative Intelligence Methods** (5): Phương Pháp Trí Tuệ Cộng Tác - Dialogue & Conversation, The Gallery Walk, Crowdsourcing Ideas, Improv Techniques, "Yes, and..." Thinking
-27. **Brainstorming & Brainwriting** (5): Động Não & Viết Não - Dialogue & Conversation, The Gallery Walk, Crowdsourcing Ideas, Improv Techniques, "Yes, and..." Thinking
+6. **Collaborative Intelligence Methods** (6): Phương Pháp Trí Tuệ Cộng Tác - Brainstorming & Brainwriting, Dialogue & Conversation, The Gallery Walk, Crowdsourcing Ideas, Improv Techniques, "Yes, and..." Thinking
 7. **Perspective, Simulation & Exploration** (6): Quan Điểm, Mô Phỏng & Khám Phá - Role Playing & Empathy Mapping, Biomimicry, Science Fiction Prototyping, Alternative Thinking, Thought Experiment Design, Mental Simulation
 8. **Flow, Momentum & Discovery** (6): Dòng Chảy, Động Lực & Khám Phá - Inspiration Overdrive, Ideation Explosion, Combinatorial Play, Incubation, Idea Quotas, Serendipity Engineering
 9. **Creative Expression & Meta-Integration** (4): Biểu Đạt Sáng Tạo & Tích Hợp Meta - The Master Generative Skill, Sonic Storytelling, Writing as Spiritual Practice, Teaching Artistry
