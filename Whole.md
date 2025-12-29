@@ -6846,18 +6846,15 @@ Tạo ra điều kiện cho các sự kiện ý nghĩa trùng hợp xảy ra.
 
 Hiểu và điều khiển các trạng thái cảm xúc và năng lượng của bản thân, và khả năng điều hướng các động lực cảm xúc trong các hệ thống phức tạp.
 
-Bao gồm 60 khái niệm được tổ chức thành 11 nhóm chủ đề:
+Bao gồm 49 khái niệm được tổ chức thành 8 nhóm chủ đề:
 
 1. **Emotional Awareness & Intelligence** (7): Nhận Thức & Trí Tuệ Cảm Xúc - Emotional Valence Dynamics, Emotional Granularity, Emotional Complexity, Empathy Dynamics, Emotional Intelligence, Somatic Intelligence, Emotional Agility
 2. **Emotional Regulation & Shadow Work** (6): Điều Chỉnh Cảm Xúc & Công Việc Bóng Tối - Emotional Regulation, Emotional Contagion, Affective Forecasting, Emotional Labor, Emotional Momentum, Shadow Work
-3. **Energy, Arousal & Performance States** (5): Năng Lượng, Hưng Phấn & Trạng Thái - Arousal Dynamics, Stress Dynamics, Flow & Immersion, Peak Experience, Burnout Dynamics
-15. **Energy Management** (4): Quản Lý Năng Lượng [Nghệ Thuật Nội Tại] - Stress Dynamics, Flow & Immersion, Peak Experience, Burnout Dynamics
+3. **Energy, Arousal & Performance States** (6): Năng Lượng, Hưng Phấn & Trạng Thái - Arousal Dynamics, Energy Management, Stress Dynamics, Flow & Immersion, Peak Experience, Burnout Dynamics
 4. **Motivation, Resilience & Growth** (5): Động Lực, Phục Hồi & Phát Triển - Motivational Dynamics, Resilience Building, Passion & Purpose, Psychological Safety, Patience Cultivation
 5. **Primordial & Universal Energy** (5): Năng Lượng Nguyên Thủy & Vũ Trụ - Primordial Energy (Shakti), Life Force (Prana/Qi/Ki), Kundalini, Entropy & Negentropy, Quantum Wave-Particle Duality
-6. **Traditional Energy Systems** (9): Hệ Thống Năng Lượng Truyền Thống - Chakra Integration, Meridian Integration, Biofield Integration, Grounding Integration, Buddhist Dependent Origination, Taoist Yin-Yang, I Ching (Book of Changes), Sufi Stations of Soul, Norse Wyrd & Orlog
-34. **Five Elements** (5): Ngũ Hành - Buddhist Dependent Origination, Taoist Yin-Yang, I Ching (Book of Changes), Sufi Stations of Soul, Norse Wyrd & Orlog
-7. **Movement, Embodiment & Performance** (6): Chuyển Động, Hiện Thân & Biểu Diễn - 5Rhythms Movement, Kinetic Art & Architecture, Movement Dynamics (Dance, Circus), Temporal Arts (Film, Performance), Interactive & Responsive Design, Live Performance Energy
-41. **Improvisation** (5): Ứng Biến - Kinetic Art & Architecture, Movement Dynamics (Dance, Circus), Temporal Arts (Film, Performance), Interactive & Responsive Design, Live Performance Energy
+6. **Traditional Energy Systems** (10): Hệ Thống Năng Lượng Truyền Thống - Chakra Integration, Meridian Integration, Biofield Integration, Grounding Integration, Five Elements, Buddhist Dependent Origination, Taoist Yin-Yang, I Ching (Book of Changes), Sufi Stations of Soul, Norse Wyrd & Orlog
+7. **Movement, Embodiment & Performance** (7): Chuyển Động, Hiện Thân & Biểu Diễn - 5Rhythms Movement, Improvisation, Kinetic Art & Architecture, Movement Dynamics (Dance, Circus), Temporal Arts (Film, Performance), Interactive & Responsive Design, Live Performance Energy
 8. **Energy Practices & Applications** (3): Thực Hành & Ứng Dụng Năng Lượng - Breathwork Energy Practices, Silence Practice, Complexity Science Applications
 
 ---
