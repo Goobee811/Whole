@@ -13,8 +13,8 @@
 const fs = require('fs');
 const path = require('path');
 
-// Import security utilities
-const { validateHookInput } = require('./lib/ck-config-utils.cjs');
+// Import shared utilities
+const { validateHookInput, handleHookError } = require('./lib/ck-config-utils.cjs');
 
 /**
  * Truncate string with ellipsis
@@ -109,7 +109,7 @@ async function main() {
     console.log(message);
 
   } catch (error) {
-    // Silent fail - never block Claude
+    handleHookError('progress-indicator', error);
   }
 
   process.exit(0);

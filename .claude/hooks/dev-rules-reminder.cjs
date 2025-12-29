@@ -6,8 +6,8 @@
  * Purpose: Remind Claude of key rules on every user prompt
  */
 
-// Import shared utilities (DRY refactoring)
-const { loadProgress, getGitBranch } = require('./lib/ck-config-utils.cjs');
+// Import shared utilities
+const { loadProgress, getGitBranch, handleHookError } = require('./lib/ck-config-utils.cjs');
 
 async function main() {
   try {
@@ -38,8 +38,7 @@ async function main() {
     console.log(output.join('\n'));
     process.exit(0);
   } catch (error) {
-    console.error(`Hook error: ${error.message}`);
-    process.exit(0);
+    handleHookError('dev-rules-reminder', error);
   }
 }
 

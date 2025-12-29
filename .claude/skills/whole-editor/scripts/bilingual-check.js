@@ -118,7 +118,7 @@ function main() {
 
   const headers = extractHeaders(section);
 
-  console.log(`\n${COLORS.cyan}Bilingual Check - CHUC NANG ${funcNum}${COLORS.reset}`);
+  console.log(`\n${COLORS.cyan}Bilingual Check - CHỨC NĂNG ${funcNum}${COLORS.reset}`);
   console.log(`Found ${headers.length} concept headers\n`);
 
   let passCount = 0;

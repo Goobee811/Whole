@@ -196,6 +196,23 @@ function escapeRegex(str) {
   return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
 
+/**
+ * Standardized error handler for hooks
+ * Logs to stderr only when CLAUDE_HOOK_DEBUG is set
+ * @param {string} hookName - Name of the hook for identification
+ * @param {Error} error - Error object
+ */
+function handleHookError(hookName, error) {
+  if (process.env.CLAUDE_HOOK_DEBUG) {
+    console.error(`[${hookName}] ${error.message}`);
+    if (process.env.CLAUDE_HOOK_DEBUG === 'verbose' && error.stack) {
+      console.error(error.stack);
+    }
+  }
+  // Always exit 0 to prevent blocking Claude
+  process.exit(0);
+}
+
 module.exports = {
   // Progress tracking
   loadProgress,
@@ -214,5 +231,7 @@ module.exports = {
   sanitizeSessionId,
   validateHookInput,
   validateFunctionNumber,
-  escapeRegex
+  escapeRegex,
+  // Error handling (Phase 5)
+  handleHookError
 };

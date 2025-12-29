@@ -13,8 +13,8 @@
 const fs = require('fs');
 const path = require('path');
 
-// Import security utilities
-const { validateHookInput } = require('./lib/ck-config-utils.cjs');
+// Import shared utilities
+const { validateHookInput, handleHookError } = require('./lib/ck-config-utils.cjs');
 
 /**
  * Check if the edit affected Whole.md
@@ -85,8 +85,7 @@ async function main() {
 
     process.exit(0);
   } catch (error) {
-    // Silent fail - don't block operations
-    process.exit(0);
+    handleHookError('validate-edit', error);
   }
 }
 

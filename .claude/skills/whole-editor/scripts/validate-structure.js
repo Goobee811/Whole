@@ -138,7 +138,7 @@ function main() {
   let passCount = 0;
   let failCount = 0;
 
-  console.log(`\n${COLORS.yellow}Validating CHUC NANG ${funcNum}${COLORS.reset}`);
+  console.log(`\n${COLORS.yellow}Validating CHỨC NĂNG ${funcNum}${COLORS.reset}`);
   console.log(`Found ${concepts.length} concepts\n`);
 
   for (const concept of concepts) {

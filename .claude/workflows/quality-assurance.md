@@ -56,7 +56,7 @@ After completing changes:
    ```
 
 2. **Manual Checks**
-   - [ ] "Tong Quan" section preserved
+   - [ ] "Tổng Quan" section preserved
    - [ ] Continuous numbering (1, 2, 3...)
    - [ ] Bilingual group names
    - [ ] No content deletion

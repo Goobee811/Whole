@@ -7,7 +7,7 @@ Validate the specified section of Whole.md: **$ARGUMENTS**
 ## Validation Process
 
 1. **Identify Target Section**
-   - If function number provided: Validate CHUC NANG [number]
+   - If function number provided: Validate CHỨC NĂNG [number]
    - If domain provided: Validate entire domain
    - If no argument: Ask which section to validate
 
@@ -59,6 +59,6 @@ Validate the specified section of Whole.md: **$ARGUMENTS**
 
 ## Usage Examples
 
-- `/validate 1` - Validate CHUC NANG 1
+- `/validate 1` - Validate CHỨC NĂNG 1
 - `/validate foundations` - Validate all functions in Foundations domain
 - `/validate` - Interactive mode (asks which section)

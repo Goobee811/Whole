@@ -31,7 +31,7 @@ Analyze progress and determine the optimal next function to process.
    ```markdown
    ## Next Function to Process
 
-   **Recommended: CHUC NANG [N]**
+   **Recommended: CHỨC NĂNG [N]**
    - Domain: [Domain Name]
    - Function: [Function Name]
    - Concepts: ~[N] estimated

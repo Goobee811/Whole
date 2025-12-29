@@ -19,8 +19,8 @@ const fs = require('fs');
 const path = require('path');
 const os = require('os');
 
-// Import shared utilities (DRY + Security)
-const { loadProgress, getGitBranch, validateHookInput } = require('./lib/ck-config-utils.cjs');
+// Import shared utilities (DRY + Security + Error Handling)
+const { loadProgress, getGitBranch, validateHookInput, handleHookError } = require('./lib/ck-config-utils.cjs');
 
 /**
  * Build progress line
@@ -66,12 +66,22 @@ async function main() {
     // Idempotency guard: Prevent hook loop on resume
     // session_id is now sanitized to prevent path traversal
     const sessionMarker = path.join(os.tmpdir(), `whole-session-${sessionId}`);
-    if (source === 'resume' && fs.existsSync(sessionMarker)) {
-      process.exit(0);
+    if (source === 'resume') {
+      try {
+        // Atomic check-and-set with exclusive flag (fixes TOCTOU race condition)
+        fs.writeFileSync(sessionMarker, Date.now().toString(), { flag: 'wx' });
+      } catch (e) {
+        if (e.code === 'EEXIST') {
+          process.exit(0); // Already initialized in this session
+        }
+        // Other errors: ignore, proceed with initialization
+      }
+    } else {
+      // Non-resume: just write marker
+      try {
+        fs.writeFileSync(sessionMarker, Date.now().toString());
+      } catch (e) { /* ignore */ }
     }
-    try {
-      fs.writeFileSync(sessionMarker, Date.now().toString());
-    } catch (e) { /* ignore */ }
 
     const progress = loadProgress();
     const progressLine = buildProgressLine(progress);
@@ -91,8 +101,7 @@ async function main() {
 
     process.exit(0);
   } catch (error) {
-    console.error(`SessionStart error: ${error.message}`);
-    process.exit(0);
+    handleHookError('session-init', error);
   }
 }
 

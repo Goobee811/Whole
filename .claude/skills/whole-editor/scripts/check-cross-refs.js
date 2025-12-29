@@ -113,7 +113,7 @@ function main() {
 
   const refs = extractCrossReferences(section);
 
-  console.log(`\n${COLORS.cyan}Cross-Reference Check - CHUC NANG ${funcNum}${COLORS.reset}`);
+  console.log(`\n${COLORS.cyan}Cross-Reference Check - CHỨC NĂNG ${funcNum}${COLORS.reset}`);
   console.log(`Found ${refs.length} cross-references\n`);
 
   let validCount = 0;
