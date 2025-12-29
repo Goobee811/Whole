@@ -4058,9 +4058,9 @@ Tập hợp tất cả các khả năng mới có thể đạt được chỉ b�
 
 Hiểu các quá trình, chu kỳ và các lực lượng thúc đẩy sự thay đổi sâu sắc, từ tiến hóa tăng dần đến biến đổi đột phá.
 
-Bao gồm 77 khái niệm được tổ chức thành 13 nhóm chủ đề:
+Bao gồm 78 khái niệm được tổ chức thành 13 nhóm chủ đề:
 
-1. **Fundamental Evolution & Adaptation** (5): Tiến Hóa & Thích Ứng Cơ Bản - Evolution & Adaptation, Growth & Decay Cycles, Punctuated Equilibrium, S-Curve Dynamics, Gradual vs. Punctuated Change
+1. **Fundamental Evolution & Adaptation** (6): Tiến Hóa & Thích Ứng Cơ Bản - Evolution & Adaptation, Growth & Decay Cycles, Punctuated Equilibrium, S-Curve Dynamics, Gradual vs. Punctuated Change, Evolutionary Reasoning
 2. **Metamorphosis & Discontinuous Change** (7): Biến Thái & Thay Đổi Gián Đoạn - Metamorphosis & Phase Transition, Crisis & Breakthrough, Punctuation Dynamics, Threshold Crossing, Quantum Leap, Transmutation, Molting & Shedding
 3. **Creative Destruction & Regeneration** (5): Phá Hủy Sáng Tạo & Tái Sinh - Creative Destruction & Renewal, Ego Death & Rebirth, Apoptosis & Regeneration, Dissolution & Rebirth, Assumption Annihilation
 4. **Paradigm Shifts & Cognitive Transformation** (8): Chuyển Đổi Mô Thức & Chuyển Hóa Nhận Thức - Paradigm Shift Dynamics, Paradigm Shifting, Cognitive Reboot, State Shifting, Evolutionary Thinking, Conceptual Mutation, Paradigm Hacking, Transformative Learning
