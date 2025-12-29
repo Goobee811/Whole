@@ -22,7 +22,7 @@ This directory contains custom Agent Skills, commands, hooks, and configuration 
 │   │   └── SKILL.md
 │   ├── whole-reviewer/           # Post-editing validation
 │   │   └── SKILL.md
-│   └── whole-regrouper/          # Concept reorganization (v3.0.0)
+│   └── whole-regrouper/          # Concept reorganization (v5.0.0)
 │       ├── SKILL.md
 │       ├── references/
 │       │   ├── grouping-principles.md
@@ -80,27 +80,29 @@ Post-editing validation tool. Use after editing to ensure quality standards.
 
 **Activation**: Automatically after edits
 
-### whole-regrouper (v3.0.0)
-Concept reorganization skill with progressive disclosure. Use to reorganize concepts into thematic groups.
+### whole-regrouper (v5.0.0)
+Concept reorganization skill with intelligent analysis and progressive disclosure.
 
 **Features**:
-- Auto-detects next function to process
+- Intelligent dual-representation analysis (Tổng Quan ↔ Content)
+- 4-criterion evaluation (Coherence, Balance, Natural Thinking, Accuracy)
+- Strategy options: [A] Tổng Quan→Content, [B] Content→Tổng Quan, [C] Regroup, [H] Hybrid
 - Progressive disclosure (loads references as needed)
-- Integrated validation
 - Progress tracking
 
-**Activation**: `/regroup [number]` or just `/regroup`
+**Activation**: `/regroup [number]` or `/reconcile [number]`
 
 ## Available Commands
 
 | Command | Purpose |
 |---------|---------|
-| `/status` | Show current progress (37/50 functions) |
+| `/status` | Show current progress (50/50 - COMPLETE) |
 | `/next` | Auto-detect next function to work on |
 | `/analyze [section]` | Analyze section for issues |
 | `/edit [section]` | Start editing session |
 | `/expand [domain] [func] [topic]` | Add new concepts |
-| `/regroup [number]` | Reorganize concepts into groups |
+| `/regroup [number]` | Full regroup - reorganize concepts into groups |
+| `/reconcile [number]` | Sync Tổng Quan ↔ Content (v5.0.0) |
 | `/validate [section]` | Validate changes |
 | `/report` | Generate comprehensive progress report |
 

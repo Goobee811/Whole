@@ -260,5 +260,5 @@ This command works seamlessly with `whole-regrouper` skill:
 ---
 
 **Version:** 2.1.0 (Simplified state management)
-**Requires:** `whole-regrouper` skill v3.0.0+, `.whole-progress.json`
+**Requires:** `whole-regrouper` skill v5.0.0+, `.whole-progress.json`
 **Hooks:** `session-init.cjs` for auto-reminders on startup
