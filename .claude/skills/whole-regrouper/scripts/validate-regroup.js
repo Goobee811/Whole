@@ -19,6 +19,9 @@
 const fs = require('fs');
 const path = require('path');
 
+// Import security utilities
+const { escapeRegex, validateFunctionNumber } = require('../../../hooks/lib/ck-config-utils.cjs');
+
 // Configuration
 const WHOLE_MD_PATH = path.join(process.cwd(), 'Whole.md');
 
@@ -37,6 +40,20 @@ function log(color, symbol, message) {
 }
 
 /**
+ * Show error with recovery guidance
+ */
+function showErrorWithRecovery(message, context) {
+  console.error(`\n${colors.red}❌ ${message}${colors.reset}`);
+  if (context) console.error(`   Context: ${context}`);
+  console.error(`\n${colors.yellow}Recovery options:${colors.reset}`);
+  console.error(`  1. Verify function number is between 1-50`);
+  console.error(`  2. Confirm Whole.md exists: ls Whole.md`);
+  console.error(`  3. Run from project root directory`);
+  console.error(`\nUsage: node validate-regroup.js <function-number>`);
+  console.error(`Example: node validate-regroup.js 5`);
+}
+
+/**
  * Find CHỨC NĂNG boundaries in Whole.md
  */
 function findFunctionBoundaries(functionNumber) {
@@ -46,8 +63,11 @@ function findFunctionBoundaries(functionNumber) {
   let startLine = -1;
   let endLine = lines.length;
 
-  const functionRegex = new RegExp(`^## CHỨC NĂNG ${functionNumber}:`);
-  const nextFunctionRegex = new RegExp(`^## CHỨC NĂNG ${functionNumber + 1}:`);
+  // Use escapeRegex to prevent ReDoS attacks from malicious input
+  const safeNum = escapeRegex(functionNumber.toString());
+  const safeNextNum = escapeRegex((functionNumber + 1).toString());
+  const functionRegex = new RegExp(`^## CHỨC NĂNG ${safeNum}:`);
+  const nextFunctionRegex = new RegExp(`^## CHỨC NĂNG ${safeNextNum}:`);
 
   for (let i = 0; i < lines.length; i++) {
     if (functionRegex.test(lines[i])) {
@@ -350,15 +370,18 @@ if (require.main === module) {
   const args = process.argv.slice(2);
 
   if (args.length === 0) {
-    console.error(`${colors.red}Usage: node validate-regroup.js [function-number]${colors.reset}`);
-    console.error(`Example: node validate-regroup.js 5`);
+    showErrorWithRecovery('No function number provided');
     process.exit(1);
   }
 
-  const functionNumber = parseInt(args[0], 10);
+  // Validate input using security utility (prevents regex injection)
+  const functionNumber = validateFunctionNumber(args[0], 1, 50);
 
-  if (isNaN(functionNumber)) {
-    console.error(`${colors.red}Error: Invalid function number "${args[0]}"${colors.reset}`);
+  if (functionNumber === null) {
+    showErrorWithRecovery(
+      `Invalid function number: "${args[0]}"`,
+      'Must be integer between 1-50'
+    );
     process.exit(1);
   }
 

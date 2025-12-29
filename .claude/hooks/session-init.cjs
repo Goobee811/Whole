@@ -19,8 +19,8 @@ const fs = require('fs');
 const path = require('path');
 const os = require('os');
 
-// Import shared utilities (DRY refactoring)
-const { loadProgress, getGitBranch } = require('./lib/ck-config-utils.cjs');
+// Import shared utilities (DRY + Security)
+const { loadProgress, getGitBranch, validateHookInput } = require('./lib/ck-config-utils.cjs');
 
 /**
  * Build progress line
@@ -53,11 +53,18 @@ function buildProgressLine(progress) {
 async function main() {
   try {
     const stdin = fs.readFileSync(0, 'utf-8').trim();
-    const data = stdin ? JSON.parse(stdin) : {};
-    const source = data.source || 'unknown';
-    const sessionId = data.session_id || process.ppid || 'default';
+    const rawData = stdin ? JSON.parse(stdin) : {};
+
+    // Validate and sanitize input (Security hardening)
+    const data = validateHookInput(rawData);
+    if (!data) {
+      process.exit(0); // Invalid input, exit gracefully
+    }
+
+    const { source, session_id: sessionId } = data;
 
     // Idempotency guard: Prevent hook loop on resume
+    // session_id is now sanitized to prevent path traversal
     const sessionMarker = path.join(os.tmpdir(), `whole-session-${sessionId}`);
     if (source === 'resume' && fs.existsSync(sessionMarker)) {
       process.exit(0);

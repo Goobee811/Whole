@@ -13,6 +13,9 @@
 const fs = require('fs');
 const path = require('path');
 
+// Import security utilities
+const { validateHookInput } = require('./lib/ck-config-utils.cjs');
+
 /**
  * Check if the edit affected Whole.md
  */
@@ -52,7 +55,14 @@ async function main() {
       process.exit(0);
     }
 
-    const data = JSON.parse(stdin);
+    const rawData = JSON.parse(stdin);
+
+    // Validate and sanitize input (Security hardening)
+    const data = validateHookInput(rawData);
+    if (!data) {
+      process.exit(0);
+    }
+
     const toolName = data.tool_name;
     const toolInput = data.tool_input || {};
 

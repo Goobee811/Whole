@@ -13,6 +13,9 @@
 const fs = require('fs');
 const path = require('path');
 
+// Import security utilities
+const { validateHookInput } = require('./lib/ck-config-utils.cjs');
+
 /**
  * Truncate string with ellipsis
  */
@@ -82,11 +85,17 @@ async function main() {
       process.exit(0);
     }
 
-    const data = JSON.parse(stdin);
+    const rawData = JSON.parse(stdin);
+
+    // Validate and sanitize input (Security hardening)
+    const data = validateHookInput(rawData);
+    if (!data) {
+      process.exit(0);
+    }
 
     const tool = data.tool_name || 'unknown';
     const params = data.tool_parameters || {};
-    const result = data.tool_result || {};
+    const result = rawData.tool_result || {}; // tool_result not in validateHookInput
 
     // Skip these tools to reduce noise
     const skipTools = ['TodoWrite', 'Skill', 'SlashCommand'];
