@@ -11579,49 +11579,17 @@ Biến giảng dạy thành một hình thức nghệ thuật sáng tạo - nơi
 
 Các phương pháp, quy trình và hệ thống có cấu trúc để phát triển các ý tưởng ban đầu thành các giải pháp, sản phẩm hoặc dịch vụ khả thi và có giá trị. Đây là giai đoạn chuyển hóa từ ý tưởng thành đổi mới thực tế.
 
-Bao gồm 127 khái niệm được tổ chức thành 41 nhóm chủ đề:
+Bao gồm 41 khái niệm được tổ chức thành 9 nhóm chủ đề:
 
 1. **Core Innovation Methodologies** (6): Phương Pháp Đổi Mới Cốt Lõi - Design Thinking, Lean Innovation, Jobs-to-be-Done Innovation Application, Disruptive Innovation Theory, Open Innovation, Agile Innovation
-1. **Design Thinking** (5): Tư Duy Thiết Kế - Lean Innovation, Jobs-to-be-Done Innovation Application, Disruptive Innovation Theory, Open Innovation, Agile Innovation
-2. **Lean Innovation** (4): Đổi Mới Tinh Gọn - Jobs-to-be-Done Innovation Application, Disruptive Innovation Theory, Open Innovation, Agile Innovation
-3. **Jobs-to-be-Done Innovation Application** (3): Ứng Dụng JTBD Trong Đổi Mới - Disruptive Innovation Theory, Open Innovation, Agile Innovation
-4. **Disruptive Innovation Theory** (2): Lý Thuyết Đổi Mới Đột Phá - Open Innovation, Agile Innovation
-5. **Open Innovation** (1): Đổi Mới Mở [Phương Pháp Đột Phá] - Agile Innovation
 2. **Innovation Process Management** (3): Quản Lý Quy Trình Đổi Mới - Stage-Gate Process, Innovation Portfolio Management, Innovation Ambition Matrix
-7. **Stage-Gate Process** (2): Quy Trình Cổng-Giai Đoạn - Innovation Portfolio Management, Innovation Ambition Matrix
-8. **Innovation Portfolio Management** (1): Quản Lý Danh Mục Đổi Mới - Innovation Ambition Matrix
 3. **Business Model & Platform Innovation** (3): Đổi Mới Mô Hình Kinh Doanh & Nền Tảng - Business Model Innovation, Platform Innovation, Combinatorial Innovation
-10. **Business Model Innovation** (2): Đổi Mới Mô Hình Kinh Doanh - Platform Innovation, Combinatorial Innovation
-11. **Platform Innovation** (1): Đổi Mới Nền Tảng - Combinatorial Innovation
 4. **Breakthrough Mechanics** (5): Cơ Chế Đột Phá - Breakthrough Breeding, Evolution Hacking, Genius Mode Activation, Creative Singularity, Alchemical Creation
-13. **Breakthrough Breeding** (4): Nhân Giống Đột Phá - Evolution Hacking, Genius Mode Activation, Creative Singularity, Alchemical Creation
-14. **Evolution Hacking** (3): Hack Tiến Hóa [Thiết Kế & Định Hướng] - Genius Mode Activation, Creative Singularity, Alchemical Creation
-15. **Genius Mode Activation** (2): Kích Hoạt Chế Độ Thiên Tài - Creative Singularity, Alchemical Creation
-16. **Creative Singularity** (1): Điểm Kỳ Dị Sáng Tạo - Alchemical Creation
 5. **Design & Narrative Approaches** (6): Tiếp Cận Thiết Kế & Câu Chuyện - Narrative-Driven Innovation, Prototyping, Systematic Inventive Thinking (SIT), World-Building, Speculative & Critical Design, Service Design
-18. **Narrative-Driven Innovation** (5): Đổi Mới Dẫn Dắt Bởi Câu Chuyện - Prototyping, Systematic Inventive Thinking (SIT), World-Building, Speculative & Critical Design, Service Design
-19. **Prototyping** (4): Tạo Mẫu - Systematic Inventive Thinking (SIT), World-Building, Speculative & Critical Design, Service Design
-20. **Systematic Inventive Thinking (SIT)** (3): Tư Duy Sáng Tạo Có Hệ Thống - World-Building, Speculative & Critical Design, Service Design
-21. **World-Building** (2): Xây Dựng Thế Giới [Comprehensive Creation Method] - Speculative & Critical Design, Service Design
-22. **Speculative & Critical Design** (1): Thiết Kế Đầu Cơ & Phê Phán - Service Design
 6. **Collaborative & Open Innovation** (3): Đổi Mới Cộng Tác & Mở - Co-Creation, Innovation Labs & Sandboxes, Reverse Innovation
-24. **Co-Creation** (2): Đồng Sáng Tạo [Phương Pháp Đổi Mới Đột Phá] - Innovation Labs & Sandboxes, Reverse Innovation
-25. **Innovation Labs & Sandboxes** (1): Phòng Thí Nghiệm Đổi Mới & Hộp Cát - Reverse Innovation
 7. **Innovation Operations & Resources** (6): Vận Hành & Nguồn Lực Đổi Mới - Innovation Accounting, Technology Scouting, Innovation Sprints, Innovation Challenges & Competitions, Innovation Partnerships & Alliances, Corporate Venturing
-27. **Innovation Accounting** (5): Kế Toán Đổi Mới - Technology Scouting, Innovation Sprints, Innovation Challenges & Competitions, Innovation Partnerships & Alliances, Corporate Venturing
-28. **Technology Scouting** (4): Trinh Sát Công Nghệ - Innovation Sprints, Innovation Challenges & Competitions, Innovation Partnerships & Alliances, Corporate Venturing
-29. **Innovation Sprints** (3): Chạy Nước Rút Đổi Mới - Innovation Challenges & Competitions, Innovation Partnerships & Alliances, Corporate Venturing
-30. **Innovation Challenges & Competitions** (2): Thách Thức & Cuộc Thi Đổi Mới - Innovation Partnerships & Alliances, Corporate Venturing
-31. **Innovation Partnerships & Alliances** (1): Đối Tác & Liên Minh Đổi Mới - Corporate Venturing
 8. **Organizational Innovation Capability** (2): Năng Lực Đổi Mới Tổ Chức - Innovation Culture Building, Innovation Capability Development
-33. **Innovation Culture Building** (1): Xây Dựng Văn Hóa Đổi Mới - Innovation Capability Development
 9. **Systemic & Social Innovation** (7): Đổi Mới Hệ Thống & Xã Hội - Reality Hacking, Phoenix Innovation, Innovation Cascades, Alternative Economics Models, Innovative Governance Systems, New Relationship Models, Solutions Journalism
-35. **Reality Hacking** (6): Hack Thực Tại - Phoenix Innovation, Innovation Cascades, Alternative Economics Models, Innovative Governance Systems, New Relationship Models, Solutions Journalism
-36. **Phoenix Innovation** (5): Đổi Mới Phượng Hoàng - Innovation Cascades, Alternative Economics Models, Innovative Governance Systems, New Relationship Models, Solutions Journalism
-37. **Innovation Cascades** (4): Thác Đổi Mới - Alternative Economics Models, Innovative Governance Systems, New Relationship Models, Solutions Journalism
-38. **Alternative Economics Models** (3): Các Mô Hình Kinh Tế Thay Thế - Innovative Governance Systems, New Relationship Models, Solutions Journalism
-39. **Innovative Governance Systems** (2): Hệ Thống Quản Trị Đổi Mới - New Relationship Models, Solutions Journalism
-40. **New Relationship Models** (1): Các Mô Hình Quan Hệ Mới - Solutions Journalism
 
 ---
 
