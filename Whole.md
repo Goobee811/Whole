@@ -12730,40 +12730,16 @@ Truyền thống kể chuyện và ma thuật ngôn từ Celtic.
 
 Khả năng phá vỡ các mẫu hình cũ và tái kết hợp các yếu tố theo những cách mới - cốt lõi của đổi mới thực sự. Đây là nghệ thuật phá hủy sáng tạo và tổng hợp mới.
 
-Bao gồm 90 khái niệm được tổ chức thành 32 nhóm chủ đề:
+Bao gồm 32 khái niệm được tổ chức thành 8 nhóm chủ đề:
 
 1. **Pattern Disruption & Creative Destruction** (3): Phá Vỡ Mẫu Hình & Hủy Diệt Sáng Tạo - Paradigm Disruption, Creative Destruction, Boundary Crossing
-1. **Paradigm Disruption** (2): Phá Vỡ Mô Hình - Creative Destruction, Boundary Crossing
-2. **Creative Destruction** (1): Phá Hủy Sáng Tạo - Boundary Crossing
 2. **Recombination & Remix Techniques** (5): Kỹ Thuật Tái Kết Hợp & Tái Phối - Remix Culture, Mutation & Variation, Hybrid Vigor, Deconstruction & Reassembly, Unexpected Juxtaposition
-4. **Remix Culture** (4): Văn Hóa Tái Phối - Mutation & Variation, Hybrid Vigor, Deconstruction & Reassembly, Unexpected Juxtaposition
-5. **Mutation & Variation** (3): Biến Đổi & Biến Thể - Hybrid Vigor, Deconstruction & Reassembly, Unexpected Juxtaposition
-6. **Hybrid Vigor** (2): Sức Mạnh Lai Ghép - Deconstruction & Reassembly, Unexpected Juxtaposition
-7. **Deconstruction & Reassembly** (1): Phá Bỏ & Tái Lắp - Unexpected Juxtaposition
 3. **Constraint Transformation** (1): Biến Đổi Ràng Buộc - Constraint Transformation
 4. **Scale, Dimension & Evolution** (4): Quy Mô, Chiều & Tiến Hóa - Inversion Practice, Scale Shifting, Abstraction & Instantiation, Evolutionary Algorithms
-10. **Inversion Practice** (3): Thực Hành Đảo Ngược - Scale Shifting, Abstraction & Instantiation, Evolutionary Algorithms
-11. **Scale Shifting** (2): Chuyển Đổi Quy Mô - Abstraction & Instantiation, Evolutionary Algorithms
-12. **Abstraction & Instantiation** (1): Trừu Tượng Hóa & Cụ Thể Hóa - Evolutionary Algorithms
 5. **Cross-Domain Synthesis** (4): Tổng Hợp Xuyên Lĩnh Vực - Cross-Cultural Synthesis, Temporal Recombination, Medium Hopping, Exaptation
-14. **Cross-Cultural Synthesis** (3): Tổng Hợp Xuyên Văn Hóa - Temporal Recombination, Medium Hopping, Exaptation
-15. **Temporal Recombination** (2): Tái Kết Hợp Thời Gian - Medium Hopping, Exaptation
-16. **Medium Hopping** (1): Nhảy Giữa Các Phương Tiện - Exaptation
 6. **Pattern Systems & Modularity** (4): Hệ Thống Mẫu Hình & Tính Mô-đun - Pattern Languages, Modularity & Interchangeability, Bricolage, Cross-Pollination Engines
-18. **Pattern Languages** (3): Ngôn Ngữ Mẫu Hình - Modularity & Interchangeability, Bricolage, Cross-Pollination Engines
-19. **Modularity & Interchangeability** (2): Tính Mô-đun & Khả Năng Thay Thế - Bricolage, Cross-Pollination Engines
-20. **Bricolage** (1): Nghệ Thuật Vá Víu [Phương Pháp Sáng Tạo] - Cross-Pollination Engines
 7. **Intuitive & Metaphorical Synthesis** (4): Tổng Hợp Trực Giác & Ẩn Dụ - Transrational Ways of Knowing, Metaphorical Reasoning, Metaphorical Transformation, Intuitive Synthesis
-22. **Transrational Ways of Knowing** (3): Các Cách Biết Siêu Lý Tính - Metaphorical Reasoning, Metaphorical Transformation, Intuitive Synthesis
-23. **Metaphorical Reasoning** (2): Lý Luận Ẩn Dụ - Metaphorical Transformation, Intuitive Synthesis
-24. **Metaphorical Transformation** (1): Biến Đổi Ẩn Dụ - Intuitive Synthesis
-8. **Artistic & Multi-Modal Integration** (7): Tích Hợp Nghệ Thuật & Đa Phương Thức - Artistic Integration, Musical Integration, Movement Integration [Tổng Hợp Sáng Tạo], Written Integration, Multimedia Ceremony, Fusion Innovations, New Media Experiments
-26. **Artistic Integration** (6): Tích Hợp Nghệ Thuật - Musical Integration, Movement Integration [Tổng Hợp Sáng Tạo], Written Integration, Multimedia Ceremony, Fusion Innovations, New Media Experiments
-27. **Musical Integration** (5): Tích Hợp Âm Nhạc - Movement Integration [Tổng Hợp Sáng Tạo], Written Integration, Multimedia Ceremony, Fusion Innovations, New Media Experiments
-28. **Movement Integration [Tổng Hợp Sáng Tạo]** (4): Tích Hợp Chuyển Động [Tổng Hợp Sáng Tạo] - Written Integration, Multimedia Ceremony, Fusion Innovations, New Media Experiments
-29. **Written Integration** (3): Tích Hợp Văn Bản - Multimedia Ceremony, Fusion Innovations, New Media Experiments
-30. **Multimedia Ceremony** (2): Nghi Lễ Đa Phương Tiện [Sáng Tạo Tái Kết Hợp] - Fusion Innovations, New Media Experiments
-31. **Fusion Innovations** (1): Các Đổi Mới Hợp Nhất - New Media Experiments
+8. **Artistic & Multi-Modal Integration** (7): Tích Hợp Nghệ Thuật & Đa Phương Thức - Artistic Integration, Musical Integration, Movement Integration, Written Integration, Multimedia Ceremony, Fusion Innovations, New Media Experiments
 
 ---
 
