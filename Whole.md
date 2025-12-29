@@ -16235,48 +16235,17 @@ Chức năng này bao gồm các phương pháp và công cụ để điều ph�
 
 ---
 
-Bao gồm 118 khái niệm được tổ chức thành 40 nhóm chủ đề:
+Bao gồm 40 khái niệm được tổ chức thành 9 nhóm chủ đề:
 
 1. **Time Control & Rhythm Management** (7): Kiểm Soát Thời Gian & Quản Lý Nhịp Điệu - Tempo Control, Timing Recognition, Polychronic vs. Monochronic, Polyphasic vs. Monophasic Cycles, Master Timekeeper, Kairos, Chronos Management
-1. **Tempo Control** (6): Kiểm Soát Nhịp Độ - Timing Recognition, Polychronic vs. Monochronic, Polyphasic vs. Monophasic Cycles, Master Timekeeper, Kairos, Chronos Management
-2. **Timing Recognition** (5): Nhận Dạng Thời Điểm - Polychronic vs. Monochronic, Polyphasic vs. Monophasic Cycles, Master Timekeeper, Kairos, Chronos Management
-3. **Polychronic vs. Monochronic** (4): Đa Thời vs. Đơn Thời - Polyphasic vs. Monophasic Cycles, Master Timekeeper, Kairos, Chronos Management
-4. **Polyphasic vs. Monophasic Cycles** (3): Chu Kỳ Đa Pha vs. Đơn Pha - Master Timekeeper, Kairos, Chronos Management
-5. **Master Timekeeper** (2): Bậc Thầy Quản Lý Thời Gian - Kairos, Chronos Management
-6. **Kairos** (1): Thời Điểm Đúng Đắn - Chronos Management
 2. **Biological & Natural Cycles** (7): Chu Kỳ Sinh Học & Tự Nhiên - Chronobiology Awareness, Seasonal Thinking, Seasonal Attunement Practices, Monthly Cycle Practices, Annual Rhythm Practices, Biogeochemical Cycles, Metabolic Pathways
-8. **Chronobiology Awareness** (6): Nhận Thức Sinh Học Thời Gian - Seasonal Thinking, Seasonal Attunement Practices, Monthly Cycle Practices, Annual Rhythm Practices, Biogeochemical Cycles, Metabolic Pathways
-9. **Seasonal Thinking** (5): Tư Duy Theo Mùa - Seasonal Attunement Practices, Monthly Cycle Practices, Annual Rhythm Practices, Biogeochemical Cycles, Metabolic Pathways
-10. **Seasonal Attunement Practices** (4): Thực Hành Hòa Hợp Theo Mùa - Monthly Cycle Practices, Annual Rhythm Practices, Biogeochemical Cycles, Metabolic Pathways
-11. **Monthly Cycle Practices** (3): Thực Hành Chu Kỳ Hàng Tháng - Annual Rhythm Practices, Biogeochemical Cycles, Metabolic Pathways
-12. **Annual Rhythm Practices** (2): Thực Hành Nhịp Điệu Hàng Năm - Biogeochemical Cycles, Metabolic Pathways
-13. **Biogeochemical Cycles** (1): Chu Kỳ Sinh Địa Hóa - Metabolic Pathways
 3. **Monitoring & Tracking Tools** (4): Công Cụ Giám Sát & Theo Dõi - Dashboard & Metrics Monitoring, Checklist Navigation (Time), Reference Points & Time Anchors, Dead Reckoning
-15. **Dashboard & Metrics Monitoring** (3): Giám Sát Bảng Điều Khiển & Chỉ Số - Checklist Navigation (Time), Reference Points & Time Anchors, Dead Reckoning
-16. **Checklist Navigation (Time)** (2): Điều Hướng Bằng Checklist Theo Thời Gian - Reference Points & Time Anchors, Dead Reckoning
-17. **Reference Points & Time Anchors** (1): Điểm Tham Chiếu & Neo Thời Gian - Dead Reckoning
 4. **Collective Movement & Coordination** (3): Chuyển Động Tập Thể & Phối Hợp - Formation Flying, Swarm Navigation, Convoy Systems
-19. **Formation Flying** (2): Bay Đội Hình - Swarm Navigation, Convoy Systems
-20. **Swarm Navigation** (1): Điều Hướng Bầy Đàn - Convoy Systems
 5. **Network & Communication Systems** (4): Hệ Thống Mạng & Giao Tiếp - Relationship Mapping, Communication Channels, Communication Protocols, Network Topology
-22. **Relationship Mapping** (3): Lập Bản Đồ Mối Quan Hệ - Communication Channels, Communication Protocols, Network Topology
-23. **Communication Channels** (2): Các Kênh Giao Tiếp - Communication Protocols, Network Topology
-24. **Communication Protocols** (1): Giao Thức Giao Tiếp - Network Topology
 6. **Technology-Enhanced Navigation** (3): Điều Hướng Tăng Cường Công Nghệ - AI-Assisted Navigation, Hybrid Navigation, Spacetime Navigation (GPS)
-26. **AI-Assisted Navigation** (2): Điều Hướng Hỗ Trợ Bởi AI - Hybrid Navigation, Spacetime Navigation (GPS)
-27. **Hybrid Navigation** (1): Điều Hướng Lai - Spacetime Navigation (GPS)
 7. **Wisdom Traditions & Indigenous Knowledge** (4): Truyền Thống Trí Tuệ & Tri Thức Bản Địa - Buddhist Middle Way, Confucian Rectification of Names, Native American Medicine Wheel, Aboriginal Songlines
-29. **Buddhist Middle Way** (3): Con Đường Trung Đạo Phật Giáo - Confucian Rectification of Names, Native American Medicine Wheel, Aboriginal Songlines
-30. **Confucian Rectification of Names** (2): Chính Danh Khổng Giáo - Native American Medicine Wheel, Aboriginal Songlines
-31. **Native American Medicine Wheel** (1): Bánh Xe Y Học Bản Địa Mỹ - Aboriginal Songlines
 8. **Healing & Spiritual Transformation** (4): Chữa Lành & Chuyển Hóa Tâm Linh - Sacred Time Structuring, Shamanic Soul Retrieval, Wilderness Therapy, Evolutionary Astrology Study
-33. **Sacred Time Structuring** (3): Cấu Trúc Thời Gian Thiêng - Shamanic Soul Retrieval, Wilderness Therapy, Evolutionary Astrology Study
-34. **Shamanic Soul Retrieval** (2): Lấy Lại Linh Hồn Shaman - Wilderness Therapy, Evolutionary Astrology Study
-35. **Wilderness Therapy** (1): Liệu Pháp Hoang Dã - Evolutionary Astrology Study
 9. **Creative Direction & Destiny Navigation** (4): Chỉ Đạo Sáng Tạo & Điều Hướng Số Phận - Curation & Programming, Artistic Direction, Destiny Debugging, Fate Hacking
-37. **Curation & Programming** (3): Sắp Xếp & Lập Trình - Artistic Direction, Destiny Debugging, Fate Hacking
-38. **Artistic Direction** (2): Chỉ Đạo Nghệ Thuật - Destiny Debugging, Fate Hacking
-39. **Destiny Debugging** (1): Gỡ Lỗi Số Phận - Fate Hacking
 
 ---
 
