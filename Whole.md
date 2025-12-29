@@ -8278,7 +8278,7 @@ Xác định các hướng chủ đạo và các yếu tố quan trọng nhất 
 
 Các phương pháp và công cụ có cấu trúc để phân tích vấn đề, tìm ra nguyên nhân gốc rễ và thiết kế giải pháp hiệu quả. Đây là "bộ công cụ giải quyết vấn đề" của OPERATIONS.
 
-Bao gồm 57 khái niệm được tổ chức thành 10 nhóm chủ đề:
+Bao gồm 58 khái niệm được tổ chức thành 10 nhóm chủ đề:
 
 1. **Analytical Razors & Parsimony Principles** (5): Dao Cạo Phân Tích & Nguyên Tắc Tiết Kiệm - Analytical Razors, Newton's Flaming Laser Sword, Grice's Razor, Morgan's Canon, Einstein's Razor
 2. **Root Cause & Problem Diagnosis** (5): Chẩn Đoán Vấn Đề & Nguyên Nhân Gốc - Root Cause Analysis (RCA), Decomposition, Kepner-Tregoe Problem Analysis, FMEA (Failure Mode and Effects Analysis), Inversion for Problem Prevention
@@ -8287,7 +8287,7 @@ Bao gồm 57 khái niệm được tổ chức thành 10 nhóm chủ đề:
 5. **Statistical & Data Analysis** (5): Phân Tích Thống Kê & Dữ Liệu - Trend Analysis, Sensitivity Analysis, Dimensionality Reduction, Distribution Analysis, Correlation Analysis
 6. **System & Process Mapping** (6): Ánh Xạ Hệ Thống & Quy Trình - Process Analysis / Mapping, Black Box Analysis, Causal Loop Diagrams, Value Chain Analysis, System Interface Analysis, Predecessor-Successor Analysis
 7. **Decision & Comparative Evaluation** (7): Đánh Giá So Sánh & Ra Quyết Định - Pareto Analysis (80/20 Rule), Decision Matrix (Multi-Criteria Decision Analysis), Cost-Benefit Analysis, Comparative Analysis, Benchmarking, Trade-off Analysis, Comparison
-8. **Context & Critical Thinking** (5): Phân Tích Bối Cảnh & Tư Duy Phản Biện - Stakeholder Analysis, Argument Deconstruction, Content Analysis, Checklist Analysis, Cognitive Load Analysis
+8. **Context & Critical Thinking** (6): Phân Tích Bối Cảnh & Tư Duy Phản Biện - Stakeholder Analysis, Argument Deconstruction, Content Analysis, Checklist Analysis, Cognitive Load Analysis, Devil's Advocate
 9. **Structural & Set Operations** (9): Thao Tác Cấu Trúc & Tập Hợp - Connection, Separation, Transformation, Addition, Multiplication, Intersection, Union, Mapping, Rotation
 10. **Mental Tools & Knowledge Organization** (7): Công Cụ Tư Duy & Tổ Chức Tri Thức - Replication, Oscillation, Mental Models, Framework Synthesis, Schema Construction, Taxonomy Development, Search-Based Reasoning
 
