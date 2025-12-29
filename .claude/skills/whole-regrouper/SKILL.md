@@ -2,9 +2,9 @@
 name: whole-regrouper
 description: |
   Phân tích, gom nhóm, và ĐỒNG BỘ (reconcile) giữa Tổng Quan listing và actual group headers.
-  Detects inconsistencies between what Tổng Quan says vs what actual content shows.
-  v4.0.0: Added reconciliation workflow for Tổng Quan ↔ Content sync.
-version: 4.0.0
+  Works on ONE CHỨC NĂNG at a time (50 total, process sequentially).
+  v4.1.0: Single-function workflow, removed batch mode.
+version: 4.1.0
 license: MIT
 allowed-tools:
   - Edit
@@ -14,254 +14,171 @@ allowed-tools:
 metadata:
   author: "Whole Project"
   category: "documentation"
-  updated: "2025-12-28"
+  updated: "2025-12-29"
 ---
 
-# Whole Concept Regrouper & Reconciler
+# Whole Concept Regrouper & Reconciler v4.1
 
-**v4.0.0** - Now includes reconciliation between Tổng Quan and actual content.
-
-## The Problem This Solves
-
-There are TWO representations of groups in each CHỨC NĂNG:
-
-1. **Tổng Quan Listing** (at top):
-   ```markdown
-   ### **Tổng Quan**
-   Bao gồm 44 khái niệm được tổ chức thành 7 nhóm chủ đề:
-   1. **Core Emergence Principles** (8): Nguyên Lý Đột Sinh Cốt Lõi...
-   2. **Chaos & Criticality Dynamics** (7): Động Lực Hỗn Loạn...
-   ```
-
-2. **Actual Group Headers** (in content):
-   ```markdown
-   ### **1. Foundational Axioms & Logic - Tiên Đề & Logic Nền Tảng**
-   ### **2. Unity, Duality & Ultimate Reality - Thống Nhất, Nhị Nguyên...**
-   ```
-
-**Problem:** These two can be DIFFERENT - causing confusion!
+**Single-function workflow** - Process one CHỨC NĂNG at a time.
 
 ---
 
-## Two Workflows
+## The Problem
 
-### Workflow A: REGROUP (Original)
-Bottom-up: Analyze concepts → Create new groups → Update both Tổng Quan + Headers
+Each CHỨC NĂNG has TWO group representations that may be OUT OF SYNC:
 
-### Workflow B: RECONCILE (New in v4.0)
-Sync existing: Compare Tổng Quan vs Headers → Fix mismatches → Choose source of truth
-
----
-
-## Workflow B: RECONCILE (Step-by-Step)
-
-### Step 1: 🔍 Parse Both Representations
-
-**1.1 Parse Tổng Quan Listing:**
-```markdown
-Look for pattern after "nhóm chủ đề:" or "groups:"
-1. **[English Name]** (N): [Vietnamese] - concept1, concept2...
-2. **[English Name]** (N): [Vietnamese] - concept1, concept2...
 ```
-
-Extract:
-- Group number
-- English name
-- Concept count (N)
-- Vietnamese name
-- Listed concepts
-
-**1.2 Parse Actual Headers:**
-```markdown
-Look for pattern: ### **[số]. [English] - [Vietnamese]**
-```
-
-Extract:
-- Group number
-- English name
-- Vietnamese name
-- Concepts under this header (count #### headings until next ###)
-
----
-
-### Step 2: 🔎 Compare & Detect Mismatches
-
-Create comparison table:
-
-```markdown
-| # | Tổng Quan Says | Actual Header Says | Match? |
-|---|----------------|-------------------|--------|
-| 1 | Core Emergence Principles (8) | Foundational Axioms & Logic | ❌ NO |
-| 2 | Chaos & Criticality (7) | Unity, Duality & Reality | ❌ NO |
-| 3 | System Stability (5) | Emergence & Creative Principles | ❌ NO |
-...
-```
-
-**Mismatch Types:**
-- **Name Mismatch**: Same position, different names
-- **Count Mismatch**: Tổng Quan says 8, actual has 6
-- **Missing Group**: Exists in one but not other
-- **Order Mismatch**: Same groups, different order
-
----
-
-### Step 3: 🎯 Choose Reconciliation Strategy
-
-**OPTION A: Tổng Quan → Content (Tổng Quan is authoritative)**
-- Update actual ### headers to match Tổng Quan listing
-- Reorganize concepts to match Tổng Quan's groupings
-- Use when: Tổng Quan was carefully designed, content drifted
-
-**OPTION B: Content → Tổng Quan (Content is authoritative)**
-- Update Tổng Quan listing to reflect actual headers
-- Recalculate concept counts
-- Use when: Content was recently regrouped correctly, Tổng Quan outdated
-
-**OPTION C: Full Regroup (Neither is good)**
-- Analyze concepts fresh
-- Create new grouping logic
-- Update BOTH Tổng Quan AND headers
-- Use when: Both are inconsistent with actual content
-
----
-
-### Step 4: ✍️ Execute Reconciliation
-
-**For OPTION A (Tổng Quan → Content):**
-1. Read Tổng Quan's group structure
-2. For each group in Tổng Quan:
-   - Create corresponding ### header
-   - Move listed concepts under that header
-   - Verify concept count matches
-3. Renumber concepts continuously
-
-**For OPTION B (Content → Tổng Quan):**
-1. Read all ### headers and their concept counts
-2. Regenerate Tổng Quan listing:
-   ```markdown
-   Bao gồm [N] khái niệm được tổ chức thành [M] nhóm chủ đề:
-
-   1. **[Header 1 English]** ([count]): [Header 1 Vietnamese] - [concept list]
-   2. **[Header 2 English]** ([count]): [Header 2 Vietnamese] - [concept list]
-   ...
-   ```
-3. Preserve all other Tổng Quan content (intro paragraph)
-
-**For OPTION C (Full Regroup):**
-1. Follow original regroup workflow
-2. Update BOTH representations simultaneously
-
----
-
-### Step 5: ✅ Validate Sync
-
-After reconciliation, verify:
-- [ ] Tổng Quan group count = Actual ### header count
-- [ ] Each Tổng Quan group name = Corresponding ### header name
-- [ ] Tổng Quan concept counts match actual counts
-- [ ] All concepts accounted for (no duplicates, no missing)
-
----
-
-## Reconciliation Output Format
-
-```markdown
-📊 RECONCILIATION ANALYSIS: CHỨC NĂNG [N]
-
-TỔNG QUAN SAYS:
-1. [Group A] (8 concepts)
-2. [Group B] (7 concepts)
-...
-
-ACTUAL HEADERS:
-1. [Group X] (6 concepts)
-2. [Group Y] (5 concepts)
-...
-
-MISMATCHES DETECTED: [N]
-| Position | Tổng Quan | Actual | Issue |
-|----------|-----------|--------|-------|
-| 1 | Group A | Group X | Name differs |
-...
-
-RECOMMENDED: OPTION [A/B/C]
-REASON: [Brief explanation]
-
-Proceed with reconciliation? [Y/n]
+TỔNG QUAN (top):                    ACTUAL HEADERS (content):
+1. **Group A** (8): Nhóm A          ### **1. Group X - Nhóm X**
+2. **Group B** (7): Nhóm B          ### **2. Group Y - Nhóm Y**
+   ↑ DIFFERENT NAMES! ↑                ↑ DIFFERENT NAMES! ↑
 ```
 
 ---
 
-## Critical Rules (Both Workflows)
+## Single-Function Workflow
 
-### 🚨 MANDATORY: Atomic Read-Edit Pattern
-**ALWAYS Read IMMEDIATELY before Edit - same turn, NO output in between.**
+### Step 1: LOCATE
+```bash
+# Find CHỨC NĂNG N
+Grep "## CHỨC NĂNG [N]:" Whole.md → line number
 
+# Find next CHỨC NĂNG (to know boundary)
+Grep "## CHỨC NĂNG [N+1]:" Whole.md → end boundary
 ```
-✅ ĐÚNG:  Read(Whole.md) → Edit(Whole.md)  [same turn]
-❌ SAI:   Read(Whole.md) → [output] → Edit(Whole.md)  [fail risk]
+
+### Step 2: READ & PARSE
+```bash
+Read Whole.md offset=[start] limit=[end-start]
 ```
 
-### ✅ MUST PRESERVE
-- All concept content (every word)
-- → **Liên kết:** lines
-- Markdown formatting
+**Parse Tổng Quan** (pattern after "nhóm chủ đề:"):
+```
+1. **[English]** ([count]): [Vietnamese] - [concepts...]
+```
 
-### ✅ MUST SYNC
-- Tổng Quan listing ↔ Actual ### headers
-- Group names (bilingual)
-- Concept counts
-- Concept numbering (continuous: 1, 2, 3...)
+**Parse Actual Headers** (pattern):
+```
+### **[N]. [English] - [Vietnamese]**
+```
 
-### ❌ NEVER
-- Delete concepts
-- Modify concept content
-- Leave Tổng Quan ↔ Content out of sync
+**Count concepts** under each header (#### until next ###)
 
----
+### Step 3: COMPARE
+Output comparison table:
+```
+| # | Tổng Quan | Actual | Match |
+|---|-----------|--------|-------|
+| 1 | Group A (8) | Group X (6) | ❌ |
+| 2 | Group B (7) | Group Y (5) | ❌ |
+```
 
-## Tổng Quan Format Standard
+### Step 4: CHOOSE STRATEGY
 
-After reconciliation, Tổng Quan MUST follow this format:
+**[B] Content → Tổng Quan** (RECOMMENDED - most common)
+- Actual headers are correct, Tổng Quan outdated
+- Update Tổng Quan to match actual headers
+
+**[A] Tổng Quan → Content**
+- Tổng Quan is authoritative
+- Reorganize content to match Tổng Quan
+
+**[C] Full Regroup**
+- Both are wrong, need fresh analysis
+- Use `/regroup [N]` workflow instead
+
+### Step 5: EXECUTE (Option B - typical case)
+
+**Generate new Tổng Quan from actual headers:**
 
 ```markdown
 ### **Tổng Quan**
 
-[1-2 sentence description of this CHỨC NĂNG's purpose]
+[Keep existing intro paragraph]
 
-Bao gồm [N] khái niệm được tổ chức thành [M] nhóm chủ đề:
+Bao gồm [total] khái niệm được tổ chức thành [M] nhóm chủ đề:
 
-1. **[English Group Name]** ([count]): [Vietnamese Group Name] - [concept1], [concept2], [concept3]...
-2. **[English Group Name]** ([count]): [Vietnamese Group Name] - [concept1], [concept2], [concept3]...
+1. **[Header1 English]** ([count]): [Header1 Vietnamese] - [concept1], [concept2]...
+2. **[Header2 English]** ([count]): [Header2 Vietnamese] - [concept1], [concept2]...
 ...
 
 ---
 ```
 
-**Requirements:**
-- Group number matches actual ### header number
-- English name matches actual ### header English part
-- Vietnamese name matches actual ### header Vietnamese part
-- Count matches actual concept count under that header
-- Concept list includes ALL concepts under that header
+### Step 6: EDIT & VALIDATE
+
+```
+Read(Whole.md, offset, limit) → Edit(Tổng Quan section) → Verify sync
+```
+
+---
+
+## Critical Rules
+
+### 🚨 Atomic Read-Edit
+```
+✅ Read → Edit (same turn)
+❌ Read → [output] → Edit (will fail)
+```
+
+### ✅ MUST
+- Preserve all concept content
+- Match group names exactly (Tổng Quan ↔ Headers)
+- Match concept counts exactly
+- List ALL concepts in Tổng Quan listing
+
+### ❌ NEVER
+- Delete concepts
+- Modify concept content
+- Process multiple functions at once
+
+---
+
+## Progress Tracking
+
+Track in `.whole-progress.json` or output:
+
+```
+RECONCILE PROGRESS:
+✅ CF1-5 (FOUNDATIONS) - synced
+✅ CF6-10 (DYNAMICS) - synced
+⏳ CF11 (OPERATIONS) - in progress
+⬚ CF12-50 - pending
+```
+
+**After each CF:**
+```
+✅ RECONCILE COMPLETE: CF[N]
+- Groups: [M] synced
+- Concepts: [total]
+Next: CF[N+1]
+```
 
 ---
 
 ## Commands
 
-- `/regroup [N]` - Full regroup workflow (analyze → new groups → update both)
-- `/reconcile [N]` - Compare Tổng Quan vs Content, sync them
+- `/reconcile [N]` - Reconcile single CHỨC NĂNG
+- `/reconcile` - Auto-detect next pending (from progress)
+- `/regroup [N]` - Full regroup (when reconcile isn't enough)
 
 ---
 
-## References (Load as Needed)
+## Output Format (Token-efficient)
 
-- `references/workflow-steps.md` - Original regroup workflow
-- `references/grouping-principles.md` - How to create good groups
-- `references/naming-guidelines.md` - Bilingual naming rules
-- `references/quality-checklist.md` - Validation checklists
-- `references/robust-operations.md` - Error handling
+```
+[RECONCILE] CF6 | DYNAMICS - Emergence & Flow
+[READ] Lines 3534-4069 | 44 concepts, 7 groups
+[PARSE] Tổng Quan: 7 groups | Actual: 6 headers
+[COMPARE]
+  #1: Core Emergence (8) vs Foundational Axioms (6) ❌
+  #2: Chaos & Criticality (7) vs Unity & Duality (5) ❌
+  ...
+[STRATEGY] B - Content → Tổng Quan
+[EDIT] Updated Tổng Quan to match 6 actual headers
+[DONE] CF6 synced | Next: CF7
+```
 
 ---
 
-**Version:** 4.0.0 (Added reconciliation for Tổng Quan ↔ Content sync)
+**Version:** 4.1.0 (Single-function workflow)

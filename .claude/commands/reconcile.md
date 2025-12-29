@@ -1,208 +1,109 @@
 ---
-description: 🔄 Reconcile Tổng Quan ↔ Content mismatch for CHỨC NĂNG
-argument-hint: [function-number]
+description: 🔄 Sync Tổng Quan ↔ Content for single CHỨC NĂNG
+argument-hint: [function-number 1-50]
 ---
 
-## Purpose
-
-Detect and fix inconsistencies between:
-- **Tổng Quan listing** (group names at top)
-- **Actual ### headers** (in content body)
-
----
-
-## Quick Start
+## Usage
 
 ```bash
-/reconcile 6     # Reconcile CHỨC NĂNG 6
-/reconcile all   # Scan all 50, report mismatches
+/reconcile 6     # Reconcile CF6 (DYNAMICS - Emergence & Flow)
+/reconcile 11    # Reconcile CF11 (OPERATIONS - Analytical Reasoning)
+/reconcile       # Auto-detect next pending from progress
 ```
 
 ---
 
 ## Workflow
 
-### Step 1: Grep CHỨC NĂNG location
+### 1. LOCATE target CHỨC NĂNG
+
 ```bash
-# Find target function
-Grep "## CHỨC NĂNG $ARG1:" Whole.md
-# Find next function (to know where to stop)
-Grep "## CHỨC NĂNG" Whole.md
+# Grep for target function and next function boundary
+Grep "## CHỨC NĂNG" Whole.md → get line numbers
 ```
 
-### Step 2: Read and Parse
+### 2. READ the section
 
-Read the CHỨC NĂNG section, then parse:
-
-**A. Parse Tổng Quan:**
-```
-Pattern: [số]. **[English]** ([count]): [Vietnamese] - [concepts...]
+```bash
+Read Whole.md offset=[start_line] limit=[section_length]
 ```
 
-**B. Parse Actual Headers:**
+### 3. PARSE both representations
+
+**From Tổng Quan (after "nhóm chủ đề:"):**
 ```
-Pattern: ### **[số]. [English] - [Vietnamese]**
-Count #### under each ### until next ###
-```
-
-### Step 3: Compare and Report
-
-Output comparison table:
-
-```markdown
-📊 RECONCILIATION ANALYSIS: CHỨC NĂNG [N]
-
-| # | Tổng Quan | Actual Header | Status |
-|---|-----------|---------------|--------|
-| 1 | Group A (8) | Group A (8) | ✅ MATCH |
-| 2 | Group B (7) | Group X (5) | ❌ NAME + COUNT |
-| 3 | Group C (5) | [missing] | ❌ MISSING |
-
-SUMMARY:
-- Matched: 1/3
-- Mismatched: 2/3
-- Issues: Name differs (1), Count differs (1), Missing (1)
+1. **English** (count): Vietnamese - concept1, concept2...
 ```
 
-### Step 4: User Decision
+**From Actual Headers:**
+```
+### **1. English - Vietnamese**
+#### **1. Concept1**
+#### **2. Concept2**
+...
+```
 
-```markdown
-Choose reconciliation strategy:
+### 4. COMPARE & OUTPUT
 
+```
+| # | Tổng Quan | Actual Header | Match |
+|---|-----------|---------------|-------|
+| 1 | Group A (8) | Group X (6) | ❌ |
+| 2 | Group B (7) | Group B (7) | ✅ |
+```
+
+### 5. ASK STRATEGY
+
+```
+Choose:
+[B] Content → Tổng Quan (RECOMMENDED)
 [A] Tổng Quan → Content
-    Update actual headers to match Tổng Quan listing
-    (Use when Tổng Quan is the authoritative source)
-
-[B] Content → Tổng Quan
-    Update Tổng Quan to match actual headers
-    (Use when content was regrouped but Tổng Quan not updated)
-
-[C] Full Regroup
-    Analyze concepts fresh, create new groups for both
-    (Use when neither representation is correct)
-
-Enter choice [A/B/C]:
+[C] Full Regroup (/regroup instead)
+[S] Skip - already synced
 ```
 
-### Step 5: Execute
+### 6. EXECUTE
 
-**For A:**
-1. Read Tổng Quan groups
-2. For each group, update ### header to match
-3. Reorganize concepts if needed
+**Option B (most common):**
+- Read actual ### headers
+- Count concepts under each
+- Regenerate Tổng Quan listing
+- Edit Whole.md
 
-**For B:**
-1. Read all ### headers
-2. Count concepts in each
-3. Regenerate Tổng Quan listing
+### 7. CONFIRM
 
-**For C:**
-- Activate `/regroup [N]` workflow
-
-### Step 6: Validate
-
-After changes:
-- [ ] Group count matches in both
-- [ ] Group names identical
-- [ ] Concept counts correct
-- [ ] All concepts preserved
-
----
-
-## Batch Mode: `/reconcile all`
-
-Scan all 50 CHỨC NĂNGs, report status:
-
-```markdown
-📊 RECONCILIATION STATUS: ALL CHỨC NĂNGs
-
-| CF# | Domain | Function | Status | Issues |
-|-----|--------|----------|--------|--------|
-| 1 | FOUNDATIONS | First Principles | ✅ | - |
-| 2 | FOUNDATIONS | Universal Laws | ⚠️ | Count mismatch (2) |
-| 6 | DYNAMICS | Emergence & Flow | ❌ | Name mismatch (5) |
-...
-
-SUMMARY:
-- ✅ Synced: 35/50
-- ⚠️ Minor issues: 10/50
-- ❌ Major issues: 5/50
-
-Recommended action: /reconcile 6, 12, 23, 31, 45
+```
+✅ RECONCILE COMPLETE: CF[N]
+Groups: [M] synced | Concepts: [total]
+Next: CF[N+1]
 ```
 
 ---
 
-## Integration
+## Quick Reference: All 50 Functions
 
-- **Activates:** `whole-regrouper` skill (v4.0.0+)
-- **Uses:** Grep, Read, Edit, Bash tools
-- **Updates:** `.whole-progress.json` after reconciliation
-
----
-
-## Examples
-
-### Example 1: Single function
-```
-/reconcile 6
-
-📊 RECONCILIATION: CHỨC NĂNG 6 - Emergence & Flow
-
-TỔNG QUAN (7 groups):
-1. Core Emergence Principles (8)
-2. Chaos & Criticality Dynamics (7)
-...
-
-ACTUAL HEADERS (6 groups):
-1. Foundational Axioms & Logic (6)
-2. Unity, Duality & Reality (5)
-...
-
-❌ MISMATCH DETECTED
-- Group count: 7 vs 6
-- Names differ: All 6 positions
-
-Recommended: [C] Full Regroup
-```
-
-### Example 2: Already synced
-```
-/reconcile 37
-
-📊 RECONCILIATION: CHỨC NĂNG 37 - Force Multiplication
-
-✅ ALREADY SYNCED
-- Groups: 7/7 match
-- Names: All match
-- Counts: All match
-
-No action needed.
-```
+| CF | Domain | Function Name |
+|----|--------|---------------|
+| 1-5 | FOUNDATIONS | First Principles, Universal Laws, Core Values, Eastern/Western Wisdom, Natural Principles |
+| 6-10 | DYNAMICS | Emergence & Flow, Transformation, System Evolution, Cognitive Flexibility, Emotional Intelligence |
+| 11-15 | OPERATIONS | Analytical Reasoning, Problem-Solving, Systematic Execution, Learning & Memory, Decision Frameworks |
+| 16-20 | CREATION | Lateral Thinking, Breakthrough Innovation, Creative Evolution, Pattern Breaking, Design Thinking |
+| 21-25 | NAVIGATION | Strategic Wayfinding, Multi-dimensional Planning, Resource Management, Context Sensing, Temporal Rhythm |
+| 26-30 | INTEGRATION | Knowledge Synthesis, System Coherence, Cross-paradigm Connection, Collaborative Intelligence, Communication |
+| 31-35 | VALIDATION | Reality Testing, Error Detection, Feedback Processing, Experimental Protocols, Quality Assurance |
+| 36-40 | AMPLIFICATION | Network Effects, Force Multiplication, Viral Mechanics, Exponential Growth, Platform Building |
+| 41-45 | TRANSCENDENCE | Paradox Resolution, Paradigm Shifts, Unity Consciousness, System Metamorphosis, Wisdom Crystallization |
+| 46-50 | META | Meta-Cognition, System Self-Observation, Pattern Recognition, Recursive Improvement, Framework Evolution |
 
 ---
 
-## Error Handling
+## Notes
 
-**If function not found:**
-```
-❌ CHỨC NĂNG [N] not found
-Available: 1-50
-```
-
-**If Tổng Quan missing:**
-```
-⚠️ CHỨC NĂNG [N] has no Tổng Quan section
-Action: Run /regroup [N] to create structure
-```
-
-**If no ### headers found:**
-```
-⚠️ CHỨC NĂNG [N] has no group headers
-Content appears ungrouped. Run /regroup [N]
-```
+- Process ONE function at a time
+- Typical time: 5-10 min per CF
+- Most cases: Option B (Content → Tổng Quan)
+- If both wrong: Use `/regroup` instead
 
 ---
 
-**Version:** 1.0.0
-**Requires:** `whole-regrouper` skill v4.0.0+
+**Version:** 1.1.0 | **Requires:** whole-regrouper v4.1.0+
