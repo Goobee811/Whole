@@ -12,36 +12,25 @@
  */
 
 const fs = require('fs');
-const path = require('path');
 
-const COLORS = {
-  green: '\x1b[32m',
-  red: '\x1b[31m',
-  yellow: '\x1b[33m',
-  cyan: '\x1b[36m',
-  reset: '\x1b[0m'
-};
+// Import shared utilities (DRY)
+const {
+  COLORS,
+  findWholemd,
+  findFunctionSection
+} = require('../../shared/utils/whole-md-parser.js');
 
-function findFunctionSection(content, funcNum) {
-  const pattern = new RegExp(`## CHUC NANG ${funcNum}:`, 'i');
-  const match = content.match(pattern);
+// Import security utils
+const { validateFunctionNumber } = require('../../../hooks/lib/ck-config-utils.cjs');
 
-  if (!match) return null;
-
-  const startIdx = match.index;
-  const nextFuncPattern = /## CHUC NANG \d+:/gi;
-  nextFuncPattern.lastIndex = startIdx + 1;
-  const nextMatch = nextFuncPattern.exec(content);
-  const endIdx = nextMatch ? nextMatch.index : content.length;
-
-  return content.substring(startIdx, endIdx);
-}
-
+/**
+ * Extract cross-references from section
+ */
 function extractCrossReferences(section) {
   const refs = [];
 
-  // Match patterns like: -> **Lien ket:** or **Cross-ref:**
-  const refSectionPattern = /(?:->|->)\s*\*\*(?:Lien ket|Cross-ref)[:\*]*\*\*([^#]+?)(?=####|\n\n\n|$)/gi;
+  // Match patterns like: → **Liên kết:** or **Cross-ref:**
+  const refSectionPattern = /(?:→|->)\s*\*\*(?:Liên kết|Lien ket|Cross-ref)[:\*]*\*\*([^#]+?)(?=####|\n\n\n|$)/gi;
 
   let match;
   while ((match = refSectionPattern.exec(section)) !== null) {
@@ -64,6 +53,9 @@ function extractCrossReferences(section) {
   return refs;
 }
 
+/**
+ * Validate reference against full content
+ */
 function validateReference(ref, fullContent) {
   const issues = [];
 
@@ -80,7 +72,7 @@ function validateReference(ref, fullContent) {
   }
 
   // Basic check if function exists
-  const funcPattern = new RegExp(`##\\s*CHUC NANG\\s*\\d+:.*${ref.function.substring(0, 20)}`, 'i');
+  const funcPattern = new RegExp(`##\\s*CHỨC NĂNG\\s*\\d+:.*${ref.function.substring(0, 20)}`, 'i');
   if (!funcPattern.test(fullContent)) {
     issues.push(`Function "${ref.function}" may not exist`);
   }
@@ -89,17 +81,26 @@ function validateReference(ref, fullContent) {
 }
 
 function main() {
-  const funcNum = process.argv[2];
+  const rawFuncNum = process.argv[2];
 
-  if (!funcNum) {
+  if (!rawFuncNum) {
     console.log('Usage: node check-cross-refs.js <function-number>');
     console.log('Example: node check-cross-refs.js 1');
     process.exit(1);
   }
 
-  const wholePath = path.join(process.cwd(), 'Whole.md');
-  if (!fs.existsSync(wholePath)) {
-    console.error('Whole.md not found in current directory');
+  // Validate input (security)
+  const funcNum = validateFunctionNumber(rawFuncNum);
+  if (!funcNum) {
+    console.error('Invalid function number. Must be 1-50.');
+    process.exit(1);
+  }
+
+  let wholePath;
+  try {
+    wholePath = findWholemd();
+  } catch (e) {
+    console.error(e.message);
     process.exit(1);
   }
 
@@ -111,7 +112,7 @@ function main() {
     process.exit(1);
   }
 
-  const refs = extractCrossReferences(section);
+  const refs = extractCrossReferences(section.content);
 
   console.log(`\n${COLORS.cyan}Cross-Reference Check - CHỨC NĂNG ${funcNum}${COLORS.reset}`);
   console.log(`Found ${refs.length} cross-references\n`);

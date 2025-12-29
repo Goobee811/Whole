@@ -297,4 +297,4 @@ git push
 
 ---
 
-**Version:** 2.0.0 | **Philosophy:** Analyze first, decide with reasoning
+**Version:** 5.0.0 | **Philosophy:** Analyze first, decide with reasoning

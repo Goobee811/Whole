@@ -7,70 +7,37 @@
  */
 
 const fs = require('fs');
-const path = require('path');
+
+// Import shared utilities (DRY)
+const {
+  COLORS,
+  MINIMUM_BULLET_POINTS,
+  findWholemd,
+  findFunctionSection,
+  extractConceptsWithContent,
+  validateBilingualFormat
+} = require('../../shared/utils/whole-md-parser.js');
+
+// Import security utils
+const { validateFunctionNumber } = require('../../../hooks/lib/ck-config-utils.cjs');
 
 const REQUIRED_POINTS = [
   'Definition',     // or Vietnamese equivalent
-  'Context',        // Ngu canh
-  'Application',    // Ung dung
-  'Integration'     // Tich hop
+  'Context',        // Ngữ cảnh
+  'Application',    // Ứng dụng
+  'Integration'     // Tích hợp
 ];
 
 const VIETNAMESE_POINTS = [
-  'dinh nghia',
-  'ngu canh',
-  'ung dung',
-  'tich hop'
+  'định nghĩa',
+  'ngữ cảnh',
+  'ứng dụng',
+  'tích hợp'
 ];
 
-const COLORS = {
-  green: '\x1b[32m',
-  red: '\x1b[31m',
-  yellow: '\x1b[33m',
-  reset: '\x1b[0m'
-};
-
-function findFunctionSection(content, funcNum) {
-  const pattern = new RegExp(`## CHUC NANG ${funcNum}:`, 'i');
-  const match = content.match(pattern);
-
-  if (!match) return null;
-
-  const startIdx = match.index;
-  const nextFuncPattern = /## CHUC NANG \d+:/gi;
-  nextFuncPattern.lastIndex = startIdx + 1;
-  const nextMatch = nextFuncPattern.exec(content);
-  const endIdx = nextMatch ? nextMatch.index : content.length;
-
-  return content.substring(startIdx, endIdx);
-}
-
-function extractConcepts(section) {
-  const concepts = [];
-  const conceptPattern = /####\s*\*\*(\d+)\.\s*([^*]+)\*\*/g;
-
-  let match;
-  while ((match = conceptPattern.exec(section)) !== null) {
-    concepts.push({
-      number: parseInt(match[1]),
-      name: match[2].trim(),
-      position: match.index,
-      content: extractConceptContent(section, match.index)
-    });
-  }
-
-  return concepts;
-}
-
-function extractConceptContent(section, startPos) {
-  const nextConceptPattern = /####\s*\*\*\d+\./g;
-  nextConceptPattern.lastIndex = startPos + 1;
-  const nextMatch = nextConceptPattern.exec(section);
-  const endPos = nextMatch ? nextMatch.index : section.length;
-
-  return section.substring(startPos, endPos);
-}
-
+/**
+ * Validate concept structure
+ */
 function validateConcept(concept) {
   const issues = [];
   const contentLower = concept.content.toLowerCase();
@@ -93,17 +60,19 @@ function validateConcept(concept) {
 
   // Check minimum bullet points (4-point structure)
   const bulletPoints = (concept.content.match(/^-\s+\*\*/gm) || []).length;
-  if (bulletPoints < 4) {
-    issues.push(`Only ${bulletPoints} bullet points (minimum 4 required)`);
+  if (bulletPoints < MINIMUM_BULLET_POINTS) {
+    issues.push(`Only ${bulletPoints} bullet points (minimum ${MINIMUM_BULLET_POINTS} required)`);
   }
 
-  // Check bilingual format in name
-  if (!concept.name.includes('|') && !concept.name.includes('-')) {
+  // Check bilingual format in name using shared validation
+  if (!validateBilingualFormat(concept.name)) {
     issues.push('Missing bilingual format (use - or | separator)');
   }
 
   // Check for cross-reference section
-  if (!concept.content.includes('Lien ket') && !concept.content.includes('Cross-ref')) {
+  if (!concept.content.includes('Liên kết') &&
+      !concept.content.includes('Lien ket') &&
+      !concept.content.includes('Cross-ref')) {
     issues.push('Missing cross-reference section');
   }
 
@@ -111,17 +80,26 @@ function validateConcept(concept) {
 }
 
 function main() {
-  const funcNum = process.argv[2];
+  const rawFuncNum = process.argv[2];
 
-  if (!funcNum) {
+  if (!rawFuncNum) {
     console.log('Usage: node validate-structure.js <function-number>');
     console.log('Example: node validate-structure.js 1');
     process.exit(1);
   }
 
-  const wholePath = path.join(process.cwd(), 'Whole.md');
-  if (!fs.existsSync(wholePath)) {
-    console.error('Whole.md not found in current directory');
+  // Validate input (security)
+  const funcNum = validateFunctionNumber(rawFuncNum);
+  if (!funcNum) {
+    console.error('Invalid function number. Must be 1-50.');
+    process.exit(1);
+  }
+
+  let wholePath;
+  try {
+    wholePath = findWholemd();
+  } catch (e) {
+    console.error(e.message);
     process.exit(1);
   }
 
@@ -133,7 +111,7 @@ function main() {
     process.exit(1);
   }
 
-  const concepts = extractConcepts(section);
+  const concepts = extractConceptsWithContent(section.content);
   let hasErrors = false;
   let passCount = 0;
   let failCount = 0;

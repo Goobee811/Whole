@@ -102,20 +102,22 @@ function findFunctionSection(content, funcNum) {
 
   const startIndex = startMatch.index;
 
-  // Find next function
+  // Find next function by searching in remaining content
+  const remainingContent = content.slice(startIndex + startMatch[0].length);
   const nextPatterns = [
     /^## CHỨC NĂNG \d+:/m,
-    /## CHUC NANG \d+:/gi
+    /## CHUC NANG \d+:/i
   ];
 
-  let endIndex = content.length;
+  let relativeEndIndex = remainingContent.length;
   for (const pattern of nextPatterns) {
-    pattern.lastIndex = startIndex + startMatch[0].length;
-    const nextMatch = pattern.exec(content);
-    if (nextMatch && nextMatch.index < endIndex) {
-      endIndex = nextMatch.index;
+    const nextMatch = remainingContent.match(pattern);
+    if (nextMatch && nextMatch.index < relativeEndIndex) {
+      relativeEndIndex = nextMatch.index;
     }
   }
+
+  const endIndex = startIndex + startMatch[0].length + relativeEndIndex;
 
   const sectionContent = content.slice(startIndex, endIndex);
   const lines = sectionContent.split('\n');

@@ -12,62 +12,33 @@
  */
 
 const fs = require('fs');
-const path = require('path');
 
-const COLORS = {
-  green: '\x1b[32m',
-  red: '\x1b[31m',
-  yellow: '\x1b[33m',
-  cyan: '\x1b[36m',
-  reset: '\x1b[0m'
-};
+// Import shared utilities (DRY)
+const {
+  COLORS,
+  findWholemd,
+  findFunctionSection,
+  extractHeaders,
+  validateBilingualFormat
+} = require('../../shared/utils/whole-md-parser.js');
 
-function findFunctionSection(content, funcNum) {
-  const pattern = new RegExp(`## CHUC NANG ${funcNum}:`, 'i');
-  const match = content.match(pattern);
+// Import security utils
+const { validateFunctionNumber } = require('../../../hooks/lib/ck-config-utils.cjs');
 
-  if (!match) return null;
-
-  const startIdx = match.index;
-  const nextFuncPattern = /## CHUC NANG \d+:/gi;
-  nextFuncPattern.lastIndex = startIdx + 1;
-  const nextMatch = nextFuncPattern.exec(content);
-  const endIdx = nextMatch ? nextMatch.index : content.length;
-
-  return content.substring(startIdx, endIdx);
-}
-
-function extractHeaders(section) {
-  const headers = [];
-
-  // Match concept headers: #### **1. Name - Ten**
-  const headerPattern = /####\s*\*\*(\d+)\.\s*([^*]+)\*\*/g;
-
-  let match;
-  while ((match = headerPattern.exec(section)) !== null) {
-    headers.push({
-      number: parseInt(match[1]),
-      text: match[2].trim(),
-      position: match.index
-    });
-  }
-
-  return headers;
-}
-
+/**
+ * Validate bilingual header content
+ */
 function validateBilingualHeader(header) {
   const issues = [];
   const text = header.text;
 
-  // Check for separator
-  const hasDash = text.includes(' - ');
-  const hasPipe = text.includes(' | ');
-
-  if (!hasDash && !hasPipe) {
+  // Check for separator using shared validation
+  if (!validateBilingualFormat(text)) {
     issues.push('Missing bilingual separator (- or |)');
     return issues;
   }
 
+  const hasDash = text.includes(' - ');
   const separator = hasDash ? ' - ' : ' | ';
   const parts = text.split(separator);
 
@@ -94,17 +65,26 @@ function validateBilingualHeader(header) {
 }
 
 function main() {
-  const funcNum = process.argv[2];
+  const rawFuncNum = process.argv[2];
 
-  if (!funcNum) {
+  if (!rawFuncNum) {
     console.log('Usage: node bilingual-check.js <function-number>');
     console.log('Example: node bilingual-check.js 1');
     process.exit(1);
   }
 
-  const wholePath = path.join(process.cwd(), 'Whole.md');
-  if (!fs.existsSync(wholePath)) {
-    console.error('Whole.md not found in current directory');
+  // Validate input (security)
+  const funcNum = validateFunctionNumber(rawFuncNum);
+  if (!funcNum) {
+    console.error('Invalid function number. Must be 1-50.');
+    process.exit(1);
+  }
+
+  let wholePath;
+  try {
+    wholePath = findWholemd();
+  } catch (e) {
+    console.error(e.message);
     process.exit(1);
   }
 
@@ -116,7 +96,7 @@ function main() {
     process.exit(1);
   }
 
-  const headers = extractHeaders(section);
+  const headers = extractHeaders(section.content);
 
   console.log(`\n${COLORS.cyan}Bilingual Check - CHỨC NĂNG ${funcNum}${COLORS.reset}`);
   console.log(`Found ${headers.length} concept headers\n`);
