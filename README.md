@@ -23,25 +23,32 @@ Claude Code skills for editing and managing the Whole bilingual knowledge archit
 
 ## Skills
 
-| Skill | Purpose |
-|-------|---------|
-| whole-editor | Main editing operations |
-| whole-analyzer | Pre-edit analysis & duplicate detection |
-| whole-reviewer | Post-edit validation |
-| whole-regrouper | Concept reorganization into thematic groups |
+| Skill | Version | Purpose |
+|-------|---------|---------|
+| whole-editor | v2.0.0 | Main editing operations |
+| whole-analyzer | v2.0.0 | Pre-edit analysis & duplicate detection |
+| whole-reviewer | v2.0.0 | Post-edit validation |
+| whole-regrouper | v5.0.0 | Concept reorganization + intelligent reconciliation |
 
-## Commands
+**whole-regrouper v5.0.0 NEW FEATURES** (2025-12-29):
+- **Intelligent Analysis**: Analyzes both Tổng Quan and Content groupings
+- **Strategy Options**: Choose [A/B/C/H/S] based on 4-criterion evaluation
+- **Reconciliation Command**: `/reconcile [number]` for smart sync (NEW)
+- **Progressive Disclosure**: ~60% token savings per activation
 
-| Command | Description |
-|---------|-------------|
-| `/status` | Show current progress status |
-| `/next` | Auto-detect next function to work on |
-| `/analyze [section]` | Analyze section for issues |
-| `/edit [section]` | Start editing session |
-| `/expand [domain] [func] [topic]` | Add new concepts |
-| `/regroup [number]` | Reorganize concepts (auto-detects if no number) |
-| `/validate [section]` | Validate changes |
-| `/report` | Generate comprehensive progress report |
+## Commands (9 Total)
+
+| Command | Skill/System | Description |
+|---------|--------------|-------------|
+| `/status` | Built-in | Show current progress status |
+| `/next` | Built-in | Auto-detect next function to work on |
+| `/analyze [section]` | whole-analyzer | Analyze section for issues |
+| `/edit [section]` | whole-editor | Start editing session |
+| `/expand [domain] [func] [topic]` | whole-editor | Add new concepts |
+| `/regroup [number]` | whole-regrouper | Full concept reorganization (auto-detects if no number) |
+| `/reconcile [number]` | whole-regrouper | Intelligent Tổng Quan ↔ Content sync (NEW - v5.0.0) |
+| `/validate [section]` | whole-reviewer | Validate changes |
+| `/report` | Built-in | Generate comprehensive progress report |
 
 ## Core Philosophy
 

@@ -53,7 +53,53 @@ Use when reorganizing concepts within a function.
    - Preserved: Tong Quan, all content
    ```
 
-### Workflow 2: Adding New Concepts
+### Workflow 2: Reconciliation (NEW - v5.0.0)
+
+Use when synchronizing Tổng Quan listing with actual content.
+
+**Steps:**
+
+1. **Identify Target Function**
+   - After regrouping: `/reconcile [number]`
+   - After manual edits: `/reconcile [number]`
+   - Routine check: `/reconcile [number]`
+
+2. **Analyze Both Representations**
+   - Command analyzes Tổng Quan grouping
+   - Command analyzes Content headers
+   - Compares using 4 criteria:
+     - Coherence (HIGH weight)
+     - Balance (MEDIUM weight)
+     - Natural Thinking (HIGH weight)
+     - Accuracy (MEDIUM weight)
+
+3. **Review Recommendation**
+   - Strategy [A]: Tổng Quan → Content
+   - Strategy [B]: Content → Tổng Quan
+   - Strategy [C]: Full Regroup needed
+   - Strategy [H]: Hybrid Merge (combine best)
+   - Strategy [S]: Skip (already synced)
+
+4. **Approve & Apply**
+   ```
+   Accept strategy? [A/B/C/H/S]
+   ```
+
+5. **Validate**
+   ```
+   /validate [number]
+   ```
+
+6. **Commit**
+   ```
+   Reconcile [DOMAIN] CHUC NANG [num]: [summary]
+   - Strategy: [A/B/C/H/S]
+   - Changes: [brief description]
+   ```
+
+---
+
+### Workflow 3: Adding New Concepts
 
 Use when expanding content with new concepts.
 
@@ -84,7 +130,7 @@ Use when expanding content with new concepts.
    /validate [section]
    ```
 
-### Workflow 3: Validation and Review
+### Workflow 4: Validation and Review
 
 Use for quality assurance.
 

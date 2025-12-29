@@ -57,36 +57,68 @@ Comprehensive reference for all Claude Code skills in the Whole project.
 
 **Activation**: Automatically after edits
 
-### whole-regrouper (v3.0.0)
+### whole-regrouper (v5.0.0)
 
-**Purpose**: Reorganize concepts into thematic groups with progressive disclosure.
+**Purpose**: Reorganize concepts into thematic groups with intelligent reconciliation.
 
 **Use When**:
 - Function has too many ungrouped concepts
 - Concepts need logical reorganization
 - Improving navigation within a function
+- Synchronizing Tổng Quan listing with actual content (NEW - v5.0.0)
 
 **Key Rules**:
-- Preserve "Tổng Quan" section exactly
-- Keep all concept content intact
+- Preserve all concept content (append-only)
 - Create groups of 3-8 concepts
 - Number groups and concepts sequentially
 - Use bilingual group names
+- Analyze both grouping representations before deciding strategy (v5.0.0)
 
-**Features** (v3.0.0):
-- Progressive disclosure - loads detailed guidance only when needed
-- Auto-detection of next function to process
-- Integrated validation before commit
-- Progress tracking with `.whole-progress.json`
+**Features** (v5.0.0 - Intelligent Analysis):
+- **Dual-Representation Analysis**: No longer assumes one grouping is "correct"
+- **4-Criterion Evaluation**: Analyzes Coherence, Balance, Natural Thinking, Accuracy
+- **Strategy Options**: Choose [A] Tổng Quan→Content, [B] Content→Tổng Quan, [C] Full Regroup, [H] Hybrid Merge, or [S] Skip
+- **Progressive Disclosure**: Loads detailed guidance only when needed (~60% token savings)
+- **Auto-Detection**: Identifies next function to process automatically
+- **Integrated Validation**: Pre-commit validation via `validate-regroup.js`
+- **Progress Tracking**: Updates `.whole-progress.json` with session statistics
 
-**Activation**: `/regroup [function-number]` or just `/regroup`
+**Key Improvement (v5.0.0)**: Intelligent decision-making instead of fixed assumptions
+
+```
+OLD (v4.0.0): Assume Tổng Quan → Content is always correct
+NEW (v5.0.0): Analyze BOTH representations against 4 criteria
+              → Choose best strategy based on evidence
+```
+
+**Analysis Criteria**:
+
+1. **Coherence (HIGH weight)**: Do concepts share a common theme?
+2. **Balance (MEDIUM weight)**: Are groups 3-8 concepts (ideal 5-6)?
+3. **Natural Thinking (HIGH weight)**: Matches user mental model?
+4. **Accuracy (MEDIUM weight)**: Names describe content correctly?
+
+**Strategy Options**:
+
+| Option | When to Use | Action |
+|--------|-------------|--------|
+| **[A]** Tổng Quan → Content | Tổng Quan logic better | Reorganize content to match Tổng Quan |
+| **[B]** Content → Tổng Quan | Content details more accurate | Update Tổng Quan listing to match actual |
+| **[C]** Full Regroup | Both have significant issues | Run `/regroup` for complete analysis |
+| **[H]** Hybrid Merge | Both have distinct strengths | Combine best groups from each |
+| **[S]** Skip | Already synchronized | No changes needed |
+
+**Activation**:
+- `/regroup [function-number]` - Full regrouping workflow
+- `/reconcile [function-number]` - Intelligent sync only (v5.0.0 NEW)
+- `/regroup` - Auto-detects next function (no argument needed)
 
 **References**:
-- `.claude/skills/whole-regrouper/references/grouping-principles.md`
-- `.claude/skills/whole-regrouper/references/workflow-steps.md`
-- `.claude/skills/whole-regrouper/references/naming-guidelines.md`
-- `.claude/skills/whole-regrouper/references/quality-checklist.md`
-- `.claude/skills/whole-regrouper/references/robust-operations.md`
+- `.claude/skills/whole-regrouper/references/grouping-principles.md` - Grouping philosophy
+- `.claude/skills/whole-regrouper/references/workflow-steps.md` - 5-step workflow
+- `.claude/skills/whole-regrouper/references/naming-guidelines.md` - Naming best practices
+- `.claude/skills/whole-regrouper/references/quality-checklist.md` - Pre/during/post validation
+- `.claude/skills/whole-regrouper/references/robust-operations.md` - Operations guide
 
 ## Validation Scripts
 
@@ -153,6 +185,50 @@ Located in `.claude/agents/`:
 - Progress tracker updates after commits
 - Progressive disclosure reduces token usage by ~60%
 
+## Reconciliation Command (NEW - v5.0.0)
+
+**Command**: `/reconcile [function-number]`
+
+**Purpose**: Intelligent synchronization between Tổng Quan listing and actual content groups.
+
+**When to Use**:
+- After /regroup to verify grouping matches Tổng Quan
+- When Content and Tổng Quan appear misaligned
+- For periodic consistency checks
+- Before major edits to ensure baseline synchronization
+
+**Workflow**:
+1. Analyze current Tổng Quan grouping
+2. Analyze actual Content headers and groups
+3. Compare using 4 criteria (Coherence, Balance, Natural Thinking, Accuracy)
+4. Propose strategy [A/B/C/H/S]
+5. Apply changes if needed
+6. Validate with `/validate [number]`
+
+**Example Output**:
+```
+Analyzing CHỨC NĂNG 15...
+
+Tổng Quan has 6 groups (avg 7.2 concepts/group)
+Content has 7 groups (avg 6.1 concepts/group)
+
+Coherence: Tổng Quan slightly better (85% vs 82%)
+Balance: Content better (ideal 5-6 per group)
+Natural Thinking: Tổng Quan more intuitive
+Accuracy: Content more precisely named
+
+RECOMMENDATION: Strategy [B] - Content → Tổng Quan
+Reason: More accurate grouping, better concept distribution
+
+Apply? [yes/no]
+```
+
+**Key Difference from /regroup**:
+- `/regroup`: Full analysis and regrouping from scratch
+- `/reconcile`: Compare two existing representations, choose best
+
+---
+
 ## Skill Activation Flow
 
 ```
@@ -164,7 +240,25 @@ Located in `.claude/agents/`:
     ↓
 [Work on content]
     ↓
+/reconcile [number] → Check Tổng Quan ↔ Content sync (NEW)
+    ↓
 /validate → Run validation
     ↓
 Commit → Update progress tracker
 ```
+
+---
+
+## Command Reference Summary
+
+| Command | Skill | Purpose | Activation |
+|---------|-------|---------|------------|
+| `/status` | - | Show progress (X/50) | Built-in |
+| `/next` | - | Auto-detect next function | Built-in |
+| `/analyze [section]` | whole-analyzer | Pre-edit analysis | Interactive |
+| `/edit [section]` | whole-editor | Content editing | Interactive |
+| `/expand [domain] [func] [topic]` | whole-editor | Add new concepts | Interactive |
+| `/regroup [number]` | whole-regrouper v5.0.0 | Full regrouping | Interactive |
+| `/reconcile [number]` | whole-regrouper v5.0.0 | Sync Tổng Quan ↔ Content | Interactive (NEW) |
+| `/validate [section]` | whole-reviewer | Validate changes | Post-edit |
+| `/report` | - | Generate progress report | Built-in |
