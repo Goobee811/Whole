@@ -21629,35 +21629,16 @@ Thực hành thu thập và học hỏi có hệ thống từ thất bại.
 
 Thu thập, phân tích và sử dụng phản hồi để liên tục hiệu chỉnh và cải thiện hệ thống và quy trình.
 
-Bao gồm 60 khái niệm được tổ chức thành 27 nhóm chủ đề:
+Bao gồm 27 khái niệm được tổ chức thành 8 nhóm chủ đề:
 
 1. **Testing & Early Validation Methods** (3): Thử Nghiệm & Phương Pháp Kiểm Chứng Sớm - Pilot Study, Canary Testing, Cohort Analysis
-1. **Pilot Study** (2): Nghiên Cứu Thí Điểm - Canary Testing, Cohort Analysis
-2. **Canary Testing** (1): Thử Nghiệm Chim Hoàng Yến - Cohort Analysis
 2. **Measurement & Instrument Validation** (3): Đo Lường & Xác Thực Công Cụ - Instrument Validation, Statistical Process Control (SPC), Construct Validity
-4. **Instrument Validation** (2): Xác Thực Công Cụ Đo - Statistical Process Control (SPC), Construct Validity
-5. **Statistical Process Control (SPC)** (1): Kiểm Soát Quy Trình Thống Kê - Construct Validity
 3. **Research Synthesis & Meta-Methods** (3): Tổng Hợp Nghiên Cứu & Phương Pháp Siêu Cấp - Meta-Analysis, Ablation Study, Meta-Testing
-7. **Meta-Analysis** (2): Phân Tích Tổng Hợp [Phương Pháp Nghiên Cứu] - Ablation Study, Meta-Testing
-8. **Ablation Study** (1): Nghiên Cứu Loại Bỏ - Meta-Testing
 4. **Robustness & Stability Testing** (3): Kiểm Tra Độ Vững Chắc & Ổn Định - Robustness Check, Model Stability, Perturbation Analysis
-10. **Robustness Check** (2): Kiểm Tra Độ Vững Chắc - Model Stability, Perturbation Analysis
-11. **Model Stability** (1): Ổn Định Mô Hình - Perturbation Analysis
 5. **Statistical Reasoning Paradigms** (3): Các Mô Thức Lý Luận Thống Kê - Bayesian Thinking, Frequentist Reasoning, Stochastic Reasoning
-13. **Bayesian Thinking** (2): Tư Duy Bayesian - Frequentist Reasoning, Stochastic Reasoning
-14. **Frequentist Reasoning** (1): Lý Luận Tần Suất - Stochastic Reasoning
 6. **Multi-Source Feedback Systems** (4): Hệ Thống Phản Hồi Đa Nguồn - Peer Debriefing, Prediction Market, 360-Degree Feedback, Feedback Loop Architecture
-16. **Peer Debriefing** (3): Gỡ Rối Cùng Đồng Cấp - Prediction Market, 360-Degree Feedback, Feedback Loop Architecture
-17. **Prediction Market** (2): Thị Trường Dự Đoán - 360-Degree Feedback, Feedback Loop Architecture
-18. **360-Degree Feedback** (1): Phản Hồi 360 Độ - Feedback Loop Architecture
 7. **Reflective & Contemplative Integration** (4): Phản Tư & Tích Hợp Trầm Tư - Reflection Protocols, Integration Journaling, Contemplative Integration, Dream Integration
-20. **Reflection Protocols** (3): Quy Trình Phản Tư [Trong Xử Lý Phản Hồi] - Integration Journaling, Contemplative Integration, Dream Integration
-21. **Integration Journaling** (2): Nhật Ký Tích Hợp - Contemplative Integration, Dream Integration
-22. **Contemplative Integration** (1): Tích Hợp Trầm Tư [Xử Lý Phản Hồi Sâu] - Dream Integration
 8. **Validation Process Optimization** (4): Tối Ưu Hóa Quy Trình Kiểm Chứng - Validation Metrics, Validation Evolution, Calibrated Response Systems, Precision Timing Mastery
-24. **Validation Metrics** (3): Các Chỉ Số Kiểm Chứng - Validation Evolution, Calibrated Response Systems, Precision Timing Mastery
-25. **Validation Evolution** (2): Tiến Hóa Kiểm Chứng - Calibrated Response Systems, Precision Timing Mastery
-26. **Calibrated Response Systems** (1): Hệ Thống Phản Ứng Được Hiệu Chỉnh - Precision Timing Mastery
 
 ---
 
