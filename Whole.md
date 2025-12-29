@@ -1610,11 +1610,10 @@ Nhận thức về tính toàn vẹn và sự liên kết của mọi thứ.
 
 Các giá trị cốt lõi và khung đạo đức cung cấp "la bàn đạo đức" để định hướng hành động và quyết định trong mọi bối cảnh.
 
-Bao gồm 23 khái niệm được tổ chức thành 6 nhóm chủ đề:
+Bao gồm 26 khái niệm được tổ chức thành 5 nhóm chủ đề:
 
 1. **Core Universal Virtues** (7): Các Đức Hạnh Phổ Quát Cốt Lõi - Truthfulness, Compassion, Integrity, Humility, Courage, Wisdom, Responsibility
-2. **Foundational Ethical Principles** (2): Các Nguyên Tắc Đạo Đức Nền Tảng - Unity in Diversity [Giá Trị Đạo Đức], Justice
-10. **Observer Effect** (1): Hiệu Ứng Người Quan Sát [Trách Nhiệm Đạo Đức] - Justice
+2. **Foundational Ethical Principles** (6): Các Nguyên Tắc Đạo Đức Nền Tảng - Unity in Diversity, Causality & Interdependence, Observer Effect, Ahimsa, Categorical Imperative, Justice
 3. **Systematic Ethical Frameworks** (6): Các Khung Hệ Thống Đạo Đức - Virtue Ethics, Deontology, Natural Law, Legal Philosophy, Theory of Justice & Rights, Phronesis
 4. **Cultural Wisdom & Applications** (5): Trí Tuệ Văn Hóa & Ứng Dụng - Character Strengths Foundation, Greek Tragedy, Shakespeare Drama, Wisdom Literature, Epic Poetry
 5. **Sacred & Embodied Practices** (2): Thực Hành Thiêng Liêng & Hóa Thân - Sacred Foods, Medicinal Cooking
