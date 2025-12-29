@@ -29,18 +29,17 @@ Miền này tập hợp các nguyên lý, mô hình tư duy và trí tuệ cốt
 
 Các nguyên lý đầu tiên và tiên đề là những chân lý tự hiển không thể giản lược thêm - nền tảng của mọi suy luận và tri thức. Chúng là các "nguyên tử" của tư duy, từ đó mọi cấu trúc phức tạp hơn được xây dựng.
 
-Bao gồm 40 khái niệm được tổ chức thành 13 nhóm chủ đề:
+Bao gồm 40 khái niệm được tổ chức thành 12 nhóm chủ đề:
 
 1. **Foundational Axioms & Logic** (3): Tiên Đề & Logic Nền Tảng - First Principles, Mathematical Axioms, Set Theory and Logic
-2. **Unity, Duality & Ultimate Reality** (3): Thống Nhất, Nhị Nguyên & Thực Tại Tối Hậu - Duality & Unity [Nguyên Lý Bản Thể], The Absolute, The One
+2. **Unity, Duality & Ultimate Reality** (4): Thống Nhất, Nhị Nguyên & Thực Tại Tối Hậu - Duality & Unity, The Absolute, The One, Agency & Communion
 3. **Emergence & Creative Principles** (4): Đột Sinh & Nguyên Lý Sáng Tạo - Emergence & Self-Organization, The Creative Principle, Potentiality & Actuality, Evolution & Selection
 4. **Causality, Time & Transformation** (4): Nhân Quả, Thời Gian & Chuyển Hóa - Causality & Interdependence, Cycles & Rhythms, Irreversibility & Entropy, Conservation & Transformation
-5. **System Dynamics & Feedback** (3): Động Lực Hệ Thống & Phản Hồi - Inertia & Momentum, Equilibrium & Homeostasis, Gradients & Flow
-16. **Feedback Loops** (3): Vòng Lặp Phản Hồi [Nguyên Lý Nền Tảng] - Inertia & Momentum, Equilibrium & Homeostasis, Gradients & Flow
+5. **System Dynamics & Feedback** (4): Động Lực Hệ Thống & Phản Hồi - Feedback Loops, Inertia & Momentum, Equilibrium & Homeostasis, Gradients & Flow
 6. **Structure, Scale & Organization** (5): Cấu Trúc, Quy Mô & Tổ Chức - Scale & Hierarchy, Recursion & Self-Reference, Hologram, Point, Link
 7. **Boundaries, Constraints & Resources** (2): Ranh Giới, Ràng Buộc & Nguồn Lực - Constraints & Boundaries, Scarcity & Abundance
 8. **Energy, Information & Flow** (2): Năng Lượng, Thông Tin & Dòng Chảy - Energy & Information, Signal & Noise
-9. **Form, Function & Design** (1): Hình Thức, Chức Năng & Thiết Kế - Form & Function
+9. **Form, Function & Design** (2): Hình Thức, Chức Năng & Thiết Kế - Form & Function, Symmetry & Asymmetry
 10. **Interaction & Relationship** (3): Tương Tác & Quan Hệ - Resonance & Attunement, Interference & Dissonance, Symbiosis & Competition
 11. **Observation, Context & Perspective** (5): Quan Sát, Bối Cảnh & Góc Nhìn - Observer Effect & Participation, Relativity & Context, Representation & Reality, Holism & Reductionism, Polarity & Spectrum
 12. **Foundational Disciplines** (2): Các Ngành Nền Tảng - Ontology, Cosmology
