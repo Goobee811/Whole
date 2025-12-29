@@ -19983,68 +19983,16 @@ Nâng cấp toàn bộ hệ thống tạo giá trị.
 
 Chức năng này tập trung vào các kỹ năng và phương pháp để giao tiếp hiệu quả, tạo ra ý nghĩa chung và kết nối con người thông qua ngôn ngữ, câu chuyện và biểu tượng.
 
-Bao gồm 295 khái niệm được tổ chức thành 60 nhóm chủ đề:
+Bao gồm 60 khái niệm được tổ chức thành 8 nhóm chủ đề:
 
 1. **Core Communication Skills** (15): Kỹ Năng Giao Tiếp Cốt Lõi - Storytelling, Active Listening, Nonviolent Communication (NVC), Rhetorical Mastery, Visual Communication & Data Visualization, Symbolic Communication, Cross-Cultural Communication, Framing & Reframing, Semantic Precision, Empathic Communication, Memetic Engineering, Generative Listening, Information Architecture, Meaning-Making, Translation & Interpretation
-1. **Storytelling** (14): Kể Chuyện - Active Listening, Nonviolent Communication (NVC), Rhetorical Mastery, Visual Communication & Data Visualization, Symbolic Communication, Cross-Cultural Communication, Framing & Reframing, Semantic Precision, Empathic Communication, Memetic Engineering, Generative Listening, Information Architecture, Meaning-Making, Translation & Interpretation
-2. **Active Listening** (13): Lắng Nghe Chủ Động - Nonviolent Communication (NVC), Rhetorical Mastery, Visual Communication & Data Visualization, Symbolic Communication, Cross-Cultural Communication, Framing & Reframing, Semantic Precision, Empathic Communication, Memetic Engineering, Generative Listening, Information Architecture, Meaning-Making, Translation & Interpretation
-3. **Nonviolent Communication (NVC)** (12): Giao Tiếp Không Bạo Lực (NVC) - Rhetorical Mastery, Visual Communication & Data Visualization, Symbolic Communication, Cross-Cultural Communication, Framing & Reframing, Semantic Precision, Empathic Communication, Memetic Engineering, Generative Listening, Information Architecture, Meaning-Making, Translation & Interpretation
-4. **Rhetorical Mastery** (11): Thành Thạo Tu Từ Học - Visual Communication & Data Visualization, Symbolic Communication, Cross-Cultural Communication, Framing & Reframing, Semantic Precision, Empathic Communication, Memetic Engineering, Generative Listening, Information Architecture, Meaning-Making, Translation & Interpretation
-5. **Visual Communication & Data Visualization** (10): Giao Tiếp Trực Quan & Trực Quan Hóa Dữ Liệu - Symbolic Communication, Cross-Cultural Communication, Framing & Reframing, Semantic Precision, Empathic Communication, Memetic Engineering, Generative Listening, Information Architecture, Meaning-Making, Translation & Interpretation
-6. **Symbolic Communication** (9): Giao Tiếp Biểu Tượng - Cross-Cultural Communication, Framing & Reframing, Semantic Precision, Empathic Communication, Memetic Engineering, Generative Listening, Information Architecture, Meaning-Making, Translation & Interpretation
-7. **Cross-Cultural Communication** (8): Giao Tiếp Xuyên Văn Hóa - Framing & Reframing, Semantic Precision, Empathic Communication, Memetic Engineering, Generative Listening, Information Architecture, Meaning-Making, Translation & Interpretation
-8. **Framing & Reframing** (7): Đóng Khung & Đóng Khung Lại - Semantic Precision, Empathic Communication, Memetic Engineering, Generative Listening, Information Architecture, Meaning-Making, Translation & Interpretation
-9. **Semantic Precision** (6): Độ Chính Xác Ngữ Nghĩa - Empathic Communication, Memetic Engineering, Generative Listening, Information Architecture, Meaning-Making, Translation & Interpretation
-10. **Empathic Communication** (5): Giao Tiếp Đồng Cảm - Memetic Engineering, Generative Listening, Information Architecture, Meaning-Making, Translation & Interpretation
-11. **Memetic Engineering** (4): Kỹ Thuật Meme - Generative Listening, Information Architecture, Meaning-Making, Translation & Interpretation
-12. **Generative Listening** (3): Lắng Nghe Tạo Sinh - Information Architecture, Meaning-Making, Translation & Interpretation
-13. **Information Architecture** (2): Kiến Trúc Thông Tin - Meaning-Making, Translation & Interpretation
-14. **Meaning-Making** (1): Tạo Ý Nghĩa - Translation & Interpretation
 2. **Essence Extraction** (8): Chiết Xuất Bản Chất - Simplicity in Complexity, Aliveness, Essence Extraction (Method), Pattern Recognition (Communication), Depth vs Breadth, Exploration vs Exploitation, Speed vs Accuracy, Understanding Spirals
-16. **Simplicity in Complexity** (7): Sự Đơn Giản Trong Phức Tạp - Aliveness, Essence Extraction (Method), Pattern Recognition (Communication), Depth vs Breadth, Exploration vs Exploitation, Speed vs Accuracy, Understanding Spirals
-17. **Aliveness** (6): Sự Sống Động - Essence Extraction (Method), Pattern Recognition (Communication), Depth vs Breadth, Exploration vs Exploitation, Speed vs Accuracy, Understanding Spirals
-18. **Essence Extraction (Method)** (5): Chiết Xuất Bản Chất (Phương Pháp) - Pattern Recognition (Communication), Depth vs Breadth, Exploration vs Exploitation, Speed vs Accuracy, Understanding Spirals
-19. **Pattern Recognition (Communication)** (4): Nhận Diện Mẫu Hình (Giao Tiếp) - Depth vs Breadth, Exploration vs Exploitation, Speed vs Accuracy, Understanding Spirals
-20. **Depth vs Breadth** (3): Chiều Sâu vs Chiều Rộng - Exploration vs Exploitation, Speed vs Accuracy, Understanding Spirals
-21. **Exploration vs Exploitation** (2): Khám Phá vs Khai Thác - Speed vs Accuracy, Understanding Spirals
-22. **Speed vs Accuracy** (1): Tốc Độ vs Độ Chính Xác - Understanding Spirals
 3. **Wisdom Integration** (5): Tích Hợp Trí Tuệ - Wisdom Integration (Communication), Integral Wisdom (Communication), Meta-Systematic Integration, Transdisciplinary Synthesis (Communication), Dialectical Integration (Communication)
-24. **Wisdom Integration (Communication)** (4): Tích Hợp Trí Tuệ (Giao Tiếp) - Integral Wisdom (Communication), Meta-Systematic Integration, Transdisciplinary Synthesis (Communication), Dialectical Integration (Communication)
-25. **Integral Wisdom (Communication)** (3): Trí Tuệ Tích Hợp (Giao Tiếp) - Meta-Systematic Integration, Transdisciplinary Synthesis (Communication), Dialectical Integration (Communication)
-26. **Meta-Systematic Integration** (2): Tích Hợp Siêu Hệ Thống - Transdisciplinary Synthesis (Communication), Dialectical Integration (Communication)
-27. **Transdisciplinary Synthesis (Communication)** (1): Tổng Hợp Xuyên Ngành (Giao Tiếp) - Dialectical Integration (Communication)
 4. **Deep Psychological Integration Practices** (8): Thực Hành Tích Hợp Tâm Lý Sâu - Shadow Integration Work, Trauma Integration (Practice), Peak Experience Integration (Practice), Altered States Integration, Dream Seeding, Void Returning, Integration Day, Shadow Integration Intensive
-29. **Shadow Integration Work** (7): Công Việc Tích Hợp Bóng Tối - Trauma Integration (Practice), Peak Experience Integration (Practice), Altered States Integration, Dream Seeding, Void Returning, Integration Day, Shadow Integration Intensive
-30. **Trauma Integration (Practice)** (6): Tích Hợp Chấn Thương (Thực Hành) - Peak Experience Integration (Practice), Altered States Integration, Dream Seeding, Void Returning, Integration Day, Shadow Integration Intensive
-31. **Peak Experience Integration (Practice)** (5): Tích Hợp Trải Nghiệm Đỉnh (Thực Hành) - Altered States Integration, Dream Seeding, Void Returning, Integration Day, Shadow Integration Intensive
-32. **Altered States Integration** (4): Tích Hợp Các Trạng Thái Biến Đổi - Dream Seeding, Void Returning, Integration Day, Shadow Integration Intensive
-33. **Dream Seeding** (3): Gieo Mầm Giấc Mơ - Void Returning, Integration Day, Shadow Integration Intensive
-34. **Void Returning** (2): Trở Về Hư Không - Integration Day, Shadow Integration Intensive
-35. **Integration Day** (1): Ngày Tích Hợp - Shadow Integration Intensive
 5. **Purpose Alignment & Life Practice** (8): Thẳng Hàng Mục Đích & Thực Hành Cuộc Sống - Soul Purpose Integration, Values Integration (Purpose), Gift Integration, Legacy Integration, Integral Life Practice (ILP), Daily Integration Practices, Integration Mastery, Meta-Creative Practice
-37. **Soul Purpose Integration** (7): Tích Hợp Mục Đích Linh Hồn - Values Integration (Purpose), Gift Integration, Legacy Integration, Integral Life Practice (ILP), Daily Integration Practices, Integration Mastery, Meta-Creative Practice
-38. **Values Integration (Purpose)** (6): Tích Hợp Giá Trị (Mục Đích) - Gift Integration, Legacy Integration, Integral Life Practice (ILP), Daily Integration Practices, Integration Mastery, Meta-Creative Practice
-39. **Gift Integration** (5): Tích Hợp Tài Năng - Legacy Integration, Integral Life Practice (ILP), Daily Integration Practices, Integration Mastery, Meta-Creative Practice
-40. **Legacy Integration** (4): Tích Hợp Di Sản - Integral Life Practice (ILP), Daily Integration Practices, Integration Mastery, Meta-Creative Practice
-41. **Integral Life Practice (ILP)** (3): Thực Hành Cuộc Sống Tích Hợp (ILP) - Daily Integration Practices, Integration Mastery, Meta-Creative Practice
-42. **Daily Integration Practices** (2): Thực Hành Tích Hợp Hàng Ngày - Integration Mastery, Meta-Creative Practice
-43. **Integration Mastery** (1): Thành Thạo Tích Hợp - Meta-Creative Practice
 6. **Methodological Synthesis Frameworks** (6): Khung Tổng Hợp Phương Pháp Luận - Integral Research Methods, Integral Ecology Practices, Universal Library Access, Grand Synthesis Protocols, Integrative Energy Protocols, Synthesis Mastery (Methodological)
-45. **Integral Research Methods** (5): Phương Pháp Nghiên Cứu Tích Hợp - Integral Ecology Practices, Universal Library Access, Grand Synthesis Protocols, Integrative Energy Protocols, Synthesis Mastery (Methodological)
-46. **Integral Ecology Practices** (4): Thực Hành Sinh Thái Tích Hợp - Universal Library Access, Grand Synthesis Protocols, Integrative Energy Protocols, Synthesis Mastery (Methodological)
-47. **Universal Library Access** (3): Truy Cập Thư Viện Phổ Quát - Grand Synthesis Protocols, Integrative Energy Protocols, Synthesis Mastery (Methodological)
-48. **Grand Synthesis Protocols** (2): Giao Thức Tổng Hợp Lớn - Integrative Energy Protocols, Synthesis Mastery (Methodological)
-49. **Integrative Energy Protocols** (1): Giao Thức Năng Lượng Tích Hợp - Synthesis Mastery (Methodological)
 7. **Creative & Healing Integration** (6): Tích Hợp Sáng Tạo & Chữa Lành - Bisociative Integration, Synesthetic Integration, Holographic Integration (Creative), Healing Arts Integration, Narrative Therapy, Integrative Energy Medicine
-51. **Bisociative Integration** (5): Tích Hợp Hai Liên Tưởng - Synesthetic Integration, Holographic Integration (Creative), Healing Arts Integration, Narrative Therapy, Integrative Energy Medicine
-52. **Synesthetic Integration** (4): Tích Hợp Liên Giác - Holographic Integration (Creative), Healing Arts Integration, Narrative Therapy, Integrative Energy Medicine
-53. **Holographic Integration (Creative)** (3): Tích Hợp Toàn Ảnh (Sáng Tạo) - Healing Arts Integration, Narrative Therapy, Integrative Energy Medicine
-54. **Healing Arts Integration** (2): Tích Hợp Nghệ Thuật Chữa Lành - Narrative Therapy, Integrative Energy Medicine
-55. **Narrative Therapy** (1): Liệu Pháp Tường Thuật - Integrative Energy Medicine
 8. **Value Creation Networks** (4): Mạng Lưới Tạo Giá Trị - Value Stacking, Transformation Value, Innovation Intersections, Meta-Learning Networks
-57. **Value Stacking** (3): Xếp Chồng Giá Trị - Transformation Value, Innovation Intersections, Meta-Learning Networks
-58. **Transformation Value** (2): Giá Trị Chuyển Hóa - Innovation Intersections, Meta-Learning Networks
-59. **Innovation Intersections** (1): Giao Điểm Đổi Mới - Meta-Learning Networks
 
 ---
 
