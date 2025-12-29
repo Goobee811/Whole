@@ -12128,22 +12128,15 @@ Hình thức báo chí tập trung vào các giải pháp thay vì chỉ vấn �
 
 Phát triển khả năng sáng tạo như một quá trình tiến hóa liên tục, kết hợp với việc nuôi dưỡng và tin tưởng vào trực giác - nguồn sáng tạo sâu thẳm từ tiềm thức và kinh nghiệm tích lũy.
 
-Bao gồm 61 khái niệm được tổ chức thành 16 nhóm chủ đề:
+Bao gồm 44 khái niệm được tổ chức thành 9 nhóm chủ đề:
 
-1. **Intuition & Subconscious Methods** (4): Trực Giác & Phương Pháp Tiềm Thức - Intuition Development, Sleep & Dreams, Active Imagination & Dreams, Channeling Protocols
+1. **Intuition & Subconscious Methods** (5): Trực Giác & Phương Pháp Tiềm Thức - Intuition Development, Sleep & Dreams, Active Imagination & Dreams, Channeling Protocols, Quantum Superposition
 2. **Creative Practices & Mindful States** (6): Thực Hành Sáng Tạo & Trạng Thái Tỉnh Thức - Creative Rituals, Solitude & Reflection, Playful Experimentation, Meditation & Mindfulness, Walking & Movement, Nature Immersion
 3. **Learning & Skill Development** (4): Học Tập & Phát Triển Kỹ Năng - Cross-Domain Learning, Inspiration Curation, Tool Mastery, Context Shifting
 4. **Creative States & Breakthrough Moments** (5): Trạng Thái Sáng Tạo & Khoảnh Khắc Đột Phá - Learning States, Analytical States, Hypercreative States, Inspiration Burst, Idea Explosion
 5. **Creative Rhythms & Cycles** (6): Nhịp Điệu & Chu Kỳ Sáng Tạo - Divergent-Convergent Cycling, Creative Momentum Building, Creative Constraints, Dynamic Structures - Loop, Dynamic Structures - Spiral, Dynamic Structures - Wave
-24. **Dynamic Structures** (2): Loop - Dynamic Structures - Spiral, Dynamic Structures - Wave
-25. **Dynamic Structures** (1): Spiral - Dynamic Structures - Wave
 6. **Growth Through Feedback & Connection** (5): Phát Triển Qua Phản Hồi & Kết Nối - Mistake Embracing, Conversation & Dialogue, Creative Feedback Loops, Authenticity & Voice, Creative Evolution Tracking
 7. **Creative Forces & Field Dynamics** (6): Lực Sáng Tạo & Động Lực Trường - Dynamic Structures - Field, Creative Forces - Attraction, Creative Forces - Repulsion, Creative Forces - Friction, Creative Forces - Elasticity, Creative Forces - Inertia
-32. **Dynamic Structures** (5): Field - Creative Forces - Attraction, Creative Forces - Repulsion, Creative Forces - Friction, Creative Forces - Elasticity, Creative Forces - Inertia
-33. **Creative Forces** (4): Attraction - Creative Forces - Repulsion, Creative Forces - Friction, Creative Forces - Elasticity, Creative Forces - Inertia
-34. **Creative Forces** (3): Repulsion - Creative Forces - Friction, Creative Forces - Elasticity, Creative Forces - Inertia
-35. **Creative Forces** (2): Friction - Creative Forces - Elasticity, Creative Forces - Inertia
-36. **Creative Forces** (1): Elasticity - Creative Forces - Inertia
 8. **Source Energy & Emergence** (3): Năng Lượng Nguồn & Nổi Lên - Zero Point Energy, Emergence Properties, Self-Organization
 9. **Esoteric & Spiritual Traditions** (4): Truyền Thống Huyền Bí & Tâm Linh - Tantric Transformation, Taoist Inner Alchemy, Gnostic Emanations, Celtic Bardic Arts
 
