@@ -20878,41 +20878,16 @@ _Miền này chứa các phương pháp và hệ thống để kiểm tra ý tư
 
 Kiểm tra các ý tưởng, giả định và mô hình với thực tế thông qua bằng chứng thực nghiệm và các phép thử nghiệm.
 
-Bao gồm 98 khái niệm được tổ chức thành 33 nhóm chủ đề:
+Bao gồm 34 khái niệm được tổ chức thành 8 nhóm chủ đề:
 
 1. **Scientific Method Foundations** (2): Nền Tảng Phương Pháp Khoa Học - Falsification Principle, Ground Truth Validation
-1. **Falsification Principle** (1): Nguyên Tắc Bác Bỏ - Ground Truth Validation
 2. **Research Study Designs** (6): Thiết Kế Nghiên Cứu - A/B Testing, Triangulation, Controlled Experiment, Observational Study, Case Study Analysis, Longitudinal Study
-3. **A/B Testing** (5): Thử Nghiệm A/B - Triangulation, Controlled Experiment, Observational Study, Case Study Analysis, Longitudinal Study
-4. **Triangulation** (4): Tam Giác Hóa - Controlled Experiment, Observational Study, Case Study Analysis, Longitudinal Study
-5. **Controlled Experiment** (3): Thí Nghiệm Có Kiểm Soát - Observational Study, Case Study Analysis, Longitudinal Study
-6. **Observational Study** (2): Nghiên Cứu Quan Sát - Case Study Analysis, Longitudinal Study
-7. **Case Study Analysis** (1): Phân Tích Tình Huống - Longitudinal Study
 3. **Community & Scientific Validation** (2): Kiểm Chứng Cộng Đồng & Khoa Học - Peer Review, Replication Studies
-9. **Peer Review** (1): Đánh Giá Đồng Cấp - Replication Studies
-4. **Testing & Comparison Methods** (4): Phương Pháp Thử Nghiệm & So Sánh - Backtesting, Benchmarking**, Pragmatism Test, The Final Empirical Test: Survival**
-11. **Backtesting** (3): Kiểm Tra Ngược - Benchmarking**, Pragmatism Test, The Final Empirical Test: Survival**
-13. **Pragmatism Test** (1): Kiểm Tra Thực Dụng - The Final Empirical Test: Survival**
+4. **Testing & Comparison Methods** (4): Phương Pháp Thử Nghiệm & So Sánh - Backtesting, Benchmarking, Pragmatism Test, The Final Empirical Test: Survival
 5. **Observable Fields** (5): Các Trường Có Thể Quan Sát - Magnetic Field, Electric Field, Gravitational Field, Information Field, Potentiality Field
-15. **Magnetic Field** (4): Trường Từ - Electric Field, Gravitational Field, Information Field, Potentiality Field
-16. **Electric Field** (3): Trường Điện - Gravitational Field, Information Field, Potentiality Field
-17. **Gravitational Field** (2): Trường Hấp Dẫn - Information Field, Potentiality Field
-18. **Information Field** (1): Trường Thông Tin - Potentiality Field
 6. **Foundational Testing & Prototyping** (4): Thử Nghiệm Nền Tảng & Nguyên Mẫu - Empiricism, Field Testing, Prototype Testing, Baseline Comparison
-20. **Empiricism** (3): Chủ Nghĩa Kinh Nghiệm - Field Testing, Prototype Testing, Baseline Comparison
-21. **Field Testing** (2): Thử Nghiệm Thực Địa - Prototype Testing, Baseline Comparison
-22. **Prototype Testing** (1): Thử Nghiệm Nguyên Mẫu - Baseline Comparison
 7. **Epistemic Razors & Standards** (4): Dao Cạo Tri Thức & Tiêu Chuẩn - Hitchens's Razor, Sagan Standard, Hume's Guillotine, Russell's Teapot
-24. **Hitchens's Razor** (3): Dao Cạo của Hitchens - Sagan Standard, Hume's Guillotine, Russell's Teapot
-25. **Sagan Standard** (2): Tiêu Chuẩn Sagan - Hume's Guillotine, Russell's Teapot
-26. **Hume's Guillotine** (1): Máy Chém của Hume - Russell's Teapot
 8. **Validity & Consistency Checks** (7): Kiểm Tra Hiệu Lực & Nhất Quán - Coherence Check, Correspondence Check, Cross-Validation, Convergent Validity, Divergent Validity, Crowdsourced Validation, Longitudinal Validation
-28. **Coherence Check** (6): Kiểm Tra Tính Mạch Lạc - Correspondence Check, Cross-Validation, Convergent Validity, Divergent Validity, Crowdsourced Validation, Longitudinal Validation
-29. **Correspondence Check** (5): Kiểm Tra Tính Tương Ứng - Cross-Validation, Convergent Validity, Divergent Validity, Crowdsourced Validation, Longitudinal Validation
-30. **Cross-Validation** (4): Kiểm Chứng Chéo - Convergent Validity, Divergent Validity, Crowdsourced Validation, Longitudinal Validation
-31. **Convergent Validity** (3): Hiệu Lực Hội Tụ - Divergent Validity, Crowdsourced Validation, Longitudinal Validation
-32. **Divergent Validity** (2): Hiệu Lực Phân Kỳ - Crowdsourced Validation, Longitudinal Validation
-33. **Crowdsourced Validation** (1): Kiểm Chứng Cộng Đồng - Longitudinal Validation
 
 ---
 
