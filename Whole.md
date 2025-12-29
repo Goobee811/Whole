@@ -1989,19 +1989,16 @@ Nghệ thuật nấu ăn với mục đích chữa bệnh.
 
 Trí tuệ từ các truyền thống tư tưởng lớn của nhân loại, được chưng cất thành các nguyên lý sống và tư duy đã được thời gian kiểm chứng.
 
-Bao gồm 72 khái niệm được tổ chức thành 11 nhóm chủ đề:
+Bao gồm 64 khái niệm được tổ chức thành 8 nhóm chủ đề:
 
 1. **Western Philosophical Foundations** (15): Nền Tảng Triết Học Phương Tây - Stoicism, Socratic Wisdom, Aristotelian Virtue Ethics, Epicureanism, Existentialism, Pragmatism, Platonic Forms, Pyrrhonian Skepticism, The Categorical Imperative, Utilitarianism, Amor Fati, The Veil of Ignorance, I and Thou, Humanism, The Trivium
 2. **Eastern Spiritual & Philosophical Paths** (14): Con Đường Tâm Linh & Triết Học Đông Phương - Taoist Principles, Buddhist Principles, The Four Noble Truths, The Eightfold Path, Bodhisattva Ideal, Zen Principles, Advaita Vedanta, Karma Yoga, Confucian Ethics, Yin-Yang, Middle Way, Brahman-Atman, Ren (仁), Li (禮)
 3. **Contemplative & Meditative Practices** (6): Các Thực Hành Thiền Định & Nội Quán - Shamatha, Vipassana, Zen Shikantaza, Dzogchen Sky Gazing, Atma Vichara, Shoshin
 4. **Japanese Aesthetic & Life Philosophy** (4): Thẩm Mỹ & Triết Sống Nhật Bản - Kintsugi Philosophy, Wabi-Sabi, Ikigai, Japanese Gardens
-5. **Sacred Traditions & Mysticism** (6): Truyền Thống Thiêng Liêng & Huyền Bí - Sufi Wisdom, Tikkun Olam, Via Negativa, Ein Sof, Ma'at, The Perennial Philosophy
-41. **Ahimsa** (5): Bất Bạo Động - Tikkun Olam, Via Negativa, Ein Sof, Ma'at, The Perennial Philosophy
-42. **The Golden Rule** (5): Quy Tắc Vàng [Trí Tuệ Phổ Quát] - Tikkun Olam, Via Negativa, Ein Sof, Ma'at, The Perennial Philosophy
+5. **Sacred Traditions & Mysticism** (8): Truyền Thống Thiêng Liêng & Huyền Bí - Sufi Wisdom, Ahimsa, The Golden Rule, Tikkun Olam, Via Negativa, Ein Sof, Ma'at, The Perennial Philosophy
 6. **Universal Patterns & Archetypes** (8): Trí Tuệ Nguyên Mẫu & Mẫu Hình Phổ Quát - The Hero's Journey, Synchronicity, Seven Generation Stewardship, Memento Mori, The Art of War Wisdom, Ubuntu, Master Wisdom Tradition, Negative Space
 7. **Cultural Arts & Sacred Expression** (5): Nghệ Thuật Văn Hóa & Biểu Đạt Thiêng Liêng - Islamic Gardens, Raga System, Gamelan Orchestra, Noh & Kabuki, Indian Classical Dance
-8. **Holistic Health & Natural Systems** (3): Sức Khỏe Toàn Diện & Hệ Thống Tự Nhiên - TCM (Traditional Chinese Medicine), Ayurveda, Meridian System
-63. **Five Elements** (1): Ngũ Hành - Meridian System
+8. **Holistic Health & Natural Systems** (4): Sức Khỏe Toàn Diện & Hệ Thống Tự Nhiên - TCM, Ayurveda, Five Elements, Meridian System
 
 ---
 
