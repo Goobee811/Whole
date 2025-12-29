@@ -19097,20 +19097,16 @@ Kết hợp thế giới vật lý và kỹ thuật số.
 
 Chức năng này tập trung vào các phương pháp và thực hành để kết nối con người, ý tưởng và hệ thống thông qua giao tiếp, hợp tác và tạo ý nghĩa chung.
 
-Bao gồm 71 khái niệm được tổ chức thành 14 nhóm chủ đề:
+Bao gồm 62 khái niệm được tổ chức thành 10 nhóm chủ đề:
 
-1. **Dialogue & Collective Wisdom** (4): Đối Thoại & Trí Tuệ Tập Thể - Dialogue, Dialogue Integration, Wisdom Councils, Collective Wisdom
-2. **Collective Sensemaking** (3): Cùng Nhau Cảm Nhận Ý Nghĩa - Dialogue Integration, Wisdom Councils, Collective Wisdom
-2. **Collaborative Problem-Solving & Innovation** (3): Giải Quyết Vấn Đề & Đổi Mới Cộng Tác - Collaborative Problem-Solving, Design Thinking (Collaborative), Co-Creation & Participatory Design
-8. **Open Innovation** (1): Đổi Mới Mở [Trí Tuệ Cộng Tác] - Co-Creation & Participatory Design
-9. **Crowdsourcing** (1): Khai Thác Đám Đông - Co-Creation & Participatory Design
+1. **Dialogue & Collective Wisdom** (5): Đối Thoại & Trí Tuệ Tập Thể - Dialogue, Collective Sensemaking, Dialogue Integration, Wisdom Councils, Collective Wisdom
+2. **Collaborative Problem-Solving & Innovation** (5): Giải Quyết Vấn Đề & Đổi Mới Cộng Tác - Collaborative Problem-Solving, Design Thinking (Collaborative), Open Innovation, Crowdsourcing, Co-Creation & Participatory Design
 3. **Team & Group Dynamics** (6): Động Lực Nhóm & Đội - Facilitation & Group Process, Team Synergy, Cross-Functional Collaboration, Team Alchemy, Group Process Work, Community Dynamics
 4. **Learning & Knowledge Communities** (6): Cộng Đồng Học Tập & Tri Thức - Peer Learning & Communities of Practice, Knowledge Commons, Community of Practice, Community Practice Circles, Learning Multiplication, Experience Multiplication
 5. **Organizational Governance** (6): Mô Hình Quản Trị Tổ Chức - Holocracy & Self-Management, Distributed Leadership, Agile & Scrum, Appreciative Inquiry, Sociocracy & Consent Decision-Making, Collective Leadership
 6. **Networked Collaboration** (5): Cộng Tác Mạng Lưới - Networked Collaboration, Relational Coordination, Partnership Leverage, Ecosystem Orchestration, Collaborative Integration
-7. **Collective & Distributed Intelligence** (8): Trí Tuệ Tập Thể & Nhận Thức Phân Tán - Collective Intelligence (System), Swarm Intelligence Integration, Hive Mind Optimization, Global Brain Interface, AI Thinking Partners, Distributed Cognition, Extended Mind Thesis (Collaborative), Collective Intelligence Taps
-34. **Swarm Intelligence** (8): Trí Tuệ Bầy Đàn [Trong Cộng Tác Con Người] - Collective Intelligence (System), Swarm Intelligence Integration, Hive Mind Optimization, Global Brain Interface, AI Thinking Partners, Distributed Cognition, Extended Mind Thesis (Collaborative), Collective Intelligence Taps
-8. **Community Building & Social Cohesion** (6): Xây Dựng Cộng Đồng & Gắn Kết Xã Hội - Community Building [Tạo Sự Gắn Kết], Cultural Integration (Community), Social Cohesion, Restorative Justice Circles, Community Integration Protocol, Collective Intelligence Protocols
+7. **Collective & Distributed Intelligence** (9): Trí Tuệ Tập Thể & Nhận Thức Phân Tán - Swarm Intelligence, Collective Intelligence (System), Swarm Intelligence Integration, Hive Mind Optimization, Global Brain Interface, AI Thinking Partners, Distributed Cognition, Extended Mind Thesis (Collaborative), Collective Intelligence Taps
+8. **Community Building & Social Cohesion** (6): Xây Dựng Cộng Đồng & Gắn Kết Xã Hội - Community Building, Cultural Integration (Community), Social Cohesion, Restorative Justice Circles, Community Integration Protocol, Collective Intelligence Protocols
 9. **Relational Field & Sacred Relationships** (7): Trường Quan Hệ & Mối Quan Hệ Thiêng Liêng - Interpersonal Integration, Family System Integration, Global Integration, Family & Ancestral Healing, Sacred Relationship Work, Sacred Relationship Practice, Relational Field
 10. **Synergistic Value Creation** (7): Tạo Giá Trị Hiệp Lực - Group Decision Making, Synergy (Collaborative), Complementarity (Collaborative), Integration Magic, Fusion Dynamics, Multi-Stakeholder Value, Value Chain Innovation
 
