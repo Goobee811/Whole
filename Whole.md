@@ -3523,15 +3523,14 @@ Miền này khám phá các quy trình, dòng chảy và các lực lượng t�
 
 Khả năng nhận diện và làm việc với các thuộc tính đột sinh - những gì xuất hiện từ sự tương tác phức tạp - và hiểu các trạng thái dòng chảy tối ưu trong tư duy và hành động.
 
-Bao gồm 44 khái niệm được tổ chức thành 7 nhóm chủ đề:
+Bao gồm 38 khái niệm được tổ chức thành 6 nhóm chủ đề:
 
 1. **Core Emergence Principles** (8): Nguyên Lý Đột Sinh Cốt Lõi - Emergence, Complexity, Self-Organization, Dissipative Structures, Autopoiesis, Meta-Emergence, Recombination Engine, Generative Systems
 2. **Chaos & Criticality Dynamics** (7): Động Lực Hỗn Loạn & Tới Hạn - Edge of Chaos, Strange Attractors, Criticality, Nonlinearity, Turbulence, Bifurcation, Cascade Dynamics
 3. **System Stability & Transitions** (5): Ổn Định & Chuyển Đổi Hệ Thống - Metastability, Hysteresis, Metastable Switching, Keystone Elements, Flywheel Effect
 4. **Synchronization & Harmony** (4): Đồng Bộ & Hài Hòa - Synchronization, Coherence, Resonance, Entrainment
 5. **Flow States & Optimization** (6): Trạng Thái Flow & Tối Ưu Hóa - Flow State, Flow Hacking, Effortless Mastery, Time Dilation Practice, Hyperfocus States, Instant Integration
-6. **Collective Intelligence** (7): Trí Tuệ Tập Thể - Hive Mind Phenomena, Crowd Wisdom, Stigmergic Coordination, Collective Creativity, Breakthrough Zones, Serendipity Systems, Adjacent Possible
-31. **Swarm Intelligence** (7): Trí Tuệ Bầy Đàn [Hiện Tượng Đột Sinh] - Hive Mind Phenomena, Crowd Wisdom, Stigmergic Coordination, Collective Creativity, Breakthrough Zones, Serendipity Systems, Adjacent Possible
+6. **Collective Intelligence** (8): Trí Tuệ Tập Thể - Swarm Intelligence, Hive Mind Phenomena, Crowd Wisdom, Stigmergic Coordination, Collective Creativity, Breakthrough Zones, Serendipity Systems, Adjacent Possible
 
 ---
 
