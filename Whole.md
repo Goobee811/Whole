@@ -13889,17 +13889,16 @@ _Các phương pháp và khung tư duy để điều hướng trong các môi tr
 
 Các phương pháp và khung tư duy để điều hướng trong các môi trường cạnh tranh, không chắc chắn và có nhiều tác nhân thông minh khác.
 
-Bao gồm 54 khái niệm được tổ chức thành 9 nhóm chủ đề:
+Bao gồm 53 khái niệm được tổ chức thành 8 nhóm chủ đề:
 
-1. **Strategic Planning & Positioning Frameworks** (7): Khung Hoạch Định & Định Vị Chiến Lược - Scenario Planning**, Game Theory Navigation**, Decision Speed & Tempo**, Wardley Mapping for Strategy**, Blue Ocean Strategy**, Porter's Five Forces**, Strategic Intent**
-2. **Alternative Approaches & Paradox Navigation** (8): Cách Tiếp Cận Thay Thế & Điều Hướng Nghịch Lý - Red Teaming**, Inversion Strategy**, Apophatic Navigation (Via Negativa)**, Naturalistic Decision Making**, Bifurcation Point Navigation**, Negative Space Navigation**, Paradox Navigation, Quantum Navigation
-14. **Paradox Navigation** (1): Điều Hướng Nghịch Lý [Phương Pháp Chiến Thuật] - Quantum Navigation
-3. **Military & Competitive Tactics** (8): Chiến Thuật Quân Sự & Cạnh Tranh - Guerrilla Strategy**, Encirclement & Flanking**, Prisoner's Dilemma Navigation**, Decisive Point**, Center of Gravity**, Force Concentration**, Maneuver Warfare**, Information Warfare**
-4. **Strategic Resource Management** (7): Quản Lý Nguồn Lực Chiến Lược - Strategic Patience**, Strategic Reserves**, Strategic Ambiguity**, Doctrine of Completed Staff Work**, Strategic Decoupling**, Network-Centric Warfare**, Soft Power Navigation**
-5. **Physical Navigation Tools** (7): Công Cụ Định Hướng Vật Lý - Compass**, Map**, Coordinates**, Radar**, Lighthouse**, Triangulation Navigation**, Journey Mapping**
-6. **Strategic Analysis & Leadership** (7): Phân Tích Chiến Lược & Lãnh Đạo - Strategic Terrain Analysis**, SWOT Analysis**, Strategic Thinking Framework**, Servant Leadership**, Adaptive Leadership**, Authentic Leadership**, Wu Wei Navigation
-7. **Natural Navigation & Intuition** (4): Định Hướng Tự Nhiên & Trực Giác - Celestial Navigation**, Terrain Reading**, Bioindicators**, Intuitive Wayfinding**
-8. **Market Creation & Thought Leadership** (5): Tạo Lập Thị Trường & Lãnh Đạo Tư Tưởng - Thought Leadership**, Paradigm Pioneering**, Category Creation**, Market Making**, International Relations & Geopolitics**
+1. **Strategic Planning & Positioning Frameworks** (7): Khung Hoạch Định & Định Vị Chiến Lược - Scenario Planning, Game Theory Navigation, Decision Speed & Tempo, Wardley Mapping for Strategy, Blue Ocean Strategy, Porter's Five Forces, Strategic Intent
+2. **Alternative Approaches & Paradox Navigation** (8): Cách Tiếp Cận Thay Thế & Điều Hướng Nghịch Lý - Red Teaming, Inversion Strategy, Apophatic Navigation (Via Negativa), Naturalistic Decision Making, Bifurcation Point Navigation, Negative Space Navigation, Paradox Navigation, Quantum Navigation
+3. **Military & Competitive Tactics** (8): Chiến Thuật Quân Sự & Cạnh Tranh - Guerrilla Strategy, Encirclement & Flanking, Prisoner's Dilemma Navigation, Decisive Point, Center of Gravity, Force Concentration, Maneuver Warfare, Information Warfare
+4. **Strategic Resource Management** (7): Quản Lý Nguồn Lực Chiến Lược - Strategic Patience, Strategic Reserves, Strategic Ambiguity, Doctrine of Completed Staff Work, Strategic Decoupling, Network-Centric Warfare, Soft Power Navigation
+5. **Physical Navigation Tools** (7): Công Cụ Định Hướng Vật Lý - Compass, Map, Coordinates, Radar, Lighthouse, Triangulation Navigation, Journey Mapping
+6. **Strategic Analysis & Leadership** (7): Phân Tích Chiến Lược & Lãnh Đạo - Strategic Terrain Analysis, SWOT Analysis, Strategic Thinking Framework, Servant Leadership, Adaptive Leadership, Authentic Leadership, Wu Wei Navigation
+7. **Natural Navigation & Intuition** (4): Định Hướng Tự Nhiên & Trực Giác - Celestial Navigation, Terrain Reading, Bioindicators, Intuitive Wayfinding
+8. **Market Creation & Thought Leadership** (5): Tạo Lập Thị Trường & Lãnh Đạo Tư Tưởng - Thought Leadership, Paradigm Pioneering, Category Creation, Market Making, International Relations & Geopolitics
 
 ---
 
