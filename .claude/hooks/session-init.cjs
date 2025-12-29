@@ -18,31 +18,9 @@
 const fs = require('fs');
 const path = require('path');
 const os = require('os');
-const { execSync } = require('child_process');
 
-/**
- * Load progress tracking file
- */
-function loadProgress() {
-  try {
-    const progressPath = path.join(process.cwd(), '.whole-progress.json');
-    if (fs.existsSync(progressPath)) {
-      return JSON.parse(fs.readFileSync(progressPath, 'utf8'));
-    }
-  } catch (e) { /* ignore */ }
-  return null;
-}
-
-/**
- * Get git branch name
- */
-function getGitBranch() {
-  try {
-    return execSync('git branch --show-current', { encoding: 'utf8' }).trim();
-  } catch (e) {
-    return null;
-  }
-}
+// Import shared utilities (DRY refactoring)
+const { loadProgress, getGitBranch } = require('./lib/ck-config-utils.cjs');
 
 /**
  * Build progress line

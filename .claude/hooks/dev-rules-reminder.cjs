@@ -6,27 +6,8 @@
  * Purpose: Remind Claude of key rules on every user prompt
  */
 
-const fs = require('fs');
-const path = require('path');
-const { execSync } = require('child_process');
-
-function loadProgress() {
-  try {
-    const progressPath = path.join(process.cwd(), '.whole-progress.json');
-    if (fs.existsSync(progressPath)) {
-      return JSON.parse(fs.readFileSync(progressPath, 'utf8'));
-    }
-  } catch (e) { /* ignore */ }
-  return null;
-}
-
-function getGitBranch() {
-  try {
-    return execSync('git branch --show-current', { encoding: 'utf8' }).trim();
-  } catch (e) {
-    return null;
-  }
-}
+// Import shared utilities (DRY refactoring)
+const { loadProgress, getGitBranch } = require('./lib/ck-config-utils.cjs');
 
 async function main() {
   try {
