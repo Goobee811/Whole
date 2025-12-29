@@ -22140,21 +22140,17 @@ Sử dụng thất bại hoặc đổ vỡ như một phương pháp để đạ
 
 Xác định và giảm thiểu rủi ro, phát hiện lỗi sai lầm và duy trì tiêu chuẩn chất lượng cao.
 
-Bao gồm 81 khái niệm được tổ chức thành 13 nhóm chủ đề:
+Bao gồm 63 khái niệm được tổ chức thành 9 nhóm chủ đề:
 
-1. **Cognitive Biases in Judgment** (8): Thiên Kiến Nhận Thức Trong Phán Đoán - Confirmation Bias**, Availability Heuristic**, Anchoring Bias**, Survivorship Bias**, Hindsight Bias**, Overconfidence Effect**, Groupthink**, Sunk Cost Fallacy**
-2. **Verification Anti-Patterns & Fallacies** (8): Mô Hình Sai & Ngụy Biện Kiểm Chứng - The Streetlight Effect, The Boiling Frog, Occam's Broom**, Platonicity**, The Ludic Fallacy**, Cargo Cult Science**, The Empty World Assumption**, The Gell-Mann Amnesia Effect**
-9. **The Streetlight Effect** (7): Hiệu Ứng Đèn Đường [Rủi Ro Kiểm Chứng] - The Boiling Frog, Occam's Broom**, Platonicity**, The Ludic Fallacy**, Cargo Cult Science**, The Empty World Assumption**, The Gell-Mann Amnesia Effect**
-10. **The Boiling Frog** (6): Con Ếch Luộc [Risk Detection Tool - Công Cụ Phát Hiện Rủi Ro] - Occam's Broom**, Platonicity**, The Ludic Fallacy**, Cargo Cult Science**, The Empty World Assumption**, The Gell-Mann Amnesia Effect**
-3. **Social & System Effects** (7): Hiệu Ứng Xã Hội & Hệ Thống - The Johari Window**, The Pygmalion Effect**, The Cobra Effect**, Moral Hazard**, Selection Bias**, Regression to the Mean**, Observer Effect
-4. **Measurement Laws & Fallacies** (9): Định Luật & Ngụy Biện Đo Lường - Goodhart's Law**, The Texas Sharpshooter Fallacy**, The McNamara Fallacy**, The Narrative Fallacy**, Recency Bias**, The Peak-End Rule**, The Planning Fallacy**, Base Rate Neglect**, The Master Validator**
-5. **Risk Assessment Tools** (5): Công Cụ Đánh Giá Rủi Ro - Risk Assessment**, Uncertainty Quantification**, Confidence Estimation**, Signal Harvesting**, Reality Checking**
-6. **Distribution Laws** (5): Các Định Luật Phân Phối - Sturgeon's Law**, Pareto Principle**, Price's Law**, Benford's Law**, Bradford's Law**
-7. **Temporal & System Laws** (5): Định Luật Thời Gian & Hệ Thống - Lindy Effect**, Chesterton's Fence**, Gall's Law**, [REMOVED, Amara's Law**
-47. **[REMOVED** (1): See DYNAMICS #46] - Amara's Law**
-8. **Analytical Razors & Principles** (7): Dao Cạo Phân Tích & Nguyên Lý - Survivorship Bias Filter**, Anthropic Principle, Ergodicity Razor**, Mediocrity Principle**, Shannon's Razor**, Deutsch's Razor**, Feynman's Razor**
-50. **Anthropic Principle** (5): Nguyên Lý Nhân Trạng [Weak Version - Selection Bias Tool] - Ergodicity Razor**, Mediocrity Principle**, Shannon's Razor**, Deutsch's Razor**, Feynman's Razor**
-9. **Testing & Validation Methods** (8): Phương Pháp Kiểm Thử & Kiểm Chứng - Brandolini's Law**, Antifragility Testing**, Boundary Testing**, Mutation Testing**, Adversarial Examples**, Bayesian Validation**, Ensemble Validation**, Systemic Validation**
+1. **Cognitive Biases in Judgment** (8): Thiên Kiến Nhận Thức Trong Phán Đoán - Confirmation Bias, Availability Heuristic, Anchoring Bias, Survivorship Bias, Hindsight Bias, Overconfidence Effect, Groupthink, Sunk Cost Fallacy
+2. **Verification Anti-Patterns & Fallacies** (9): Mô Hình Sai & Ngụy Biện Kiểm Chứng - The Streetlight Effect, The Boiling Frog, Occam's Broom, Platonicity, The Ludic Fallacy, The Procrustean Bed, Cargo Cult Science, The Empty World Assumption, The Gell-Mann Amnesia Effect
+3. **Social & System Effects** (7): Hiệu Ứng Xã Hội & Hệ Thống - The Johari Window, The Pygmalion Effect, The Cobra Effect, Moral Hazard, Selection Bias, Regression to the Mean, Observer Effect
+4. **Measurement Laws & Fallacies** (9): Định Luật & Ngụy Biện Đo Lường - Goodhart's Law, The Texas Sharpshooter Fallacy, The McNamara Fallacy, The Narrative Fallacy, Recency Bias, The Peak-End Rule, The Planning Fallacy, Base Rate Neglect, The Master Validator
+5. **Risk Assessment Tools** (5): Công Cụ Đánh Giá Rủi Ro - Risk Assessment, Uncertainty Quantification, Confidence Estimation, Signal Harvesting, Reality Checking
+6. **Distribution Laws** (5): Các Định Luật Phân Phối - Sturgeon's Law, Pareto Principle, Price's Law, Benford's Law, Bradford's Law
+7. **Temporal & System Laws** (5): Định Luật Thời Gian & Hệ Thống - Lindy Effect, Chesterton's Fence, Gall's Law, [REMOVED - See DYNAMICS #46], Amara's Law
+8. **Analytical Razors & Principles** (7): Dao Cạo Phân Tích & Nguyên Lý - Survivorship Bias Filter, Anthropic Principle, Ergodicity Razor, Mediocrity Principle, Shannon's Razor, Deutsch's Razor, Feynman's Razor
+9. **Testing & Validation Methods** (8): Phương Pháp Kiểm Thử & Kiểm Chứng - Brandolini's Law, Antifragility Testing, Boundary Testing, Mutation Testing, Adversarial Examples, Bayesian Validation, Ensemble Validation, Systemic Validation
 
 ---
 
