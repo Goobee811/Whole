@@ -7479,35 +7479,21 @@ Thực hành nuôi dưỡng im lặng bên trong và bên ngoài - một công c
 
 Hệ thống suy luận và kiến trúc logic để xây dựng lập luận chặt chẽ, phân tích bằng chứng và rút ra kết luận hợp lệ. Đây là "bộ xử lý logic" của tư duy.
 
-Bao gồm 89 khái niệm được tổ chức thành 27 nhóm chủ đề:
+Bao gồm 59 khái niệm được tổ chức thành 13 nhóm chủ đề:
 
-1. **Core Reasoning Paradigms** (2): Các Mô Thức Suy Luận Cốt Lõi - Inductive Reasoning, Abductive Reasoning
-1. **Deductive Reasoning** (2): Suy Luận Diễn Dịch - Inductive Reasoning, Abductive Reasoning
-2. **Causal, Probabilistic & Modal Reasoning** (3): Suy Luận Nhân Quả, Xác Suất & Khả Thể - Probabilistic Reasoning, Modal Reasoning, Dialectical Reasoning
-5. **Causal Reasoning** (3): Suy Luận Nhân Quả [Công Cụ Phân Tích] - Probabilistic Reasoning, Modal Reasoning, Dialectical Reasoning
-3. **Dimensional Reasoning** (2): Suy Luận Chiều Không-Thời Gian & Khái Niệm - Spatial Reasoning, Conceptual Reasoning
-9. **Temporal Reasoning** (2): Suy Luận Theo Thời Gian - Spatial Reasoning, Conceptual Reasoning
-4. **Formal & Computational Methods** (3): Phương Pháp Hình Thức & Tính Toán - Mathematical Reasoning, Algorithmic Reasoning, Heuristic Reasoning
-12. **Formal Logic & Symbolic Reasoning** (3): Logic Hình Thức & Suy Luận Ký Hiệu - Mathematical Reasoning, Algorithmic Reasoning, Heuristic Reasoning
-5. **Systems & Optimization Analysis** (3): Phân Tích Hệ Thống & Tối Ưu Hóa - Systems Reasoning, Network Reasoning, Statistical Reasoning
-16. **Constraint Analysis & Optimization** (3): Phân Tích & Tối Ưu Ràng Buộc [Phương Pháp Tích Hợp] - Systems Reasoning, Network Reasoning, Statistical Reasoning
-17. **Evolutionary Reasoning** (3): Suy Luận Tiến Hóa [Công Cụ Phân Tích] - Systems Reasoning, Network Reasoning, Statistical Reasoning
-6. **Domain-Specific Applied Reasoning** (6): Suy Luận Ứng Dụng Theo Lĩnh Vực - Legal Reasoning, Scientific Reasoning, Historical Reasoning, Economic Reasoning, Strategic Reasoning, Counterfactual Reasoning
-21. **Ethical Reasoning** (6): Suy Luận Đạo Đức - Legal Reasoning, Scientific Reasoning, Historical Reasoning, Economic Reasoning, Strategic Reasoning, Counterfactual Reasoning
-7. **Advanced Logic Systems** (1): Hệ Thống Logic Nâng Cao - Argumentation Analysis
-28. **Non-Monotonic Reasoning** (1): Suy Luận Phi Đơn Điệu - Argumentation Analysis
-8. **Cognitive Process Dynamics** (6): Động Lực Quá Trình Nhận Thức - Distributed Reasoning, Meta-Cognitive Reasoning, Intuitive Reasoning, Deliberative Reasoning, Critical Reasoning, Creative Reasoning
-30. **Motivational Reasoning** (6): Suy Luận theo Động Lực - Distributed Reasoning, Meta-Cognitive Reasoning, Intuitive Reasoning, Deliberative Reasoning, Critical Reasoning, Creative Reasoning
-9. **Embodied & Social Cognition** (3): Nhận Thức Hiện Thân & Xã Hội - Emotional Reasoning, Social Reasoning, Cross-Cultural Reasoning
-37. **Embodied Reasoning** (3): Suy Luận Hiện Thân - Emotional Reasoning, Social Reasoning, Cross-Cultural Reasoning
-10. **Meta-Level Mastery** (2): Tinh Thông Siêu Nhận Thức - Wisdom-Based Reasoning (Phronesis), Architectural Mastery
-42. **Applied Meta-Reasoning** (2): Ứng Dụng Siêu Suy Luận - Wisdom-Based Reasoning (Phronesis), Architectural Mastery
-11. **Cognitive Toolkit & Foundations** (2): Bộ Công Cụ Nhận Thức & Nền Tảng - Thinking Moves Toolkit, Lenses & Filters System
-45. **Fundamental Cognitive Operations** (2): Các Thao Tác Nhận Thức Cơ Bản - Thinking Moves Toolkit, Lenses & Filters System
-12. **Extended Logic Forms** (5): Các Dạng Logic Mở Rộng - Default Reasoning, Fuzzy Logic, Evidential Reasoning, Forensic Reasoning, Clinical Reasoning
-48. **Conditional Logic** (5): Logic Điều Kiện - Default Reasoning, Fuzzy Logic, Evidential Reasoning, Forensic Reasoning, Clinical Reasoning
-13. **Advanced Computational Methods** (5): Phương Pháp Tính Toán Nâng Cao - Quantum Analysis, Tensor Analysis Mind, Bayesian Brain Optimization, Fourier Transform Thinking, Eigenvector Extraction
-54. **Machine Reasoning** (5): Suy Luận Máy - Quantum Analysis, Tensor Analysis Mind, Bayesian Brain Optimization, Fourier Transform Thinking, Eigenvector Extraction
+1. **Core Reasoning Paradigms** (4): Các Mô Thức Suy Luận Cốt Lõi - Deductive Reasoning, Inductive Reasoning, Abductive Reasoning, Analogical Reasoning
+2. **Causal, Probabilistic & Modal Reasoning** (4): Suy Luận Nhân Quả, Xác Suất & Khả Thể - Causal Reasoning, Probabilistic Reasoning, Modal Reasoning, Dialectical Reasoning
+3. **Dimensional Reasoning** (3): Suy Luận Chiều Không-Thời Gian & Khái Niệm - Temporal Reasoning, Spatial Reasoning, Conceptual Reasoning
+4. **Formal & Computational Methods** (4): Phương Pháp Hình Thức & Tính Toán - Formal Logic & Symbolic Reasoning, Mathematical Reasoning, Algorithmic Reasoning, Heuristic Reasoning
+5. **Systems & Optimization Analysis** (5): Phân Tích Hệ Thống & Tối Ưu Hóa - Constraint Analysis & Optimization, Evolutionary Reasoning, Systems Reasoning, Network Reasoning, Statistical Reasoning
+6. **Domain-Specific Applied Reasoning** (7): Suy Luận Ứng Dụng Theo Lĩnh Vực - Ethical Reasoning, Legal Reasoning, Scientific Reasoning, Historical Reasoning, Economic Reasoning, Strategic Reasoning, Counterfactual Reasoning
+7. **Advanced Logic Systems** (2): Hệ Thống Logic Nâng Cao - Non-Monotonic Reasoning, Argumentation Analysis
+8. **Cognitive Process Dynamics** (7): Động Lực Quá Trình Nhận Thức - Motivational Reasoning, Distributed Reasoning, Meta-Cognitive Reasoning, Intuitive Reasoning, Deliberative Reasoning, Critical Reasoning, Creative Reasoning
+9. **Embodied & Social Cognition** (5): Nhận Thức Hiện Thân & Xã Hội - Embodied Reasoning, Emotional Reasoning, Social Reasoning, Cross-Cultural Reasoning, Transdisciplinary Reasoning
+10. **Meta-Level Mastery** (3): Tinh Thông Siêu Nhận Thức - Applied Meta-Reasoning, Wisdom-Based Reasoning (Phronesis), Architectural Mastery
+11. **Cognitive Toolkit & Foundations** (3): Bộ Công Cụ Nhận Thức & Nền Tảng - Fundamental Cognitive Operations, Thinking Moves Toolkit, Lenses & Filters System
+12. **Extended Logic Forms** (6): Các Dạng Logic Mở Rộng - Conditional Logic, Default Reasoning, Fuzzy Logic, Evidential Reasoning, Forensic Reasoning, Clinical Reasoning
+13. **Advanced Computational Methods** (6): Phương Pháp Tính Toán Nâng Cao - Machine Reasoning, Quantum Analysis, Tensor Analysis Mind, Bayesian Brain Optimization, Fourier Transform Thinking, Eigenvector Extraction
 
 ---
 
