@@ -10185,16 +10185,14 @@ Các quy trình và giao thức y tế chuẩn.
 
 Các mô hình có cấu trúc để đánh giá các lựa chọn, quản lý rủi ro và lựa chọn một hướng hành động tối ưu trong các bối cảnh khác nhau. Đây là "hệ thống ra quyết định" của OPERATIONS.
 
-Bao gồm 57 khái niệm được tổ chức thành 10 nhóm chủ đề:
+Bao gồm 51 khái niệm được tổ chức thành 8 nhóm chủ đề:
 
 1. **Strategic Decision Frameworks** (5): Khung Quyết Định Chiến Lược - Game Theory, Cynefin Framework, OODA Loop, Recognition-Primed Decision (RPD) Model, The Master Decision Framework
 2. **Analytical Decision Tools** (7): Công Cụ Phân Tích Quyết Định - Decision Trees, Multi-Criteria Decision Analysis (MCDA), Risk-Based Decision Making, Algorithmic Decision Making, Delphi Method, Pugh Matrix, Sequential Decision Making
 3. **Decision Principles & Mental Models** (7): Nguyên Tắc & Mô Hình Quyết Định - Inversion Principle, Circle of Competence, Satisficing vs. Maximizing, Precautionary Principle, Opportunity Cost Thinking, Reversible vs. Irreversible Decisions, Expected Value Thinking
-4. **Value & Future-Oriented Frameworks** (4): Khung Định Hướng Giá Trị - Real Options Framework, Regret Minimization Framework, Value-Based Decision Making, BATNA Principle
-23. **Jobs-to-be-Done Framework** (1): Khung Công Việc Cần Hoàn Thành [Core Tool] - BATNA Principle
+4. **Value & Future-Oriented Frameworks** (5): Khung Định Hướng Giá Trị - Real Options Framework, Regret Minimization Framework, Value-Based Decision Making, Jobs-to-be-Done Framework, BATNA Principle
 5. **Organizational & Process Systems** (6): Hệ Thống Tổ Chức & Quy Trình - RACI Matrix, Consequence Scanning, Decision Journaling, PDCA Cycle, OKRs (Objectives & Key Results), Flow Optimization
-6. **Decision Laws & Cognitive Heuristics** (8): Định Luật & Heuristic Nhận Thức - Grey's Law, Actor-Observer Bias, Eisenhower's Razor, Parkinson's Law, Hofstadter's Law, Murphy's Law, Opportunity Cost Razor, Sunk Cost Razor
-32. **Shirky Principle** (7): Nguyên Tắc Shirky [Công Cụ Phát Hiện Bias] - Actor-Observer Bias, Eisenhower's Razor, Parkinson's Law, Hofstadter's Law, Murphy's Law, Opportunity Cost Razor, Sunk Cost Razor
+6. **Decision Laws & Cognitive Heuristics** (9): Định Luật & Heuristic Nhận Thức - Grey's Law, Shirky Principle, Actor-Observer Bias, Eisenhower's Razor, Parkinson's Law, Hofstadter's Law, Murphy's Law, Opportunity Cost Razor, Sunk Cost Razor
 7. **Cross-References & Navigation Metrics** (6): Tham Chiếu & Chỉ Số Điều Hướng - Eisenhower Matrix, Progress Indicators, Navigation KPIs, Waypoint Metrics, Course Efficiency, [CROSS-REFERENCE → NAVIGATION #40]
 8. **Specialized Applications & Domains** (6): Ứng Dụng & Lĩnh Vực Chuyên Biệt - Applied Decision Domains, Karma, Morphogenetic Fields, Adaptation Algorithms, Creation, Algorithms & Computation
 
