@@ -9693,16 +9693,14 @@ Bộ sưu tập các phương pháp và công nghệ tiên tiến từ nhiều l
 
 Các phương pháp và hệ thống để thu nhận, mã hóa, lưu trữ và truy xuất thông tin một cách hiệu quả. Đây là "hệ thống quản lý tri thức" của OPERATIONS.
 
-Bao gồm 40 khái niệm được tổ chức thành 9 nhóm chủ đề:
+Bao gồm 38 khái niệm được tổ chức thành 7 nhóm chủ đề:
 
-1. **Memory Encoding Techniques** (5): Kỹ Thuật Mã Hóa Ký Ức - Spaced Repetition, Active Recall & Testing Effect, Elaborative Encoding, Dual Coding Theory, Method of Loci (Memory Palace)
-5. **Chunking** (1): Chia Khối / Gộp Nhóm Thông Tin - Method of Loci (Memory Palace)
+1. **Memory Encoding Techniques** (6): Kỹ Thuật Mã Hóa Ký Ức - Spaced Repetition, Active Recall & Testing Effect, Elaborative Encoding, Dual Coding Theory, Chunking, Method of Loci (Memory Palace)
 2. **Learning Optimization Strategies** (4): Chiến Lược Tối Ưu Hóa Học Tập - Interleaving, Generation Effect, Metacognitive Monitoring, Knowledge Organization & Schema Building
 3. **Core Cognitive Processes** (4): Các Quy Trình Nhận Thức Cốt Lõi - Core Cognitive Operations, Perception, Memory Processes, Decision Making Process
 4. **Attention Management Systems** (6): Hệ Thống Quản Lý Chú Ý - Selective vs. Divided Attention, Sustained vs. Shifting Attention, Narrow vs. Broad Attention, Working Memory Optimization, Processing Efficiency, Cognitive Reserve
-5. **Advanced Learning & Knowledge Transfer** (7): Học Tập Nâng Cao & Chuyển Giao Tri Thức - Transfer Learning, Embodied Learning, Pattern Recognition Training, Interleaving Practice, Zero-Point Access, Pattern Compression, Signal-Noise Separation
-24. **Meta-Learning Frameworks** (4): Khung Siêu Học Tập - Interleaving Practice, Zero-Point Access, Pattern Compression, Signal-Noise Separation
-6. **Feedback & Adaptive Response Systems** (6): Hệ Thống Phản Hồi & Phản Ứng Thích Ứng - Feedback Synthesis, Priority Weighting, Feedback Validation, Calibrated Response, Adaptive Response, Threshold Response
+5. **Advanced Learning & Knowledge Transfer** (8): Học Tập Nâng Cao & Chuyển Giao Tri Thức - Transfer Learning, Embodied Learning, Pattern Recognition Training, Meta-Learning Frameworks, Interleaving Practice, Zero-Point Access, Pattern Compression, Signal-Noise Separation
+6. **Feedback & Adaptive Response Systems** (7): Hệ Thống Phản Hồi & Phản Ứng Thích Ứng - Feedback Synthesis, Priority Weighting, Feedback Validation, Calibrated Response, Adaptive Response, Threshold Response, Feedback Loops
 7. **Professional Practice Applications** (3): Ứng Dụng Thực Hành Chuyên Nghiệp - Teaching Methods & Pedagogical Techniques, Clinical Psychology Practices, Medical Procedures & Treatments
 
 ---
