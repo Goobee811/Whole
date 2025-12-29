@@ -3,8 +3,8 @@ name: whole-regrouper
 description: |
   Phân tích, gom nhóm, và ĐỒNG BỘ (reconcile) giữa Tổng Quan listing và actual group headers.
   Works on ONE CHỨC NĂNG at a time (50 total, process sequentially).
-  v4.1.0: Single-function workflow, removed batch mode.
-version: 4.1.0
+  v4.2.0: Single-function workflow + auto commit & push.
+version: 4.2.0
 license: MIT
 allowed-tools:
   - Edit
@@ -111,6 +111,25 @@ Bao gồm [total] khái niệm được tổ chức thành [M] nhóm chủ đề
 Read(Whole.md, offset, limit) → Edit(Tổng Quan section) → Verify sync
 ```
 
+### Step 7: COMMIT & PUSH (Auto)
+
+**After successful edit, automatically:**
+
+```bash
+git add Whole.md
+git commit -m "Reconcile CF[N]: sync Tổng Quan with [M] actual headers"
+git push
+```
+
+**Commit message format:**
+```
+Reconcile [DOMAIN] CF[N]: [Function Name]
+
+- Synced Tổng Quan with [M] actual group headers
+- [total] concepts across [M] groups
+- Strategy: [A/B/C]
+```
+
 ---
 
 ## Critical Rules
@@ -176,9 +195,11 @@ Next: CF[N+1]
   ...
 [STRATEGY] B - Content → Tổng Quan
 [EDIT] Updated Tổng Quan to match 6 actual headers
+[COMMIT] abc1234 | Reconcile DYNAMICS CF6
+[PUSH] OK
 [DONE] CF6 synced | Next: CF7
 ```
 
 ---
 
-**Version:** 4.1.0 (Single-function workflow)
+**Version:** 4.2.0 (Auto commit & push after reconcile)

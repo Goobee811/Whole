@@ -70,11 +70,24 @@ Choose:
 - Regenerate Tổng Quan listing
 - Edit Whole.md
 
-### 7. CONFIRM
+### 7. COMMIT & PUSH (Auto)
+
+```bash
+git add Whole.md
+git commit -m "Reconcile [DOMAIN] CF[N]: [Function Name]
+
+- Synced Tổng Quan with [M] actual group headers
+- [total] concepts across [M] groups
+- Strategy: B (Content → Tổng Quan)"
+git push
+```
+
+### 8. CONFIRM
 
 ```
 ✅ RECONCILE COMPLETE: CF[N]
 Groups: [M] synced | Concepts: [total]
+Commit: [hash] | Pushed: OK
 Next: CF[N+1]
 ```
 
@@ -106,4 +119,4 @@ Next: CF[N+1]
 
 ---
 
-**Version:** 1.1.0 | **Requires:** whole-regrouper v4.1.0+
+**Version:** 1.2.0 | **Requires:** whole-regrouper v4.2.0+
