@@ -648,28 +648,20 @@ Nghiên cứu về cấu trúc, nguồn gốc và tiến hóa của vũ trụ.
 
 Các định luật phổ quát và mẫu hình là những cấu trúc lặp lại, các mô hình tư duy và quy luật vận hành được quan sát thấy ở nhiều lĩnh vực khác nhau - từ vật lý đến xã hội học, từ tâm lý học đến kinh tế học.
 
-Bao gồm 71 khái niệm được tổ chức thành 20 nhóm chủ đề:
+Bao gồm 63 khái niệm được tổ chức thành 12 nhóm chủ đề:
 
-1. **Thinking Models & Mental Frameworks** (4): Mô Hình Tư Duy & Khung Tinh Thần - Systems Thinking, Probabilistic Thinking, Map-Territory Distinction, Inversion
-1. **Mental Models** (4): Mô Hình Tư Duy [Khung Diễn Giải Phổ Quát] - Systems Thinking, Probabilistic Thinking, Map-Territory Distinction, Inversion
-3. **Network Thinking** (3): Tư Duy Mạng Lưới - Probabilistic Thinking, Map-Territory Distinction, Inversion
-4. **Abstraction Ladder** (3): Thang Trừu Tượng [Mô Hình Tư Duy Cơ Bản] - Probabilistic Thinking, Map-Territory Distinction, Inversion
-5. **Fractal Thinking** (3): Tư Duy Fractal [Nguyên Lý Toán Học] - Probabilistic Thinking, Map-Territory Distinction, Inversion
-8. **Second-Order Thinking** (1): Tư Duy Bậc Hai [Nguyên Lý Phổ Quát] - Inversion
-2. **System Robustness & Constraints** (2): Độ Vững Chắc Hệ Thống & Ràng Buộc - Redundancy, Bottlenecks (Theory of Constraints)
-10. **Leverage** (2): Đòn Bẩy [Định Luật Cơ Học Cơ Bản] - Redundancy, Bottlenecks (Theory of Constraints)
-11. **Margin of Safety** (2): Biên An Toàn - Redundancy, Bottlenecks (Theory of Constraints)
-3. **Economic & Information Dynamics** (3): Động Lực Kinh Tế & Thông Tin - Supply and Demand, Information Asymmetry, Signaling Theory
-4. **Statistical Distributions & Probability** (3): Phân Phối Thống Kê & Xác Suất - Power Law Distribution (Pareto Distribution), The Black Swan, Ergodicity
-18. **Normal Distribution (The Bell Curve)** (3): Phân Phối Chuẩn (Đường Cong Chuông) - Power Law Distribution (Pareto Distribution), The Black Swan, Ergodicity
-5. **Human Psychology & Meaning-Making** (5): Tâm Lý Con Người & Tạo Ý Nghĩa - The Elephant and the Rider, Narrative & Story, Metaphor, The Overton Window, Mimetic Theory
-22. **Maslow's Hierarchy of Needs** (5): Tháp Nhu Cầu của Maslow - The Elephant and the Rider, Narrative & Story, Metaphor, The Overton Window, Mimetic Theory
-6. **Physical Laws & Natural Principles** (1): Định Luật Vật Lý & Nguyên Lý Tự Nhiên - Relativity
-28. **Entropy (Second Law of Thermodynamics)** (1): Entropy - Relativity
-11. **Sacred Arts & Aesthetic Patterns** (10): Nghệ Thuật Thiêng Liêng & Mô Thức Thẩm Mỹ - Mandala Art, Islamic Patterns, Yantra Design, Fractal Art, Harmony & Counterpoint, Rhythm & Time, Form & Structure, Overtone Singing, Color Theory & Composition, Classical Orders
-49. **Sacred Geometry Base Principles** (10): Nguyên Lý Hình Học Thiêng Liêng - Mandala Art, Islamic Patterns, Yantra Design, Fractal Art, Harmony & Counterpoint, Rhythm & Time, Form & Structure, Overtone Singing, Color Theory & Composition, Classical Orders
-12. **Meta-Patterns & Universal Structures** (3): Mô Thức Siêu Việt & Cấu Trúc Phổ Quát - Archetype Activation, Universal Principles Mining, Holonomic Understanding
-60. **Universal Grammar** (3): Ngữ Pháp Phổ Quát - Archetype Activation, Universal Principles Mining, Holonomic Understanding
+1. **Thinking Models & Mental Frameworks** (9): Mô Hình Tư Duy & Khung Tinh Thần - Mental Models, Systems Thinking, Network Thinking, Abstraction Ladder, Fractal Thinking, Probabilistic Thinking, Map-Territory Distinction, Second-Order Thinking, Inversion
+2. **System Robustness & Constraints** (4): Độ Vững Chắc Hệ Thống & Ràng Buộc - Leverage, Margin of Safety, Redundancy, Bottlenecks
+3. **Economic & Information Dynamics** (4): Động Lực Kinh Tế & Thông Tin - Supply and Demand, Information Asymmetry, Signaling Theory, Tragedy of the Commons
+4. **Statistical Distributions & Probability** (4): Phân Phối Thống Kê & Xác Suất - Normal Distribution, Power Law Distribution, The Black Swan, Ergodicity
+5. **Human Psychology & Meaning-Making** (6): Tâm Lý Con Người & Tạo Ý Nghĩa - Maslow's Hierarchy, The Elephant and the Rider, Narrative & Story, Metaphor, The Overton Window, Mimetic Theory
+6. **Physical Laws & Natural Principles** (6): Định Luật Vật Lý & Nguyên Lý Tự Nhiên - Entropy, Relativity, Observer Effect, Natural Selection, Plate Tectonics, Stellar Nucleosynthesis
+7. **Operational Laws & Heuristics** (4): Định Luật Vận Hành & Quy Tắc Kinh Nghiệm - Pareto Principle, Parkinson's Law, Goodhart's Law, The Medium is the Message
+8. **Evolutionary Dynamics** (2): Động Lực Tiến Hóa - Red Queen Effect, Punctuated Equilibrium
+9. **Cognitive Biases & Behavioral Patterns** (7): Thiên Kiến Nhận Thức & Mô Thức Hành Vi - Dunning-Kruger Effect, Pygmalion Effect, Butterfly Effect, Cargo Cult, Streetlight Effect, Boiling Frog, Procrustean Bed
+10. **Hermetic & Sacred Principles** (2): Nguyên Lý Hermetic & Thiêng Liêng - As Above So Below, Kybalion Principles
+11. **Sacred Arts & Aesthetic Patterns** (11): Nghệ Thuật Thiêng Liêng & Mô Thức Thẩm Mỹ - Sacred Geometry, Mandala Art, Islamic Patterns, Yantra Design, Fractal Art, Harmony & Counterpoint, Rhythm & Time, Form & Structure, Overtone Singing, Color Theory, Classical Orders
+12. **Meta-Patterns & Universal Structures** (4): Mô Thức Siêu Việt & Cấu Trúc Phổ Quát - Universal Grammar, Archetype Activation, Universal Principles Mining, Holonomic Understanding
 
 ---
 
