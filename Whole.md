@@ -15278,26 +15278,16 @@ _Các công cụ để phân bổ nguồn lực hữu hạn, thiết lập ưu t
 
 Các công cụ để phân bổ nguồn lực hữu hạn, thiết lập ưu tiên và tối ưu hóa hiệu suất.
 
-Bao gồm 82 khái niệm được tổ chức thành 18 nhóm chủ đề:
+Bao gồm 43 khái niệm được tổ chức thành 8 nhóm chủ đề:
 
-1. **Priority Frameworks & Decision Tools** (5): Khung Ưu Tiên & Công Cụ Quyết Định - Eisenhower Matrix, Pareto Principle (80/20 Rule)**, MoSCoW Method**, ROI Thinking**, Zero-Based Prioritization**
-1. **Eisenhower Matrix** (4): Ma Trận Eisenhower - Pareto Principle (80/20 Rule)**, MoSCoW Method**, ROI Thinking**, Zero-Based Prioritization**
-2. **Resource Assessment & Operations** (5): Đánh Giá Tài Nguyên & Vận Hành - Trade-off Analysis, Resource Inventory**, Lean Thinking**, Opportunity Cost Awareness**, Capacity Planning**
-6. **Trade-off Analysis** (4): Phân Tích Đánh Đổi - Resource Inventory**, Lean Thinking**, Opportunity Cost Awareness**, Capacity Planning**
-3. **Personal Resource Management** (4): Quản Lý Tài Nguyên Cá Nhân - Energy Management, Attention Management**, Decision Fatigue Awareness**, Master Resource Allocator**
-11. **Energy Management** (3): Quản Lý Năng Lượng - Attention Management**, Decision Fatigue Awareness**, Master Resource Allocator**
-4. **Strategic Investment & Protection** (6): Đầu Tư Chiến Lược & Bảo Vệ - Resource Alchemy, Supply Chain Navigation**, Conservation Principle**, Investment Wisdom, Risk Matrix**, Margin of Safety
-15. **Resource Alchemy** (5): Giả Kim Tài Nguyên - Supply Chain Navigation**, Conservation Principle**, Investment Wisdom, Risk Matrix**, Margin of Safety
-18. **Investment Wisdom** (2): Trí Tuệ Đầu Tư - Risk Matrix**, Margin of Safety
-5. **Information Processing & Flexibility** (5): Xử Lý Thông Tin & Linh Hoạt - Signal Processing, Knowledge Navigation**, Option Preservation, Opportunity Magnetism**, Luck Surface Area Expansion**
-21. **Signal Processing** (4): Xử Lý Tín Hiệu - Knowledge Navigation**, Option Preservation, Opportunity Magnetism**, Luck Surface Area Expansion**
-23. **Option Preservation** (2): Bảo Tồn Quyền Chọn [Trong Chiến Lược] - Opportunity Magnetism**, Luck Surface Area Expansion**
-6. **Barrier Navigation & Breakthrough** (6): Điều Hướng Rào Cản & Đột Phá - Barrier Detection, Circumvention Strategies**, Breakthrough Navigation**, Thiel's Competition Razor**, Adjacent Possible Surfing**, Reality Entrepreneurship**
-26. **Barrier Detection** (5): Phát Hiện Rào Cản - Circumvention Strategies**, Breakthrough Navigation**, Thiel's Competition Razor**, Adjacent Possible Surfing**, Reality Entrepreneurship**
-7. **Project Planning & Execution** (7): Lập Kế Hoạch Dự Án & Thực Thi - Production Management, Creative Project Management**, Exhibition Planning**, Tour Planning**, Urban Development Strategies**, Valuable Uniqueness**, Irreplaceable Perspectives**
-32. **Production Management** (6): Quản Lý Sản Xuất - Creative Project Management**, Exhibition Planning**, Tour Planning**, Urban Development Strategies**, Valuable Uniqueness**, Irreplaceable Perspectives**
-8. **Strategic Metrics & Decision Razors** (5): Chỉ Số Chiến Lược & Dao Cạo Quyết Định - Navigation ROI, Bezos' Reversibility Razor**, Gates' Complexity Razor**, Sunk Cost Razor in Resource Management**, Marginal Utility Razor**
-39. **Navigation ROI** (4): Lợi Nhuận Đầu Tư Điều Hướng - Bezos' Reversibility Razor**, Gates' Complexity Razor**, Sunk Cost Razor in Resource Management**, Marginal Utility Razor**
+1. **Priority Frameworks & Decision Tools** (5): Khung Ưu Tiên & Công Cụ Quyết Định - Eisenhower Matrix, Pareto Principle (80/20 Rule), MoSCoW Method, ROI Thinking, Zero-Based Prioritization
+2. **Resource Assessment & Operations** (5): Đánh Giá Tài Nguyên & Vận Hành - Trade-off Analysis, Resource Inventory, Lean Thinking, Opportunity Cost Awareness, Capacity Planning
+3. **Personal Resource Management** (4): Quản Lý Tài Nguyên Cá Nhân - Energy Management, Attention Management, Decision Fatigue Awareness, Master Resource Allocator
+4. **Strategic Investment & Protection** (6): Đầu Tư Chiến Lược & Bảo Vệ - Resource Alchemy, Supply Chain Navigation, Conservation Principle, Investment Wisdom, Risk Matrix, Margin of Safety
+5. **Information Processing & Flexibility** (5): Xử Lý Thông Tin & Linh Hoạt - Signal Processing, Knowledge Navigation, Option Preservation, Opportunity Magnetism, Luck Surface Area Expansion
+6. **Barrier Navigation & Breakthrough** (6): Điều Hướng Rào Cản & Đột Phá - Barrier Detection, Circumvention Strategies, Breakthrough Navigation, Thiel's Competition Razor, Adjacent Possible Surfing, Reality Entrepreneurship
+7. **Project Planning & Execution** (7): Lập Kế Hoạch Dự Án & Thực Thi - Production Management, Creative Project Management, Exhibition Planning, Tour Planning, Urban Development Strategies, Valuable Uniqueness, Irreplaceable Perspectives
+8. **Strategic Metrics & Decision Razors** (5): Chỉ Số Chiến Lược & Dao Cạo Quyết Định - Navigation ROI, Bezos' Reversibility Razor, Gates' Complexity Razor, Sunk Cost Razor in Resource Management, Marginal Utility Razor
 
 ---
 
