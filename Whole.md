@@ -5050,15 +5050,14 @@ Các thực hành nhằm kích hoạt tiềm năng ẩn trong tế bào và DNA.
 
 Nhận diện và làm việc với các mẫu hình tiến hóa của hệ thống phức tạp, từ các chu kỳ sinh trưởng đến các quy luật động lực học phi tuyến.
 
-Bao gồm 60 khái niệm được tổ chức thành 9 nhóm chủ đề:
+Bao gồm 61 khái niệm được tổ chức thành 8 nhóm chủ đề:
 
 1. **Foundational System Theories** (8): Lý Thuyết Hệ Thống Nền Tảng - System Dynamics, Chaos Theory, Complexity Theory, Phase Space, Resilience & Robustness, Modularity & Coupling, Hierarchical Organization, System Archetypes
 2. **Emergence & Network Dynamics** (7): Động Lực Nổi Trội & Mạng Lưới - Power Laws, Network Effects, Tipping Points, Path Dependence, Co-evolutionary Dynamics, Hysteresis Loops, Metcalfe's Law
-3. **Critical States & Adaptive Cycles** (5): Trạng Thái Tới Hạn & Chu Kỳ Thích Ứng - Criticality & SOC, Adaptive Cycles, Panarchy, Criticality Indicators, Regime Shifts
-4. **Fundamental Evolution Patterns** (9): Các Mô Thức Tiến Hóa Cơ Bản - Fitness Landscapes, Expansion, Contraction, Evolution, Balance, Oscillation & Pulsation, Divergence, Interference, Adaptation
-28. **Convergence** (3): Hội Tụ [Mô Hình Tiến Hóa] - Divergence, Interference, Adaptation
-5. **System Laws & Perverse Effects** (8): Định Luật Hệ Thống & Hiệu Ứng Nghịch Lý - Campbell's Law, McNamara Fallacy, Cobra Effect, Streisand Effect, Jevons Paradox, Peter Principle, Parkinson's Law of Triviality, Gresham's Law
-6. **Design & Organizational Laws** (6): Định Luật Thiết Kế & Tổ Chức - Brooks's Law, Lindy Effect, Occam's Razor, Conway's Law, Goodhart's Law (Meta-version), Hyrum's Law
+3. **Critical States & Adaptive Cycles** (6): Trạng Thái Tới Hạn & Chu Kỳ Thích Ứng - Criticality & SOC, Adaptive Cycles, Panarchy, Criticality Indicators, Regime Shifts, Adaptive Management
+4. **Fundamental Evolution Patterns** (10): Các Mô Thức Tiến Hóa Cơ Bản - Fitness Landscapes, Expansion, Contraction, Evolution, Balance, Oscillation & Pulsation, Divergence, Interference, Adaptation, Convergence
+5. **System Laws & Perverse Effects** (9): Định Luật Hệ Thống & Hiệu Ứng Nghịch Lý - Campbell's Law, McNamara Fallacy, Cobra Effect, Streisand Effect, Jevons Paradox, Peter Principle, Parkinson's Law of Triviality, Gresham's Law, Shirky Principle
+6. **Design & Organizational Laws** (7): Định Luật Thiết Kế & Tổ Chức - Brooks's Law, Lindy Effect, Occam's Razor, Conway's Law, Goodhart's Law (Meta-version), Hyrum's Law, Law of Unintended Consequences
 7. **Natural System Patterns** (8): Mô Thức Hệ Thống Tự Nhiên - Temporal Hierarchy, Iterative Refinement, Process Philosophy, Chemical Reaction Dynamics, Evolution & Ecology Dynamics, Climate Systems, Ocean Currents, Galaxy Formation
 8. **Social & Cultural Evolution** (6): Tiến Hóa Xã Hội & Văn Hóa - Social Systems Theory, Cultural Evolution, Language Change & Variation, Economic Cycles & Behavioral Economics, Power Dynamics & Conflict Theory, Social Movements & Revolutions
 
