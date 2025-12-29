@@ -5889,20 +5889,17 @@ Các quá trình thay đổi xã hội tập thể quy mô lớn.
 
 Các chế độ và dòng chảy cơ bản của quá trình xử lý thông tin, cách thức tâm trí di chuyển giữa các trạng thái khác nhau để nhận thức và tương tác với thực tại.
 
-Bao gồm 84 khái niệm được tổ chức thành 14 nhóm chủ đề:
+Bao gồm 74 khái niệm được tổ chức thành 11 nhóm chủ đề:
 
 1. **Dual Processing Modes** (9): Các Chế Độ Xử Lý Kép - Convergent ↔ Divergent Thinking, Fast ↔ Slow Thinking, Abstract ↔ Concrete Thinking, Analytic ↔ Holistic Thinking, Analysis ↔ Synthesis, Linear ↔ Non-linear, Sequential ↔ Parallel, Focused ↔ Diffuse Mode, Hot ↔ Cold Cognition
-2. **Core Flexibility Mechanisms** (5): Cơ Chế Linh Hoạt Cốt Lõi - Cognitive Flexibility, Cognitive Flexibility in Problem-Solving, Metacognition, Meta-Cognitive Flow, Adaptive Reasoning
+2. **Core Flexibility Mechanisms** (6): Cơ Chế Linh Hoạt Cốt Lõi - Cognitive Flexibility, Cognitive Flexibility in Problem-Solving, Metacognition, Meta-Cognitive Flow, Adaptive Reasoning, Mental Models
 3. **Memory Systems & Knowledge Structures** (8): Hệ Thống Trí Nhớ & Cấu Trúc Tri Thức - Memory Dynamics, Working Memory Dynamics, State-Dependent Learning, Concept Formation, Transfer of Learning, Dual Coding, Schema Theory, Spreading Activation
 4. **Attention & Resource Management** (6): Quản Lý Chú Ý & Tài Nguyên - Attention Dynamics, Mind Wandering, Cognitive Load, Decision Fatigue, Automaticity, Cognitive Momentum
 5. **Insight & Creative Emergence** (7): Thấu Suốt & Đột Sinh Sáng Tạo - Intuitive Leap Dynamics, Insight Dynamics ("Aha!" Moment), Creativity Modes, Mental Simulation Dynamics, Incubation Effect, Productive Failure, Curiosity Drive
-6. **Reasoning & Causal Inference** (5): Suy Luận & Suy Diễn Nhân Quả - Conceptual Blending, Causal Reasoning, Causal Networks, Intervention Reasoning, Temporal Causation
-37. **Analogical Reasoning** (5): Suy Luận Tương Tự [Năng Lực Linh Hoạt] - Conceptual Blending, Causal Reasoning, Causal Networks, Intervention Reasoning, Temporal Causation
+6. **Reasoning & Causal Inference** (6): Suy Luận & Suy Diễn Nhân Quả - Analogical Reasoning, Conceptual Blending, Causal Reasoning, Causal Networks, Intervention Reasoning, Temporal Causation
 7. **Perceptual Effects & Cognitive Biases** (6): Hiệu Ứng Tri Giác & Thiên Lệch Nhận Thức - Priming Effects, Framing Effects, Perceptual Set, Cognitive Dissonance, Cognitive Restructuring, Pattern Recognition
-8. **Decision Dynamics & Strategic Thinking** (6): Động Lực Quyết Định & Tư Duy Chiến Lược - Decision Velocity, Decision Stack, Decision Momentum, Portfolio Reasoning, Complex Systems Decisions, Emergent Wayfinding
-50. **Option Preservation** (5): Bảo Tồn Lựa Chọn [Trong Tư Duy] - Decision Stack, Decision Momentum, Portfolio Reasoning, Complex Systems Decisions, Emergent Wayfinding
-9. **Complex Adaptive Creativity** (5): Sáng Tạo Thích Ứng Phức Tạp - Feedback Loop Creativity, Attractor Dynamics (Creativity), Nonlinear Creativity, Swarm Creativity, Phase Transition Creativity
-57. **Adaptive Systems (Creativity)** (5): Hệ Thống Thích Ứng Sáng Tạo - Feedback Loop Creativity, Attractor Dynamics (Creativity), Nonlinear Creativity, Swarm Creativity, Phase Transition Creativity
+8. **Decision Dynamics & Strategic Thinking** (8): Động Lực Quyết Định & Tư Duy Chiến Lược - Decision Velocity, Option Preservation, Decision Stack, Decision Momentum, Portfolio Reasoning, Complex Systems Decisions, Emergent Wayfinding, Quantum Navigation
+9. **Complex Adaptive Creativity** (6): Sáng Tạo Thích Ứng Phức Tạp - Adaptive Systems (Creativity), Feedback Loop Creativity, Attractor Dynamics (Creativity), Nonlinear Creativity, Swarm Creativity, Phase Transition Creativity
 10. **Decision Biases & Cognitive Razors** (4): Thiên Lệch Quyết Định & Dao Cạo Nhận Thức - Dunning-Kruger Razor, Fredkin's Paradox, Sayre's Law, Bikeshedding Law
 11. **Edge Dynamics & Boundary Navigation** (8): Động Lực Biên Giới & Điều Hướng Ngưỡng - Contextual Navigation, Antifragile Navigation, Collective Navigation, Liminal Navigation, Boundary Dissolution, Chaos Surfing, Avalanche Triggering, Synchronicity Engineering
 
