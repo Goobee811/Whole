@@ -16755,18 +16755,15 @@ _Miền này chứa đựng các phương pháp, thực hành và nguyên lý đ
 
 Chức năng này tập trung vào các phương pháp để thu thập, kết nối và tổng hợp thông tin, dữ liệu và tri thức từ nhiều nguồn khác nhau thành một hệ thống hiểu biết mạch lạc.
 
-Bao gồm 54 khái niệm được tổ chức thành 13 nhóm chủ đề:
+Bao gồm 50 khái niệm được tổ chức thành 10 nhóm chủ đề:
 
-1. **Core Synthesis Methods** (4): Phương Pháp Tổng Hợp Cốt Lõi - Synthesis, Comparative Analysis, Pattern Synthesis, Meta-Synthesis
-2. **Consilience** (3): Sự Hội Quy [Công Cụ Tổng Hợp] - Comparative Analysis, Pattern Synthesis, Meta-Synthesis
+1. **Core Synthesis Methods** (5): Phương Pháp Tổng Hợp Cốt Lõi - Synthesis, Consilience, Comparative Analysis, Pattern Synthesis, Meta-Synthesis
 2. **Systems Integration** (4): Tích Hợp Hệ Thống - Living Systems Integration, System of Systems Thinking, Technology-Humanity Integration, Global Brain Integration
 3. **Cultural & Social Integration** (5): Tích Hợp Văn Hóa & Xã Hội - Value System Integration, Worldview Integration, Cultural Integration, Historical Integration, Collective Sensemaking
 4. **Knowledge & Data Integration** (4): Tích Hợp Tri Thức & Dữ Liệu - Data Integration & Analysis, Semantic Integration, Knowledge Graph Construction, Transdisciplinary Framework
 5. **Experiential & Temporal Integration** (5): Tích Hợp Trải Nghiệm & Thời Gian - Narrative Integration, Temporal Integration, Multi-Modal Learning, Memetic Integration, Cognitive Cartography
-6. **Foundational Methods** (4): Phương Pháp Nền Tảng - Feynman Technique, Zettelkasten Method, Progressive Summarization, Knowledge Synthesis Protocol
-7. **Thinking Modes** (5): Các Chế Độ Tư Duy - Dialectical Thinking, Holistic Integration Thinking, Integral Thinking, Integrative Reasoning, Holographic Reasoning
-30. **Both/And Thinking** (4): Tư Duy Cả Hai [Công Cụ Tổng Hợp] - Holistic Integration Thinking, Integral Thinking, Integrative Reasoning, Holographic Reasoning
-34. **Transdisciplinary Reasoning** (1): Suy Luận Xuyên Ngành [Nguyên Tắc & Mục Tiêu] - Holographic Reasoning
+6. **Foundational Methods** (5): Phương Pháp Nền Tảng - Feynman Technique, Zettelkasten Method, Progressive Summarization, Knowledge Synthesis Protocol, Meta-Learning Protocols
+7. **Thinking Modes** (7): Các Chế Độ Tư Duy - Dialectical Thinking, Both/And Thinking, Holistic Integration Thinking, Integral Thinking, Integrative Reasoning, Transdisciplinary Reasoning, Holographic Reasoning
 8. **Creative Bridging** (7): Kết Nối Sáng Tạo - Conceptual Bridging, Analogical Transfer, Hybrid Thinking, Interdisciplinary Fusion, Fusion Methodology, Creative Alchemy, Synthesis Protocols
 9. **Knowledge Architecture** (4): Kiến Trúc Tri Thức - Second Brain Systems, Knowledge Graphs, Semantic Networks, Thought Scaffolding
 10. **Wisdom Traditions** (4): Truyền Thống Trí Tuệ - Vedanta Synthesis, Neo-Confucian Integration, Syncretic Traditions, Sufi Poetry/Love Synthesis
