@@ -23533,15 +23533,13 @@ Thiết kế và quản lý có chủ đích để tối đa hóa hiệu ứng m
 
 Chức năng này tập trung vào việc sử dụng đòn bẩy để tạo ra kết quả lớn từ đầu vào nhỏ - nghệ thuật của "làm nhiều hơn với ít hơn".
 
-Bao gồm 36 khái niệm được tổ chức thành 9 nhóm chủ đề:
+Bao gồm 33 khái niệm được tổ chức thành 7 nhóm chủ đề:
 
-1. **Core Leverage Principles** (4): Nguyên Lý Đòn Bẩy Cốt Lõi - Compounding, 80/20 Principle (Pareto), Automation & Delegation, Economies of Scale
-2. **Leverage** (3): Đòn Bẩy [Công Cụ Khuếch Đại] - 80/20 Principle (Pareto), Automation & Delegation, Economies of Scale
+1. **Core Leverage Principles** (5): Nguyên Lý Đòn Bẩy Cốt Lõi - Compounding, Leverage, 80/20 Principle (Pareto), Automation & Delegation, Economies of Scale
 2. **Replication & Systems Leverage** (3): Đòn Bẩy Sao Chép & Hệ Thống - Standardization & Replication, Tools & Technology, Code & Software Leverage
 3. **Content & Capital Leverage** (2): Đòn Bẩy Nội Dung & Vốn - Media & Content Leverage, Capital Leverage
 4. **Strategic Positioning Leverage** (3): Đòn Bẩy Định Vị Chiến Lược - Information Asymmetry, Positioning & Branding, Strategic Alliances & Partnerships
-5. **Knowledge & Learning Leverage** (3): Đòn Bẩy Tri Thức & Học Tập - Mentorship & Modeling, Time Leverage, The Master Leverager
-15. **Frameworks & Mental Models** (2): Khung Tư Duy & Mô Hình Tâm Thần [Công Cụ Đòn Bẩy] - Time Leverage, The Master Leverager
+5. **Knowledge & Learning Leverage** (4): Đòn Bẩy Tri Thức & Học Tập - Mentorship & Modeling, Frameworks & Mental Models, Time Leverage, The Master Leverager
 6. **Human & Social Leverage** (5): Đòn Bẩy Con Người & Xã Hội - Teaching Leverage, Leadership Catalysis, Mentorship Multiplication, Influence Amplification, Connector Power
 7. **Advanced Optimization & Energy Leverage** (11): Đòn Bẩy Tối Ưu Hóa & Năng Lượng Tiên Tiến - Constraints as Leverage, Energy Field Management, Presence as Influence, Silence as Statement, Electromagnetic & Subtle Energy Devices, Plasma & Photonic Medicine, Linear Optimization, Non-linear Optimization, Combinatorial Optimization, Multi-Objective Optimization, Robust Optimization
 
