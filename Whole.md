@@ -28273,15 +28273,15 @@ Sử dụng các tần số âm thanh và rung động cụ thể cho mục đí
 
 Quá trình tinh luyện kinh nghiệm, hiểu biết và thực hành thành những nguyên tắc trí tuệ sống động, có thể truyền đạt và có thể áp dụng. Đây là nghệ thuật biến tri thức thành trí tuệ, và trí tuệ thành sự sống.
 
-Bao gồm 59 khái niệm được tổ chức thành 7 nhóm chủ đề:
+Bao gồm 76 khái niệm được tổ chức thành 7 nhóm chủ đề:
 
-2. **Pure Awareness States** (7): Các Trạng Thái Nhận Thức Thuần Túy - Emptiness Wisdom, Fullness Wisdom, Primordial Wisdom, Living Wisdom, Flow Consciousness, Pure Awareness, The Eternal Now
-27. **Void Navigation** (1): Điều Hướng Hư Không - The Eternal Now
-3. **Ultimate Testing** (9): Các Thử Nghiệm Tối Hậu - Pragmatic Ultimate Test, Coherence Ultimate Test, Resilience Ultimate Test, Evolution Ultimate Test, Wisdom Ultimate Test, Beginner's Navigation, Master's Navigation, Empty Navigation, Ultimate Navigation
-34. **Wu Wei Navigation** (4): Điều Hướng Vô Vi [Cảnh Giới Tối Cao] - Beginner's Navigation, Master's Navigation, Empty Navigation, Ultimate Navigation
+1. **Các Nguyên Lý Sống Với Trí Tuệ** (20): Living with Wisdom Principles - Embodied Wisdom, Practical Wisdom, Sophia, Gnosis, Metis, The Art of Living, Ethical Mastery, Holistic Health, Ecological Consciousness, Contemplative Practice, Intergenerational Wisdom, Death Acceptance, Forgiveness Practice, Gratitude as Practice, Simplicity as Wisdom, Play and Humor, Service and Contribution, Continuous Learning, Solitude and Community Balance, Wisdom Integration
+2. **Pure Awareness States** (8): Các Trạng Thái Nhận Thức Thuần Túy - Emptiness Wisdom, Fullness Wisdom, Primordial Wisdom, Living Wisdom, Flow Consciousness, Pure Awareness, Void Navigation, The Eternal Now
+3. **Ultimate Testing** (10): Các Thử Nghiệm Tối Hậu - Pragmatic Ultimate Test, Coherence Ultimate Test, Resilience Ultimate Test, Evolution Ultimate Test, Wisdom Ultimate Test, Wu Wei Navigation, Beginner's Navigation, Master's Navigation, Empty Navigation, Ultimate Navigation
 4. **Quantum Consciousness** (9): Ý Thức Lượng Tử - Quantum Consciousness, Non-local Awareness, Omniscient Glimpses, Omniscience Architecture, Oracle Functions, Collapsing Wave Possibilities, Cross-domain Entanglement, Conceptual Tunneling, Probability Amplitude Navigation
 5. **Shadow & Hidden Patterns** (11): Bóng Tối Và Các Mẫu Hình Ẩn - Negative Space Patterns, Silence Between Words, Implicit Assumptions, Shadow Projections, Collective Unconscious Forms, Dark Knowledge, Anti-patterns, Meta-patterns, Future Memory, Time Fractals, Time Loop Navigation
-6. **Knowledge Access** (18): Truy Cập Tri Thức - Noetic Science Exploration, Akashic Records Access, Post-modern Philosophy, Morphogenetic Field Work, Mystical Experiences, Hard Problem of Consciousness, Śūnyatā, Fana & Baqa, Liberation, Effortless Mastery, Retreat & Intensive Forms, Crisis as Initiation, Spiritual Emergency Support, Death as Teacher, Master Development Path, Meta-Practice, Loving-Kindness/Metta, Microdosing Protocols
+6. **Knowledge Access** (9): Truy Cập Tri Thức - Noetic Science Exploration, Akashic Records Access, Post-modern Philosophy, Morphogenetic Field Work, Mystical Experiences, Hard Problem of Consciousness, Śūnyatā, Fana & Baqa, Liberation
+7. **Integration & Practice** (9): Tích Hợp Và Thực Hành - Effortless Mastery, Retreat & Intensive Forms, Crisis as Initiation, Spiritual Emergency Support, Death as Teacher, Master Development Path, Meta-Practice, Loving-Kindness/Metta, Microdosing Protocols
 
 ---
 
