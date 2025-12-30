@@ -6,10 +6,15 @@ argument-hint: [function-number 1-50]
 ## Usage
 
 ```bash
-/reconcile 6     # Reconcile CF6 (DYNAMICS - Emergence & Flow)
-/reconcile 11    # Reconcile CF11 (OPERATIONS - Analytical Reasoning)
-/reconcile       # Auto-detect next pending from progress
+/reconcile 6        # Reconcile CF6 (direct push to main)
+/reconcile 11 --pr  # Reconcile CF11 with auto PR creation
+/reconcile --pr     # Auto-detect next + create PR
+/reconcile          # Auto-detect next pending from progress
 ```
+
+### Flags
+- `--pr` : Create a PR instead of direct push (recommended for significant changes)
+- No flag: Direct commit & push to main (default, for quick fixes)
 
 ---
 
@@ -161,23 +166,104 @@ Read Whole.md offset=[start] limit=[section_length]
 
 ### Phase 7: COMMIT & PUSH
 
+**Option A: Direct Push (Default - for minor fixes)**
 ```bash
 git add Whole.md
 git commit -m "$(cat <<'EOF'
-Reconcile [DOMAIN] CF[N]: [Function Name]
+reconcile(CF[N]): Fix Tổng Quan for [Function Name]
 
-Analysis:
-- Tổng Quan: [M] groups, [score] overall
-- Content: [M] groups, [score] overall
+Before: [describe corruption/issue]
 
-Decision: [A/B/C/H] - [Reasoning summary]
+After: Clean [M] groups / [N] concepts:
+[list groups with counts]
 
-Changes:
-- [Specific changes made]
-- [Groups affected]
+Strategy: [A/B/C/H] - [Reasoning]
 EOF
 )"
 git push
+```
+
+**Option B: Create PR (for significant changes or review needed)**
+```bash
+# 1. Create feature branch
+git checkout -b reconcile/cf[N]-[short-slug]
+
+# 2. Commit changes
+git add Whole.md
+git commit -m "$(cat <<'EOF'
+reconcile(CF[N]): Fix Tổng Quan for [Function Name]
+
+Before: [describe corruption/issue]
+
+After: Clean [M] groups / [N] concepts:
+[list groups with counts]
+
+Strategy: [A/B/C/H] - [Reasoning]
+EOF
+)"
+
+# 3. Push branch
+git push -u origin reconcile/cf[N]-[short-slug]
+
+# 4. Create PR
+gh pr create --title "reconcile(CF[N]): [Function Name]" --body "$(cat <<'EOF'
+## Summary
+- Fixed Tổng Quan section for CF[N]: [Function Name]
+- Strategy: [A/B/C/H] - [Description]
+
+## Changes
+| Metric | Before | After |
+|--------|--------|-------|
+| Groups | [X] | [Y] |
+| Concepts | [X] | [Y] |
+
+## Groups After Fix
+1. [Group 1] ([N])
+2. [Group 2] ([N])
+...
+
+## Test Plan
+- [ ] Verify Tổng Quan matches Content headers
+- [ ] Check continuous numbering (1, 2, 3...)
+- [ ] Validate bilingual format
+EOF
+)"
+
+# 5. Return to main
+git checkout main
+```
+
+### Phase 7b: AUTO-PR MODE (--pr flag)
+
+When `/reconcile [N] --pr` is used, automatically:
+
+1. **Branch naming**: `reconcile/cf[N]-[domain-abbrev]`
+   - Example: `reconcile/cf35-validation`
+
+2. **Auto-detect PR necessity**:
+   - Lines changed > 20 → Suggest PR
+   - Strategy [A] or [H] → Suggest PR (content reorganization)
+   - Strategy [B] or [S] → Direct push OK
+
+3. **PR Template**:
+```markdown
+## 🔄 Reconcile CF[N]: [Function Name]
+
+### Problem
+[Tổng Quan was corrupted/mismatched with Content]
+
+### Solution
+Strategy [X]: [Description]
+
+### Changes
+- Before: [X] concepts / [Y] groups (claimed)
+- After: [X] concepts / [Y] groups (actual)
+
+### Checklist
+- [ ] Tổng Quan matches ### headers
+- [ ] Continuous numbering preserved
+- [ ] Bilingual format correct
+- [ ] No content deleted
 ```
 
 ---
@@ -278,6 +364,7 @@ git push
 
 ## Output Format (Compact)
 
+### Standard Mode (Direct Push)
 ```
 [RECONCILE] CF[N] | [DOMAIN] - [Function Name]
 [READ] Lines [start]-[end] | [total] concepts
@@ -295,6 +382,26 @@ git push
 [DONE] CF[N] reconciled | Next: CF[N+1]
 ```
 
+### PR Mode (--pr flag)
+```
+[RECONCILE] CF[N] | [DOMAIN] - [Function Name] | --pr mode
+[READ] Lines [start]-[end] | [total] concepts
+
+[ANALYSIS]
+┌─ TỔNG QUAN: [M] groups
+│  Coherence: ⭐⭐⭐⭐☆ | Balance: ⭐⭐⭐☆☆ | Natural: ⭐⭐⭐⭐⭐
+│
+└─ CONTENT: [M] groups
+   Coherence: ⭐⭐⭐☆☆ | Balance: ⭐⭐⭐⭐☆ | Natural: ⭐⭐⭐☆☆
+
+[DECISION] [A/B/C/H] - [Short reasoning]
+[EXECUTE] [Changes made]
+[BRANCH] reconcile/cf[N]-[slug]
+[COMMIT] [hash] | [message]
+[PR] #[number] | [PR URL]
+[DONE] CF[N] PR created | Review at: [URL]
+```
+
 ---
 
-**Version:** 5.0.0 | **Philosophy:** Analyze first, decide with reasoning
+**Version:** 5.1.0 | **Philosophy:** Analyze first, decide with reasoning | **New:** Auto-PR support with `--pr` flag

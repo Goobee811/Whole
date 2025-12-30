@@ -12,7 +12,7 @@ Specialized Claude skills for editing and expanding the Whole bilingual knowledg
 - `whole-editor`: Main editing skill for content expansion
 - `whole-analyzer`: Pre-editing analysis and duplicate detection
 - `whole-reviewer`: Post-editing validation
-- `whole-regrouper`: Phân tích, gom nhóm, và ĐỒNG BỘ Tổng Quan ↔ Content (v5.0.0 - Intelligent Analysis)
+- `whole-regrouper`: Phân tích, gom nhóm, và ĐỒNG BỘ Tổng Quan ↔ Content (v5.1.0 - Intelligent Analysis + Auto-PR)
 
 ## Workflows
 - `.claude/workflows/editing-workflow.md`: Step-by-step editing process
@@ -20,10 +20,11 @@ Specialized Claude skills for editing and expanding the Whole bilingual knowledg
 ## Automation & Productivity Features
 
 ### Reconciliation & Progressive Disclosure
-- **whole-regrouper v5.0.0**: Intelligent Analysis - analyzes both Tổng Quan & Content representations
-- **Two Workflows:**
+- **whole-regrouper v5.1.0**: Intelligent Analysis + Auto-PR support
+- **Three Workflows:**
   - `/regroup` - Full regroup (analyze concepts → new groups → update both)
-  - `/reconcile` - Sync only (compare → detect mismatch → fix)
+  - `/reconcile` - Sync only (compare → detect mismatch → fix → direct push)
+  - `/reconcile --pr` - Sync + create GitHub PR for review
 - Detailed guidance in `references/` (loaded as needed):
   - `grouping-principles.md` - Coherence, balance, bilingual criteria
   - `workflow-steps.md` - Detailed 5-step workflow
@@ -133,7 +134,8 @@ When evaluating duplicates:
 - `/edit [section-path]` - Start editing session
 - `/expand [domain] [function] [topic]` - Add new concepts
 - `/regroup [function-number]` - ⚡ Regroup CHỨC NĂNG (full regroup workflow)
-- `/reconcile [function-number]` - 🔄 Sync Tổng Quan ↔ Content mismatch (v5.0.0)
+- `/reconcile [function-number]` - 🔄 Sync Tổng Quan ↔ Content mismatch (v5.1.0)
+- `/reconcile [function-number] --pr` - 🔄 Sync + Auto-create GitHub PR
 
 ## Style Preferences
 - Formal yet accessible tone
