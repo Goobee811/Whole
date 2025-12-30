@@ -24506,19 +24506,17 @@ Giải pháp mà mọi người tự nhiên hội tụ khi không có giao tiế
 
 Chức năng này tập trung vào việc hiểu và tạo ra các mẫu hình tăng trưởng theo cấp số nhân - nơi tốc độ tăng trưởng tỷ lệ với kích thước hiện tại.
 
-Bao gồm 59 khái niệm được tổ chức thành 11 nhóm chủ đề:
+Bao gồm 46 khái niệm được tổ chức thành 9 nhóm chủ đề:
 
-1. **Core Exponential Principles** (12): Nguyên Lý Cấp Số Nhân Cốt Lõi - Exponential Technology Growth, Moore's Law, S-Curves & Technology Adoption, Learning Curve, Positive Reinforcement, Recursive Self-Improvement, Data Flywheel, Amplification Spirals, Virtuous Cycles, Momentum, Cumulative Advantage, Matthew Effect
-5. **Feedback Loops** (8): Vòng Lặp Phản Hồi [Động Cơ Tăng Trưởng] - Positive Reinforcement, Recursive Self-Improvement, Data Flywheel, Amplification Spirals, Virtuous Cycles, Momentum, Cumulative Advantage, Matthew Effect
+1. **Core Exponential Principles** (13): Nguyên Lý Cấp Số Nhân Cốt Lõi - Exponential Technology Growth, Moore's Law, S-Curves & Technology Adoption, Learning Curve, Feedback Loops, Positive Reinforcement, Recursive Self-Improvement, Data Flywheel, Amplification Spirals, Virtuous Cycles, Momentum, Cumulative Advantage, Matthew Effect
 2. **Scaling Dynamics** (2): Động Lực Mở Rộng Quy Mô - Power Laws, Winner-Take-All Dynamics
 3. **Replication & Reproduction** (5): Sao Chép & Sinh Sản - Exponential, Exponential Thinking, Compound Effect Mastery, Fractals, Iteration
 4. **Momentum & Acceleration** (3): Quán Tính & Gia Tốc - Fractal Growth, L-System Creativity, Recursive Patterns
 5. **Emergent & Nonlinear Patterns** (4): Mẫu Xuất Hiện & Phi Tuyến - Feedback Acceleration, Process Acceleration, Amplification Systems, System Catalysis
-6. **Recursive & Fractal Structures** (4): Cấu Trúc Đệ Quy & Fractal - Scale What Works, Innovation Scaling, Educational Scaling, The Many
-28. **Replication** (4): Sao Chép [Cơ Chế Tăng Trưởng] - Scale What Works, Innovation Scaling, Educational Scaling, The Many
+6. **Recursive & Fractal Structures** (5): Cấu Trúc Đệ Quy & Fractal - Replication, Scale What Works, Innovation Scaling, Educational Scaling, The Many
 7. **Long-term Evolution** (5): Tiến Hóa Dài Hạn - Activation Energy, Trigger Points, Catalyst, Catalyst Identification, Growth Catalysis
-8. **Intergenerational & Multi-Scale** (8): Liên Thế Hệ & Đa Quy Mô - Emergence Acceleration, Emergence Riding, Capability Emergence, Potential Actualization, Collective Intelligence Surfing, Abundance Mindset, Regenerative Practice, Intergenerational Amplification
-42. **Swarm Intelligence** (4): Trí Tuệ Bầy Đàn [Động Cơ Khuếch Đại] - Collective Intelligence Surfing, Abundance Mindset, Regenerative Practice, Intergenerational Amplification
+8. **Intergenerational & Multi-Scale** (6): Liên Thế Hệ & Đa Quy Mô - Emergence Acceleration, Emergence Riding, Capability Emergence, Potential Actualization, Swarm Intelligence, Collective Intelligence Surfing
+9. **Mindset & Philosophy** (3): Tâm Thế & Triết Lý - Abundance Mindset, Regenerative Practice, Intergenerational Amplification
 
 ---
 
