@@ -30936,13 +30936,12 @@ Sử dụng phản hồi thần kinh để nhận dạng và tối ưu hóa các
 
 Chức năng này là về việc sử dụng hệ thống meta để cải thiện chính hệ thống - khả năng học cách học tốt hơn, tư duy về cách tư duy tốt hơn, và tối ưu hóa chính quá trình tối ưu hóa.
 
-Bao gồm 35 khái niệm được tổ chức thành 7 nhóm chủ đề:
+Bao gồm 35 khái niệm được tổ chức thành 6 nhóm chủ đề:
 
 1. **Core Self-Improvement** (12): Tự Cải Thiện Cốt Lõi - Deliberate Practice of Thinking, Cognitive Upgrade Protocols, Learning Rate Optimization, Error Cultivation, Feedback Loop Optimization, Skill Tree Mapping, Cognitive Tool Building, System Bottleneck Identification, Recursive Learning Loops, Cognitive Refactoring, Performance Benchmarking, Zone of Proximal Development Navigation
-2. **Foundational Recursion** (5): Đệ Quy Nền Tảng - Creating Creation, Integrating Integration, Learning to Learn (Recursive), Meta-Adaptation, Recursive Reasoning
-16. **Meta-Learning (Advanced)** (2): Siêu Học Nâng Cao - Meta-Adaptation, Recursive Reasoning
+2. **Foundational Recursion** (6): Đệ Quy Nền Tảng - Creating Creation, Integrating Integration, Learning to Learn (Recursive), Meta-Learning (Advanced), Meta-Adaptation, Recursive Reasoning
 3. **Progressive Depth** (5): Chiều Sâu Tiến Hóa - Learning → Learning to Learn → Learning How Learning Changes the Learner, Creating → Creating Creation Methods → Creating Meta-Creative Systems, Thinking About Thinking About Thinking, Finding Patterns of Patterns of Patterns, Systematizing Systems of Systems
-4. **Navigation Evolution** (4): Tiến Hóa Điều Hướng - Navigation Learning, Navigation Innovation, Navigation Mastery, Razor Recursion
+4. **Navigation Evolution** (5): Tiến Hóa Điều Hướng - Navigation Learning, Navigation Innovation, Navigation Mastery, Razor Recursion, Meta-Learning Algorithms
 5. **Infinite Iteration** (4): Lặp Lại Vô Hạn - Meta-izing the Meta of Meta, Navigating Infinite Regression, Meta-Systemic Thinking, Egyptian Temple Initiation Rites
 6. **Ultimate Intelligence** (3): Trí Tuệ Tối Thượng - Supreme Intelligence, Meta-Intelligence, Omniscience
 
