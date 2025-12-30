@@ -26515,12 +26515,11 @@ Thực hành thiền Zen sử dụng các câu đố nghịch lý để phá v�
 
 Các bước nhảy lượng tử trong hiểu biết, những thay đổi căn bản trong cách chúng ta nhìn thế giới. Đây là những khoảnh khắc mà mọi thứ được nhìn thấy theo một ánh sáng hoàn toàn mới, dẫn đến sự biến đổi sâu sắc.
 
-Bao gồm 30 khái niệm được tổ chức thành 8 nhóm chủ đề:
+Bao gồm 28 khái niệm được tổ chức thành 7 nhóm chủ đề:
 
 1. **Types of Shifts & Awakenings** (5): Các Loại Chuyển Dịch & Giác Ngộ - Perceptual Shifts, Epistemological Breakthroughs, Existential Transformations, Creative Breakthroughs, Moral and Spiritual Awakenings
-2. **Breakthrough Thinking Methods** (3): Phương Pháp Tư Duy Đột Phá - Breakthrough Thinking, Quantum Thinking, Quantum Leap Reasoning
-3. **Cognitive Mastery & Transcendence** (4): Làm Chủ & Siêu Việt Nhận Thức - Transcendent Cognition, Cognitive Mastery, Transcendent Reasoning, Quantum Reasoning
-10. **Cognitive Sovereignty** (4): Chủ Quyền Nhận Thức - Transcendent Cognition, Cognitive Mastery, Transcendent Reasoning, Quantum Reasoning
+2. **Breakthrough Thinking Methods** (4): Phương Pháp Tư Duy Đột Phá - Breakthrough Thinking, Quantum Thinking, Quantum Leap Reasoning, Evolutionary Reasoning
+3. **Cognitive Mastery & Transcendence** (5): Làm Chủ & Siêu Việt Nhận Thức - Cognitive Sovereignty, Transcendent Cognition, Cognitive Mastery, Transcendent Reasoning, Quantum Reasoning
 4. **Transformation Mechanics** (6): Cơ Chế Chuyển Hóa - Discontinuous Jump, Phase Shift Mastery, Dimensional Breakthrough, Phase Transitions, Critical Moments, Omega Point Creation
 5. **Navigation Protocols** (4): Giao Thức Điều Hướng - Singularity Navigation, Phoenix Protocols, Future Navigation, Transcendent Navigation
 6. **Advanced Consciousness Concepts** (2): Khái Niệm Ý Thức Nâng Cao - Theory of Everything Glimpses, Consciousness Architecture
