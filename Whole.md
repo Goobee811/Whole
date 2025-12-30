@@ -25875,7 +25875,7 @@ Hệ thống logic cho phép cả hai tuyên bố đối lập đều đúng đ�
 
 ---
 
-###  **2. Self-Referential Logical Paradoxes - Nghịch Lý Logic Tự Tham Chiếu**
+### **2. Self-Referential Logical Paradoxes - Nghịch Lý Logic Tự Tham Chiếu**
 
 #### **7. The Liar's Paradox** - Nghịch Lý Người Nói Dối
 
