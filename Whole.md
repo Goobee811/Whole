@@ -25048,14 +25048,13 @@ Cơ chế nhân rộng tác động qua nhiều thế hệ - mỗi thế hệ x�
 
 Chức năng này tập trung vào việc xây dựng các nền tảng và hệ sinh thái - nơi nhiều bên tạo ra và trao đổi giá trị.
 
-Bao gồm 58 khái niệm được tổ chức thành 10 nhóm chủ đề:
+Bao gồm 58 khái niệm được tổ chức thành 9 nhóm chủ đề:
 
 1. **Core Platform Principles** (7): Nguyên Lý Nền Tảng Cốt Lõi - Platform Effects, API Economy, Ecosystem Design, Complementary Assets, Stack Effects, Open Source Leverage, Developer Platform
-2. **Marketplace & Business Models** (4): Mô Hình Thị Trường & Kinh Doanh - Marketplace Design, Franchising, Education as a Multiplier, Community-Led Growth
+2. **Marketplace & Business Models** (6): Mô Hình Thị Trường & Kinh Doanh - Marketplace Design, Franchising, Education as a Multiplier, Community-Led Growth, Cross-Pollination, Convergence
 3. **Platform Architecture & Design** (2): Kiến Trúc & Thiết Kế Nền Tảng - Synergistic Systems, Master Platform Builder
 4. **Ecosystem Development & Community** (7): Phát Triển Hệ Sinh Thái & Cộng Đồng - Platform Catalysis, Metaverse Multiplication, Ecosystem Development, Movement Building, Community Intelligence, Engagement Mechanics, Wisdom Council Practices
-5. **Innovation Systems** (5): Hệ Thống Đổi Mới - Innovation Catalysis, Systematic Innovation, Platform Architecture Design, Design Sprint, Jobs-to-be-Done Platform Design
-25. **Open Innovation** (3): Đổi Mới Mở [Xây Dựng Nền Tảng] - Platform Architecture Design, Design Sprint, Jobs-to-be-Done Platform Design
+5. **Innovation Systems** (6): Hệ Thống Đổi Mới - Innovation Catalysis, Systematic Innovation, Open Innovation, Platform Architecture Design, Design Sprint, Jobs-to-be-Done Platform Design
 6. **Generative & Creative Systems** (5): Hệ Thống Tạo Sinh & Sáng Tạo - Generative Design, Creative Algorithms, Procedural Creation, Prototype Rapidly, Fail Interestingly
 7. **Creative Distribution & Legacy** (14): Phân Phối Sáng Tạo & Di Sản - Festival Circuits, Gallery Systems, Publishing Platforms, Streaming Services, Social Media Arts, Teaching & Transmission, Lineage & Legacy Work, Service as Practice, Missionary Traditions, Dharma Spreading, Spiritual Movement Building, Sacred Activism, Sacred Content Virality, Community Art Practice
 8. **Technology Integration** (5): Tích Hợp Công Nghệ - AI-Augmented Integration, Digital Knowledge Garden, VR/AR Integration, Biofeedback Integration, Quantified Self Integration
