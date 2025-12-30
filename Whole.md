@@ -26930,13 +26930,12 @@ Những trải nghiệm siêu việt gợi lên cảm giác kinh ngạc, kính s
 
 Khám phá trạng thái ý thức nơi sự phân biệt giữa chủ thể và khách thể, giữa bản thân và người khác, giữa phần và toàn thể tan biến. Đây là trải nghiệm về sự thống nhất căn bản của mọi thứ.
 
-Bao gồm 41 khái niệm được tổ chức thành 8 nhóm chủ đề:
+Bao gồm 38 khái niệm được tổ chức thành 7 nhóm chủ đề:
 
 1. **Core Unity Principles** (6): Nguyên Lý Thống Nhất Cốt Lõi - Non-Dual Awareness, Collective Consciousness, Universal Mind, Holographic Universe, Oceanic Feeling, Interbeing
 2. **Ultimate Reality Concepts** (8): Khái Niệm Thực Tại Tối Hậu - The Perennial Philosophy, Cosmic Consciousness, Atman = Brahman, The Tao, Sunyata (Emptiness), The Ground of Being, The Pleroma, Indra's Net
 3. **Cosmic Information & Structure** (6): Thông Tin & Cấu Trúc Vũ Trụ - The Omega Point, Akashic Records, Anima Mundi, Nous, The Unus Mundus, The Implicate Order
-4. **Primordial Unity States** (4): Trạng Thái Thống Nhất Nguyên Thủy - Sat-Chit-Ananda, I AM Presence, Non-dual Consciousness, Unity Consciousness
-21. **The One** (4): Cái Một - Sat-Chit-Ananda, I AM Presence, Non-dual Consciousness, Unity Consciousness
+4. **Primordial Unity States** (5): Trạng Thái Thống Nhất Nguyên Thủy - The One, Sat-Chit-Ananda, I AM Presence, Non-dual Consciousness, Unity Consciousness
 5. **Mystical Union Paths** (5): Con Đường Hợp Nhất Huyền Bí - Unio Mystica, Henosis, Moksha, Cosmic Creativity, Sacred Synthesis
 6. **Integration Practices** (5): Thực Hành Tích Hợp - Non-Dual Integration, Integral Mastery, Wisdom Integration Mastery, Cosmic Integration, Alchemical Union
 7. **Scientific Unity Perspectives** (3): Góc Nhìn Thống Nhất Khoa Học - Quantum Entanglement, Enlightenment/Individuation, Unity Grid Activation
