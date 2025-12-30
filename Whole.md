@@ -31404,20 +31404,15 @@ Trạng thái tri thức hoàn hảo và toàn diện về mọi thứ.
 
 Chức năng này tập trung vào việc thiết kế, phát triển và điều chỉnh các siêu cấu trúc - các khung, mô hình và hệ thống được sử dụng để tổ chức tư duy và tri thức ở cấp độ cao nhất.
 
-Bao gồm 75 khái niệm được tổ chức thành 13 nhóm chủ đề:
+Bao gồm 63 khái niệm được tổ chức thành 8 nhóm chủ đề:
 
 1. **Meta-Framework Architecture** (11): Kiến Trúc Siêu Khung - Framework of Frameworks, Pattern Language, Ontology Engineering, Taxonomy Creation, Mental Model Engineering, Matrix Thinking, Logical Topologies, Knowledge Graph Architecture, Holarchy & Nested Systems, Generative Grammar, Meta-Language Design
-2. **Conceptual Blending & Integration** (14): Pha Trộn Khái Niệm & Tích Hợp - Conceptual Blending Spaces, Dialectical Frameworks, Paradigm Engineering, System Regulation Mechanisms, Conceptual Universe Design, The Master Structure, Wisdom Synthesis, Holographic Integration, Integral Synthesis, System of Systems Integration, Dialectical Transcendence, Meta-Integration Framework, Cross-Paradigm Synthesis, Living Integration
-21. **Consilience** (5): Sự Hội Quy [Nguyên Tắc Xác Thực Framework] - System of Systems Integration, Dialectical Transcendence, Meta-Integration Framework, Cross-Paradigm Synthesis, Living Integration
+2. **Conceptual Blending & Integration** (15): Pha Trộn Khái Niệm & Tích Hợp - Conceptual Blending Spaces, Dialectical Frameworks, Paradigm Engineering, System Regulation Mechanisms, Conceptual Universe Design, The Master Structure, Wisdom Synthesis, Holographic Integration, Integral Synthesis, Consilience, System of Systems Integration, Dialectical Transcendence, Meta-Integration Framework, Cross-Paradigm Synthesis, Living Integration
 3. **Extended Meta-Architecture** (7): Kiến Trúc Meta Mở Rộng - Framework of Frameworks (Extended), Language of Languages, Meta Level, Meta-Reasoning, Meta-Strategy, Meta-Integration (Extended), Meta-Systematic Thinking
-31. **Meta-Strategy**** (2): Siêu Chiến Lược - Meta-Integration (Extended), Meta-Systematic Thinking
 4. **Perspective Engineering** (6): Kỹ Thuật Quan Điểm - Perspective Taking, Reference Frame Shifting, Vantage Point Multiplication, Questioning → Questioning Questions → Questioning the Framework of Questioning, Meta Razor, Meta Lens
-5. **Meta-Navigation & Transformation** (4): Siêu Điều Hướng & Chuyển Hóa - Meta-Wayfinding, Navigation Philosophy, Dimensional Shifting [Trong Tiến Hóa Framework], Integral Navigation
-40. **Meta-Wayfinding**** (3): Siêu Tìm Đường - Navigation Philosophy, Dimensional Shifting [Trong Tiến Hóa Framework], Integral Navigation
-43. **Holographic Navigation** (1): Điều Hướng Toàn Ảnh - Integral Navigation
+5. **Meta-Navigation & Transformation** (5): Siêu Điều Hướng & Chuyển Hóa - Meta-Wayfinding, Navigation Philosophy, Dimensional Shifting, Holographic Navigation, Integral Navigation
 6. **Selection & Optimization Principles** (6): Nguyên Lý Lựa Chọn & Tối Ưu - Razor Selection Razor, Complementarity Razor, Synthesis Razor, Transcendence Razor, Transcending Transcendence, Going Beyond Going Beyond
-7. **Knowledge Foundations & Philosophy** (5): Nền Tảng Tri Thức & Triết Học - Philosophy of Mathematics, Historiography & Meta-history, Critical Theory, Tree of Life Structure, Egyptian Temple Initiation Rites (Foundation)
-52. **Anthropic Principle** (4): Nguyên Lý Nhân Trạng [Strong Version - Participatory Universe] - Historiography & Meta-history, Critical Theory, Tree of Life Structure, Egyptian Temple Initiation Rites (Foundation)
+7. **Knowledge Foundations & Philosophy** (6): Nền Tảng Tri Thức & Triết Học - Philosophy of Mathematics, Anthropic Principle, Historiography & Meta-history, Critical Theory, Tree of Life Structure, Egyptian Temple Initiation Rites (Foundation)
 8. **Creative & Cultural Analysis** (7): Phân Tích Sáng Tạo & Văn Hóa - Art Theory & Criticism, Aesthetics Philosophy, Creative Process Studies, Performance Studies, Medium Theory, Semiotics in Arts (Framework), Cultural Analysis (Framework)
 
 ---
