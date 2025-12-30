@@ -29367,18 +29367,14 @@ Siêu Tầng này chứa các khái niệm, quy trình và cấu trúc để qua
 
 Chức năng này bao gồm các quy trình tư duy về chính tư duy - khả năng tự quan sát, giám sát và điều chỉnh các hoạt động nhận thức của bản thân trong thời gian thực. Đây là nền tảng của sự tự chủ nhận thức và học tập có ý thức.
 
-Bao gồm 42 khái niệm được tổ chức thành 11 nhóm chủ đề:
+Bao gồm 39 khái niệm được tổ chức thành 7 nhóm chủ đề:
 
-1. **Core Meta-Cognition & Self-Awareness** (3): Nền Tảng Siêu Nhận Thức & Tự Nhận Biết - Metacognition, Meta-Cognitive Flexibility Awareness, Awareness of Bias
-2. **Meta-Learning** (2): Siêu Học Tập - Meta-Cognitive Flexibility Awareness, Awareness of Bias
-2. **Meta-Learning & Reflective Growth** (4): Siêu Học Tập & Phát Triển Phản Tư - Intellectual Humility, Mental Model Awareness, Thinking About Thinking, Attentional Control
-6. **Cognitive Load Management** (3): Quản Lý Tải Nhận Thức [Siêu Nhận Thức] - Mental Model Awareness, Thinking About Thinking, Attentional Control
-3. **Cognitive Monitoring & Regulation** (4): Giám Sát & Điều Tiết Nhận Thức - Reflective Practice, Emotional Awareness in Cognition, Meta-Attention, Growth Mindset in Meta-Cognition
-13. **Cognitive Sovereignty** (1): Chủ Quyền Nhận Thức - Growth Mindset in Meta-Cognition
+1. **Core Meta-Cognition & Self-Awareness** (4): Nền Tảng Siêu Nhận Thức & Tự Nhận Biết - Metacognition, Meta-Learning, Meta-Cognitive Flexibility Awareness, Awareness of Bias
+2. **Meta-Learning & Reflective Growth** (5): Siêu Học Tập & Phát Triển Phản Tư - Intellectual Humility, Cognitive Load Management, Mental Model Awareness, Thinking About Thinking, Attentional Control
+3. **Cognitive Monitoring & Regulation** (5): Giám Sát & Điều Tiết Nhận Thức - Reflective Practice, Emotional Awareness in Cognition, Meta-Attention, Growth Mindset in Meta-Cognition, The Master Meta-Skill
 4. **Wisdom, Humility & Sovereignty** (1): Trí Tuệ, Khiêm Tốn & Chủ Quyền - The Master Meta-Skill
 5. **Witness Consciousness & Pure Awareness** (9): Ý Thức Chứng Kiến & Nhận Thức Thuần Khiết - Observing Observation, Learning to Learn, Metacognition, Meta-Awareness, Witness Consciousness, The Witness, Primordial Awareness, Direct Knowing/Gnosis, Sati
-6. **Universal Consciousness & Perspectives** (6): Ý Thức Vũ Trụ & Các Quan Điểm - Universal Intelligence, Cosmic Mind, Meta-State Awareness, First to Seventh & Nth Person Perspective, Recursive Consciousness, Know Thyself
-30. **Observer Effect** (1): Hiệu Ứng Người Quan Sát [Công Cụ Siêu Nhận Thức] - Know Thyself
+6. **Universal Consciousness & Perspectives** (7): Ý Thức Vũ Trụ & Các Quan Điểm - Universal Intelligence, Cosmic Mind, Meta-State Awareness, First to Seventh & Nth Person Perspective, Recursive Consciousness, Observer Effect, Know Thyself
 7. **Scientific Frameworks & Contemplative Practices** (8): Khung Lý Thuyết Khoa Học & Thực Hành Thiền Quán - Philosophy of Mind, Cybernetics & Control Theory, Second-order Cybernetics, Reflexive Sociology, Transcendental Meditation, Contemplative Science Methods, Hypnagogic State Work, Neurofeedback Training
 
 ---
