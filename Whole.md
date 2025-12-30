@@ -27517,13 +27517,10 @@ Khái niệm về việc kích hoạt một mạng lưới năng lượng hoặc
 
 Sự biến đổi hoàn toàn của các hệ thống - cá nhân, tổ chức, xã hội - từ một trạng thái tồn tại này sang một trạng thái khác. Giống như sự biến thái của sâu bướm thành bướm, đây là những thay đổi không thể đảo ngược và mang tính chuyển đổi.
 
-Bao gồm 63 khái niệm được tổ chức thành 10 nhóm chủ đề:
+Bao gồm 52 khái niệm được tổ chức thành 7 nhóm chủ đề:
 
 1. **Core Transformation Principles** (5): Nguyên Lý Biến Đổi Cốt Lõi - Personal Metamorphosis, Collective Evolution, Organizational Transformation, Cultural Metamorphosis, Civilizational Transformation
-2. **Pattern Recognition & Structural Dynamics** (8): Nhận Diện Mẫu Hình & Động Lực Cấu Trúc - Self-similarity Across Scales, Micro-patterns in Macro-systems, "As Above, So Below" Dynamics, Power Laws, Universality Classes, Cycles within Cycles, Spiral Development, Punctuated Equilibrium
-9. **Holographic Principle** (5): Nguyên Lý Toàn Ảnh [Trải Nghiệm Thống Nhất] - Power Laws, Universality Classes, Cycles within Cycles, Spiral Development, Punctuated Equilibrium
-10. **Recursive Structures** (5): Cấu Trúc Đệ Quy [Trong Biến Đổi Hệ Thống] - Power Laws, Universality Classes, Cycles within Cycles, Spiral Development, Punctuated Equilibrium
-12. **Scale-free Networks** (4): Mạng Lưới Không Quy Mô [Bản Chất Phổ Quát] - Universality Classes, Cycles within Cycles, Spiral Development, Punctuated Equilibrium
+2. **Pattern Recognition & Structural Dynamics** (11): Nhận Diện Mẫu Hình & Động Lực Cấu Trúc - Self-similarity Across Scales, Micro-patterns in Macro-systems, "As Above, So Below" Dynamics, Holographic Principle, Recursive Structures, Power Laws, Scale-free Networks, Universality Classes, Cycles within Cycles, Spiral Development, Punctuated Equilibrium
 3. **Field Theory & Force Dynamics** (6): Lý Thuyết Trường & Động Lực Lực - Morphic Fields, Interference Patterns, Many Worlds Interpretation, Wormholes, Higher Dimensions, Black Hole Singularities
 4. **Intelligence & Adaptive Systems** (8): Trí Tuệ & Hệ Thống Thích Ứng - Flow-State Engineering, Integral Reasoning, Systems Wisdom, Temporal Wisdom, Ultimate Integration, Adaptive Navigation Systems, Emergent Navigation, Transcendent Co-evolution
 5. **Human Evolution & Consciousness Transformation** (12): Tiến Hóa Con Người & Biến Đổi Ý Thức - Peak Experiences & Flow States, Near-Death Experiences, Spiritual Emergency, Post-human Futures, Death and Rebirth Practice, Vision Quest & Initiation, Plant Medicine Integration, Quantum Healing Modalities, Future Self Work, Shamanic Energy Medicine, Etheric Surgery & Archetype Work, Consciousness-based Energy Healing
