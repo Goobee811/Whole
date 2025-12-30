@@ -25766,19 +25766,15 @@ Miền này khám phá các trạng thái, nguyên lý và thực hành để v�
 
 Khả năng giữ và hợp nhất các ý tưởng, thực tại có vẻ đối lập cùng một lúc. Nghệ thuật biến mâu thuẫn thành nguồn sức mạnh và sáng tạo, vượt qua tư duy "hoặc/hoặc" để đạt đến sự thống nhất cao hơn.
 
-Bao gồm 75 khái niệm được tổ chức thành 11 nhóm chủ đề:
+Bao gồm 35 khái niệm được tổ chức thành 7 nhóm chủ đề:
 
-1. **Core Both/And & Non-Dual Principles** (9): Nguyên Lý Cốt Lõi Vừa/Và & Bất Nhị - Paradoxical Intention, Zen Koans, Negative Capability, Both/And Logic, The Liar's Paradox, Epimenides Paradox, Gödel's Incompleteness Theorems, Aporia, The Unexpected Hanging Paradox
-1. **Both/And Thinking** (9): Tư Duy Vừa/Và [Nguyên Lý Siêu Việt] - Paradoxical Intention, Zen Koans, Negative Capability, Both/And Logic, The Liar's Paradox, Epimenides Paradox, Gödel's Incompleteness Theorems, Aporia, The Unexpected Hanging Paradox
-5. **Complementarity Thinking** (6): Tư Duy Bổ Sung - Both/And Logic, The Liar's Paradox, Epimenides Paradox, Gödel's Incompleteness Theorems, Aporia, The Unexpected Hanging Paradox
+1. **Core Both/And & Non-Dual Principles** (6): Nguyên Lý Cốt Lõi Vừa/Và & Bất Nhị - Both/And Thinking, Paradoxical Intention, Zen Koans, Negative Capability, Complementarity Thinking, Both/And Logic
+2. **Self-Referential Logical Paradoxes** (5): Nghịch Lý Logic Tự Tham Chiếu - The Liar's Paradox, Epimenides Paradox, Gödel's Incompleteness Theorems, Aporia, The Unexpected Hanging Paradox
 3. **Philosophical Identity & Change** (3): Bản Sắc & Thay Đổi Triết Học - The Ship of Theseus, Heraclitus' Unity of Opposites, The Sorites Paradox
 4. **Practical Decision Paradoxes** (5): Nghịch Lý Quyết Định Thực Tiễn - Paradox of Choice, Buridan's Ass, The Paradox of Tolerance, The Paradox of Thrift, Paradoxical Intention
 5. **Eastern Wisdom & Via Negativa** (5): Trí Tuệ Phương Đông & Con Đường Phủ Định - Zen Koans, The Middle Way, Koan Meditation, Via Negativa, Negative Capability
-6. **Quantum Reality & Temporal Paradoxes** (5): Thực Tại Lượng Tử & Nghịch Lý Thời Gian - Schrödinger's Cat, Wave-Particle Duality, Uncertainty Principle, Complementarity Principle, Retroactive Causality
-27. **Quantum Superposition** (3): Chồng Chập Lượng Tử [Giải Quyết Nghịch Lý] - Uncertainty Principle, Complementarity Principle, Retroactive Causality
-7. **Advanced Consciousness Integration** (17): Tích Hợp Ý Thức Cao Cấp - Paradox Consciousness, Non-dual Wisdom, Non-dual Processing, Holding Multiple Contradictory Ideas, Dialectical Integration, Paradoxical Reasoning, Non-Dual Thinking, Paradox Consciousness, Non-dual Wisdom, Non-dual Processing, Both/And Logic, Uncertainty Principle, Retroactive Causality, Wave-Particle Duality, Holding Multiple Contradictory Ideas, Dialectical Integration, Koan Meditation
-24. **Complementarity Thinking** (10): Tư Duy Bổ Sung - Paradox Consciousness, Non-dual Wisdom, Non-dual Processing, Both/And Logic, Uncertainty Principle, Retroactive Causality, Wave-Particle Duality, Holding Multiple Contradictory Ideas, Dialectical Integration, Koan Meditation
-32. **Quantum Superposition** (3): Chồng Chập Lượng Tử [Giải Quyết Nghịch Lý] - Holding Multiple Contradictory Ideas, Dialectical Integration, Koan Meditation
+6. **Quantum Reality & Temporal Paradoxes** (6): Thực Tại Lượng Tử & Nghịch Lý Thời Gian - Schrödinger's Cat, Wave-Particle Duality, Quantum Superposition, Uncertainty Principle, Complementarity Principle, Retroactive Causality
+7. **Advanced Consciousness Integration** (5): Tích Hợp Ý Thức Cao Cấp - Paradox Consciousness, Non-dual Wisdom, Non-dual Processing, Holding Multiple Contradictory Ideas, Dialectical Integration
 
 ---
 
