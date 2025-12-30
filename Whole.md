@@ -30291,19 +30291,14 @@ Sử dụng phản hồi thần kinh để quan sát và điều chỉnh hoạt 
 
 Chức năng này là về việc phát hiện các mẫu hình, cấu trúc và nguyên lý chung xuyên suốt nhiều lĩnh vực tư duy và tri thức khác nhau - khả năng nhìn thấy sự tương đồng trong sự khác biệt.
 
-Bao gồm 52 khái niệm được tổ chức thành 11 nhóm chủ đề:
+Bao gồm 41 khái niệm được tổ chức thành 6 nhóm chủ đề:
 
-1. **Core Pattern Recognition** (10): Nhận Dạng Mẫu Hình Cốt Lõi - Cross-Domain Pattern Detection, Meta-Pattern Recognition, Archetypal Thinking, Isomorphism Detection, Systems Archetypes, Gestalt Perception, Rhythmic Patterns, Information Theory Patterns, Causality Patterns, Emergence Recognition
-5. **Fractal Thinking** (6): Tư Duy Fractal [Meta-Nhận Thức] - Systems Archetypes, Gestalt Perception, Rhythmic Patterns, Information Theory Patterns, Causality Patterns, Emergence Recognition
-6. **Network Thinking** (6): Tư Duy Mạng Lưới - Systems Archetypes, Gestalt Perception, Rhythmic Patterns, Information Theory Patterns, Causality Patterns, Emergence Recognition
-10. **Symmetry & Asymmetry** (3): Đối Xứng & Bất Đối Xứng [Công Cụ Meta-Nhận Thức] - Information Theory Patterns, Causality Patterns, Emergence Recognition
-2. **Meta-Pattern & Abstraction** (5): Siêu Mẫu Hình & Trừu Tượng Hóa - Pattern of Patterns, Space of Spaces, Time of Times, Meta-Synthesis, Levels of Description
-18. **Abstraction Ladder** (1): Thang Trừu Tượng [Công Cụ Meta-Nhận Thức] - Levels of Description
+1. **Core Pattern Recognition** (13): Nhận Dạng Mẫu Hình Cốt Lõi - Cross-Domain Pattern Detection, Meta-Pattern Recognition, Archetypal Thinking, Isomorphism Detection, Fractal Thinking, Network Thinking, Pattern Language, Systems Archetypes, Gestalt Perception, Rhythmic Patterns, Information Theory Patterns, Causality Patterns, Emergence Recognition
+2. **Meta-Pattern & Abstraction** (6): Siêu Mẫu Hình & Trừu Tượng Hóa - Pattern of Patterns, Space of Spaces, Time of Times, Meta-Synthesis, Abstraction Ladder, Levels of Description
 3. **Cognitive Architecture** (7): Kiến Trúc Nhận Thức - Holographic Mind, Parallel Processing Mind, Hypergraph Thinking, Category Theory Mind, Topos Consciousness, Dimensional Analysis, Scale Thinking
-4. **Information Field** (4): Trường Thông Tin - Information Field Theory, Akashic Access, Noospheric Interface, Information Theory
+4. **Information Field** (5): Trường Thông Tin - Information Field Theory, Akashic Access, Noospheric Interface, Information Theory, Holographic Principle
 5. **Knowledge Systems** (5): Hệ Thống Tri Thức - Complexity Science Overview, Category Theory (Applied), Comparative Methodologies, Media Ecology Theory, Reflexive Sociology (Knowledge Focus)
-6. **Applied Recognition** (4): Nhận Dạng Ứng Dụng - Semiotics in Arts, Cultural Analysis, Holographic Mind Training, Neurofeedback Training (Pattern Focus)
-40. **Integral Research Methods** (1): Phương Pháp Nghiên Cứu Toàn Diện [Khung Nhận Thức] - Neurofeedback Training (Pattern Focus)
+6. **Applied Recognition** (5): Nhận Dạng Ứng Dụng - Semiotics in Arts, Cultural Analysis, Holographic Mind Training, Integral Research Methods, Neurofeedback Training (Pattern Focus)
 
 ---
 
