@@ -7,13 +7,13 @@ argument-hint: [function-number 1-50]
 
 ```bash
 /reconcile 6        # Reconcile CF6 (direct push to main)
-/reconcile 11 --pr  # Reconcile CF11 with auto PR creation
-/reconcile --pr     # Auto-detect next + create PR
+/reconcile 11 --pr  # Reconcile CF11 with PR + auto-merge
+/reconcile --pr     # Auto-detect next + PR + auto-merge
 /reconcile          # Auto-detect next pending from progress
 ```
 
 ### Flags
-- `--pr` : Create a PR instead of direct push (recommended for significant changes)
+- `--pr` : Create PR → Auto-merge → Pull to main (fully automated)
 - No flag: Direct commit & push to main (default, for quick fixes)
 
 ---
@@ -233,19 +233,37 @@ EOF
 git checkout main
 ```
 
-### Phase 7b: AUTO-PR MODE (--pr flag)
+### Phase 7b: AUTO-PR MODE (--pr flag) - FULLY AUTOMATED
 
-When `/reconcile [N] --pr` is used, automatically:
+When `/reconcile [N] --pr` is used, execute this **COMPLETE WORKFLOW AUTOMATICALLY**:
 
-1. **Branch naming**: `reconcile/cf[N]-[domain-abbrev]`
-   - Example: `reconcile/cf35-validation`
+```bash
+# Step 1: Create feature branch
+git checkout -b reconcile/cf[N]-[domain-abbrev]
 
-2. **Auto-detect PR necessity**:
-   - Lines changed > 20 → Suggest PR
-   - Strategy [A] or [H] → Suggest PR (content reorganization)
-   - Strategy [B] or [S] → Direct push OK
+# Step 2: Stage and commit changes
+git add Whole.md
+git commit -m "reconcile(CF[N]): Fix Tổng Quan for [Function Name]..."
 
-3. **PR Template**:
+# Step 3: Push branch to origin
+git push -u origin reconcile/cf[N]-[domain-abbrev]
+
+# Step 4: Create PR with auto-merge label
+gh pr create --title "reconcile(CF[N]): [Function Name]" --body "..."
+
+# Step 5: AUTO-MERGE the PR immediately
+gh pr merge --merge --delete-branch
+
+# Step 6: Return to main and pull latest
+git checkout main
+git pull origin main
+```
+
+**Branch Naming Convention:**
+- Format: `reconcile/cf[N]-[domain-abbrev]`
+- Example: `reconcile/cf35-validation`, `reconcile/cf37-amplification`
+
+**PR Template:**
 ```markdown
 ## 🔄 Reconcile CF[N]: [Function Name]
 
@@ -259,11 +277,16 @@ Strategy [X]: [Description]
 - Before: [X] concepts / [Y] groups (claimed)
 - After: [X] concepts / [Y] groups (actual)
 
-### Checklist
-- [ ] Tổng Quan matches ### headers
-- [ ] Continuous numbering preserved
-- [ ] Bilingual format correct
-- [ ] No content deleted
+### Auto-Merge
+This PR will be automatically merged after creation.
+```
+
+**Output After Completion:**
+```
+[PR] Created: #[number]
+[MERGE] Auto-merged ✓
+[PULL] main updated ✓
+[DONE] CF[N] reconciled and merged
 ```
 
 ---
@@ -382,26 +405,29 @@ Strategy [X]: [Description]
 [DONE] CF[N] reconciled | Next: CF[N+1]
 ```
 
-### PR Mode (--pr flag)
+### PR Mode (--pr flag) - Full Auto-Merge
 ```
 [RECONCILE] CF[N] | [DOMAIN] - [Function Name] | --pr mode
 [READ] Lines [start]-[end] | [total] concepts
 
 [ANALYSIS]
-┌─ TỔNG QUAN: [M] groups
-│  Coherence: ⭐⭐⭐⭐☆ | Balance: ⭐⭐⭐☆☆ | Natural: ⭐⭐⭐⭐⭐
+┌─ TỔNG QUAN: [M] groups (claimed [X] concepts)
+│  Issue: [describe corruption/mismatch]
 │
-└─ CONTENT: [M] groups
-   Coherence: ⭐⭐⭐☆☆ | Balance: ⭐⭐⭐⭐☆ | Natural: ⭐⭐⭐☆☆
+└─ CONTENT: [M] groups (actual [X] concepts)
+   Status: [✓ verified structure]
 
-[DECISION] [A/B/C/H] - [Short reasoning]
+[DECISION] [A/B/C/H/S] - [Short reasoning]
 [EXECUTE] [Changes made]
-[BRANCH] reconcile/cf[N]-[slug]
-[COMMIT] [hash] | [message]
-[PR] #[number] | [PR URL]
-[DONE] CF[N] PR created | Review at: [URL]
+[BRANCH] reconcile/cf[N]-[slug] ✓
+[COMMIT] [hash] ✓
+[PUSH] origin/reconcile/cf[N]-[slug] ✓
+[PR] #[number] created ✓
+[MERGE] Auto-merged ✓
+[PULL] main updated ✓
+[DONE] CF[N] fully reconciled and merged to main
 ```
 
 ---
 
-**Version:** 5.1.0 | **Philosophy:** Analyze first, decide with reasoning | **New:** Auto-PR support with `--pr` flag
+**Version:** 5.2.0 | **Philosophy:** Analyze first, decide with reasoning | **New:** Full auto-merge workflow with `--pr` flag
