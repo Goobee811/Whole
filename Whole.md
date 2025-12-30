@@ -29939,14 +29939,12 @@ Kỹ thuật huấn luyện não bộ thông qua phản hồi thời gian thực
 
 Chức năng này tập trung vào khả năng quan sát hệ thống tư duy của chính mình như một đối tượng - nhìn vào các mẫu hình, chu kỳ, điểm mạnh và điểm yếu của hệ thống nhận thức cá nhân.
 
-Bao gồm 28 khái niệm được tổ chức thành 7 nhóm chủ đề:
+Bao gồm 26 khái niệm được tổ chức thành 5 nhóm chủ đề:
 
 1. **Core Self-Observation Methods** (9): Phương Pháp Tự Quan Sát Cốt Lõi - Self-Observation Protocol, Pattern Recognition in Self, Cognitive Strengths & Weaknesses Analysis, Thought Stream Observation, Cognitive Rhythm Tracking, Meta-Memory Monitoring, Decision-Making Patterns, Reflexivity, Internal Dialogue Analysis
 2. **System Dynamics & Ecology** (3): Động Lực Hệ Thống & Sinh Thái - Cognitive State Transitions, System Architecture Awareness, Cognitive Ecology
 3. **Recursive & Reflexive Observation** (5): Quan Sát Đệ Quy & Phản Tư - Observing, Observing the Observer, Observing the Process of Observation, Self-referential Loops, Observer Effect (Detailed)
-4. **Meta-Learning & Feedback Systems** (3): Siêu Học Tập & Hệ Thống Phản Hồi - Learning to Learn (System Focus), Reflection Protocols, Contemplative Integration
-19. **Meta-Learning from Errors** (2): Siêu Học Từ Lỗi - Reflection Protocols, Contemplative Integration
-20. **Meta-Feedback** (2): Siêu Phản Hồi [Tối Ưu Hóa Vòng Phản Hồi] - Reflection Protocols, Contemplative Integration
+4. **Meta-Learning & Feedback Systems** (5): Siêu Học Tập & Hệ Thống Phản Hồi - Learning to Learn (System Focus), Meta-Learning from Errors, Meta-Feedback, Reflection Protocols, Contemplative Integration
 5. **Control Theory & Practice** (4): Lý Thuyết Kiểm Soát & Thực Hành - Cybernetics, Control Theory, Reflexive Sociology (Methodological), Neurofeedback Training (System Focus)
 
 ---
