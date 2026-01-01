@@ -6866,8 +6866,8 @@ Bao gồm 49 khái niệm được tổ chức thành 8 nhóm chủ đề:
 2. **Emotional Regulation & Shadow Work** (6): Điều Chỉnh Cảm Xúc & Công Việc Bóng Tối - Emotional Regulation, Emotional Contagion, Affective Forecasting, Emotional Labor, Emotional Momentum, Shadow Work
 3. **Energy, Arousal & Performance States** (6): Năng Lượng, Hưng Phấn & Trạng Thái - Arousal Dynamics, Energy Management, Stress Dynamics, Flow & Immersion, Peak Experience, Burnout Dynamics
 4. **Motivation, Resilience & Growth** (5): Động Lực, Phục Hồi & Phát Triển - Motivational Dynamics, Resilience Building, Passion & Purpose, Psychological Safety, Patience Cultivation
-5. **Primordial & Universal Energy** (5): Năng Lượng Nguyên Thủy & Vũ Trụ - Primordial Energy (Shakti), Life Force (Prana/Qi/Ki), Kundalini, Entropy & Negentropy, Quantum Wave-Particle Duality
-6. **Traditional Energy Systems** (10): Hệ Thống Năng Lượng Truyền Thống - Chakra Integration, Meridian Integration, Biofield Integration, Grounding Integration, Five Elements, Buddhist Dependent Origination, Taoist Yin-Yang, I Ching (Book of Changes), Sufi Stations of Soul, Norse Wyrd & Orlog
+5. **Fundamental Energy Dynamics** (5): Động Lực Năng Lượng Cơ Bản - Primordial Energy (Shakti), Life Force (Prana/Qi/Ki), Kundalini, Entropy & Negentropy, Quantum Wave-Particle Duality
+6. **Traditional Energy System Dynamics** (10): Động Lực Hệ Thống Năng Lượng Truyền Thống - Chakra Integration, Meridian Integration, Biofield Integration, Grounding Integration, Five Elements, Buddhist Dependent Origination, Taoist Yin-Yang, I Ching (Book of Changes), Sufi Stations of Soul, Norse Wyrd & Orlog
 7. **Movement, Embodiment & Performance** (7): Chuyển Động, Hiện Thân & Biểu Diễn - 5Rhythms Movement, Improvisation, Kinetic Art & Architecture, Movement Dynamics (Dance, Circus), Temporal Arts (Film, Performance), Interactive & Responsive Design, Live Performance Energy
 8. **Energy Practices & Applications** (3): Thực Hành & Ứng Dụng Năng Lượng - Breathwork Energy Practices, Silence Practice, Complexity Science Applications
 
@@ -7158,7 +7158,7 @@ Phát triển khả năng chờ đợi và cho phép mọi thứ triển khai t�
 
 → **Liên kết:** NAVIGATION (Timing Wisdom), INTEGRATION (Acceptance)
 
-### **5. Primordial & Universal Energy - Năng Lượng Nguyên Thủy & Vũ Trụ**
+### **5. Fundamental Energy Dynamics - Động Lực Năng Lượng Cơ Bản**
 
 Các khái niệm và nguyên lý về năng lượng nguyên thủy & vũ trụ.
 
@@ -7217,7 +7217,7 @@ Thực tại cơ bản thể hiện cả tính chất sóng và hạt.
 
 → **Liên kết:** FOUNDATIONS (Quantum Principles), TRANSCENDENCE (Paradox)
 
-### **6. Traditional Energy Systems - Hệ Thống Năng Lượng Truyền Thống**
+### **6. Traditional Energy System Dynamics - Động Lực Hệ Thống Năng Lượng Truyền Thống**
 
 Các hệ thống liên quan đến hệ thống năng lượng truyền thống.
 
