@@ -648,7 +648,7 @@ Nghiên cứu về cấu trúc, nguồn gốc và tiến hóa của vũ trụ.
 
 Các định luật phổ quát và mẫu hình là những cấu trúc lặp lại, các mô hình tư duy và quy luật vận hành được quan sát thấy ở nhiều lĩnh vực khác nhau - từ vật lý đến xã hội học, từ tâm lý học đến kinh tế học.
 
-Bao gồm 63 khái niệm được tổ chức thành 12 nhóm chủ đề:
+Bao gồm 63 khái niệm được tổ chức thành 13 nhóm chủ đề:
 
 1. **Thinking Models & Mental Frameworks** (9): Mô Hình Tư Duy & Khung Tinh Thần - Mental Models, Systems Thinking, Network Thinking, Abstraction Ladder, Fractal Thinking, Probabilistic Thinking, Map-Territory Distinction, Second-Order Thinking, Inversion
 2. **System Robustness & Constraints** (4): Độ Vững Chắc Hệ Thống & Ràng Buộc - Leverage, Margin of Safety, Redundancy, Bottlenecks
@@ -660,8 +660,9 @@ Bao gồm 63 khái niệm được tổ chức thành 12 nhóm chủ đề:
 8. **Evolutionary Dynamics** (2): Động Lực Tiến Hóa - Red Queen Effect, Punctuated Equilibrium
 9. **Cognitive Biases & Behavioral Patterns** (7): Thiên Kiến Nhận Thức & Mô Thức Hành Vi - Dunning-Kruger Effect, Pygmalion Effect, Butterfly Effect, Cargo Cult, Streetlight Effect, Boiling Frog, Procrustean Bed
 10. **Hermetic & Sacred Principles** (2): Nguyên Lý Hermetic & Thiêng Liêng - As Above So Below, Kybalion Principles
-11. **Sacred Arts & Aesthetic Patterns** (11): Nghệ Thuật Thiêng Liêng & Mô Thức Thẩm Mỹ - Sacred Geometry, Mandala Art, Islamic Patterns, Yantra Design, Fractal Art, Harmony & Counterpoint, Rhythm & Time, Form & Structure, Overtone Singing, Color Theory, Classical Orders
-12. **Meta-Patterns & Universal Structures** (4): Mô Thức Siêu Việt & Cấu Trúc Phổ Quát - Universal Grammar, Archetype Activation, Universal Principles Mining, Holonomic Understanding
+11. **Sacred Visual Arts** (5): Nghệ Thuật Thị Giác Thiêng Liêng - Sacred Geometry, Mandala Art, Islamic Patterns, Yantra Design, Fractal Art
+12. **Musical & Architectural Patterns** (6): Mô Thức Âm Nhạc & Kiến Trúc - Harmony & Counterpoint, Rhythm & Time, Form & Structure, Overtone Singing, Color Theory, Classical Orders
+13. **Meta-Patterns & Universal Structures** (4): Mô Thức Siêu Việt & Cấu Trúc Phổ Quát - Universal Grammar, Archetype Activation, Universal Principles Mining, Holonomic Understanding
 
 ---
 
@@ -1429,9 +1430,9 @@ Bảy nguyên lý Hermetic cơ bản: Mentalism, Correspondence, Vibration, Pola
 
 → **Liên kết:** FOUNDATIONS (Universal Principles), TRANSCENDENCE (Hermetic Wisdom)
 
-### **11. Sacred Arts & Aesthetic Patterns - Nghệ Thuật Thiêng Liêng & Mô Thức Thẩm Mỹ**
+### **11. Sacred Visual Arts - Nghệ Thuật Thị Giác Thiêng Liêng**
 
-Các nghệ thuật thiêng liêng và mô thức thẩm mỹ phổ quát.
+Các nghệ thuật thị giác thiêng liêng và hình học.
 
 #### **49. Sacred Geometry Base Principles - Nguyên Lý Hình Học Thiêng Liêng**
 
@@ -1487,6 +1488,10 @@ Nghệ thuật dựa trên các mẫu hình tự lặp lại ở nhiều quy mô
 - **Mathematical Aesthetics**: Thẩm mỹ toán học
 
 → **Liên kết:** CREATION (Generative Art), FOUNDATIONS (Fractal Thinking)
+
+### **12. Musical & Architectural Patterns - Mô Thức Âm Nhạc & Kiến Trúc**
+
+Các mô thức âm nhạc và kiến trúc.
 
 #### **54. Harmony & Counterpoint** - Hòa Âm & Đối Điểm
 
@@ -1554,7 +1559,7 @@ Các hệ thống tỷ lệ trong kiến trúc cổ điển.
 
 → **Liên kết:** CREATION (Architecture), FOUNDATIONS (Sacred Geometry)
 
-### **12. Meta-Patterns & Universal Structures - Mô Thức Siêu Việt & Cấu Trúc Phổ Quát**
+### **13. Meta-Patterns & Universal Structures - Mô Thức Siêu Việt & Cấu Trúc Phổ Quát**
 
 Các mô thức siêu việt và cấu trúc phổ quát xuyên suốt mọi lĩnh vực.
 
@@ -27531,15 +27536,17 @@ Khái niệm về việc kích hoạt một mạng lưới năng lượng hoặc
 
 Sự biến đổi hoàn toàn của các hệ thống - cá nhân, tổ chức, xã hội - từ một trạng thái tồn tại này sang một trạng thái khác. Giống như sự biến thái của sâu bướm thành bướm, đây là những thay đổi không thể đảo ngược và mang tính chuyển đổi.
 
-Bao gồm 52 khái niệm được tổ chức thành 7 nhóm chủ đề:
+Bao gồm 52 khái niệm được tổ chức thành 9 nhóm chủ đề:
 
 1. **Core Transformation Principles** (5): Nguyên Lý Biến Đổi Cốt Lõi - Personal Metamorphosis, Collective Evolution, Organizational Transformation, Cultural Metamorphosis, Civilizational Transformation
-2. **Pattern Recognition & Structural Dynamics** (11): Nhận Diện Mẫu Hình & Động Lực Cấu Trúc - Self-similarity Across Scales, Micro-patterns in Macro-systems, "As Above, So Below" Dynamics, Holographic Principle, Recursive Structures, Power Laws, Scale-free Networks, Universality Classes, Cycles within Cycles, Spiral Development, Punctuated Equilibrium
-3. **Field Theory & Force Dynamics** (6): Lý Thuyết Trường & Động Lực Lực - Morphic Fields, Interference Patterns, Many Worlds Interpretation, Wormholes, Higher Dimensions, Black Hole Singularities
-4. **Intelligence & Adaptive Systems** (8): Trí Tuệ & Hệ Thống Thích Ứng - Flow-State Engineering, Integral Reasoning, Systems Wisdom, Temporal Wisdom, Ultimate Integration, Adaptive Navigation Systems, Emergent Navigation, Transcendent Co-evolution
-5. **Human Evolution & Consciousness Transformation** (12): Tiến Hóa Con Người & Biến Đổi Ý Thức - Peak Experiences & Flow States, Near-Death Experiences, Spiritual Emergency, Post-human Futures, Death and Rebirth Practice, Vision Quest & Initiation, Plant Medicine Integration, Quantum Healing Modalities, Future Self Work, Shamanic Energy Medicine, Etheric Surgery & Archetype Work, Consciousness-based Energy Healing
-6. **Scientific Frontiers & Exploration** (4): Biên Giới Khoa Học & Khám Phá - Consciousness Studies, SETI Research, Noetic Science, Morphogenetic Field Research
-7. **Creative Innovation & Expression** (6): Đổi Mới Sáng Tạo & Biểu Đạt - Transformative Theatre, Visionary Art, Psychedelic Art/Film, Sacred & Ritual Arts, Ecstatic Dance, Sound Healing Frequencies
+2. **Fractal & Self-Similarity Patterns** (6): Mô Thức Fractal & Tự Tương Đồng - Self-similarity Across Scales, Micro-patterns in Macro-systems, "As Above, So Below" Dynamics, Holographic Principle, Recursive Structures, Universality Classes
+3. **Growth & Evolution Dynamics** (5): Động Lực Tăng Trưởng & Tiến Hóa - Power Laws, Scale-free Networks, Cycles within Cycles, Spiral Development, Punctuated Equilibrium
+4. **Field Theory & Force Dynamics** (6): Lý Thuyết Trường & Động Lực Lực - Morphic Fields, Interference Patterns, Many Worlds Interpretation, Wormholes, Higher Dimensions, Black Hole Singularities
+5. **Intelligence & Adaptive Systems** (8): Trí Tuệ & Hệ Thống Thích Ứng - Flow-State Engineering, Integral Reasoning, Systems Wisdom, Temporal Wisdom, Ultimate Integration, Adaptive Navigation Systems, Emergent Navigation, Transcendent Co-evolution
+6. **Consciousness States & Peak Experiences** (6): Trạng Thái Ý Thức & Trải Nghiệm Đỉnh Cao - Peak Experiences & Flow States, Near-Death Experiences, Spiritual Emergency, Post-human Futures, Death and Rebirth Practice, Vision Quest & Initiation
+7. **Healing Modalities & Energy Work** (6): Phương Thức Chữa Lành & Công Việc Năng Lượng - Plant Medicine Integration, Quantum Healing Modalities, Future Self Work, Shamanic Energy Medicine, Etheric Surgery & Archetype Work, Consciousness-based Energy Healing
+8. **Scientific Frontiers & Exploration** (4): Biên Giới Khoa Học & Khám Phá - Consciousness Studies, SETI Research, Noetic Science, Morphogenetic Field Research
+9. **Creative Innovation & Expression** (6): Đổi Mới Sáng Tạo & Biểu Đạt - Transformative Theatre, Visionary Art, Psychedelic Art/Film, Sacred & Ritual Arts, Ecstatic Dance, Sound Healing Frequencies
 
 ---
 
@@ -27612,9 +27619,9 @@ Các thay đổi ở quy mô toàn cầu:
 
 ---
 
-### **2. Pattern Recognition & Structural Dynamics - Nhận Diện Mẫu Hình & Động Lực Cấu Trúc**
+### **2. Fractal & Self-Similarity Patterns - Mô Thức Fractal & Tự Tương Đồng**
 
-Các mẫu hình liên quan đến nhận diện mẫu hình & động lực cấu trúc.
+Các mẫu hình liên quan đến fractal và tự tương đồng xuyên quy mô.
 
 #### **6. Self-similarity Across Scales** - Sự Tự Tương Đồng Qua Các Quy Mô
 
@@ -27688,6 +27695,10 @@ Ví dụ thực tế: Sự biến thái của sâu bướm (cấu trúc tế bà
 → **Công cụ META:** META #16 (Self-referential Loops), DYNAMICS (Self-Organization).
 
 ---
+
+### **3. Growth & Evolution Dynamics - Động Lực Tăng Trưởng & Tiến Hóa**
+
+Các động lực liên quan đến tăng trưởng và tiến hóa hệ thống.
 
 #### **11. Power Laws** - Định Luật Lũy Thừa
 
@@ -27792,7 +27803,7 @@ và động lực chuyển đổi, đây là về BIẾN THÁI - sự thay đổ
 
 ---
 
-### **3. Field Theory & Force Dynamics - Lý Thuyết Trường & Động Lực Lực**
+### **4. Field Theory & Force Dynamics - Lý Thuyết Trường & Động Lực Lực**
 
 Các lý thuyết liên quan đến lý thuyết trường & động lực lực.
 
@@ -27874,7 +27885,7 @@ Các điểm mật độ vô hạn ở trung tâm lỗ đen, nơi các quy luậ
 
 ---
 
-### **4. Intelligence & Adaptive Systems - Trí Tuệ & Hệ Thống Thích Ứng**
+### **5. Intelligence & Adaptive Systems - Trí Tuệ & Hệ Thống Thích Ứng**
 
 Các hệ thống liên quan đến trí tuệ & hệ thống thích ứng.
 
@@ -27986,9 +27997,9 @@ Sự nhận thức và thực hành ở cấp độ siêu việt về việc cá
 
 ---
 
-### **5. Human Evolution & Consciousness Transformation - Tiến Hóa Con Người & Biến Đổi Ý Thức**
+### **6. Consciousness States & Peak Experiences - Trạng Thái Ý Thức & Trải Nghiệm Đỉnh Cao**
 
-Các khái niệm và nguyên lý về tiến hóa con người & biến đổi ý thức.
+Các khái niệm và nguyên lý về trạng thái ý thức và trải nghiệm đỉnh cao.
 
 #### **31. Peak Experiences & Flow States** - Trải Nghiệm Đỉnh Và Trạng Thái Dòng Chảy
 
@@ -28068,6 +28079,10 @@ Các thực hành truyền thống bao gồm cô lập và kiểm chứng để 
 
 ---
 
+### **7. Healing Modalities & Energy Work - Phương Thức Chữa Lành & Công Việc Năng Lượng**
+
+Các phương thức chữa lành và công việc năng lượng trong biến đổi ý thức.
+
 #### **37. Plant Medicine Integration** - Tích Hợp Thuốc Thực Vật
 
 Việc sử dụng có trách nhiệm các thực vật tâm linh để chữa lành, thấu hiểu và tăng trưởng tâm linh.
@@ -28146,7 +28161,7 @@ Các phương pháp chữa lành sử dụng ý thức, ý định và nhận th
 
 ---
 
-### **6. Scientific Frontiers & Exploration - Biên Giới Khoa Học & Khám Phá**
+### **8. Scientific Frontiers & Exploration - Biên Giới Khoa Học & Khám Phá**
 
 Các khái niệm và nguyên lý về biên giới khoa học & khám phá.
 
@@ -28202,7 +28217,7 @@ Nghiên cứu các trường giả thuyết hướng dẫn sự phát triển v�
 
 ---
 
-### **7. Creative Innovation & Expression - Đổi Mới Sáng Tạo & Biểu Đạt**
+### **9. Creative Innovation & Expression - Đổi Mới Sáng Tạo & Biểu Đạt**
 
 Các khái niệm và nguyên lý về đổi mới sáng tạo & biểu đạt.
 
@@ -30955,20 +30970,21 @@ Sử dụng phản hồi thần kinh để nhận dạng và tối ưu hóa các
 
 Chức năng này là về việc sử dụng hệ thống meta để cải thiện chính hệ thống - khả năng học cách học tốt hơn, tư duy về cách tư duy tốt hơn, và tối ưu hóa chính quá trình tối ưu hóa.
 
-Bao gồm 35 khái niệm được tổ chức thành 6 nhóm chủ đề:
+Bao gồm 35 khái niệm được tổ chức thành 7 nhóm chủ đề:
 
-1. **Core Self-Improvement** (12): Tự Cải Thiện Cốt Lõi - Deliberate Practice of Thinking, Cognitive Upgrade Protocols, Learning Rate Optimization, Error Cultivation, Feedback Loop Optimization, Skill Tree Mapping, Cognitive Tool Building, System Bottleneck Identification, Recursive Learning Loops, Cognitive Refactoring, Performance Benchmarking, Zone of Proximal Development Navigation
-2. **Foundational Recursion** (6): Đệ Quy Nền Tảng - Creating Creation, Integrating Integration, Learning to Learn (Recursive), Meta-Learning (Advanced), Meta-Adaptation, Recursive Reasoning
-3. **Progressive Depth** (5): Chiều Sâu Tiến Hóa - Learning → Learning to Learn → Learning How Learning Changes the Learner, Creating → Creating Creation Methods → Creating Meta-Creative Systems, Thinking About Thinking About Thinking, Finding Patterns of Patterns of Patterns, Systematizing Systems of Systems
-4. **Navigation Evolution** (5): Tiến Hóa Điều Hướng - Navigation Learning, Navigation Innovation, Navigation Mastery, Razor Recursion, Meta-Learning Algorithms
-5. **Infinite Iteration** (4): Lặp Lại Vô Hạn - Meta-izing the Meta of Meta, Navigating Infinite Regression, Meta-Systemic Thinking, Egyptian Temple Initiation Rites
-6. **Ultimate Intelligence** (3): Trí Tuệ Tối Thượng - Supreme Intelligence, Meta-Intelligence, Omniscience
+1. **Foundational Learning Skills** (6): Kỹ Năng Học Tập Nền Tảng - Deliberate Practice of Thinking, Cognitive Upgrade Protocols, Learning Rate Optimization, Error Cultivation, Feedback Loop Optimization, Skill Tree Mapping
+2. **Cognitive Optimization** (6): Tối Ưu Hóa Nhận Thức - Cognitive Tool Building, System Bottleneck Identification, Recursive Learning Loops, Cognitive Refactoring, Performance Benchmarking, Zone of Proximal Development Navigation
+3. **Foundational Recursion** (6): Đệ Quy Nền Tảng - Creating Creation, Integrating Integration, Learning to Learn (Recursive), Meta-Learning (Advanced), Meta-Adaptation, Recursive Reasoning
+4. **Progressive Depth** (5): Chiều Sâu Tiến Hóa - Learning → Learning to Learn → Learning How Learning Changes the Learner, Creating → Creating Creation Methods → Creating Meta-Creative Systems, Thinking About Thinking About Thinking, Finding Patterns of Patterns of Patterns, Systematizing Systems of Systems
+5. **Navigation Evolution** (5): Tiến Hóa Điều Hướng - Navigation Learning, Navigation Innovation, Navigation Mastery, Razor Recursion, Meta-Learning Algorithms
+6. **Infinite Iteration** (4): Lặp Lại Vô Hạn - Meta-izing the Meta of Meta, Navigating Infinite Regression, Meta-Systemic Thinking, Egyptian Temple Initiation Rites
+7. **Ultimate Intelligence** (3): Trí Tuệ Tối Thượng - Supreme Intelligence, Meta-Intelligence, Omniscience
 
 ---
 
-### **1. Core Self-Improvement - Tự Cải Thiện Cốt Lõi**
+### **1. Foundational Learning Skills - Kỹ Năng Học Tập Nền Tảng**
 
-Các khái niệm và nguyên lý về tự cải thiện cốt lõi.
+Các khái niệm và nguyên lý về kỹ năng học tập nền tảng.
 
 #### **1. Deliberate Practice of Thinking** - Thực Hành Có Chủ Ý về Tư Duy
 
@@ -31035,6 +31051,10 @@ Lập bản đồ các kỹ năng và sự phụ thuộc của chúng để có 
 - **Branching Points**: Các điểm phân nhánh.
 
 → **Liên kết:** NAVIGATION (Skill Development), OPERATIONS (Strategic Planning).
+
+### **2. Cognitive Optimization - Tối Ưu Hóa Nhận Thức**
+
+Các khái niệm và nguyên lý về tối ưu hóa nhận thức.
 
 #### **7. Cognitive Tool Building** - Xây Dựng Công Cụ Nhận Thức
 
@@ -31105,7 +31125,7 @@ Làm việc ở ranh giới của khả năng hiện tại để tối đa hóa 
 
 → **Liên kết:** DYNAMICS (Flow States), OPERATIONS (Goal Setting).
 
-### **2. Foundational Recursion - Đệ Quy Nền Tảng**
+### **3. Foundational Recursion - Đệ Quy Nền Tảng**
 
 Các khái niệm và nguyên lý về đệ quy nền tảng.
 
@@ -31186,7 +31206,7 @@ Suy luận có cấu trúc tự tham chiếu và đệ quy.
 
 ---
 
-### **3. Progressive Depth - Chiều Sâu Tiến Hóa**
+### **4. Progressive Depth - Chiều Sâu Tiến Hóa**
 
 Các khái niệm và nguyên lý về chiều sâu tiến hóa.
 
@@ -31260,7 +31280,7 @@ Ba cấp độ đệ quy của tư duy hệ thống.
 
 ---
 
-### **4. Navigation Evolution - Tiến Hóa Điều Hướng**
+### **5. Navigation Evolution - Tiến Hóa Điều Hướng**
 
 Các khái niệm và nguyên lý về tiến hóa điều hướng.
 
@@ -31326,7 +31346,7 @@ Khác với các biến thể "con người", đây là về COMPUTATION:
 
 ---
 
-### **5. Infinite Iteration - Lặp Lại Vô Hạn**
+### **6. Infinite Iteration - Lặp Lại Vô Hạn**
 
 Các khái niệm và nguyên lý về lặp lại vô hạn.
 
@@ -31378,7 +31398,7 @@ Hệ thống tiến bộ qua các cấp độ ngày càng sâu sắc của nhậ
 
 ---
 
-### **6. Ultimate Intelligence - Trí Tuệ Tối Thượng**
+### **7. Ultimate Intelligence - Trí Tuệ Tối Thượng**
 
 Các khái niệm và nguyên lý về trí tuệ tối thượng.
 
