@@ -87,7 +87,7 @@ function main() {
   }
 
   // Validate input (security)
-  const funcNum = validateFunctionNumber(rawFuncNum);
+  const funcNum = validateFunctionNumber(rawFuncNum, 1, 50);
   if (!funcNum) {
     console.error('Invalid function number. Must be 1-50.');
     process.exit(1);

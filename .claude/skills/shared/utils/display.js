@@ -26,6 +26,7 @@ const COLORS = {
  * @returns {string} Colored text with reset
  */
 function colorize(text, color) {
+  if (text == null) return '';
   return `${COLORS[color] || ''}${text}${COLORS.reset}`;
 }
 
@@ -46,7 +47,8 @@ function log(color, symbol, message) {
  * @returns {string} Truncated string with ellipsis if needed
  */
 function truncate(str, maxLen = 50) {
-  if (!str || str.length <= maxLen) return str;
+  if (str == null) return '';
+  if (str.length <= maxLen) return str;
   return str.substring(0, maxLen) + '...';
 }
 

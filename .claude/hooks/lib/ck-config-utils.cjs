@@ -91,7 +91,8 @@ function getGitStatus() {
  * @returns {string} Formatted percentage
  */
 function calcPercentage(completed, total) {
-  if (!total) return '0%';
+  if (typeof completed !== 'number' || typeof total !== 'number') return '0%';
+  if (!total || total <= 0) return '0%';
   return `${Math.round((completed / total) * 100)}%`;
 }
 
@@ -118,19 +119,12 @@ function wholeExists() {
 
 /**
  * Standardized error handler for hooks
- * Logs to stderr only when CLAUDE_HOOK_DEBUG is set
+ * Delegates to shared error handler with exit=true
  * @param {string} hookName - Name of the hook for identification
  * @param {Error} error - Error object
  */
 function handleHookError(hookName, error) {
-  if (process.env.CLAUDE_HOOK_DEBUG) {
-    console.error(`[${hookName}] ${error.message}`);
-    if (process.env.CLAUDE_HOOK_DEBUG === 'verbose' && error.stack) {
-      console.error(error.stack);
-    }
-  }
-  // Always exit 0 to prevent blocking Claude
-  process.exit(0);
+  return shared.handleError(hookName, error, true);
 }
 
 module.exports = {
