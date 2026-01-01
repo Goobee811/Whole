@@ -29,7 +29,7 @@ Miền này tập hợp các nguyên lý, mô hình tư duy và trí tuệ cốt
 
 Các nguyên lý đầu tiên và tiên đề là những chân lý tự hiển không thể giản lược thêm - nền tảng của mọi suy luận và tri thức. Chúng là các "nguyên tử" của tư duy, từ đó mọi cấu trúc phức tạp hơn được xây dựng. **Cầu nối Theory → Practice:** Xem OPERATIONS (CF11-12: Analytical Reasoning & Problem-Solving) để áp dụng các nguyên lý này vào thực hành; xem CREATION (CF16: Lateral Thinking) để sử dụng sáng tạo.
 
-Bao gồm 40 khái niệm được tổ chức thành 12 nhóm chủ đề:
+Bao gồm 43 khái niệm được tổ chức thành 12 nhóm chủ đề:
 
 1. **Foundational Axioms & Logic** (3): Tiên Đề & Logic Nền Tảng - First Principles, Mathematical Axioms, Set Theory and Logic
 2. **Unity, Duality & Ultimate Reality** (4): Thống Nhất, Nhị Nguyên & Thực Tại Tối Hậu - Duality & Unity, The Absolute, The One, Agency & Communion
@@ -42,7 +42,7 @@ Bao gồm 40 khái niệm được tổ chức thành 12 nhóm chủ đề:
 9. **Form, Function & Design** (2): Hình Thức, Chức Năng & Thiết Kế - Form & Function, Symmetry & Asymmetry
 10. **Interaction & Relationship** (3): Tương Tác & Quan Hệ - Resonance & Attunement, Interference & Dissonance, Symbiosis & Competition
 11. **Observation, Context & Perspective** (5): Quan Sát, Bối Cảnh & Góc Nhìn - Observer Effect & Participation, Relativity & Context, Representation & Reality, Holism & Reductionism, Polarity & Spectrum
-12. **Foundational Disciplines** (2): Các Ngành Nền Tảng - Ontology, Cosmology
+12. **Foundational Disciplines** (5): Các Ngành Nền Tảng - Ontology, Cosmology, Epistemology, Epistemic Humility, Certainty Gradients
 
 ---
 
@@ -639,6 +639,39 @@ Nghiên cứu về cấu trúc, nguồn gốc và tiến hóa của vũ trụ.
 - **Space-Time Fabric**: Cấu trúc không-thời gian
 
 → **Liên kết:** FOUNDATIONS (Universal Laws), DYNAMICS (System Evolution)
+
+#### **41. Epistemology** - Tri Thức Luận
+
+Nghiên cứu về bản chất, nguồn gốc, và giới hạn của tri thức - cách con người biết và không biết.
+
+- **Knowledge Justification**: Cách biện minh và chứng minh một niềm tin là tri thức đúng đắn
+- **Sources of Knowledge**: Các nguồn tri thức - kinh nghiệm (empirical), lý tính (rational), trực giác (intuitive), chứng ngôn (testimonial)
+- **Belief Formation**: Quá trình hình thành niềm tin từ bằng chứng và suy luận
+- **Epistemic Limits**: Giới hạn của tri thức - những gì có thể và không thể biết
+
+→ **Liên kết:** META (Meta-Cognition), VALIDATION (Reality Testing), OPERATIONS (Analytical Reasoning)
+
+#### **42. Epistemic Humility** - Khiêm Tốn Tri Thức
+
+Nhận thức về giới hạn tri thức của bản thân và sự sẵn sàng thừa nhận khi không biết.
+
+- **Uncertainty Recognition**: Nhận diện và chấp nhận sự không chắc chắn trong tri thức
+- **Cognitive Limits**: Hiểu về các giới hạn nhận thức của con người
+- **Fallibilism**: Chấp nhận rằng mọi niềm tin đều có thể sai - sẵn sàng sửa đổi
+- **Intellectual Courage**: Dũng cảm thừa nhận "tôi không biết" thay vì giả vờ biết
+
+→ **Liên kết:** META (Self-Observation), VALIDATION (Error Detection), TRANSCENDENCE (Paradox Resolution)
+
+#### **43. Certainty Gradients** - Phổ Độ Chắc Chắn
+
+Hiểu rằng tri thức không phải nhị phân (biết/không biết) mà là một phổ liên tục của độ chắc chắn.
+
+- **Probability Spectrum**: Tri thức được biểu diễn như xác suất, không phải tuyệt đối
+- **Evidence Weighting**: Cân nhắc độ mạnh của bằng chứng để điều chỉnh niềm tin
+- **Confidence Calibration**: Hiệu chỉnh độ tự tin cho phù hợp với bằng chứng thực tế
+- **Updating Beliefs**: Cập nhật niềm tin khi có thông tin mới (Bayesian thinking)
+
+→ **Liên kết:** VALIDATION (Probability Assessment), OPERATIONS (Decision Frameworks), META (Meta-Cognition)
 
 ---
 
@@ -2800,7 +2833,7 @@ Các đường năng lượng trong cơ thể.
 
 Học hỏi từ 3.8 tỷ năm nghiên cứu và phát triển của tự nhiên - các nguyên lý thiết kế, tối ưu hóa và tồn tại đã được kiểm chứng qua tiến hóa.
 
-Bao gồm 52 khái niệm được tổ chức thành 9 nhóm chủ đề:
+Bao gồm 55 khái niệm được tổ chức thành 10 nhóm chủ đề:
 
 1. **Core Natural Principles** (8): Nguyên Lý Tự Nhiên Cốt Lõi - Đột Sinh & Tự Tổ Chức, Hình Thức & Chức Năng, Chu Kỳ & Nhịp Điệu, Tiến Hóa & Chọn Lọc, Cộng Sinh & Cạnh Tranh, Dự Phòng & Kiên Cường, Năng Lượng & Thông Tin, Cân Bằng & Cân Bằng Nội Môi
 2. **Biomimicry Applications** (6): Ứng Dụng Sinh Học Bắt Chước - Adaptive Systems, Circular Economy, Resilient Networks, Efficient Resource Use, Cooperative Systems, Self-Healing Design
@@ -2811,6 +2844,7 @@ Bao gồm 52 khái niệm được tổ chức thành 9 nhóm chủ đề:
 7. **Sacred Arts & Creative Expression** (6): Nghệ Thuật Thiêng Liêng & Biểu Đạt Sáng Tạo - Sound Creation & Sacred Chanting, Mantra Composition, Sacred Architecture, Mythology, Storytelling Art, Bardic Arts
 8. **Mystical Practices & Transformative Experiences** (6): Thực Hành Thần Bí & Trải Nghiệm Biến Đổi - Via Mystica, Dark Night Wisdom, Illumination Principle, Akashic Wisdom, Nature of Beauty, Sublime Experience
 9. **Physical & Performance Arts** (3): Nghệ Thuật Thể Chất & Biểu Diễn - Acrobatics, Juggling, Clowning
+10. **Environmental Thinking & Sustainability** (3): Tư Duy Môi Trường & Bền Vững - Ecological Thinking, Sustainability Principles, Regenerative Design
 
 ---
 
@@ -3522,6 +3556,44 @@ Nghệ thuật hài hước và trí tuệ.
 - **Truth through Laughter**: Chân lý qua tiếng cười
 
 → **Liên kết:** CREATION (Performance), INTEGRATION (Social Wisdom)
+
+---
+
+### **10. Environmental Thinking & Sustainability - Tư Duy Môi Trường & Bền Vững**
+Tư duy sinh thái và các nguyên tắc phát triển bền vững.
+
+#### **53. Ecological Thinking** - Tư Duy Sinh Thái
+
+Cách tư duy nhìn nhận các hệ thống như những tổng thể sống, liên kết và phụ thuộc lẫn nhau, lấy cảm hứng từ cách các hệ sinh thái tự nhiên hoạt động.
+
+- **Interconnected Systems View**: Nhìn nhận mọi thứ như một phần của hệ thống lớn hơn, nơi mỗi yếu tố ảnh hưởng đến các yếu tố khác
+- **Carrying Capacity Awareness**: Nhận thức về giới hạn chịu tải của hệ thống - nguồn lực có hạn và cần được quản lý bền vững
+- **Nutrient Cycling Mindset**: Tư duy về việc tái sử dụng và tuần hoàn tài nguyên thay vì tiêu thụ tuyến tính
+- **Biodiversity as Strength**: Hiểu rằng sự đa dạng tạo nên sự kiên cường và khả năng thích ứng của hệ thống
+
+→ **Liên kết:** DYNAMICS (System Dynamics), INTEGRATION (Ecological Systems), CF5 (Biomimicry)
+
+#### **54. Sustainability Principles** - Nguyên Tắc Bền Vững
+
+Các nguyên tắc cốt lõi để đảm bảo sự phát triển có thể duy trì theo thời gian mà không làm cạn kiệt nguồn lực cho các thế hệ tương lai.
+
+- **Intergenerational Equity**: Công bằng giữa các thế hệ - đảm bảo thế hệ tương lai có đủ nguồn lực
+- **Triple Bottom Line**: Ba trụ cột bền vững - kinh tế (profit), xã hội (people), môi trường (planet)
+- **Resource Stewardship**: Quản trị nguồn lực có trách nhiệm - sử dụng mà không cạn kiệt
+- **Long-term Thinking**: Tư duy dài hạn - xem xét hậu quả của quyết định trong nhiều thập kỷ
+
+→ **Liên kết:** NAVIGATION (Long-term Planning), VALIDATION (Impact Assessment), AMPLIFICATION (Sustainable Growth)
+
+#### **55. Regenerative Design** - Thiết Kế Tái Tạo
+
+Phương pháp thiết kế vượt ra ngoài "bền vững" (duy trì hiện trạng) để thực sự phục hồi và tái tạo các hệ thống tự nhiên và xã hội.
+
+- **Net Positive Impact**: Tác động dương ròng - hệ thống tạo ra nhiều giá trị hơn những gì nó tiêu thụ
+- **Living Systems Principles**: Nguyên tắc hệ thống sống - thiết kế theo cách các hệ sinh thái tự nhiên hoạt động
+- **Continuous Improvement Cycles**: Chu kỳ cải tiến liên tục - hệ thống tự nâng cấp và tiến hóa
+- **Restorative Practices**: Thực hành phục hồi - sửa chữa những thiệt hại đã gây ra thay vì chỉ ngăn ngừa thiệt hại mới
+
+→ **Liên kết:** CREATION (Innovative Design), CF5 (Self-Healing Design), TRANSCENDENCE (Transformation)
 
 ---
 
@@ -5903,7 +5975,7 @@ Các quá trình thay đổi xã hội tập thể quy mô lớn.
 
 Các chế độ và dòng chảy cơ bản của quá trình xử lý thông tin, cách thức tâm trí di chuyển giữa các trạng thái khác nhau để nhận thức và tương tác với thực tại.
 
-Bao gồm 74 khái niệm được tổ chức thành 11 nhóm chủ đề:
+Bao gồm 76 khái niệm được tổ chức thành 12 nhóm chủ đề:
 
 1. **Dual Processing Modes** (9): Các Chế Độ Xử Lý Kép - Convergent ↔ Divergent Thinking, Fast ↔ Slow Thinking, Abstract ↔ Concrete Thinking, Analytic ↔ Holistic Thinking, Analysis ↔ Synthesis, Linear ↔ Non-linear, Sequential ↔ Parallel, Focused ↔ Diffuse Mode, Hot ↔ Cold Cognition
 2. **Core Flexibility Mechanisms** (6): Cơ Chế Linh Hoạt Cốt Lõi - Cognitive Flexibility, Cognitive Flexibility in Problem-Solving, Metacognition, Meta-Cognitive Flow, Adaptive Reasoning, Mental Models
@@ -5916,6 +5988,7 @@ Bao gồm 74 khái niệm được tổ chức thành 11 nhóm chủ đề:
 9. **Complex Adaptive Creativity** (6): Sáng Tạo Thích Ứng Phức Tạp - Adaptive Systems (Creativity), Feedback Loop Creativity, Attractor Dynamics (Creativity), Nonlinear Creativity, Swarm Creativity, Phase Transition Creativity
 10. **Decision Biases & Cognitive Razors** (4): Thiên Lệch Quyết Định & Dao Cạo Nhận Thức - Dunning-Kruger Razor, Fredkin's Paradox, Sayre's Law, Bikeshedding Law
 11. **Edge Dynamics & Boundary Navigation** (8): Động Lực Biên Giới & Điều Hướng Ngưỡng - Contextual Navigation, Antifragile Navigation, Collective Navigation, Liminal Navigation, Boundary Dissolution, Chaos Surfing, Avalanche Triggering, Synchronicity Engineering
+12. **Embodied Cognition** (2): Nhận Thức Thể Hiện - Somatic Markers, Embodied Decision Making
 
 ---
 
@@ -6851,6 +6924,34 @@ Tạo ra điều kiện cho các sự kiện ý nghĩa trùng hợp xảy ra.
 - **Serendipity Design**: Thiết kế may mắn
 
 → **Liên kết:** NAVIGATION (Timing Wisdom), CREATION (Opportunity Creation)
+
+---
+
+### **12. Embodied Cognition - Nhận Thức Thể Hiện**
+
+Các khái niệm về mối liên hệ giữa cơ thể và nhận thức - cách trạng thái thể chất ảnh hưởng đến tư duy và ngược lại.
+
+#### **75. Somatic Markers** - Dấu Hiệu Thân Thể
+
+Các tín hiệu thể chất (cảm giác gut, tim đập nhanh) hướng dẫn quyết định - theo lý thuyết của Damasio.
+
+- **Body-Based Intuition**: Trực giác dựa trên cơ thể - cảm nhận "gut feeling" đúng
+- **Emotional-Physical Link**: Liên kết cảm xúc-thể chất - cơ thể lưu trữ kinh nghiệm
+- **Rapid Assessment**: Đánh giá nhanh - cơ thể "biết" trước ý thức
+- **Wisdom of the Body**: Trí tuệ thân thể - tin tưởng tín hiệu soma
+
+→ **Liên kết:** OPERATIONS (Decision Making), DYNAMICS (Emotional Intelligence), VALIDATION (Intuition Calibration)
+
+#### **76. Embodied Decision Making** - Ra Quyết Định Thể Hiện
+
+Đưa quyết định bằng cách tích hợp thông tin từ cơ thể, không chỉ lý trí thuần túy.
+
+- **Body Scan Decision**: Quyết định qua quét cơ thể - kiểm tra phản ứng thể chất
+- **Movement as Thinking**: Chuyển động như tư duy - đi bộ, vẽ khi suy nghĩ
+- **Posture Effects**: Hiệu ứng tư thế - tư thế ảnh hưởng đến tự tin và quyết định
+- **Physical Prototyping**: Thử nghiệm vật lý - hiểu vấn đề qua xây dựng mô hình
+
+→ **Liên kết:** OPERATIONS (Decision Frameworks), CF9 (Somatic Markers), CREATION (Design Thinking)
 
 ---
 
@@ -15933,7 +16034,7 @@ _Khả năng cảm nhận và điều hướng trong các hệ thống phức t�
 
 ### **Tổng Quan**
 
-CHỨC NĂNG này tập trung vào khả năng CẢM BIẾN và THÍCH ỨNG với bối cảnh - kỹ năng thiết yếu để điều hướng trong các môi trường phức tạp, bất định và không thể dự đoán. Bao gồm 22 khái niệm được tổ chức thành 6 nhóm chủ đề:
+CHỨC NĂNG này tập trung vào khả năng CẢM BIẾN và THÍCH ỨNG với bối cảnh - kỹ năng thiết yếu để điều hướng trong các môi trường phức tạp, bất định và không thể dự đoán. Bao gồm 26 khái niệm được tổ chức thành 7 nhóm chủ đề:
 
 1. **Foundational Navigation Frameworks** (4): Các khung điều hướng nền tảng - Adaptive Navigation, Edge of Chaos, Cynefin, Master Navigator
 2. **Environmental Perception & Signal Detection** (5): Tri giác môi trường và phát hiện tín hiệu - Weak Signals, Situational Awareness, Pattern Recognition, Boundaries, Focus
@@ -15941,6 +16042,7 @@ CHỨC NĂNG này tập trung vào khả năng CẢM BIẾN và THÍCH ỨNG v�
 4. **Contextual Agility & Strategic Pivoting** (3): Linh hoạt bối cảnh và xoay chuyển chiến lược - Context Switching, Pivot Recognition, Context Collapse
 5. **Adaptive Resilience & Creative Response** (4): Phục hồi thích ứng và phản ứng sáng tạo - Bricolage, Antifragility, Improvisation, Serendipity
 6. **Complex Systems & Nonlinear Navigation** (2): Hệ thống phức tạp và điều hướng phi tuyến - Strange Attractors, Strange Loops
+7. **Advanced Context Sensing** (4): Cảm Biến Bối Cảnh Nâng Cao - Situational Awareness Levels, Signal vs Noise Filtering, Context Memory & Retrieval, Environmental Scanning
 
 ---
 
@@ -16231,6 +16333,62 @@ Hiểu và điều hướng các cấu trúc đệ quy và tự tham chiếu.
 - **Gödelian Thinking**: Tư duy theo Gödel.
 
 → **Liên kết:** TRANSCENDENCE (Paradox), [META] LAYER (Self-Reference).
+
+---
+
+### **7. Advanced Context Sensing - Cảm Biến Bối Cảnh Nâng Cao**
+
+Các khái niệm nâng cao về cảm biến bối cảnh, bao gồm nhận thức tình huống sâu, lọc tín hiệu, và trí nhớ bối cảnh.
+
+#### **23. Situational Awareness Levels** - Các Cấp Độ Nhận Thức Tình Huống
+
+Mô hình phân tầng nhận thức tình huống từ cơ bản đến chuyên gia (theo Endsley).
+
+- **Level 1 - Perception**: Tri giác các yếu tố môi trường - nhận diện thông tin quan trọng
+- **Level 2 - Comprehension**: Hiểu ý nghĩa của thông tin trong bối cảnh hiện tại
+- **Level 3 - Projection**: Dự đoán trạng thái tương lai dựa trên nhận thức hiện tại
+- **Level 4 - Expert Intuition**: Trực giác chuyên gia - nhận thức tình huống tự động, vô thức
+
+→ **Liên kết:** CF24 (Situational Awareness), OPERATIONS (Decision Frameworks), META (Meta-Cognition)
+
+---
+
+#### **24. Signal vs Noise Filtering** - Lọc Tín Hiệu vs Nhiễu
+
+Kỹ năng phân biệt thông tin có giá trị (signal) từ thông tin không liên quan (noise) trong môi trường quá tải.
+
+- **Relevance Detection**: Phát hiện tính liên quan - xác định thông tin nào quan trọng
+- **Noise Tolerance**: Chịu đựng nhiễu - không bị phân tâm bởi thông tin vô nghĩa
+- **Pattern Extraction**: Trích xuất mẫu hình từ dữ liệu hỗn loạn
+- **Priority Filtering**: Lọc ưu tiên - tập trung vào tín hiệu quan trọng nhất
+
+→ **Liên kết:** FOUNDATIONS (Signal & Noise), VALIDATION (Reality Testing), CF24 (Weak Signal Detection)
+
+---
+
+#### **25. Context Memory & Retrieval** - Trí Nhớ Bối Cảnh & Truy Xuất
+
+Khả năng lưu trữ và truy xuất hiệu quả thông tin về các bối cảnh đã trải nghiệm để áp dụng cho tình huống tương tự.
+
+- **Contextual Encoding**: Mã hóa thông tin gắn liền với bối cảnh ban đầu
+- **Pattern Matching**: So khớp mẫu hình - nhận ra tình huống tương tự đã gặp
+- **Experience Retrieval**: Truy xuất kinh nghiệm liên quan nhanh chóng
+- **Adaptive Application**: Điều chỉnh kinh nghiệm cũ cho bối cảnh mới
+
+→ **Liên kết:** OPERATIONS (Learning & Memory), CF24 (Sensemaking), META (Pattern Recognition)
+
+---
+
+#### **26. Environmental Scanning** - Quét Môi Trường
+
+Quy trình có hệ thống để liên tục theo dõi và phân tích môi trường bên ngoài tìm cơ hội và mối đe dọa.
+
+- **Horizon Scanning**: Quét chân trời - theo dõi xu hướng dài hạn
+- **Competitive Intelligence**: Thu thập thông tin về đối thủ và thị trường
+- **Trend Monitoring**: Giám sát xu hướng - phát hiện thay đổi sớm
+- **Threat Detection**: Phát hiện mối đe dọa trước khi chúng trở nên nghiêm trọng
+
+→ **Liên kết:** NAVIGATION (Strategic Wayfinding), CF24 (Weak Signal Detection), VALIDATION (Reality Testing)
 
 ---
 
@@ -19106,7 +19264,7 @@ Kết hợp thế giới vật lý và kỹ thuật số.
 
 Chức năng này tập trung vào các phương pháp và thực hành để kết nối con người, ý tưởng và hệ thống thông qua giao tiếp, hợp tác và tạo ý nghĩa chung. **Cầu nối Individual → Collective:** Đây là nơi các kỹ năng cá nhân từ OPERATIONS và DYNAMICS được nhân rộng thành sức mạnh tập thể; xem AMPLIFICATION (CF36: Network Effects) để hiểu cách scale.
 
-Bao gồm 62 khái niệm được tổ chức thành 10 nhóm chủ đề:
+Bao gồm 67 khái niệm được tổ chức thành 11 nhóm chủ đề:
 
 1. **Dialogue & Collective Wisdom** (5): Đối Thoại & Trí Tuệ Tập Thể - Dialogue, Collective Sensemaking, Dialogue Integration, Wisdom Councils, Collective Wisdom
 2. **Collaborative Problem-Solving & Innovation** (5): Giải Quyết Vấn Đề & Đổi Mới Cộng Tác - Collaborative Problem-Solving, Design Thinking (Collaborative), Open Innovation, Crowdsourcing, Co-Creation & Participatory Design
@@ -19118,6 +19276,7 @@ Bao gồm 62 khái niệm được tổ chức thành 10 nhóm chủ đề:
 8. **Community Building & Social Cohesion** (6): Xây Dựng Cộng Đồng & Gắn Kết Xã Hội - Community Building, Cultural Integration (Community), Social Cohesion, Restorative Justice Circles, Community Integration Protocol, Collective Intelligence Protocols
 9. **Relational Field & Sacred Relationships** (7): Trường Quan Hệ & Mối Quan Hệ Thiêng Liêng - Interpersonal Integration, Family System Integration, Global Integration, Family & Ancestral Healing, Sacred Relationship Work, Sacred Relationship Practice, Relational Field
 10. **Synergistic Value Creation** (7): Tạo Giá Trị Hiệp Lực - Group Decision Making, Synergy (Collaborative), Complementarity (Collaborative), Integration Magic, Fusion Dynamics, Multi-Stakeholder Value, Value Chain Innovation
+11. **Social Dynamics & Collective Behavior** (5): Động Lực Xã Hội & Hành Vi Tập Thể - Collective Behavior Patterns, Social Contagion, Group Decision Dynamics, Social Network Effects, Cultural Evolution
 
 ---
 
@@ -19983,6 +20142,75 @@ Nâng cấp toàn bộ hệ thống tạo giá trị.
 - **Ecosystem Value**: Giá trị hệ sinh thái; tạo giá trị cho toàn hệ thống.
 
 → **Liên kết:** AMPLIFICATION (System Optimization), CREATION (Innovation).
+
+---
+
+### **11. Social Dynamics & Collective Behavior - Động Lực Xã Hội & Hành Vi Tập Thể**
+
+Các khái niệm về động lực học xã hội, hành vi tập thể và tiến hóa văn hóa - bổ sung cho trí tuệ cộng tác bằng việc hiểu các lực lượng chi phối nhóm và xã hội.
+
+#### **63. Collective Behavior Patterns** - Mô Hình Hành Vi Tập Thể
+
+Các mô hình và quy luật xuất hiện khi con người hành động như một nhóm lớn.
+
+- **Crowd Dynamics**: Động lực đám đông - cách nhóm lớn di chuyển và quyết định
+- **Emergent Norms**: Các chuẩn mực đột sinh - quy tắc tự phát hình thành trong nhóm
+- **Threshold Effects**: Hiệu ứng ngưỡng - điểm mà hành vi cá nhân lan rộng thành hành vi tập thể
+- **Collective Action Problems**: Vấn đề hành động tập thể - khi lợi ích cá nhân xung đột với lợi ích nhóm
+
+→ **Liên kết:** DYNAMICS (Emergence), AMPLIFICATION (Network Effects), FOUNDATIONS (Agency & Communion)
+
+---
+
+#### **64. Social Contagion** - Lan Truyền Xã Hội
+
+Cách ý tưởng, cảm xúc và hành vi lan truyền qua mạng lưới xã hội.
+
+- **Emotional Contagion**: Lan truyền cảm xúc - cảm xúc lây lan giữa các cá nhân
+- **Behavioral Spreading**: Lan truyền hành vi - hành động được sao chép qua quan sát
+- **Information Cascades**: Thác thông tin - khi người sau theo người trước bất kể thông tin riêng
+- **Social Proof Dynamics**: Động lực bằng chứng xã hội - hành vi của người khác ảnh hưởng quyết định
+
+→ **Liên kết:** AMPLIFICATION (Viral Mechanics), DYNAMICS (Mimetic Desire), FOUNDATIONS (Mimetic Theory)
+
+---
+
+#### **65. Group Decision Dynamics** - Động Lực Quyết Định Nhóm
+
+Các lực lượng và thiên kiến ảnh hưởng đến cách nhóm đưa ra quyết định.
+
+- **Groupthink Prevention**: Phòng ngừa tư duy nhóm - tránh sự đồng thuận giả
+- **Polarization Effects**: Hiệu ứng phân cực - nhóm thường cực đoan hóa quan điểm ban đầu
+- **Authority Influence**: Ảnh hưởng quyền lực - cách quyền lực định hình quyết định nhóm
+- **Minority Influence**: Ảnh hưởng thiểu số - cách quan điểm thiểu số có thể thay đổi đa số
+
+→ **Liên kết:** OPERATIONS (Decision Frameworks), VALIDATION (Bias Detection), CF29 (Group Decision Making)
+
+---
+
+#### **66. Social Network Effects** - Hiệu Ứng Mạng Xã Hội
+
+Cách cấu trúc mạng lưới xã hội ảnh hưởng đến hành vi và kết quả.
+
+- **Weak Tie Strength**: Sức mạnh liên kết yếu - liên kết xa mang thông tin mới
+- **Structural Holes**: Lỗ hổng cấu trúc - vị trí cầu nối mang lợi thế thông tin
+- **Network Position Effects**: Hiệu ứng vị trí mạng - centrality ảnh hưởng đến ảnh hưởng
+- **Social Capital Dynamics**: Động lực vốn xã hội - cách xây dựng và sử dụng vốn xã hội
+
+→ **Liên kết:** AMPLIFICATION (Network Effects), FOUNDATIONS (Network Thinking), CF29 (Networked Collaboration)
+
+---
+
+#### **67. Cultural Evolution** - Tiến Hóa Văn Hóa
+
+Cách văn hóa thay đổi và phát triển theo thời gian qua các cơ chế giống tiến hóa.
+
+- **Cultural Selection**: Chọn lọc văn hóa - một số ý tưởng/thực hành tồn tại, số khác biến mất
+- **Cultural Transmission**: Truyền tải văn hóa - cách tri thức/giá trị được truyền qua thế hệ
+- **Cultural Drift**: Trôi dạt văn hóa - thay đổi ngẫu nhiên trong các thực hành văn hóa
+- **Cultural Adaptation**: Thích ứng văn hóa - văn hóa điều chỉnh theo môi trường mới
+
+→ **Liên kết:** DYNAMICS (System Evolution), FOUNDATIONS (Evolution & Selection), TRANSCENDENCE (Wisdom Crystallization)
 
 ---
 
@@ -21927,14 +22155,15 @@ Khả năng điều chỉnh hành động với thời điểm tối ưu.
 
 Thiết kế và thực hiện các thử nghiệm có cấu trúc để kiểm tra giả thuyết và khám phá kiến thức mới.
 
-Bao gồm 23 khái niệm được tổ chức thành 6 nhóm chủ đề:
+Bao gồm 27 khái niệm được tổ chức thành 7 nhóm chủ đề:
 
-1. **Experimental Design Types** (4): Các Loại Thiết Kế Thực Nghiệm - Quasi-Experiment**, Natural Experiment**, Pilot Programs**, Multivariate Testing**
-2. **Preliminary Assessment Methods** (3): Phương Pháp Đánh Giá Sơ Bộ - Smoke Testing**, Sanity Check**, Model Comparison**
-3. **Competitive Selection Protocols** (4): Giao Thức Lựa Chọn Cạnh Tranh - War Gaming & Simulation**, Champion-Challenger**, Tournament Selection**, Shock Doctrine Thinking**
-4. **Temporal Performance Testing** (5): Kiểm Thử Hiệu Năng Theo Thời Gian - Forward Testing**, Decay Testing**, Regime Change Detection**, Evolution Tracking**, Future-Proofing**
-5. **Predictive & Stochastic Validation** (4): Kiểm Chứng Dự Đoán & Ngẫu Nhiên - Prediction Accuracy**, Scenario Testing**, Monte Carlo Validation**, Feature Importance**
-6. **Paradox & Breakthrough Protocols** (3): Giao Thức Nghịch Lý & Đột Phá - Koan Processing**, Double Bind Navigation**, Breakdown Protocol**
+1. **Experimental Design Types** (4): Các Loại Thiết Kế Thực Nghiệm - Quasi-Experiment, Natural Experiment, Pilot Programs, Multivariate Testing
+2. **Preliminary Assessment Methods** (3): Phương Pháp Đánh Giá Sơ Bộ - Smoke Testing, Sanity Check, Model Comparison
+3. **Competitive Selection Protocols** (4): Giao Thức Lựa Chọn Cạnh Tranh - War Gaming & Simulation, Champion-Challenger, Tournament Selection, Shock Doctrine Thinking
+4. **Temporal Performance Testing** (5): Kiểm Thử Hiệu Năng Theo Thời Gian - Forward Testing, Decay Testing, Regime Change Detection, Evolution Tracking, Future-Proofing
+5. **Predictive & Stochastic Validation** (4): Kiểm Chứng Dự Đoán & Ngẫu Nhiên - Prediction Accuracy, Scenario Testing, Monte Carlo Validation, Feature Importance
+6. **Paradox & Breakthrough Protocols** (3): Giao Thức Nghịch Lý & Đột Phá - Koan Processing, Double Bind Navigation, Breakdown Protocol
+7. **Scientific Methodology & Rigor** (4): Phương Pháp Luận Khoa Học & Sự Nghiêm Ngặt - Null Hypothesis Testing, Experimental Control Methods, Replication Protocols, Measurement Validity
 
 ---
 
@@ -22145,6 +22374,62 @@ Sử dụng thất bại hoặc đổ vỡ như một phương pháp để đạ
 - **Insight Through Collapse**: Insight qua sự sụp đổ.
 - **Phoenix Pattern**: Mẫu phượng hoàng (tái sinh từ tro tàn).
 → **Liên kết:** TRANSCENDENCE (Transformative Crisis), DYNAMICS (Phase Transition)
+
+---
+
+### **7. Scientific Methodology & Rigor - Phương Pháp Luận Khoa Học & Sự Nghiêm Ngặt**
+
+Các nguyên tắc và kỹ thuật đảm bảo tính nghiêm ngặt và khả năng tái tạo trong nghiên cứu thực nghiệm.
+
+#### **24. Null Hypothesis Testing** - Kiểm Định Giả Thuyết Không
+
+Quy trình kiểm định thống kê với giả thuyết không (H0) và giả thuyết thay thế (H1).
+
+- **Statistical Significance**: Xác định mức độ có ý nghĩa thống kê (p-value)
+- **Type I/II Errors**: Hiểu và cân bằng lỗi loại I (false positive) và loại II (false negative)
+- **Effect Size**: Đo lường độ lớn của hiệu ứng, không chỉ ý nghĩa thống kê
+- **Power Analysis**: Phân tích sức mạnh thống kê để xác định cỡ mẫu cần thiết
+
+→ **Liên kết:** OPERATIONS (Statistical Reasoning), VALIDATION (Reality Testing), CF34 (Monte Carlo Validation)
+
+---
+
+#### **25. Experimental Control Methods** - Phương Pháp Kiểm Soát Thực Nghiệm
+
+Các kỹ thuật để cô lập biến số và đảm bảo kết quả đáng tin cậy.
+
+- **Control Group Design**: Thiết kế nhóm kiểm soát để so sánh
+- **Randomization**: Phân bổ ngẫu nhiên để loại bỏ thiên kiến chọn lựa
+- **Blinding Techniques**: Kỹ thuật che giấu (single/double blind) để giảm thiên kiến
+- **Placebo Effects**: Hiểu và kiểm soát hiệu ứng giả dược
+
+→ **Liên kết:** CF34 (Quasi-Experiment), VALIDATION (Bias Detection), OPERATIONS (Causal Reasoning)
+
+---
+
+#### **26. Replication Protocols** - Quy Trình Lặp Lại
+
+Các tiêu chuẩn và quy trình để đảm bảo kết quả nghiên cứu có thể được tái tạo.
+
+- **Reproducibility Standards**: Tiêu chuẩn về khả năng tái tạo - người khác có thể đạt cùng kết quả
+- **Pre-Registration**: Đăng ký trước giả thuyết và phương pháp trước khi thu thập dữ liệu
+- **Open Data Practices**: Chia sẻ dữ liệu và mã nguồn để xác minh
+- **Multi-Site Validation**: Xác thực qua nhiều địa điểm/nhóm nghiên cứu độc lập
+
+→ **Liên kết:** VALIDATION (Verification & Falsification), META (Framework Evolution), CF34 (Forward Testing)
+
+---
+
+#### **27. Measurement Validity** - Giá Trị Đo Lường
+
+Đảm bảo các công cụ đo lường thực sự đo những gì chúng được thiết kế để đo.
+
+- **Construct Validity**: Công cụ đo lường đúng khái niệm lý thuyết mục tiêu
+- **Content Validity**: Bao phủ đầy đủ các khía cạnh của khái niệm được đo
+- **Criterion Validity**: Tương quan với các thước đo khác đã được chấp nhận
+- **Ecological Validity**: Kết quả áp dụng được cho bối cảnh thực tế
+
+→ **Liên kết:** VALIDATION (Ground Truth Validation), OPERATIONS (Analytical Reasoning), FOUNDATIONS (Epistemology)
 
 ---
 
@@ -25067,7 +25352,7 @@ Cơ chế nhân rộng tác động qua nhiều thế hệ - mỗi thế hệ x�
 
 Chức năng này tập trung vào việc xây dựng các nền tảng và hệ sinh thái - nơi nhiều bên tạo ra và trao đổi giá trị.
 
-Bao gồm 58 khái niệm được tổ chức thành 9 nhóm chủ đề:
+Bao gồm 61 khái niệm được tổ chức thành 9 nhóm chủ đề:
 
 1. **Core Platform Principles** (7): Nguyên Lý Nền Tảng Cốt Lõi - Platform Effects, API Economy, Ecosystem Design, Complementary Assets, Stack Effects, Open Source Leverage, Developer Platform
 2. **Marketplace & Business Models** (6): Mô Hình Thị Trường & Kinh Doanh - Marketplace Design, Franchising, Education as a Multiplier, Community-Led Growth, Cross-Pollination, Convergence
@@ -25076,7 +25361,7 @@ Bao gồm 58 khái niệm được tổ chức thành 9 nhóm chủ đề:
 5. **Innovation Systems** (6): Hệ Thống Đổi Mới - Innovation Catalysis, Systematic Innovation, Open Innovation, Platform Architecture Design, Design Sprint, Jobs-to-be-Done Platform Design
 6. **Generative & Creative Systems** (5): Hệ Thống Tạo Sinh & Sáng Tạo - Generative Design, Creative Algorithms, Procedural Creation, Prototype Rapidly, Fail Interestingly
 7. **Creative Distribution & Legacy** (14): Phân Phối Sáng Tạo & Di Sản - Festival Circuits, Gallery Systems, Publishing Platforms, Streaming Services, Social Media Arts, Teaching & Transmission, Lineage & Legacy Work, Service as Practice, Missionary Traditions, Dharma Spreading, Spiritual Movement Building, Sacred Activism, Sacred Content Virality, Community Art Practice
-8. **Technology Integration** (5): Tích Hợp Công Nghệ - AI-Augmented Integration, Digital Knowledge Garden, VR/AR Integration, Biofeedback Integration, Quantified Self Integration
+8. **Technology Integration** (8): Tích Hợp Công Nghệ - AI-Augmented Integration, Digital Knowledge Garden, VR/AR Integration, Biofeedback Integration, Quantified Self Integration, AI-Human Collaborative Systems, Digital Ecosystem Design, Automation Integration Patterns
 9. **Sacred & Consciousness Amplification** (6): Khuếch Đại Thiêng Liêng & Ý Thức - Universal Force Fields, Superconductors, Synergy Multiplication, Reality Consensus Hacking, Synchronicity Creation, Pattern Interrupt
 
 ---
@@ -25707,11 +25992,44 @@ Thu thập và phân tích dữ liệu cá nhân để cải thiện bản thân
 - **Personal Analytics**: Phân tích cá nhân.  
     → **Liên kết:** VALIDATION (Self-Measurement), OPERATIONS (Personal Optimization).
 
+#### **53. AI-Human Collaborative Systems** - Hệ Thống Cộng Tác Người-AI
+
+Thiết kế và xây dựng các hệ thống nơi AI và con người làm việc cùng nhau hiệu quả.
+
+- **Complementary Intelligence**: Trí tuệ bổ sung - AI mạnh ở xử lý dữ liệu, người mạnh ở sáng tạo và phán đoán
+- **Augmented Decision Making**: Ra quyết định tăng cường - AI cung cấp insights, người đưa quyết định cuối
+- **Collaborative Workflows**: Quy trình làm việc cộng tác - chia công việc theo thế mạnh từng bên
+- **Human-in-the-Loop**: Người trong vòng lặp - duy trì kiểm soát và trách nhiệm của con người
+
+→ **Liên kết:** OPERATIONS (Decision Frameworks), CF40 (AI-Augmented Integration), INTEGRATION (Collaborative Intelligence)
+
+#### **54. Digital Ecosystem Design** - Thiết Kế Hệ Sinh Thái Số
+
+Nguyên tắc và phương pháp thiết kế các hệ sinh thái kỹ thuật số phức tạp.
+
+- **Interoperability Standards**: Tiêu chuẩn tương tác - các hệ thống có thể giao tiếp và làm việc cùng nhau
+- **Platform Governance**: Quản trị nền tảng - quy tắc và cơ chế quản lý hệ sinh thái
+- **Data Sharing Protocols**: Giao thức chia sẻ dữ liệu - cách các bên trao đổi thông tin
+- **Ecosystem Health Metrics**: Thước đo sức khỏe hệ sinh thái - đánh giá hiệu quả tổng thể
+
+→ **Liên kết:** CF40 (Ecosystem Design), INTEGRATION (System Coherence), VALIDATION (Quality Assurance)
+
+#### **55. Automation Integration Patterns** - Mô Hình Tích Hợp Tự Động Hóa
+
+Các mô hình và thực hành tốt nhất để tích hợp tự động hóa vào quy trình hiện có.
+
+- **Process Automation Selection**: Lựa chọn quy trình để tự động hóa - không phải mọi thứ nên được tự động
+- **Human-Automation Handoff**: Chuyển giao người-tự động hóa - điểm chuyển tiếp mượt mà
+- **Exception Handling Design**: Thiết kế xử lý ngoại lệ - khi tự động hóa thất bại, người tiếp quản
+- **Gradual Automation Strategy**: Chiến lược tự động hóa dần - từng bước thay vì đại trà
+
+→ **Liên kết:** OPERATIONS (Systematic Execution), DYNAMICS (Transformation), VALIDATION (Quality Assurance)
+
 ### **9. Sacred & Consciousness Amplification - Khuếch Đại Thiêng Liêng & Ý Thức**
 
 Các khái niệm và nguyên lý về khuếch đại thiêng liêng & ý thức.
 
-#### **53. Universal Force Fields** - Trường Lực Phổ Quát
+#### **56. Universal Force Fields** - Trường Lực Phổ Quát
 
 Các trường năng lượng và ảnh hưởng ở cấp độ vũ trụ.
 
@@ -25721,7 +26039,7 @@ Các trường năng lượng và ảnh hưởng ở cấp độ vũ trụ.
 - **Universal Connectivity**: Kết nối phổ quát.  
     → **Liên kết:** FOUNDATIONS (Field Theory), TRANSCENDENCE (Universal).
 
-#### **54. Superconductors** - Siêu Dẫn
+#### **57. Superconductors** - Siêu Dẫn
 
 Vật liệu cho phép dòng chảy không có điện trở.
 
@@ -25731,7 +26049,7 @@ Vật liệu cho phép dòng chảy không có điện trở.
 - **Quantum Phenomenon**: Hiện tượng lượng tử.  
     → **Liên kết:** FOUNDATIONS (Quantum Physics), OPERATIONS (Energy Systems).
 
-#### **55. Synergy Multiplication** - Nhân Hiệp Lực
+#### **58. Synergy Multiplication** - Nhân Hiệp Lực
 
 Kết quả tổng thể lớn hơn nhiều so với tổng các phần.
 
@@ -25741,7 +26059,7 @@ Kết quả tổng thể lớn hơn nhiều so với tổng các phần.
 - **Transcendent Result**: Kết quả vượt thoát.  
     → **Liên kết:** INTEGRATION (Synergy), TRANSCENDENCE (Emergence).
 
-#### **56. Reality Consensus Hacking** - Hack Đồng Thuận Thực Tại
+#### **59. Reality Consensus Hacking** - Hack Đồng Thuận Thực Tại
 
 Thay đổi nhận thức tập thể về thực tại.
 
@@ -25751,7 +26069,7 @@ Thay đổi nhận thức tập thể về thực tại.
 - **Consensus Shift**: Chuyển đổi đồng thuận.  
     → **Liên kết:** TRANSCENDENCE (Reality Creation), VIRAL MECHANICS (Perception Shift).
 
-#### **57. Synchronicity Creation** - Tạo Ra Đồng Thời
+#### **60. Synchronicity Creation** - Tạo Ra Đồng Thời
 
 Tạo điều kiện cho các trùng hợp có ý nghĩa.
 
@@ -25761,7 +26079,7 @@ Tạo điều kiện cho các trùng hợp có ý nghĩa.
 - **Pattern Recognition**: Nhận dạng mẫu hình ý nghĩa.  
     → **Liên kết:** TRANSCENDENCE (Synchronicity), INTEGRATION (Meaning-Making).
 
-#### **58. Pattern Interrupt** - Ngắt Mẫu Hình
+#### **61. Pattern Interrupt** - Ngắt Mẫu Hình
 
 Phá vỡ các mẫu hình tự động để tạo ra thay đổi.
 
@@ -29973,13 +30291,14 @@ Kỹ thuật huấn luyện não bộ thông qua phản hồi thời gian thực
 
 Chức năng này tập trung vào khả năng quan sát hệ thống tư duy của chính mình như một đối tượng - nhìn vào các mẫu hình, chu kỳ, điểm mạnh và điểm yếu của hệ thống nhận thức cá nhân.
 
-Bao gồm 26 khái niệm được tổ chức thành 5 nhóm chủ đề:
+Bao gồm 30 khái niệm được tổ chức thành 6 nhóm chủ đề:
 
 1. **Core Self-Observation Methods** (9): Phương Pháp Tự Quan Sát Cốt Lõi - Self-Observation Protocol, Pattern Recognition in Self, Cognitive Strengths & Weaknesses Analysis, Thought Stream Observation, Cognitive Rhythm Tracking, Meta-Memory Monitoring, Decision-Making Patterns, Reflexivity, Internal Dialogue Analysis
 2. **System Dynamics & Ecology** (3): Động Lực Hệ Thống & Sinh Thái - Cognitive State Transitions, System Architecture Awareness, Cognitive Ecology
 3. **Recursive & Reflexive Observation** (5): Quan Sát Đệ Quy & Phản Tư - Observing, Observing the Observer, Observing the Process of Observation, Self-referential Loops, Observer Effect (Detailed)
 4. **Meta-Learning & Feedback Systems** (5): Siêu Học Tập & Hệ Thống Phản Hồi - Learning to Learn (System Focus), Meta-Learning from Errors, Meta-Feedback, Reflection Protocols, Contemplative Integration
 5. **Control Theory & Practice** (4): Lý Thuyết Kiểm Soát & Thực Hành - Cybernetics, Control Theory, Reflexive Sociology (Methodological), Neurofeedback Training (System Focus)
+6. **Advanced Self-Observation Techniques** (4): Kỹ Thuật Tự Quan Sát Nâng Cao - Observer Effect Awareness, Blind Spot Detection Methods, Real-time Self-Assessment, Introspection Reliability Assessment
 
 ---
 
@@ -30316,6 +30635,62 @@ Sử dụng phản hồi thần kinh để quan sát và điều chỉnh hoạt 
 - **Self-Regulation Training**: Huấn luyện tự điều chỉnh.
 
 → **Liên kết:** OPERATIONS (Brain Training), [META] LAYER (Self-Observation Protocol).
+
+---
+
+### **6. Advanced Self-Observation Techniques - Kỹ Thuật Tự Quan Sát Nâng Cao**
+
+Các kỹ thuật nâng cao để quan sát và hiểu sâu hơn về hệ thống nhận thức của bản thân.
+
+#### **27. Observer Effect Awareness** - Nhận Thức Hiệu Ứng Quan Sát
+
+Hiểu rằng việc quan sát bản thân có thể thay đổi chính điều được quan sát.
+
+- **Measurement Changes Reality**: Nhận thức rằng đo lường làm thay đổi thực tại được đo
+- **Self-Observation Distortion**: Biến dạng do tự quan sát - khi nhìn vào tâm trí, tâm trí thay đổi
+- **Compensatory Techniques**: Kỹ thuật bù đắp để giảm thiểu hiệu ứng quan sát
+- **Meta-Awareness of Effect**: Siêu nhận thức về chính hiệu ứng này
+
+→ **Liên kết:** FOUNDATIONS (Observer Effect), VALIDATION (Measurement), CF47 (Reflexivity)
+
+---
+
+#### **28. Blind Spot Detection Methods** - Phương Pháp Phát Hiện Điểm Mù
+
+Các phương pháp có hệ thống để phát hiện những gì bản thân không thể nhìn thấy về chính mình.
+
+- **External Feedback Integration**: Tích hợp phản hồi từ bên ngoài để thấy điểm mù
+- **Pattern Inversion**: Đảo ngược mẫu hình - tìm kiếm những gì bị bỏ qua
+- **Shadow Projection Recognition**: Nhận ra những gì bản thân "phóng chiếu" lên người khác
+- **Systematic Self-Questioning**: Đặt câu hỏi có hệ thống về các giả định ngầm
+
+→ **Liên kết:** VALIDATION (Error Detection), TRANSCENDENCE (Shadow Integration), CF47 (Cognitive Strengths & Weaknesses)
+
+---
+
+#### **29. Real-time Self-Assessment** - Đánh Giá Bản Thân Thời Gian Thực
+
+Khả năng đánh giá trạng thái nhận thức của mình trong thời gian thực, không phải hồi tưởng.
+
+- **Moment-to-Moment Monitoring**: Giám sát từng khoảnh khắc - nhận thức tức thời
+- **State Calibration**: Hiệu chỉnh trạng thái - điều chỉnh ngay khi phát hiện lệch
+- **Performance Feedback Loops**: Vòng phản hồi hiệu suất real-time
+- **Adaptive Response**: Phản ứng thích ứng dựa trên đánh giá tức thời
+
+→ **Liên kết:** NAVIGATION (Context Sensing), CF47 (Self-Observation Protocol), META (Meta-Cognition)
+
+---
+
+#### **30. Introspection Reliability Assessment** - Đánh Giá Độ Tin Cậy Nội Quan
+
+Đánh giá xem nội quan của bản thân có đáng tin cậy hay không - khi nào tin và khi nào nghi ngờ.
+
+- **Introspection Accuracy Calibration**: Hiệu chỉnh độ chính xác của nội quan
+- **Confabulation Detection**: Phát hiện khi tâm trí "bịa đặt" giải thích hợp lý hóa
+- **Emotion-Cognition Interference**: Nhận ra khi cảm xúc làm méo nhận thức
+- **Verification Through Action**: Xác minh nội quan qua hành động và kết quả
+
+→ **Liên kết:** VALIDATION (Reality Testing), FOUNDATIONS (Epistemology), CF47 (Internal Dialogue Analysis)
 
 ---
 
