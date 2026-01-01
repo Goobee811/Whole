@@ -187,13 +187,6 @@ function extractHeaders(section) {
 }
 
 module.exports = {
-  // Re-export from other modules for backward compatibility
-  COLORS,
-  log,
-  escapeRegex,
-  MINIMUM_BULLET_POINTS,
-  MAX_ACCEPTABLE_ERROR_RATE,
-
   // File utilities
   findWholemd,
   getWholemdPath,

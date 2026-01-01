@@ -11,16 +11,13 @@
  * - Consistent separator usage
  */
 
-const fs = require('fs');
-
 // Import from shared utilities (single source of truth)
 const {
   COLORS,
-  findWholemd,
-  findFunctionSection,
+  VIETNAMESE_CHARS_REGEX,
   extractHeaders,
   validateBilingualFormat,
-  validateFunctionNumber
+  initValidationScript
 } = require('../../shared');
 
 /**
@@ -54,8 +51,7 @@ function validateBilingualHeader(header) {
   }
 
   // Basic check for Vietnamese (has Vietnamese characters or is valid text)
-  const vietnameseChars = /[àáảãạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ]/i;
-  if (!vietnameseChars.test(vietnamese) && vietnamese.length > 3) {
+  if (!VIETNAMESE_CHARS_REGEX.test(vietnamese) && vietnamese.length > 3) {
     issues.push('Second part may not contain Vietnamese text');
   }
 
@@ -63,37 +59,8 @@ function validateBilingualHeader(header) {
 }
 
 function main() {
-  const rawFuncNum = process.argv[2];
-
-  if (!rawFuncNum) {
-    console.log('Usage: node bilingual-check.js <function-number>');
-    console.log('Example: node bilingual-check.js 1');
-    process.exit(1);
-  }
-
-  // Validate input (security)
-  const funcNum = validateFunctionNumber(rawFuncNum, 1, 50);
-  if (!funcNum) {
-    console.error('Invalid function number. Must be 1-50.');
-    process.exit(1);
-  }
-
-  let wholePath;
-  try {
-    wholePath = findWholemd();
-  } catch (e) {
-    console.error(e.message);
-    process.exit(1);
-  }
-
-  const content = fs.readFileSync(wholePath, 'utf8');
-  const section = findFunctionSection(content, funcNum);
-
-  if (!section) {
-    console.error(`Function ${funcNum} not found`);
-    process.exit(1);
-  }
-
+  // Use shared CLI initialization helper
+  const { funcNum, section } = initValidationScript('bilingual-check.js');
   const headers = extractHeaders(section.content);
 
   console.log(`\n${COLORS.cyan}Bilingual Check - CHỨC NĂNG ${funcNum}${COLORS.reset}`);

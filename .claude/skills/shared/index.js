@@ -9,6 +9,7 @@
  * - security.js: Input validation and sanitization
  * - constants.js: Configuration values
  * - whole-md-parser.js: Whole.md parsing utilities
+ * - cli-helpers.js: CLI initialization helpers
  */
 
 // Display utilities
@@ -22,6 +23,12 @@ const constants = require('./config/constants.js');
 
 // Whole.md parsing utilities
 const parser = require('./utils/whole-md-parser.js');
+
+// CLI helpers
+const cliHelpers = require('./utils/cli-helpers.js');
+
+// Validation types
+const validationTypes = require('./types/validation-result.js');
 
 module.exports = {
   // Display
@@ -47,6 +54,7 @@ module.exports = {
   MAX_ACCEPTABLE_ERROR_RATE: constants.MAX_ACCEPTABLE_ERROR_RATE,
   IDEAL_GROUP_SIZE_MIN: constants.IDEAL_GROUP_SIZE_MIN,
   IDEAL_GROUP_SIZE_MAX: constants.IDEAL_GROUP_SIZE_MAX,
+  VIETNAMESE_CHARS_REGEX: constants.VIETNAMESE_CHARS_REGEX,
   MAX_SESSION_ID_LENGTH: constants.MAX_SESSION_ID_LENGTH,
   FUNCTION_NUMBER_MIN: constants.FUNCTION_NUMBER_MIN,
   FUNCTION_NUMBER_MAX: constants.FUNCTION_NUMBER_MAX,
@@ -62,9 +70,18 @@ module.exports = {
   extractHeaders: parser.extractHeaders,
   validateBilingualFormat: parser.validateBilingualFormat,
 
+  // CLI Helpers
+  initValidationScript: cliHelpers.initValidationScript,
+
+  // Validation Types
+  createValidationResult: validationTypes.createValidationResult,
+  mergeValidationResults: validationTypes.mergeValidationResults,
+
   // Module references (for advanced usage)
   display,
   security,
   constants,
-  parser
+  parser,
+  cliHelpers,
+  validationTypes
 };

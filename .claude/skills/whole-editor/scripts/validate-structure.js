@@ -6,17 +6,13 @@
  * Usage: node validate-structure.js [function-number]
  */
 
-const fs = require('fs');
-
 // Import from shared utilities (single source of truth)
 const {
   COLORS,
   MINIMUM_BULLET_POINTS,
-  findWholemd,
-  findFunctionSection,
   extractConceptsWithContent,
   validateBilingualFormat,
-  validateFunctionNumber
+  initValidationScript
 } = require('../../shared');
 
 const REQUIRED_POINTS = [
@@ -78,37 +74,8 @@ function validateConcept(concept) {
 }
 
 function main() {
-  const rawFuncNum = process.argv[2];
-
-  if (!rawFuncNum) {
-    console.log('Usage: node validate-structure.js <function-number>');
-    console.log('Example: node validate-structure.js 1');
-    process.exit(1);
-  }
-
-  // Validate input (security)
-  const funcNum = validateFunctionNumber(rawFuncNum, 1, 50);
-  if (!funcNum) {
-    console.error('Invalid function number. Must be 1-50.');
-    process.exit(1);
-  }
-
-  let wholePath;
-  try {
-    wholePath = findWholemd();
-  } catch (e) {
-    console.error(e.message);
-    process.exit(1);
-  }
-
-  const content = fs.readFileSync(wholePath, 'utf8');
-  const section = findFunctionSection(content, funcNum);
-
-  if (!section) {
-    console.error(`Function ${funcNum} not found`);
-    process.exit(1);
-  }
-
+  // Use shared CLI initialization helper
+  const { funcNum, section } = initValidationScript('validate-structure.js');
   const concepts = extractConceptsWithContent(section.content);
   let hasErrors = false;
   let passCount = 0;
