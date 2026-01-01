@@ -134,7 +134,7 @@ Optimal (4-7):      64%             ~68%
 |-------|-------|-------|
 | Similar group name prefixes | ~21 | Different suffixes, acceptable |
 | ~~Missing Vietnamese translations~~ | ~~5~~ → 0 | ✅ Resolved via reconcile commits |
-| Inconsistent naming patterns | 5 | Minor stylistic
+| ~~Inconsistent naming patterns~~ | ~~5~~ → 0 | ✅ Fixed: (Advanced)→Advanced prefix, removed (Bổ sung) suffix |
 
 ---
 
@@ -168,11 +168,11 @@ BEFORE                              AFTER
 Remaining low-priority items (optional future work):
 - Similar group prefixes (~21) - acceptable, have distinct suffixes
 - ~~Minor Vietnamese translation gaps (5)~~ - ✅ Resolved
-- Minor naming style inconsistencies (5)
+- ~~Minor naming style inconsistencies (5)~~ - ✅ Resolved
 
 ---
 
-*Report updated: 01/01/2026 12:58*
+*Report updated: 01/01/2026 13:08*
 *Analysis type: Post-Optimization Coherence Review (Final)*
 *Data source: Whole.md (385 groups, 2072 concepts)*
 *Previous report: bottom-up-analysis-251230-2229-group-level-coherence.md*

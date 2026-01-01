@@ -4078,7 +4078,7 @@ Bao gồm 78 khái niệm được tổ chức thành 13 nhóm chủ đề:
 2. **Metamorphosis & Discontinuous Change** (7): Biến Thái & Thay Đổi Gián Đoạn - Metamorphosis & Phase Transition, Crisis & Breakthrough, Punctuation Dynamics, Threshold Crossing, Quantum Leap, Transmutation, Molting & Shedding
 3. **Creative Destruction & Regeneration** (5): Phá Hủy Sáng Tạo & Tái Sinh - Creative Destruction & Renewal, Ego Death & Rebirth, Apoptosis & Regeneration, Dissolution & Rebirth, Assumption Annihilation
 4. **Paradigm Shifts & Cognitive Transformation** (8): Chuyển Đổi Mô Thức & Chuyển Hóa Nhận Thức - Paradigm Shift Dynamics, Paradigm Shifting, Cognitive Reboot, State Shifting, Evolutionary Thinking, Conceptual Mutation, Paradigm Hacking, Transformative Learning
-5. **Antifragility & Crisis Catalysis** (7): Phản Mong Manh & Xúc Tác Khủng Hoảng - Hormesis & Antifragility, Crisis Optimization, Crisis Farming, Pressure Catalysis, Emergency Emergence, Antifragile Mindset (Bổ sung), Black Swan Surfing
+5. **Antifragility & Crisis Catalysis** (7): Phản Mong Manh & Xúc Tác Khủng Hoảng - Hormesis & Antifragility, Crisis Optimization, Crisis Farming, Pressure Catalysis, Emergency Emergence, Antifragile Mindset, Black Swan Surfing
 6. **Order-Chaos Dynamics & Complexity** (5): Động Lực Trật Tự-Hỗn Loạn & Phức Tạp - Order ↔ Chaos Dynamics, Disruptive Innovation Dynamics, Bifurcation Cascade, Reversibility & Irreversibility, Plasma Instabilities
 7. **Timing, Cycles & Developmental Rhythms** (7): Thời Cơ, Chu Kỳ & Nhịp Điệu Phát Triển - Unfolding (Entelechy), Kairos & Chronos, Liminal Transition, Maturation & Ripening, Incubation & Emergence, Recovery Cycles, Adaptation Rhythms
 8. **Dialectical Process & Morphogenesis** (6): Quá Trình Biện Chứng & Hình Thái Phát Sinh - Dialectical Process, Morphogenesis, Catalytic Transformation, Spiral Dynamics, Hysteresis in Change, Developmental Thinking
@@ -4481,7 +4481,7 @@ Các thuộc tính hoặc giải pháp mới xuất hiện đột ngột trong t
 
 → **Liên kết:** CREATION (Rapid Innovation), DYNAMICS (Crisis Dynamics)
 
-#### **33. Antifragile Mindset (Bổ sung)** - Tư Duy Phản Mong Manh
+#### **33. Antifragile Mindset** - Tư Duy Phản Mong Manh
 
 [Liên quan đến Antifragility đã có, bổ sung về mindset]
 
@@ -30974,7 +30974,7 @@ Bao gồm 35 khái niệm được tổ chức thành 7 nhóm chủ đề:
 
 1. **Foundational Learning Skills** (6): Kỹ Năng Học Tập Nền Tảng - Deliberate Practice of Thinking, Cognitive Upgrade Protocols, Learning Rate Optimization, Error Cultivation, Feedback Loop Optimization, Skill Tree Mapping
 2. **Cognitive Optimization** (6): Tối Ưu Hóa Nhận Thức - Cognitive Tool Building, System Bottleneck Identification, Recursive Learning Loops, Cognitive Refactoring, Performance Benchmarking, Zone of Proximal Development Navigation
-3. **Foundational Recursion** (6): Đệ Quy Nền Tảng - Creating Creation, Integrating Integration, Learning to Learn (Recursive), Meta-Learning (Advanced), Meta-Adaptation, Recursive Reasoning
+3. **Foundational Recursion** (6): Đệ Quy Nền Tảng - Creating Creation, Integrating Integration, Learning to Learn (Recursive), Advanced Meta-Learning, Meta-Adaptation, Recursive Reasoning
 4. **Progressive Depth** (5): Chiều Sâu Tiến Hóa - Learning → Learning to Learn → Learning How Learning Changes the Learner, Creating → Creating Creation Methods → Creating Meta-Creative Systems, Thinking About Thinking About Thinking, Finding Patterns of Patterns of Patterns, Systematizing Systems of Systems
 5. **Navigation Evolution** (5): Tiến Hóa Điều Hướng - Navigation Learning, Navigation Innovation, Navigation Mastery, Razor Recursion, Meta-Learning Algorithms
 6. **Infinite Iteration** (4): Lặp Lại Vô Hạn - Meta-izing the Meta of Meta, Navigating Infinite Regression, Meta-Systemic Thinking, Egyptian Temple Initiation Rites
@@ -31162,7 +31162,7 @@ Học về cách học về cách học - vòng lặp đệ quy của học tậ
 
 → **Liên kết:** [META] LAYER (Meta-Learning), OPERATIONS (Learning Systems).
 
-#### **16. Meta-Learning (Advanced) - Siêu Học Nâng Cao** [Tự Tiến Hóa & Tối Ưu]
+#### **16. Advanced Meta-Learning - Siêu Học Nâng Cao** [Tự Tiến Hóa & Tối Ưu]
 
 Cấp độ CAO NHẤT của meta-learning - không chỉ học cách học mà còn TỐI ƯU HÓA chính khả năng meta-learning. Đây là "học về việc học về học" - recursive self-improvement ở cấp độ meta.
 
