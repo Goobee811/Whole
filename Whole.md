@@ -16772,10 +16772,10 @@ Bao gồm 50 khái niệm được tổ chức thành 10 nhóm chủ đề:
 4. **Knowledge & Data Integration** (4): Tích Hợp Tri Thức & Dữ Liệu - Data Integration & Analysis, Semantic Integration, Knowledge Graph Construction, Transdisciplinary Framework
 5. **Experiential & Temporal Integration** (5): Tích Hợp Trải Nghiệm & Thời Gian - Narrative Integration, Temporal Integration, Multi-Modal Learning, Memetic Integration, Cognitive Cartography
 6. **Foundational Methods** (5): Phương Pháp Nền Tảng - Feynman Technique, Zettelkasten Method, Progressive Summarization, Knowledge Synthesis Protocol, Meta-Learning Protocols
-7. **Thinking Modes** (7): Các Chế Độ Tư Duy - Dialectical Thinking, Both/And Thinking, Holistic Integration Thinking, Integral Thinking, Integrative Reasoning, Transdisciplinary Reasoning, Holographic Reasoning
+7. **Integration Thinking Modes** (7): Các Chế Độ Tư Duy Tích Hợp - Dialectical Thinking, Both/And Thinking, Holistic Integration Thinking, Integral Thinking, Integrative Reasoning, Transdisciplinary Reasoning, Holographic Reasoning
 8. **Creative Bridging** (7): Kết Nối Sáng Tạo - Conceptual Bridging, Analogical Transfer, Hybrid Thinking, Interdisciplinary Fusion, Fusion Methodology, Creative Alchemy, Synthesis Protocols
 9. **Knowledge Architecture** (4): Kiến Trúc Tri Thức - Second Brain Systems, Knowledge Graphs, Semantic Networks, Thought Scaffolding
-10. **Wisdom Traditions** (4): Truyền Thống Trí Tuệ - Vedanta Synthesis, Neo-Confucian Integration, Syncretic Traditions, Sufi Poetry/Love Synthesis
+10. **Syncretic Wisdom Traditions** (4): Truyền Thống Trí Tuệ Hội Nhập - Vedanta Synthesis, Neo-Confucian Integration, Syncretic Traditions, Sufi Poetry/Love Synthesis
 
 ---
 
@@ -17190,7 +17190,7 @@ Khác với framework đơn lẻ ở OPERATIONS #24, đây là về TÍCH HỢP:
 
 ---
 
-### **7. Thinking Modes - Các Chế Độ Tư Duy**
+### **7. Integration Thinking Modes - Các Chế Độ Tư Duy Tích Hợp**
 
 Các khái niệm và nguyên lý về các chế độ tư duy.
 
@@ -17451,7 +17451,7 @@ Các cấu trúc hỗ trợ để phát triển và tổ chức tư duy.
 
 ---
 
-### **10. Wisdom Traditions - Truyền Thống Trí Tuệ**
+### **10. Syncretic Wisdom Traditions - Truyền Thống Trí Tuệ Hội Nhập**
 
 Các khái niệm và nguyên lý về truyền thống trí tuệ.
 
@@ -17521,7 +17521,7 @@ Bao gồm 49 khái niệm được tổ chức thành 10 nhóm chủ đề:
 4. **Polarity & Paradox Mastery** (4): Làm Chủ Cực Tính & Nghịch Lý - Masculine-Feminine Integration, Spiritual-Mundane Integration, Inner-Outer World Integration, Paradox Integration
 5. **Practical Life Coherence** (4): Mạch Lạc Đời Sống Thực Tiễn - Work-Life Integration, Value Clarification & Integration, Skill Integration, Habit Integration
 6. **Structural Patterns** (6): Mẫu Hình Cấu Trúc - Network Structure, Hierarchy Structure, Matrix Structure, Fractal Structure, Scale-Free Networks, Recursive Structures
-7. **System Dynamics** (6): Động Lực Hệ Thống - Dynamic Balance, Structure ↔ Flexibility Polarity, Integrative States, Cognitive Load Management, Ecosystem Dynamics, Field Coherence Mastery
+7. **Integrative System Dynamics** (6): Động Lực Hệ Thống Tích Hợp - Dynamic Balance, Structure ↔ Flexibility Polarity, Integrative States, Cognitive Load Management, Ecosystem Dynamics, Field Coherence Mastery
 8. **Thinking Systems** (6): Hệ Thống Tư Duy - Network Thinking, Fractal Thinking, Systems Biology Thinking, Morphic Resonance Tuning, Dimensional Folding, Fractal Wisdom Navigation
 9. **Unification Theories** (6): Các Lý Thuyết Thống Nhất - Unified Field Theories, Theory of Everything, M-Theory, The Unified Field (Consciousness), Holographic Principle, Gaia Hypothesis
 10. **Cognitive Tools** (5): Công Cụ Nhận Thức - Cognitive Prosthetics, Extended Mind Thesis, Network Theory, Category Theory, Holographic Universe Framework
@@ -17895,7 +17895,7 @@ Cấu trúc có chứa bản thân nó như một phần - nguyên lý TỔ CH�
 
 ---
 
-### **7. System Dynamics - Động Lực Hệ Thống**
+### **7. Integrative System Dynamics - Động Lực Hệ Thống Tích Hợp**
 
 Các hệ thống liên quan đến động lực hệ thống.
 
