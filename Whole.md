@@ -27,7 +27,7 @@ Miền này tập hợp các nguyên lý, mô hình tư duy và trí tuệ cốt
 
 ### **Tổng Quan**
 
-Các nguyên lý đầu tiên và tiên đề là những chân lý tự hiển không thể giản lược thêm - nền tảng của mọi suy luận và tri thức. Chúng là các "nguyên tử" của tư duy, từ đó mọi cấu trúc phức tạp hơn được xây dựng.
+Các nguyên lý đầu tiên và tiên đề là những chân lý tự hiển không thể giản lược thêm - nền tảng của mọi suy luận và tri thức. Chúng là các "nguyên tử" của tư duy, từ đó mọi cấu trúc phức tạp hơn được xây dựng. **Cầu nối Theory → Practice:** Xem OPERATIONS (CF11-12: Analytical Reasoning & Problem-Solving) để áp dụng các nguyên lý này vào thực hành; xem CREATION (CF16: Lateral Thinking) để sử dụng sáng tạo.
 
 Bao gồm 40 khái niệm được tổ chức thành 12 nhóm chủ đề:
 
@@ -1613,7 +1613,7 @@ Nhận thức về tính toàn vẹn và sự liên kết của mọi thứ.
 
 ### **Tổng Quan**
 
-Các giá trị cốt lõi và khung đạo đức cung cấp "la bàn đạo đức" để định hướng hành động và quyết định trong mọi bối cảnh.
+Các giá trị cốt lõi và khung đạo đức cung cấp "la bàn đạo đức" để định hướng hành động và quyết định trong mọi bối cảnh. Đây là nền tảng đạo đức cho OPERATIONS (CF15: Decision Frameworks) và INTEGRATION (CF29: Collaborative Intelligence). **Cầu nối Ethics → Action:** Xem OPERATIONS để áp dụng các giá trị này vào thực hành.
 
 Bao gồm 26 khái niệm được tổ chức thành 5 nhóm chủ đề:
 
@@ -9705,7 +9705,7 @@ Bộ sưu tập các phương pháp và công nghệ tiên tiến từ nhiều l
 
 ### **Tổng Quan**
 
-Các phương pháp và hệ thống để thu nhận, mã hóa, lưu trữ và truy xuất thông tin một cách hiệu quả. Đây là "hệ thống quản lý tri thức" của OPERATIONS.
+Các phương pháp và hệ thống để thu nhận, mã hóa, lưu trữ và truy xuất thông tin một cách hiệu quả. Đây là "hệ thống quản lý tri thức" của OPERATIONS - tập trung vào **kỹ thuật học tập thực hành** (operational learning: HOW to learn effectively). Khác với META (CF49: Recursive Self-Improvement) tập trung vào **siêu học tập** (meta-learning: learning ABOUT learning itself).
 
 Bao gồm 38 khái niệm được tổ chức thành 7 nhóm chủ đề:
 
@@ -19104,7 +19104,7 @@ Kết hợp thế giới vật lý và kỹ thuật số.
 
 ### **Tổng Quan**
 
-Chức năng này tập trung vào các phương pháp và thực hành để kết nối con người, ý tưởng và hệ thống thông qua giao tiếp, hợp tác và tạo ý nghĩa chung.
+Chức năng này tập trung vào các phương pháp và thực hành để kết nối con người, ý tưởng và hệ thống thông qua giao tiếp, hợp tác và tạo ý nghĩa chung. **Cầu nối Individual → Collective:** Đây là nơi các kỹ năng cá nhân từ OPERATIONS và DYNAMICS được nhân rộng thành sức mạnh tập thể; xem AMPLIFICATION (CF36: Network Effects) để hiểu cách scale.
 
 Bao gồm 62 khái niệm được tổ chức thành 10 nhóm chủ đề:
 
@@ -30968,7 +30968,7 @@ Sử dụng phản hồi thần kinh để nhận dạng và tối ưu hóa các
 
 ### **Tổng Quan**
 
-Chức năng này là về việc sử dụng hệ thống meta để cải thiện chính hệ thống - khả năng học cách học tốt hơn, tư duy về cách tư duy tốt hơn, và tối ưu hóa chính quá trình tối ưu hóa.
+Chức năng này là về việc sử dụng hệ thống meta để cải thiện chính hệ thống - khả năng học cách học tốt hơn, tư duy về cách tư duy tốt hơn, và tối ưu hóa chính quá trình tối ưu hóa. Đây là **siêu học tập** (meta-learning: learning ABOUT learning itself, recursive self-improvement). Khác với OPERATIONS (CF14: Learning & Memory Systems) tập trung vào **kỹ thuật học tập thực hành** (operational learning: HOW to learn effectively).
 
 Bao gồm 35 khái niệm được tổ chức thành 7 nhóm chủ đề:
 
