@@ -93,45 +93,45 @@ hooks/lib/
 ### Phase 1: Consolidate Shared Utilities
 **Scope**: Create proper module structure in skills/shared/
 
-1. [ ] Create `skills/shared/utils/display.js` - Extract COLORS and formatting
+1. [x] Create `skills/shared/utils/display.js` - Extract COLORS and formatting
    - file: `.claude/skills/shared/utils/display.js`
-2. [ ] Create `skills/shared/utils/security.js` - Move from ck-config-utils
+2. [x] Create `skills/shared/utils/security.js` - Move from ck-config-utils
    - file: `.claude/skills/shared/utils/security.js`
-3. [ ] Update `skills/shared/config/constants.js` - Add all constants
+3. [x] Update `skills/shared/config/constants.js` - Add all constants
    - file: `.claude/skills/shared/config/constants.js`
-4. [ ] Clean `whole-md-parser.js` - Remove COLORS, import from display.js
+4. [x] Clean `whole-md-parser.js` - Remove COLORS, import from display.js
    - file: `.claude/skills/shared/utils/whole-md-parser.js`
-5. [ ] Create `skills/shared/index.js` - Central export
+5. [x] Create `skills/shared/index.js` - Central export
    - file: `.claude/skills/shared/index.js`
 
 ### Phase 2: Update Consumers
 **Scope**: Fix all import paths
 
-1. [ ] Update `validate-regroup.js` - Use findFunctionSection
+1. [x] Update `validate-regroup.js` - Use findFunctionSection
    - file: `.claude/skills/whole-regrouper/scripts/validate-regroup.js`
-2. [ ] Update `bilingual-check.js` - Import from shared/
+2. [x] Update `bilingual-check.js` - Import from shared/
    - file: `.claude/skills/whole-editor/scripts/bilingual-check.js`
-3. [ ] Update `validate-structure.js` - Import from shared/
+3. [x] Update `validate-structure.js` - Import from shared/
    - file: `.claude/skills/whole-editor/scripts/validate-structure.js`
-4. [ ] Update `check-cross-refs.js` - Import from shared/
+4. [x] Update `check-cross-refs.js` - Import from shared/
    - file: `.claude/skills/whole-editor/scripts/check-cross-refs.js`
 
 ### Phase 3: Refactor Hooks
 **Scope**: Clean up hooks/lib/
 
-1. [ ] Slim `ck-config-utils.cjs` - Keep only hook-specific (progress, git)
+1. [x] Slim `ck-config-utils.cjs` - Keep only hook-specific (progress, git)
    - file: `.claude/hooks/lib/ck-config-utils.cjs`
-2. [ ] Update hook imports - Point to skills/shared/
+2. [x] Update hook imports - Point to skills/shared/
    - files: All hooks in `.claude/hooks/`
-3. [ ] Test all hooks still work
+3. [x] Test all hooks still work
 
 ### Phase 4: Validation & Cleanup
 **Scope**: Verify everything works
 
-1. [ ] Run all validation scripts
-2. [ ] Test hooks with Claude
-3. [ ] Remove dead code
-4. [ ] Update any documentation
+1. [x] Run all validation scripts
+2. [x] Test hooks with Claude
+3. [x] Remove dead code
+4. [x] Update any documentation
 
 ## Backward Compatibility
 - **Breaking Changes**: Import paths change (internal only)
