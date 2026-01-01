@@ -8,18 +8,16 @@
 
 const fs = require('fs');
 
-// Import shared utilities (DRY)
+// Import from shared utilities (single source of truth)
 const {
   COLORS,
   MINIMUM_BULLET_POINTS,
   findWholemd,
   findFunctionSection,
   extractConceptsWithContent,
-  validateBilingualFormat
-} = require('../../shared/utils/whole-md-parser.js');
-
-// Import security utils
-const { validateFunctionNumber } = require('../../../hooks/lib/ck-config-utils.cjs');
+  validateBilingualFormat,
+  validateFunctionNumber
+} = require('../../shared');
 
 const REQUIRED_POINTS = [
   'Definition',     // or Vietnamese equivalent

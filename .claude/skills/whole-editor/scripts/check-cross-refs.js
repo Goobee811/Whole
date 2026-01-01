@@ -13,15 +13,13 @@
 
 const fs = require('fs');
 
-// Import shared utilities (DRY)
+// Import from shared utilities (single source of truth)
 const {
   COLORS,
   findWholemd,
-  findFunctionSection
-} = require('../../shared/utils/whole-md-parser.js');
-
-// Import security utils
-const { validateFunctionNumber } = require('../../../hooks/lib/ck-config-utils.cjs');
+  findFunctionSection,
+  validateFunctionNumber
+} = require('../../shared');
 
 /**
  * Extract cross-references from section

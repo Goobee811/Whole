@@ -1,18 +1,28 @@
 #!/usr/bin/env node
 
 /**
- * Shared utilities for Whole Claude hooks
+ * Hook-specific utilities for Whole Claude hooks
  *
- * Common functions used across multiple hooks for:
- * - Progress tracking
- * - Git operations
- * - File operations
- * - Output formatting
+ * This file contains ONLY hook-specific functions:
+ * - Progress tracking (load/save)
+ * - Git operations (branch, status)
+ *
+ * All other utilities are imported from skills/shared/ (single source of truth):
+ * - Display: COLORS, colorize
+ * - Security: sanitizeSessionId, validateHookInput, validateFunctionNumber, escapeRegex
  */
 
 const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
+
+// Import from shared utilities (single source of truth)
+// Re-export for backward compatibility with existing hooks
+const shared = require('../../skills/shared');
+
+// ============================================
+// Hook-Specific Functions
+// ============================================
 
 /**
  * Load progress tracking file
@@ -107,96 +117,6 @@ function wholeExists() {
 }
 
 /**
- * ANSI color codes for terminal output
- */
-const COLORS = {
-  reset: '\x1b[0m',
-  bright: '\x1b[1m',
-  red: '\x1b[31m',
-  green: '\x1b[32m',
-  yellow: '\x1b[33m',
-  blue: '\x1b[34m',
-  cyan: '\x1b[36m'
-};
-
-/**
- * Output colored text
- * @param {string} text - Text to output
- * @param {string} color - Color name from COLORS
- * @returns {string} Colored text string
- */
-function colorize(text, color) {
-  return `${COLORS[color] || ''}${text}${COLORS.reset}`;
-}
-
-// ============================================
-// Security Functions (Phase 3 - Hardening)
-// ============================================
-
-/**
- * Sanitize session ID to prevent path traversal attacks
- * Only allows alphanumeric characters, dashes, and underscores
- * @param {*} id - Raw session ID from stdin
- * @returns {string} Sanitized session ID
- */
-function sanitizeSessionId(id) {
-  if (!id || typeof id !== 'string') {
-    return process.ppid?.toString() || 'default';
-  }
-  // Remove any chars except alphanumeric, dash, underscore; limit length
-  const sanitized = id.replace(/[^a-zA-Z0-9_-]/g, '').substring(0, 64);
-  return sanitized || 'default';
-}
-
-/**
- * Validate and sanitize hook input JSON structure
- * @param {*} data - Raw parsed JSON from stdin
- * @returns {Object|null} Validated data object or null if invalid
- */
-function validateHookInput(data) {
-  if (!data || typeof data !== 'object') return null;
-
-  return {
-    source: typeof data.source === 'string' ? data.source : 'unknown',
-    session_id: sanitizeSessionId(data.session_id),
-    tool_name: typeof data.tool_name === 'string' ? data.tool_name : null,
-    tool_parameters: (data.tool_parameters && typeof data.tool_parameters === 'object')
-      ? data.tool_parameters
-      : {},
-    tool_input: (data.tool_input && typeof data.tool_input === 'object')
-      ? data.tool_input
-      : {}
-  };
-}
-
-/**
- * Validate function number from CLI args
- * @param {string} input - Raw function number string
- * @param {number} min - Minimum valid value (default 1)
- * @param {number} max - Maximum valid value (default 50)
- * @returns {number|null} Valid function number or null
- */
-function validateFunctionNumber(input, min = 1, max = 50) {
-  if (!input || typeof input !== 'string') return null;
-  if (!/^\d+$/.test(input)) return null;
-
-  const num = parseInt(input, 10);
-  if (isNaN(num) || num < min || num > max) return null;
-
-  return num;
-}
-
-/**
- * Escape special regex characters to prevent ReDoS
- * @param {string} str - String to escape
- * @returns {string} Escaped string safe for regex
- */
-function escapeRegex(str) {
-  if (!str || typeof str !== 'string') return '';
-  return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-}
-
-/**
  * Standardized error handler for hooks
  * Logs to stderr only when CLAUDE_HOOK_DEBUG is set
  * @param {string} hookName - Name of the hook for identification
@@ -214,24 +134,21 @@ function handleHookError(hookName, error) {
 }
 
 module.exports = {
-  // Progress tracking
+  // Hook-specific functions
   loadProgress,
   saveProgress,
-  // Git operations
   getGitBranch,
   getGitStatus,
-  // Utility functions
   calcPercentage,
   formatDateVN,
   wholeExists,
-  // Output formatting
-  COLORS,
-  colorize,
-  // Security functions (Phase 3)
-  sanitizeSessionId,
-  validateHookInput,
-  validateFunctionNumber,
-  escapeRegex,
-  // Error handling (Phase 5)
-  handleHookError
+  handleHookError,
+
+  // Re-export from shared for backward compatibility
+  COLORS: shared.COLORS,
+  colorize: shared.colorize,
+  sanitizeSessionId: shared.sanitizeSessionId,
+  validateHookInput: shared.validateHookInput,
+  validateFunctionNumber: shared.validateFunctionNumber,
+  escapeRegex: shared.escapeRegex
 };

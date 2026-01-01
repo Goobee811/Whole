@@ -13,17 +13,15 @@
 
 const fs = require('fs');
 
-// Import shared utilities (DRY)
+// Import from shared utilities (single source of truth)
 const {
   COLORS,
   findWholemd,
   findFunctionSection,
   extractHeaders,
-  validateBilingualFormat
-} = require('../../shared/utils/whole-md-parser.js');
-
-// Import security utils
-const { validateFunctionNumber } = require('../../../hooks/lib/ck-config-utils.cjs');
+  validateBilingualFormat,
+  validateFunctionNumber
+} = require('../../shared');
 
 /**
  * Validate bilingual header content

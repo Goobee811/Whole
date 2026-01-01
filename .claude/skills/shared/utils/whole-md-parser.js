@@ -13,41 +13,10 @@
 const fs = require('fs');
 const path = require('path');
 
-// Constants
-const MINIMUM_BULLET_POINTS = 4;
-const MAX_ACCEPTABLE_ERROR_RATE = 0.5;
-
-/**
- * ANSI color codes for terminal output
- */
-const COLORS = {
-  reset: '\x1b[0m',
-  bold: '\x1b[1m',
-  red: '\x1b[31m',
-  green: '\x1b[32m',
-  yellow: '\x1b[33m',
-  blue: '\x1b[34m',
-  cyan: '\x1b[36m'
-};
-
-/**
- * Output colored log message
- * @param {string} color - Color from COLORS
- * @param {string} symbol - Symbol prefix
- * @param {string} message - Message text
- */
-function log(color, symbol, message) {
-  console.log(`${color}${symbol} ${message}${COLORS.reset}`);
-}
-
-/**
- * Escape special regex characters
- * @param {string} str - String to escape
- * @returns {string} Escaped string
- */
-function escapeRegex(str) {
-  return str.toString().replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-}
+// Import from sibling modules (DRY)
+const { COLORS, log } = require('./display.js');
+const { escapeRegex } = require('./security.js');
+const { MINIMUM_BULLET_POINTS, MAX_ACCEPTABLE_ERROR_RATE } = require('../config/constants.js');
 
 /**
  * Find Whole.md by searching up directory tree
@@ -78,7 +47,7 @@ function getWholemdPath() {
 
 /**
  * Find function section by number
- * Supports both "CHỨC NĂNG" (with diacritics) and "CHUC NANG" (without)
+ * Supports both "CHUC NANG" (with diacritics) and "CHUC NANG" (without)
  * @param {string} content - Full Whole.md content
  * @param {number|string} funcNum - Function number
  * @returns {object|null} Section object with startLine, endLine, lines, content
@@ -218,14 +187,14 @@ function extractHeaders(section) {
 }
 
 module.exports = {
-  // Constants
-  MINIMUM_BULLET_POINTS,
-  MAX_ACCEPTABLE_ERROR_RATE,
+  // Re-export from other modules for backward compatibility
   COLORS,
-
-  // Utility functions
   log,
   escapeRegex,
+  MINIMUM_BULLET_POINTS,
+  MAX_ACCEPTABLE_ERROR_RATE,
+
+  // File utilities
   findWholemd,
   getWholemdPath,
 
