@@ -21,7 +21,7 @@ const { validateHookInput, handleHookError } = require('./lib/ck-config-utils.cj
  */
 function isWholeEdit(toolInput) {
   if (!toolInput || !toolInput.file_path) return false;
-  return toolInput.file_path.includes('Whole.md');
+  return path.basename(toolInput.file_path) === 'Whole.md';
 }
 
 /**

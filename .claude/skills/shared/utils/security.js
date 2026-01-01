@@ -39,7 +39,10 @@ function validateHookInput(data) {
       : {},
     tool_input: (data.tool_input && typeof data.tool_input === 'object')
       ? data.tool_input
-      : {}
+      : {},
+    tool_result: typeof data.tool_result === 'string'
+      ? data.tool_result.substring(0, 1000)
+      : null
   };
 }
 

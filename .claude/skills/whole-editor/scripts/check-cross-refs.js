@@ -28,7 +28,7 @@ function extractCrossReferences(section) {
   const refs = [];
 
   // Match patterns like: → **Liên kết:** or **Cross-ref:**
-  const refSectionPattern = /(?:→|->)\s*\*\*(?:Liên kết|Lien ket|Cross-ref)[:\*]*\*\*([^#]+?)(?=####|\n\n\n|$)/gi;
+  const refSectionPattern = /(?:→|->)\s*\*\*(?:Liên kết|Lien ket|Cross-ref)[:\*]*\*\*([^#]{1,500}?)(?=####|\n\n\n|$)/gi;
 
   let match;
   while ((match = refSectionPattern.exec(section)) !== null) {
