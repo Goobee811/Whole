@@ -5,6 +5,11 @@
  * - Path traversal attacks
  * - ReDoS (regex denial of service)
  * - Invalid input injection
+ *
+ * @fileoverview Security utilities for input validation and sanitization
+ * @module skills/shared/utils/security
+ * @author Whole Project
+ * @version 1.0.0
  */
 
 /**

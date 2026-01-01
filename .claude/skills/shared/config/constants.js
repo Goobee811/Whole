@@ -5,9 +5,14 @@
  * - Improve maintainability (single source of truth)
  * - Enable easy configuration changes
  * - Document the meaning of each value
+ *
+ * @fileoverview Configuration constants for Whole project
+ * @module skills/shared/config/constants
+ * @author Whole Project
+ * @version 1.0.0
  */
 
-module.exports = {
+module.exports = Object.freeze({
   // ============================================
   // Structure Requirements
   // ============================================
@@ -74,4 +79,4 @@ module.exports = {
 
   /** Progress tracking file */
   PROGRESS_FILE: '.whole-progress.json'
-};
+});

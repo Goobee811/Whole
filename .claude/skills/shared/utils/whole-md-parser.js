@@ -8,6 +8,11 @@
  * - bilingual-check.js
  * - validate-structure.js
  * - check-cross-refs.js
+ *
+ * @fileoverview Whole.md parsing utilities
+ * @module skills/shared/utils/whole-md-parser
+ * @author Whole Project
+ * @version 1.0.0
  */
 
 const fs = require('fs');
@@ -158,11 +163,14 @@ function extractConceptsWithContent(section) {
 
 /**
  * Validate bilingual format (has separator)
+ * Checks for either dash (' - ') or pipe (' | ') separator
  * @param {string} text - Text to check
  * @returns {boolean} True if bilingual format detected
  */
 function validateBilingualFormat(text) {
-  return / - | \| /.test(text);
+  const hasDashSeparator = text.includes(' - ');
+  const hasPipeSeparator = text.includes(' | ');
+  return hasDashSeparator || hasPipeSeparator;
 }
 
 /**

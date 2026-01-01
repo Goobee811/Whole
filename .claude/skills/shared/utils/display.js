@@ -3,6 +3,11 @@
  *
  * Centralized ANSI colors and formatting functions.
  * Single source of truth - all other files import from here.
+ *
+ * @fileoverview Display utilities for terminal output
+ * @module skills/shared/utils/display
+ * @author Whole Project
+ * @version 1.0.0
  */
 
 /**
