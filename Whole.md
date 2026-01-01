@@ -1989,23 +1989,25 @@ Nghệ thuật nấu ăn với mục đích chữa bệnh.
 
 Trí tuệ từ các truyền thống tư tưởng lớn của nhân loại, được chưng cất thành các nguyên lý sống và tư duy đã được thời gian kiểm chứng.
 
-Bao gồm 64 khái niệm được tổ chức thành 8 nhóm chủ đề:
+Bao gồm 64 khái niệm được tổ chức thành 10 nhóm chủ đề:
 
-1. **Western Philosophical Foundations** (15): Nền Tảng Triết Học Phương Tây - Stoicism, Socratic Wisdom, Aristotelian Virtue Ethics, Epicureanism, Existentialism, Pragmatism, Platonic Forms, Pyrrhonian Skepticism, The Categorical Imperative, Utilitarianism, Amor Fati, The Veil of Ignorance, I and Thou, Humanism, The Trivium
-2. **Eastern Spiritual & Philosophical Paths** (14): Con Đường Tâm Linh & Triết Học Đông Phương - Taoist Principles, Buddhist Principles, The Four Noble Truths, The Eightfold Path, Bodhisattva Ideal, Zen Principles, Advaita Vedanta, Karma Yoga, Confucian Ethics, Yin-Yang, Middle Way, Brahman-Atman, Ren (仁), Li (禮)
-3. **Contemplative & Meditative Practices** (6): Các Thực Hành Thiền Định & Nội Quán - Shamatha, Vipassana, Zen Shikantaza, Dzogchen Sky Gazing, Atma Vichara, Shoshin
-4. **Japanese Aesthetic & Life Philosophy** (4): Thẩm Mỹ & Triết Sống Nhật Bản - Kintsugi Philosophy, Wabi-Sabi, Ikigai, Japanese Gardens
-5. **Sacred Traditions & Mysticism** (8): Truyền Thống Thiêng Liêng & Huyền Bí - Sufi Wisdom, Ahimsa, The Golden Rule, Tikkun Olam, Via Negativa, Ein Sof, Ma'at, The Perennial Philosophy
-6. **Universal Patterns & Archetypes** (8): Trí Tuệ Nguyên Mẫu & Mẫu Hình Phổ Quát - The Hero's Journey, Synchronicity, Seven Generation Stewardship, Memento Mori, The Art of War Wisdom, Ubuntu, Master Wisdom Tradition, Negative Space
-7. **Cultural Arts & Sacred Expression** (5): Nghệ Thuật Văn Hóa & Biểu Đạt Thiêng Liêng - Islamic Gardens, Raga System, Gamelan Orchestra, Noh & Kabuki, Indian Classical Dance
-8. **Holistic Health & Natural Systems** (4): Sức Khỏe Toàn Diện & Hệ Thống Tự Nhiên - TCM, Ayurveda, Five Elements, Meridian System
+1. **Metaphysics & Life Philosophy** (8): Siêu Hình & Triết Sống - Stoicism, Socratic Wisdom, Aristotelian Virtue Ethics, Epicureanism, Existentialism, Pragmatism, Platonic Forms, Pyrrhonian Skepticism
+2. **Ethics & Social Philosophy** (7): Đạo Đức & Triết Xã Hội - The Categorical Imperative, Utilitarianism, Amor Fati, The Veil of Ignorance, I and Thou, Humanism, The Trivium
+3. **Buddhist & Taoist Foundations** (7): Nền Tảng Phật Giáo & Đạo Giáo - Taoist Principles, Buddhist Principles, The Four Noble Truths, The Eightfold Path, Bodhisattva Ideal, Zen Principles, Advaita Vedanta
+4. **Hindu & Confucian Traditions** (7): Truyền Thống Hindu & Nho Giáo - Karma Yoga, Confucian Ethics, Yin-Yang, Middle Way, Brahman-Atman, Ren (仁), Li (禮)
+5. **Contemplative & Meditative Practices** (6): Các Thực Hành Thiền Định & Nội Quán - Shamatha, Vipassana, Zen Shikantaza, Dzogchen Sky Gazing, Atma Vichara, Shoshin
+6. **Japanese Aesthetic & Life Philosophy** (4): Thẩm Mỹ & Triết Sống Nhật Bản - Kintsugi Philosophy, Wabi-Sabi, Ikigai, Japanese Gardens
+7. **Sacred Traditions & Mysticism** (8): Truyền Thống Thiêng Liêng & Huyền Bí - Sufi Wisdom, Ahimsa, The Golden Rule, Tikkun Olam, Via Negativa, Ein Sof, Ma'at, The Perennial Philosophy
+8. **Universal Patterns & Archetypes** (8): Trí Tuệ Nguyên Mẫu & Mẫu Hình Phổ Quát - The Hero's Journey, Synchronicity, Seven Generation Stewardship, Memento Mori, The Art of War Wisdom, Ubuntu, Master Wisdom Tradition, Negative Space
+9. **Cultural Arts & Sacred Expression** (5): Nghệ Thuật Văn Hóa & Biểu Đạt Thiêng Liêng - Islamic Gardens, Raga System, Gamelan Orchestra, Noh & Kabuki, Indian Classical Dance
+10. **Holistic Health & Natural Systems** (4): Sức Khỏe Toàn Diện & Hệ Thống Tự Nhiên - TCM, Ayurveda, Five Elements, Meridian System
 
 ---
 
 
-### **1. Western Philosophical Foundations - Nền Tảng Triết Học Phương Tây**
+### **1. Metaphysics & Life Philosophy - Siêu Hình & Triết Sống**
 
-Các nền tảng triết học phương Tây từ cổ đại đến hiện đại.
+Các nền tảng triết học phương Tây về siêu hình và triết sống.
 
 #### **1. Stoicism** - Chủ Nghĩa Khắc Kỷ
 
@@ -2095,6 +2097,10 @@ Triết lý cho rằng nên đình chỉ phán xét (epoché) về những vấn
 
 → **Liên kết:** VALIDATION (Adversarial Testing), [META] LAYER (Intellectual Humility)
 
+### **2. Ethics & Social Philosophy - Đạo Đức & Triết Xã Hội**
+
+Các hệ thống đạo đức và triết học xã hội phương Tây.
+
 #### **9. The Categorical Imperative** - Mệnh Lệnh Tuyệt Đối (Kant)
 
 Nguyên tắc đạo đức tối cao cho rằng nên hành động theo một quy tắc mà bạn có thể muốn nó trở thành một quy luật phổ quát.
@@ -2174,8 +2180,8 @@ Mô hình giáo dục cổ điển bao gồm ba nghệ thuật tự do cơ bản
 
 → **Liên kết:** OPERATIONS (Reasoning Architectures), [META] LAYER (Meta-Learning)
 
-### **2. Eastern Spiritual & Philosophical Paths - Con Đường Tâm Linh & Triết Học Đông Phương**
-Các con đường tâm linh và triết học Đông phương.
+### **3. Buddhist & Taoist Foundations - Nền Tảng Phật Giáo & Đạo Giáo**
+Các con đường tâm linh Phật giáo và Đạo giáo.
 
 #### **16. Taoist Principles** - Nguyên Lý Đạo Gia
 
@@ -2254,6 +2260,9 @@ Trường phái triết học Ấn Độ cho rằng bản ngã cá nhân (Atman)
 
 → **Liên kết:** TRANSCENDENCE (Non-dual Awareness, Unity Consciousness)
 
+### **4. Hindu & Confucian Traditions - Truyền Thống Hindu & Nho Giáo**
+Các truyền thống tâm linh Hindu và Nho giáo.
+
 #### **23. Karma Yoga** - Yoga Hành Động
 
 Con đường tâm linh thông qua hành động vị tha, không dính mắc vào kết quả.
@@ -2331,7 +2340,7 @@ Các nghi lễ và quy tắc ứng xử trong Nho giáo.
 
 → **Liên kết:** FOUNDATIONS (Confucian Ethics), INTEGRATION (Social Order)
 
-### **3. Contemplative & Meditative Practices - Các Thực Hành Thiền Định & Nội Quán**
+### **5. Contemplative & Meditative Practices - Các Thực Hành Thiền Định & Nội Quán**
 Các thực hành thiền định và nội quán để phát triển nhận thức.
 
 #### **30. Shamatha** - Thiền Định Tĩnh Lặng
@@ -2400,7 +2409,7 @@ Thái độ cởi mở, nhiệt tình như người mới học.
 
 → **Liên kết:** FOUNDATIONS (Zen Principles), [META] LAYER (Meta-Learning)
 
-### **4. Japanese Aesthetic & Life Philosophy - Thẩm Mỹ & Triết Sống Nhật Bản**
+### **6. Japanese Aesthetic & Life Philosophy - Thẩm Mỹ & Triết Sống Nhật Bản**
 Triết lý thẩm mỹ và sống của Nhật Bản.
 
 #### **36. Kintsugi Philosophy** - Triết Lý Kintsugi
@@ -2447,7 +2456,7 @@ Nghệ thuật thiết kế vườn thiền.
 
 → **Liên kết:** CREATION (Landscape Design), FOUNDATIONS (Wabi-Sabi)
 
-### **5. Sacred Traditions & Mysticism - Truyền Thống Thiêng Liêng & Huyền Bí**
+### **7. Sacred Traditions & Mysticism - Truyền Thống Thiêng Liêng & Huyền Bí**
 Các truyền thống thiêng liêng và huyền bí từ nhiều nền văn hóa.
 
 #### **40. Sufi Wisdom** - Trí Tuệ Sufi
@@ -2576,7 +2585,7 @@ Học thuyết cho rằng tất cả các truyền thống tâm linh vĩ đại 
 
 📚 **Đây là về BIẾT - studying the map**
 
-### **6. Universal Patterns & Archetypes - Trí Tuệ Nguyên Mẫu & Mẫu Hình Phổ Quát**
+### **8. Universal Patterns & Archetypes - Trí Tuệ Nguyên Mẫu & Mẫu Hình Phổ Quát**
 Các mô thức phổ quát và nguyên mẫu xuyên văn hóa.
 
 #### **48. The Hero's Journey** - Hành Trình Của Người Hùng
@@ -2669,7 +2678,7 @@ Giá trị của sự trống rỗng và khoảng trống.
 
 → **Liên kết:** CREATION (Design), FOUNDATIONS (Via Negativa)
 
-### **7. Cultural Arts & Sacred Expression - Nghệ Thuật Văn Hóa & Biểu Đạt Thiêng Liêng**
+### **9. Cultural Arts & Sacred Expression - Nghệ Thuật Văn Hóa & Biểu Đạt Thiêng Liêng**
 Nghệ thuật văn hóa và biểu đạt thiêng liêng.
 
 #### **56. Islamic Gardens** - Vườn Hồi Giáo
@@ -2727,7 +2736,7 @@ Các hình thức múa thiêng liêng truyền thống Ấn Độ.
 
 → **Liên kết:** CREATION (Performance), TRANSCENDENCE (Sacred Art)
 
-### **8. Holistic Health & Natural Systems - Sức Khỏe Toàn Diện & Hệ Thống Tự Nhiên**
+### **10. Holistic Health & Natural Systems - Sức Khỏe Toàn Diện & Hệ Thống Tự Nhiên**
 Sức khỏe toàn diện và hệ thống tự nhiên.
 
 #### **61. TCM (Traditional Chinese Medicine)** - Y Học Cổ Truyền Trung Hoa
@@ -12730,16 +12739,15 @@ Truyền thống kể chuyện và ma thuật ngôn từ Celtic.
 
 Khả năng phá vỡ các mẫu hình cũ và tái kết hợp các yếu tố theo những cách mới - cốt lõi của đổi mới thực sự. Đây là nghệ thuật phá hủy sáng tạo và tổng hợp mới.
 
-Bao gồm 32 khái niệm được tổ chức thành 8 nhóm chủ đề:
+Bao gồm 32 khái niệm được tổ chức thành 7 nhóm chủ đề:
 
 1. **Pattern Disruption & Creative Destruction** (3): Phá Vỡ Mẫu Hình & Hủy Diệt Sáng Tạo - Paradigm Disruption, Creative Destruction, Boundary Crossing
 2. **Recombination & Remix Techniques** (5): Kỹ Thuật Tái Kết Hợp & Tái Phối - Remix Culture, Mutation & Variation, Hybrid Vigor, Deconstruction & Reassembly, Unexpected Juxtaposition
-3. **Constraint Transformation** (1): Biến Đổi Ràng Buộc - Constraint Transformation
-4. **Scale, Dimension & Evolution** (4): Quy Mô, Chiều & Tiến Hóa - Inversion Practice, Scale Shifting, Abstraction & Instantiation, Evolutionary Algorithms
-5. **Cross-Domain Synthesis** (4): Tổng Hợp Xuyên Lĩnh Vực - Cross-Cultural Synthesis, Temporal Recombination, Medium Hopping, Exaptation
-6. **Pattern Systems & Modularity** (4): Hệ Thống Mẫu Hình & Tính Mô-đun - Pattern Languages, Modularity & Interchangeability, Bricolage, Cross-Pollination Engines
-7. **Intuitive & Metaphorical Synthesis** (4): Tổng Hợp Trực Giác & Ẩn Dụ - Transrational Ways of Knowing, Metaphorical Reasoning, Metaphorical Transformation, Intuitive Synthesis
-8. **Artistic & Multi-Modal Integration** (7): Tích Hợp Nghệ Thuật & Đa Phương Thức - Artistic Integration, Musical Integration, Movement Integration, Written Integration, Multimedia Ceremony, Fusion Innovations, New Media Experiments
+3. **Scale, Dimension & Constraint** (5): Quy Mô, Chiều & Ràng Buộc - Constraint Transformation, Inversion Practice, Scale Shifting, Abstraction & Instantiation, Evolutionary Algorithms
+4. **Cross-Domain Synthesis** (4): Tổng Hợp Xuyên Lĩnh Vực - Cross-Cultural Synthesis, Temporal Recombination, Medium Hopping, Exaptation
+5. **Pattern Systems & Modularity** (4): Hệ Thống Mẫu Hình & Tính Mô-đun - Pattern Languages, Modularity & Interchangeability, Bricolage, Cross-Pollination Engines
+6. **Intuitive & Metaphorical Synthesis** (4): Tổng Hợp Trực Giác & Ẩn Dụ - Transrational Ways of Knowing, Metaphorical Reasoning, Metaphorical Transformation, Intuitive Synthesis
+7. **Artistic & Multi-Modal Integration** (7): Tích Hợp Nghệ Thuật & Đa Phương Thức - Artistic Integration, Musical Integration, Movement Integration, Written Integration, Multimedia Ceremony, Fusion Innovations, New Media Experiments
 
 ---
 
@@ -12839,9 +12847,9 @@ Tháo rời các cấu trúc hiện có và lắp ráp lại theo cách mới.
 
 → **Liên kết:** CREATION (Bisociation), INTEGRATION (Meaning Making)
 
-### **3. Constraint Transformation - Biến Đổi Ràng Buộc**
+### **3. Scale, Dimension & Constraint - Quy Mô, Chiều & Ràng Buộc**
 
-Các khái niệm và nguyên lý về biến đổi ràng buộc.
+Các khái niệm về quy mô, chiều và biến đổi ràng buộc.
 
 #### **9. Constraint Transformation - Biến Đổi Ràng Buộc [Thử Nghiệm & Đột Phá]**
 
@@ -12899,10 +12907,6 @@ Chơi đùa chiến lược với ràng buộc.
 → **Transcendence:** TRANSCENDENCE (Beyond Limits)
 → **Ideation:** CREATION (Ideation)
 
-### **4. Scale, Dimension & Evolution - Quy Mô, Chiều & Tiến Hóa**
-
-Các khái niệm và nguyên lý về quy mô, chiều & tiến hóa.
-
 #### **10. Inversion Practice - Thực Hành Đảo Ngược**
 
 Đảo ngược mọi thứ để tìm góc nhìn mới.
@@ -12947,7 +12951,7 @@ Di chuyển giữa các cấp độ trừu tượng để tìm insights mới.
 
 → **Liên kết:** DYNAMICS (Evolution), AMPLIFICATION (Iteration)
 
-### **5. Cross-Domain Synthesis - Tổng Hợp Xuyên Lĩnh Vực**
+### **4. Cross-Domain Synthesis - Tổng Hợp Xuyên Lĩnh Vực**
 
 Các khái niệm và nguyên lý về tổng hợp xuyên lĩnh vực.
 
@@ -12995,7 +12999,7 @@ Sử dụng một tính năng hoặc cấu trúc cho mục đích hoàn toàn kh
 
 → **Liên kết:** FOUNDATIONS (Evolution Principles), CREATION (Innovation)
 
-### **6. Pattern Systems & Modularity - Hệ Thống Mẫu Hình & Tính Mô-đun**
+### **5. Pattern Systems & Modularity - Hệ Thống Mẫu Hình & Tính Mô-đun**
 
 Các hệ thống liên quan đến hệ thống mẫu hình & tính mô-đun.
 
@@ -13053,7 +13057,7 @@ Hệ thống được thiết kế để TỰ ĐỘNG TẠO RA sự kết hợp 
     • Algorithmic design systems
     • Innovation automation platforms
 
-### **7. Intuitive & Metaphorical Synthesis - Tổng Hợp Trực Giác & Ẩn Dụ**
+### **6. Intuitive & Metaphorical Synthesis - Tổng Hợp Trực Giác & Ẩn Dụ**
 
 Các khái niệm và nguyên lý về tổng hợp trực giác & ẩn dụ.
 
@@ -13103,7 +13107,7 @@ Tổng hợp tự nhiên, phi có hệ thống - kết hợp các yếu tố the
 → **Khi cần CÓ HỆ THỐNG:** xem INTEGRATION #44 (Synthesis Protocols)
 → **Kết hợp với:** Bricolage (#18), Unexpected Juxtaposition (#14)
 
-### **8. Artistic & Multi-Modal Integration - Tích Hợp Nghệ Thuật & Đa Phương Thức**
+### **7. Artistic & Multi-Modal Integration - Tích Hợp Nghệ Thuật & Đa Phương Thức**
 
 Các khái niệm và nguyên lý về tích hợp nghệ thuật & đa phương thức.
 
@@ -19983,22 +19987,23 @@ Nâng cấp toàn bộ hệ thống tạo giá trị.
 
 Chức năng này tập trung vào các kỹ năng và phương pháp để giao tiếp hiệu quả, tạo ra ý nghĩa chung và kết nối con người thông qua ngôn ngữ, câu chuyện và biểu tượng.
 
-Bao gồm 60 khái niệm được tổ chức thành 8 nhóm chủ đề:
+Bao gồm 60 khái niệm được tổ chức thành 9 nhóm chủ đề:
 
-1. **Core Communication Skills** (15): Kỹ Năng Giao Tiếp Cốt Lõi - Storytelling, Active Listening, Nonviolent Communication (NVC), Rhetorical Mastery, Visual Communication & Data Visualization, Symbolic Communication, Cross-Cultural Communication, Framing & Reframing, Semantic Precision, Empathic Communication, Memetic Engineering, Generative Listening, Information Architecture, Meaning-Making, Translation & Interpretation
-2. **Essence Extraction** (8): Chiết Xuất Bản Chất - Simplicity in Complexity, Aliveness, Essence Extraction (Method), Pattern Recognition (Communication), Depth vs Breadth, Exploration vs Exploitation, Speed vs Accuracy, Understanding Spirals
-3. **Wisdom Integration** (5): Tích Hợp Trí Tuệ - Wisdom Integration (Communication), Integral Wisdom (Communication), Meta-Systematic Integration, Transdisciplinary Synthesis (Communication), Dialectical Integration (Communication)
-4. **Deep Psychological Integration Practices** (8): Thực Hành Tích Hợp Tâm Lý Sâu - Shadow Integration Work, Trauma Integration (Practice), Peak Experience Integration (Practice), Altered States Integration, Dream Seeding, Void Returning, Integration Day, Shadow Integration Intensive
-5. **Purpose Alignment & Life Practice** (8): Thẳng Hàng Mục Đích & Thực Hành Cuộc Sống - Soul Purpose Integration, Values Integration (Purpose), Gift Integration, Legacy Integration, Integral Life Practice (ILP), Daily Integration Practices, Integration Mastery, Meta-Creative Practice
-6. **Methodological Synthesis Frameworks** (6): Khung Tổng Hợp Phương Pháp Luận - Integral Research Methods, Integral Ecology Practices, Universal Library Access, Grand Synthesis Protocols, Integrative Energy Protocols, Synthesis Mastery (Methodological)
-7. **Creative & Healing Integration** (6): Tích Hợp Sáng Tạo & Chữa Lành - Bisociative Integration, Synesthetic Integration, Holographic Integration (Creative), Healing Arts Integration, Narrative Therapy, Integrative Energy Medicine
-8. **Value Creation Networks** (4): Mạng Lưới Tạo Giá Trị - Value Stacking, Transformation Value, Innovation Intersections, Meta-Learning Networks
+1. **Core Skills & Channels** (8): Kỹ Năng & Kênh Cốt Lõi - Storytelling, Active Listening, Nonviolent Communication (NVC), Rhetorical Mastery, Visual Communication & Data Visualization, Symbolic Communication, Cross-Cultural Communication, Framing & Reframing
+2. **Advanced & Meta Communication** (7): Giao Tiếp Nâng Cao & Meta - Semantic Precision, Empathic Communication, Memetic Engineering, Generative Listening, Information Architecture, Meaning-Making, Translation & Interpretation
+3. **Essence Extraction** (8): Chiết Xuất Bản Chất - Simplicity in Complexity, Aliveness, Essence Extraction (Method), Pattern Recognition (Communication), Depth vs Breadth, Exploration vs Exploitation, Speed vs Accuracy, Understanding Spirals
+4. **Wisdom Integration** (5): Tích Hợp Trí Tuệ - Wisdom Integration (Communication), Integral Wisdom (Communication), Meta-Systematic Integration, Transdisciplinary Synthesis (Communication), Dialectical Integration (Communication)
+5. **Deep Psychological Integration Practices** (8): Thực Hành Tích Hợp Tâm Lý Sâu - Shadow Integration Work, Trauma Integration (Practice), Peak Experience Integration (Practice), Altered States Integration, Dream Seeding, Void Returning, Integration Day, Shadow Integration Intensive
+6. **Purpose Alignment & Life Practice** (8): Thẳng Hàng Mục Đích & Thực Hành Cuộc Sống - Soul Purpose Integration, Values Integration (Purpose), Gift Integration, Legacy Integration, Integral Life Practice (ILP), Daily Integration Practices, Integration Mastery, Meta-Creative Practice
+7. **Methodological Synthesis Frameworks** (6): Khung Tổng Hợp Phương Pháp Luận - Integral Research Methods, Integral Ecology Practices, Universal Library Access, Grand Synthesis Protocols, Integrative Energy Protocols, Synthesis Mastery (Methodological)
+8. **Creative & Healing Integration** (6): Tích Hợp Sáng Tạo & Chữa Lành - Bisociative Integration, Synesthetic Integration, Holographic Integration (Creative), Healing Arts Integration, Narrative Therapy, Integrative Energy Medicine
+9. **Value Creation Networks** (4): Mạng Lưới Tạo Giá Trị - Value Stacking, Transformation Value, Innovation Intersections, Meta-Learning Networks
 
 ---
 
-### **1. Core Communication Skills - Kỹ Năng Giao Tiếp Cốt Lõi**
+### **1. Core Skills & Channels - Kỹ Năng & Kênh Cốt Lõi**
 
-Các khái niệm và nguyên lý về kỹ năng giao tiếp cốt lõi.
+Các kỹ năng và kênh giao tiếp cốt lõi.
 
 #### **1. Storytelling - Kể Chuyện**
 
@@ -20134,6 +20139,10 @@ Cách chúng ta trình bày và diễn giải thông tin ảnh hưởng đến c
 
 → **Liên kết:** CREATION (Perspective), DYNAMICS (Cognitive Flexibility).
 
+### **2. Advanced & Meta Communication - Giao Tiếp Nâng Cao & Meta**
+
+Các kỹ năng giao tiếp nâng cao và meta-level.
+
 ---
 
 #### **9. Semantic Precision - Độ Chính Xác Ngữ Nghĩa**
@@ -20232,7 +20241,7 @@ Chuyển đổi ý nghĩa giữa các ngôn ngữ, ngữ cảnh hoặc lĩnh v�
 
 ---
 
-### **2. Essence Extraction - Chiết Xuất Bản Chất**
+### **3. Essence Extraction - Chiết Xuất Bản Chất**
 
 Các khái niệm và nguyên lý về chiết xuất bản chất.
 
@@ -20340,7 +20349,7 @@ Quá trình hiểu biết phát triển theo hình xoắn ốc.
 
 ---
 
-### **3. Wisdom Integration - Tích Hợp Trí Tuệ**
+### **4. Wisdom Integration - Tích Hợp Trí Tuệ**
 
 Các khái niệm và nguyên lý về tích hợp trí tuệ.
 
@@ -20409,7 +20418,7 @@ Tích hợp các mặt đối lập qua biện chứng.
 
 ---
 
-### **4. Deep Psychological Integration Practices - Thực Hành Tích Hợp Tâm Lý Sâu**
+### **5. Deep Psychological Integration Practices - Thực Hành Tích Hợp Tâm Lý Sâu**
 
 Các thực hành liên quan đến thực hành tích hợp tâm lý sâu.
 
@@ -20517,7 +20526,7 @@ Thời gian tập trung chuyên sâu cho công việc bóng tối.
 
 ---
 
-### **5. Purpose Alignment & Life Practice - Thẳng Hàng Mục Đích & Thực Hành Cuộc Sống**
+### **6. Purpose Alignment & Life Practice - Thẳng Hàng Mục Đích & Thực Hành Cuộc Sống**
 
 Các thực hành liên quan đến thẳng hàng mục đích & thực hành cuộc sống.
 
@@ -20631,7 +20640,7 @@ Thiết kế các HỆ THỐNG, CẤU TRÚC và MÔI TRƯỜNG để TẠO ĐI�
 
 ---
 
-### **6. Methodological Synthesis Frameworks - Khung Tổng Hợp Phương Pháp Luận**
+### **7. Methodological Synthesis Frameworks - Khung Tổng Hợp Phương Pháp Luận**
 
 Các phương pháp liên quan đến khung tổng hợp phương pháp luận.
 
@@ -20721,7 +20730,7 @@ Trở thành chuyên gia về tổng hợp.
 
 ---
 
-### **7. Creative & Healing Integration - Tích Hợp Sáng Tạo & Chữa Lành**
+### **8. Creative & Healing Integration - Tích Hợp Sáng Tạo & Chữa Lành**
 
 Các khái niệm và nguyên lý về tích hợp sáng tạo & chữa lành.
 
@@ -20803,7 +20812,7 @@ Chữa lành bằng cách làm việc với năng lượng cơ thể.
 
 ---
 
-### **8. Value Creation Networks - Mạng Lưới Tạo Giá Trị**
+### **9. Value Creation Networks - Mạng Lưới Tạo Giá Trị**
 
 Các khái niệm và nguyên lý về mạng lưới tạo giá trị.
 
@@ -24506,23 +24515,24 @@ Giải pháp mà mọi người tự nhiên hội tụ khi không có giao tiế
 
 Chức năng này tập trung vào việc hiểu và tạo ra các mẫu hình tăng trưởng theo cấp số nhân - nơi tốc độ tăng trưởng tỷ lệ với kích thước hiện tại.
 
-Bao gồm 46 khái niệm được tổ chức thành 9 nhóm chủ đề:
+Bao gồm 46 khái niệm được tổ chức thành 10 nhóm chủ đề:
 
-1. **Core Exponential Principles** (13): Nguyên Lý Cấp Số Nhân Cốt Lõi - Exponential Technology Growth, Moore's Law, S-Curves & Technology Adoption, Learning Curve, Feedback Loops, Positive Reinforcement, Recursive Self-Improvement, Data Flywheel, Amplification Spirals, Virtuous Cycles, Momentum, Cumulative Advantage, Matthew Effect
-2. **Scaling Dynamics** (2): Động Lực Mở Rộng Quy Mô - Power Laws, Winner-Take-All Dynamics
-3. **Replication & Reproduction** (5): Sao Chép & Sinh Sản - Exponential, Exponential Thinking, Compound Effect Mastery, Fractals, Iteration
-4. **Momentum & Acceleration** (3): Quán Tính & Gia Tốc - Fractal Growth, L-System Creativity, Recursive Patterns
-5. **Emergent & Nonlinear Patterns** (4): Mẫu Xuất Hiện & Phi Tuyến - Feedback Acceleration, Process Acceleration, Amplification Systems, System Catalysis
-6. **Recursive & Fractal Structures** (5): Cấu Trúc Đệ Quy & Fractal - Replication, Scale What Works, Innovation Scaling, Educational Scaling, The Many
-7. **Long-term Evolution** (5): Tiến Hóa Dài Hạn - Activation Energy, Trigger Points, Catalyst, Catalyst Identification, Growth Catalysis
-8. **Intergenerational & Multi-Scale** (6): Liên Thế Hệ & Đa Quy Mô - Emergence Acceleration, Emergence Riding, Capability Emergence, Potential Actualization, Swarm Intelligence, Collective Intelligence Surfing
-9. **Mindset & Philosophy** (3): Tâm Thế & Triết Lý - Abundance Mindset, Regenerative Practice, Intergenerational Amplification
+1. **Technology & Growth Laws** (7): Luật Công Nghệ & Tăng Trưởng - Exponential Technology Growth, Moore's Law, S-Curves & Technology Adoption, Learning Curve, Feedback Loops, Positive Reinforcement, Recursive Self-Improvement
+2. **Acceleration & Advantage Patterns** (6): Mẫu Gia Tốc & Lợi Thế - Data Flywheel, Amplification Spirals, Virtuous Cycles, Momentum, Cumulative Advantage, Matthew Effect
+3. **Scaling Dynamics** (2): Động Lực Mở Rộng Quy Mô - Power Laws, Winner-Take-All Dynamics
+4. **Replication & Reproduction** (5): Sao Chép & Sinh Sản - Exponential, Exponential Thinking, Compound Effect Mastery, Fractals, Iteration
+5. **Momentum & Acceleration** (3): Quán Tính & Gia Tốc - Fractal Growth, L-System Creativity, Recursive Patterns
+6. **Emergent & Nonlinear Patterns** (4): Mẫu Xuất Hiện & Phi Tuyến - Feedback Acceleration, Process Acceleration, Amplification Systems, System Catalysis
+7. **Recursive & Fractal Structures** (5): Cấu Trúc Đệ Quy & Fractal - Replication, Scale What Works, Innovation Scaling, Educational Scaling, The Many
+8. **Long-term Evolution** (5): Tiến Hóa Dài Hạn - Activation Energy, Trigger Points, Catalyst, Catalyst Identification, Growth Catalysis
+9. **Intergenerational & Multi-Scale** (6): Liên Thế Hệ & Đa Quy Mô - Emergence Acceleration, Emergence Riding, Capability Emergence, Potential Actualization, Swarm Intelligence, Collective Intelligence Surfing
+10. **Mindset & Philosophy** (3): Tâm Thế & Triết Lý - Abundance Mindset, Regenerative Practice, Intergenerational Amplification
 
 ---
 
-### **1. Core Exponential Principles - Nguyên Lý Cấp Số Nhân Cốt Lõi**
+### **1. Technology & Growth Laws - Luật Công Nghệ & Tăng Trưởng**
 
-Các nguyên lý liên quan đến nguyên lý cấp số nhân cốt lõi.
+Các luật và nguyên lý về tăng trưởng công nghệ.
 
 #### **1. Exponential Technology Growth** - Tăng Trưởng Công Nghệ Theo Cấp Số Nhân
 
@@ -24601,6 +24611,10 @@ Hệ thống có khả năng cải thiện chính nó, và mỗi lần cải thi
 - **Exponential Capability Growth**: Tăng trưởng khả năng theo cấp số nhân, tiềm năng cho sự thay đổi nhanh chóng.  
     → **Liên kết:** [META] LAYER (Meta-Cognition), CREATION (AI Development).
 
+### **2. Acceleration & Advantage Patterns - Mẫu Gia Tốc & Lợi Thế**
+
+Các mẫu hình gia tốc và tích lũy lợi thế.
+
 #### **8. Data Flywheel** - Vòng Quay Dữ Liệu
 
 Vòng lặp trong đó dữ liệu cải thiện sản phẩm, thu hút nhiều người dùng hơn, tạo ra nhiều dữ liệu hơn.
@@ -24661,7 +24675,7 @@ Hiện tượng những lợi thế nhỏ ban đầu tích lũy và phóng đạ
 - **Inequality Generation**: Tạo ra bất bình đẳng, xu hướng tự nhiên của nhiều hệ thống.  
     → **Liên kết:** DYNAMICS (Power Laws), NAVIGATION (Positioning Strategy).
 
-### **2. Scaling Dynamics - Động Lực Mở Rộng Quy Mô**
+### **3. Scaling Dynamics - Động Lực Mở Rộng Quy Mô**
 
 Các động lực liên quan đến động lực mở rộng quy mô.
 
@@ -24691,7 +24705,7 @@ Các thị trường hoặc tình huống trong đó người đứng đầu chi
 - **First/Second Place Gap**: Khoảng cách giữa vị trí thứ nhất và thứ hai, thường rất lớn.  
     → **Liên kết:** NAVIGATION (Competitive Strategy), OPERATIONS (Market Analysis).
 
-### **3. Replication & Reproduction - Sao Chép & Sinh Sản**
+### **4. Replication & Reproduction - Sao Chép & Sinh Sản**
 
 Các khái niệm và nguyên lý về sao chép & sinh sản.
 
@@ -24745,7 +24759,7 @@ Quá trình lặp lại một hành động hoặc quy trình để cải thiệ
 - **Spiral Development**: Phát triển theo hình xoáy ốc.  
     → **Liên kết:** OPERATIONS (Iterative Methods), CREATION (Prototyping).
 
-### **4. Momentum & Acceleration - Quán Tính & Gia Tốc**
+### **5. Momentum & Acceleration - Quán Tính & Gia Tốc**
 
 Các khái niệm và nguyên lý về quán tính & gia tốc.
 
@@ -24779,7 +24793,7 @@ Các mẫu hình có tham chiếu hoặc chứa đựng chính nó.
 - **Meta-Patterns**: Các mẫu hình về mẫu hình.  
     → **Liên kết:** [META] LAYER (Recursion), FOUNDATIONS (Self-Reference).
 
-### **5. Emergent & Nonlinear Patterns - Mẫu Xuất Hiện & Phi Tuyến**
+### **6. Emergent & Nonlinear Patterns - Mẫu Xuất Hiện & Phi Tuyến**
 
 Các khái niệm và nguyên lý về mẫu xuất hiện & phi tuyến.
 
@@ -24823,7 +24837,7 @@ Kích hoạt và tăng tốc sự thay đổi ở cấp độ hệ thống.
 - **Leverage Point Activation**: Kích hoạt điểm đòn bẩy.  
     → **Liên kết:** DYNAMICS (System Transformation), NAVIGATION (Leverage Points).
 
-### **6. Recursive & Fractal Structures - Cấu Trúc Đệ Quy & Fractal**
+### **7. Recursive & Fractal Structures - Cấu Trúc Đệ Quy & Fractal**
 
 Các khái niệm và nguyên lý về cấu trúc đệ quy & fractal.
 
@@ -24881,7 +24895,7 @@ Khái niệm về sức mạnh của số đông, đa dạng và phân tán.
 - **Abundance Mindset**: Tâm thế dồi dào.  
     → **Liên kết:** FOUNDATIONS (Multiplicity), INTEGRATION (Collective).
 
-### **7. Long-term Evolution - Tiến Hóa Dài Hạn**
+### **8. Long-term Evolution - Tiến Hóa Dài Hạn**
 
 Các khái niệm và nguyên lý về tiến hóa dài hạn.
 
@@ -24935,7 +24949,7 @@ Quá trình kích thích và gia tốc sự tăng trưởng.
 - **Expansion Trigger**: Kích hoạt mở rộng.  
     → **Liên kết:** DYNAMICS (Growth Dynamics), OPERATIONS (Growth Strategy).
 
-### **8. Intergenerational & Multi-Scale - Liên Thế Hệ & Đa Quy Mô**
+### **9. Intergenerational & Multi-Scale - Liên Thế Hệ & Đa Quy Mô**
 
 Các khái niệm và nguyên lý về liên thế hệ & đa quy mô.
 
@@ -25005,7 +25019,7 @@ Chiến lược tận dụng và điều hướng trí tuệ tập thể.
 - **Network Cognition**: Nhận thức mạng lưới.  
     → **Liên kết:** INTEGRATION (Collective Intelligence), NAVIGATION (Collective Strategy).
 
-### **Mindset & Philosophy (3 mục bổ sung)**
+### **10. Mindset & Philosophy - Tâm Thế & Triết Lý**
 
 #### **44. Abundance Mindset** - Tâm Thế Dồi Dào
 
@@ -28273,21 +28287,23 @@ Sử dụng các tần số âm thanh và rung động cụ thể cho mục đí
 
 Quá trình tinh luyện kinh nghiệm, hiểu biết và thực hành thành những nguyên tắc trí tuệ sống động, có thể truyền đạt và có thể áp dụng. Đây là nghệ thuật biến tri thức thành trí tuệ, và trí tuệ thành sự sống.
 
-Bao gồm 76 khái niệm được tổ chức thành 7 nhóm chủ đề:
+Bao gồm 76 khái niệm được tổ chức thành 9 nhóm chủ đề:
 
-1. **Các Nguyên Lý Sống Với Trí Tuệ** (20): Living with Wisdom Principles - Embodied Wisdom, Practical Wisdom, Sophia, Gnosis, Metis, The Art of Living, Ethical Mastery, Holistic Health, Ecological Consciousness, Contemplative Practice, Intergenerational Wisdom, Death Acceptance, Forgiveness Practice, Gratitude as Practice, Simplicity as Wisdom, Play and Humor, Service and Contribution, Continuous Learning, Solitude and Community Balance, Wisdom Integration
-2. **Pure Awareness States** (8): Các Trạng Thái Nhận Thức Thuần Túy - Emptiness Wisdom, Fullness Wisdom, Primordial Wisdom, Living Wisdom, Flow Consciousness, Pure Awareness, Void Navigation, The Eternal Now
-3. **Ultimate Testing** (10): Các Thử Nghiệm Tối Hậu - Pragmatic Ultimate Test, Coherence Ultimate Test, Resilience Ultimate Test, Evolution Ultimate Test, Wisdom Ultimate Test, Wu Wei Navigation, Beginner's Navigation, Master's Navigation, Empty Navigation, Ultimate Navigation
-4. **Quantum Consciousness** (9): Ý Thức Lượng Tử - Quantum Consciousness, Non-local Awareness, Omniscient Glimpses, Omniscience Architecture, Oracle Functions, Collapsing Wave Possibilities, Cross-domain Entanglement, Conceptual Tunneling, Probability Amplitude Navigation
-5. **Shadow & Hidden Patterns** (11): Bóng Tối Và Các Mẫu Hình Ẩn - Negative Space Patterns, Silence Between Words, Implicit Assumptions, Shadow Projections, Collective Unconscious Forms, Dark Knowledge, Anti-patterns, Meta-patterns, Future Memory, Time Fractals, Time Loop Navigation
-6. **Knowledge Access** (9): Truy Cập Tri Thức - Noetic Science Exploration, Akashic Records Access, Post-modern Philosophy, Morphogenetic Field Work, Mystical Experiences, Hard Problem of Consciousness, Śūnyatā, Fana & Baqa, Liberation
-7. **Integration & Practice** (9): Tích Hợp Và Thực Hành - Effortless Mastery, Retreat & Intensive Forms, Crisis as Initiation, Spiritual Emergency Support, Death as Teacher, Master Development Path, Meta-Practice, Loving-Kindness/Metta, Microdosing Protocols
+1. **Core Wisdom Types** (5): Các Loại Trí Tuệ Cốt Lõi - Embodied Wisdom, Practical Wisdom, Sophia, Gnosis, Metis
+2. **Life Philosophy & Wellbeing** (7): Triết Lý Sống & Thịnh Vượng - The Art of Living, Ethical Mastery, Holistic Health, Ecological Consciousness, Contemplative Practice, Intergenerational Wisdom, Death Acceptance
+3. **Relational & Growth Wisdom** (8): Trí Tuệ Quan Hệ & Phát Triển - Forgiveness Practice, Gratitude as Practice, Simplicity as Wisdom, Play and Humor, Service and Contribution, Continuous Learning, Solitude and Community Balance, Wisdom Integration
+4. **Pure Awareness States** (8): Các Trạng Thái Nhận Thức Thuần Túy - Emptiness Wisdom, Fullness Wisdom, Primordial Wisdom, Living Wisdom, Flow Consciousness, Pure Awareness, Void Navigation, The Eternal Now
+5. **Ultimate Testing** (10): Các Thử Nghiệm Tối Hậu - Pragmatic Ultimate Test, Coherence Ultimate Test, Resilience Ultimate Test, Evolution Ultimate Test, Wisdom Ultimate Test, Wu Wei Navigation, Beginner's Navigation, Master's Navigation, Empty Navigation, Ultimate Navigation
+6. **Quantum Consciousness** (9): Ý Thức Lượng Tử - Quantum Consciousness, Non-local Awareness, Omniscient Glimpses, Omniscience Architecture, Oracle Functions, Collapsing Wave Possibilities, Cross-domain Entanglement, Conceptual Tunneling, Probability Amplitude Navigation
+7. **Shadow & Hidden Patterns** (11): Bóng Tối Và Các Mẫu Hình Ẩn - Negative Space Patterns, Silence Between Words, Implicit Assumptions, Shadow Projections, Collective Unconscious Forms, Dark Knowledge, Anti-patterns, Meta-patterns, Future Memory, Time Fractals, Time Loop Navigation
+8. **Knowledge Access** (9): Truy Cập Tri Thức - Noetic Science Exploration, Akashic Records Access, Post-modern Philosophy, Morphogenetic Field Work, Mystical Experiences, Hard Problem of Consciousness, Śūnyatā, Fana & Baqa, Liberation
+9. **Integration & Practice** (9): Tích Hợp Và Thực Hành - Effortless Mastery, Retreat & Intensive Forms, Crisis as Initiation, Spiritual Emergency Support, Death as Teacher, Master Development Path, Meta-Practice, Loving-Kindness/Metta, Microdosing Protocols
 
 ---
 
-### **1. Các Nguyên Lý Sống Với Trí Tuệ**
+### **1. Core Wisdom Types - Các Loại Trí Tuệ Cốt Lõi**
 
-Các nguyên lý để sống với trí tuệ hiện thân và thực tiễn.
+Các loại trí tuệ cốt lõi từ các truyền thống triết học.
 
 #### **1. Embodied Wisdom** - Trí Tuệ Hiện Thân
 
@@ -28354,6 +28370,10 @@ Trong thần thoại Hy Lạp, trí tuệ thực tiễn, xảo quyệt và khéo
 - **Resourcefulness**: Sự tháo vát; tìm ra giải pháp với những gì có sẵn.
 
 → **Liên kết:** NAVIGATION (Context Sensing), OPERATIONS (Problem-Solving).
+
+### **2. Life Philosophy & Wellbeing - Triết Lý Sống & Thịnh Vượng**
+
+Các triết lý sống và thực hành phúc lợi toàn diện.
 
 ---
 
@@ -28445,6 +28465,10 @@ Hiểu và chấp nhận cái chết như một phần tự nhiên của cuộc 
 - **Transcendence of Fear**: Vượt qua sợ hãi; chấp nhận cái chết làm giảm lo lắng.
 
 → **Liên kết:** FOUNDATIONS (Buddhist Wisdom), DYNAMICS (Transformation).
+
+### **3. Relational & Growth Wisdom - Trí Tuệ Quan Hệ & Phát Triển**
+
+Trí tuệ trong quan hệ, phát triển cá nhân và sự hài hòa xã hội.
 
 ---
 
@@ -28550,7 +28574,7 @@ Khả năng kết hợp trí tuệ từ nhiều nguồn và truyền thống th�
 
 → **Liên kết:** [META] LAYER (Wisdom Synthesis), INTEGRATION (Knowledge Synthesis).
 
-### **2. Pure Awareness States - Các Trạng Thái Nhận Thức Thuần Túy**
+### **4. Pure Awareness States - Các Trạng Thái Nhận Thức Thuần Túy**
 
 Các trạng thái nhận thức thuần túy vượt qua sự phân biệt chủ-khách.
 
@@ -28689,7 +28713,7 @@ Trải nghiệm về thời điểm hiện tại như vĩnh cửu, vượt qua q
 
 ---
 
-### **3. Ultimate Testing - Các Thử Nghiệm Tối Hậu**
+### **5. Ultimate Testing - Các Thử Nghiệm Tối Hậu**
 
 Các thử nghiệm tối hậu để kiểm chứng độ chín muồi của trí tuệ.
 
@@ -28833,7 +28857,7 @@ Hình thức cao nhất của điều hướng, tích hợp tất cả các phư
 
 ---
 
-### **4. Quantum Consciousness - Ý Thức Lượng Tử**
+### **6. Quantum Consciousness - Ý Thức Lượng Tử**
 
 Các khái niệm về ý thức lượng tử và các hiện tượng liên quan.
 
@@ -28954,7 +28978,7 @@ Kỹ thuật lượng tử để vượt qua các rào cản khái niệm, giố
 
 ---
 
-### **5. Shadow & Hidden Patterns - Bóng Tối Và Các Mẫu Hình Ẩn**
+### **7. Shadow & Hidden Patterns - Bóng Tối Và Các Mẫu Hình Ẩn**
 
 Các mẫu hình ẩn và công việc với bóng tối trong quá trình siêu việt.
 
@@ -29101,7 +29125,7 @@ Khả năng điều hướng qua các vòng lặp thời gian hoặc các mẫu 
 
 ---
 
-### **6. Knowledge Access - Truy Cập Tri Thức**
+### **8. Knowledge Access - Truy Cập Tri Thức**
 
 Các phương thức truy cập tri thức vũ trụ và bản ghi Akashic.
 
@@ -29238,7 +29262,7 @@ Khái niệm Jain về sự giải thoát hoàn toàn từ chu kỳ tái sinh v�
 
 ---
 
-### **Integration & Practice - Tích Hợp Và Thực Hành**
+### **9. Integration & Practice - Tích Hợp Và Thực Hành**
 
 #### **68. Effortless Mastery** - Làm Chủ Không Nỗ Lực [Trí Tuệ Được Hiện Thân]
 
@@ -29367,15 +29391,14 @@ Siêu Tầng này chứa các khái niệm, quy trình và cấu trúc để qua
 
 Chức năng này bao gồm các quy trình tư duy về chính tư duy - khả năng tự quan sát, giám sát và điều chỉnh các hoạt động nhận thức của bản thân trong thời gian thực. Đây là nền tảng của sự tự chủ nhận thức và học tập có ý thức.
 
-Bao gồm 39 khái niệm được tổ chức thành 7 nhóm chủ đề:
+Bao gồm 39 khái niệm được tổ chức thành 6 nhóm chủ đề:
 
 1. **Core Meta-Cognition & Self-Awareness** (4): Nền Tảng Siêu Nhận Thức & Tự Nhận Biết - Metacognition, Meta-Learning, Meta-Cognitive Flexibility Awareness, Awareness of Bias
 2. **Meta-Learning & Reflective Growth** (5): Siêu Học Tập & Phát Triển Phản Tư - Intellectual Humility, Cognitive Load Management, Mental Model Awareness, Thinking About Thinking, Attentional Control
-3. **Cognitive Monitoring & Regulation** (5): Giám Sát & Điều Tiết Nhận Thức - Reflective Practice, Emotional Awareness in Cognition, Meta-Attention, Growth Mindset in Meta-Cognition, The Master Meta-Skill
-4. **Wisdom, Humility & Sovereignty** (1): Trí Tuệ, Khiêm Tốn & Chủ Quyền - The Master Meta-Skill
-5. **Witness Consciousness & Pure Awareness** (9): Ý Thức Chứng Kiến & Nhận Thức Thuần Khiết - Observing Observation, Learning to Learn, Metacognition, Meta-Awareness, Witness Consciousness, The Witness, Primordial Awareness, Direct Knowing/Gnosis, Sati
-6. **Universal Consciousness & Perspectives** (7): Ý Thức Vũ Trụ & Các Quan Điểm - Universal Intelligence, Cosmic Mind, Meta-State Awareness, First to Seventh & Nth Person Perspective, Recursive Consciousness, Observer Effect, Know Thyself
-7. **Scientific Frameworks & Contemplative Practices** (8): Khung Lý Thuyết Khoa Học & Thực Hành Thiền Quán - Philosophy of Mind, Cybernetics & Control Theory, Second-order Cybernetics, Reflexive Sociology, Transcendental Meditation, Contemplative Science Methods, Hypnagogic State Work, Neurofeedback Training
+3. **Cognitive Monitoring & Regulation** (6): Giám Sát & Điều Tiết Nhận Thức - Reflective Practice, Emotional Awareness in Cognition, Meta-Attention, Cognitive Sovereignty, Growth Mindset in Meta-Cognition, The Master Meta-Skill
+4. **Witness Consciousness & Pure Awareness** (9): Ý Thức Chứng Kiến & Nhận Thức Thuần Khiết - Observing Observation, Learning to Learn, Metacognition, Meta-Awareness, Witness Consciousness, The Witness, Primordial Awareness, Direct Knowing/Gnosis, Sati
+5. **Universal Consciousness & Perspectives** (7): Ý Thức Vũ Trụ & Các Quan Điểm - Universal Intelligence, Cosmic Mind, Meta-State Awareness, First to Seventh & Nth Person Perspective, Recursive Consciousness, Observer Effect, Know Thyself
+6. **Scientific Frameworks & Contemplative Practices** (8): Khung Lý Thuyết Khoa Học & Thực Hành Thiền Quán - Philosophy of Mind, Cybernetics & Control Theory, Second-order Cybernetics, Reflexive Sociology, Transcendental Meditation, Contemplative Science Methods, Hypnagogic State Work, Neurofeedback Training
 
 ---
 
@@ -29603,10 +29626,6 @@ Tin tưởng rằng chính khả năng tư duy và học tập có thể đượ
 
 ---
 
-### **4. Wisdom, Humility & Sovereignty - Trí Tuệ, Khiêm Tốn & Chủ Quyền**
-
-Các khái niệm và nguyên lý về trí tuệ, khiêm tốn & chủ quyền.
-
 #### **15. The Master Meta-Skill** - Siêu Kỹ Năng Bậc Thầy
 
 Khả năng lựa chọn, kết hợp và áp dụng tất cả các kỹ năng meta-nhận thức khác một cách phù hợp và linh hoạt.
@@ -29620,7 +29639,7 @@ Khả năng lựa chọn, kết hợp và áp dụng tất cả các kỹ năng 
 
 ---
 
-### **5. Witness Consciousness & Pure Awareness - Ý Thức Chứng Kiến & Nhận Thức Thuần Khiết**
+### **4. Witness Consciousness & Pure Awareness - Ý Thức Chứng Kiến & Nhận Thức Thuần Khiết**
 
 Các khái niệm và nguyên lý về ý thức chứng kiến & nhận thức thuần khiết.
 
@@ -29730,7 +29749,7 @@ Thực hành tỉnh thức và nhận thức liên tục về hiện tại trong
 
 ---
 
-### **6. Universal Consciousness & Perspectives - Ý Thức Vũ Trụ & Các Quan Điểm**
+### **5. Universal Consciousness & Perspectives - Ý Thức Vũ Trụ & Các Quan Điểm**
 
 Các khái niệm và nguyên lý về ý thức vũ trụ & các quan điểm.
 
@@ -29818,7 +29837,7 @@ Lời khuyên cổ xưa về tầm quan trọng của tự tri - nền tảng c�
 
 ---
 
-### **7. Scientific Frameworks & Contemplative Practices - Khung Lý Thuyết Khoa Học & Thực Hành Thiền Quán**
+### **6. Scientific Frameworks & Contemplative Practices - Khung Lý Thuyết Khoa Học & Thực Hành Thiền Quán**
 
 Các thực hành liên quan đến khung lý thuyết khoa học & thực hành thiền quán.
 
