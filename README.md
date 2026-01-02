@@ -80,58 +80,129 @@ Claude Code skills for editing and managing the Whole bilingual knowledge archit
 
 ```
 Whole/
-├── Whole.md                      # Main documentation (>1MB)
-├── .whole-progress.json          # Progress tracking (50/50 ✅)
-├── README.md                     # This file
-├── .claude/
-│   ├── CLAUDE.md                 # Project instructions
-│   ├── README.md                 # Claude config docs
-│   ├── settings.json             # Claude Code settings
-│   ├── skills/
-│   │   ├── shared/                   # Shared utilities (DRY refactoring)
+├── Whole.md                          # Main knowledge base (33,056 lines, 1.9MB)
+├── .whole-progress.json              # Progress tracker (50/50 complete ✅)
+├── README.md                         # This file
+├── .gitignore                        # Git exclusions
+│
+├── .claude/                          # Claude Code configuration
+│   ├── CLAUDE.md                     # Project instructions (CRITICAL)
+│   ├── README.md                     # .claude directory guide
+│   ├── settings.json                 # Claude Code settings
+│   ├── settings.local.json           # Local overrides (git-ignored)
+│   ├── .eslintrc.js                  # JavaScript linting
+│   │
+│   ├── skills/                       # 4 specialized skills + shared lib
+│   │   ├── shared/                   # Shared utilities (v1.0.0 - DRY refactoring)
+│   │   │   ├── README.md             # Comprehensive utilities documentation
+│   │   │   ├── index.js              # Central export hub
 │   │   │   ├── config/
+│   │   │   │   └── constants.js      # 50+ configuration constants
 │   │   │   ├── types/
+│   │   │   │   └── validation-result.js
 │   │   │   └── utils/
-│   │   ├── whole-editor/
+│   │   │       ├── cli-helpers.js    # CLI initialization (70% code reduction)
+│   │   │       ├── display.js + .test.js
+│   │   │       ├── security.js + .test.js
+│   │   │       └── whole-md-parser.js + .test.js
+│   │   │
+│   │   ├── whole-editor/             # Content editing (v2.0.0)
 │   │   │   ├── SKILL.md
-│   │   │   └── references/
-│   │   ├── whole-analyzer/
+│   │   │   ├── references/           # 4 guidance docs
+│   │   │   │   ├── editing-protocol.md
+│   │   │   │   ├── duplicate-resolution.md
+│   │   │   │   ├── bilingual-rules.md
+│   │   │   │   └── structure-validation.md
+│   │   │   └── scripts/              # 3 validation scripts
+│   │   │       ├── bilingual-check.js
+│   │   │       ├── check-cross-refs.js
+│   │   │       └── validate-structure.js
+│   │   │
+│   │   ├── whole-analyzer/           # Pre-edit analysis (v2.0.0)
 │   │   │   └── SKILL.md
-│   │   ├── whole-reviewer/
+│   │   │
+│   │   ├── whole-reviewer/           # Post-edit validation (v2.0.0)
 │   │   │   └── SKILL.md
-│   │   └── whole-regrouper/
+│   │   │
+│   │   └── whole-regrouper/          # Intelligent regrouping (v5.0.0)
 │   │       ├── SKILL.md
-│   │       ├── references/
+│   │       ├── references/           # 5 detailed guides
+│   │       │   ├── grouping-principles.md
+│   │       │   ├── workflow-steps.md
+│   │       │   ├── naming-guidelines.md
+│   │       │   ├── quality-checklist.md
+│   │       │   └── robust-operations.md
 │   │       ├── plans/templates/
+│   │       │   └── regroup-template.md
 │   │       └── scripts/
-│   ├── commands/
-│   │   ├── analyze.md
-│   │   ├── edit.md
-│   │   ├── expand.md
-│   │   ├── next.md
-│   │   ├── regroup.md
-│   │   ├── reconcile.md
-│   │   ├── report.md
-│   │   ├── status.md
-│   │   └── validate.md
-│   ├── hooks/
-│   │   └── session-init.cjs
-│   ├── agents/
+│   │           └── validate-regroup.js
+│   │
+│   ├── commands/                     # 9 slash commands
+│   │   ├── analyze.md                # /analyze [section]
+│   │   ├── edit.md                   # /edit [section]
+│   │   ├── expand.md                 # /expand [domain] [func] [topic]
+│   │   ├── next.md                   # /next (auto-detect)
+│   │   ├── regroup.md                # /regroup [number]
+│   │   ├── reconcile.md              # /reconcile [number] (NEW v5.0)
+│   │   ├── report.md                 # /report
+│   │   ├── status.md                 # /status
+│   │   └── validate.md               # /validate [section]
+│   │
+│   ├── hooks/                        # Automation & feedback (4 hooks)
+│   │   ├── README.md                 # Hooks documentation
+│   │   ├── session-init.cjs          # Session startup (unified v2.0)
+│   │   ├── progress-indicator.cjs    # PostToolUse feedback
+│   │   ├── validate-edit.cjs         # Edit validation
+│   │   ├── dev-rules-reminder.cjs    # Development rules display
+│   │   ├── docs/                     # Hook documentation
+│   │   └── lib/                      # Hook utilities
+│   │
+│   ├── agents/                       # 3 specialized agents
 │   │   ├── whole-content-validator.md
 │   │   ├── whole-cross-reference.md
 │   │   └── whole-translator.md
-│   └── workflows/
-│       ├── editing-workflow.md
-│       ├── primary-workflow.md
-│       ├── development-rules.md
-│       └── quality-assurance.md
-├── docs/
-│   ├── project-overview.md
-│   ├── skill-reference.md
-│   ├── workflow-guide.md
-│   └── troubleshooting.md
-└── plans/
-    └── templates/
+│   │
+│   └── workflows/                    # Process guides (4 + hub)
+│       ├── README.md                 # Workflow navigation hub (CRITICAL)
+│       ├── primary-workflow.md       # Main operational workflow
+│       ├── editing-workflow.md       # Content editing process
+│       ├── quality-assurance.md      # QA & validation procedures
+│       └── development-rules.md      # Core principles & standards
+│
+├── docs/                             # Project documentation (9 files)
+│   ├── project-overview.md           # Quick overview
+│   ├── project-overview-pdr.md       # Extended overview (647 lines)
+│   ├── skill-reference.md            # Comprehensive skill docs
+│   ├── system-architecture.md        # Technical architecture (27KB)
+│   ├── project-roadmap.md            # Development roadmap
+│   ├── codebase-summary.md           # Code structure summary
+│   ├── workflow-guide.md             # Workflow instructions
+│   ├── troubleshooting.md            # Common issues & fixes
+│   └── IMPROVEMENTS-2025-12-16.md    # Historical improvements
+│
+└── plans/                            # Project plans & reports
+    ├── improvement-260101-sub-domain-coherence-plan.md
+    │
+    ├── 251229-1232-codebase-review/  # First comprehensive review
+    │   ├── plan.md
+    │   └── phase-*.md (5 phases)
+    │
+    ├── 260101-1613-skill-structure-refactoring/
+    │   └── refactoring-plan.md
+    │
+    ├── 260101-1710-codebase-review/  # Second comprehensive review
+    │   ├── plan.md
+    │   └── phase-*.md (4 phases)
+    │
+    ├── templates/
+    │   └── regroup-template.md
+    │
+    └── reports/                      # Analysis & review reports (19 files)
+        ├── codebase-review-260102-1517-final-summary.md
+        ├── bottom-up-analysis-*.md (2 files)
+        ├── code-reviewer-*.md (6 files)
+        ├── researcher-*.md (4 files)
+        └── [other specialized reports]
 ```
 
 ## Workflow Example
