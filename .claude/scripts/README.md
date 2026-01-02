@@ -9,7 +9,7 @@ Automation scripts for Whole Knowledge Architecture project.
 **Purpose:** Automatically validates consistency across all project documentation
 
 **What It Checks:**
-1. ✅ **Version Numbers** - All skill versions consistent (v2.0.0, v5.0.0, v1.0.0)
+1. ✅ **Version Numbers** - All skill versions consistent (v2.1.0, v2.0.0, v5.0.0, v1.0.0)
 2. ✅ **Command References** - All 9 commands properly documented
 3. ✅ **Project Statistics** - 50/50 functions, 2,072 concepts, 371 groups, dates
 4. ✅ **File Path References** - All `.claude/` paths valid and files exist
@@ -130,12 +130,13 @@ Edit `CONFIG` object in the script to update:
 ```javascript
 const CONFIG = {
   versions: {
-    'whole-editor': 'v2.0.0',
+    'whole-editor': 'v2.1.0',      // Updated 2026-01-02 (agent integration)
     'whole-analyzer': 'v2.0.0',
-    'whole-reviewer': 'v2.0.0',
-    'whole-regrouper': 'v5.0.0',  // Update when version changes
+    'whole-reviewer': 'v2.1.0',    // Updated 2026-01-02 (agent integration)
+    'whole-regrouper': 'v5.0.0',
     'shared': 'v1.0.0',
-    'hooks': 'v2.0.0'
+    'hooks': 'v2.0.0',
+    'agents': 'v2.1.0'             // Added 2026-01-02 (modernization)
   },
   // ...
 };
@@ -258,7 +259,22 @@ chmod +x .claude/scripts/check-documentation-consistency.js
 
 ---
 
-**Version:** 1.0.0
+## Version History
+
+### v1.1.0 (2026-01-02)
+- Updated documentation to reflect v2.1.0 modernization
+- Added agents v2.1.0 to version references
+- Updated example CONFIG with current versions
+
+### v1.0.0 (2026-01-02)
+- Initial release
+- Comprehensive documentation consistency checking
+- Integration with git hooks
+
+---
+
+**Version:** 1.1.0
 **Created:** 2026-01-02
+**Last Updated:** 2026-01-02
 **Maintainer:** Whole Project Team
 **License:** Private
