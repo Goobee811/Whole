@@ -13,3 +13,10 @@ __pycache__/
 *-regroup-plan.txt
 regroup_*.py
 complete_regroup_*.py
+
+# Error output files
+nul
+*.err
+
+# Repomix outputs
+repomix-output.*
