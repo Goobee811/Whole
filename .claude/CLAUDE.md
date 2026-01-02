@@ -10,7 +10,7 @@ Specialized Claude skills for editing and expanding the Whole bilingual knowledg
 
 ## Skills Available
 - `whole-editor` (v2.1.0): Main editing skill for content expansion (integrates whole-translator)
-- `whole-analyzer` (v2.0.0): Pre-editing analysis and duplicate detection
+- `whole-analyzer` (v2.1.0): Pre-editing analysis and duplicate detection (integrates agents for deep analysis)
 - `whole-reviewer` (v2.1.0): Post-editing validation (integrates agents for deep analysis)
 - `whole-regrouper` (v5.0.0): Phân tích, gom nhóm, và ĐỒNG BỘ Tổng Quan ↔ Content (Intelligent Analysis)
 

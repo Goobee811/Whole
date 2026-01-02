@@ -33,7 +33,7 @@ const CONFIG = {
   // Expected versions
   versions: {
     'whole-editor': 'v2.1.0',
-    'whole-analyzer': 'v2.0.0',
+    'whole-analyzer': 'v2.1.0',
     'whole-reviewer': 'v2.1.0',
     'whole-regrouper': 'v5.0.0',
     'shared': 'v1.0.0',

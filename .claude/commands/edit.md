@@ -56,7 +56,7 @@ Examples:
 ## Integration Points
 
 ### Skills Activated:
-- **whole-analyzer** (v2.0.0) - Pre-editing analysis
+- **whole-analyzer** (v2.1.0) - Pre-editing analysis (integrates agents)
 - **whole-editor** (v2.1.0) - Main editing (integrates whole-translator)
 - **whole-reviewer** (v2.1.0) - Post-editing validation (integrates agents)
 

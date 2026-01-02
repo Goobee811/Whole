@@ -128,7 +128,7 @@ Whole is a layered, modular knowledge management system built on Claude Code's s
 
 ---
 
-#### **whole-analyzer (v2.0.0)**
+#### **whole-analyzer (v2.1.0)**
 
 **Purpose**: Pre-edit analysis and issue detection
 

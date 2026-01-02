@@ -36,7 +36,7 @@ Whole/
 │   │   │       ├── check-cross-refs.js
 │   │   │       └── validate-structure.js
 │   │   │
-│   │   ├── whole-analyzer/            # Pre-edit analysis skill (v2.0.0)
+│   │   ├── whole-analyzer/            # Pre-edit analysis skill (v2.1.0)
 │   │   │   └── SKILL.md
 │   │   │
 │   │   ├── whole-reviewer v2.1.0)
@@ -195,7 +195,7 @@ Four specialized Claude Code skills provide automated knowledge management:
 - **Activation**: `/edit [section]`
 - **References**: 4 markdown guides covering editing protocol, duplicate resolution, bilingual rules, structure validation
 
-#### **whole-analyzer** (v2.0.0)
+#### **whole-analyzer** (v2.1.0)
 - **Purpose**: Pre-editing analysis and duplicate detection
 - **Features**: Analyzes section completeness, detects duplicates, recommends improvements
 - **Output**: Comprehensive analysis reports with findings and recommendations

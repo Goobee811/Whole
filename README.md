@@ -26,7 +26,7 @@ Claude Code skills for editing and managing the Whole bilingual knowledge archit
 | Skill | Version | Purpose |
 |-------|---------|---------|
 | whole-editor v2.1.0 | Main editing operations |
-| whole-analyzer | v2.0.0 | Pre-edit analysis & duplicate detection |
+| whole-analyzer | v2.1.0 | Pre-edit analysis & duplicate detection |
 | whole-reviewer v2.1.0 | Post-edit validation |
 | whole-regrouper | v5.0.0 | Concept reorganization + intelligent reconciliation |
 
@@ -118,7 +118,7 @@ Whole/
 │   │   │       ├── check-cross-refs.js
 │   │   │       └── validate-structure.js
 │   │   │
-│   │   ├── whole-analyzer/           # Pre-edit analysis (v2.0.0)
+│   │   ├── whole-analyzer/           # Pre-edit analysis (v2.1.0)
 │   │   │   └── SKILL.md
 │   │   │
 │   │   ├── whole-reviewer v2.1.0)
