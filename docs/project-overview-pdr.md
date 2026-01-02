@@ -104,9 +104,9 @@ Develop an organized, bilingual knowledge system capable of:
 - Documentation complete for all skills
 
 **Status**: COMPLETE
-- whole-editor v2.0.0 operational
+- whole-editor v2.1.0 operational
 - whole-analyzer v2.0.0 operational
-- whole-reviewer v2.0.0 operational
+- whole-reviewer v2.1.0 operational
 - whole-regrouper v5.0.0 operational (intelligent analysis)
 - 9 commands active and functional
 - Error rate: <5%

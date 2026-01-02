@@ -24,7 +24,7 @@ Whole/
 │   ├── settings.json                  # Claude Code environment settings
 │   │
 │   ├── skills/                        # 4 specialized skills for knowledge management
-│   │   ├── whole-editor/              # Content editing skill (v2.0.0)
+│   │   ├── whole-editor v2.1.0)
 │   │   │   ├── SKILL.md               # Skill definition
 │   │   │   ├── references/
 │   │   │   │   ├── editing-protocol.md
@@ -39,7 +39,7 @@ Whole/
 │   │   ├── whole-analyzer/            # Pre-edit analysis skill (v2.0.0)
 │   │   │   └── SKILL.md
 │   │   │
-│   │   ├── whole-reviewer/            # Post-edit validation skill (v2.0.0)
+│   │   ├── whole-reviewer v2.1.0)
 │   │   │   └── SKILL.md
 │   │   │
 │   │   └── whole-regrouper/           # Concept reorganization skill (v5.0.0)
@@ -188,7 +188,7 @@ Whole/
 
 Four specialized Claude Code skills provide automated knowledge management:
 
-#### **whole-editor** (v2.0.0)
+#### **whole-editor v2.1.0)
 - **Purpose**: Primary editing skill for content modification
 - **Use Cases**: Add/modify concepts, expand descriptions, update cross-references
 - **Key Rules**: Never delete without approval, maintain 4-point structure, preserve bilingual format
@@ -201,7 +201,7 @@ Four specialized Claude Code skills provide automated knowledge management:
 - **Output**: Comprehensive analysis reports with findings and recommendations
 - **Activation**: `/analyze [section]`
 
-#### **whole-reviewer** (v2.0.0)
+#### **whole-reviewer v2.1.0)
 - **Purpose**: Post-editing validation and quality assurance
 - **Checks**: 4-point structure compliance, bilingual integrity, cross-reference validity, numbering consistency
 - **Output**: Review reports with validation results

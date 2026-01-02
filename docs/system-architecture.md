@@ -102,7 +102,7 @@ Whole is a layered, modular knowledge management system built on Claude Code's s
 
 ### Layer 2: Skills Layer (4 Specialized Skills)
 
-#### **whole-editor (v2.0.0)**
+#### **whole-editor v2.1.0)**
 
 **Purpose**: Content creation and modification
 
@@ -166,7 +166,7 @@ RECOMMENDATIONS:
 
 ---
 
-#### **whole-reviewer (v2.0.0)**
+#### **whole-reviewer v2.1.0)**
 
 **Purpose**: Post-edit quality assurance and validation
 

@@ -106,16 +106,43 @@ Concept reorganization skill with intelligent analysis and progressive disclosur
 | `/validate [section]` | Validate changes |
 | `/report` | Generate comprehensive progress report |
 
-## Agents
+## Agents (Modernized v2.1.0)
 
 ### whole-content-validator
-Automated content validation after edits. Checks 4-point structure, bilingual integrity, and cross-references.
-
-### whole-translator
-Translation assistance for Vietnamese-English with cultural adaptation and terminology consistency.
+**Purpose**: Comprehensive post-editing validation
+**Model**: haiku (efficient for validation tasks)
+**Integration**: Invoked by whole-reviewer skill
+**Features**:
+- Executes all validation scripts (validate-structure, bilingual-check, check-cross-refs)
+- Supports whole-regrouper v5.0.0 (Tổng Quan preservation, numbering)
+- Uses shared utilities (v1.0.0)
+- Distinguishes CRITICAL vs WARNING issues
+**When to use**: After edits, before commit, for comprehensive validation
 
 ### whole-cross-reference
-Manages bidirectional cross-references. Validates links and detects orphaned references.
+**Purpose**: Bidirectional cross-reference management and graph analysis
+**Model**: haiku
+**Integration**: Invoked by whole-editor or whole-content-validator
+**Features**:
+- Validates bidirectional links (A→B requires B→A)
+- Builds reference graphs with connectivity analysis
+- Identifies high-connectivity concepts (hubs)
+- Suggests strategic link additions
+- Advanced: Cross-domain analysis, orphaned reference detection
+**When to use**: After editing cross-references, for reference graph analysis
+
+### whole-translator
+**Purpose**: Complex translation with cultural adaptation
+**Model**: haiku
+**Integration**: Invoked by whole-editor for complex translations
+**Features**:
+- Cultural adaptation (Vietnamese primary, not literal translation)
+- Terminology glossary management
+- Consistency checking across functions
+- Documents translation choices and alternatives
+- Validates bilingual format compliance
+**When to use**: Complex concepts, terminology audits, bulk translations
+**Don't use for**: Simple words (use bilingual-rules.md), format validation (use scripts)
 
 ## Hooks
 

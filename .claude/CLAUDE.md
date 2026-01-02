@@ -9,10 +9,15 @@ Specialized Claude skills for editing and expanding the Whole bilingual knowledg
 - **Structural Preservation**: Maintain 10 domains, 5 functions each, 4-point (at least 4, can have more) descriptions
 
 ## Skills Available
-- `whole-editor`: Main editing skill for content expansion
-- `whole-analyzer`: Pre-editing analysis and duplicate detection
-- `whole-reviewer`: Post-editing validation
-- `whole-regrouper`: Phân tích, gom nhóm, và ĐỒNG BỘ Tổng Quan ↔ Content (v5.0.0 - Intelligent Analysis)
+- `whole-editor` (v2.1.0): Main editing skill for content expansion (integrates whole-translator)
+- `whole-analyzer` (v2.0.0): Pre-editing analysis and duplicate detection
+- `whole-reviewer` (v2.1.0): Post-editing validation (integrates agents for deep analysis)
+- `whole-regrouper` (v5.0.0): Phân tích, gom nhóm, và ĐỒNG BỘ Tổng Quan ↔ Content (Intelligent Analysis)
+
+## Agents Available (v2.1.0 - Modernized)
+- `whole-content-validator`: Comprehensive validation (scripts + manual checks)
+- `whole-cross-reference`: Bidirectional link validation + reference graph analysis
+- `whole-translator`: Complex translation with cultural adaptation
 
 ## Workflows
 - `.claude/workflows/editing-workflow.md`: Step-by-step editing process

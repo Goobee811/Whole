@@ -51,16 +51,35 @@ Present changes with:
 
 ### 5. Validate Results
 
-Run validation checks:
+#### Automated Validation (Scripts):
 ```bash
+# Comprehensive validation (recommended first)
 node .claude/skills/whole-regrouper/scripts/validate-regroup.js [function-num]
+
+# Detailed validation suite
+node .claude/skills/whole-editor/scripts/validate-structure.js [function-num]
+node .claude/skills/whole-editor/scripts/bilingual-check.js [function-num]
+node .claude/skills/whole-editor/scripts/check-cross-refs.js [function-num]
+```
+
+#### Agent-Based Deep Analysis (Optional):
+For complex validations or major edits:
+```javascript
+// Comprehensive content validation
+Task(subagent_type: 'whole-content-validator', prompt: 'Validate CF[N]')
+
+// Cross-reference graph analysis
+Task(subagent_type: 'whole-cross-reference', prompt: 'Analyze CF[N] cross-references')
+
+// Translation/terminology consistency (if needed)
+Task(subagent_type: 'whole-translator', prompt: 'Review CF[N] terminology')
 ```
 
 Check:
-- [ ] 4-point structure compliance
-- [ ] Bilingual headers complete
-- [ ] Cross-references valid
-- [ ] Numbering sequential
+- [ ] 4-point structure compliance (minimum 4, can have more)
+- [ ] Bilingual headers complete (`#### **[num]. English - Tiếng Việt**`)
+- [ ] Cross-references valid (bidirectional: A→B requires B→A)
+- [ ] Numbering sequential (no gaps)
 
 ### 6. Complete Task
 
