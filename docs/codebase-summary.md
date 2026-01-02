@@ -231,7 +231,7 @@ Four specialized Claude Code skills provide automated knowledge management:
 | `/edit [section]` | Start editing session | Active |
 | `/expand [domain] [func] [topic]` | Add new concepts to section | Active |
 | `/regroup [number]` | Full regrouping (auto-detects if no arg) | Active |
-| `/reconcile [number]` | Sync Tổng Quan ↔ Content mismatch (v2.0.0) | Active |
+| `/reconcile [number]` | Sync Tổng Quan ↔ Content mismatch (v5.0.0) | Active |
 | `/validate [section]` | Post-edit validation | Active |
 | `/report` | Generate comprehensive progress report | Active |
 

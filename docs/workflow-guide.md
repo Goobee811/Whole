@@ -164,6 +164,7 @@ Use for quality assurance.
 | `/edit [section]` | Start editing |
 | `/expand [domain] [func] [topic]` | Add concepts |
 | `/regroup [number]` | Reorganize concepts |
+| `/reconcile [number]` | Sync Tổng Quan ↔ Content (NEW - v5.0.0) |
 | `/validate [section]` | Validate changes |
 | `/report` | Generate progress report |
 
