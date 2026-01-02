@@ -1,7 +1,7 @@
 # Shared Utilities Library
 
-**Version:** 1.0.0
-**Purpose:** DRY refactoring - Centralized utilities for all Whole skills
+**Version:** 1.0.1
+**Purpose:** DRY refactoring - Centralized utilities for all Whole skills, agents, and scripts
 **Created:** 2025-12-29 (Phase 2 of codebase review)
 
 ## Overview
@@ -14,6 +14,8 @@ The `shared/` directory contains common utilities extracted from duplicated code
 - Whole.md parsing operations
 - CLI initialization helpers
 - Type definitions
+
+**Used by:** Skills (whole-editor, whole-regrouper, whole-reviewer), Agents (whole-content-validator, whole-cross-reference, whole-translator), Hooks, Scripts
 
 ## Directory Structure
 
@@ -455,6 +457,28 @@ try {
 }
 ```
 
+### Example 4: Agent Integration (v2.1.0)
+
+```javascript
+// .claude/agents/whole-content-validator.md
+// Agents reference shared utilities in their prompts:
+
+const { initValidationScript, MINIMUM_BULLET_POINTS } = require('./.claude/skills/shared');
+const { funcNum, content, section } = initValidationScript('whole-content-validator');
+
+// Phase 1: Initialization using shared utilities
+// Phase 2: Execute validation scripts
+// Phase 3: Manual analysis with shared parsing functions
+// Phase 4: Report generation
+
+// Agents use:
+// - initValidationScript() for setup
+// - MINIMUM_BULLET_POINTS for validation
+// - validateBilingualFormat() for format checking
+// - extractConcepts() for parsing
+// - handleError() for error handling
+```
+
 ---
 
 ## Testing
@@ -562,6 +586,12 @@ const { funcNum, section } = initValidationScript('validate-regroup.js');
 
 ## Changelog
 
+### v1.0.1 (2026-01-02)
+- 📝 Documentation update for agents v2.1.0 integration
+- ✨ Added agent integration example
+- 📚 Updated "Used by" section (added agents, whole-reviewer v2.1.0)
+- 🔗 Agents (whole-content-validator, whole-cross-reference, whole-translator) now reference shared utilities
+
 ### v1.0.0 (2025-12-29)
 - ✨ Initial release
 - 📦 Extracted from whole-editor, whole-regrouper validation scripts
@@ -629,9 +659,11 @@ A: Type definitions may grow (e.g., ConceptType, GroupType). Separating now prev
 - **Validation Protocols:** `.claude/workflows/quality-assurance.md`
 - **Whole.md Structure:** `.claude/CLAUDE.md`
 - **Hook System:** `.claude/hooks/README.md`
+- **Agents (v2.1.0):** `.claude/agents/` (whole-content-validator, whole-cross-reference, whole-translator)
+- **Commands:** `.claude/commands/` (/validate, /edit integration)
 
 ---
 
-**Status:** ✅ Production-ready (v1.0.0)
+**Status:** ✅ Production-ready (v1.0.1)
 **Maintainer:** Whole Project Team
-**Last Updated:** 2025-12-29
+**Last Updated:** 2026-01-02
