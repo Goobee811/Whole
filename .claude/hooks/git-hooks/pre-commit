@@ -1,0 +1,62 @@
+#!/bin/sh
+#
+# Pre-commit hook for Whole Knowledge Architecture
+# Runs documentation consistency checks before allowing commits
+#
+# To bypass this hook temporarily (not recommended):
+#   git commit --no-verify
+#
+
+echo ""
+echo "════════════════════════════════════════════════════════════════"
+echo " Running Pre-Commit Checks"
+echo "════════════════════════════════════════════════════════════════"
+echo ""
+
+# Check if we're committing documentation files
+DOCS_CHANGED=$(git diff --cached --name-only | grep -E '\.(md|markdown)$' || true)
+
+if [ -z "$DOCS_CHANGED" ]; then
+  echo "✓ No documentation files changed, skipping consistency check"
+  echo ""
+  exit 0
+fi
+
+echo "Documentation files changed:"
+echo "$DOCS_CHANGED" | sed 's/^/  - /'
+echo ""
+
+# Run documentation consistency checker
+echo "Running documentation consistency checker..."
+echo ""
+
+node .claude/scripts/check-documentation-consistency.js
+
+# Capture exit code
+EXIT_CODE=$?
+
+echo ""
+
+if [ $EXIT_CODE -eq 0 ]; then
+  echo "✓ Documentation consistency check PASSED"
+  echo "✓ Proceeding with commit..."
+  echo ""
+  exit 0
+else
+  echo "════════════════════════════════════════════════════════════════"
+  echo " ✗ COMMIT REJECTED"
+  echo "════════════════════════════════════════════════════════════════"
+  echo ""
+  echo "Documentation consistency check FAILED!"
+  echo ""
+  echo "Please fix the errors above before committing."
+  echo ""
+  echo "Options:"
+  echo "  1. Fix the inconsistencies and try again"
+  echo "  2. Update .claude/scripts/check-documentation-consistency.js"
+  echo "     if expected values have changed"
+  echo "  3. Bypass this check (not recommended):"
+  echo "     git commit --no-verify"
+  echo ""
+  exit 1
+fi
