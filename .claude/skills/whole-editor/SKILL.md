@@ -36,27 +36,32 @@ Claude Code requires this. If you get "File has not been read yet" error:
 
 ## Integration with Agents
 
-### When to Invoke whole-translator Agent
-For complex translation tasks, invoke the specialized agent:
+### When to Invoke Agents
+Use Task tool to invoke specialized agents for complex editing tasks:
 
 ```javascript
-// For complex abstract concepts requiring cultural adaptation
+// For complex translation requiring cultural adaptation
 Task(subagent_type: 'whole-translator',
      prompt: 'Translate and culturally adapt concept [name] in CF[N]')
+
+// For structure validation during editing
+Task(subagent_type: 'whole-content-validator',
+     prompt: 'Validate structure and compliance for new content in CF[N]')
+
+// For cross-reference management and updates
+Task(subagent_type: 'whole-cross-reference',
+     prompt: 'Update cross-references after adding concepts to CF[N]')
 
 // For terminology consistency audit
 Task(subagent_type: 'whole-translator',
      prompt: 'Review terminology consistency across CF[range]')
-
-// For bulk translation of new content
-Task(subagent_type: 'whole-translator',
-     prompt: 'Translate new concepts in CF[N] with cultural adaptation')
 ```
 
-### When NOT to Use Agent
+### When NOT to Use Agents
 - Simple word translations → Use `references/bilingual-rules.md`
-- Format validation → Use `bilingual-check.js` script
-- Structural changes → Use whole-editor directly
+- Format validation → Use scripts in `scripts/` directory
+- Basic structural changes → Use whole-editor directly
+- Single cross-reference update → Update manually
 
 ## Quick Reference
 
@@ -77,6 +82,23 @@ Load: `references/bilingual-rules.md`
 ### Structure Validation
 Load: `references/structure-validation.md`
 
+## Agent Integration Guide
+
+### whole-translator
+**When to use**: Complex translations requiring cultural adaptation
+**Command**: `Task(subagent_type='whole-translator', prompt='Translate concept [name] in CF[N] with cultural context')`
+**Expected output**: Culturally adapted translation with terminology glossary
+
+### whole-content-validator
+**When to use**: Validate structure and format compliance during editing
+**Command**: `Task(subagent_type='whole-content-validator', prompt='Validate new content in CF[N]')`
+**Expected output**: Validation report with structure compliance check
+
+### whole-cross-reference
+**When to use**: Manage bidirectional cross-references after edits
+**Command**: `Task(subagent_type='whole-cross-reference', prompt='Update cross-references for CF[N]')`
+**Expected output**: Cross-reference update report with bidirectional links verified
+
 ## Workflow
 1. **Read**: Load target section completely
 2. **Analyze**: Check for gaps, duplicates, incomplete descriptions
@@ -84,10 +106,22 @@ Load: `references/structure-validation.md`
 4. **Apply**: After approval, implement with cross-ref updates
 5. **Verify**: Confirm all changes maintain structure integrity
 
-## Never Do
-- Delete content without approval
-- Break cross-references
-- Skip 4-point structure
-- Translate literally without context
-- Change structure without impact analysis
+## Critical Rules
+
+### ✅ MUST
+- Read file before any Edit operation (Claude Code requirement)
+- Use agents for complex tasks (translation, validation, cross-refs)
+- Maintain 4-point structure minimum (can have more)
+- Preserve bilingual format (`#### **[num]. English - Tiếng Việt**`)
+- Update cross-references bidirectionally
+- Use shared utilities from `.claude/skills/shared`
+- Get approval before deleting content
+
+### ❌ NEVER
 - Edit without Reading first
+- Delete content without explicit approval
+- Break cross-references or skip bidirectional updates
+- Skip 4-point structure
+- Translate literally without cultural context
+- Change structure without impact analysis
+- Use agents for simple tasks (prefer scripts and references)
