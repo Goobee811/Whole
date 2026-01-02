@@ -372,7 +372,7 @@ const {
 | **whole-editor** | Content creation/modification | On-demand | `/edit` command |
 | **whole-analyzer** | Pre-edit analysis + issues | Detailed when needed | `/analyze` command |
 | **whole-reviewer** | Post-edit QA + validation | Always-on | Auto after edits |
-| **whole-regrouper v5.1.0** | Intelligent reorganization | **Progressive disclosure (~60% savings)** | `/regroup`, `/reconcile` |
+| **whole-regrouper v5.0.0** | Intelligent reorganization | **Progressive disclosure (~60% savings)** | `/regroup`, `/reconcile` |
 
 **Progressive Disclosure in whole-regrouper**:
 ```

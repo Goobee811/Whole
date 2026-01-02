@@ -88,6 +88,10 @@ Whole/
 │   ├── README.md                 # Claude config docs
 │   ├── settings.json             # Claude Code settings
 │   ├── skills/
+│   │   ├── shared/                   # Shared utilities (DRY refactoring)
+│   │   │   ├── config/
+│   │   │   ├── types/
+│   │   │   └── utils/
 │   │   ├── whole-editor/
 │   │   │   ├── SKILL.md
 │   │   │   └── references/
@@ -106,6 +110,7 @@ Whole/
 │   │   ├── expand.md
 │   │   ├── next.md
 │   │   ├── regroup.md
+│   │   ├── reconcile.md
 │   │   ├── report.md
 │   │   ├── status.md
 │   │   └── validate.md
