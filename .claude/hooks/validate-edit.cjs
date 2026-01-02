@@ -80,6 +80,10 @@ async function main() {
     if (warnings.length > 0) {
       console.log('\n=== Post-Edit Validation ===');
       warnings.forEach(w => console.log(`- ${w}`));
+      console.log('');
+      console.log('Suggestion: Run validation scripts to ensure quality:');
+      console.log('  /validate [function-number]  # Run all validation checks');
+      console.log('  Or: node .claude/skills/whole-regrouper/scripts/validate-regroup.js [N]');
       console.log('===========================\n');
     }
 

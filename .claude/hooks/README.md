@@ -70,15 +70,23 @@ All hooks `exit(0)` to prevent blocking Claude operations:
 ```
 hooks/
 ├── README.md                 # This file
-├── session-init.cjs          # SessionStart hook
+├── session-init.cjs          # SessionStart hook (v2.1.0)
 ├── dev-rules-reminder.cjs    # UserPromptSubmit hook
 ├── progress-indicator.cjs    # PostToolUse feedback
-├── validate-edit.cjs         # Whole.md validation
-└── lib/
-    └── ck-config-utils.cjs   # Shared utilities
+├── validate-edit.cjs         # Whole.md validation (v2.1.0)
+├── lib/
+│   └── ck-config-utils.cjs   # Shared utilities
+├── docs/
+│   └── README.md             # Hook system guide
+└── git-hooks/
+    ├── README.md             # Git hooks guide
+    └── pre-commit.template   # Documentation validation hook
 ```
 
 ## Version History
 
+- **v2.1.0** - Updated for agents v2.1.0 integration
+  - session-init: Added missing commands (/reconcile, /next, /report)
+  - validate-edit: Suggest validation scripts/commands after edits
 - **v2.0.0** - Merged hooks, DRY refactoring, security hardening
 - **v1.0.0** - Initial hook system

@@ -97,7 +97,7 @@ async function main() {
     console.log(` 3. 4-Point Structure: Definition, Context, Application, Integration`);
 
     // Available commands
-    console.log(`\nAvailable: /edit, /analyze, /expand, /regroup, /status, /validate`);
+    console.log(`\nAvailable: /edit, /analyze, /expand, /regroup, /reconcile, /next, /status, /validate, /report`);
 
     process.exit(0);
   } catch (error) {
