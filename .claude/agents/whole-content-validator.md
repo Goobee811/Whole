@@ -40,7 +40,7 @@ node .claude/skills/whole-editor/scripts/check-cross-refs.js [funcNum]
 - Report orphaned or broken references
 - Verify target concepts exist
 
-### 5. Whole-Regrouper v5.0.0 Support
+### 5. Whole-Regrouper v5.1.0 Support
 - Validate "Tổng Quan" section preservation
 - Check continuous numbering (1, 2, 3...)
 - Verify bilingual group names
@@ -148,6 +148,6 @@ Load references as needed:
 ## Version Support
 
 - **Whole.md Structure**: 10 domains, 5 functions each, 4-point descriptions
-- **Whole-Regrouper**: v5.0.0 (intelligent analysis, reconciliation)
+- **Whole-Regrouper**: v5.1.0 (intelligent analysis, reconciliation, agent integration)
 - **Shared Utilities**: v1.0.0 (DRY refactoring)
 - **Validation Scripts**: v1.0.0 (comprehensive checks)

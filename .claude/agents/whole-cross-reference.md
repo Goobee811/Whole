@@ -208,5 +208,5 @@ Load references as needed:
 
 - **Cross-Reference Format**: `→ **Liên kết:**` with `Domain > Function > Concept`
 - **Bidirectional Requirement**: All links must be reciprocal
-- **Whole-Regrouper**: v5.0.0 (preserves cross-references during regrouping)
+- **Whole-Regrouper**: v5.1.0 (preserves cross-references during regrouping, agent integration)
 - **Shared Utilities**: v1.0.0 (parsing and validation)

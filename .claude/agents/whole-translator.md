@@ -231,7 +231,7 @@ Load references as needed:
 - **Primary Language**: Vietnamese (cultural authenticity)
 - **Secondary Language**: English (conceptual precision)
 - **Shared Utilities**: v1.0.0 (bilingual validation)
-- **Whole-Regrouper**: v5.0.0 (preserves bilingual integrity)
+- **Whole-Regrouper**: v5.1.0 (preserves bilingual integrity, agent integration)
 
 ## When to Use This Agent
 
