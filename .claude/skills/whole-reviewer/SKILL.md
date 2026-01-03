@@ -38,6 +38,12 @@ Task(subagent_type: 'whole-cross-reference', prompt: 'Validate cross-references 
 Task(subagent_type: 'whole-translator', prompt: 'Review bilingual consistency and cultural adaptation in CF[N]')
 ```
 
+### When NOT to Use Agents
+- Simple format checks → Use validation scripts in `scripts/`
+- Basic concept counting → Use Grep directly
+- Quick structure validation → Run scripts first (faster)
+- Single cross-reference check → Manual verification
+
 ## Review Checklist
 
 ### Content Integrity
