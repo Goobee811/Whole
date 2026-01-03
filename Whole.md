@@ -566,7 +566,7 @@ Nguyên lý rằng hành động quan sát một hệ thống không thể tách
 - **Subject-Object Entanglement**: Sự vướng víu không thể tách rời giữa chủ thể và khách thể
 - **Heisenberg's Principle (Generalized)**: Nguyên tắc bất định, càng biết rõ một khía cạnh, càng ít biết rõ một khía cạnh bổ sung khác
 
-→ **Liên kết:** VALIDATION (Bias Awareness), TRANSCENDENCE (Non-dual Awareness)
+→ **Liên kết:** VALIDATION (Bias Awareness), TRANSCENDENCE (Non-dual Awareness), META (Meta-Cognition), OPERATIONS (Experimental Design), DYNAMICS (Quantum Systems), INTEGRATION (Subject-Object Integration)
 
 #### **35. Relativity & Context** - Tương Đối & Bối Cảnh
 
@@ -577,7 +577,7 @@ Nguyên lý rằng ý nghĩa, giá trị và thậm chí cả các thuộc tính
 - **No Absolute Viewpoint**: Không có một điểm nhìn tuyệt đối, "từ hư không"
 - **Positional Understanding**: Sự hiểu biết phụ thuộc vào vị trí của người quan sát trong hệ thống
 
-→ **Liên kết:** NAVIGATION (Situational Awareness), [META] LAYER (Meta-Paradigm Thinking)
+→ **Liên kết:** NAVIGATION (Situational Awareness), [META] LAYER (Meta-Paradigm Thinking), OPERATIONS (Contextual Analysis), VALIDATION (Reference Frame Validation), DYNAMICS (Perspective Shifting), CREATION (Frame Innovation)
 
 #### **36. Representation & Reality** - Sự Biểu Đạt & Thực Tại
 
@@ -588,7 +588,7 @@ Nguyên lý cơ bản rằng có một sự khác biệt không thể vượt qu
 - **Power of Abstraction**: Sức mạnh của sự biểu đạt nằm ở khả năng trừu tượng hóa, cho phép chúng ta tư duy và giao tiếp về những thứ phức tạp
 - **Isomorphism**: Sự tương ứng một-đối-một về cấu trúc giữa sự biểu đạt và thực tại là mục tiêu của các mô hình chính xác
 
-→ **Liên kết:** FOUNDATIONS (Map-Territory Distinction), [META] LAYER (Symbol System Creation)
+→ **Liên kết:** FOUNDATIONS (Map-Territory Distinction), [META] LAYER (Symbol System Creation), INTEGRATION (Knowledge Synthesis), VALIDATION (Model Validation), CREATION (Abstraction Design), NAVIGATION (Conceptual Mapping)
 
 #### **37. Holism & Reductionism** - Toàn Thể Luận & Giản Lược Luận
 
@@ -599,7 +599,7 @@ Hai cách tiếp cận đối lập nhưng bổ sung cho nhau để hiểu thế
 - **Synthesis ↔ Analysis**: Sự căng thẳng và bổ sung giữa tổng hợp (holism) và phân tích (reductionism)
 - **Interplay of Levels**: Một sự hiểu biết hoàn chỉnh đòi hỏi sự tương tác giữa cả hai cách tiếp cận
 
-→ **Liên kết:** INTEGRATION (Systemic Integration), OPERATIONS (Decomposition)
+→ **Liên kết:** INTEGRATION (Systemic Integration), OPERATIONS (Decomposition), META (Multi-Level Thinking), DYNAMICS (Emergence), VALIDATION (Analytical Verification), TRANSCENDENCE (Synthesis Beyond Parts)
 
 #### **38. Polarity & Spectrum** - Lưỡng Cực & Phổ
 
@@ -610,7 +610,7 @@ Nguyên lý rằng nhiều khái niệm không phải là nhị phân (có/khôn
 - **Position on a Spectrum**: Hiểu một thứ gì đó là xác định vị trí của nó trên một dải phổ, thay vì gán nó vào một trong hai hộp
 - **Nuanced Understanding**: Tư duy theo phổ cho phép sự hiểu biết tinh tế và nhiều sắc thái hơn
 
-→ **Liên kết:** DYNAMICS (Oscillation), OPERATIONS (Analytical Tools)
+→ **Liên kết:** DYNAMICS (Oscillation), OPERATIONS (Analytical Tools), TRANSCENDENCE (Paradox Resolution), INTEGRATION (Polarity Integration), META (Gradient Thinking), NAVIGATION (Spectrum Navigation)
 
 ---
 
