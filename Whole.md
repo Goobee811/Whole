@@ -111,7 +111,7 @@ Thực tại không bị điều kiện hóa, nguồn gốc tối hậu.
 - **Beyond Duality**: Vượt khỏi mọi phân biệt nhị nguyên
 - **Infinite Potential**: Tiềm năng vô hạn chưa biểu hiện
 
-→ **Liên kết:** TRANSCENDENCE (Ultimate Principles), FOUNDATIONS (Unity)
+→ **Liên kết:** TRANSCENDENCE (Unity Consciousness), DYNAMICS (System Evolution Patterns), META (Witness Consciousness), CREATION (Creative Evolution)
 
 #### **6. The One** - Cái Một
 

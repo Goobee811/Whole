@@ -2,32 +2,32 @@
   "version": "1.0.0",
   "description": "Progress tracker for Whole Group Processor skill",
   "created": "2026-01-03",
-  "lastUpdated": "2026-01-03T22:20:00Z",
+  "lastUpdated": "2026-01-03T22:26:00Z",
 
   "summary": {
     "totalGroups": 371,
-    "completedGroups": 1,
+    "completedGroups": 2,
     "inProgressGroups": 0,
-    "pendingGroups": 370,
-    "completionPercentage": 0.27
+    "pendingGroups": 369,
+    "completionPercentage": 0.54
   },
 
   "currentGroup": null,
-  "nextSuggested": "1-1-2",
+  "nextSuggested": "1-1-3",
 
   "domains": {
     "1-foundations": {
       "name": "FOUNDATIONS",
       "totalGroups": 50,
-      "completedGroups": 1,
+      "completedGroups": 2,
       "functions": {
         "CF1": {
           "name": "FIRST PRINCIPLES & AXIOMS",
           "totalGroups": 12,
-          "completedGroups": 1,
+          "completedGroups": 2,
           "groups": {
             "1": { "name": "Foundational Axioms & Logic", "concepts": 3, "status": "completed", "completedAt": "2026-01-03T22:20:00Z" },
-            "2": { "name": "Unity, Duality & Ultimate Reality", "concepts": 4, "status": "pending" },
+            "2": { "name": "Unity, Duality & Ultimate Reality", "concepts": 4, "status": "completed", "completedAt": "2026-01-03T22:26:00Z" },
             "3": { "name": "Emergence & Creative Principles", "concepts": 4, "status": "pending" },
             "4": { "name": "Causality, Time & Transformation", "concepts": 4, "status": "pending" },
             "5": { "name": "System Dynamics & Feedback", "concepts": 4, "status": "pending" },
