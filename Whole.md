@@ -627,7 +627,7 @@ Nghiên cứu về bản chất của sự tồn tại và thực tại.
 - **Existence vs. Essence**: Phân biệt giữa sự tồn tại và bản chất
 - **Fundamental Ontology**: Bản thể học cơ bản về cấu trúc của tồn tại
 
-→ **Liên kết:** [META] LAYER (Meta-Structures), FOUNDATIONS (Knowledge & Truth)
+→ **Liên kết:** [META] LAYER (Meta-Structures), FOUNDATIONS (Knowledge & Truth), TRANSCENDENCE (Ultimate Reality), INTEGRATION (Conceptual Integration), VALIDATION (Existence Verification), OPERATIONS (Categorical Analysis)
 
 #### **40. Cosmology** - Vũ Trụ Học
 
@@ -638,7 +638,7 @@ Nghiên cứu về cấu trúc, nguồn gốc và tiến hóa của vũ trụ.
 - **Cosmic Principles**: Các nguyên lý chi phối vũ trụ
 - **Space-Time Fabric**: Cấu trúc không-thời gian
 
-→ **Liên kết:** FOUNDATIONS (Universal Laws), DYNAMICS (System Evolution)
+→ **Liên kết:** FOUNDATIONS (Universal Laws), DYNAMICS (System Evolution), TRANSCENDENCE (Cosmic Unity), AMPLIFICATION (Scale & Complexity), VALIDATION (Scientific Observation), CREATION (Origin Principles)
 
 #### **41. Epistemology** - Tri Thức Luận
 
@@ -649,7 +649,7 @@ Nghiên cứu về bản chất, nguồn gốc, và giới hạn của tri thứ
 - **Belief Formation**: Quá trình hình thành niềm tin từ bằng chứng và suy luận
 - **Epistemic Limits**: Giới hạn của tri thức - những gì có thể và không thể biết
 
-→ **Liên kết:** META (Meta-Cognition), VALIDATION (Reality Testing), OPERATIONS (Analytical Reasoning)
+→ **Liên kết:** META (Meta-Cognition), VALIDATION (Reality Testing), OPERATIONS (Analytical Reasoning), INTEGRATION (Knowledge Synthesis), NAVIGATION (Context Sensing), TRANSCENDENCE (Knowing Beyond Knowing), DYNAMICS (Belief Dynamics)
 
 #### **42. Epistemic Humility** - Khiêm Tốn Tri Thức
 
@@ -660,7 +660,7 @@ Nhận thức về giới hạn tri thức của bản thân và sự sẵn sàn
 - **Fallibilism**: Chấp nhận rằng mọi niềm tin đều có thể sai - sẵn sàng sửa đổi
 - **Intellectual Courage**: Dũng cảm thừa nhận "tôi không biết" thay vì giả vờ biết
 
-→ **Liên kết:** META (Self-Observation), VALIDATION (Error Detection), TRANSCENDENCE (Paradox Resolution)
+→ **Liên kết:** META (Self-Observation), VALIDATION (Error Detection), TRANSCENDENCE (Paradox Resolution), INTEGRATION (Wisdom Integration), DYNAMICS (Cognitive Flexibility), NAVIGATION (Unknown Navigation), OPERATIONS (Critical Thinking)
 
 #### **43. Certainty Gradients** - Phổ Độ Chắc Chắn
 
@@ -671,7 +671,7 @@ Hiểu rằng tri thức không phải nhị phân (biết/không biết) mà l�
 - **Confidence Calibration**: Hiệu chỉnh độ tự tin cho phù hợp với bằng chứng thực tế
 - **Updating Beliefs**: Cập nhật niềm tin khi có thông tin mới (Bayesian thinking)
 
-→ **Liên kết:** VALIDATION (Probability Assessment), OPERATIONS (Decision Frameworks), META (Meta-Cognition)
+→ **Liên kết:** VALIDATION (Probability Assessment), OPERATIONS (Decision Frameworks), META (Meta-Cognition), DYNAMICS (Belief Updating), INTEGRATION (Evidence Integration), NAVIGATION (Uncertainty Navigation), CREATION (Bayesian Innovation)
 
 ---
 
