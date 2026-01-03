@@ -13,6 +13,7 @@ Specialized Claude skills for editing and expanding the Whole bilingual knowledg
 - `whole-analyzer` (v2.1.0): Pre-editing analysis and duplicate detection (integrates agents for deep analysis)
 - `whole-reviewer` (v2.1.0): Post-editing validation (integrates agents for deep analysis)
 - `whole-regrouper` (v5.1.0): Phân tích, gom nhóm, và ĐỒNG BỘ Tổng Quan ↔ Content (Intelligent Analysis + Agent Integration)
+- `whole-group-processor` (v1.0.0): Xử lý từng GROUP một cách có hệ thống với progress tracking (371 groups across 50 functions)
 
 ## Agents Available (v2.1.0 - Modernized)
 - `whole-content-validator`: Comprehensive validation (scripts + manual checks)
@@ -38,13 +39,17 @@ Specialized Claude skills for editing and expanding the Whole bilingual knowledg
 
 ### Progress Tracking (NEW)
 - `.whole-progress.json` - Tracks completed CHỨC NĂNGs (X/50)
+- `.group-progress.json` - Tracks completed GROUPs (X/431) ← NEW
 - Auto-suggests next function to regroup
+- Auto-suggests next group to process
 - Session stats: avg concepts/function, time, completion %
 - Milestone tracking with estimates
 
 ### Intelligent Commands (NEW)
 - `/regroup` - Auto-detects next CHỨC NĂNG to process
 - `/regroup [number]` - Specify function explicitly
+- `/group next` - Auto-detects next GROUP to process ← NEW
+- `/group [D-F-G]` - Process specific group (e.g., 1-1-3) ← NEW
 - Integrated validation before commit
 - Auto-updates progress tracker after completion
 
@@ -139,6 +144,9 @@ When evaluating duplicates:
 - `/expand [domain] [function] [topic]` - Add new concepts
 - `/regroup [function-number]` - ⚡ Regroup CHỨC NĂNG (full regroup workflow)
 - `/reconcile [function-number]` - 🔄 Sync Tổng Quan ↔ Content mismatch (v5.1.0)
+- `/group [identifier]` - 📦 Process specific group (e.g., `/group 1-1-3` or `/group CF5-7`)
+- `/group-status [scope]` - 📊 View group processing progress
+- `/group-plan [scope]` - 📋 Create processing plan for groups
 
 ## Style Preferences
 - Formal yet accessible tone
