@@ -5975,6 +5975,8 @@ Các quá trình thay đổi xã hội tập thể quy mô lớn.
 
 Các chế độ và dòng chảy cơ bản của quá trình xử lý thông tin, cách thức tâm trí di chuyển giữa các trạng thái khác nhau để nhận thức và tương tác với thực tại.
 
+**Vai trò trong DYNAMICS:** Chức năng này thuộc về DYNAMICS vì tập trung vào **ĐỘNG LỰC THAY ĐỔI TƯ DUY** - sự chuyển đổi linh hoạt giữa các chế độ nhận thức (convergent ↔ divergent, fast ↔ slow), dòng chảy chú ý, và khả năng thích ứng của tâm trí. Đây là "Mental Change Dynamics" - động lực học của sự thay đổi tinh thần.
+
 Bao gồm 76 khái niệm được tổ chức thành 12 nhóm chủ đề:
 
 1. **Dual Processing Modes** (9): Các Chế Độ Xử Lý Kép - Convergent ↔ Divergent Thinking, Fast ↔ Slow Thinking, Abstract ↔ Concrete Thinking, Analytic ↔ Holistic Thinking, Analysis ↔ Synthesis, Linear ↔ Non-linear, Sequential ↔ Parallel, Focused ↔ Diffuse Mode, Hot ↔ Cold Cognition
@@ -6960,6 +6962,8 @@ Các tín hiệu thể chất (cảm giác gut, tim đập nhanh) hướng dẫn
 ### **Tổng Quan**
 
 Hiểu và điều khiển các trạng thái cảm xúc và năng lượng của bản thân, và khả năng điều hướng các động lực cảm xúc trong các hệ thống phức tạp.
+
+**Vai trò trong DYNAMICS:** Chức năng này thuộc về DYNAMICS vì tập trung vào **ĐỘNG LỰC NỘI TẠI** - các lực lượng cảm xúc và năng lượng thúc đẩy thay đổi từ bên trong. Bao gồm Emotional Valence Dynamics, Arousal Dynamics, Motivational Dynamics, và các hệ thống năng lượng truyền thống. Đây là "Internal Change Forces" - động lực thay đổi nội sinh.
 
 Bao gồm 49 khái niệm được tổ chức thành 8 nhóm chủ đề:
 

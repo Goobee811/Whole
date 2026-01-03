@@ -356,3 +356,29 @@ Distribution of Groups per Function:
 *Report generated: 30/12/2025 22:05*
 *Analysis method: Bottom-Up Vertical Coherence Review*
 *Data source: Whole.md (50 functions, 2072 concepts, 371 groups)*
+
+---
+
+## VII. TIẾN ĐỘ CẢI THIỆN
+
+### Phiên 1: 03/01/2026 - DYNAMICS Domain (CF9, CF10)
+
+**Khuyến nghị ban đầu:**
+- ⚠️ CF9 (Cognitive Flexibility): Tên hơi lệch - focus "nhận thức" hơn "động lực"
+- ⚠️ CF10 (Emotional Intelligence): Có thể thuộc INTEGRATION/META hơn
+
+**Phân tích chi tiết:**
+Sau khi đọc nội dung thực tế (76 concepts/CF9, 49 concepts/CF10), phát hiện:
+- CF9: Nội dung **PHÙ HỢP** với DYNAMICS - về chuyển đổi chế độ nhận thức, dòng chảy chú ý
+- CF10: Nội dung **PHÙ HỢP** với DYNAMICS - về động lực cảm xúc và năng lượng nội sinh
+
+**Hành động thực hiện (Phương án Clarify):**
+- ✅ CF9: Thêm "Vai trò trong DYNAMICS" giải thích là "Mental Change Dynamics"
+- ✅ CF10: Thêm "Vai trò trong DYNAMICS" giải thích là "Internal Change Forces"
+
+**Lý do chọn Clarify thay vì Rename:**
+- Nội dung đã phù hợp, chỉ tên gọi có thể gây hiểu lầm
+- 33+ cross-references cần cập nhật nếu rename → rủi ro cao
+- Clarify đạt mục đích giải thích mà không phá vỡ cấu trúc
+
+**Kết quả:** ✅ Hoàn thành - CF9 và CF10 đã được clarify vai trò trong DYNAMICS domain
