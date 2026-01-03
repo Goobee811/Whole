@@ -448,7 +448,7 @@ Nguyên lý cho rằng nhận thức về sự sẵn có của các nguồn lự
 - **Resource Perception**: Cách chúng ta nhận thức về tài nguyên (hữu hạn vs. có thể tái tạo) quyết định cách chúng ta sử dụng chúng
 - **Generativity**: Tư duy dồi dào thúc đẩy sự hào phóng, hợp tác và sáng tạo (tạo ra nhiều hơn)
 
-→ **Liên kết:** AMPLIFICATION (Exponential Multipliers), CREATION (Generative Systems)
+→ **Liên kết:** AMPLIFICATION (Exponential Multipliers), CREATION (Generative Systems), DYNAMICS (Transformation Dynamics), NAVIGATION (Resource Management), META (Meta-Cognition)
 
 ---
 
