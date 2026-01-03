@@ -284,7 +284,7 @@ Nguyên lý về "mũi tên thời gian" - một số quá trình chỉ có th�
 - **Path Dependence**: Lịch sử của một hệ thống ảnh hưởng đến tương lai của nó; một khi một con đường được chọn, có thể khó hoặc không thể quay lại
 - **One-Way Processes**: Các quá trình không thể đảo ngược (ví dụ: làm vỡ một quả trứng)
 
-→ **Liên kết:** DYNAMICS (Transformation Dynamics), NAVIGATION (Reversibility Principle)
+→ **Liên kết:** DYNAMICS (Transformation Dynamics), NAVIGATION (Timing Wisdom), AMPLIFICATION (Exponential Growth), META (Pattern Recognition)
 
 #### **15. Conservation & Transformation** - Bảo Toàn & Chuyển Hóa
 
@@ -295,7 +295,7 @@ Nguyên lý kép rằng trong mọi sự thay đổi, có những thứ được
 - **Symmetry & Conservation Laws**: Trong vật lý, mỗi định luật bảo toàn tương ứng với một phép đối xứng của tự nhiên
 - **Permutation**: Sự hoán vị là một dạng chuyển hóa bảo toàn tất cả các yếu tố, chỉ thay đổi vị trí của chúng
 
-→ **Liên kết:** DYNAMICS (Transformation Dynamics), VALIDATION (Consistency Check)
+→ **Liên kết:** DYNAMICS (Transformation Dynamics), CREATION (Pattern Breaking), VALIDATION (Consistency Check), META (System Self-Observation)
 
 ---
 
