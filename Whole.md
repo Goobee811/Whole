@@ -29,11 +29,11 @@ Miền này tập hợp các nguyên lý, mô hình tư duy và trí tuệ cốt
 
 Các nguyên lý đầu tiên và tiên đề là những chân lý tự hiển không thể giản lược thêm - nền tảng của mọi suy luận và tri thức. Chúng là các "nguyên tử" của tư duy, từ đó mọi cấu trúc phức tạp hơn được xây dựng. **Cầu nối Theory → Practice:** Xem OPERATIONS (CF11-12: Analytical Reasoning & Problem-Solving) để áp dụng các nguyên lý này vào thực hành; xem CREATION (CF16: Lateral Thinking) để sử dụng sáng tạo.
 
-Bao gồm 49 khái niệm được tổ chức thành 12 nhóm chủ đề:
+Bao gồm 52 khái niệm được tổ chức thành 12 nhóm chủ đề:
 
 1. **Foundational Axioms & Logic** (6): Tiên Đề & Logic Nền Tảng - First Principles, Mathematical Axioms, Set Theory and Logic, Laws of Thought, Modal Logic Systems, Non-Classical Logics
 2. **Unity, Duality & Ultimate Reality** (7): Thống Nhất, Nhị Nguyên & Thực Tại Tối Hậu - Duality & Unity, The Absolute, Monism/Dualism/Pluralism, Being & Becoming, Nondualism (Advaita), The One, Agency & Communion
-3. **Emergence & Creative Principles** (4): Đột Sinh & Nguyên Lý Sáng Tạo - Emergence & Self-Organization, The Creative Principle, Potentiality & Actuality, Evolution & Selection
+3. **Emergence & Creative Principles** (7): Đột Sinh & Nguyên Lý Sáng Tạo - Emergence & Self-Organization, The Creative Principle, Potentiality & Actuality, Evolution & Selection, Dissipative Structures (Prigogine), Autopoiesis, Collective Intelligence & Swarm Behavior
 4. **Causality, Time & Transformation** (4): Nhân Quả, Thời Gian & Chuyển Hóa - Causality & Interdependence, Cycles & Rhythms, Irreversibility & Entropy, Conservation & Transformation
 5. **System Dynamics & Feedback** (4): Động Lực Hệ Thống & Phản Hồi - Feedback Loops, Inertia & Momentum, Equilibrium & Homeostasis, Gradients & Flow
 6. **Structure, Scale & Organization** (5): Cấu Trúc, Quy Mô & Tổ Chức - Scale & Hierarchy, Recursion & Self-Reference, Hologram, Point, Link
@@ -288,6 +288,39 @@ Nguyên lý rằng các hệ thống phức tạp thay đổi theo thời gian t
 - **Inheritance/Replication**: Cơ chế truyền lại các đặc điểm thành công cho các thế hệ tiếp theo
 
 → **Liên kết:** DYNAMICS (System Evolution Patterns), CREATION (Innovation Methods), VALIDATION (Experimental Protocols), AMPLIFICATION (Exponential Growth)
+
+#### **11a. Dissipative Structures (Prigogine)** - Cấu Trúc Tiêu Tán
+
+Cấu trúc có trật tự tự tổ chức tự phát trong các hệ thống xa cân bằng nhiệt động - phát hiện đột phá của Ilya Prigogine (Nobel Prize 1977).
+
+- **Far-From-Equilibrium Systems**: Hệ thống xa trạng thái cân bằng có thể tự tổ chức thành cấu trúc phức tạp (ngược với entropy)
+- **Order from Chaos**: Trật tự từ hỗn loạn - sự sáng tạo của tự nhiên trong việc khai thác chaos để tạo ra cấu trúc
+- **Energy Dissipation**: Cấu trúc duy trì trật tự bằng cách nhập và tiêu tán năng lượng liên tục từ môi trường
+- **Irreversibility & Creativity**: Quá trình không thuận nghịch tạo ra sự mới lạ và phức tạp - thời gian là sáng tạo
+
+→ **Liên kết:** DYNAMICS (System Dynamics, Transformation), FOUNDATIONS (Irreversibility & Entropy), CREATION (Creative Evolution, Generative Systems), AMPLIFICATION (Tipping Points)
+
+#### **11b. Autopoiesis** - Tự Sản Sinh
+
+Hệ thống tự sản sinh và tự duy trì thông qua mạng lưới quá trình nội bộ - đặc trưng cơ bản của sự sống (Maturana & Varela).
+
+- **Self-Production**: Hệ thống tự tạo ra các thành phần của chính nó - "tự sản xuất bản thân"
+- **Operational Closure**: Đóng về mặt tổ chức (tự tham chiếu) nhưng mở về mặt năng lượng và vật chất
+- **Boundary Maintenance**: Hệ thống tự tạo và duy trì ranh giới phân biệt nó với môi trường
+- **Living Systems Criterion**: Tiêu chí cơ bản để phân biệt hệ thống sống với hệ thống không sống
+
+→ **Liên kết:** FOUNDATIONS (Emergence & Self-Organization), DYNAMICS (System Evolution, Homeostasis), INTEGRATION (Systemic Integration), META (Self-Reference), CREATION (Living Systems Design)
+
+#### **11c. Collective Intelligence & Swarm Behavior** - Trí Tuệ Tập Thể & Hành Vi Bầy Đàn
+
+Trí tuệ thông minh xuất hiện từ hành vi tập thể của các tác nhân đơn giản phi tập trung - từ kiến đến chim sáo.
+
+- **Decentralized Coordination**: Không có điều khiển trung tâm - mỗi cá thể chỉ theo quy tắc đơn giản và tương tác với láng giềng
+- **Stigmergy**: Giao tiếp gián tiếp qua môi trường (như kiến để lại pheromone) - hành động này kích thích hành động tiếp theo
+- **Emergent Problem-Solving**: Giải quyết vấn đề phức tạp (tìm đường ngắn nhất, xây tổ) từ quy tắc vi mô đơn giản
+- **Murmuration & Flocking**: Chuyển động đồng bộ của hàng nghìn cá thể (chim, cá) - mỗi cá thể chỉ theo dõi 7 láng giềng gần nhất
+
+→ **Liên kết:** AMPLIFICATION (Swarm Intelligence, Network Effects), INTEGRATION (Decentralized Systems), OPERATIONS (Distributed Problem-Solving), CREATION (Bio-inspired Design), NAVIGATION (Collective Decision-Making)
 
 ---
 
