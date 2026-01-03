@@ -59,7 +59,7 @@ Phân rã vấn đề về các chân lý cơ bản không thể chối cãi và
 - **Recombination**: Tái cấu trúc các chân lý cơ bản thành những giải pháp và góc nhìn mới
 - **Bedrock Thinking**: Tư duy từ nền tảng vững chắc nhất, không dựa trên các suy luận có sẵn
 
-→ **Liên kết:** OPERATIONS (áp dụng trong Analytical Tools), CREATION (tạo ra đột phá)
+→ **Liên kết:** OPERATIONS (Analytical Reasoning), CREATION (Breakthrough Innovation), VALIDATION (Reality Testing), META (Recursive Self-Improvement)
 
 #### **2. Mathematical Axioms** - Tiên Đề Toán Học
 
@@ -70,7 +70,7 @@ Các chân lý toán học được chấp nhận mà không cần chứng minh.
 - **Consistency & Completeness**: Tính nhất quán và tính đầy đủ
 - **Axiomatic Systems**: Các hệ thống tiên đề
 
-→ **Liên kết:** OPERATIONS (Logical Reasoning), FOUNDATIONS (First Principles)
+→ **Liên kết:** OPERATIONS (Formal & Computational Methods), VALIDATION (Experimental Protocols), META (Pattern Recognition)
 
 #### **3. Set Theory and Logic** - Lý Thuyết Tập Hợp và Logic
 
@@ -81,7 +81,7 @@ Nền tảng toán học của tư duy hình thức và cấu trúc.
 - **Proof Theory**: Lý thuyết chứng minh
 - **Mathematical Structures**: Các cấu trúc toán học cơ bản
 
-→ **Liên kết:** OPERATIONS (Reasoning Architectures), FOUNDATIONS (Laws & Constants)
+→ **Liên kết:** OPERATIONS (Formal & Computational Methods), FOUNDATIONS (Universal Laws & Patterns), DYNAMICS (System Evolution Patterns)
 
 ---
 
