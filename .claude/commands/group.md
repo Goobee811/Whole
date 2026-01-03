@@ -87,24 +87,36 @@ grep -n "#### GROUP [0-9]+:" Whole.md | grep "function ${functionNumber}"
 [FLAGS] {flags or "none"}
 ```
 
-### Step 5: Analyze group (if not --dry)
+### Step 5: GAP ANALYSIS (CRITICAL - MUST DO)
+```
+[GAP ANALYSIS]
+├─ Research related concepts in domain
+├─ List 2-3 potential concepts that could be added
+├─ Expansion Potential: HIGH/MEDIUM/LOW
+└─ Missing concepts: [list or "none identified"]
+```
+
+### Step 6: Analyze group (if not --dry)
 ```
 [ANALYZE]
 ├─ Completeness: ⭐⭐⭐⭐☆ (4/5)
 ├─ Structure:    ⭐⭐⭐⭐⭐ (5/5)
 ├─ Cross-refs:   ⭐⭐⭐☆☆ (3/5)
-└─ Recommended:  [E|R|C|X|V]
+├─ Expansion:    HIGH/MEDIUM/LOW
+└─ Recommended:  [E|R|C|X|V] (Priority: E > C > R > X > V)
 ```
 
-### Step 6: Execute action
-Based on analysis, perform one of:
-- **[E] Expand** - Add new concepts
-- **[R] Refine** - Improve descriptions
-- **[C] Complete** - Fill 4-point structure
-- **[X] Cross-ref** - Update links
-- **[V] Validate** - Confirm complete
+### Step 7: Execute action (PRIORITY ORDER)
+Based on analysis, perform actions in THIS ORDER:
+1. **[E] Expand** - Add new concepts (DEFAULT if expansion potential HIGH/MEDIUM)
+2. **[C] Complete** - Fill 4-point structure (if expansion LOW)
+3. **[R] Refine** - Improve descriptions (if structure complete)
+4. **[X] Cross-ref** - Update links (if descriptions good)
+5. **[V] Validate** - Confirm complete (only if all above satisfied)
 
-### Step 7: Apply flags
+**IMPORTANT: [E] Expand is the PRIMARY action. Only skip if gap analysis shows LOW expansion potential.**
+
+### Step 8: Apply flags
 ```javascript
 if (flags.includes("--dry")) {
   // Output analysis only, no edits
@@ -124,7 +136,7 @@ if (flags.includes("--dry")) {
 }
 ```
 
-### Step 8: Update progress
+### Step 9: Update progress
 ```javascript
 // Update .group-progress.json:
 // - Add identifier to completedGroups[]
@@ -132,7 +144,7 @@ if (flags.includes("--dry")) {
 // - Increment stats
 ```
 
-### Step 9: Completion signal
+### Step 10: Completion signal
 ```
 [DONE] CF{N}-{G} processed
 [PROGRESS] {completed}/{total} groups ({pct}%)
@@ -166,7 +178,7 @@ if (flags.includes("--dry")) {
 
 ## Examples
 
-### Example 1: Process specific group
+### Example 1: Process specific group with EXPANSION (DEFAULT)
 ```bash
 /group 1-1-3
 
@@ -174,9 +186,31 @@ if (flags.includes("--dry")) {
 [GROUP] CF1-3 | Emergence & Creative Principles
 [DOMAIN] FOUNDATIONS
 [CONCEPTS] 4 concepts
-[ANALYZE] Recommended: [X] Cross-ref
-[EDIT] Adding links to DYNAMICS, CREATION
+[GAP ANALYSIS]
+├─ Potential concepts: Self-Assembly, Collective Emergence
+├─ Expansion Potential: HIGH
+└─ Missing: Self-organization principles, Collective intelligence
+[ANALYZE] Recommended: [E] Expand
+[EDIT] Added 2 new concepts: Self-Assembly Principles, Collective Emergence
+[EDIT] Updated cross-references
 [DONE] CF1-3 processed | Progress: 48/371 (12.9%)
+```
+
+### Example 1b: Process group with LOW expansion (Cross-ref only)
+```bash
+/group 2-1-5
+
+# Output:
+[GROUP] CF6-5 | Flow States & Optimization
+[DOMAIN] DYNAMICS
+[CONCEPTS] 6 concepts
+[GAP ANALYSIS]
+├─ Researched: Flow theory, peak performance
+├─ Expansion Potential: LOW (concepts already comprehensive)
+└─ Missing: none identified
+[ANALYZE] Recommended: [X] Cross-ref (expansion LOW)
+[EDIT] Adding links to NAVIGATION, OPERATIONS
+[DONE] CF6-5 processed | Progress: 49/371 (13.2%)
 ```
 
 ### Example 2: With PR flow

@@ -142,21 +142,35 @@ Examples:
 └─ Read group content (concepts list)
 ```
 
-### Phase 2: ANALYZE
+### Phase 2: ANALYZE + GAP ANALYSIS (CRITICAL)
 ```
 ├─ Count concepts in group
 ├─ Check content completeness (4-point structure)
+├─ **[GAP ANALYSIS - MUST DO]**
+│   ├─ Research related concepts (web search, knowledge base)
+│   ├─ List 2-3 potential concepts that could be added
+│   ├─ Evaluate: Are there important theories/principles missing?
+│   ├─ Evaluate: Are there practical applications not covered?
+│   └─ Rate expansion potential: HIGH/MEDIUM/LOW
 ├─ Identify gaps or improvements needed
 └─ Note cross-references
 ```
 
-### Phase 3: PROCESS (Choose action)
+### Phase 3: PROCESS (Choose action - PRIORITY ORDER)
 ```
-[E] Expand    - Add new concepts to group
-[R] Refine    - Improve existing concept descriptions
-[C] Complete  - Fill missing 4-point structures
-[X] Cross-ref - Add/update cross-references
-[V] Validate  - Check and mark as complete
+**Action Priority (MUST follow this order):**
+
+1. [E] Expand    - Add new concepts (IF expansion potential is HIGH/MEDIUM)
+   ↓ (only if expansion potential is LOW)
+2. [C] Complete  - Fill missing 4-point structures
+   ↓ (only if structure is complete)
+3. [R] Refine    - Improve existing concept descriptions
+   ↓ (only if descriptions are good)
+4. [X] Cross-ref - Add/update cross-references
+   ↓ (only if cross-refs are adequate)
+5. [V] Validate  - Check and mark as complete
+
+**IMPORTANT: [E] Expand should be the DEFAULT action unless gap analysis shows LOW potential**
 ```
 
 ### Phase 4: EXECUTE
@@ -178,18 +192,29 @@ Examples:
 
 ## Processing Actions
 
-### [E] Expand - Thêm khái niệm mới
+### [E] Expand - Thêm khái niệm mới (PRIORITY ACTION)
 
 ```markdown
+**CRITICAL: Đây là action ưu tiên nhất. Mỗi group PHẢI được đánh giá khả năng expand trước.**
+
 **When to use:**
-- Group có ít hơn 3 concepts
-- Chủ đề chưa được phủ đầy đủ
-- Có gaps rõ ràng trong coverage
+- Group có thể thêm khái niệm bổ sung, liên quan, hoặc chuyên sâu hơn
+- Research cho thấy domain có khái niệm quan trọng chưa được cover
+- Có sub-topics, principles, theories, hoặc applications chưa mention
+- KHÔNG giới hạn bởi số lượng concepts hiện có
+
+**Gap Analysis Checklist (MUST DO BEFORE CHOOSING ACTION):**
+1. Search web/knowledge cho related concepts trong domain
+2. Kiểm tra: Có principles/theories quan trọng nào chưa mention?
+3. Kiểm tra: Có applications/examples thực tế nào cần thêm?
+4. Kiểm tra: Có sub-categories hoặc variations nào chưa cover?
+5. Kiểm tra: Các domains khác có concepts liên quan chưa được kết nối?
 
 **Output:**
 - New concepts added với full 4-point structure
 - Vietnamese primary, English secondary
-- Cross-references added
+- Cross-references to existing and new concepts
+- Minimum 1-2 new concepts per group (nếu có gaps)
 ```
 
 ### [R] Refine - Cải thiện mô tả
