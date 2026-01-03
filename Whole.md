@@ -199,7 +199,7 @@ Lực lượng cơ bản tạo ra sự đột sinh và sự mới lạ.
 - **Creative Impulse**: Xung lực sáng tạo nguyên thủy
 - **Manifestation Power**: Sức mạnh biểu hiện từ tiềm năng sang hiện thực
 
-→ **Liên kết:** CREATION (Generative Systems), FOUNDATIONS (Emergence & Self-Organization)
+→ **Liên kết:** CREATION (Generative Systems), DYNAMICS (Transformation Dynamics), TRANSCENDENCE (Creative Evolution), META (Pattern Recognition)
 
 #### **10. Potentiality & Actuality** - Tiềm Năng & Hiện Thực
 
@@ -210,7 +210,7 @@ Nguyên lý về sự khác biệt giữa những gì một hệ thống có th�
 - **Latent vs. Manifest**: Sự khác biệt giữa cái tiềm ẩn và cái biểu hiện
 - **Becoming Process**: Mọi thứ đều đang trong quá trình "trở thành", một sự chuyển động liên tục từ tiềm năng sang hiện thực
 
-→ **Liên kết:** CREATION (Idea Generation), DYNAMICS (Transformation Dynamics)
+→ **Liên kết:** CREATION (Idea Generation), DYNAMICS (Transformation Dynamics), TRANSCENDENCE (Quantum Reality), VALIDATION (Reality Testing)
 
 #### **11. Evolution & Selection** - Tiến Hóa & Chọn Lọc
 
@@ -221,7 +221,7 @@ Nguyên lý rằng các hệ thống phức tạp thay đổi theo thời gian t
 - **Adaptation**: Quá trình các đặc điểm được chọn lọc trở nên phổ biến hơn, làm cho quần thể thích nghi tốt hơn
 - **Inheritance/Replication**: Cơ chế truyền lại các đặc điểm thành công cho các thế hệ tiếp theo
 
-→ **Liên kết:** DYNAMICS (Transformation Dynamics), CREATION (Innovation Methods)
+→ **Liên kết:** DYNAMICS (System Evolution Patterns), CREATION (Innovation Methods), VALIDATION (Experimental Protocols), AMPLIFICATION (Exponential Growth)
 
 ---
 
