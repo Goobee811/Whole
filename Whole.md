@@ -29,10 +29,10 @@ Miền này tập hợp các nguyên lý, mô hình tư duy và trí tuệ cốt
 
 Các nguyên lý đầu tiên và tiên đề là những chân lý tự hiển không thể giản lược thêm - nền tảng của mọi suy luận và tri thức. Chúng là các "nguyên tử" của tư duy, từ đó mọi cấu trúc phức tạp hơn được xây dựng. **Cầu nối Theory → Practice:** Xem OPERATIONS (CF11-12: Analytical Reasoning & Problem-Solving) để áp dụng các nguyên lý này vào thực hành; xem CREATION (CF16: Lateral Thinking) để sử dụng sáng tạo.
 
-Bao gồm 46 khái niệm được tổ chức thành 12 nhóm chủ đề:
+Bao gồm 49 khái niệm được tổ chức thành 12 nhóm chủ đề:
 
 1. **Foundational Axioms & Logic** (6): Tiên Đề & Logic Nền Tảng - First Principles, Mathematical Axioms, Set Theory and Logic, Laws of Thought, Modal Logic Systems, Non-Classical Logics
-2. **Unity, Duality & Ultimate Reality** (4): Thống Nhất, Nhị Nguyên & Thực Tại Tối Hậu - Duality & Unity, The Absolute, The One, Agency & Communion
+2. **Unity, Duality & Ultimate Reality** (7): Thống Nhất, Nhị Nguyên & Thực Tại Tối Hậu - Duality & Unity, The Absolute, Monism/Dualism/Pluralism, Being & Becoming, Nondualism (Advaita), The One, Agency & Communion
 3. **Emergence & Creative Principles** (4): Đột Sinh & Nguyên Lý Sáng Tạo - Emergence & Self-Organization, The Creative Principle, Potentiality & Actuality, Evolution & Selection
 4. **Causality, Time & Transformation** (4): Nhân Quả, Thời Gian & Chuyển Hóa - Causality & Interdependence, Cycles & Rhythms, Irreversibility & Entropy, Conservation & Transformation
 5. **System Dynamics & Feedback** (4): Động Lực Hệ Thống & Phản Hồi - Feedback Loops, Inertia & Momentum, Equilibrium & Homeostasis, Gradients & Flow
@@ -145,6 +145,39 @@ Thực tại không bị điều kiện hóa, nguồn gốc tối hậu.
 - **Infinite Potential**: Tiềm năng vô hạn chưa biểu hiện
 
 → **Liên kết:** TRANSCENDENCE (Unity Consciousness), DYNAMICS (System Evolution Patterns), META (Witness Consciousness), CREATION (Creative Evolution)
+
+#### **5a. Monism, Dualism & Pluralism** - Chủ Nghĩa Nhất Nguyên, Nhị Nguyên & Đa Nguyên
+
+Ba lập trường bản thể học cơ bản về số lượng và bản chất của các thực tại tối hậu.
+
+- **Monism**: Chủ nghĩa nhất nguyên - tất cả thực tại phát sinh từ một bản thể, nguyên tắc hoặc chất duy nhất
+- **Dualism**: Chủ nghĩa nhị nguyên - thực tại có hai loại cơ bản không thể rút gọn về nhau (vật chất/tinh thần, thiện/ác)
+- **Pluralism**: Chủ nghĩa đa nguyên - thực tại gồm nhiều loại hoặc chất cơ bản độc lập, không rút gọn về một
+- **Holism**: Chủ nghĩa toàn thể - các bộ phận gắn kết chặt chẽ, không thể tồn tại độc lập mà phải hiểu trong bối cảnh tổng thể
+
+→ **Liên kết:** FOUNDATIONS (Duality & Unity, The Absolute), TRANSCENDENCE (Both/And Thinking - vượt qua tranh luận), META (Paradigm Analysis), INTEGRATION (Synthesis)
+
+#### **5b. Being & Becoming** - Tồn Tại & Biến Hóa
+
+Phân biệt bản thể học cơ bản giữa thực tại tĩnh/bất biến và thực tại động/thay đổi.
+
+- **Being (Parmenides)**: Tồn tại là bất biến, vĩnh cửu, hoàn chỉnh - thực tại chân chính không thay đổi
+- **Becoming (Heraclitus)**: Biến hóa là nền tảng - "không ai có thể bước vào cùng một dòng sông hai lần", mọi thứ luôn chuyển động
+- **Essence vs Existence**: Bản chất (cái gì) so với sự hiện hữu (rằng nó tồn tại) - phân biệt của Aquinas
+- **Process Metaphysics**: Siêu hình học quá trình - thực tại cơ bản là các quá trình, sự kiện động thay vì các chất tĩnh
+
+→ **Liên kết:** DYNAMICS (Transformation, Cycles & Rhythms, Evolution), FOUNDATIONS (Causality, Irreversibility & Entropy), OPERATIONS (Process Thinking), TRANSCENDENCE (Eternal Now - vượt qua being/becoming)
+
+#### **5c. Nondualism (Advaita)** - Phi Nhị Nguyên
+
+Truyền thống triết học-tâm linh cho rằng thực tại tối hậu vượt qua mọi phân biệt nhị nguyên - "không hai".
+
+- **Advaita (Not-Two)**: Không phải hai - nhận thức rằng sự phân biệt giữa tự ngã và thực tại tối hậu (Atman/Brahman) là ảo tưởng
+- **Buddha-nature & Emptiness (Sunyata)**: Trong Phật giáo Mahayana - tính trống rỗng của tự tánh, bản tánh giác ngộ vốn có
+- **Unified Awareness**: Nhận thức thống nhất - trường nền của nhận thức bất biến tồn tại trước tư duy khái niệm
+- **Transcending Subject-Object Split**: Vượt qua sự phân tách chủ thể-đối tượng - hòa giải người quan sát và cái được quan sát
+
+→ **Liên kết:** TRANSCENDENCE (Unity Consciousness, Sunyata, Paradox Resolution), META (Witness Consciousness, Non-Dual Awareness), FOUNDATIONS (Duality & Unity - vượt qua), VALIDATION (Direct Experience)
 
 #### **6. The One** - Cái Một
 
