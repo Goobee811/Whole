@@ -92,7 +92,7 @@ Whole/
 │   ├── project-overview.md            # Project description and structure
 │   ├── project-overview-pdr.md        # PDR and requirements (generated)
 │   ├── codebase-summary.md            # This file - technical structure
-│   ├── skill-reference.md             # Skill documentation (updated v5.0.0)
+│   ├── skill-reference.md             # Skill documentation (updated v5.1.0)
 │   ├── workflow-guide.md              # User-facing workflow guide
 │   ├── system-architecture.md         # Architecture and components
 │   ├── project-roadmap.md             # Future enhancements
@@ -231,7 +231,7 @@ Four specialized Claude Code skills provide automated knowledge management:
 | `/edit [section]` | Start editing session | Active |
 | `/expand [domain] [func] [topic]` | Add new concepts to section | Active |
 | `/regroup [number]` | Full regrouping (auto-detects if no arg) | Active |
-| `/reconcile [number]` | Sync Tổng Quan ↔ Content mismatch (v5.0.0) | Active |
+| `/reconcile [number]` | Sync Tổng Quan ↔ Content mismatch (v5.1.0) | Active |
 | `/validate [section]` | Post-edit validation | Active |
 | `/report` | Generate comprehensive progress report | Active |
 
@@ -285,7 +285,7 @@ Four specialized Claude Code skills provide automated knowledge management:
 git commit → Auto-update progress
 ```
 
-### 2. Reconciliation Workflow (v5.0.0 NEW)
+### 2. Reconciliation Workflow (v5.1.0)
 
 ```
 /reconcile [number] → Activate intelligent analysis
@@ -413,8 +413,8 @@ git commit → Update tracking
 ### Progressive Disclosure
 The whole-regrouper skill uses progressive disclosure to load detailed guidance only when needed, reducing token consumption by approximately 60% per activation.
 
-### Intelligent Reconciliation (v5.0.0)
-Unlike previous versions that assumed one representation was "correct," v5.0.0 analyzes both Tổng Quan and Content groupings using four weighted criteria before recommending a strategy.
+### Intelligent Reconciliation (v5.1.0)
+Unlike previous versions that assumed one representation was "correct," v5.0.0 introduced intelligent analysis that analyzes both Tổng Quan and Content groupings using four weighted criteria before recommending a strategy. v5.1.0 adds agent integration for deeper analysis.
 
 ### Auto-Progress Tracking
 All changes automatically update `.whole-progress.json` with session statistics, enabling accurate time estimates and progress visualization.

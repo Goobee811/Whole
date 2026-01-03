@@ -138,14 +138,14 @@ Develop an organized, bilingual knowledge system capable of:
 - Group naming conventions documented
 - Quality checklist passing >95%
 - Progressive disclosure reducing context by ~60%
-- Intelligent reconciliation (v5.0.0) implemented
+- Intelligent reconciliation (v5.1.0) implemented
 
 **Status**: COMPLETE
 - 371 groups created (avg 7.5/function)
 - Coherence validated
 - Balance maintained (3-8 concepts/group)
 - Progressive disclosure operational
-- Reconciliation v5.0.0 with intelligent analysis
+- Reconciliation v5.1.0 with intelligent analysis
 
 ---
 
@@ -217,7 +217,7 @@ Develop an organized, bilingual knowledge system capable of:
 
 **Status**: COMPLETE
 - 6 documentation files created
-- Skill reference complete (v5.0.0)
+- Skill reference complete (v5.1.0)
 - Workflow guide comprehensive
 - Troubleshooting guide created
 - Architecture documented

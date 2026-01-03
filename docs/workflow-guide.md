@@ -53,7 +53,7 @@ Use when reorganizing concepts within a function.
    - Preserved: Tong Quan, all content
    ```
 
-### Workflow 2: Reconciliation (NEW - v5.0.0)
+### Workflow 2: Reconciliation (v5.1.0)
 
 Use when synchronizing Tổng Quan listing with actual content.
 
@@ -164,7 +164,7 @@ Use for quality assurance.
 | `/edit [section]` | Start editing |
 | `/expand [domain] [func] [topic]` | Add concepts |
 | `/regroup [number]` | Reorganize concepts |
-| `/reconcile [number]` | Sync Tổng Quan ↔ Content (NEW - v5.0.0) |
+| `/reconcile [number]` | Sync Tổng Quan ↔ Content (v5.1.0) |
 | `/validate [section]` | Validate changes |
 | `/report` | Generate progress report |
 

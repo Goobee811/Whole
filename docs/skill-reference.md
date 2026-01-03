@@ -110,7 +110,7 @@ NEW (v5.0.0): Analyze BOTH representations against 4 criteria
 
 **Activation**:
 - `/regroup [function-number]` - Full regrouping workflow
-- `/reconcile [function-number]` - Intelligent sync only (v5.0.0 NEW)
+- `/reconcile [function-number]` - Intelligent sync only (v5.1.0)
 - `/regroup` - Auto-detects next function (no argument needed)
 
 **References**:
@@ -185,7 +185,7 @@ Located in `.claude/agents/`:
 - Progress tracker updates after commits
 - Progressive disclosure reduces token usage by ~60%
 
-## Reconciliation Command (NEW - v5.0.0)
+## Reconciliation Command (v5.1.0)
 
 **Command**: `/reconcile [function-number]`
 
