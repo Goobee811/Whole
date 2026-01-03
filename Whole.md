@@ -493,7 +493,7 @@ Mối quan hệ tương hỗ giữa hình dạng của một thứ và mục đ�
 - **Structural Integrity**: Sự toàn vẹn cấu trúc cần thiết để thực hiện chức năng
 - **Elegant Design**: Thiết kế thanh lịch, nơi hình thức và chức năng hợp nhất một cách hoàn hảo
 
-→ **Liên kết:** CREATION (Design Thinking), INTEGRATION (Systemic Integration)
+→ **Liên kết:** CREATION (Design Thinking), INTEGRATION (Systemic Integration), OPERATIONS (Optimization), META (Pattern Recognition), VALIDATION (Evaluation Criteria), NAVIGATION (Design Patterns)
 
 #### **30. Symmetry & Asymmetry - Đối Xứng & Bất Đối Xứng [Nguyên Lý Nền Tảng]**
 
@@ -510,7 +510,7 @@ NGUYÊN LÝ PHỔ QUÁT về sự cân bằng, lặp lại và sự phá vỡ c�
 - Thẩm mỹ: Đối xứng = đẹp ↔ Bất đối xứng = thú vị, năng động
 - Xã hội: Công bằng (đối xứng) ↔ Đa dạng (bất đối xứng)
 
-→ **Liên kết:** CREATION (Design Principles), TRANSCENDENCE (Unity of Opposites), META LAYER #10 (công cụ phát hiện pattern này xuyên domains), CREATION - Chức Năng 5 - Khái niệm #3 (TRIZ Principle #4: Asymmetry - chuyển từ đối xứng sang bất đối xứng)
+→ **Liên kết:** CREATION (Design Principles), TRANSCENDENCE (Unity of Opposites), META LAYER #10 (công cụ phát hiện pattern này xuyên domains), CREATION - Chức Năng 5 - Khái niệm #3 (TRIZ Principle #4: Asymmetry - chuyển từ đối xứng sang bất đối xứng), VALIDATION (Aesthetic Evaluation), AMPLIFICATION (Pattern Recognition), DYNAMICS (Balance & Stability)
 
 ---
 
