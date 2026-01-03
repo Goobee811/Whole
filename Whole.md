@@ -328,7 +328,7 @@ Nguyên lý về xu hướng của các hệ thống chống lại sự thay đ�
 - **Critical Force**: Cần một lực tới hạn để vượt qua quán tính và bắt đầu một sự thay đổi
 - **Compounding Effect**: Động lượng có hiệu ứng lãi kép; thành công nhỏ ban đầu giúp việc đạt được thành công lớn hơn trở nên dễ dàng hơn
 
-→ **Liên kết:** DYNAMICS (Transformation Dynamics), AMPLIFICATION (Flywheel Effect)
+→ **Liên kết:** DYNAMICS (Transformation Dynamics), AMPLIFICATION (Flywheel Effect), NAVIGATION (Strategic Wayfinding), META (Recursive Self-Improvement)
 
 #### **18. Equilibrium & Homeostasis** - Cân Bằng & Cân Bằng Nội Môi
 
@@ -339,7 +339,7 @@ Nguyên lý về xu hướng của các hệ thống tìm kiếm một trạng t
 - **Set Point**: Một điểm hoặc một phạm vi trạng thái mục tiêu mà hệ thống cố gắng duy trì
 - **Stasis & Adaptation**: Cân bằng có thể dẫn đến sự trì trệ (stasis), nhưng cũng là nền tảng cho sự thích ứng
 
-→ **Liên kết:** DYNAMICS (Cybernetics), VALIDATION (Feedback Systems)
+→ **Liên kết:** DYNAMICS (Cybernetics), VALIDATION (Feedback Systems), CREATION (Creative Evolution), INTEGRATION (System Coherence)
 
 #### **19. Gradients & Flow** - Chênh Lệch & Dòng Chảy
 
@@ -350,7 +350,7 @@ Nguyên lý rằng dòng chảy (năng lượng, thông tin, tài nguyên) xảy
 - **Path of Least Resistance**: Dòng chảy có xu hướng đi theo con đường ít kháng cự nhất
 - **Optimization Driver**: Di chuyển theo gradient là một cơ chế tối ưu hóa tự nhiên
 
-→ **Liên kết:** DYNAMICS (System Dynamics), NAVIGATION (Flow Optimization)
+→ **Liên kết:** DYNAMICS (System Dynamics), NAVIGATION (Flow Optimization), AMPLIFICATION (Network Effects), OPERATIONS (Analytical Reasoning)
 
 ---
 
