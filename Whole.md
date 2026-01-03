@@ -367,7 +367,7 @@ Nguyên lý về sự tồn tại của các cấp độ tổ chức khác nhau,
 - **Scale Variance**: Các thuộc tính thay đổi đáng kể khi quy mô thay đổi (ví dụ: vật lý lượng tử vs. vật lý cổ điển)
 - **Level of Analysis**: Lựa chọn cấp độ phân tích phù hợp là rất quan trọng để có được sự hiểu biết đúng đắn
 
-→ **Liên kết:** META-STRUCTURES (Holarchy), OPERATIONS (Decomposition)
+→ **Liên kết:** META (Holarchy), OPERATIONS (Decomposition), DYNAMICS (System Evolution), AMPLIFICATION (Exponential Growth)
 
 #### **21. Recursion & Self-Reference** - Đệ Quy & Tự Tham Chiếu
 
@@ -400,7 +400,7 @@ Yếu tố cơ bản nhất, không có chiều không gian nhưng là khởi đ
 - **Singularity**: Trạng thái tập trung cực đại
 - **Origin Point**: Điểm khởi nguồn của các hệ tọa độ
 
-→ **Liên kết:** FOUNDATIONS (Space), CREATION (Minimal Element)
+→ **Liên kết:** CREATION (Creative Principle), TRANSCENDENCE (Unity Consciousness), META (Pattern Recognition), VALIDATION (Reality Testing)
 
 #### **24. Link** - Liên Kết
 
@@ -411,7 +411,7 @@ Kết nối cơ bản giữa các yếu tố, tạo ra mối quan hệ.
 - **Network Foundation**: Nền tảng của mọi cấu trúc mạng lưới
 - **Information Channel**: Kênh truyền tải thông tin và năng lượng
 
-→ **Liên kết:** INTEGRATION (Connection), AMPLIFICATION (Network Effects)
+→ **Liên kết:** INTEGRATION (Connection), AMPLIFICATION (Network Effects), OPERATIONS (Analytical Reasoning), VALIDATION (Cross-Reference)
 
 ---
 

@@ -2,36 +2,36 @@
   "version": "1.0.0",
   "description": "Progress tracker for Whole Group Processor skill",
   "created": "2026-01-03",
-  "lastUpdated": "2026-01-03T22:46:00Z",
+  "lastUpdated": "2026-01-03T22:48:00Z",
 
   "summary": {
     "totalGroups": 371,
-    "completedGroups": 5,
+    "completedGroups": 6,
     "inProgressGroups": 0,
-    "pendingGroups": 366,
-    "completionPercentage": 1.35
+    "pendingGroups": 365,
+    "completionPercentage": 1.62
   },
 
   "currentGroup": null,
-  "nextSuggested": "1-1-6",
+  "nextSuggested": "1-1-7",
 
   "domains": {
     "1-foundations": {
       "name": "FOUNDATIONS",
       "totalGroups": 50,
-      "completedGroups": 5,
+      "completedGroups": 6,
       "functions": {
         "CF1": {
           "name": "FIRST PRINCIPLES & AXIOMS",
           "totalGroups": 12,
-          "completedGroups": 5,
+          "completedGroups": 6,
           "groups": {
             "1": { "name": "Foundational Axioms & Logic", "concepts": 3, "status": "completed", "completedAt": "2026-01-03T22:20:00Z" },
             "2": { "name": "Unity, Duality & Ultimate Reality", "concepts": 4, "status": "completed", "completedAt": "2026-01-03T22:26:00Z" },
             "3": { "name": "Emergence & Creative Principles", "concepts": 4, "status": "completed", "completedAt": "2026-01-03T22:35:00Z" },
             "4": { "name": "Causality, Time & Transformation", "concepts": 4, "status": "completed", "completedAt": "2026-01-03T22:43:00Z" },
             "5": { "name": "System Dynamics & Feedback", "concepts": 4, "status": "completed", "completedAt": "2026-01-03T22:46:00Z" },
-            "6": { "name": "Structure, Scale & Organization", "concepts": 5, "status": "pending" },
+            "6": { "name": "Structure, Scale & Organization", "concepts": 5, "status": "completed", "completedAt": "2026-01-03T22:48:00Z" },
             "7": { "name": "Boundaries, Constraints & Resources", "concepts": 2, "status": "pending" },
             "8": { "name": "Energy, Information & Flow", "concepts": 2, "status": "pending" },
             "9": { "name": "Form, Function & Design", "concepts": 2, "status": "pending" },
