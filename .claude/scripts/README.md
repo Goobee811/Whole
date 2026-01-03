@@ -133,7 +133,7 @@ const CONFIG = {
     'whole-editor': 'v2.1.0',      // Updated 2026-01-02 (agent integration)
     'whole-analyzer': 'v2.1.0',    // Updated 2026-01-02 (agent integration)
     'whole-reviewer': 'v2.1.0',    // Updated 2026-01-02 (agent integration)
-    'whole-regrouper': 'v5.0.0',
+    'whole-regrouper': 'v5.1.0',   // Updated 2026-01-02 (agent integration)
     'shared': 'v1.0.0',
     'hooks': 'v2.0.0',
     'agents': 'v2.1.0'             // Added 2026-01-02 (modernization)

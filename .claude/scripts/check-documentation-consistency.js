@@ -35,7 +35,7 @@ const CONFIG = {
     'whole-editor': 'v2.1.0',
     'whole-analyzer': 'v2.1.0',
     'whole-reviewer': 'v2.1.0',
-    'whole-regrouper': 'v5.0.0',
+    'whole-regrouper': 'v5.1.0',
     'shared': 'v1.0.0',
     'hooks': 'v2.0.0',
     'agents': 'v2.1.0'

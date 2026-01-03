@@ -42,7 +42,7 @@ Whole/
 │   │   ├── whole-reviewer v2.1.0)
 │   │   │   └── SKILL.md
 │   │   │
-│   │   └── whole-regrouper/           # Concept reorganization skill (v5.0.0)
+│   │   └── whole-regrouper/           # Concept reorganization skill (v5.1.0)
 │   │       ├── SKILL.md               # Main skill with intelligent analysis
 │   │       ├── references/
 │   │       │   ├── grouping-principles.md
@@ -207,7 +207,7 @@ Four specialized Claude Code skills provide automated knowledge management:
 - **Output**: Review reports with validation results
 - **Activation**: Automatically after edits or via `/validate [section]`
 
-#### **whole-regrouper** (v5.0.0) - LATEST
+#### **whole-regrouper** (v5.1.0) - LATEST
 - **Purpose**: Reorganize concepts into thematic groups + intelligent reconciliation
 - **Innovation**: v5.0.0 introduces intelligent analysis (no assumptions about which grouping is "correct")
 - **Analysis Criteria**: Coherence, Balance, Natural Thinking, Accuracy

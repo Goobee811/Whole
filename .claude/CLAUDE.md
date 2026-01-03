@@ -12,7 +12,7 @@ Specialized Claude skills for editing and expanding the Whole bilingual knowledg
 - `whole-editor` (v2.1.0): Main editing skill for content expansion (integrates whole-translator)
 - `whole-analyzer` (v2.1.0): Pre-editing analysis and duplicate detection (integrates agents for deep analysis)
 - `whole-reviewer` (v2.1.0): Post-editing validation (integrates agents for deep analysis)
-- `whole-regrouper` (v5.0.0): Phân tích, gom nhóm, và ĐỒNG BỘ Tổng Quan ↔ Content (Intelligent Analysis)
+- `whole-regrouper` (v5.1.0): Phân tích, gom nhóm, và ĐỒNG BỘ Tổng Quan ↔ Content (Intelligent Analysis + Agent Integration)
 
 ## Agents Available (v2.1.0 - Modernized)
 - `whole-content-validator`: Comprehensive validation (scripts + manual checks)
@@ -25,7 +25,7 @@ Specialized Claude skills for editing and expanding the Whole bilingual knowledg
 ## Automation & Productivity Features
 
 ### Reconciliation & Progressive Disclosure
-- **whole-regrouper v5.0.0**: Intelligent Analysis with reconciliation support
+- **whole-regrouper v5.1.0**: Intelligent Analysis with agent integration and reconciliation support
 - **Three Workflows:**
   - `/regroup` - Full regroup (analyze concepts → new groups → update both)
   - `/reconcile` - Sync only (compare → detect mismatch → fix → direct push)

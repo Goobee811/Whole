@@ -197,7 +197,7 @@ RECOMMENDATIONS:
 
 ---
 
-#### **whole-regrouper (v5.0.0)**
+#### **whole-regrouper (v5.1.0)**
 
 **Purpose**: Concept reorganization with intelligent reconciliation
 

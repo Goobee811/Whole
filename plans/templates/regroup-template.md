@@ -236,5 +236,5 @@ Update `.whole-progress.json`:
 
 **Template Version:** 1.0.0
 **Created for:** 50-function regrouping workflow
-**Required Skills:** whole-regrouper v5.0.0+
+**Required Skills:** whole-regrouper v5.1.0+
 **Required Tools:** validate-regroup.js script

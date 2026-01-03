@@ -22,7 +22,7 @@ This directory contains custom Agent Skills, commands, hooks, and configuration 
 │   │   └── SKILL.md
 │   ├── whole-reviewer/           # Post-editing validation
 │   │   └── SKILL.md
-│   └── whole-regrouper/          # Concept reorganization (v5.0.0)
+│   └── whole-regrouper/          # Concept reorganization (v5.1.0)
 │       ├── SKILL.md
 │       ├── references/
 │       │   ├── grouping-principles.md
@@ -80,7 +80,7 @@ Post-editing validation tool. Use after editing to ensure quality standards.
 
 **Activation**: Automatically after edits
 
-### whole-regrouper (v5.0.0)
+### whole-regrouper (v5.1.0)
 Concept reorganization skill with intelligent analysis and progressive disclosure.
 
 **Features**:
@@ -102,7 +102,7 @@ Concept reorganization skill with intelligent analysis and progressive disclosur
 | `/edit [section]` | Start editing session |
 | `/expand [domain] [func] [topic]` | Add new concepts |
 | `/regroup [number]` | Full regroup - reorganize concepts into groups |
-| `/reconcile [number]` | Sync Tổng Quan ↔ Content (v5.0.0) |
+| `/reconcile [number]` | Sync Tổng Quan ↔ Content (v5.1.0) |
 | `/validate [section]` | Validate changes |
 | `/report` | Generate comprehensive progress report |
 
@@ -114,7 +114,7 @@ Concept reorganization skill with intelligent analysis and progressive disclosur
 **Integration**: Invoked by whole-reviewer skill
 **Features**:
 - Executes all validation scripts (validate-structure, bilingual-check, check-cross-refs)
-- Supports whole-regrouper v5.0.0 (Tổng Quan preservation, numbering)
+- Supports whole-regrouper v5.1.0 (Tổng Quan preservation, numbering)
 - Uses shared utilities (v1.0.0)
 - Distinguishes CRITICAL vs WARNING issues
 **When to use**: After edits, before commit, for comprehensive validation

@@ -107,7 +107,7 @@ Develop an organized, bilingual knowledge system capable of:
 - whole-editor v2.1.0 operational
 - whole-analyzer v2.1.0 operational
 - whole-reviewer v2.1.0 operational
-- whole-regrouper v5.0.0 operational (intelligent analysis)
+- whole-regrouper v5.1.0 operational (intelligent analysis + agent integration)
 - 9 commands active and functional
 - Error rate: <5%
 
@@ -448,7 +448,7 @@ Develop an organized, bilingual knowledge system capable of:
 ┌─────────────────────────────────────────────────────────┐
 │                  Skills & Automation Layer               │
 │  whole-editor  whole-analyzer  whole-reviewer            │
-│              whole-regrouper (v5.0.0)                    │
+│              whole-regrouper (v5.1.0)                    │
 │        4 Automation Hooks, 3 Specialized Agents         │
 └─────────────────────────────────────────────────────────┘
                             ↓

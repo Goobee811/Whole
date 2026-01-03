@@ -57,7 +57,7 @@ Comprehensive reference for all Claude Code skills in the Whole project.
 
 **Activation**: Automatically after edits
 
-### whole-regrouper (v5.0.0)
+### whole-regrouper (v5.1.0)
 
 **Purpose**: Reorganize concepts into thematic groups with intelligent reconciliation.
 
@@ -258,7 +258,7 @@ Commit → Update progress tracker
 | `/analyze [section]` | whole-analyzer | Pre-edit analysis | Interactive |
 | `/edit [section]` | whole-editor | Content editing | Interactive |
 | `/expand [domain] [func] [topic]` | whole-editor | Add new concepts | Interactive |
-| `/regroup [number]` | whole-regrouper v5.0.0 | Full regrouping | Interactive |
-| `/reconcile [number]` | whole-regrouper v5.0.0 | Sync Tổng Quan ↔ Content | Interactive (NEW) |
+| `/regroup [number]` | whole-regrouper v5.1.0 | Full regrouping | Interactive |
+| `/reconcile [number]` | whole-regrouper v5.1.0 | Sync Tổng Quan ↔ Content | Interactive (NEW) |
 | `/validate [section]` | whole-reviewer | Validate changes | Post-edit |
 | `/report` | - | Generate progress report | Built-in |

@@ -28,9 +28,9 @@ Claude Code skills for editing and managing the Whole bilingual knowledge archit
 | whole-editor v2.1.0 | Main editing operations |
 | whole-analyzer | v2.1.0 | Pre-edit analysis & duplicate detection |
 | whole-reviewer v2.1.0 | Post-edit validation |
-| whole-regrouper | v5.0.0 | Concept reorganization + intelligent reconciliation |
+| whole-regrouper | v5.1.0 | Concept reorganization + intelligent reconciliation + agent integration |
 
-**whole-regrouper v5.0.0 NEW FEATURES** (2025-12-29):
+**whole-regrouper v5.1.0 NEW FEATURES** (2026-01-02):
 - **Intelligent Analysis**: Analyzes both Tổng Quan and Content groupings
 - **Strategy Options**: Choose [A/B/C/H/S] based on 4-criterion evaluation
 - **Reconciliation Command**: `/reconcile [number]` for smart sync (NEW)
@@ -46,7 +46,7 @@ Claude Code skills for editing and managing the Whole bilingual knowledge archit
 | `/edit [section]` | whole-editor | Start editing session |
 | `/expand [domain] [func] [topic]` | whole-editor | Add new concepts |
 | `/regroup [number]` | whole-regrouper | Full concept reorganization (auto-detects if no number) |
-| `/reconcile [number]` | whole-regrouper | Intelligent Tổng Quan ↔ Content sync (NEW - v5.0.0) |
+| `/reconcile [number]` | whole-regrouper | Intelligent Tổng Quan ↔ Content sync (v5.1.0) |
 | `/validate [section]` | whole-reviewer | Validate changes |
 | `/report` | Built-in | Generate comprehensive progress report |
 
@@ -124,7 +124,7 @@ Whole/
 │   │   ├── whole-reviewer v2.1.0)
 │   │   │   └── SKILL.md
 │   │   │
-│   │   └── whole-regrouper/          # Intelligent regrouping (v5.0.0)
+│   │   └── whole-regrouper/          # Intelligent regrouping (v5.1.0)
 │   │       ├── SKILL.md
 │   │       ├── references/           # 5 detailed guides
 │   │       │   ├── grouping-principles.md

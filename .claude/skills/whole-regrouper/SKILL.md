@@ -2,23 +2,24 @@
 name: whole-regrouper
 description: |
   Phân tích, gom nhóm, và ĐỒNG BỘ THÔNG MINH giữa Tổng Quan listing và actual group headers.
-  v5.0.0: Intelligent Analysis - không giả định grouping nào tốt hơn, phân tích thực sự cả hai.
-version: 5.0.0
+  v5.1.0: Intelligent Analysis with agent integration - phân tích thực sự cả hai với hỗ trợ từ specialized agents.
+version: 5.1.0
 license: MIT
 allowed-tools:
   - Edit
   - Grep
   - Read
   - Bash
+  - Task
 metadata:
   author: "Whole Project"
   category: "documentation"
-  updated: "2025-12-29"
+  updated: "2026-01-02"
 ---
 
-# Whole Concept Regrouper & Reconciler v5.0
+# Whole Concept Regrouper & Reconciler v5.1
 
-**Intelligent Analysis** - Phân tích thực sự cả hai groupings, không giả định.
+**Intelligent Analysis with Agent Integration** - Phân tích thực sự cả hai groupings với hỗ trợ từ specialized agents.
 
 ---
 
@@ -105,6 +106,52 @@ Cả hai có thể có điểm mạnh riêng:
 
 ---
 
+## Integration with Agents
+
+### When to Invoke Agents
+Use Task tool to invoke specialized agents for deep analysis during regrouping:
+
+```javascript
+// For semantic grouping analysis and duplicate detection
+Task(subagent_type: 'whole-translator',
+     prompt: 'Analyze semantic coherence and cultural grouping for CF[N] concepts')
+
+// For cross-reference validation after regrouping
+Task(subagent_type: 'whole-cross-reference',
+     prompt: 'Validate and update cross-references after regrouping CF[N]')
+
+// For structure validation before commit
+Task(subagent_type: 'whole-content-validator',
+     prompt: 'Validate regrouped structure and compliance for CF[N]')
+```
+
+### When NOT to Use Agents
+- Simple reconciliation (strategy [S] - already synced) → Direct comparison
+- Balance checks (counting concepts) → Use Grep/scripts
+- Format validation → Use validation scripts in `scripts/`
+- Single group rename → Direct Edit
+
+---
+
+## Agent Integration Guide
+
+### whole-translator
+**When to use**: Semantic coherence analysis for grouping decisions
+**Command**: `Task(subagent_type='whole-translator', prompt='Analyze semantic grouping coherence for CF[N]')`
+**Expected output**: Semantic similarity analysis, cultural grouping recommendations
+
+### whole-cross-reference
+**When to use**: Validate cross-references after major regrouping
+**Command**: `Task(subagent_type='whole-cross-reference', prompt='Validate cross-references after CF[N] regroup')`
+**Expected output**: Cross-reference validation report, orphaned links detection
+
+### whole-content-validator
+**When to use**: Final validation before committing regrouped content
+**Command**: `Task(subagent_type='whole-content-validator', prompt='Validate regrouped CF[N] structure')`
+**Expected output**: Structure validation report, compliance check
+
+---
+
 ## Workflow
 
 ### /reconcile [N]
@@ -165,16 +212,22 @@ Full regroup workflow khi cần phân tích lại từ đầu.
 ## Critical Rules
 
 ### ✅ MUST
-- Phân tích thực sự cả hai groupings
-- Cho điểm có căn cứ
-- Giải thích reasoning
+- Phân tích thực sự cả hai groupings (analyze both, don't assume)
+- Cho điểm có căn cứ (score with evidence)
+- Giải thích reasoning (explain trade-offs)
 - Preserve all content (only add, never subtract)
+- Use agents for deep semantic analysis when needed
+- Validate with whole-content-validator before commit
+- Use shared utilities from `.claude/skills/shared`
+- Update cross-references after major regrouping
 
 ### ❌ NEVER
-- Giả định B luôn đúng
+- Giả định một bên luôn đúng (assume one side is always right)
 - Skip analysis phase
-- Delete concepts
-- Modify concept content
+- Delete concepts or modify concept content
+- Commit without validation (use scripts or agents)
+- Ignore cross-reference integrity
+- Use agents for simple tasks (prefer scripts)
 
 ---
 
@@ -195,4 +248,4 @@ Load as needed:
 
 ---
 
-**Version:** 5.0.0 | **Philosophy:** Analyze first, decide with reasoning
+**Version:** 5.1.0 | **Philosophy:** Analyze first, decide with reasoning, validate with agents
