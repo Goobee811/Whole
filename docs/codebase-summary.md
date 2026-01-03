@@ -94,6 +94,7 @@ Whole/
 │   ├── codebase-summary.md            # This file - technical structure
 │   ├── skill-reference.md             # Skill documentation (updated v5.1.0)
 │   ├── workflow-guide.md              # User-facing workflow guide
+│   ├── user-prompts-vietnamese.md     # Vietnamese prompt templates for users
 │   ├── system-architecture.md         # Architecture and components
 │   ├── project-roadmap.md             # Future enhancements
 │   ├── troubleshooting.md             # Common issues and solutions
@@ -116,7 +117,6 @@ Whole/
 │   └── verification_report.txt        # Output from verification
 │
 ├── .gitignore                         # Git ignore rules
-├── PROMPT-TEMPLATE-REGROUP.md         # Regroup command template
 └── repomix-output.xml                 # Packed codebase representation
 ```
 
