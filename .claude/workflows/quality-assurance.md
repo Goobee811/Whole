@@ -144,9 +144,30 @@ node .claude/skills/whole-editor/scripts/check-cross-refs.js [num]
 node .claude/skills/whole-editor/scripts/bilingual-check.js [num]
 ```
 
-### Manual Checks (complement to scripts)
+### Agent-Based Deep Analysis (Optional)
 
-When scripts pass but you want extra assurance:
+For complex validations or major edits, invoke specialized agents:
+
+```javascript
+// Comprehensive content validation
+Task(subagent_type: 'whole-content-validator', prompt: 'Validate CF[N]')
+
+// Cross-reference graph analysis
+Task(subagent_type: 'whole-cross-reference', prompt: 'Analyze CF[N] cross-references')
+
+// Translation/terminology consistency
+Task(subagent_type: 'whole-translator', prompt: 'Review CF[N] terminology')
+```
+
+**When to use agents:**
+- After major structural changes
+- Complex cross-reference updates
+- Bilingual terminology consistency audit
+- When scripts pass but deeper analysis needed
+
+### Manual Checks (complement to scripts and agents)
+
+When automated validation passes but you want extra assurance:
 - **Structure**: Review 4-point format visually
 - **Cross-refs**: Verify links navigate correctly
 - **Bilingual**: Check headers match meaning, not just format

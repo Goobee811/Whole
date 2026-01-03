@@ -24,7 +24,11 @@
 
 ### 5. Validation
 - Activate `whole-reviewer`
-- Run full validation
+- Run validation scripts (fast automated checks)
+- Optional: Invoke agents for deep analysis on complex edits
+  - `whole-content-validator` for comprehensive structure validation
+  - `whole-cross-reference` for reference graph analysis
+  - `whole-translator` for terminology consistency
 - Fix any issues
 
 ### 6. Completion
