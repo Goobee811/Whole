@@ -9,22 +9,32 @@
       "action": "E",
       "conceptsAdded": 3,
       "timestamp": "2026-01-03T23:45:00Z"
+    },
+    {
+      "identifier": "CF1-2",
+      "groupName": "Unity, Duality & Ultimate Reality",
+      "domain": "FOUNDATIONS",
+      "functionNumber": 1,
+      "groupNumber": 2,
+      "action": "E",
+      "conceptsAdded": 3,
+      "timestamp": "2026-01-04T00:14:00Z"
     }
   ],
   "lastProcessed": {
-    "identifier": "CF1-1",
-    "timestamp": "2026-01-03T23:45:00Z"
+    "identifier": "CF1-2",
+    "timestamp": "2026-01-04T00:14:00Z"
   },
   "stats": {
     "totalGroups": 371,
-    "processedCount": 1,
+    "processedCount": 2,
     "actionCounts": {
-      "E": 1,
+      "E": 2,
       "R": 0,
       "C": 0,
       "X": 0,
       "V": 0
     },
-    "totalConceptsAdded": 3
+    "totalConceptsAdded": 6
   }
 }
