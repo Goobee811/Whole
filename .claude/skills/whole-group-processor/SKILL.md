@@ -3,8 +3,8 @@ name: whole-group-processor
 description: |
   Xử lý từng GROUP một cách có hệ thống trong Whole Knowledge Architecture.
   Hỗ trợ expand, refine, và enrich nội dung từng nhóm khái niệm.
-  v1.0.0: Initial release với progress tracking và plan template.
-version: 1.0.0
+  v1.1.0: Added --pr, --commit, --dry flags for GitHub workflow automation.
+version: 1.1.0
 license: MIT
 allowed-tools:
   - Edit
@@ -19,7 +19,7 @@ metadata:
   created: "2026-01-03"
 ---
 
-# Whole Group Processor v1.0
+# Whole Group Processor v1.1
 
 **Systematic Group-by-Group Processing** - Xử lý từng nhóm khái niệm một cách có hệ thống với progress tracking.
 
@@ -60,6 +60,53 @@ Skill này cho phép xử lý từng GROUP một cách có hệ thống.
 /group-plan CF5         → Plan for all groups in CF5
 /group-plan 1           → Plan for all groups in Domain 1
 /group-plan all         → Full project plan
+```
+
+---
+
+## Flags
+
+### `--pr` - Auto GitHub PR Flow
+
+Append `--pr` to any command to automatically push, create PR, and merge after completion.
+
+```
+/group 1-1-3 --pr       → Process group + auto PR flow
+/group next --pr        → Process next + auto PR flow
+```
+
+**PR Flow Steps:**
+1. Create feature branch: `claude/group-{identifier}-{timestamp}`
+2. Commit changes with conventional commit message
+3. Push branch to origin
+4. Create PR with auto-generated title and description
+5. Auto-merge PR (if checks pass)
+6. Return to main branch and pull
+
+**Example Output:**
+```
+╔══════════════════════════════════════════════════════════════╗
+║ PR FLOW COMPLETE                                             ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║ Branch:   claude/group-1-1-3-260103                          ║
+║ Commit:   docs(whole): process CF1 group 3                   ║
+║ PR:       #123 - Process CF1-3 Emergence & Creative          ║
+║ Status:   ✓ Merged                                           ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+### `--commit` - Commit only (no PR)
+
+```
+/group 1-1-3 --commit   → Process group + commit to current branch
+```
+
+### `--dry` - Dry run (no changes)
+
+```
+/group 1-1-3 --dry      → Analyze only, show what would change
 ```
 
 ---
@@ -312,6 +359,12 @@ Complex translation          → whole-translator agent
 | `/group-status CF5` | View function progress |
 | `/group-plan CF5` | Create function plan |
 
+| Flag | Effect |
+|------|--------|
+| `--pr` | Auto push, create PR, merge |
+| `--commit` | Commit only (no PR) |
+| `--dry` | Dry run, no changes |
+
 | Action | Code | Description |
 |--------|------|-------------|
 | Expand | E | Add new concepts |
@@ -322,4 +375,4 @@ Complex translation          → whole-translator agent
 
 ---
 
-**Version:** 1.0.0 | **Philosophy:** Systematic, incremental, tracked progress
+**Version:** 1.1.0 | **Philosophy:** Systematic, incremental, tracked progress
