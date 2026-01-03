@@ -527,7 +527,7 @@ Nguyên lý về việc các hệ thống có xu hướng dao động đồng đ
 - **Entrainment**: Sự cuốn theo; xu hướng các nhịp điệu độc lập tự đồng bộ hóa khi chúng tương tác với nhau
 - **Signal Amplification**: Sự khuếch đại tín hiệu xảy ra khi có sự cộng hưởng, làm cho các tín hiệu yếu trở nên mạnh mẽ hơn
 
-→ **Liên kết:** AMPLIFICATION (Synergy & Catalysts), DYNAMICS (Cognitive Dynamics)
+→ **Liên kết:** AMPLIFICATION (Synergy & Catalysts), DYNAMICS (Cognitive Dynamics), INTEGRATION (Synchronization), META (Pattern Recognition), VALIDATION (Signal Detection), CREATION (Harmonic Design)
 
 #### **32. Interference & Dissonance** - Giao Thoa & Bất Hòa
 
@@ -538,7 +538,7 @@ Nguyên lý về việc các sóng hoặc các lực lượng tương tác với
 - **Cognitive Dissonance**: Sự khó chịu về mặt nhận thức khi nắm giữ các niềm tin hoặc giá trị mâu thuẫn
 - **Signal Jamming**: Sự nhiễu loạn hoặc triệt tiêu một tín hiệu bởi một tín hiệu khác
 
-→ **Liên kết:** VALIDATION (Adversarial Testing), CREATION (Creative Tension)
+→ **Liên kết:** VALIDATION (Adversarial Testing), CREATION (Creative Tension), DYNAMICS (Paradox Navigation), TRANSCENDENCE (Dialectics), OPERATIONS (Conflict Resolution), META (Pattern Analysis)
 
 #### **33. Symbiosis & Competition** - Cộng Sinh & Cạnh Tranh
 
@@ -549,7 +549,7 @@ Hai chế độ tương tác cơ bản giữa các tác nhân trong một hệ t
 - **Co-evolution**: Cả cộng sinh và cạnh tranh đều thúc đẩy sự đồng tiến hóa của các tác nhân
 - **Niche Differentiation**: Một kết quả của cạnh tranh là sự khác biệt hóa để chiếm các "ngách" khác nhau, làm giảm xung đột
 
-→ **Liên kết:** AMPLIFICATION (Synergy), OPERATIONS (Game Theory)
+→ **Liên kết:** AMPLIFICATION (Synergy), OPERATIONS (Game Theory), DYNAMICS (Evolution), INTEGRATION (Collaborative Intelligence), NAVIGATION (Strategic Positioning), VALIDATION (Trade-off Analysis)
 
 ---
 
