@@ -29,12 +29,12 @@ Miền này tập hợp các nguyên lý, mô hình tư duy và trí tuệ cốt
 
 Các nguyên lý đầu tiên và tiên đề là những chân lý tự hiển không thể giản lược thêm - nền tảng của mọi suy luận và tri thức. Chúng là các "nguyên tử" của tư duy, từ đó mọi cấu trúc phức tạp hơn được xây dựng. **Cầu nối Theory → Practice:** Xem OPERATIONS (CF11-12: Analytical Reasoning & Problem-Solving) để áp dụng các nguyên lý này vào thực hành; xem CREATION (CF16: Lateral Thinking) để sử dụng sáng tạo.
 
-Bao gồm 52 khái niệm được tổ chức thành 12 nhóm chủ đề:
+Bao gồm 54 khái niệm được tổ chức thành 12 nhóm chủ đề:
 
 1. **Foundational Axioms & Logic** (6): Tiên Đề & Logic Nền Tảng - First Principles, Mathematical Axioms, Set Theory and Logic, Laws of Thought, Modal Logic Systems, Non-Classical Logics
 2. **Unity, Duality & Ultimate Reality** (7): Thống Nhất, Nhị Nguyên & Thực Tại Tối Hậu - Duality & Unity, The Absolute, Monism/Dualism/Pluralism, Being & Becoming, Nondualism (Advaita), The One, Agency & Communion
 3. **Emergence & Creative Principles** (7): Đột Sinh & Nguyên Lý Sáng Tạo - Emergence & Self-Organization, The Creative Principle, Potentiality & Actuality, Evolution & Selection, Dissipative Structures (Prigogine), Autopoiesis, Collective Intelligence & Swarm Behavior
-4. **Causality, Time & Transformation** (4): Nhân Quả, Thời Gian & Chuyển Hóa - Causality & Interdependence, Cycles & Rhythms, Irreversibility & Entropy, Conservation & Transformation
+4. **Causality, Time & Transformation** (6): Nhân Quả, Thời Gian & Chuyển Hóa - Causality & Interdependence, Cycles & Rhythms, Irreversibility & Entropy, Conservation & Transformation, Determinism & Indeterminism, Synchronicity
 5. **System Dynamics & Feedback** (4): Động Lực Hệ Thống & Phản Hồi - Feedback Loops, Inertia & Momentum, Equilibrium & Homeostasis, Gradients & Flow
 6. **Structure, Scale & Organization** (5): Cấu Trúc, Quy Mô & Tổ Chức - Scale & Hierarchy, Recursion & Self-Reference, Hologram, Point, Link
 7. **Boundaries, Constraints & Resources** (2): Ranh Giới, Ràng Buộc & Nguồn Lực - Constraints & Boundaries, Scarcity & Abundance
@@ -395,6 +395,28 @@ Nguyên lý kép rằng trong mọi sự thay đổi, có những thứ được
 - **Permutation**: Sự hoán vị là một dạng chuyển hóa bảo toàn tất cả các yếu tố, chỉ thay đổi vị trí của chúng
 
 → **Liên kết:** DYNAMICS (Transformation Dynamics), CREATION (Pattern Breaking), VALIDATION (Consistency Check), META (System Self-Observation)
+
+#### **15a. Determinism & Indeterminism** - Định Mệnh & Bất Định
+
+Tranh luận triết học cơ bản về liệu tương lai được xác định hoàn toàn bởi quá khứ hay có yếu tố ngẫu nhiên thực sự.
+
+- **Causal Determinism**: Mọi sự kiện là kết quả tất yếu của các điều kiện trước đó - không có gì "có thể khác được"
+- **Quantum Indeterminacy**: Cơ học lượng tử cho thấy một số sự kiện ở cấp vi mô là bất định cơ bản (Heisenberg Uncertainty)
+- **Free Will Problem**: Câu hỏi liệu con người có tự do ý chí nếu vũ trụ là định mệnh - hoặc liệu ngẫu nhiên lượng tử có tạo ra tự do
+- **Statistical Laws vs Strict Laws**: Phân biệt giữa luật tất định (kepler) và luật thống kê (entropy tăng)
+
+→ **Liên kết:** FOUNDATIONS (Causality & Interdependence), TRANSCENDENCE (Paradox Resolution - tự do vs định mệnh), META (Epistemic Humility), VALIDATION (Certainty Gradients), NAVIGATION (Probability & Uncertainty)
+
+#### **15b. Synchronicity** - Đồng Thời Có Nghĩa
+
+Nguyên lý kết nối phi nhân quả của Carl Jung - các sự kiện trùng khớp có ý nghĩa mà không có mối liên hệ nhân quả phát hiện được.
+
+- **Acausal Connecting Principle**: Kết nối không qua nhân quả - các sự kiện liên quan qua ý nghĩa, không phải qua chuỗi nguyên nhân-kết quả
+- **Meaningful Coincidence**: Sự trùng hợp có ý nghĩa sâu sắc - hình ảnh tâm lý nội tại trùng với tình huống khách quan bên ngoài
+- **Psyche-Matter Bridge**: Cầu nối giữa tâm linh và vật chất - thế giới nội tại và ngoại tại phản chiếu lẫn nhau
+- **Transformative Impact**: Tác động chuyển hóa - trải nghiệm đồng thời thường có hiệu ứng tâm lý sâu sắc
+
+→ **Liên kết:** FOUNDATIONS (Causality & Interdependence - Acausal Connection đã đề cập), TRANSCENDENCE (Unity Consciousness - kết nối sâu xa), META (Pattern Recognition, Intuition), NAVIGATION (Meaningful Pattern Detection), DYNAMICS (Emergence)
 
 ---
 
