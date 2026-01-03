@@ -29,9 +29,9 @@ Miền này tập hợp các nguyên lý, mô hình tư duy và trí tuệ cốt
 
 Các nguyên lý đầu tiên và tiên đề là những chân lý tự hiển không thể giản lược thêm - nền tảng của mọi suy luận và tri thức. Chúng là các "nguyên tử" của tư duy, từ đó mọi cấu trúc phức tạp hơn được xây dựng. **Cầu nối Theory → Practice:** Xem OPERATIONS (CF11-12: Analytical Reasoning & Problem-Solving) để áp dụng các nguyên lý này vào thực hành; xem CREATION (CF16: Lateral Thinking) để sử dụng sáng tạo.
 
-Bao gồm 43 khái niệm được tổ chức thành 12 nhóm chủ đề:
+Bao gồm 46 khái niệm được tổ chức thành 12 nhóm chủ đề:
 
-1. **Foundational Axioms & Logic** (3): Tiên Đề & Logic Nền Tảng - First Principles, Mathematical Axioms, Set Theory and Logic
+1. **Foundational Axioms & Logic** (6): Tiên Đề & Logic Nền Tảng - First Principles, Mathematical Axioms, Set Theory and Logic, Laws of Thought, Modal Logic Systems, Non-Classical Logics
 2. **Unity, Duality & Ultimate Reality** (4): Thống Nhất, Nhị Nguyên & Thực Tại Tối Hậu - Duality & Unity, The Absolute, The One, Agency & Communion
 3. **Emergence & Creative Principles** (4): Đột Sinh & Nguyên Lý Sáng Tạo - Emergence & Self-Organization, The Creative Principle, Potentiality & Actuality, Evolution & Selection
 4. **Causality, Time & Transformation** (4): Nhân Quả, Thời Gian & Chuyển Hóa - Causality & Interdependence, Cycles & Rhythms, Irreversibility & Entropy, Conservation & Transformation
@@ -82,6 +82,39 @@ Nền tảng toán học của tư duy hình thức và cấu trúc.
 - **Mathematical Structures**: Các cấu trúc toán học cơ bản
 
 → **Liên kết:** OPERATIONS (Formal & Computational Methods), FOUNDATIONS (Universal Laws & Patterns), DYNAMICS (System Evolution Patterns)
+
+#### **4. Laws of Thought** - Các Định Luật Tư Duy
+
+Ba nguyên lý logic cơ bản chi phối mọi suy luận hợp lý - nền tảng của logic cổ điển.
+
+- **Law of Identity (a = a)**: Mọi sự vật đồng nhất với chính nó - "A là A", không thể là cái khác
+- **Law of Non-Contradiction (¬(p ∧ ¬p))**: Một mệnh đề không thể vừa đúng vừa sai cùng lúc trong cùng một ý nghĩa
+- **Law of Excluded Middle (p ∨ ¬p)**: Mỗi mệnh đề phải hoặc đúng hoặc sai, không có trung gian
+- **Principle of Bivalence**: Mọi mệnh đề có đúng một giá trị chân lý - nền tảng cho logic hai giá trị
+
+→ **Liên kết:** OPERATIONS (Analytical Reasoning & Logic), VALIDATION (Truth & Falsification), TRANSCENDENCE (Paradox Resolution - thách thức với nghịch lý), META (Critical Thinking)
+
+#### **5. Modal Logic Systems** - Các Hệ Logic Tình Thái
+
+Hệ thống logic mở rộng xử lý các khái niệm về khả năng, tất yếu, thời gian, và nghĩa vụ.
+
+- **Necessity & Possibility (□p, ◇p)**: Logic về điều tất yếu phải xảy ra và điều có thể xảy ra
+- **Temporal Logic**: Logic về thời gian - quá khứ, hiện tại, tương lai, và quan hệ thời gian
+- **Deontic Logic**: Logic về nghĩa vụ, cho phép, và cấm đoán - nền tảng của suy luận đạo đức
+- **Epistemic & Doxastic Logic**: Logic về tri thức (epistemic) và niềm tin (doxastic)
+
+→ **Liên kết:** FOUNDATIONS (Causality & Interdependence - temporal), NAVIGATION (Possibility Exploration), VALIDATION (Certainty Gradients), META (Epistemic Humility)
+
+#### **6. Non-Classical Logics** - Các Hệ Logic Phi Cổ Điển
+
+Các hệ thống logic từ chối một hoặc nhiều nguyên lý của logic cổ điển để xử lý tình huống phức tạp hơn.
+
+- **Intuitionistic Logic**: Từ chối Law of Excluded Middle - chân lý phải được chứng minh constructively
+- **Paraconsistent Logic**: Cho phép mâu thuẫn mà không suy ra mọi thứ - xử lý thông tin không nhất quán
+- **Fuzzy Logic**: Logic đa giá trị với độ chân lý từ 0 đến 1 - xử lý sự mơ hồ và bất định
+- **Relevance Logic**: Yêu cầu mối liên hệ có ý nghĩa giữa tiền đề và kết luận
+
+→ **Liên kết:** TRANSCENDENCE (Paradox Resolution, Both/And Thinking), FOUNDATIONS (Polarity & Spectrum), DYNAMICS (Ambiguity Tolerance), NAVIGATION (Uncertainty Navigation)
 
 ---
 
