@@ -465,7 +465,7 @@ Hai thành phần cơ bản cấu tạo nên thực tại và các hệ thống 
 - **Entropy & Negentropy**: Xu hướng tự nhiên hướng tới sự hỗn loạn (entropy) và xu hướng của các hệ thống sống tạo ra trật tự (negentropy)
 - **Signal-Noise Ratio**: Tỷ lệ giữa thông tin hữu ích (tín hiệu) và thông tin vô ích (nhiễu)
 
-→ **Liên kết:** DYNAMICS (System Dynamics), VALIDATION (Signal-Noise Separation)
+→ **Liên kết:** DYNAMICS (System Dynamics), VALIDATION (Signal-Noise Separation), AMPLIFICATION (Network Effects), META (Pattern Recognition), CREATION (Generative Systems)
 
 #### **28. Signal & Noise** - Tín Hiệu & Nhiễu
 
@@ -476,7 +476,7 @@ Nguyên lý cơ bản rằng thông tin bao gồm các mẫu hình có ý nghĩa
 - **Signal-to-Noise Ratio (SNR)**: Tỷ lệ giữa sức mạnh của tín hiệu và sức mạnh của nhiễu, một thước đo quan trọng về chất lượng thông tin
 - **Filtering & Extraction**: Thao tác cốt lõi là lọc bỏ nhiễu để trích xuất tín hiệu
 
-→ **Liên kết:** VALIDATION (Signal-Noise Separation), OPERATIONS (Analytical Tools)
+→ **Liên kết:** VALIDATION (Signal-Noise Separation), OPERATIONS (Analytical Tools), INTEGRATION (Knowledge Synthesis), META (Meta-Cognition), NAVIGATION (Context Sensing)
 
 ---
 
