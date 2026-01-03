@@ -138,7 +138,7 @@ When evaluating duplicates:
 - `/edit [section-path]` - Start editing session
 - `/expand [domain] [function] [topic]` - Add new concepts
 - `/regroup [function-number]` - ⚡ Regroup CHỨC NĂNG (full regroup workflow)
-- `/reconcile [function-number]` - 🔄 Sync Tổng Quan ↔ Content mismatch (v5.0.0)
+- `/reconcile [function-number]` - 🔄 Sync Tổng Quan ↔ Content mismatch (v5.1.0)
 
 ## Style Preferences
 - Formal yet accessible tone
