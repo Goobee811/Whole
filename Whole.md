@@ -29,13 +29,13 @@ Miền này tập hợp các nguyên lý, mô hình tư duy và trí tuệ cốt
 
 Các nguyên lý đầu tiên và tiên đề là những chân lý tự hiển không thể giản lược thêm - nền tảng của mọi suy luận và tri thức. Chúng là các "nguyên tử" của tư duy, từ đó mọi cấu trúc phức tạp hơn được xây dựng. **Cầu nối Theory → Practice:** Xem OPERATIONS (CF11-12: Analytical Reasoning & Problem-Solving) để áp dụng các nguyên lý này vào thực hành; xem CREATION (CF16: Lateral Thinking) để sử dụng sáng tạo.
 
-Bao gồm 54 khái niệm được tổ chức thành 12 nhóm chủ đề:
+Bao gồm 57 khái niệm được tổ chức thành 12 nhóm chủ đề:
 
 1. **Foundational Axioms & Logic** (6): Tiên Đề & Logic Nền Tảng - First Principles, Mathematical Axioms, Set Theory and Logic, Laws of Thought, Modal Logic Systems, Non-Classical Logics
 2. **Unity, Duality & Ultimate Reality** (7): Thống Nhất, Nhị Nguyên & Thực Tại Tối Hậu - Duality & Unity, The Absolute, Monism/Dualism/Pluralism, Being & Becoming, Nondualism (Advaita), The One, Agency & Communion
 3. **Emergence & Creative Principles** (7): Đột Sinh & Nguyên Lý Sáng Tạo - Emergence & Self-Organization, The Creative Principle, Potentiality & Actuality, Evolution & Selection, Dissipative Structures (Prigogine), Autopoiesis, Collective Intelligence & Swarm Behavior
 4. **Causality, Time & Transformation** (6): Nhân Quả, Thời Gian & Chuyển Hóa - Causality & Interdependence, Cycles & Rhythms, Irreversibility & Entropy, Conservation & Transformation, Determinism & Indeterminism, Synchronicity
-5. **System Dynamics & Feedback** (4): Động Lực Hệ Thống & Phản Hồi - Feedback Loops, Inertia & Momentum, Equilibrium & Homeostasis, Gradients & Flow
+5. **System Dynamics & Feedback** (7): Động Lực Hệ Thống & Phản Hồi - Feedback Loops, Inertia & Momentum, Equilibrium & Homeostasis, Gradients & Flow, Accumulation & Depletion, Circular Causality, Time Delays & Temporal Separation
 6. **Structure, Scale & Organization** (5): Cấu Trúc, Quy Mô & Tổ Chức - Scale & Hierarchy, Recursion & Self-Reference, Hologram, Point, Link
 7. **Boundaries, Constraints & Resources** (2): Ranh Giới, Ràng Buộc & Nguồn Lực - Constraints & Boundaries, Scarcity & Abundance
 8. **Energy, Information & Flow** (2): Năng Lượng, Thông Tin & Dòng Chảy - Energy & Information, Signal & Noise
@@ -472,6 +472,39 @@ Nguyên lý rằng dòng chảy (năng lượng, thông tin, tài nguyên) xảy
 - **Optimization Driver**: Di chuyển theo gradient là một cơ chế tối ưu hóa tự nhiên
 
 → **Liên kết:** DYNAMICS (System Dynamics), NAVIGATION (Flow Optimization), AMPLIFICATION (Network Effects), OPERATIONS (Analytical Reasoning)
+
+#### **19a. Accumulation & Depletion** - Tích Lũy & Cạn Kiệt
+
+Nguyên lý nền tảng về cách các đại lượng (stocks) thay đổi theo thời gian thông qua các dòng vào (inflows) và dòng ra (outflows) - cốt lõi của động lực học hệ thống.
+
+- **Stock Variables**: Các biến tích lũy - đại lượng được đo tại một thời điểm (ví dụ: lượng nước trong bể, vốn trong tài khoản)
+- **Flow Variables**: Các biến dòng chảy - tốc độ thay đổi theo thời gian (ví dụ: dòng chảy vào/ra, thu nhập/chi tiêu)
+- **Accumulation Dynamics**: Động lực tích lũy - khi inflow > outflow, stock tăng; ngược lại stock giảm
+- **Depletion & Regeneration**: Cạn kiệt và tái tạo - sự cân bằng giữa sử dụng và bổ sung quyết định tính bền vững
+
+→ **Liên kết:** OPERATIONS (Systems Thinking - stocks & flows), DYNAMICS (System Dynamics - stock & flow modeling), FOUNDATIONS (Conservation & Transformation), VALIDATION (Resource Monitoring)
+
+#### **19b. Circular Causality** - Nhân Quả Vòng Tròn
+
+Nguyên lý phân biệt hệ thống với chuỗi nhân quả tuyến tính: trong hệ thống, nguyên nhân và kết quả tạo thành vòng lặp khép kín, nơi A ảnh hưởng B, và B quay lại ảnh hưởng A.
+
+- **Reciprocal Influence**: Ảnh hưởng qua lại - không có "điểm đầu" hoặc "điểm cuối" rõ ràng, mỗi yếu tố vừa là nguyên nhân vừa là kết quả
+- **Feedback Loop Formation**: Hình thành vòng lặp phản hồi - circular causality là nền tảng của mọi vòng lặp củng cố và cân bằng
+- **System Behavior Emergence**: Hành vi hệ thống đột sinh - từ nhân quả vòng tròn, các mẫu hành vi phức tạp xuất hiện không thể dự đoán từ các phần riêng lẻ
+- **Breaking Linear Thinking**: Phá vỡ tư duy tuyến tính - nhận ra rằng "giải pháp" có thể tạo ra "vấn đề" trong một vòng lặp
+
+→ **Liên kết:** FOUNDATIONS (Feedback Loops #16 - ứng dụng trực tiếp), META (Causality Patterns - meta-recognition), OPERATIONS (Causal Analysis), TRANSCENDENCE (Paradox Resolution - vượt qua nhân quả tuyến tính)
+
+#### **19c. Time Delays & Temporal Separation** - Độ Trễ Thời Gian & Phân Cách Thời Gian
+
+Nguyên lý rằng trong hệ thống, nguyên nhân và kết quả thường được tách rời bởi một khoảng thời gian - tạo ra độ trễ gây khó khăn cho việc nhận ra mối liên hệ và điều chỉnh hành vi.
+
+- **Action-Result Gap**: Khoảng cách hành động-kết quả - thời gian trễ giữa khi một hành động được thực hiện và khi tác động của nó được nhìn thấy
+- **Oscillation & Instability**: Dao động và bất ổn - độ trễ là nguyên nhân chính của dao động trong hệ thống (overshoot, undershoot)
+- **Delayed Feedback**: Phản hồi chậm trễ - thông tin về kết quả đến quá muộn để điều chỉnh kịp thời, dẫn đến quyết định sai
+- **Long-Term vs Short-Term**: Dài hạn vs. ngắn hạn - độ trễ tạo ra sự mâu thuẫn giữa lợi ích ngắn hạn và hậu quả dài hạn
+
+→ **Liên kết:** FOUNDATIONS (Feedback Loops #16 - loop delay), DYNAMICS (System Dynamics - delays modeling), NAVIGATION (Long-Term Thinking), VALIDATION (Lag Indicators), OPERATIONS (Temporal Reasoning)
 
 ---
 

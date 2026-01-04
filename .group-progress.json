@@ -39,22 +39,32 @@
       "action": "E",
       "conceptsAdded": 2,
       "timestamp": "2026-01-04T00:30:00Z"
+    },
+    {
+      "identifier": "CF1-5",
+      "groupName": "System Dynamics & Feedback",
+      "domain": "FOUNDATIONS",
+      "functionNumber": 1,
+      "groupNumber": 5,
+      "action": "E",
+      "conceptsAdded": 3,
+      "timestamp": "2026-01-04T03:10:00Z"
     }
   ],
   "lastProcessed": {
-    "identifier": "CF1-4",
-    "timestamp": "2026-01-04T00:30:00Z"
+    "identifier": "CF1-5",
+    "timestamp": "2026-01-04T03:10:00Z"
   },
   "stats": {
     "totalGroups": 371,
-    "processedCount": 4,
+    "processedCount": 5,
     "actionCounts": {
-      "E": 4,
+      "E": 5,
       "R": 0,
       "C": 0,
       "X": 0,
       "V": 0
     },
-    "totalConceptsAdded": 11
+    "totalConceptsAdded": 14
   }
 }
